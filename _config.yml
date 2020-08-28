@@ -1,7 +1,7 @@
 # (string) Title of your wiki
-title: 
+title: Civ13 Wiki
 # (string) Description of your wiki
-description: 
+description:
 # (boolean) Enable/disable wiki page list in sidebar
 show_wiki_pages: true
 # (integer) Maximum number of wiki page to shown in sidebar
