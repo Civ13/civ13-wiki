@@ -1,5 +1,5 @@
 ---
-redirect_from: "/"
+title: Civ13 Wiki
 ---
 
 This is a sample of main page. You can edit it to start your wiki.
