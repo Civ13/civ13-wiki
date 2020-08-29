@@ -1,12 +1,4 @@
-__NOTOC__
-
-<div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
-
-<https://i.imgur.com/napac0L.png">
-
-</div>
-
-<div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+<img src="https://i.imgur.com/napac0L.png">
 
 ***<big>What is this?</big>***
 
@@ -19,19 +11,15 @@ main one being [Civilizations](Civilizations_and_Nomads "wikilink"), in
 which you need to bring your civilization from the Stone Age to the
 Modern Age.
 
-<font color='#7F0000'>**If you would like to contribute, contact us so
-we can open a registation slot for you\! We need to keep it closed due
-to spambots.**</font>
+```html
+<font color='#7F0000'>**To contribute, edit a page using the links on the top right. You will need a github account**</font>
+```
 
-<big>**[Official Server](https://1713.eu/server) |
+**[Official Server](https://1713.eu/server) |
 [Discord](https://discord.gg/hBEtg4x) |
 [Github](https://github.com/Civ13-SS13/Civ13) | [Русская версия \\
-Russian version](Русская_версия_/_Russian_version "wikilink")**</big>
+Russian version](Русская_версия_/_Russian_version "wikilink")**
 
-`As of now we have `[`   ``pages``   ``(``
- ``articles)`](Special:Statistics "wikilink")
-
-</div>
 
 ## Getting started
 
@@ -142,25 +130,18 @@ gol](Khalkhyn_gol "wikilink")**
 
 Cold War and and Proxy wars.
 
-**TDM: [Compound](Compound "wikilink")** - '''[Road to
-Dak-to](Road_to_Dak-to "wikilink")
+**TDM:** [Compound](Compound "wikilink") - [Road toDak-to](Road_to_Dak-to "wikilink")
 
 ### 2013 A.D.
 
 War on Terror and Political conflict.
 
-`'''TDM: `**[`Arab``
- ``Town`](Arab_Town "wikilink")**` - `**[`Hostages`](Hostages "wikilink")**
+**TDM:** [Arab Town](Arab_Town "wikilink") - [`Hostages`](Hostages "wikilink")
 
 ## Media and other things
 
-[Games](Games "wikilink") (similar games and inspirations) | [Русская
-версия \\ Russian
-version](Русская_версия_/_Russian_version "wikilink")
+[Games](Games "wikilink") (similar games and inspirations) | [Русская версия \\ Russian version](Русская_версия_/_Russian_version "wikilink")
 
-<div style="box-shadow: 0 0 .3em #999; border-radius: .2em; margin: 1em 0 2em 0; padding: 1px;">
-
-<div style="background: #{{{color|888}}}; border-radius: .2em; color: #FFF; padding: .4em .8em .5em;">
 
   ****
 
