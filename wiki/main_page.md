@@ -15,10 +15,9 @@ Modern Age.
 <span color="#7F0000">To contribute, edit a page using the links on the top right. You will need a github account</span>
 
 
-**[Official Server](https://1713.eu/server) |
+**[Official Server](https://civ13.com/server) |
 [Discord](https://discord.gg/hBEtg4x) |
-[Github](https://github.com/Civ13-SS13/Civ13) | [Русская версия \\
-Russian version](Русская_версия_/_Russian_version "wikilink")**
+[Github](https://github.com/Civ13/Civ13)**
 
 
 ## Getting started
@@ -30,7 +29,7 @@ Russian version](Русская_версия_/_Russian_version "wikilink")**
 Guide to [Civilizations and Nomads](Civilizations_and_Nomads "wikilink")
 mode
 
-[Guide to Races/Species](Guide_to_Races/Species "wikilink")
+[Guide to Races/Species](Guide_to_Races "wikilink")
 
 [Guide to Medical](Guide_to_Medical "wikilink")
 
@@ -141,14 +140,3 @@ War on Terror and Political conflict.
 ## Media and other things
 
 [Games](Games "wikilink") (similar games and inspirations) | [Русская версия \\ Russian version](Русская_версия_/_Russian_version "wikilink")
-
-
-  ****
-
-</div>
-
-<div style="padding: 1em;">
-
-</div>
-
-</div>
