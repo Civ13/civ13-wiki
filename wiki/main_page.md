@@ -12,7 +12,7 @@ which you need to bring your civilization from the Stone Age to the
 Modern Age.
 
 
-<span color="#7F0000">To contribute, edit a page using the links on the top right. You will need a github account</span>
+<span style="color:#7F0000;">To contribute, edit a page using the links on the top right. You will need a github account</span>
 
 
 **[Official Server](https://civ13.com/server) | [Discord](https://discord.gg/hBEtg4x) | [Github](https://github.com/Civ13/Civ13)**
