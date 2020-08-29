@@ -2,7 +2,7 @@ __NOTOC__
 
 <div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
 
-<https://i.imgur.com/napac0L.png>
+<https://i.imgur.com/napac0L.png">
 
 </div>
 

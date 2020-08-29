@@ -956,7 +956,7 @@ that see the **[Guide to Chemistry](Guide_to_Chemistry "wikilink")**.
 
 <center>
 
-<https://cdn.discordapp.com/attachments/439888081231937552/647457170199150604/musketball.png>
+<https://cdn.discordapp.com/attachments/439888081231937552/647457170199150604/musketball.png">
 
 </center>
 
@@ -971,7 +971,7 @@ that see the **[Guide to Chemistry](Guide_to_Chemistry "wikilink")**.
 
 <center>
 
-<https://cdn.discordapp.com/attachments/439888081231937552/647457236464959498/blunderbuss.png>
+<https://cdn.discordapp.com/attachments/439888081231937552/647457236464959498/blunderbuss.png">
 
 </center>
 
@@ -986,7 +986,7 @@ that see the **[Guide to Chemistry](Guide_to_Chemistry "wikilink")**.
 
 <center>
 
-<https://cdn.discordapp.com/attachments/439888081231937552/647457207096442891/musketball_pistol.png>
+<https://cdn.discordapp.com/attachments/439888081231937552/647457207096442891/musketball_pistol.png">
 
 </center>
 
@@ -1009,7 +1009,7 @@ that see the **[Guide to Chemistry](Guide_to_Chemistry "wikilink")**.
 
 <center>
 
-<https://cdn.discordapp.com/attachments/439888081231937552/647459851433410560/projectile_musketball.png>
+<https://cdn.discordapp.com/attachments/439888081231937552/647459851433410560/projectile_musketball.png">
 
 </center>
 
@@ -1023,7 +1023,7 @@ that see the **[Guide to Chemistry](Guide_to_Chemistry "wikilink")**.
 
 <center>
 
-<https://cdn.discordapp.com/attachments/439888081231937552/647459903035801600/projectile_blunderbuss.png>
+<https://cdn.discordapp.com/attachments/439888081231937552/647459903035801600/projectile_blunderbuss.png">
 
 </center>
 
@@ -1037,7 +1037,7 @@ that see the **[Guide to Chemistry](Guide_to_Chemistry "wikilink")**.
 
 <center>
 
-<https://cdn.discordapp.com/attachments/439888081231937552/647459938070691851/projectile_musketball_pistol.png>
+<https://cdn.discordapp.com/attachments/439888081231937552/647459938070691851/projectile_musketball_pistol.png">
 
 </center>
 
@@ -1483,9 +1483,9 @@ Made with 6 stones.
 
 <big><u>**Egyptian**</u></big>
 Made with 6 sandstones.
-<https://cdn.discordapp.com/attachments/439888081231937552/705415064550637669/townsite_city_region_hieroglyph.png>
-<https://cdn.discordapp.com/attachments/439888081231937552/705417663979192381/o33.png>
-<https://cdn.discordapp.com/attachments/439888081231937552/705420060130410597/a35.png>
+<https://cdn.discordapp.com/attachments/439888081231937552/705415064550637669/townsite_city_region_hieroglyph.png">
+<https://cdn.discordapp.com/attachments/439888081231937552/705417663979192381/o33.png">
+<https://cdn.discordapp.com/attachments/439888081231937552/705420060130410597/a35.png">
 For the archway, directions N and W are also available (icons will be
 mirrored accordingly.)
 
@@ -2281,7 +2281,7 @@ The image below shows the roof area supported by either a roof support
 (pillars and columns support the same area) or a wall (all walls support
 the same area.)
 
-<https://cdn.discordapp.com/attachments/439888081231937552/647786671718268929/roof_area.png>
+<https://cdn.discordapp.com/attachments/439888081231937552/647786671718268929/roof_area.png">
 
 There is a variety of roofs to build from different materials (see below
 - hover the mouse cursor over a roof builder's icon to see the cost and
@@ -3662,7 +3662,7 @@ electrical cables.
 
 |                                                                                            |                                                                                            |                                                                                            |                                                                                            |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
-| <https://cdn.discordapp.com/attachments/439888081231937552/673647418675560542/wiring1.png> | <https://cdn.discordapp.com/attachments/439888081231937552/673647421980409856/wiring2.png> | <https://cdn.discordapp.com/attachments/439888081231937552/673647424694255659/wiring3.png> | <https://cdn.discordapp.com/attachments/439888081231937552/673647427445587999/wiring4.png> |
+| <https://cdn.discordapp.com/attachments/439888081231937552/673647418675560542/wiring1.png"> | <https://cdn.discordapp.com/attachments/439888081231937552/673647421980409856/wiring2.png"> | <https://cdn.discordapp.com/attachments/439888081231937552/673647424694255659/wiring3.png"> | <https://cdn.discordapp.com/attachments/439888081231937552/673647427445587999/wiring4.png"> |
 | <big>**1**</big>                                                                           | <big>**2**</big>                                                                           | <big>**3**</big>                                                                           | <big>**4**</big>                                                                           |
 
   -
@@ -3727,7 +3727,7 @@ While selecting a place for shipbuilding, keep in mind the following:
 
 |                                                                                          |                                                                                          |                                                                                          |                                                                                          |
 | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| <https://cdn.discordapp.com/attachments/439888081231937552/648541590918529046/ship1.png> | <https://cdn.discordapp.com/attachments/439888081231937552/672413411178577940/ship2.png> | <https://cdn.discordapp.com/attachments/439888081231937552/648541708350390272/ship3.png> | <https://cdn.discordapp.com/attachments/439888081231937552/648541846867279896/ship4.png> |
+| <https://cdn.discordapp.com/attachments/439888081231937552/648541590918529046/ship1.png"> | <https://cdn.discordapp.com/attachments/439888081231937552/672413411178577940/ship2.png"> | <https://cdn.discordapp.com/attachments/439888081231937552/648541708350390272/ship3.png"> | <https://cdn.discordapp.com/attachments/439888081231937552/648541846867279896/ship4.png"> |
 | <big>**1**</big>                                                                         | <big>**2**</big>                                                                         | <big>**3**</big>                                                                         | <big>**4**</big>                                                                         |
 
 **You can fix the walls and frames and the mast in place with the wrench
@@ -3753,7 +3753,7 @@ to avoid pushing them on accident, but it is not necessary.**
         built when facing North:
     <!-- end list -->
       -
-        <https://cdn.discordapp.com/attachments/439888081231937552/648541746212503572/ship31.png>
+        <https://cdn.discordapp.com/attachments/439888081231937552/648541746212503572/ship31.png">
 4.  **Build a ship rudder axis at the top left corner of the ship.**
     There are two axes, but for now you can always select a regular axis
     with 2500 carried weight. Click the axis to finish building the
@@ -3795,9 +3795,9 @@ function properly due to technical reasons.
 
 |                                                                                            |                                                                                            |                                                                                          |                                                                                          |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| <https://cdn.discordapp.com/attachments/439888081231937552/706149487298478171/tank1.png>   | <https://cdn.discordapp.com/attachments/439888081231937552/706149495280500766/tank2_l.png> | <https://cdn.discordapp.com/attachments/439888081231937552/706149503517982841/tank3.png> | <https://cdn.discordapp.com/attachments/439888081231937552/706149510711214150/tank4.png> |
+| <https://cdn.discordapp.com/attachments/439888081231937552/706149487298478171/tank1.png">   | <https://cdn.discordapp.com/attachments/439888081231937552/706149495280500766/tank2_l.png"> | <https://cdn.discordapp.com/attachments/439888081231937552/706149503517982841/tank3.png"> | <https://cdn.discordapp.com/attachments/439888081231937552/706149510711214150/tank4.png"> |
 | <big>**1**</big>                                                                           | <big>**2**</big>                                                                           | <big>**3**</big>                                                                         | <big>**4**</big>                                                                         |
-| <https://cdn.discordapp.com/attachments/439888081231937552/706149518823129108/tank5_l.png> | <https://cdn.discordapp.com/attachments/439888081231937552/706149525420638218/tank6_l.png> | <https://cdn.discordapp.com/attachments/439888081231937552/706114475585175582/tank7.png> | <https://cdn.discordapp.com/attachments/439888081231937552/706114482576949258/tank8.png> |
+| <https://cdn.discordapp.com/attachments/439888081231937552/706149518823129108/tank5_l.png"> | <https://cdn.discordapp.com/attachments/439888081231937552/706149525420638218/tank6_l.png"> | <https://cdn.discordapp.com/attachments/439888081231937552/706114475585175582/tank7.png"> | <https://cdn.discordapp.com/attachments/439888081231937552/706114482576949258/tank8.png"> |
 | <big>**5**</big>                                                                           | <big>**6**</big>                                                                           | <big>**7**</big>                                                                         | <big>**8**</big>                                                                         |
 
 **Everything inside the tank, except for the tank tracks and the vehicle

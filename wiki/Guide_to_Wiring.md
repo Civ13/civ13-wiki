@@ -3,7 +3,7 @@
 So you're the unlucky guy trying to wire eh? Don't worry, i'll get you
 through this kid. Lets start with the basics. Picture of basic power
 setup (iron furnace and steam generator)
-<https://cdn.discordapp.com/attachments/468980363239358464/638065638740328448/unknown.png>
+<https://cdn.discordapp.com/attachments/468980363239358464/638065638740328448/unknown.png">
 
 #### Basics
 
