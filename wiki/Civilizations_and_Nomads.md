@@ -164,7 +164,7 @@ different biomes, detailed below.
 
 #### Temperate
 
-<img src=https://cdn.discordapp.com/attachments/468979034571931650/524450345569484802/unknown.png height=300></img>
+<img src=https://cdn.discordapp.com/attachments/468979034571931650/524450345569484802/unknown.png" height=300>
 
 This is the classic map, using the same map as the Civilizations map.
 
@@ -193,7 +193,7 @@ It has four Seasons, and they will rotate every 30 minutes.
 
 #### Desert
 
-<img src=https://cdn.discordapp.com/attachments/468979034571931650/524449668181131284/unknown.png height=300></img>
+<img src=https://cdn.discordapp.com/attachments/468979034571931650/524449668181131284/unknown.png" height=300>
 
   - In this map, the whole area is a desert with some sparse water
     sources and farming plots.
@@ -213,7 +213,7 @@ There are two seasons:
 
 #### Ice Age
 
-<img src=https://cdn.discordapp.com/attachments/468979034571931650/524444327166869504/unknown.png height=300></img>
+<img src=https://cdn.discordapp.com/attachments/468979034571931650/524444327166869504/unknown.png" height=300>
 
   - In this map, the whole area is covered in snow all year round.
     Resources (including wood, animals and minerals) are rare here, and
@@ -234,7 +234,7 @@ There are two seasons:
 
 #### Jungle
 
-<img src="https://cdn.discordapp.com/attachments/514547439215312916/534500616265924618/5nbewoIg42UAAAAASUVORK5CYII.png" height=300></img>
+<img src="https://cdn.discordapp.com/attachments/514547439215312916/534500616265924618/5nbewoIg42UAAAAASUVORK5CYII.png" height=300>
 
 A dense tropical rainforest. It has two seasons, wet (where it rains all
 the time and rivers flood) and dry (where fertile floodplains are
