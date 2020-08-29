@@ -22,7 +22,7 @@ show_downloads: true
 git_branch: "master"
 # (string) Url of logo image, it can be full, absolute or relative.
 logo_url: 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/civ13-wiki" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
 google_analytics: 
