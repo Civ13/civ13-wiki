@@ -12,7 +12,7 @@ which you need to bring your civilization from the Stone Age to the
 Modern Age.
 
 ```html
-<font color='#7F0000'>**To contribute, edit a page using the links on the top right. You will need a github account**</font>
+<p color='#7F0000'>**To contribute, edit a page using the links on the top right. You will need a github account**</p>
 ```
 
 **[Official Server](https://1713.eu/server) |

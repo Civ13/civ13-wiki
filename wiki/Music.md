@@ -10,4 +10,4 @@ Other SS13 games use the same system, you can get some more music here:
 
 ## Hava Nagila
 
-<font size="1">
+<p size="1">
