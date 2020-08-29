@@ -17,7 +17,7 @@ Modern Age.
 <span style="color:#7F0000;">To contribute, edit a page using the links on the top right. You will need a github account. For more information check the guide [here](Contributing_to_the_Wiki "wikilink").</span>
 
 
-**[Official Server](https://civ13.com/server) | [Discord](https://discord.gg/hBEtg4x) | [Github](https://github.com/Civ13/Civ13)**
+<b>[Official Server](https://civ13.com/server) | [Discord](https://discord.gg/hBEtg4x) | [Github](https://github.com/Civ13/Civ13)</b>
 
 
 ## Getting started
