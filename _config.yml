@@ -147,4 +147,5 @@ inc_before_post_list :
 inc_after_post_list :
 
 github: civ13
-repository: Civ13/civ13-wiki
+repository_nwo: Civ13/civ13-wiki
+repository_url: https://github.com/Civ13/civ13-wiki
