@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/napac0L.png">
 
-***<big>What is this?</big>***
+<h2>***What is this?***</h2>
 
 Civilization 13 (formerly 1713) is a game based on Space Station 13 code
 and using the BYOND platform, which features several epochs of human
@@ -11,9 +11,9 @@ main one being [Civilizations](Civilizations_and_Nomads "wikilink"), in
 which you need to bring your civilization from the Stone Age to the
 Modern Age.
 
-```html
+
 <p color='#7F0000'>**To contribute, edit a page using the links on the top right. You will need a github account**</p>
-```
+
 
 **[Official Server](https://1713.eu/server) |
 [Discord](https://discord.gg/hBEtg4x) |
