@@ -15,18 +15,18 @@ Some selected colors, that suit the game.
 
 | Name           | Hexcode | Example |
 | -------------- | ------- | ------- |
-| Feldgrau (WW1) | 5D5D3D  |<span style="background-color:#5D5D3D;">         </span>|
-| Feldgrau (WW2) | 4D5D53  |<span style="background-color:#4D5D53;">         </span>|
-| Light Khaki    | F0E68C  |<span style="background-color:#F0E68C;">         </span>|
-| Dark Khaki     | BDB76B  |<span style="background-color:#BDB76B;">         </span>|
-| Olive Drab     | 555346  |<span style="background-color:#555346;">         </span>|
-| Red            | 7F0000  |<span style="background-color:#7F0000;">         </span>|
-| Green          | 007F00  |<span style="background-color:#007F00;">         </span>|
-| Blue           | 00007F  |<span style="background-color:#00007F;">         </span>|
-| Black          | 000000  |<span style="background-color:#000000;">         </span>|
-| White          | FFFFFF  |<span style="background-color:#FFFFFF;">         </span>|
-| Gold           | FFD700  |<span style="background-color:#FFD700;">         </span>|
-| Silver         | C0C0C0  |<span style="background-color:#C0C0C0;">         </span>|
+| Feldgrau (WW1) | 5D5D3D  |<span style="color=#5D5D3D;background-color:#5D5D3D;">-----</span>|
+| Feldgrau (WW2) | 4D5D53  |<span style="color=#4D5D53;background-color:#4D5D53;">-----</span>|
+| Light Khaki    | F0E68C  |<span style="color=#F0E68C;background-color:#F0E68C;">-----</span>|
+| Dark Khaki     | BDB76B  |<span style="color=#BDB76B;background-color:#BDB76B;">-----</span>|
+| Olive Drab     | 555346  |<span style="color=#555346;background-color:#555346;">-----</span>|
+| Red            | 7F0000  |<span style="color=#7F0000;background-color:#7F0000;">-----</span>|
+| Green          | 007F00  |<span style="color=#007F00;background-color:#007F00;">-----</span>|
+| Blue           | 00007F  |<span style="color=#00007F;background-color:#00007F;">-----</span>|
+| Black          | 000000  |<span style="color=#000000;background-color:#000000;">-----</span>|
+| White          | FFFFFF  |<span style="color=#FFFFFF;background-color:#FFFFFF;">-----</span>|
+| Gold           | FFD700  |<span style="color=#FFD700;background-color:#FFD700;">-----</span>|
+| Silver         | C0C0C0  |<span style="color=#C0C0C0;background-color:#C0C0C0;">-----</span>|
 
 ## Camo Uniforms
 
