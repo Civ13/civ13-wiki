@@ -15,9 +15,7 @@ Modern Age.
 <span color="#7F0000">To contribute, edit a page using the links on the top right. You will need a github account</span>
 
 
-**[Official Server](https://civ13.com/server) |
-[Discord](https://discord.gg/hBEtg4x) |
-[Github](https://github.com/Civ13/Civ13)**
+**[Official Server](https://civ13.com/server) | [Discord](https://discord.gg/hBEtg4x) | [Github](https://github.com/Civ13/Civ13)**
 
 
 ## Getting started
@@ -118,12 +116,10 @@ Victorian Era and the Russo-Japanese war.
 
 ### 1943 A.D.
 
-World War II. **TDM: [Omaha](Omaha "wikilink")** -
-**[Reichstag](Reichstag "wikilink")** - **[Kursk](Kursk "wikilink")** -
-**[Nanjing](Nanjing "wikilink")** - **[Khalkhyn
-gol](Khalkhyn_gol "wikilink")**
+World War II.
+**TDM:** [Omaha](Omaha "wikilink") - [Reichstag](Reichstag "wikilink") - [Kursk](Kursk "wikilink") - [Nanjing](Nanjing "wikilink") - [Khalkhyn gol](Khalkhyn_gol "wikilink")
 
-**RP: [Gulag](Gulag "wikilink")**
+**RP:** [Gulag](Gulag "wikilink")
 
 ### 1969 A.D.
 
@@ -135,8 +131,8 @@ Cold War and and Proxy wars.
 
 War on Terror and Political conflict.
 
-**TDM:** [Arab Town](Arab_Town "wikilink") - [`Hostages`](Hostages "wikilink")
+**TDM:** [Arab Town](Arab_Town "wikilink") - [Hostages](Hostages "wikilink")
 
 ## Media and other things
 
-[Games](Games "wikilink") (similar games and inspirations) | [Русская версия \\ Russian version](Русская_версия_/_Russian_version "wikilink")
+[Games](Games "wikilink") (similar games and inspirations)
