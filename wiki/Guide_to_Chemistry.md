@@ -1,8 +1,10 @@
+## Guide to Chemistry
+
 Here you can find all the possible chemical reactions.
 
 Exported on 5 Dec 2019.
 
-## Chemical Reactions List
+### Chemical Reactions List
 
 | Result                  | Ingredients                                             | Catalysts    | Inhibitors    | Produced Amount | ID                       |
 | ----------------------- | ------------------------------------------------------- | ------------ | ------------- | --------------- | ------------------------ |

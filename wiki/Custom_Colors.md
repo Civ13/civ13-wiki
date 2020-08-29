@@ -1,3 +1,4 @@
+## Custom Colors
 Some clothes are customizable. You will need to input an hex color code
 (without the \#). There are several websites where you can check the
 color codes:

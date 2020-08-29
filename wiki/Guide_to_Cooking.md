@@ -1,4 +1,6 @@
-## Why cook?
+## Guide to Cooking
+
+### Why cook?
 
 Cooking is useful for making meat and water safe to consume, as well as
 increasing the nutrition value of every other non-meat food, like

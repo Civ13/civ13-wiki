@@ -1,4 +1,4 @@
-## Your Job
+## Governor
 
 You're the Governor and respective leader of the Colony. The way you
 lead depends on you. Usually you should try to be nice to the people and

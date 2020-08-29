@@ -1,4 +1,4 @@
-## Games
+## Other Games
 
 Below is a list of several games that have similar mechanics, settings
 or that inspired us to create Civ13.

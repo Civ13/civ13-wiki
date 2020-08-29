@@ -1,3 +1,4 @@
+## Full Crafting List
 Here you can find the full craft list, in sortable tables and segmented
 by material.
 

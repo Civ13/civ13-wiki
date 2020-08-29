@@ -1,3 +1,4 @@
+## Guide to Boats
 ### When to make a boat
 
 Its best to make a boat on maps like the new world or continents it
