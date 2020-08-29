@@ -21,7 +21,7 @@ show_downloads: false
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
 git_branch: "master"
 # (string) Url of logo image, it can be full, absolute or relative.
-logo_url: "https://i.imgur.com/napac0L.png"
+logo_url: "http://civ13.com/wiki/images/civ13_wiki.png"
 baseurl: "/civ13-wiki" # the subpath of your site, e.g. /blog
 url: "https://civ13.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
