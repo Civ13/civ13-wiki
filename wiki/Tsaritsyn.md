@@ -6,4 +6,4 @@ southwestern Russia. The battle resulted in a Bolshevik victory.
 
 White Army (Tsar Loyalist Army) ,Red Army (Bolsheviks)
 
-<img src="httpttps://cdn.discordapp.com/attachments/474610481668161548/602364746984980484/Red_Army.png" height=238>
+<img src="https://cdn.discordapp.com/attachments/474610481668161548/602364746984980484/Red_Army.png" height=238>

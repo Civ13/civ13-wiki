@@ -162,7 +162,7 @@ different biomes, detailed below.
 
 #### Temperate
 
-<img src="httpttps://cdn.discordapp.com/attachments/468979034571931650/524450345569484802/unknown.png" height=300>
+<img src="https://cdn.discordapp.com/attachments/468979034571931650/524450345569484802/unknown.png" height=300>
 
 This is the classic map, using the same map as the Civilizations map.
 
@@ -191,7 +191,7 @@ It has four Seasons, and they will rotate every 30 minutes.
 
 #### Desert
 
-<img src="httpttps://cdn.discordapp.com/attachments/468979034571931650/524449668181131284/unknown.png" height=300>
+<img src="https://cdn.discordapp.com/attachments/468979034571931650/524449668181131284/unknown.png" height=300>
 
   - In this map, the whole area is a desert with some sparse water
     sources and farming plots.
@@ -211,7 +211,7 @@ There are two seasons:
 
 #### Ice Age
 
-<img src="httpttps://cdn.discordapp.com/attachments/468979034571931650/524444327166869504/unknown.png" height=300>
+<img src="https://cdn.discordapp.com/attachments/468979034571931650/524444327166869504/unknown.png" height=300>
 
   - In this map, the whole area is covered in snow all year round.
     Resources (including wood, animals and minerals) are rare here, and
