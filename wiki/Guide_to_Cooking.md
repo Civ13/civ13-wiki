@@ -112,9 +112,9 @@ culinary art\!
 <table class="sortable">
 <thead>
 <tr class="header">
-<th scope = "col" style="width: 10%">Dish</p></th>
-<th scope = "col" style="width: 10%">Recipe</p></th>
-<th scope = "col" style="width: 10%">Steps</p></th>
+<th scope = "col" style="width: 10%">Dish</th>
+<th scope = "col" style="width: 10%">Recipe</th>
+<th scope = "col" style="width: 10%">Steps</th>
 </tr>
 </thead>
 <tbody>
