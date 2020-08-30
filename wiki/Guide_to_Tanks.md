@@ -154,15 +154,19 @@ example to allow for stationary turning)
 The front face of a tank will always be against the edge of the 5x5 area
 
 North
+
 ![image](https://media.discordapp.net/attachments/485954244437082112/714333304068898856/tank_north.png)
 
 West
+
 ![image](https://media.discordapp.net/attachments/485954244437082112/714298939398029363/tank_west.png)
 
 South
+
 ![image](https://media.discordapp.net/attachments/485954244437082112/714299673460080801/tank_south.png)
 
 East
+
 ![image](https://media.discordapp.net/attachments/485954244437082112/714299733014741072/tank_east.png)
 
 
