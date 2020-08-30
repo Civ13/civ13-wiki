@@ -39,7 +39,7 @@ To farm, you will require some basic tools.
 <p>Trench shovel</p>
 </center></td>
 <td><center>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/eas.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/trench_shovel.png">
 </center></td>
 <td><p>A trench shovel is made out of iron ingots and a wooden handle. A trench shovel (as the name suggests) digs trenches, to dig a trench simple click a dirt tile two times also you can flood trenches by putting them next to a water source. Useful for large scale farming.</p></td>
 </tr>
