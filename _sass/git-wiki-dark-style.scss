@@ -51,28 +51,33 @@ h6 {
 }
 
 a {
-  color: #39c;
+  color: #00bc8c;
   text-decoration: none;
+  background-color: transparent;
 }
 
 a:hover {
-  color: #069;
+  color: #01916d;
 }
 
 a small {
   font-size: 11px;
-  color: #777;
+  color: #00bc8c;
   margin-top: -0.3em;
   display: block;
 }
 
 a:hover small {
-  color: #777;
+  color: #01916d;
 }
 
 .wrapper {
   /*width:860px;*/
   margin: 0 auto;
+}
+
+input {
+  background-color: #a3a3a3;
 }
 
 blockquote {
