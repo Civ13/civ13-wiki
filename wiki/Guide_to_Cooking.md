@@ -57,35 +57,35 @@ ingredients needed to make your fantastic dishes, uma delicia\!
 <tr class="odd">
 <td><p>Dough</p></td>
 <td><center>
-<p><a href="https://cdn.discordapp.com/attachments/452503902152032256/637634522522845204/Dough.png">https://cdn.discordapp.com/attachments/452503902152032256/637634522522845204/Dough.png</a></p>
+<p><img src="https://cdn.discordapp.com/attachments/452503902152032256/637634522522845204/Dough.png"></p>
 </center></td>
 <td><p>Make flour by grinding wheat with the small mill, them, activate a bag of flour with it in the active hand, and with a container with water in the off hand</p></td>
 </tr>
 <tr class="even">
 <td><p>Flatbread</p></td>
 <td><center>
-<p><a href="https://cdn.discordapp.com/attachments/452503902152032256/638061831247888384/Flatbread.png">https://cdn.discordapp.com/attachments/452503902152032256/638061831247888384/Flatbread.png</a></p>
+<p><img src="https://cdn.discordapp.com/attachments/452503902152032256/638061831247888384/Flatbread.png"></p>
 <center></td>
 <td><p>Use a rolling pin on dough and roast the flat dough</p></td>
 </tr>
 <tr class="odd">
 <td><p>Egg</p></td>
 <td><center>
-<p><a href="https://cdn.discordapp.com/attachments/452503902152032256/638062552324243457/egg.png">https://cdn.discordapp.com/attachments/452503902152032256/638062552324243457/egg.png</a></p>
+<p><img src="https://cdn.discordapp.com/attachments/452503902152032256/638062552324243457/egg.png"></p>
 <center></td>
 <td><p>Get a chicken or turkey to lay an egg</p></td>
 </tr>
 <tr class="even">
 <td><p>Cheese</p></td>
 <td><center>
-<p><a href="https://cdn.discordapp.com/attachments/452503902152032256/638064782859042836/Cheese.png">https://cdn.discordapp.com/attachments/452503902152032256/638064782859042836/Cheese.png</a></p>
+<p><img src="https://cdn.discordapp.com/attachments/452503902152032256/638064782859042836/Cheese.png"></p>
 <center></td>
 <td><p>Collect milk in a container and add one piece of yeast.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Meatball</p></td>
 <td><center>
-<p><a href="https://cdn.discordapp.com/attachments/452503902152032256/638039934879399964/Meatball.png">https://cdn.discordapp.com/attachments/452503902152032256/638039934879399964/Meatball.png</a></p>
+<p><img src="https://cdn.discordapp.com/attachments/452503902152032256/638039934879399964/Meatball.png"></p>
 </center></td>
 <td><p>Add some flour to the slab of meat.</p></td>
 </tr>
@@ -97,7 +97,7 @@ ingredients needed to make your fantastic dishes, uma delicia\!
 <tr class="odd">
 <td><p>Grown Foods</p></td>
 <td><center>
-<p><a href="https://cdn.discordapp.com/attachments/452503902152032256/638041326075772928/Cutlet.png">https://cdn.discordapp.com/attachments/452503902152032256/638041326075772928/Cutlet.png</a></p>
+<p><img src="https://cdn.discordapp.com/attachments/452503902152032256/638041326075772928/Cutlet.png"></p>
 </center></td>
 <td><p>Corn,Cabbages,tomatoes, potatoes can all be roasted on a campfire or stove to be more filling.</p></td>
 </tr>
@@ -121,35 +121,35 @@ culinary art\!
 <tr class="odd">
 <td><p>Bread</p></td>
 <td><center>
-<p><a href="https://cdn.discordapp.com/attachments/452503902152032256/638036303346401311/Bread.png">https://cdn.discordapp.com/attachments/452503902152032256/638036303346401311/Bread.png</a></p>
+<p><img src="https://cdn.discordapp.com/attachments/452503902152032256/638036303346401311/Bread.png"></p>
 </center></td>
 <td><p>Roast a ball of dough in a campfire or oven.</p></td>
 </tr>
 <tr class="even">
 <td><p>Bread slice</p></td>
 <td><center>
-<p><a href="https://cdn.discordapp.com/attachments/452503902152032256/638063587901964298/Bread_slice.png">https://cdn.discordapp.com/attachments/452503902152032256/638063587901964298/Bread_slice.png</a></p>
+<p><img src="https://cdn.discordapp.com/attachments/452503902152032256/638063587901964298/Bread_slice.png"></p>
 <center></td>
 <td><p>Slice flat dough with a knife and roast it.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Fries</p></td>
 <td><center>
-<p><a href="https://cdn.discordapp.com/attachments/452503902152032256/638055885788151818/Fries.png">https://cdn.discordapp.com/attachments/452503902152032256/638055885788151818/Fries.png</a></p>
+<p><img src="https://cdn.discordapp.com/attachments/452503902152032256/638055885788151818/Fries.png"></p>
 <center></td>
 <td><p>Cut potatoes with a knife to get raw potatoes and roast the raw potatoes to get fries.</p></td>
 </tr>
 <tr class="even">
 <td><p>Dried cutlets</p></td>
 <td><center>
-<p><a href="https://cdn.discordapp.com/attachments/452503902152032256/638059136411500605/Dried_cutlet.png">https://cdn.discordapp.com/attachments/452503902152032256/638059136411500605/Dried_cutlet.png</a></p>
+<p><img src="https://cdn.discordapp.com/attachments/452503902152032256/638059136411500605/Dried_cutlet.png"></p>
 <center></td>
 <td><p>Simply take your raw meat cutlets and click on a dehydrator to dry them. In time they'll come off as dry cutlets. (NOTE: Dried cutlets cannot spoil, but will attract pests if left in the open.)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Stew</p></td>
 <td><center>
-<p><a href="https://cdn.discordapp.com/attachments/452503902152032256/638065844714340362/Stew.png">https://cdn.discordapp.com/attachments/452503902152032256/638065844714340362/Stew.png</a></p>
+<p><img src="https://cdn.discordapp.com/attachments/452503902152032256/638065844714340362/Stew.png"></p>
 <center></td>
 <td><p>Pour a bucket of water into a cooking pot and add any ingredient (EXCEPT SALTY INGREDIENTS) to the pot to make stew. The more ingredients the better!</p></td>
 </tr>
