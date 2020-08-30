@@ -1,4 +1,4 @@
-## *Guide to Species*
+# Guide to Species
 
 Here is a guide to the few human races and species we have in the game
 currently, you might like to read them to understand them. All of these

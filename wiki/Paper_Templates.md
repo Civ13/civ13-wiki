@@ -1,3 +1,4 @@
+# Paper Templates
 ## Visitor Visa
 
 `[h2][b]TRAVEL VISA[/b][/h2][br]` `[hr]` `[h3]FACTION[/h3][br]` `[hr]`

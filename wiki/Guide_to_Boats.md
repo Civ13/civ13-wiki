@@ -1,11 +1,11 @@
-## Guide to Boats
-### When to make a boat
+# Guide to Boats
+## When to make a boat
 
 Its best to make a boat on maps like the new world or continents it
 doesn't really make sense to make a boat on something like Pangea. Boats
 can be built in 1013
 
-### How to make a boat
+## How to make a boat
 
 First you need to lay down some boat frames made from wood but it cant
 be bigger than 5x5. Then you can add walls by clicking on frames with

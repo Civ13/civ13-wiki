@@ -1,3 +1,4 @@
+# Tribes
 Tribes is a fantasy gamemode with several races, described below.
 
 ## Humans

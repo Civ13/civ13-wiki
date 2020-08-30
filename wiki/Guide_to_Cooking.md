@@ -1,6 +1,6 @@
-## Guide to Cooking
+# Guide to Cooking
 
-### Why cook?
+## Why cook?
 
 Cooking is useful for making meat and water safe to consume, as well as
 increasing the nutrition value of every other non-meat food, like
@@ -10,7 +10,7 @@ Furthermore, more complex recipes are also even more nutritious, and
 also present interesting RP options, such as being vegetarian, perhaps
 pork-free, etcetera.
 
-### Campfire/Oven/Wood Stove
+## Campfire/Oven/Wood Stove
 
 Campfires and ovens can be used to roast food and prepare advanced
 recipes, as well as boiling water for safe consumption, and burning down
@@ -25,7 +25,7 @@ any item into a Burned Mess.
   - Wait for it to finish cooking/boiling.
   - Eat\!
 
-### Cooking Pot
+## Cooking Pot
 
 You can make a cooking pot to make a stew. The advantage of this method
 is that you can get rid of thirstiness and hunger at the same time, so
@@ -35,7 +35,7 @@ cooking pot will never go stale or decompose, allowing you to store food
 indefinitely\! NOTE: Filled wooden bowls will become stale and
 decomposed if not eaten.
 
-### Fridge
+## Fridge
 
 You can keep food fresh and safe to eat by putting them in a fridge. The
 fridge needs to be powered to keep the food inside it safe to eat

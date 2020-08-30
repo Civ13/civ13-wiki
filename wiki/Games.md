@@ -7,7 +7,7 @@ or that inspired us to create Civ13.
 group of people starting from nothing in a planet.
 
 **Dwarf Fortress** - A very complex roguelike. Features a lot of
-building
+building.
 
 **Cataclysm DDA** - A post-apocalyptic survival roguelike, with a
 complex crafting system.
@@ -19,5 +19,5 @@ your civilization.
 
 **Unreal World** - A survival game set in the stone age.
 
-**Empire Earth** A RTS that is set in 15 different ages, from the
+**Empire Earth** - A RTS that is set in 15 different ages, from the
 prehistory to the future.

@@ -1,11 +1,9 @@
-<div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+# Civilization and Nomads
 
-''"I'm cold and starving, **[WHAT DO I
-DO\!?](Civilizations#Starter_Guide "wikilink")"**
+***"I'm cold and starving, [WHAT DO I
+DO?](Civilizations#Starter_Guide "wikilink")"***
 
 *- A confused player*
-
-</div>
 
 ## What is Civilizations Mode?
 

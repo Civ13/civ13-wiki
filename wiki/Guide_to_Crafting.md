@@ -1,11 +1,7 @@
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong><em>"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."</em></strong><br />
-Thomas Tredgold</p></td>
-</tr>
-</tbody>
-</table>
+# Guide to Crafting
+<p><strong><em>"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."</em></strong><br />
+Thomas Tredgold</p>
+
 
 Have you ever thought of dedicating your life to something meaningful?
 Well, you have found the guide to it\! Once you familiarize yourself

@@ -1,3 +1,4 @@
+# The Art of the Deal
 Welcome to **The Art of the Deal**, a game mode where you will need to
 plan, negotiate, bribe, and backstab if you wish to become the winning
 faction. This game mode has specific mechanics that you need to

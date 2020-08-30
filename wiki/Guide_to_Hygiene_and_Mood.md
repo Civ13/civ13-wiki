@@ -1,11 +1,11 @@
-## Guide to Hygiene and Mood
+# Guide to Hygiene and Mood
 
 In this Guide you'll learn how not to be a filthy disgusting unga that
 is so depressed he's considering drowning himself in his own urine as a
 way of suicide. In other words, someone who won't be hated by literally
 everyone around them. Wow\! Rare indeed.
 
-### Guide to Hygiene
+## Guide to Hygiene
 
 So, you're a bit stinky and need a good wash. There are currently two
 ways you are able to wash yourself. 1. is a bucket of clean water (pots
@@ -41,7 +41,7 @@ Washing yourself with a shower:
 
 Congrats\! You're no longer stinky.
 
-#### Using the Washroom
+### Using the Washroom
 
 So, you're an unga who's about to shit him or herself. Well, the steps
 to prevent doo doo in your pantsu are very simple. There are 3 types of
@@ -73,14 +73,14 @@ Crafting a Toilet:
 Use these toiletries in privacy, make outhouses, don't shit everywhere
 or make a mess. You filthy ungas, clean up after yourselves\!
 
-#### Shaving
+### Shaving
 
 Look at you\! That unkempt beard of yours shows me something from every
 meal you had last week\! This may have been acceptable back in the Cave
 Age, but not any more\! Make yourself a damn Razor out of bronze or iron
 and cut that hair by clicking yourself with a Razor on "help" intent\!
 
-#### Washing clothes
+### Washing clothes
 
 You would not want to carry a colony of blood-sucking, possibly
 disease-ridden little nasties on your very own self, would you? To avoid
@@ -90,13 +90,13 @@ footwear. You can see the degree of an item's dirtiness by examining it
 (Shift+Click). To wash something, take it in your hands and click a
 water tile, a well or a puddle with it.
 
-#### Keeping the place clean
+### Keeping the place clean
 
 Bear in mind, that having any kind of turd or turd-related constructions
 (outhouses etc.) within 4 tiles of a well will contaminate it, making
 its water unsafe to drink.
 
-### Guide to Mood
+## Guide to Mood
 
 Are you constantly feeling depressed? Getting weird audio randomly out
 of nowhere? Well, then you've got a shit mood\! There's only 2 real ways

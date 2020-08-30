@@ -1,7 +1,7 @@
 Heh, so you've chosen to Jew the people out of their money and begin
 swimming in riches eh? Well, we'll tell you all about that business.
 
-# Basics
+# Merchant
 
 Generally there are 2 types of playstyles commonly seen:
 

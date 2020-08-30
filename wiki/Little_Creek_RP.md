@@ -1,4 +1,4 @@
-`                                                        Little Creek RP`
+# Little Creek RP
 
 In this mode, there is a bank which contains a large sum of gold. The
 West/East Side Gang must face off against The East/West Side Gang along

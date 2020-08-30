@@ -1,11 +1,11 @@
-## Guide to Wiring
+# Guide to Wiring
 
 So you're the unlucky guy trying to wire eh? Don't worry, i'll get you
 through this kid. Lets start with the basics. Picture of basic power
 setup (iron furnace and steam generator)
 <https://cdn.discordapp.com/attachments/468980363239358464/638065638740328448/unknown.png">
 
-#### Basics
+## Basics
 
 1.  **The first thing you need to know is how to craft some of the
     things you're going to be using.** Wires (or cables) can be crafted
@@ -35,7 +35,7 @@ setup (iron furnace and steam generator)
     breaking, but its recommended only experienced electrical
     technicians attempt it.
 
-### Crafting
+## Crafting
 
 In case you're a lazy turd that simply didn't want to know how to wire
 and just do it trial and error, or already know how to wire but not
@@ -53,7 +53,7 @@ craft the necessities (How can you wire then?\!).
     category, at the top of the list should be cable connector. This
     takes 1 ingot and produces 1 connector.
 
-##### Motorcycles
+### Motorcycles
 
 it's 1903 eh? you got gas, a refinery, even gas pumps, but no vehicles.
 Well you're in luck, this here guy'll teach you all the inner workings
@@ -79,7 +79,7 @@ and uh, it'll require a bit of steel.
     cares. Who you made it for? No one cares, they'll likely steal it
     anyway. However, you're the man with the fuel\! (hopefully)
 
-#### Motorcycle Operation
+### Motorcycle Operation
 
 Bikes have 4 speeds (depending on the engine). Stopped (neutral), 1st
 gear (moving but slower), and 2nd gear (moving faster than 1st), and 3rd

@@ -1,4 +1,4 @@
-## Colony Building RP
+# Colony Building RP
 
 Here you still follow most of the rules of nomads save for all the
 faction warring etc. since they can't happen. This is an HRP map, grey

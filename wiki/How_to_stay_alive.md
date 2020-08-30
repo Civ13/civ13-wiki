@@ -1,3 +1,5 @@
+# How to stay alive
+
 Staying alive is pretty easy if you play this game often however there
 are lots of things to look out for.
 

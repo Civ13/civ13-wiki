@@ -1,5 +1,5 @@
-## Guide to Communications
-### Towers
+# Guide to Communications
+## Towers
 
 <table>
 <thead>
@@ -27,7 +27,7 @@
 </tbody>
 </table>
 
-### Devices
+## Devices
 
 Screaming: the best form of getting help, but its better if your a
 woman.

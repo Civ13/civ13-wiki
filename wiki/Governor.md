@@ -1,4 +1,4 @@
-## Governor
+# Governor
 
 You're the Governor and respective leader of the Colony. The way you
 lead depends on you. Usually you should try to be nice to the people and
@@ -7,7 +7,7 @@ you. Try to keep a steady flow of goods coming and an out via yourself
 or the merchants. It's best to write some laws so your guards know what
 to enforce.
 
-### Steps
+## Steps
 
 These are some basic steps of what to do after you spawn in.
 
@@ -18,7 +18,7 @@ These are some basic steps of what to do after you spawn in.
 4.  Start some building projects, specifically a store or medical
     clinic.
 
-#### Some laws you can make
+## Some laws you can make
 
 1.  You must have a permit stamped and signed by the governor to own a
     firearm
@@ -35,7 +35,7 @@ stable less chaotic colony.
 
 ## Exporting and Importing
 
-##### Importing
+### Importing
 
 With silver/reales in your hand, you can click on the supply orders book
 and put the money in. This will make it so you can click on it again
@@ -47,7 +47,7 @@ from the money you put in, if you haven't enough, it doesn't work.
 Either way it will eject your money and you can retrieve the remaining
 coins. Then just wait for it to arrive.
 
-#### Exporting
+### Exporting
 
 Exporting is different. You simply hold the item you want to export, and
 click on the exporting table. Then click yes and it will sell this to

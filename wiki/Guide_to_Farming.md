@@ -1,3 +1,4 @@
+# Guide to Farming
 Being a grower of crops is an important role. You farm both food and
 cash crops. Growing food is vital for a nation to increase in wealth and
 power.

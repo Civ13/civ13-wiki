@@ -1,10 +1,10 @@
-## Karak
+# Karak
 
 This map is based around the crusades, their are two factions, both of
 them are religious zealots wishing to either defend or attack the
 **Karak Castle**.
 
-### Factions
+## Factions
 
   - The French (Crusaders), They are lead by the **Holy Templar
     Knights** and **Lords**, Templar Knights are accompanied by lower
@@ -15,7 +15,7 @@ them are religious zealots wishing to either defend or attack the
     by an **Emir**(Lord) and **Mamelukes**(Knights), they must conquer
     the castle in order to win.
 
-### Arab Roles
+## Arab Roles
 
 | Role                   | Image                                                                                            | Description                                                                                         | Diffuculty |
 | ---------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- | ---------- |
@@ -26,7 +26,7 @@ them are religious zealots wishing to either defend or attack the
 | Rami Alsiham (Archer)  | <https://media.discordapp.net/attachments/464159913342402560/540084753718706187/Arab_dude_4.png"> | Arm the Catapults, Kill Infidels with Catapults, don't let them get inside the base.                | Easy       |
 | Imam (Priest)          |                                                                                                  | Treat the wounded men of your caliphate.                                                            | Medium     |
 
-### French Roles
+## French Roles
 
 | Role                                       | Image | Description                                                                                                                                                 | Diffuculty |
 | ------------------------------------------ | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
@@ -36,7 +36,7 @@ them are religious zealots wishing to either defend or attack the
 | Crusader Squire (Crusader Light Infanty)   |       | You are the subordinate to the sergeants, follow your sergeant's orders whenever they are issued.                                                           | Medium     |
 | Templar Priest (Priest)                    |       | Treat the wounded Crusaders while the siege carries on.                                                                                                     | Easy       |
 
-### Medical
+## Medical
 
 Medical Practices are useful in this mode since almost everyone gets
 wounded, priests are on both sides and provide spiritual and medical

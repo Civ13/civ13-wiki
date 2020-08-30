@@ -1,3 +1,4 @@
+# Guide to Hunting
 ### WELCOME TO THE HUNTING GUIDE\! LET ME HELP YOU TO HUNT THINGS.
 
 First off you may need a weapon, because you can encounter evil animals,

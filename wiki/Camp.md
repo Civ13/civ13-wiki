@@ -1,5 +1,4 @@
 # Camp
-## Setting
 
 **Camp** is set in France, The British and The French are trying to
 capture the castle in the middle of the map.

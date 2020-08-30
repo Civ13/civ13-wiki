@@ -1,5 +1,5 @@
-The 1945 epoch now has tanks\! (Yay) (Well only the **Kursk** map for
-now)
+# Guide to Tanks
+The 1945 epoch now has tanks\! (Yay)
 
 There are 5 roles for the crew of the tank. In order to be effective,
 all roles most communicate with each other, organize and work
