@@ -69,56 +69,57 @@ mode
 
 Lead your Civilization from prehistory to the modern era\!
 
-**RP: [Civilizations and Nomads](Civilizations_and_Nomads "wikilink")**
+**RP:** [Civilizations and Nomads](Civilizations_and_Nomads "wikilink")
 
 ### 313 B.C.
 
 Ancient Greece and Romans. Phalanxes vs Legions.
 
-**TDM: [Heraclea](Heraclea "wikilink") - [Siege](Siege "wikilink")**
+**TDM:** [Heraclea](Heraclea "wikilink") - [Siege](Siege "wikilink")
 
 ### 1013 A.D.
 
 Medieval Europe and the Crusades.
 
-**TDM: [Camp](Camp "wikilink") - [Karak](Karak "wikilink") -
-[Sammirhayeed](Sammirhayeed "wikilink")**
+**TDM:** [Camp](Camp "wikilink") - [Karak](Karak "wikilink") -
+[Sammirhayeed](Sammirhayeed "wikilink")
 
 ### 1713 A.D.
 
 Colonial America. Piracy and Colonization
 
-**TDM: [Naval](Naval "wikilink") - [Island](Island "wikilink") -
+**TDM:** [Naval](Naval "wikilink") - [Island](Island "wikilink") -
 [Robusta](Robusta "wikilink") - [Supply Raid](Supply_Raid "wikilink") -
-[Recife](Recife "wikilink")**
+[Recife](Recife "wikilink")
 
-**RP: [Hunt](Hunt "wikilink") - [Colony](Colony "wikilink")**
+**RP:** [Hunt](Hunt "wikilink") - [Colony](Colony "wikilink")
 
 ### 1803 A.D.
 
 Napoleonic Wars and War of 1812
 
-**TDM: [Alamo](Alamo "wikilink") - [Gettysburg](Gettysburg "wikilink")**
+**TDM:** [Alamo](Alamo "wikilink") - [Gettysburg](Gettysburg "wikilink")
 
 ### 1873 A.D.
 
 The Wild West and the American Civil War.
 
-**TDM: [Little Creek TDM](Little_Creek_TDM "wikilink")**
+**TDM:** [Little Creek TDM](Little_Creek_TDM "wikilink")
 
 **RP:[Little Creek RP](Little_Creek_RP "wikilink") -
-[Pioneers](Pioneers "wikilink")**
+[Pioneers](Pioneers "wikilink")
 
 ### 1903 A.D.
 
 Victorian Era and the Russo-Japanese war.
 
-**TDM: [Hill 203](Hill_203 "wikilink")** -
-**[Ypress](Ypress "wikilink")** - **[Tsaritsyn](Tsaritsyn "wikilink")**
+**TDM:** [Hill 203](Hill_203 "wikilink") -
+**[Ypress](Ypress "wikilink") - **[Tsaritsyn](Tsaritsyn "wikilink")
 
 ### 1943 A.D.
 
 World War II.
+
 **TDM:** [Omaha](Omaha "wikilink") - [Reichstag](Reichstag "wikilink") - [Kursk](Kursk "wikilink") - [Nanjing](Nanjing "wikilink") - [Khalkhyn gol](Khalkhyn_gol "wikilink")
 
 **RP:** [Gulag](Gulag "wikilink")
