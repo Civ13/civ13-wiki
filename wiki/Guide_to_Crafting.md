@@ -83,7 +83,7 @@ Pioneers, only the Blacksmith can use the anvil.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/669472128827129856/leaved_stick.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/669472240424976384/sharpened_stick.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/669472128827129856/leaved_stick.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/669472240424976384/sharpened_stick.png">
 </center>
 <center>
 <p><strong>Stick</strong></p>
@@ -92,7 +92,7 @@ Pioneers, only the Blacksmith can use the anvil.
 </tr>
 <tr class="even">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/669472040566390784/flint.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/669472090986119178/sharpened_flint.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/669472040566390784/flint.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/669472090986119178/sharpened_flint.png">
 </center>
 <center>
 <p><strong>Flint</strong></p>
@@ -101,7 +101,7 @@ Pioneers, only the Blacksmith can use the anvil.
 </tr>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/669484887388192769/flint_axe.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/669484887388192769/flint_axe.png">
 </center>
 <center>
 <p><strong>Flint hatchet</strong></p>
@@ -110,7 +110,7 @@ Pioneers, only the Blacksmith can use the anvil.
 </tr>
 <tr class="even">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/485954244437082112/638448789849374741/e.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/642684177430347791/bronze_knife.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/642684204814958605/steel_knife.png"></p>
+<img src="https://cdn.discordapp.com/attachments/485954244437082112/638448789849374741/e.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/642684177430347791/bronze_knife.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/642684204814958605/steel_knife.png">
 </center>
 <center>
 <p><strong>Knife</strong></p>
@@ -119,7 +119,7 @@ Pioneers, only the Blacksmith can use the anvil.
 </tr>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/642369313319288843/bone_hatchet.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/642349661990158349/hatchet.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/642369313319288843/bone_hatchet.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/642349661990158349/hatchet.png">
 </center>
 <center>
 <p><strong>Hatchet</strong></p>
@@ -128,7 +128,7 @@ Pioneers, only the Blacksmith can use the anvil.
 </tr>
 <tr class="even">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/642349577265086504/hammer.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/642349613998669845/clawhammer.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/642349577265086504/hammer.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/642349613998669845/clawhammer.png">
 </center>
 <center>
 <p><strong>Hammer</strong></p>
@@ -137,7 +137,7 @@ Pioneers, only the Blacksmith can use the anvil.
 </tr>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/642352016336617484/bone_shovel.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/642352311234068491/shovel.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/642352016336617484/bone_shovel.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/642352311234068491/shovel.png">
 </center>
 <center>
 <p><strong>Shovel</strong></p>
@@ -146,7 +146,7 @@ Pioneers, only the Blacksmith can use the anvil.
 </tr>
 <tr class="even">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/642352213850849280/chisel.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/642352258209808414/modern_chisel.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/642352213850849280/chisel.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/642352258209808414/modern_chisel.png">
 </center>
 <center>
 <p><strong>Chisel</strong></p>
@@ -155,7 +155,7 @@ Pioneers, only the Blacksmith can use the anvil.
 </tr>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/642352339038109703/wrench.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/642352339038109703/wrench.png">
 </center>
 <center>
 <p><strong>Wrench</strong></p>
@@ -164,7 +164,7 @@ Pioneers, only the Blacksmith can use the anvil.
 </tr>
 <tr class="even">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/642350684427124736/bone_pickaxe.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/642350657873117184/pickaxe.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/642350684427124736/bone_pickaxe.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/642350657873117184/pickaxe.png">
 </center>
 <center>
 <p><strong>Pickaxe</strong></p>
@@ -173,7 +173,7 @@ Pioneers, only the Blacksmith can use the anvil.
 </tr>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/642354214760218625/jackhammer.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/642354214760218625/jackhammer.png">
 </center>
 <center>
 <p><strong>Jackhammer</strong></p>
@@ -182,7 +182,7 @@ Pioneers, only the Blacksmith can use the anvil.
 </tr>
 <tr class="even">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/644102462227087360/ore_collector.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/644102462227087360/ore_collector.png">
 </center>
 <center>
 <p><strong>Ore collector</strong></p>
@@ -191,7 +191,7 @@ Pioneers, only the Blacksmith can use the anvil.
 </tr>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/675053490673811506/engine_maker.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/675053490673811506/engine_maker.png">
 </center>
 <center>
 <p><strong>Engine maker</strong></p>
@@ -232,7 +232,7 @@ There are two main ways to obtain
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/644123632875864085/sheet_wood.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/644123632875864085/sheet_wood.png">
 </center>
 <center>
 <p><strong>Wood log</strong></p>
@@ -241,7 +241,7 @@ There are two main ways to obtain
 </tr>
 <tr class="even">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701860874712776772/leaves.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701860874712776772/leaves.png">
 </center>
 <center>
 <p><strong>Leaves</strong></p>
@@ -250,7 +250,7 @@ There are two main ways to obtain
 </tr>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701860877896384542/leaves_palm.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701860877896384542/leaves_palm.png">
 </center>
 <center>
 <p><strong>Palm leaves</strong></p>
@@ -270,7 +270,7 @@ to the **[Guide to Cooking](Guide_to_Cooking "wikilink")**.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/643110454591356928/black_bear_pelt.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/643110490079363082/monkey_pelt.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/643110530625699861/wolf_pelt.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/643110454591356928/black_bear_pelt.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/643110490079363082/monkey_pelt.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/643110530625699861/wolf_pelt.png">
 </center>
 <center>
 <p><strong>Furs and Pelts</strong></p>
@@ -279,7 +279,7 @@ to the **[Guide to Cooking](Guide_to_Cooking "wikilink")**.
 </tr>
 <tr class="even">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/643869839785721887/wool_pile.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/643869869061832715/wool_roll.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/643869839785721887/wool_pile.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/643869869061832715/wool_roll.png">
 </center>
 <center>
 <p><strong><img src="Full_Crafting_List#woolcloth" title="wikilink">Wool</a></strong></p>
@@ -288,7 +288,7 @@ to the **[Guide to Cooking](Guide_to_Cooking "wikilink")**.
 </tr>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/643118002060918803/leather.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/643118002060918803/leather.png">
 </center>
 <center>
 <p><strong><img src="Full_Crafting_List#leather" title="wikilink">Leather</a></strong></p>
@@ -297,7 +297,7 @@ to the **[Guide to Cooking](Guide_to_Cooking "wikilink")**.
 </tr>
 <tr class="even">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/643128943096102922/bone.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/643128943096102922/bone.png">
 </center>
 <center>
 <p><strong><img src="Full_Crafting_List#bone" title="wikilink">Bone</a></strong></p>
@@ -324,7 +324,7 @@ build barricades and walls. Refer to the
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/643384188090712116/dirt_pile.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/643384188090712116/dirt_pile.png">
 </center>
 <center>
 <p><strong>Dirt</strong></p>
@@ -333,7 +333,7 @@ build barricades and walls. Refer to the
 </tr>
 <tr class="even">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/643384256466255872/sand_pile.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/643384256466255872/sand_pile.png">
 </center>
 <center>
 <p><strong>Sand</strong></p>
@@ -342,7 +342,7 @@ build barricades and walls. Refer to the
 </tr>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/643384221926424616/snow_pile.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/643384221926424616/snow_pile.png">
 </center>
 <center>
 <p><strong>Snow</strong></p>
@@ -378,7 +378,7 @@ holding a hammer in the other hand.
 </tr>
 <tr class="even">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/643462952003043328/ore_copper.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/643467593402810382/sheet_copper.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/643462952003043328/ore_copper.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/643467593402810382/sheet_copper.png">
 </center>
 <center>
 <p><strong><img src="Full_Crafting_List#copper" title="wikilink">Copper</a></strong></p>
@@ -391,7 +391,7 @@ holding a hammer in the other hand.
 </tr>
 <tr class="even">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/643465556456112149/sheet_stone.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/643465556456112149/sheet_stone.png">
 </center>
 <center>
 <p><strong><img src="Full_Crafting_List#stone" title="wikilink">Stone</a></strong></p>
@@ -422,7 +422,7 @@ holding a hammer in the other hand.
 <table class="sortable">
 <tbody>
 <tr class="odd">
-<td><p><img src="https://cdn.discordapp.com/attachments/439888081231937552/669464559198666752/mining.png"></p>
+<td><img src="https://cdn.discordapp.com/attachments/439888081231937552/669464559198666752/mining.png">
 <center>
 <p><strong>Safety first!</strong></p>
 </center></td>
@@ -479,7 +479,7 @@ plastics, so let's start drilling\!
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/644529326661828640/oil_spring.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/644529326661828640/oil_spring.png">
 </center>
 <center>
 <p><strong>Oil spring</strong></p>
@@ -488,7 +488,7 @@ plastics, so let's start drilling\!
 </tr>
 <tr class="even">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/644529376117129237/oil_well.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/644529376117129237/oil_well.png">
 </center>
 <center>
 <p><strong>Oil well</strong></p>
@@ -521,7 +521,7 @@ either wood, tree branches, mineral coal or charcoal.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/643462873888194560/ore_charcoal.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/643462873888194560/ore_charcoal.png">
 </center>
 <center>
 <p><strong>Charcoal</strong></p>
@@ -581,7 +581,7 @@ campfire.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/644112844933038080/campfire.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/644112844933038080/campfire.png">
 </center>
 <center>
 <p><strong>Campfire</strong></p>
@@ -592,7 +592,7 @@ Made with 4 wood logs. The first sparkle of Civilization, the harbinger of metal
 </tr>
 <tr class="even">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/644112875303993345/iron_oven.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/644112875303993345/iron_oven.png">
 </center>
 <center>
 <p><strong>Iron oven</strong></p>
@@ -603,7 +603,7 @@ Made with 8 iron ingots. A potbelly-like containment for fire.</p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/644112903766802454/wood_stove.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/644112903766802454/wood_stove.png">
 </center>
 <center>
 <p><strong>Wood stove</strong></p>
@@ -631,13 +631,13 @@ or 1 piece of mineral coal.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/644498653725327370/sheet_bronze.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/644498653725327370/sheet_bronze.png">
 </center>
 <center>
 <p><strong><img src="Full_Crafting_List#bronze" title="wikilink">Bronze</a></strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/644486545801347082/sheet_steel.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/644486545801347082/sheet_steel.png">
 </center>
 <center>
 <p><strong><img src="Full_Crafting_List#steel" title="wikilink">Steel</a></strong></p>
@@ -671,7 +671,7 @@ item's name.
 </tr>
 <tr class="even">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/644473278769004544/furnace.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/644473382347341824/clay_brick_furnace.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/644473278769004544/furnace.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/644473382347341824/clay_brick_furnace.png">
 </center>
 <center>
 <p><strong>Furnace</strong></p>
@@ -703,7 +703,7 @@ level of the crafting skill before you are able to use them.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/644646426172850225/loom.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/644646426172850225/loom.png">
 </center>
 <center>
 <p><strong>Loom</strong></p>
@@ -719,7 +719,7 @@ level of the crafting skill before you are able to use them.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/644648843069358137/drying_rack.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/644648843069358137/drying_rack.png">
 </center>
 <center>
 <p><strong>Tanning rack</strong></p>
@@ -735,7 +735,7 @@ level of the crafting skill before you are able to use them.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/703238864621535252/retting_trough.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/703238864621535252/retting_trough.png">
 </center>
 <center>
 <p><strong>Retting trough</strong></p>
@@ -751,7 +751,7 @@ level of the crafting skill before you are able to use them.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/644645082749992992/anvil.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/644645082749992992/anvil.png">
 </center>
 <center>
 <p><strong>Anvil</strong></p>
@@ -768,7 +768,7 @@ Made with 25 iron ingots. Used to forge weapons and armour across the centuries,
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/644882477348814878/gunbench.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/644882477348814878/gunbench.png">
 </center>
 <center>
 <p><strong>Gunsmithing bench</strong></p>
@@ -786,7 +786,7 @@ Made with 13 wood logs. Used to assemble custom firearms from separate parts sta
 </tr>
 <tr class="even">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701864727537516684/blueprint.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701864727537516684/blueprint.png">
 </center>
 <center>
 <p><strong>Blueprint</strong></p>
@@ -852,13 +852,13 @@ These serve to truly extend one's reach.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/646772763603894322/arrow_shaft.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/646772763603894322/arrow_shaft.png">
 </center>
 <center>
 <p><strong>Arrow shaft</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/646776047215312896/arrow_fire.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/646776047215312896/arrow_fire.png">
 </center>
 <center>
 <p><strong>Fire arrow</strong></p>
@@ -873,66 +873,66 @@ These serve to truly extend one's reach.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/646773540346920980/arrow_stone.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/646773540346920980/arrow_stone.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/646775329767030794/arrow_sandstone.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/646775329767030794/arrow_sandstone.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/646772945678761984/arrow_copper.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/646772945678761984/arrow_copper.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/646772911130279946/arrow_bronze.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/646772911130279946/arrow_bronze.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/646773616163291162/arrow_iron.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/646773616163291162/arrow_iron.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/646773043875545092/arrow_steel.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/646773043875545092/arrow_steel.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/646773161622372352/arrow_vial.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/646773161622372352/arrow_vial.png">
 </center></td>
 </tr>
 <tr class="even">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/646774461596434443/arrowhead_stone.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/646774461596434443/arrowhead_stone.png">
 </center>
 <center>
 <p><strong>Stone</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/646774299948220416/arrowhead_sandstone.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/646774299948220416/arrowhead_sandstone.png">
 </center>
 <center>
 <p><strong>Sandstone</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/646774232855871539/arrowhead_copper.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/646774232855871539/arrowhead_copper.png">
 </center>
 <center>
 <p><strong>Copper</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/646774145421672459/arrowhead_bronze.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/646774145421672459/arrowhead_bronze.png">
 </center>
 <center>
 <p><strong>Bronze</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/646774258382667816/arrowhead_iron.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/646774258382667816/arrowhead_iron.png">
 </center>
 <center>
 <p><strong>Iron</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/646774425135349773/arrowhead_steel.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/646774425135349773/arrowhead_steel.png">
 </center>
 <center>
 <p><strong>Steel</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/646774549924413471/arrowhead_vial.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/646774549924413471/arrowhead_vial.png">
 </center>
 <center>
 <p><strong>Vial</strong></p>
@@ -1051,25 +1051,25 @@ that see the **[Guide to Chemistry](Guide_to_Chemistry "wikilink")**.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/647471842269069322/casing_pistol.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/647471842269069322/casing_pistol.png">
 <center>
 <center>
 <p><strong>Pistol casing</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/647471908480090134/casing_rifle.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/647471908480090134/casing_rifle.png">
 <center>
 <center>
 <p><strong>Rifle casing</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/647471973232017408/casing_shell.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/647471973232017408/casing_shell.png">
 <center>
 <center>
 <p><strong>Shell casing</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/647472053288566784/casing_shell_tank.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/647472053288566784/casing_shell_tank.png">
 <center>
 <center>
 <p><strong>Field cannon casing</strong></p>
@@ -1087,7 +1087,7 @@ that see the **[Guide to Chemistry](Guide_to_Chemistry "wikilink")**.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/647472344910004224/iron_bullet.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/647472344910004224/iron_bullet.png">
 <center>
 <center>
 <p><strong>Iron bullet</strong></p>
@@ -1199,7 +1199,7 @@ a flimsy one.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/645267245366247425/wall_straw.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/645267245366247425/wall_straw.png">
 </center>
 <center>
 <p><strong>All</strong></p>
@@ -1216,19 +1216,19 @@ same for all directions.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/645289419460313108/wall_log_vertical.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/645289419460313108/wall_log_vertical.png">
 </center>
 <center>
 <p><strong>N, S</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/645265960525103116/wall_log.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/645265960525103116/wall_log.png">
 </center>
 <center>
 <p><strong>W, E</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/645266006696263708/wall_log_corner.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/645266006696263708/wall_log_corner.png">
 </center>
 <center>
 <p><strong>Corner</strong></p>
@@ -1245,22 +1245,22 @@ than the log one.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401744540172298/wall_wood.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401744540172298/wall_wood.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401751716757584/wall_wood1.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401751716757584/wall_wood1.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401755436974169/wall_wood2.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401755436974169/wall_wood2.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401760583254027/wall_wood3.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401760583254027/wall_wood3.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401765524144258/wall_wood4.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401765524144258/wall_wood4.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401771689771049/wall_wood5.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401771689771049/wall_wood5.png">
 </center></td>
 </tr>
 <tr class="even">
@@ -1284,7 +1284,7 @@ doors and doorways, such as medieval and shoji. More details below.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/645265609889939457/wall_frame.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/645265609889939457/wall_frame.png">
 </center>
 <center>
 <p><strong>All</strong></p>
@@ -1302,16 +1302,16 @@ logs and choose a design.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/645266092436094987/wall_medieval.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/645266092436094987/wall_medieval.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/645266136187011072/wall_medieval_cross.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/645266136187011072/wall_medieval_cross.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/645266173700866048/wall_medieval_NE.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/645266173700866048/wall_medieval_NE.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/645266206831542312/wall_medieval_SE.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/645266206831542312/wall_medieval_SE.png">
 </center></td>
 </tr>
 <tr class="even">
@@ -1334,13 +1334,13 @@ construct a wall frame first, then click it with a paper sheet.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/645266253102972948/wall_shoji.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/645266253102972948/wall_shoji.png">
 </center>
 <center>
 <p><strong>Wall</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/645266294634971137/wall_shoji_divider.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/645266294634971137/wall_shoji_divider.png">
 </center>
 <center>
 <p><strong>Divider</strong></p>
@@ -1364,13 +1364,13 @@ it with bamboo bundles.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/706080428729171988/wall_bamboo.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/706080428729171988/wall_bamboo.png">
 </center>
 <center>
 <p><strong>Wall</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/706080316716220416/doorway_bamboo.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/706080316716220416/doorway_bamboo.png">
 </center>
 <center>
 <p><strong>Doorway</strong></p>
@@ -1392,28 +1392,28 @@ Made with 8 wood logs. Useful for creating your very own altepetl.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/672415820575670302/wall_aztec.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/672415820575670302/wall_aztec.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/672415861289648188/wall_aztec1.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/672415861289648188/wall_aztec1.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/672542300135751733/wall_aztec7.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/672542300135751733/wall_aztec7.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/672415899273396254/wall_aztec2.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/672415899273396254/wall_aztec2.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/672415937386774528/wall_aztec3.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/672415937386774528/wall_aztec3.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/672415993183731722/wall_aztec4.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/672415993183731722/wall_aztec4.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/672417496208244756/wall_aztec5.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/672417496208244756/wall_aztec5.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/672417532841295882/wall_aztec6.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/672417532841295882/wall_aztec6.png">
 </center></td>
 </tr>
 <tr class="even">
@@ -1438,28 +1438,28 @@ Made with 6 stones.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701037113382273054/wall_mayan.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701037113382273054/wall_mayan.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701037126896189490/wall_mayan1.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701037126896189490/wall_mayan1.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701037129911894056/wall_mayan2.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701037129911894056/wall_mayan2.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701037133196034098/wall_mayan3.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701037133196034098/wall_mayan3.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701037139466387486/wall_mayan4.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701037139466387486/wall_mayan4.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701037144356945970/wall_mayan5.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701037144356945970/wall_mayan5.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701037149167943740/wall_mayan6.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701037149167943740/wall_mayan6.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701037153593065482/wall_mayan7.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701037153593065482/wall_mayan7.png">
 </center></td>
 </tr>
 <tr class="even">
@@ -1489,34 +1489,34 @@ mirrored accordingly.)
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701037077994930206/wall_egyptian.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701037077994930206/wall_egyptian.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701037080301797426/wall_egyptian1.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701037080301797426/wall_egyptian1.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701037081752895538/wall_egyptian2.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701037081752895538/wall_egyptian2.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701037085020389376/wall_egyptian3.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701037085020389376/wall_egyptian3.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701037088077774918/wall_egyptian4.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701037088077774918/wall_egyptian4.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701037090355413072/wall_egyptian5.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701037090355413072/wall_egyptian5.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701037092699897896/wall_egyptian6.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701037092699897896/wall_egyptian6.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701037118566170634/wall_egyptian7.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701037118566170634/wall_egyptian7.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705409603579674665/archway_egyptian_S.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705409603579674665/archway_egyptian_S.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705409598542315590/archway_egyptian_E.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705409598542315590/archway_egyptian_E.png">
 </center></td>
 </tr>
 <tr class="even">
@@ -1547,22 +1547,22 @@ Made with 8 wood logs. For all your Långhus and mead hall needs.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401554135548014/wall_nordic.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401554135548014/wall_nordic.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401559860772894/wall_nordic1.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401559860772894/wall_nordic1.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401565795844166/wall_nordic2.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401565795844166/wall_nordic2.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401571445309500/wall_nordic3.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401571445309500/wall_nordic3.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401577363734558/wall_nordic4.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401577363734558/wall_nordic4.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401583185428600/wall_nordic5.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401583185428600/wall_nordic5.png">
 </center></td>
 </tr>
 <tr class="even">
@@ -1585,22 +1585,22 @@ Made with 8 stones. Opus caementicium usque in sempiternum.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401589107523665/wall_roman.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401589107523665/wall_roman.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401594812039208/wall_roman1.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401594812039208/wall_roman1.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401600507773018/wall_roman2.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401600507773018/wall_roman2.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401605436080219/wall_roman3.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401605436080219/wall_roman3.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401610721034341/wall_roman4.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401610721034341/wall_roman4.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401615980691496/wall_roman5.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401615980691496/wall_roman5.png">
 </center></td>
 </tr>
 <tr class="even">
@@ -1625,7 +1625,7 @@ start building a wall where you stand. Add 3 more piles to finish.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/645266964918435840/wall_dirt_block.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/645266964918435840/wall_dirt_block.png">
 </center>
 <center>
 <p><strong>All</strong></p>
@@ -1643,7 +1643,7 @@ where you stand. Add 3 more piles to finish.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/645266337706409992/wall_snow_block.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/645266337706409992/wall_snow_block.png">
 </center>
 <center>
 <p><strong>All</strong></p>
@@ -1662,13 +1662,13 @@ batches to finish.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/645265528943935488/wall_clay_block.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/645265528943935488/wall_clay_block.png">
 </center>
 <center>
 <p><strong>Wall</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705480051130368050/doorway_clay.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705480051130368050/doorway_clay.png">
 </center>
 <center>
 <p><strong>Doorway</strong></p>
@@ -1694,25 +1694,25 @@ The doorway is made by applying generic stucco to a clay block doorway.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705479172658561104/wall_red_earth_S.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705479172658561104/wall_red_earth_S.png">
 </center>
 <center>
 <p><strong>Regular</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705479166543528001/wall_red_earth_pillared_S.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705479166543528001/wall_red_earth_pillared_S.png">
 </center>
 <center>
 <p><strong>Pillared</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705479185128226896/wall_red_earth_smooth_SN.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705479185128226896/wall_red_earth_smooth_SN.png">
 </center>
 <center>
 <p><strong>Smooth</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705480060668215366/doorway_red_earth_S.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705480060668215366/doorway_red_earth_S.png">
 </center>
 <center>
 <p><strong>Doorway</strong></p>
@@ -1734,19 +1734,19 @@ image below is NW.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/645267290849542154/wall_sumerian.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/645267290849542154/wall_sumerian.png">
 </center>
 <center>
 <p><strong>Wall</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/645654180987535385/door_sumerian.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/645654180987535385/door_sumerian.png">
 </center>
 <center>
 <p><strong>Doorway</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/645653901722517524/wall_sumerian_corner.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/645653901722517524/wall_sumerian_corner.png">
 </center>
 <center>
 <p><strong>Corner</strong></p>
@@ -1769,13 +1769,13 @@ Made with 8 sandstones.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701481478575489165/wall_sandstone_smooth.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701481478575489165/wall_sandstone_smooth.png">
 </center>
 <center>
 <p><strong>Smooth</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701481474305556620/wall_sandstone_brick.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701481474305556620/wall_sandstone_brick.png">
 </center>
 <center>
 <p><strong>Brick</strong></p>
@@ -1798,25 +1798,25 @@ different designs.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/645267002482753547/wall_stone.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/645267002482753547/wall_stone.png">
 </center>
 <center>
 <p><strong>Regular</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/645267039522521088/wall_stone_brick.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/645267039522521088/wall_stone_brick.png">
 </center>
 <center>
 <p><strong>Brick</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/645267079376797696/wall_stone_cobbled.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/645267079376797696/wall_stone_cobbled.png">
 </center>
 <center>
 <p><strong>Cobbled</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/645267175589937162/wall_stone_tiled.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/645267175589937162/wall_stone_tiled.png">
 </center>
 <center>
 <p><strong>Tiled</strong></p>
@@ -1841,28 +1841,28 @@ available (icons will be mirrored accordingly.)
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401621294874644/wall_stone_block.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401621294874644/wall_stone_block.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401626655064125/wall_stone_block1.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401626655064125/wall_stone_block1.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401632527089734/wall_stone_block2.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401632527089734/wall_stone_block2.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401637723963513/wall_stone_block3.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401637723963513/wall_stone_block3.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401643520491520/wall_stone_block4.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401643520491520/wall_stone_block4.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401648301867048/wall_stone_block5.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401648301867048/wall_stone_block5.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705409717958082590/archway_stone_block_S.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705409717958082590/archway_stone_block_S.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705409708621561886/archway_stone_block_E.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705409708621561886/archway_stone_block_E.png">
 </center></td>
 </tr>
 <tr class="even">
@@ -1897,31 +1897,31 @@ The archway is made by applying Greek stucco to a stone block archway.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705433614619246622/wall_grecian_smooth.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705433614619246622/wall_grecian_smooth.png">
 </center>
 <center>
 <p><strong>Smooth</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705433566728945825/wall_grecian_cobbled.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705433566728945825/wall_grecian_cobbled.png">
 </center>
 <center>
 <p><strong>Cobbled</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705433595434500137/wall_grecian_pattern.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705433595434500137/wall_grecian_pattern.png">
 </center>
 <center>
 <p><strong>Pattern</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705433581220003850/wall_grecian_cobbled_pattern.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705433581220003850/wall_grecian_cobbled_pattern.png">
 </center>
 <center>
 <p><strong>Cob. pattern</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705409698714878002/archway_grecian_S.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705409698714878002/archway_grecian_S.png">
 </center>
 <center>
 <p><strong>Archway</strong></p>
@@ -1929,16 +1929,16 @@ The archway is made by applying Greek stucco to a stone block archway.
 </tr>
 <tr class="even">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705433622353805412/wall_grecian_smooth_bordered.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705433622353805412/wall_grecian_smooth_bordered.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705433574094143498/wall_grecian_cobbled_bordered.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705433574094143498/wall_grecian_cobbled_bordered.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705433603214934056/wall_grecian_pattern_bordered.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705433603214934056/wall_grecian_pattern_bordered.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705433588773945375/wall_grecian_cobbled_pattern_bordered.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705433588773945375/wall_grecian_cobbled_pattern_bordered.png">
 </center></td>
 <td></td>
 </tr>
@@ -1972,37 +1972,37 @@ the design.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401739263606789/wall_villa_S.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401739263606789/wall_villa_S.png">
 </center>
 <center>
 <p><strong>Regular</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401692182675576/wall_villa_pillared_S.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401692182675576/wall_villa_pillared_S.png">
 </center>
 <center>
 <p><strong>Pillared</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401733752553522/wall_villa_relief_S.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401733752553522/wall_villa_relief_S.png">
 </center>
 <center>
 <p><strong>Relief</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401727561760808/wall_villa_relief_greek_S.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401727561760808/wall_villa_relief_greek_S.png">
 </center>
 <center>
 <p><strong>Hoplite rel.</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401701926174771/wall_villa_relief_aquila_S.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401701926174771/wall_villa_relief_aquila_S.png">
 </center>
 <center>
 <p><strong>Aquila rel.</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401717768061008/wall_villa_relief_gladiator_S.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401717768061008/wall_villa_relief_gladiator_S.png">
 </center>
 <center>
 <p><strong>Gladiator rel.</strong></p>
@@ -2020,28 +2020,28 @@ accordingly.)
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401652781383680/wall_stone_brick.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401652781383680/wall_stone_brick.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401658158350336/wall_stone_brick1.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401658158350336/wall_stone_brick1.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401663166480454/wall_stone_brick2.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401663166480454/wall_stone_brick2.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401668568875028/wall_stone_brick3.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401668568875028/wall_stone_brick3.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401673626943578/wall_stone_brick4.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401673626943578/wall_stone_brick4.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401678320369694/wall_stone_brick5.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401678320369694/wall_stone_brick5.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705409739466473532/archway_stone_brick_S.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705409739466473532/archway_stone_brick_S.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705409730767487037/archway_stone_brick_E.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705409730767487037/archway_stone_brick_E.png">
 </center></td>
 </tr>
 <tr class="even">
@@ -2072,34 +2072,34 @@ accordingly.)
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701063579930984508/wall_fortress.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701063579930984508/wall_fortress.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701063583873761280/wall_fortress1.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701063583873761280/wall_fortress1.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701063587460022362/wall_fortress2.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701063587460022362/wall_fortress2.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701063591876493382/wall_fortress3.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701063591876493382/wall_fortress3.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701063596129517578/wall_fortress4.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701063596129517578/wall_fortress4.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701063604862058596/wall_fortress6.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701063604862058596/wall_fortress6.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701063600739057694/wall_fortress5.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701063600739057694/wall_fortress5.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701063609836634143/wall_fortress7.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701063609836634143/wall_fortress7.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705409651210190918/archway_fortress_S.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705409651210190918/archway_fortress_S.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705409610659659806/archway_fortress_E.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705409610659659806/archway_fortress_E.png">
 </center></td>
 </tr>
 <tr class="even">
@@ -2132,22 +2132,22 @@ start building a wall where you stand. Add 1 more batch to finish.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401474837905458/wall_brick.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401474837905458/wall_brick.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401482488578058/wall_brick1.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401482488578058/wall_brick1.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401489602117704/wall_brick2.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401489602117704/wall_brick2.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401496602279966/wall_brick3.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401496602279966/wall_brick3.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401502801592330/wall_brick4.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401502801592330/wall_brick4.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401508639932446/wall_brick5.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401508639932446/wall_brick5.png">
 </center></td>
 </tr>
 <tr class="even">
@@ -2173,22 +2173,22 @@ more batch to finish.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401516063719554/wall_cement.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401516063719554/wall_cement.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401522833326151/wall_cement1.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401522833326151/wall_cement1.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401529514852393/wall_cement2.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401529514852393/wall_cement2.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401535957303316/wall_cement3.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401535957303316/wall_cement3.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401542299353098/wall_cement4.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401542299353098/wall_cement4.png">
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/705401548032835624/wall_cement5.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/705401548032835624/wall_cement5.png">
 </center></td>
 </tr>
 <tr class="even">
@@ -2218,31 +2218,31 @@ columns. **Mine supports do not hold the buildable roof\!**
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/647786785736228885/roof_support_wooden.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/647786785736228885/roof_support_wooden.png">
 </center>
 <center>
 <p><strong>Roof support</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/669526975903432714/roof_support_nordic.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/669526975903432714/roof_support_nordic.png">
 </center>
 <center>
 <p><strong>Nordic roof support</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/647786748075835425/roof_support_stone.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/647786748075835425/roof_support_stone.png">
 </center>
 <center>
 <p><strong>Stone pillar</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701500700471066735/roof_support_concrete.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701500700471066735/roof_support_concrete.png">
 </center>
 <center>
 <p><strong>Concrete pillar</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/669526936137236490/roof_support_ionic.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/669526936137236490/roof_support_ionic.png">
 </center>
 <center>
 <p><strong>Ionic column</strong></p>
@@ -2250,19 +2250,19 @@ columns. **Mine supports do not hold the buildable roof\!**
 </tr>
 <tr class="even">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/669527011043311627/roof_support_solomonic.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/669527011043311627/roof_support_solomonic.png">
 </center>
 <center>
 <p><strong>Solomonic column</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/669527043746168842/roof_support_solomonic_thick.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/669527043746168842/roof_support_solomonic_thick.png">
 </center>
 <center>
 <p><strong>Thick Solomonic column</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/669526893305004032/roof_support_aztec.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/669526893305004032/roof_support_aztec.png">
 </center>
 <center>
 <p><strong>Aztec column</strong></p>
@@ -2311,7 +2311,7 @@ in the roofed area, or even standing next to it.**
 <p><br />
 </p>
 <center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701500690505269278/roof_palm.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701500690505269278/roof_palm.png">
 </center>
 <center>
 <p><strong>Palm leaves roof</strong></p>
@@ -2325,7 +2325,7 @@ in the roofed area, or even standing next to it.**
 <p><br />
 </p>
 <center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701500706724511794/roof_thatch.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701500706724511794/roof_thatch.png">
 </center>
 <center>
 <p><strong>Thatch roof</strong></p>
@@ -2339,7 +2339,7 @@ in the roofed area, or even standing next to it.**
 <p><br />
 </p>
 <center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701500712626159726/roof_wood.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701500712626159726/roof_wood.png">
 </center>
 <center>
 <p><strong>Wood roof</strong></p>
@@ -2353,7 +2353,7 @@ in the roofed area, or even standing next to it.**
 <p><br />
 </p>
 <center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701500675158442034/roof_clay.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701500675158442034/roof_clay.png">
 </center>
 <center>
 <p><strong>Clay roof</strong></p>
@@ -2367,7 +2367,7 @@ in the roofed area, or even standing next to it.**
 <p><br />
 </p>
 <center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701500679776108765/roof_clay_black.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701500679776108765/roof_clay_black.png">
 </center>
 <center>
 <p><strong>Kerawa roof</strong></p>
@@ -2390,7 +2390,7 @@ in the roofed area, or even standing next to it.**
 <p><br />
 </p>
 <center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701500695735566446/roof_sandstone.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701500695735566446/roof_sandstone.png">
 </center>
 <center>
 <p><strong>Sandstone roof</strong></p>
@@ -2404,7 +2404,7 @@ in the roofed area, or even standing next to it.**
 <p><br />
 </p>
 <center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701500685056999435/roof_mayan.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701500685056999435/roof_mayan.png">
 </center>
 <center>
 <p><strong>Mayan roof</strong></p>
@@ -2418,7 +2418,7 @@ in the roofed area, or even standing next to it.**
 <p><br />
 </p>
 <center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/701500668707340330/roof_cement.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/701500668707340330/roof_cement.png">
 </center>
 <center>
 <p><strong>Concrete roof</strong></p>
@@ -2442,7 +2442,7 @@ underground. Floors can be removed with the hammer.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/645984210741624862/floor_cover.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/645984210741624862/floor_cover.png">
 </center>
 <center>
 <p><strong>Floor cover</strong></p>
@@ -2867,7 +2867,7 @@ with a key (the iron and jail doors currently) - more details below.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/703238750045601872/key.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/703238799831859222/keychain.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/703238750045601872/key.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/703238799831859222/keychain.png">
 </center>
 <center>
 <p><strong>Key and keychain</strong></p>
@@ -2999,95 +2999,95 @@ random and may differ from the icons below.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707549360233381999/fence_woodWE.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707549360233381999/fence_woodWE.png">
 </center>
 <center>
 <p><strong>W,E</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707549350435225640/fence_woodN.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707549350435225640/fence_woodN.png">
 </center>
 <center>
 <p><strong>N</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707549355162468392/fence_woodS.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707549355162468392/fence_woodS.png">
 </center>
 <center>
 <p><strong>S</strong></p>
 </center></td>
 <td></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707549335306502184/fence_picketWE.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707549335306502184/fence_picketWE.png">
 </center>
 <center>
 <p><strong>W,E</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707549324149653534/fence_picketN.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707549324149653534/fence_picketN.png">
 </center>
 <center>
 <p><strong>N</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707549330030067723/fence_picketS.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707549330030067723/fence_picketS.png">
 </center>
 <center>
 <p><strong>S</strong></p>
 </center></td>
 <td></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707552636228075543/fence_palisadeW.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707552636228075543/fence_palisadeW.png">
 </center>
 <center>
 <p><strong>W</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707552626203557928/fence_palisadeE.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707552626203557928/fence_palisadeE.png">
 </center>
 <center>
 <p><strong>E</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707552629215199242/fence_palisadeN.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707552629215199242/fence_palisadeN.png">
 </center>
 <center>
 <p><strong>N</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707552632977358868/fence_palisadeS.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707552632977358868/fence_palisadeS.png">
 </center>
 <center>
 <p><strong>S</strong></p>
 </center></td>
 <td></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707549313206583416/fence_ironW.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707549313206583416/fence_ironW.png">
 </center>
 <center>
 <p><strong>W</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707549302721085470/fence_ironE.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707549302721085470/fence_ironE.png">
 </center>
 <center>
 <p><strong>E</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707549307787804712/fence_ironNS.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707549307787804712/fence_ironNS.png">
 </center>
 <center>
 <p><strong>N,S</strong></p>
 </center></td>
 <td></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707584500959543296/fence_chainlinkWE.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707584500959543296/fence_chainlinkWE.png">
 </center>
 <center>
 <p><strong>W,E</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707584498359074857/fence_chainlinkNS.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707584498359074857/fence_chainlinkNS.png">
 </center>
 <center>
 <p><strong>N,S</strong></p>
@@ -3151,13 +3151,13 @@ random and may differ from the icons below.
 </tr>
 <tr class="even">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707549345766965288/fence_wood_bars.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707549345766965288/fence_wood_bars.png">
 </center>
 <center>
 <p><strong>All</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707549340373352549/fence_steel_bars.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707549340373352549/fence_steel_bars.png">
 </center>
 <center>
 <p><strong>All</strong></p>
@@ -3232,75 +3232,75 @@ right next to and behind them.**
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707591240308228196/barricade_dirtW.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707591240308228196/barricade_dirtW.png">
 </center>
 <center>
 <p><strong>W</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707591229679861780/barricade_dirtE.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707591229679861780/barricade_dirtE.png">
 </center>
 <center>
 <p><strong>E</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707591233643479191/barricade_dirtN.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707591233643479191/barricade_dirtN.png">
 </center>
 <center>
 <p><strong>N</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707591237464490094/barricade_dirtS.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707591237464490094/barricade_dirtS.png">
 </center>
 <center>
 <p><strong>S</strong></p>
 </center></td>
 <td></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707591295597674566/barricade_snowW.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707591295597674566/barricade_snowW.png">
 </center>
 <center>
 <p><strong>W</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707591282469634078/barricade_snowE.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707591282469634078/barricade_snowE.png">
 </center>
 <center>
 <p><strong>E</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707591286265348237/barricade_snowN.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707591286265348237/barricade_snowN.png">
 </center>
 <center>
 <p><strong>N</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707591291055243377/barricade_snowS.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707591291055243377/barricade_snowS.png">
 </center>
 <center>
 <p><strong>S</strong></p>
 </center></td>
 <td></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707591258402717766/barricade_rockW.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707591258402717766/barricade_rockW.png">
 </center>
 <center>
 <p><strong>W</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707591249581834300/barricade_rockE.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707591249581834300/barricade_rockE.png">
 </center>
 <center>
 <p><strong>E</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707591250131550268/barricade_rockN.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707591250131550268/barricade_rockN.png">
 </center>
 <center>
 <p><strong>N</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707591254313009242/barricade_rockS.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707591254313009242/barricade_rockS.png">
 </center>
 <center>
 <p><strong>S</strong></p>
@@ -3350,25 +3350,25 @@ right next to and behind them.**
 </tr>
 <tr class="even">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707591278216347752/barricade_sandbagW.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707591278216347752/barricade_sandbagW.png">
 </center>
 <center>
 <p><strong>W</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707591262357946428/barricade_sandbagE.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707591262357946428/barricade_sandbagE.png">
 </center>
 <center>
 <p><strong>E</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707591266333884427/barricade_sandbagN.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707591266333884427/barricade_sandbagN.png">
 </center>
 <center>
 <p><strong>N</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707591384227381338/barricade_sandbagS.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707591384227381338/barricade_sandbagS.png">
 </center>
 <center>
 <p><strong>S</strong></p>
@@ -3417,50 +3417,50 @@ barrier with the rolls themselves. Could be cut with the wirecutters.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707549288305000458/fence_barbwireW.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707549288305000458/fence_barbwireW.png">
 </center>
 <center>
 <p><strong>W</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707549275407515669/fence_barbwireE.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707549275407515669/fence_barbwireE.png">
 </center>
 <center>
 <p><strong>E</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707549278448648202/fence_barbwireN.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707549278448648202/fence_barbwireN.png">
 </center>
 <center>
 <p><strong>N</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707549282693283850/fence_barbwireS.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707549282693283850/fence_barbwireS.png">
 </center>
 <center>
 <p><strong>S</strong></p>
 </center></td>
 <td></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707599591905951823/barrier_jerseyW.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707599591905951823/barrier_jerseyW.png">
 </center>
 <center>
 <p><strong>W</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707599581235380234/barrier_jerseyE.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707599581235380234/barrier_jerseyE.png">
 </center>
 <center>
 <p><strong>E</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707599584452542574/barrier_jerseyN.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707599584452542574/barrier_jerseyN.png">
 </center>
 <center>
 <p><strong>N</strong></p>
 </center></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/707599587845865522/barrier_jerseyS.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/707599587845865522/barrier_jerseyS.png">
 </center>
 <center>
 <p><strong>S</strong></p>
@@ -3540,7 +3540,7 @@ ingots).
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/675053465520832513/engine_iron_furnace.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/675053433723682846/engine_steam.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/675053465520832513/engine_iron_furnace.png"> <img src="https://cdn.discordapp.com/attachments/439888081231937552/675053433723682846/engine_steam.png">
 </center>
 <center>
 <p><strong>Iron furnace/Steam engine</strong></p>
@@ -3552,7 +3552,7 @@ Build both the furnace and the engine, and place them next to each other, in nei
 </tr>
 <tr class="even">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/675101560824528956/engine_hotbulb.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/675101560824528956/engine_hotbulb.png">
 </center>
 <center>
 <p><strong>Hot bulb engine</strong></p>
@@ -3562,7 +3562,7 @@ Build both the furnace and the engine, and place them next to each other, in nei
 </tr>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/675101531686567936/engine_diesel.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/675101531686567936/engine_diesel.png">
 </center>
 <center>
 <p><strong>Diesel engine</strong></p>
@@ -3572,7 +3572,7 @@ Build both the furnace and the engine, and place them next to each other, in nei
 </tr>
 <tr class="even">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/675766885681332224/engine_gasoline.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/675766885681332224/engine_gasoline.png">
 </center>
 <center>
 <p><strong>Gasoline 4-stroke engine</strong></p>
@@ -3591,7 +3591,7 @@ There are two kinds of refinery - petroleum and biofuel.
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/675289815083909120/refinery.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/675289815083909120/refinery.png">
 </center>
 <center>
 <p><strong>Refinery</strong></p>
@@ -3625,7 +3625,7 @@ Made with 18 steel sheets. Used to produce ethanol from alcoholic beverages (the
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/675289772939411496/bakelizer.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/675289772939411496/bakelizer.png">
 </center>
 <center>
 <p><strong>Bakelizer</strong></p>
@@ -3759,7 +3759,7 @@ to avoid pushing them on accident, but it is not necessary.**
 <tbody>
 <tr class="odd">
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/439888081231937552/715218134054862868/ship_steel.png"></p>
+<img src="https://cdn.discordapp.com/attachments/439888081231937552/715218134054862868/ship_steel.png">
 </center></td>
 <td><ul>
 <li>A ship frame could also be built with steel instead of wood in later ages. <strong>Ship rudder axis has to be built with wood, though.</strong></li>

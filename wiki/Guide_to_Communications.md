@@ -13,14 +13,14 @@
 <tr class="odd">
 <td><p>Utility pole</p></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/485954244437082112/638478244143693844/ea.png"></p>
+<img src="https://cdn.discordapp.com/attachments/485954244437082112/638478244143693844/ea.png">
 <center></td>
 <td><p>must be within <strong>2</strong> tiles of another tower to work, can't be diagonal</p></td>
 </tr>
 <tr class="even">
 <td><p>Cell Tower</p></td>
 <td><center>
-<p><img src="https://cdn.discordapp.com/attachments/485954244437082112/638478249227321354/eas.png"></p>
+<img src="https://cdn.discordapp.com/attachments/485954244437082112/638478249227321354/eas.png">
 <center></td>
 <td><p>Must be within <strong>30</strong> tiles of another tower to work. needs power</p></td>
 </tr>
