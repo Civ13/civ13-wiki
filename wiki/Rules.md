@@ -253,11 +253,7 @@ neon hair colors, realistic colors for their ethnicities only.
   - Facial hair can be long such as a beard, but not too long
   - Skin color must be from 55-95
 
-<h2>
-
-Discord Rules:
-
-</h2>
+## Discord Rules
 
   - Keep topics to their appropriate channels as much as possible.
   - Do not spam.
@@ -269,7 +265,7 @@ The following content is not allowed to be posted:
 
   - Gore
   - Pornography
-  - Illicit links and files.
+  - Illicit links and files
   - Excessive Violence
 
 <b>**What staff say is law, so if they ask you to stop, stop.**</b>
