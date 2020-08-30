@@ -7,9 +7,9 @@ domesticating animals.
 <table>
 <thead>
 <tr class="header">
-<th><p>scope = "col" style="width: 10%" | Animal</p></th>
-<th><p>scope = "col" style="width: 0.1%" class="sortable" | Image</p></th>
-<th><p>scope = "col" style="width: 10%" class="sortable" | Description</p></th>
+<th><p>Animal</p></th>
+<th><p>Image</p></th>
+<th><p>Description</p></th>
 </tr>
 </thead>
 <tbody>
