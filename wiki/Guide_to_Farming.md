@@ -132,278 +132,40 @@ Wet (winter and spring) and dry (summer and fall) seasons apply to the
 Desert, Savanna and Jungles biomes.
 
 ## Crop catalogue
-
-<table class="sortable">
-<thead>
-<tr class="header">
-<th><p>Crop</p></th>
-<th><p>Biome</p></th>
-<th><p>Season</p></th>
-<th><p>Max<br />
-Water Level</p></th>
-<th><p>Description</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><small><strong>Tundra</strong></small></p></td>
-<td><p><small><strong>Taiga</strong></small></p></td>
-<td><p><small><strong>Temperate</strong></small></p></td>
-<td><p><small><strong>Sea</strong></small></p></td>
-<td><p><small><strong>Semi-Arid</strong></small></p></td>
-</tr>
-<tr class="even">
-<td><p><br />
-</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Rice</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Apricot</p></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Cherry</p></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Banana</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Barley</p></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Beans</p></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>Cotton</p></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Oat</p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>Wheat</p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Tea</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>Tomato</p></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Tobacco</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Mushroom</p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Flax</p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Hemp</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Sugarcane</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>Grapes</p></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Corn</p></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>Cabbage</p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Olives</p></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>Carrot</p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Potato</p></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Poppy</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Lime</p></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>Lemon</p></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Apple</p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-</tr>
-<tr class="odd">
-<td><p>Orange</p></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Coca</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Bamboo</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Coffee</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Tree</p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Melon</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Pumpkin</p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Peyote</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Coconut</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-</tr>
-</tbody>
-</table>
+|Crop | Tundra | Taiga | Temperate | Sea | Semi-Arid | Desert | Savanna | Jungle | Season | Max Water Level | Description |
+|-------|---|---|---|---|---|---|---|---|-------|-------|--------------|
+| Rice | O | O | X | O | O | X | X | All | 30 | Used as food and to make sake. |
+| Apricot | O | O | X | O | O | X | X | X | All | 40 | Used as food. |
+| Cherry | O | O | X | O | O | X | X | X | All | 40 | Used as food. |
+| Banana | O | O | O | O | O | O | X | X | All | 45 | Used as food. |
+| Barley | O | X | X | X | X | O | O | O | Spring, Summer, Fall, Wet | 50 | Used as food and to make beer. |
+| Beans | O | X | X | X | X | X | X | O | All | 50 | Used as food. |
+| Cotton | O | O | X | X | X | X | O | O | Spring, Summer, Wet, Dry | 50 | Used to make '''[[Full Crafting List#cloth |Cloth]]'''. |
+| Oat | X | X | X | X | O | O | O | O | Spring, Summer, Fall, Wet | 50 | Used as food. |
+| Wheat | X | X | X | X | X | X | O | O | Spring, Summer, Fall, Wet | 50 | Used to feed cattle, make flour and beer. |
+| Tea | O | O | O | X | X | O | X | X | All | 50 | Drinkable, used to cure illnesses and treat toxin damage. |
+| Tomato | O | O | X | X | X | X | X | X | Spring, Summer, Wet, Dry | 55 | Used as food. |
+| Tobacco | O | O | O | O | X | X | X | X | All | 55 | Used to make cigars and cigarettes. |
+| Mushroom | X | X | X | X | O | O | X | X | Spring, Summer, Fall, Winter, Wet | 55 | Used as food. |
+| Flax | X | X | X | O | O | O | O | O | All | 60 | Used to make retted fabric. |
+| Hemp | O | O | O | X | X | X | X | X | Spring, Summer, Fall, Wet, Dry | 60 | Used to make rope, retted fabric and joints. |
+| Sugarcane | O | O | O | X | O | O | X | X | All | 60 | Used to make sugar. |
+| Grapes | O | O | X | X | X | X | O | O | Spring, Summer, Fall, Wet, Dry | 65 | Used as food and to make wine. |
+| Corn | O | X | X | X | X | X | X | X | Spring, Summer, Wet, Dry | 70 | Used as food. |
+| Cabbage | X | X | X | X | X | O | O | O | All | 70 | Used as food. |
+| Olives | O | O | X | X | X | X | O | O | All | 70 | Used as food and to make olive oil. |
+| Carrot | X | X | X | X | X | X | X | X | All | 75 | Used as food. |
+| Potato | O | X | X | O | X | O | O | O | All | 75 | Used as food and to make vodka. |
+| Poppy | O | O | O | O | O | X | X | X | All | 75 | A painkiller. |
+| Lime | O | O | X | X | X | X | O | X | All | 75 | Used as food. |
+| Lemon | O | O | X | X | X | X | O | X | All | 75 | Used as food. |
+| Apple | X | X | X | X | X | O | O | O | All | 75 | Used as food. |
+| Orange | O | O | X | X | X | X | O | X | All | 75 | Used as food. |
+| Coca | O | O | O | O | O | O | X | X | All | 75 | Used to make cocaine. |
+| Bamboo | O | O | O | X | O | O | O | X | Spring, Summer, Fall, Winter, Wet | 80 | A construction material. |
+| Coffee | O | O | O | O | X | X | X | X | All | 80 | A stimulant, temporarily increase movement speed. |
+| Tree | X | X | X | X | X | X | X | X | Spring, Summer, Fall, Wet, Dry | 80 | Cultivated to obtain wood. |
+| Melon | O | O | O | O | X | X | O | X | Spring, Summer, Wet | 90 | Used as food. |
+| Pumpkin | X | X | X | O | O | O | O | O | All | 90 | Used as food. |
+| Peyote | O | O | O | O | O | X | O | O | All | 100 | A painkiller, slowly heals brain damage. |
+| Coconut | O | O | O | X | O | O | O | X | All | 100 | Used as food. |
