@@ -3,7 +3,7 @@ title: Civ13 Wiki
 # (string) Description of your wiki
 description: Civ13's Wiki Guide
 # (boolean) Enable/disable wiki page list in sidebar
-show_wiki_pages: true
+show_wiki_pages: false
 # (integer) Maximum number of wiki page to shown in sidebar
 show_wiki_pages_limit: 10
 # (boolean) Enable/disable blog feature (pages)
