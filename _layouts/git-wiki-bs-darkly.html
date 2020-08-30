@@ -19,7 +19,16 @@
     {% include git-wiki/sections/head/styles.html %}
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/darkly/bootstrap.min.css">
-
+    {% comment %} Hacky-Fix for lux theme {% endcomment %}
+    <style>
+        .git-wiki-page {
+            padding-left: 0;   
+        }
+        
+        .wrapper .col-lg-3 {
+            max-width: 300px;
+        }
+    </style>
     {% if site.inc_after_head %}
     {% include {{ site.inc_after_head }} %}
     {% endif %}
