@@ -106,7 +106,7 @@ The Wild West and the American Civil War.
 
 **TDM:** [Little Creek TDM](Little_Creek_TDM "wikilink")
 
-**RP:[Little Creek RP](Little_Creek_RP "wikilink") -
+**RP:**[Little Creek RP](Little_Creek_RP "wikilink") -
 [Pioneers](Pioneers "wikilink")
 
 ### 1903 A.D.
@@ -114,7 +114,7 @@ The Wild West and the American Civil War.
 Victorian Era and the Russo-Japanese war.
 
 **TDM:** [Hill 203](Hill_203 "wikilink") -
-**[Ypress](Ypress "wikilink") - **[Tsaritsyn](Tsaritsyn "wikilink")
+[Ypress](Ypress "wikilink") - [Tsaritsyn](Tsaritsyn "wikilink")
 
 ### 1943 A.D.
 
