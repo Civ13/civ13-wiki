@@ -881,7 +881,7 @@ This is the artillery menu. From the top to the bottom;
 3.  The deviation to the right/left of the shell (from your character's
     point of view)
 
-![image](https://imgur.com/LWR7LVY.png">
+![image](https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/LWR7LVY.png">
 To have a higher chance of success at firing artillery shells on your
 enemies' territory, it's best if you have a telescope in hand. Or even
 better yet, a "spotter" to have their telescope always on the target,
@@ -891,7 +891,7 @@ telling you where to aim while you control the artillery.
     distance. If you want to hit 45 tiles away, you must aim for "45"
     distance.\*
 
-![image](https://imgur.com/BjuQU61.png">
+![image](https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/BjuQU61.png">
 
 <hr>
 
@@ -900,24 +900,24 @@ telling you where to aim while you control the artillery.
     aligned with your enemy, you can use these to move your shell
     left-to-right instead of moving the artillery.
 
-![image](https://imgur.com/uSxJ8hu.png">
+![image](https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/uSxJ8hu.png">
 
 <hr>
 
   - You will need to load a shell before firing, you can clearly see if
     there's one by checking the panel.
 
-![image](https://imgur.com/MKPjuJy.png">
+![image](https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/MKPjuJy.png">
 
   - There are many kinds of shells, like chlorine shells, zyklon B
     shells, white phosphorus shells, makeshift nuclear shells and many
     more, but let's see these more simple examples.
 
-![image](https://imgur.com/okbGhZ8.png"> This is a
+![image](https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/okbGhZ8.png"> This is a
 <b>H</b>igh-<b>E</b>xplosive shell, it will create a big explosion where
 it lands, spreading fire along. Great if your enemy has houses made out
 of wood or if there's grass around.
-![image](https://imgur.com/N5Xkpza.png"> This is an
+![image](https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/N5Xkpza.png"> This is an
 <b>A</b>rmor-<b>P</b>iercing shell, it will pierce through the armour of
 tanks.
 

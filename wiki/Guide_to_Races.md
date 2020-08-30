@@ -32,7 +32,7 @@ Playable
 
 <th style="background-color:white">
 
-<img width="64" height="64" alt="Human.png" src="https://imgur.com/8BdL6ZF.png">
+<img width="64" height="64" alt="Human.png" src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/8BdL6ZF.png">
 Humans
 
 </th>
@@ -57,7 +57,7 @@ They greatly vary in physique and behaviour.
 
 <th style="background-color:white">
 
-<img width="64" height="64" alt="Wolfman.png" src="https://imgur.com/HEVFxnj.png">
+<img width="64" height="64" alt="Wolfman.png" src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/HEVFxnj.png">
 Wolfmen
 
 </th>
@@ -82,7 +82,7 @@ consumed but they'll get sick from rotten meat).
 
 <th style="background-color:white">
 
-<img width="64" height="64" alt="Lizard.png" src="https://imgur.com/R6WC9KX.png">
+<img width="64" height="64" alt="Lizard.png" src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/R6WC9KX.png">
 Lizardfolk
 
 </th>
@@ -106,7 +106,7 @@ They're highly resistant to heat and have a strong bite.
 
 <th style="background-color:white">
 
-<img width="64" height="64" alt="Orc.png" src="https://imgur.com/2iW6cry.png">
+<img width="64" height="64" alt="Orc.png" src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/2iW6cry.png">
 Orcs
 
 </th>
@@ -134,7 +134,7 @@ radiation. WAAAGH\!
 
 <th style="background-color:white">
 
-<img width="64" height="64" alt="Antman.png" src="https://imgur.com/mEK2RaU.png">
+<img width="64" height="64" alt="Antman.png" src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/mEK2RaU.png">
 Antmen
 
 </th>
@@ -161,7 +161,7 @@ limited construction.
 
 <th style="background-color:white">
 
-<img width="64" height="64" alt="Crabs.png" src="https://imgur.com/6TY3QJD.png">
+<img width="64" height="64" alt="Crabs.png" src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/6TY3QJD.png">
 Crabs
 
 </th>
@@ -185,7 +185,7 @@ strong shell and sharp claws perfect for unarmed combat.
 
 <th style="background-color:white">
 
-<img width="64" height="64" alt="Skeleton.png" src="https://imgur.com/ztvOGK4.png">
+<img width="64" height="64" alt="Skeleton.png" src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/ztvOGK4.png">
 Skeletons
 
 </th>
