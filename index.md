@@ -2,14 +2,14 @@
 
 ![logo](https://i.imgur.com/napac0L.png)
 
-<h2>What is this?</h2>
+## What is this?
 
 Civilization 13 (formerly 1713) is a game based on Space Station 13 code
 and using the BYOND platform, which features several epochs of human
 history. (hence the name).
 
 It features both Roleplay-oriented and Team-Deathmatch modes, with the
-main one being [Civilizations](Civilizations_and_Nomads "wikilink"), in
+main one being [Nomads](Civilizations_and_Nomads "wikilink"), in
 which you need to bring your civilization from the Stone Age to the
 Modern Age.
 
@@ -106,7 +106,7 @@ The Wild West and the American Civil War.
 
 **TDM:** [Little Creek TDM](Little_Creek_TDM "wikilink")
 
-**RP:**[Little Creek RP](Little_Creek_RP "wikilink") -
+**RP:** [Little Creek RP](Little_Creek_RP "wikilink") -
 [Pioneers](Pioneers "wikilink")
 
 ### 1903 A.D.
