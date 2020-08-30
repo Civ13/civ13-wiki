@@ -133,7 +133,7 @@ Desert, Savanna and Jungles biomes.
 
 ## Crop catalogue
 |Crop | Tundra | Taiga | Temperate | Sea | Semi-Arid | Desert | Savanna | Jungle | Season | Max Water Level | Description |
-|-------|---|---|---|---|---|---|---|---|-------|-------|--------------|
+|------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|---------|:-:|--------------|
 | Rice | O | O | O | X | O | O | X | X | All | 30 | Used as food and to make sake. |
 | Apricot | O | O | X | O | O | X | X | X | All | 40 | Used as food. |
 | Cherry | O | O | X | O | O | X | X | X | All | 40 | Used as food. |
