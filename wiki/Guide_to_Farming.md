@@ -7,7 +7,7 @@ power.
 
 To farm, you will require some basic tools.
 
-<table>
+<table class="sortable">
 <thead>
 <tr class="header">
 <th><p>Item</p></th>
@@ -133,7 +133,7 @@ Desert, Savanna and Jungles biomes.
 
 ## Crop catalogue
 
-<table>
+<table class="sortable">
 <thead>
 <tr class="header">
 <th><p>Crop</p></th>

@@ -45,12 +45,12 @@ fridge needs to be powered to keep the food inside it safe to eat
 All great dishes require ingredients\! Here you will find the
 ingredients needed to make your fantastic dishes, uma delicia\!
 
-<table>
+<table class="sortable">
 <thead>
 <tr class="header">
 <th><p>scope = "col" style="width: 10%" | Ingredient</p></th>
-<th><p>scope = "col" style="width: 10%" class="sortable" | Image</p></th>
-<th><p>scope = "col" style="width: 10%" class="sortable" | Steps</p></th>
+<th><p>scope = "col" style="width: 10%" | Image</p></th>
+<th><p>scope = "col" style="width: 10%" | Steps</p></th>
 </tr>
 </thead>
 <tbody>
@@ -109,12 +109,12 @@ ingredients needed to make your fantastic dishes, uma delicia\!
 There are many different recipes to be made that can perfect your
 culinary art\!
 
-<table>
+<table class="sortable">
 <thead>
 <tr class="header">
 <th><p>scope = "col" style="width: 10%" | Dish</p></th>
-<th><p>scope = "col" style="width: 10%" class="sortable" |Recipe</p></th>
-<th><p>scope = "col" style="width: 10%" class="sortable" |Steps</p></th>
+<th><p>scope = "col" style="width: 10%" |Recipe</p></th>
+<th><p>scope = "col" style="width: 10%" |Steps</p></th>
 </tr>
 </thead>
 <tbody>

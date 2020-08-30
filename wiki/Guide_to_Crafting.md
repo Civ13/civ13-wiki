@@ -79,7 +79,7 @@ Pioneers, only the Blacksmith can use the anvil.
 
 ## Tools
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -228,7 +228,7 @@ There are two main ways to obtain
     Trees will grow back slowly.
   - **[Cultivate trees on farms](Guide_to_Farming "wikilink")**
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -266,7 +266,7 @@ Almost every living being out there could contribute to the cause of
 Progress. Let's examine this more closely, leaving all the edible bits
 to the **[Guide to Cooking](Guide_to_Cooking "wikilink")**.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -320,7 +320,7 @@ When you have piles of dirt or snow, you can use them right away to
 build barricades and walls. Refer to the
 **[Construction](#Construction "wikilink")** section for more details.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -369,7 +369,7 @@ crafting.
 hammer and chisel - click a stack of obsidian rocks with a chisel while
 holding a hammer in the other hand.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -419,7 +419,7 @@ holding a hammer in the other hand.
 
 #### <big>Mining</big>
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><p><img src="https://cdn.discordapp.com/attachments/439888081231937552/669464559198666752/mining.png"></p>
@@ -475,7 +475,7 @@ There is nothing like burning some dead, millons of years old
 microorganisms for your own comfort or processing them for shiny
 plastics, so let's start drilling\!
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -517,7 +517,7 @@ The means to harness fire.
 To keep the flames burning, you need fuel, and for that you can use
 either wood, tree branches, mineral coal or charcoal.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -577,7 +577,7 @@ slots'. The second one is the time it takes to cook something in the
 fire - advanced ovens and stoves are much faster at it than the
 campfire.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -627,7 +627,7 @@ or 1 piece of mineral coal.
 
 **Available alloys**
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -658,7 +658,7 @@ Furnace could be made with either 10 stones or 10 pieces of clay.
 Hover the mouse cursor over the icons below to see the material or the
 item's name.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td></td>
@@ -699,7 +699,7 @@ level of the crafting skill before you are able to use them.
 
 ### Loom
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -715,7 +715,7 @@ level of the crafting skill before you are able to use them.
 
 ### Tanning rack
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -731,7 +731,7 @@ level of the crafting skill before you are able to use them.
 
 ### Retting trough
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -747,7 +747,7 @@ level of the crafting skill before you are able to use them.
 
 ### Anvil
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -764,7 +764,7 @@ Made with 25 iron ingots. Used to forge weapons and armour across the centuries,
 
 ### Gunsmithing bench
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -848,7 +848,7 @@ These serve to truly extend one's reach.
 
 <big>**Arrows**</big>
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -869,7 +869,7 @@ These serve to truly extend one's reach.
 </tbody>
 </table>
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -1047,7 +1047,7 @@ that see the **[Guide to Chemistry](Guide_to_Chemistry "wikilink")**.
 
 <hr>
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -1083,7 +1083,7 @@ that see the **[Guide to Chemistry](Guide_to_Chemistry "wikilink")**.
     container, 1 unit for pistol casings, 1.5 for rifle and 5 for shell
     and cannon.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -1148,7 +1148,7 @@ Bricks and blocks are made with
 
 Hover the mouse cursor over the images below to see the material cost.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -1195,7 +1195,7 @@ apply a weapon with high damage.
 Made with 4 wood logs. Very primitive, but it still provides shelter, if
 a flimsy one.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -1212,7 +1212,7 @@ a flimsy one.
 Made with 6 wood logs. A sturdy wall, if slightly crude. Corner is the
 same for all directions.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -1241,7 +1241,7 @@ same for all directions.
 Made with 7 wood logs. Being out of planks, this wall is more refined
 than the log one.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -1280,7 +1280,7 @@ than the log one.
 Made with 1 wood log. Used as a base to build various walls, windows,
 doors and doorways, such as medieval and shoji. More details below.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -1298,7 +1298,7 @@ Made with 6 wood logs. A timber frame wall that comes in several
 designs. To build, construct a wall frame first, then click it with wood
 logs and choose a design.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -1330,7 +1330,7 @@ Made with 1 paper sheet. A light paper wall, hailing from Japan. Divider
 is meant for the interior of a building (this is important.) To build,
 construct a wall frame first, then click it with a paper sheet.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -1360,7 +1360,7 @@ Made with bamboo: wall - 3 bundles, doorway - 2. Fits in nicely with the
 jungle surroundings. To build, construct a wall frame first, then click
 it with bamboo bundles.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -1388,7 +1388,7 @@ it with bamboo bundles.
 <big><u>**Aztec**</u></big>
 Made with 8 wood logs. Useful for creating your very own altepetl.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -1434,7 +1434,7 @@ Made with 8 wood logs. Useful for creating your very own altepetl.
 <big><u>**Mayan**</u></big>
 Made with 6 stones.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -1485,7 +1485,7 @@ Made with 6 sandstones.
 For the archway, directions N and W are also available (icons will be
 mirrored accordingly.)
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -1543,7 +1543,7 @@ mirrored accordingly.)
 <big><u>**Nordic**</u></big>
 Made with 8 wood logs. For all your Långhus and mead hall needs.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -1581,7 +1581,7 @@ Made with 8 wood logs. For all your Långhus and mead hall needs.
 <big><u>**Roman**</u></big>
 Made with 8 stones. Opus caementicium usque in sempiternum.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -1621,7 +1621,7 @@ A slightly dull, yet fairly useful material. Take a pile of dirt in your
 hand and click it, or press Ctrl-Z or Z in the hotkeys mode. This will
 start building a wall where you stand. Add 3 more piles to finish.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -1639,7 +1639,7 @@ Perfect for igloos. Take a pile of snow in your hand and click it, or
 press Ctrl-Z or Z in the hotkeys mode. This will start building a wall
 where you stand. Add 3 more piles to finish.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -1658,7 +1658,7 @@ and click it, or press Ctrl-Z or Z in the hotkeys mode. Select clay
 blocks. This will start building a wall where you stand. Add 2 more
 batches to finish.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -1690,7 +1690,7 @@ the design.
 
 The doorway is made by applying generic stucco to a clay block doorway.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -1730,7 +1730,7 @@ prompted to choose a wall type, normal or corner, or to make it a
 doorway. Corner could be chosen for 4 directions, NW, NE, SW, SE. The
 image below is NW.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -1765,7 +1765,7 @@ image below is NW.
 <big><u>**Sandstone**</u></big>
 Made with 8 sandstones.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -1794,7 +1794,7 @@ Made with 8 sandstones.
 Made with 8 stones. Use a chisel with a hammer to carve it into
 different designs.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -1837,7 +1837,7 @@ different designs.
 Made with 8 stones. For the archway, directions N and W are also
 available (icons will be mirrored accordingly.)
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -1893,7 +1893,7 @@ orientation.
 
 The archway is made by applying Greek stucco to a stone block archway.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -1968,7 +1968,7 @@ Made by applying 1 portion of Roman stucco (made with 1.5 pieces of
 clay) to a stone block wall. Click the wall with the stucco, then select
 the design.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -2016,7 +2016,7 @@ Made with 6 stone bricks, which are made from regular stone. For the
 archway, directions N and W are also available (icons will be mirrored
 accordingly.)
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -2068,7 +2068,7 @@ Made with 8 stones. One of the strongest walls. For the archway,
 directions N and W are also available (icons will be mirrored
 accordingly.)
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -2128,7 +2128,7 @@ An advanced construction material. Take 1 batch of clay bricks in your
 hand and click it, or press Ctrl-Z or Z in the hotkeys mode. This will
 start building a wall where you stand. Add 1 more batch to finish.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -2169,7 +2169,7 @@ of cement bricks in your hand and click it, or press Ctrl-Z or Z in the
 hotkeys mode. This will start building a wall where you stand. Add 1
 more batch to finish.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -2214,7 +2214,7 @@ sandstorms, as well as a nice cool shade.
 Roofs are supported by walls, wooden roof supports and stone pillars and
 columns. **Mine supports do not hold the buildable roof\!**
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -2299,7 +2299,7 @@ the roof. An additional "Turf" tab will appear in the upper right corner
 will collapse\! Collapsing roof may severely injure and even kill those
 in the roofed area, or even standing next to it.**
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -2378,7 +2378,7 @@ in the roofed area, or even standing next to it.**
 
 <hr>
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -2438,7 +2438,7 @@ civilized way, swiftly and with resonant "top-top" footfalls\! Not only
 that - floors on the surface prevent digging upwards from the
 underground. Floors can be removed with the hammer.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -2458,7 +2458,7 @@ Hover the mouse cursor over an image to see the cost and the material.
 
 <big><u>**Wood floors**</u></big>
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -2495,7 +2495,7 @@ Raw marble and marble tiles (except for ornate and grid tiles) floors
 each have a few versions that have a slightly different look, which are
 randomly selected upon construction.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -2650,7 +2650,7 @@ randomly selected upon construction.
 
 <big><u>**Sandstone floors**</u></big>
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -2702,7 +2702,7 @@ randomly selected upon construction.
 
 <big><u>**Clay floors**</u></big>
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -2718,7 +2718,7 @@ randomly selected upon construction.
 
 <big><u>**Steel floors**</u></big>
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -2743,7 +2743,7 @@ At the moment, craftable stairs are purely cosmetic and cannot be used
 to travel between different Z levels. Nevertheless, they still could be
 used to create an impression of height difference.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -2782,7 +2782,7 @@ the direction (how it looks when built while facing either N, S, W or E.
 Only the doors marked as "locked" in the crafting menu could be locked
 with a key (the iron and jail doors currently) - more details below.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -2863,7 +2863,7 @@ with a key (the iron and jail doors currently) - more details below.
 </tbody>
 </table>
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -2892,7 +2892,7 @@ A window frame is built first. To add glass, click the window frame with
 Hover the mouse cursor over the images below to see the material cost
 and additional details.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -2995,7 +2995,7 @@ and additional details.
 The appearance of the primitive wood and picket wood fences is slightly
 random and may differ from the icons below.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -3228,7 +3228,7 @@ hand.**
 **Barricades provide some protection from ranged attacks when you stand
 right next to and behind them.**
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -3413,7 +3413,7 @@ barrier with the rolls themselves. Could be cut with the wirecutters.
 
 **Jersey barrier** - made with 3 stone.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -3536,7 +3536,7 @@ ingots).
     to the engine by clicking. To remove a fuel tank, right-click the
     engine and choose the "Remove fuel tank" command.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -3587,7 +3587,7 @@ Build both the furnace and the engine, and place them next to each other, in nei
 
 There are two kinds of refinery - petroleum and biofuel.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -3621,7 +3621,7 @@ Made with 18 steel sheets. Used to produce ethanol from alcoholic beverages (the
 
 ### Bakelizer
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>
@@ -3755,7 +3755,7 @@ to avoid pushing them on accident, but it is not necessary.**
     with 2500 carried weight. Click the axis to finish building the
     ship.
 
-<table>
+<table class="sortable">
 <tbody>
 <tr class="odd">
 <td><center>

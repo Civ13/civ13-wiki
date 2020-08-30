@@ -1,12 +1,12 @@
 # Guide to Weapons
 ## 5000 B.C. Weapons
 
-<table>
+<table class="sortable">
 <thead>
 <tr class="header">
 <th scope = "col" style="width: 10%">Weapon</th>
-<th scope = "col" style="width: 10%" class="sortable">Image</th>
-<th scope = "col" style="width: 10%" class="sortable">Description</th>
+<th scope = "col" style="width: 10%">Image</th>
+<th scope = "col" style="width: 10%">Description</th>
 <th scope = "col" style="width: 5%">Available</th>
 <th scope = "col" style="width: 1%">Craftable?</th>
 <th scope = "col" style="width: 1%">Ammo type</th>
@@ -110,12 +110,12 @@
 
 ## 313 B.C. Weapons
 
-<table>
+<table class="sortable">
 <thead>
 <tr class="header">
 <th scope = "col" style="width: 10%">Weapon</th>
-<th scope = "col" style="width: 10%" class="sortable">Image</th>
-<th scope = "col" style="width: 10%" class="sortable">Description</th>
+<th scope = "col" style="width: 10%">Image</th>
+<th scope = "col" style="width: 10%">Description</th>
 <th scope = "col" style="width: 5%">Available</th>
 <th scope = "col" style="width: 1%">Craftable?</th>
 <th scope = "col" style="width: 1%">Ammo type</th>
@@ -257,12 +257,12 @@
 
 ## 1013 A.D. Weapons
 
-<table>
+<table class="sortable">
 <thead>
 <tr class="header">
 <th scope = "col" style="width: 10%">Weapon</th>
-<th scope = "col" style="width: 10%" class="sortable">Image</th>
-<th scope = "col" style="width: 10%" class="sortable">Description</th>
+<th scope = "col" style="width: 10%">Image</th>
+<th scope = "col" style="width: 10%">Description</th>
 <th scope = "col" style="width: 5%">Available</th>
 <th scope = "col" style="width: 1%">Craftable?</th>
 <th scope = "col" style="width: 1%">Ammo type</th>
@@ -474,12 +474,12 @@
 
 ## 1713 A.D. Weapons
 
-<table>
+<table class="sortable">
 <thead>
 <tr class="header">
 <th scope = "col" style="width: 10%">Weapon</th>
-<th scope = "col" style="width: 10%" class="sortable">Image</th>
-<th scope = "col" style="width: 10%" class="sortable">Description</th>
+<th scope = "col" style="width: 10%">Image</th>
+<th scope = "col" style="width: 10%">Description</th>
 <th scope = "col" style="width: 5%">Available</th>
 <th scope = "col" style="width: 1%">Craftable?</th>
 <th scope = "col" style="width: 1%">Ammo type</th>
@@ -601,12 +601,12 @@
 
 ## 1873 A.D. Weapons
 
-<table>
+<table class="sortable">
 <thead>
 <tr class="header">
 <th scope = "col" style="width: 10%">Weapon</th>
-<th scope = "col" style="width: 10%" class="sortable">Image</th>
-<th scope = "col" style="width: 10%" class="sortable">Description</th>
+<th scope = "col" style="width: 10%">Image</th>
+<th scope = "col" style="width: 10%">Description</th>
 <th scope = "col" style="width: 5%">Available</th>
 <th scope = "col" style="width: 1%">Craftable?</th>
 <th scope = "col" style="width: 1%">Ammo type</th>
@@ -688,17 +688,17 @@
 
 ## 1903 A.D. Weapons
 
-| scope = "col" style="width: 10%">Weapon | scope = "col" style="width: 10%" class="sortable">Image | scope = "col" style="width: 10%" class="sortable">Description | scope = "col" style="width: 5%">Available | scope = "col" style="width: 1%">Craftable? | scope = "col" style="width: 1%">Ammo type |
+| scope = "col" style="width: 10%">Weapon | scope = "col" style="width: 10%">Image | scope = "col" style="width: 10%">Description | scope = "col" style="width: 5%">Available | scope = "col" style="width: 1%">Craftable? | scope = "col" style="width: 1%">Ammo type |
 | ----------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------- | -------------------------------------------- | ------------------------------------------- |
 
 ## 1943 A.D. Weapons
 
-<table>
+<table class="sortable">
 <thead>
 <tr class="header">
 <th scope = "col" style="width: 10%">Weapon</th>
-<th scope = "col" style="width: 10%" class="sortable">Image</th>
-<th scope = "col" style="width: 10%" class="sortable">Description</th>
+<th scope = "col" style="width: 10%">Image</th>
+<th scope = "col" style="width: 10%">Description</th>
 <th scope = "col" style="width: 5%">Available</th>
 <th scope = "col" style="width: 1%">Craftable?</th>
 <th scope = "col" style="width: 1%">Ammo type</th>
@@ -790,12 +790,12 @@
 
 ## 1973 A.D. Weapons
 
-<table>
+<table class="sortable">
 <thead>
 <tr class="header">
 <th scope = "col" style="width: 10%">Weapon</th>
-<th scope = "col" style="width: 10%" class="sortable">Image</th>
-<th scope = "col" style="width: 10%" class="sortable">Description</th>
+<th scope = "col" style="width: 10%">Image</th>
+<th scope = "col" style="width: 10%">Description</th>
 <th scope = "col" style="width: 5%">Available</th>
 <th scope = "col" style="width: 1%">Craftable?</th>
 <th scope = "col" style="width: 1%">Ammo type</th>
@@ -847,12 +847,12 @@
 
 ## 2013 A.D. Weapons
 
-<table>
+<table class="sortable">
 <thead>
 <tr class="header">
 <th scope = "col" style="width: 10%">Weapon</th>
-<th scope = "col" style="width: 10%" class="sortable">Image</th>
-<th scope = "col" style="width: 10%" class="sortable">Description</th>
+<th scope = "col" style="width: 10%">Image</th>
+<th scope = "col" style="width: 10%">Description</th>
 <th scope = "col" style="width: 5%">Available</th>
 <th scope = "col" style="width: 1%">Craftable?</th>
 <th scope = "col" style="width: 1%">Ammo type</th>

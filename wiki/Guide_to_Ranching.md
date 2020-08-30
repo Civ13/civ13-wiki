@@ -4,7 +4,7 @@
 Well, from the very start of the Neolithic age, Humanity has started
 domesticating animals.
 
-<table>
+<table class="sortable">
 <thead>
 <tr class="header">
 <th><p>Animal</p></th>
@@ -84,7 +84,7 @@ Pigs, Sheep, Goats and turkey's can breed for now)**
 
 ### Wildlife
 
-<table>
+<table class="sortable">
 <thead>
 <tr class="header">
 <th><p>Animal</p></th>
@@ -224,12 +224,12 @@ Pigs, Sheep, Goats and turkey's can breed for now)**
 
 ## Bugs
 
-<table>
+<table class="sortable">
 <thead>
 <tr class="header">
 <th><p>scope = "col" style="width: 1%" | Insect</p></th>
-<th><p>scope = "col" style="width: 0.1%" class="sortable" | Image</p></th>
-<th><p>scope = "col" style="width: 10%" class="sortable" | Description</p></th>
+<th><p>scope = "col" style="width: 0.1%" | Image</p></th>
+<th><p>scope = "col" style="width: 10%" | Description</p></th>
 </tr>
 </thead>
 <tbody>

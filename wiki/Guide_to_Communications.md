@@ -1,7 +1,7 @@
 # Guide to Communications
 ## Towers
 
-<table>
+<table class="sortable">
 <thead>
 <tr class="header">
 <th><p>Type of Tower</p></th>
