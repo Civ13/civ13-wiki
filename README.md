@@ -1,5 +1,6 @@
 # Civ13 Wiki
 
+![Jekyll site CI](https://github.com/Civ13/civ13-wiki/workflows/Jekyll%20site%20CI/badge.svg)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/civ13/civ13-wiki.svg?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/civ13/civ13-wiki.svg?style=flat)
 
