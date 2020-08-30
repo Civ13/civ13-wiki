@@ -27,6 +27,8 @@
     <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
     {% endif %}
 
+    {% include git-wiki/sections/sidebar.html %}
+
     {% if site.show_downloads %}
     {% include git-wiki/components/action_btn/downloads.html %}
     {% endif %}
