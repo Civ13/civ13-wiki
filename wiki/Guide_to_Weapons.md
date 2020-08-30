@@ -16,7 +16,7 @@
 <tr class="odd">
 <td><p>Club</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/452503902152032256/635131150104526888/Club.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Club.png">
 </center></td>
 <td><p>A club used by cavemen during the stone age, reports say that during the Dunga wars, cavemen could be heard saying "UNGA BUNGA!" while waving their clubs around.</p></td>
 <td><p>5000 B.C.- 2020 A.D.</p></td>
@@ -26,7 +26,7 @@
 <tr class="even">
 <td><p>Quarterstaff</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695082367940952094/Quarterstaff.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Quarterstaff.png">
 </center></td>
 <td><p>A long stick to thwack thou enemies..</p></td>
 <td><p>5000 B.C.- 2020 A.D.</p></td>
@@ -36,7 +36,7 @@
 <tr class="odd">
 <td><p>Wood buckler</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695073037636075520/Wood_buckler.png"> <img src="https://cdn.discordapp.com/attachments/661433888819904522/695148657850187776/Woodb.png"> <img src="https://cdn.discordapp.com/attachments/661433888819904522/695148659536297996/Woodc.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Wood_buckler.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Woodb.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Woodc.png">
 </center></td>
 <td><p>A small shield made out of wood.</p></td>
 <td><p>5000 B.C.- 1600 A.D.</p></td>
@@ -46,7 +46,7 @@
 <tr class="even">
 <td><p>Battleaxe</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695044494483128370/Bone_battleaxe.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Bone_battleaxe.png">
 </center></td>
 <td><p>A battleaxe with a head the size of an infant, perfect to cut people in half because of inertia only. It can be made from multiple materials.</p></td>
 <td><p>5000 B.C. - 1850 A.D.</p></td>
@@ -56,7 +56,7 @@
 <tr class="odd">
 <td><p>Tomahawk</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695045502844141679/Tomahawk.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Tomahawk.png">
 </center></td>
 <td><p>Light and cheap, perfect for any indian wishing to end a soldier's life. Or a nomad to end a city's... It can be made from multiple materials.</p></td>
 <td><p>5000 B.C. - 1850 A.D.</p></td>
@@ -66,7 +66,7 @@
 <tr class="even">
 <td><p>Spear</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/452503902152032256/635147456614629386/Spear.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Spear.png">
 </center></td>
 <td><p>A pointy stick used by many societies and civilizations; It can be made with a variety of different materials.</p></td>
 <td><p>5000 B.C. - 2020 A.D.</p></td>
@@ -76,7 +76,7 @@
 <tr class="odd">
 <td><p>Sling</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695018801451892776/Sling.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Sling.png">
 </center></td>
 <td><p>A piece of leather which you can fling stones at the head of your foes with.</p></td>
 <td><p>5000 B.C. - 2020 A.D.</p></td>
@@ -86,7 +86,7 @@
 <tr class="even">
 <td><p>Whip</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695027425884635146/Whip.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Whip.png">
 </center></td>
 <td><p>A string of leather made to remind your slaves when NOT to stop farming your plantations.</p></td>
 <td><p>5000 B.C. - 2020 A.D.</p></td>
@@ -96,7 +96,7 @@
 <tr class="odd">
 <td><p>Primitive bow</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/674369554067226675/695076284396732467/Primitive_bow1.png"> <img src="https://cdn.discordapp.com/attachments/674369554067226675/695076282169425940/Primitive_bow2.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Primitive_bow1.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Primitive_bow2.png">
 </center></td>
 <td><p>A bow used by hunters to hunt gazelles and mammoths</p></td>
 <td><p>5000 B.C.- 1013 A.D.</p></td>
@@ -125,7 +125,7 @@
 <tr class="odd">
 <td><p>Xiphos</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/452503902152032256/635122334776164363/xiphos.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/xiphos.png">
 </center></td>
 <td><p>An ancient sword used by those in the Greek armies during the Greco-Persian wars, often times they were secondary weapons after the javelin or dory.</p></td>
 <td><p>313 B.C. - 313 B.C.</p></td>
@@ -135,7 +135,7 @@
 <tr class="even">
 <td><p>Dory</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695067169037353081/Dory.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Dory.png">
 </center></td>
 <td><p>The dory is a spear that was the main spear of hoplites (heavy infantry) in Ancient times.</p></td>
 <td><p>313 B.C. - 1013 A.D.</p></td>
@@ -145,7 +145,7 @@
 <tr class="odd">
 <td><p>Sarissa</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695067280429547580/Sarissa.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Sarissa.png">
 </center></td>
 <td><p>The sarissa was a spear used in Ancient times by multiple greek states in phalanx formations, it's lenght is around 4 to 6 metres.</p></td>
 <td><p>313 B.C. - 1013 A.D.</p></td>
@@ -155,7 +155,7 @@
 <tr class="even">
 <td><p>Greek Shield</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/452503902152032256/635141963741528074/Athenian_shield.png"> <img src="https://cdn.discordapp.com/attachments/452503902152032256/635142175646154772/pegasus_shield.png"> <img src="https://cdn.discordapp.com/attachments/452503902152032256/635142375353876481/Owl_shield.png"> <img src="https://cdn.discordapp.com/attachments/452503902152032256/635142636704890900/Spartan_shield.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Athenian_shield.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/pegasus_shield.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Owl_shield.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Spartan_shield.png">
 </center></td>
 <td><p>An ancient shield used by those in the Greek armies, each shield represents a Greek city-state.</p></td>
 <td><p>313 B.C. - 2020 A.D.</p></td>
@@ -165,7 +165,7 @@
 <tr class="odd">
 <td><p>Pilum</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695064998866714644/Pilum.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Pilum.png">
 </center></td>
 <td><p>A javelin commonly used by the Roman army in ancient times. It's head was an iron shank.</p></td>
 <td><p>313 B.C. - 1013 A.D.</p></td>
@@ -175,7 +175,7 @@
 <tr class="even">
 <td><p>Gladius</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/452503902152032256/635126789940838428/Gladius.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Gladius.png">
 </center></td>
 <td><p>An ancient sword used by those in the Roman army, it was the primary weapon used by foot soldiers.</p></td>
 <td><p>313 B.C. - 313 B.C.</p></td>
@@ -185,7 +185,7 @@
 <tr class="odd">
 <td><p>Roman buckler</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/452503902152032256/635133464265359361/Roman_buckler.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Roman_buckler.png">
 </center></td>
 <td><p>A small shield used by the Roman Army not to protect the body, but to stop parry blows.</p></td>
 <td><p>313 B.C. - 313 B.C.</p></td>
@@ -195,7 +195,7 @@
 <tr class="even">
 <td><p>Roman shield</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/452503902152032256/635134287343124490/Roman_shield.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Roman_shield.png">
 </center></td>
 <td><p>The standard Roman shield also refered to as the "Scutum", used by the Roman Army. This shield is known for being used to perform the <a href="https://en.wikipedia.org/wiki/Testudo_formation">"Testudo"</img></p></td>
 <td><p>313 B.C. - 2020 A.D.</p></td>
@@ -205,7 +205,7 @@
 <tr class="odd">
 <td><p>Roman standard</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/452503902152032256/635150146866511897/Roman_standard.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Roman_standard.png">
 </center></td>
 <td><p>What better way is there to send the message to the barbarians than whacking them in the head with it while screaming "Gloria Romae!"</p></td>
 <td><p>313 B.C. - 313 B.C.</p></td>
@@ -215,7 +215,7 @@
 <tr class="even">
 <td><p>Bronze shield</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695062476575735918/Bronze_shield.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Bronze_shield.png">
 </center></td>
 <td><p>A shield made from bronze.</p></td>
 <td><p>313 B.C. - 2020 A.D.</p></td>
@@ -225,7 +225,7 @@
 <tr class="odd">
 <td><p>Iron shield</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695085507230826536/Ironshield.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Ironshield.png">
 </center></td>
 <td><p>A shield made from iron.</p></td>
 <td><p>313 B.C. - 2020 A.D.</p></td>
@@ -235,7 +235,7 @@
 <tr class="even">
 <td><p>Small sword</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695053538925215784/Small_sword.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Small_sword.png">
 </center></td>
 <td><p>A small sword that can be made from various materials, such as; copper, iron and steel. Made for combat that's quick and close.</p></td>
 <td><p>450 A.D. - 2020 A.D.</p></td>
@@ -245,7 +245,7 @@
 <tr class="odd">
 <td><p>Arming sword</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695063833886064650/Arming_sword.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Arming_sword.png">
 </center></td>
 <td><p>A longer version of the short sword, can be made from bronze, iron or steel.</p></td>
 <td><p>700 A.D. - 2020 A.D.</p></td>
@@ -272,7 +272,7 @@
 <tr class="odd">
 <td><p>Garrote</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695047636008435802/Garrote.png"> <img src="https://cdn.discordapp.com/attachments/597816543728107541/695074412860407859/Garrote2.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Garrote.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Garrote2.png">
 </center></td>
 <td><p>Just like a necklace of pearls it is made to suit a neck, just not a lady's, and not for much time.</p></td>
 <td><p>650 B.C. - 2020 A.D.</p></td>
@@ -282,7 +282,7 @@
 <tr class="even">
 <td><p>Throwing knife</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695057122685354024/Throwing_knife.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Throwing_knife.png">
 </center></td>
 <td><p>A light knife made from iron, suited for throwing at dummies and unexpecting rivals.</p></td>
 <td><p>900 A.D. - 2020 A.D.</p></td>
@@ -292,7 +292,7 @@
 <tr class="odd">
 <td><p>Shuriken</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695087450883883079/Shuriken.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Shuriken.png">
 </center></td>
 <td><p>A shuriken is a Japanese concealed weapon that is commonly used by the samurai and police as a hidden dagger or quick dagger to throw.</p></td>
 <td><p>1013 A.D. - 2020 A.D.</p></td>
@@ -302,7 +302,7 @@
 <tr class="even">
 <td><p>Kunai</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695093026300756008/Kunai.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Kunai.png">
 </center></td>
 <td><p>A weapon to stab with and throw, but also a tool to spy... yoooOOOOOoo.</p></td>
 <td><p>1013 A.D. - 2020 A.D.</p></td>
@@ -312,7 +312,7 @@
 <tr class="odd">
 <td><p>Naginata</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695093252981915649/Naginata.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Naginata.png">
 </center></td>
 <td><p>A pole weapon used by the samurai class and the infantry of feudal Japan.</p></td>
 <td><p>1013 A.D. - 1650 A.D.</p></td>
@@ -322,7 +322,7 @@
 <tr class="even">
 <td><p>Katana</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695115835160789042/Katana.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Katana.png">
 </center></td>
 <td><p>A sword used by the samurai class in feudal Japan.</p></td>
 <td><p>1013 A.D.- 2020 A.D.</p></td>
@@ -332,7 +332,7 @@
 <tr class="odd">
 <td><p>Wakazashi</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695116000634470470/wakazashi.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wakazashi.png">
 </center></td>
 <td><p>The wakizashi is one of the traditionally made Japanese swords worn by the samurai in feudal Japan.</p></td>
 <td><p>1013 A.D.- 2020 A.D.</p></td>
@@ -342,7 +342,7 @@
 <tr class="even">
 <td><p>Tanto</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695115998969200660/tanto.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/tanto.png">
 </center></td>
 <td><p>A short japanese knife.</p></td>
 <td><p>1013 A.D.- 2020 A.D.</p></td>
@@ -352,7 +352,7 @@
 <tr class="odd">
 <td><p>Halberd</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695086834761334854/Halberd.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Halberd.png">
 </center></td>
 <td><p>The halberd consists of an axe blade topped with a spike mounted on a long shaft and a hook or thorn on the back side of the axe blade for grappling mounted combatants.</p></td>
 <td><p>1013 A.D. - 2020 A.D.</p></td>
@@ -362,7 +362,7 @@
 <tr class="even">
 <td><p>Pike</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695086836837515334/Pike.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Pike.png">
 </center></td>
 <td><p>A pike is a pole weapon, a very long thrusting spear used extensively by infantry.</p></td>
 <td><p>1013 A.D. - 2020 A.D.</p></td>
@@ -372,7 +372,7 @@
 <tr class="odd">
 <td><p>Steel shield</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695053942580707328/Steel_shield.png"> <img src="https://cdn.discordapp.com/attachments/597816543728107541/695112541218668574/Steel_Shield2.png"> <img src="https://cdn.discordapp.com/attachments/597816543728107541/695112543814942720/Steel_Shield3.png"> <img src="https://cdn.discordapp.com/attachments/597816543728107541/695112545664499792/Steel_Shield_4.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Steel_shield.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Steel_Shield2.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Steel_Shield3.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Steel_Shield_4.png">
 </center></td>
 <td><p>A shield made from hard steel, the most durable and resilient of its kind.</p></td>
 <td><p>700 A.D. - 2020 A.D.</p></td>
@@ -382,7 +382,7 @@
 <tr class="even">
 <td><p>Steel shield</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/661433888819904522/695148388056039424/Arab_Shield.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Arab_Shield.png">
 </center></td>
 <td><p>A shield used by saracens.</p></td>
 <td><p>700 A.D. - 2020 A.D.</p></td>
@@ -392,7 +392,7 @@
 <tr class="odd">
 <td><p>Templar Shield</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695111040186449920/Templar_Shield.png"> <img src="https://cdn.discordapp.com/attachments/597816543728107541/695111046406471700/Templar_Shield2.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Templar_Shield.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Templar_Shield2.png">
 </center></td>
 <td><p>A shield made from the best iron to fight for the Holy Throne. Deus lo vult!.</p></td>
 <td><p>1100 A.D. - 1300 A.D.</p></td>
@@ -402,7 +402,7 @@
 <tr class="even">
 <td><p>Maul</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695088531726532629/Maul.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Maul.png">
 </center></td>
 <td><p>A weapon made only for giants and mad men, this can reduce anyone to a meatsteak.</p></td>
 <td><p>650 B.C. - 2020 A.D.</p></td>
@@ -412,7 +412,7 @@
 <tr class="odd">
 <td><p>Huge fucking sword</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695088539792048208/Clang.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Clang.png">
 </center></td>
 <td><p>"But for now... I'll fight with my sword for him! (voices sing)" *Clang!*</p></td>
 <td><p>650 B.C. - 2020 A.D.</p></td>
@@ -422,7 +422,7 @@
 <tr class="even">
 <td><p>Cannon</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695059908856381520/Cannon.png"> <img src="https://cdn.discordapp.com/attachments/597816543728107541/695074730272620644/CannonW.png"> <img src="https://cdn.discordapp.com/attachments/597816543728107541/695074735079424020/CannonN.png"> <img src="https://cdn.discordapp.com/attachments/597816543728107541/695074732537675888/CannonE.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Cannon.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/CannonW.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/CannonN.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/CannonE.png">
 </center></td>
 <td><p>A cannon capable of taking down castle walls by firing cannonballs.</p></td>
 <td><p>1500 A.D. - 1850 A.D.</p></td>
@@ -432,7 +432,7 @@
 <tr class="odd">
 <td><p>Short bow</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/674369554067226675/695077411041181776/Short_bow1.png"> <img src="https://cdn.discordapp.com/attachments/674369554067226675/695077407878807613/Short_bow2.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Short_bow1.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Short_bow2.png">
 </center></td>
 <td><p>A standard bow.</p></td>
 <td><p>1013 A.D. - 1958 A.D.</p></td>
@@ -442,7 +442,7 @@
 <tr class="even">
 <td><p>Long bow</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695079287035920424/Long_bow1.png"> <img src="https://cdn.discordapp.com/attachments/597816543728107541/695079284158496839/Long_bow2.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Long_bow1.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Long_bow2.png">
 </center></td>
 <td><p>A bow capable of shooting further than a standard bow thanks to its longer string and bigger frame.</p></td>
 <td><p>1013 A.D. - 1958 A.D.</p></td>
@@ -452,7 +452,7 @@
 <tr class="odd">
 <td><p>Crossbow</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695081231297019914/Crossbow1.png"> <img src="https://cdn.discordapp.com/attachments/597816543728107541/695081233801019432/Crossbow2.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Crossbow1.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Crossbow2.png">
 </center></td>
 <td><p>A different kind of bow, with its string capable of storing energy until the lever of the frame is pulled, firing a bolt at high speeds.</p></td>
 <td><p>1013 A.D. - 2020 A.D.</p></td>
@@ -462,7 +462,7 @@
 <tr class="even">
 <td><p>Firelance</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695096840369995776/Firelance1.png"> <img src="https://cdn.discordapp.com/attachments/597816543728107541/695096848653877258/Firelance2.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Firelance1.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Firelance2.png">
 </center></td>
 <td><p>The true predecesor of all firearms; inefficent, one-shot and with a reach of 3 metres. Used in the first days of gunpowder.</p></td>
 <td><p>1013 A.D. - 1850 A.D.</p></td>
@@ -489,7 +489,7 @@
 <tr class="odd">
 <td><p>Police baton</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695064532342669392/Police_baton.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Police_baton.png">
 </center></td>
 <td><p>A wooden baton to catch burglars.</p></td>
 <td><p>1713 A.D. - 2020 A.D.</p></td>
@@ -499,7 +499,7 @@
 <tr class="even">
 <td><p>Rapier</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695115837337501716/Rapier.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Rapier.png">
 </center></td>
 <td><p>A Rapier is type of sword with a slender and sharply-pointed two-edged blade. Common for duelling and self-defence but also as a military side arm.</p></td>
 <td><p>1713 A.D.- 2020 A.D.</p></td>
@@ -509,7 +509,7 @@
 <tr class="odd">
 <td><p>Cutlass</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695141560207147068/Cutlass.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Cutlass.png">
 </center></td>
 <td><p>A cutlass is a short, broad sabre or slashing sword, with a straight or slightly curved blade sharpened on the cutting edge, and a hilt often featuring a solid cupped or basket-shaped guard. Dominant during the Age of Sail.</p></td>
 <td><p>1713 A.D.- 1713 A.D.</p></td>
@@ -519,7 +519,7 @@
 <tr class="even">
 <td><p>Spadroon</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695142015460966441/Spadroon.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Spadroon.png">
 </center></td>
 <td><p>A spadroon is a light sword with a straight edged blade, enabling both cut and thrust attacks. Used primarly in the army and the navy.</p></td>
 <td><p>1713 A.D.- 1713 A.D.</p></td>
@@ -529,7 +529,7 @@
 <tr class="odd">
 <td><p>Longsword</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695145111801036830/Longsword.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Longsword.png">
 </center></td>
 <td><p>The largest sword most of people will be able to see, even if not the largest sword that can be made. Only for true knights.</p></td>
 <td><p>1713 A.D.- 1713 A.D.</p></td>
@@ -539,7 +539,7 @@
 <tr class="even">
 <td><p>Sabre</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695140662567501905/Sabre.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Sabre.png">
 </center></td>
 <td><p>A sabre is a type of backsword with a curved blade associated with the light cavalry.</p></td>
 <td><p>1713 A.D.- 1873 A.D.</p></td>
@@ -549,7 +549,7 @@
 <tr class="odd">
 <td><p>Handcannon</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695096217000214528/Handcannon.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Handcannon.png">
 </center></td>
 <td><p>The true sucessor to the firelance.</p></td>
 <td><p>1713 A.D. - 1850 A.D.</p></td>
@@ -559,7 +559,7 @@
 <tr class="even">
 <td><p>Musket</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/452503902152032256/635568839744028682/Musket.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Musket.png">
 </center></td>
 <td><p>A muzzled-loaded long gun, the musket is a heavier version of the arquebus that became popular all around the world due to it's ability to penetrate heavy armour.</p></td>
 <td><p>1713 A.D. - 1713 A.D.</p></td>
@@ -569,7 +569,7 @@
 <tr class="odd">
 <td><p>Musketoon</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/452503902152032256/635569819168538670/Musketoon.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Musketoon.png">
 </center></td>
 <td><p>A shorter version of the musket, the musketoon mainly was popular among pirates and acted as a service shotgun or carbine.</p></td>
 <td><p>1713 A.D. - 1713 A.D.</p></td>
@@ -579,7 +579,7 @@
 <tr class="even">
 <td><p>Arquebus</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695095234794618900/Arquebus.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Arquebus.png">
 </center></td>
 <td><p>The earliest version of a rifle in the 15th century, it is fired from its support stick.</p></td>
 <td><p>1713 A.D. - 1850 A.D.</p></td>
@@ -589,7 +589,7 @@
 <tr class="odd">
 <td><p>Flintlock pistol</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695101500258517072/Flintpistol.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Flintpistol.png">
 </center></td>
 <td><p>A flintlock rifle modified to be as small as a pistol. Famous around duellists, has a short range.</p></td>
 <td><p>1713 A.D. - 1850 A.D.</p></td>
@@ -616,7 +616,7 @@
 <tr class="odd">
 <td><p>Colt Peacemaker</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695103339268014230/Colt_peacemaker.png"> <img src="https://cdn.discordapp.com/attachments/597816543728107541/695103341138804776/Colt_peacemaker2.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Colt_peacemaker.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Colt_peacemaker2.png">
 </center></td>
 <td><p>The Colt Single Action Army, also known as the Single Action Army and Peacemaker, is a single-action revolver with a revolving cylinder holding six metallic cartridges.</p></td>
 <td><p>1873 A.D.- 1973 A.D.</p></td>
@@ -626,7 +626,7 @@
 <tr class="even">
 <td><p>Derringer</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/562715700360380434/695125194825662514/Derringer.png"> <img src="https://cdn.discordapp.com/attachments/562715700360380434/695125200471064616/Derringer2.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Derringer.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Derringer2.png">
 </center></td>
 <td><p>A single-shot muzzleloading percussion cap pistol, for the wealthy and for those who want a quick, stealthy draw.</p></td>
 <td><p>1873 A.D.- 1973 A.D.</p></td>
@@ -636,7 +636,7 @@
 <tr class="odd">
 <td><p>Winchester 1873</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/562715700360380434/695127449352273981/Winchester.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Winchester.png">
 </center></td>
 <td><p>A lever-action repeating rifle. The gun that won the West.</p></td>
 <td><p>1873 A.D.- 1973 A.D.</p></td>
@@ -646,7 +646,7 @@
 <tr class="even">
 <td><p>Sharps rifle</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/562715700360380434/695128836245028904/Sharps.png"> <img src="https://cdn.discordapp.com/attachments/562715700360380434/695128834466381834/Sharps2.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Sharps.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Sharps2.png">
 </center></td>
 <td><p>A large-bore single-shot rifle.</p></td>
 <td><p>1873 A.D.- 1973 A.D.</p></td>
@@ -656,7 +656,7 @@
 <tr class="odd">
 <td><p>Martini-Henry</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695108846506606612/MartiniHenry1.png"> <img src="https://cdn.discordapp.com/attachments/597816543728107541/695108849312464937/MartiniHenry2.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/MartiniHenry1.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/MartiniHenry2.png">
 </center></td>
 <td><p>The Martini–Henry is a breech-loading single-shot lever-actuated rifle</p></td>
 <td><p>1873 A.D.- 1973 A.D.</p></td>
@@ -666,7 +666,7 @@
 <tr class="even">
 <td><p>Gewehr71</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/562715700360380434/695130404268670996/Gewehr71.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Gewehr71.png">
 </center></td>
 <td><p>A german service rifle.</p></td>
 <td><p>1873 A.D.- 1973 A.D.</p></td>
@@ -676,7 +676,7 @@
 <tr class="odd">
 <td><p>Artillery</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695061224357888000/Artillery.png"> <img src="https://cdn.discordapp.com/attachments/597816543728107541/695100212288421898/ArtilleryW.png"> <img src="https://cdn.discordapp.com/attachments/597816543728107541/695100213953560626/ArtilleryN.png"> <img src="https://cdn.discordapp.com/attachments/597816543728107541/695100215744790538/ArtilleryE.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Artillery.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/ArtilleryW.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/ArtilleryN.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/ArtilleryE.png">
 </center></td>
 <td><p>A heavy set of equipment made to continuously fire artillery shells upon great distances by flying in an arc.</p></td>
 <td><p>1850 A.D.- 2020 A.D.</p></td>
@@ -708,7 +708,7 @@
 <tr class="odd">
 <td><p>Karabiner 98k</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/452503902152032256/635497326961754122/kar98k.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/kar98k.png">
 </center></td>
 <td><p>A bolt-action rifle, the Kar98k was the standard service rifle used by the German Wehrmacht in World War II.</p></td>
 <td><p>1943 A.D. - 1943 A.D.</p></td>
@@ -718,7 +718,7 @@
 <tr class="even">
 <td><p>Ak47</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695360928488751214/ak47.png"> <img src="https://cdn.discordapp.com/attachments/597816543728107541/695360930275393597/ak472.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/ak47.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/ak472.png">
 </center></td>
 <td><p>Ak47</p></td>
 <td><p>1943 A.D. - 2020 A.D.</p></td>
@@ -728,7 +728,7 @@
 <tr class="odd">
 <td><p>MP40</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/452503902152032256/635565864619606016/MP40.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/MP40.png">
 </center></td>
 <td><p>A submachine gun, the MP40 was mainly used by infantrymen, platoon officers, and paratroopers in the Wehrmacht.</p></td>
 <td><p>1943 A.D. - 1943 A.D.</p></td>
@@ -738,7 +738,7 @@
 <tr class="even">
 <td><p>Compound bow</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695079950323286076/Compound_bow1.png"> <img src="https://cdn.discordapp.com/attachments/597816543728107541/695079958523019284/Compound_bow2.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Compound_bow1.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Compound_bow2.png">
 </center></td>
 <td><p>A bow that uses a levering system, cables and pulleys to bend the limbs to store more power inside the frame than the longbow.</p></td>
 <td><p>1958 A.D.- 2020 A.D.</p></td>
@@ -748,7 +748,7 @@
 <tr class="odd">
 <td><p>G3</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695361026849505391/g3.png"> <img src="https://cdn.discordapp.com/attachments/597816543728107541/695361028439146546/g3w.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/g3.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/g3w.png">
 </center></td>
 <td><p>A german select-fire battlerifle developed by Heckler &amp; Koch.</p></td>
 <td><p>1943 A.D. - 1943 A.D.</p></td>
@@ -758,7 +758,7 @@
 <tr class="even">
 <td><p>Flammenwerfer</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/452503902152032256/635514654071980034/flammenwerfer.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/flammenwerfer.png">
 </center></td>
 <td><p>A German flamethrower used in World War II to burn Russians and Americans to a crisp; Just watch your back!. "Hans! Get ze flammenwerfer"</p></td>
 <td><p>1943 A.D. - 1943 A.D.</p></td>
@@ -768,7 +768,7 @@
 <tr class="odd">
 <td><p>RPG-7</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695361062001836072/rpg7.png"> <img src="https://cdn.discordapp.com/attachments/597816543728107541/695361067441717358/rpg72.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/rpg7.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/rpg72.png">
 </center></td>
 <td><p>A russian-developed unguided rocket-launcher.</p></td>
 <td><p>1943 A.D. - 2020 A.D.</p></td>
@@ -778,7 +778,7 @@
 <tr class="even">
 <td><p>M16</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695360926324359298/m16.png"> <img src="https://cdn.discordapp.com/attachments/597816543728107541/695360924537847899/m162.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/m16.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/m162.png">
 </center></td>
 <td><p>An American rifle.</p></td>
 <td><p>1943 A.D. - 1943 A.D.</p></td>
@@ -805,7 +805,7 @@
 <tr class="odd">
 <td><p>Shank</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/661433888819904522/695150674588991518/shank.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/shank.png">
 </center></td>
 <td><p>For when the guards don't give you enough food...</p></td>
 <td><p>1973 A.D.- 2020 A.D.</p></td>
@@ -815,7 +815,7 @@
 <tr class="even">
 <td><p>FN P90</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695365194024484884/p90.png"> <img src="https://cdn.discordapp.com/attachments/597816543728107541/695365198764310568/p902.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/p90.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/p902.png">
 </center></td>
 <td><p>FN P90</p></td>
 <td><p>1973 A.D.- 2020 A.D.</p></td>
@@ -825,7 +825,7 @@
 <tr class="odd">
 <td><p>FN SCAR-L</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695360918242066522/scarl.png"> <img src="https://cdn.discordapp.com/attachments/597816543728107541/695360915532546098/scarl2.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/scarl.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/scarl2.png">
 </center></td>
 <td><p>A light version of the FN SCAR</p></td>
 <td><p>1973 A.D.- 2020 A.D.</p></td>
@@ -835,7 +835,7 @@
 <tr class="even">
 <td><p>FN SCAR-H</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695361024781582386/scarh.png"> <img src="https://cdn.discordapp.com/attachments/597816543728107541/695360922931298375/scarh2.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/scarh.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/scarh2.png">
 </center></td>
 <td><p>A heavy version of the FN SCAR</p></td>
 <td><p>1973 A.D.- 2020 A.D.</p></td>
@@ -862,7 +862,7 @@
 <tr class="odd">
 <td><p>Makeshift AK</p></td>
 <td><center>
-<img src="https://cdn.discordapp.com/attachments/597816543728107541/695119649620099153/Makeshift_AK.png"> <img src="https://cdn.discordapp.com/attachments/597816543728107541/695119656721186857/Makeshift_AK2.png">
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Makeshift_AK.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Makeshift_AK2.png">
 </center></td>
 <td><p>A barely functional imitation of the gas-operated, 7.62×39mm assault rifle, developed in the Soviet Union by Mikhail Kalashnikov</p></td>
 <td><p>2013 A.D.- 2020 A.D.</p></td>

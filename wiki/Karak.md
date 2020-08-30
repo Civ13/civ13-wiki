@@ -19,7 +19,7 @@ them are religious zealots wishing to either defend or attack the
 
 | Role                   | Image                                                                                            | Description                                                                                         | Diffuculty |
 | ---------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- | ---------- |
-| Emir (Lord)            | <https://cdn.discordapp.com/attachments/464159913342402560/540084529239425043/Arab_Lord.png">     | Command your army in reclaiming the castle of Karak from the Invaders, you may need to strategize.  | Very Hard  |
+| Emir (Lord)            | <https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Arab_Lord.png">     | Command your army in reclaiming the castle of Karak from the Invaders, you may need to strategize.  | Very Hard  |
 | Mamluk (Heavy Infanty) | <https://media.discordapp.net/attachments/464159913342402560/540084572063399946/Arab_Dude.png">   | Protect the Lord, You are a slave who has been placed in the army by your lord, do not disobey him. | Hard       |
 | Sayaf (Swordsman)      | <https://media.discordapp.net/attachments/464159913342402560/540084644217880595/Arab_Dude_2.png"> | Kill Infidels, listen to your Lord's orders.                                                        | Medium     |
 | Alraamith (Spearmen)   | <https://media.discordapp.net/attachments/464159913342402560/540084711532265492/Arab_dude_3.png"> | Kill Infidels, listen to your Lord.                                                                 | Medium     |

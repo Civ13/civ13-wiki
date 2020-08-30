@@ -35,7 +35,7 @@ examples, but you can choose your own.
 
 | Name                                   | Hexcodes                 | Example                                                                                      |
 | -------------------------------------- | ------------------------ | -------------------------------------------------------------------------------------------- |
-| Woodland (Default)                     | 58493D , 5B6142 , 2F323B | ![image](https://cdn.discordapp.com/attachments/468979034571931650/540339952852926464/unknown.png) | |
-| Universal Camouflage Pattern (Greyish) | DAD3C1 , A39976 , 746B5A | ![image](https://cdn.discordapp.com/attachments/476431280091955201/540343359852642314/unknown.png) | |
-| Desert                                 | F2CB8A , CCA671 , 674C0E | ![image](https://cdn.discordapp.com/attachments/468979034571931650/540341036942098433/unknown.png) | |
-| Snow                                   | FFFFFF , FFFAFA , 798E8E | ![image](https://cdn.discordapp.com/attachments/468979034571931650/540340795924807702/unknown.png) | |
+| Woodland (Default)                     | 58493D , 5B6142 , 2F323B | ![image](https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/unknown.png) | |
+| Universal Camouflage Pattern (Greyish) | DAD3C1 , A39976 , 746B5A | ![image](https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/unknown.png) | |
+| Desert                                 | F2CB8A , CCA671 , 674C0E | ![image](https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/unknown.png) | |
+| Snow                                   | FFFFFF , FFFAFA , 798E8E | ![image](https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/unknown.png) | |
