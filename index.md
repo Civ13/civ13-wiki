@@ -1,6 +1,6 @@
 # Main Page
 
-<img src="https://i.imgur.com/napac0L.png">
+![logo](https://i.imgur.com/napac0L.png)
 
 <h2>What is this?</h2>
 
