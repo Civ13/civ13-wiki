@@ -52,10 +52,15 @@ either for keeping memories of the past or for spying on enemy nations
 and war journalism.
 
 1873 - Sepia
+
 1913 - grated b&w
+
 1943 - b&w
+
 1973 - grime green color
+
 2003/2013 - color
+
 
 Stationary phone: must be within 2 tiles from a utility pole in order to
 work. (Not working currently)
