@@ -1,7 +1,7 @@
 # Civilization and Nomads
 
 ***"I'm cold and starving, [WHAT DO I
-DO?](Civilizations#Starter_Guide "wikilink")"***
+DO?](Civilizations_and_Nomads#surviving "wikilink")"***
 
 *- A confused player*
 
@@ -599,7 +599,7 @@ levels, check [Full Crafting List](Full_Crafting_List "wikilink").
 `* 130: `*`custom``   ``camo``   ``uniform`*
 `* 145: `*`NBC``   ``suits``   ``and``   ``hoods`*
 
-# Starter Guide
+## Starter Guide
 
 ### Spawning in
 
@@ -667,7 +667,7 @@ the meat after cooking it.
       - Cooking pots are made with **iron ingots**, but again, it
         requires research levels to make.
 
-### Thirst
+#### Thirst
 
 The easiest way to quench your thirst early on is by drinking water or
 milk, though other liquids like **tea** can also be used.
@@ -714,7 +714,7 @@ You can get water from **puddles**, any **water tiles**, or **wells**.
 Milk is regenerated in the animals over time, so keep them alive, and
 you'll never go thirsty.
 
-### Surviving the Winter
+#### Surviving the Winter
 
 Being caught in the winter without protection will kill you. And even
 with a fur coat, a blizzard will make short work of you.
