@@ -104,6 +104,7 @@
 {% endcapture %}{% assign tocWorkspace = '' %}
 
 {% if hCount >= minHeaders %}
-    {{ title }}
+    <br>
+    <b>{{ title }}</b>
     {{ my_toc | markdownify | strip }}
 {% endif %}
