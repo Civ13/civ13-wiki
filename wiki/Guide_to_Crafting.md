@@ -40,9 +40,7 @@ machinery and vehicles.
 This will bring up the crafting menu for a given material - a list of
 recipes for the items that can be made with this material at the present
 moment. **Many recipes require a certain research level, otherwise they
-will not be available\!** Check the **[Full Crafting
-List](Full_Crafting_List "wikilink")** for an item's research
-requirements. If you belong to a faction, you can see the current
+will not be available\!** Check the **[Full Crafting List](Full_Crafting_List "wikilink")** for an item's research requirements. If you belong to a faction, you can see the current
 research levels on the Character tab. If you are not a part of a
 faction, checking the current epoch on the Status tab will give you a
 general idea about the available recipes.
@@ -62,8 +60,7 @@ Crafting anything increases your crafting skill which is displayed on
 the Character tab. Some recipes and workbenches require a certain level
 of the crafting skill, the former to craft an item and the latter to use
 them. For example, building a well or a wall requires the skill at the
-1.1 mark, while using an anvil requires 1.7. See the **[Full Crafting
-List](Full_Crafting_List "wikilink")** for the skill requirements for a
+1.1 mark, while using an anvil requires 1.7. See the **[Full Crafting List](Full_Crafting_List "wikilink")** for the skill requirements for a
 given recipe.
 
 ### Crafting differences between gamemodes
@@ -115,7 +112,7 @@ Pioneers, only the Blacksmith can use the anvil.
 <center>
 <p><strong>Knife</strong></p>
 </center></td>
-<td><p>Made with either 4 bone pieces or 1 unit of manifold materials: stone, copper, bronze, iron, steel, tin, even gold, silver and diamonds. Used to cut trees, skin animals and stab enemies in a desperate situation. Used to cut wires and cut down curtains as well. The bone knife (the leftmost one) is also a surgical tool in the earliest epochs, but for that refer to <strong><img src="Guide_to_Medical#Surgery" "wikilink">Surgery</a></strong>. And check the <strong><img src="Guide_to_Cooking" "wikilink">Guide to Cooking</a></strong> for more culinary uses of the knife.</p></td>
+<td><p>Made with either 4 bone pieces or 1 unit of manifold materials: stone, copper, bronze, iron, steel, tin, even gold, silver and diamonds. Used to cut trees, skin animals and stab enemies in a desperate situation. Used to cut wires and cut down curtains as well. The bone knife (the leftmost one) is also a surgical tool in the earliest epochs, but for that refer to [Guide to Surgery](Guide_to_Medical#Surgery "wikilink"). And check the [Guide to Cooking](Guide_to_Cooking "wikilink") for more culinary uses of the knife.</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -210,8 +207,7 @@ so many resources ripe for the taking, processing and exploiting. Ah,
 sweet industry\!
 
 If there are any recipes associated with a given material, the material
-name has a link - click it to see the recipes list in the **[Full
-Crafting List](Full_Crafting_List "wikilink")**. If there is no such
+name has a link - click it to see the recipes list in the **[Full Crafting List](Full_Crafting_List "wikilink")**. If there is no such
 link, it means the material does not have a crafting menu of its own,
 but it is still used as a component in some other area of crafting.
 
@@ -275,7 +271,7 @@ to the **[Guide to Cooking](Guide_to_Cooking "wikilink")**.
 <center>
 <p><strong>Furs and Pelts</strong></p>
 </center></td>
-<td><p>Obtained from various animals (check the <strong>[Full Crafting List](Full_Crafting_List "wikilink")</strong>) by skinning the carcass with a knife on Grab intent. Pelts could be made into coats, gloves, footwear and headgear. Fur clothing comes in handy in the colder climates and seasons. Pelts could also be turned into leather on the tanning rack - cut the hair off of the hide with a knife, then place the hide on the rack and wait until it's ready. One extra leather sheet is obtained this way, compared to skinning the carcass directly for leather as described below.</p></td>
+<td><p>Obtained from various animals (check the [Full Crafting List](Full_Crafting_List "wikilink")) by skinning the carcass with a knife on Grab intent. Pelts could be made into coats, gloves, footwear and headgear. Fur clothing comes in handy in the colder climates and seasons. Pelts could also be turned into leather on the tanning rack - cut the hair off of the hide with a knife, then place the hide on the rack and wait until it's ready. One extra leather sheet is obtained this way, compared to skinning the carcass directly for leather as described below.</p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -3631,7 +3627,7 @@ Made with 18 steel sheets. Used to produce ethanol from alcoholic beverages (the
 <p><strong>Bakelizer</strong></p>
 </center></td>
 <td><p><strong>Production rate:</strong> every 5 units of raw petroleum =&gt; 1 plastic sheet per 1 minute<br />
-Made with 18 steel sheets. Used to produce <strong>[Plastic](Full_Crafting_List#plastic "wikilink")</a></strong> from raw petroleum.</p></td>
+Made with 18 steel sheets. Used to produce [Plastic](Full_Crafting_List#plastic "wikilink") from raw petroleum.</p></td>
 </tr>
 </tbody>
 </table>
@@ -3779,8 +3775,7 @@ to avoid pushing them on accident, but it is not necessary.**
 Indispensable political instruments in later ages, perfectly suited for
 settling disputes and establishing accord on all fronts.
 
-Tank driving is covered in the **[Guide to
-Tanks](Guide_to_Tanks "wikilink")**.
+Tank driving is covered in the **[Guide to Tanks](Guide_to_Tanks "wikilink")**.
 
 <big>**Limitations**</big>
 \* The maximum size of a tank is 5x5 tiles. Larger ones will not
