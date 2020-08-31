@@ -580,8 +580,6 @@ screen and (max-width: 480px) {
 .col-xl-12,
 .col-xl,
 .col-xl-auto {
-    position: relative;
-    width: 100%;
     padding-right: 15px;
     padding-left: 15px;
 }
@@ -602,6 +600,15 @@ screen and (max-width: 480px) {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 25%;
     flex: 0 0 25%;
-    max-width: 25%;
     min-width: 992px;
+}
+
+ol {
+  display: block;
+  list-style-type: decimal;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 20px;
 }
