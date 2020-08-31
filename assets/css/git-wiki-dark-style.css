@@ -200,7 +200,6 @@ a:hover small {
 }
 
 .wrapper {
-  /*width:860px;*/
   margin: 0 auto;
 }
 
@@ -264,7 +263,7 @@ img {
 #git-wiki-mobile-header {
   position: sticky;
   top: 0;
-  height: 55px;
+  height: 75px;
   width: 100%;
   border-radius: 10px;
   z-index: 999;
@@ -292,7 +291,7 @@ screen and (max-width: 992px) {
   }
 
   .git-wiki-page {
-    margin-top: 60px;
+    margin-top: 40px;
   }
 }
 
@@ -413,7 +412,6 @@ screen and (max-width: 960px) {
 
   .git-wiki-page,
   footer {
-    border: 1px solid #e5e5e5;
     border-width: 1px 0;
     padding: 20px 0;
     margin: 60px 0 20px;
