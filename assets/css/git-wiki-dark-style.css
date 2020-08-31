@@ -659,6 +659,7 @@ ol {
   margin:0;
   padding:0;
   width: 100%;
+  font-size: 10px;
   background-color:#222;
   text-align: center;
 }
