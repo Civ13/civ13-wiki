@@ -18,17 +18,8 @@
     {% include git-wiki/sections/head/scripts.html %}
     {% include git-wiki/sections/head/styles.html %}
 
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/darkly/bootstrap.min.css">
-    {% comment %} Hacky-Fix for lux theme {% endcomment %}
-    <style>
-        .git-wiki-page {
-            padding-left: 0;   
-        }
-        
-        .wrapper .col-lg-3 {
-            max-width: 250px;
-        }
-    </style>
+    <link href="assets/css/git-wiki-dark-style.css" rel="stylesheet" type="text/css">
+
     {% if site.inc_after_head %}
     {% include {{ site.inc_after_head }} %}
     {% endif %}
@@ -37,7 +28,7 @@
 <body>
     <div class="wrapper">
         <div class="row">
-            <div class="col-lg-3" style="top: 0; position: sticky;">
+            <div class="col-lg-3">
                 {% include git-wiki/sections/header/header.html %}
                 {% include git-wiki/components/toc/toc.html %}
             </div>

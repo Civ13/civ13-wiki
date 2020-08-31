@@ -1,13 +1,141 @@
-@import "fonts";
-@import "rouge-github";
-@import "w3.scss";
+@import "fonts.css";
+@import "rouge-github.css";
+@import "w3.css";
+:root {
+  --blue: #375a7f;
+  --indigo: #6610f2;
+  --purple: #6f42c1;
+  --pink: #e83e8c;
+  --red: #e74c3c;
+  --orange: #fd7e14;
+  --yellow: #f39c12;
+  --green: #00bc8c;
+  --teal: #20c997;
+  --cyan: #3498db;
+  --white: #fff;
+  --gray: #888;
+  --gray-dark: #303030;
+  --primary: #375a7f;
+  --secondary: #444;
+  --success: #00bc8c;
+  --info: #3498db;
+  --warning: #f39c12;
+  --danger: #e74c3c;
+  --light: #adb5bd;
+  --dark: #303030;
+  --breakpoint-xs: 0;
+  --breakpoint-sm: 576px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 992px;
+  --breakpoint-xl: 1200px;
+  --font-family-sans-serif: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+article,
+aside,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section {
+  display: block;
+}
 
 body {
-  background-color: #fff;
+  margin: 0;
+  font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 0.9375rem;
   padding: 50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #727272;
   font-weight: 400;
+  line-height: 1.5;
+  color: #aaaaaa;
+  text-align: left;
+  background-color: #222;
+}
+[tabindex="-1"]:focus:not(:focus-visible) {
+  outline: 0 !important;
+}
+hr {
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0;
+  overflow: visible;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+abbr[title],
+abbr[data-original-title] {
+  text-decoration: underline;
+  -webkit-text-decoration: underline dotted;
+  text-decoration: underline dotted;
+  cursor: help;
+  border-bottom: 0;
+  text-decoration-skip-ink: none;
+}
+address {
+  margin-bottom: 1rem;
+  font-style: normal;
+  line-height: inherit;
+}
+ol,
+ul,
+dl {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+ol ol,
+ul ul,
+ol ul,
+ul ol {
+  margin-bottom: 0;
+}
+dt {
+  font-weight: 700;
+}
+dd {
+  margin-bottom: 0.5rem;
+  margin-left: 0;
+}
+blockquote {
+  margin: 0 0 1rem;
+}
+b,
+strong {
+  font-weight: bolder;
+}
+small {
+  font-size: 80%;
+}
+sub,
+sup {
+  position: relative;
+  font-size: 75%;
+  line-height: 0;
+  vertical-align: baseline;
+}
+sub {
+  bottom: -0.25em;
+}
+sup {
+  top: -0.5em;
 }
 
 h1,
@@ -16,7 +144,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #222;
+  color: rgb(209, 209, 209);
   margin: 0 0 20px;
 }
 
@@ -40,39 +168,44 @@ h1 {
 }
 
 h2 {
-  color: #393939;
+  color: #7c7c7c;
 }
 
 h3,
 h4,
 h5,
 h6 {
-  color: #494949;
+  color: #6b6b6b;
 }
 
 a {
-  color: #39c;
+  color: #00bc8c;
   text-decoration: none;
+  background-color: #222;
 }
 
 a:hover {
-  color: #069;
+  color: #01916d;
 }
 
 a small {
   font-size: 11px;
-  color: #777;
+  color: #00bc8c;
   margin-top: -0.3em;
   display: block;
 }
 
 a:hover small {
-  color: #777;
+  color: #01916d;
 }
 
 .wrapper {
   /*width:860px;*/
   margin: 0 auto;
+}
+
+input {
+  background-color: #a3a3a3;
 }
 
 blockquote {
@@ -100,6 +233,7 @@ pre {
 table {
   width: 100%;
   border-collapse: collapse;
+  border-color: white;
 }
 
 th,
@@ -110,12 +244,12 @@ td {
 }
 
 dt {
-  color: #444;
+  color: rgb(114, 114, 114);
   font-weight: 700;
 }
 
 th {
-  color: #444;
+  color: rgb(114, 114, 114);
 }
 
 img {
@@ -128,12 +262,10 @@ img {
 }
 
 #git-wiki-mobile-header {
-  position: fixed;
+  position: sticky;
   top: 0;
   height: 55px;
-  background-color: white;
   width: 100%;
-  border-bottom: 1px solid;
   border-radius: 10px;
   z-index: 999;
 }
@@ -212,7 +344,7 @@ screen and (max-width: 992px) {
 }
 
 strong {
-  color: #222;
+  color: rgb(255, 255, 255);
   font-weight: 700;
 }
 
@@ -224,7 +356,7 @@ strong {
 #git-wiki-sidebar .git-wiki-downloads a strong {
   font-size: 14px;
   display: block;
-  color: #222;
+  color: rgb(209, 209, 209);
 }
 
 .git-wiki-page {
@@ -358,13 +490,6 @@ screen and (max-width: 480px) {
   display: inline-block;
 }
 
-.pagination a {
-  &:hover {
-    background-color: #f1f1f1;
-    color: #333;
-  }
-}
-
 .pagination {
   text-align: center;
 }
@@ -383,4 +508,100 @@ screen and (max-width: 480px) {
   background-image: url("../images/external-link-ltr-icon.png");
   background-image: linear-gradient(transparent, transparent), url("../images/external.svg");
   padding-right: 13px;
+}
+
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-10,
+.col-11,
+.col-12,
+.col,
+.col-auto,
+.col-sm-1,
+.col-sm-2,
+.col-sm-3,
+.col-sm-4,
+.col-sm-5,
+.col-sm-6,
+.col-sm-7,
+.col-sm-8,
+.col-sm-9,
+.col-sm-10,
+.col-sm-11,
+.col-sm-12,
+.col-sm,
+.col-sm-auto,
+.col-md-1,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-md-10,
+.col-md-11,
+.col-md-12,
+.col-md,
+.col-md-auto,
+.col-lg-1,
+.col-lg-2,
+.col-lg-3,
+.col-lg-4,
+.col-lg-5,
+.col-lg-6,
+.col-lg-7,
+.col-lg-8,
+.col-lg-9,
+.col-lg-10,
+.col-lg-11,
+.col-lg-12,
+.col-lg,
+.col-lg-auto,
+.col-xl-1,
+.col-xl-2,
+.col-xl-3,
+.col-xl-4,
+.col-xl-5,
+.col-xl-6,
+.col-xl-7,
+.col-xl-8,
+.col-xl-9,
+.col-xl-10,
+.col-xl-11,
+.col-xl-12,
+.col-xl,
+.col-xl-auto {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.col {
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    max-width: 100%;
+}
+
+.wrapper .col-lg-3 {
+  max-width: 250px;
+}
+
+.col-lg-3 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+    min-width: 992px;
 }
