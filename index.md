@@ -33,7 +33,7 @@ mode
 
 [Guide to Medical](Guide_to_Medical "wikilink")
 
-[Guide to Carpentry](Guide_to_Carpentry "wikilink")
+[Guide to Crafting](Guide_to_Crafting "wikilink")
 
 [Guide to Cooking](Guide_to_Cooking "wikilink")
 
