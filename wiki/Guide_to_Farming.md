@@ -132,7 +132,7 @@ Wet (winter and spring) and dry (summer and fall) seasons apply to the
 Desert, Savanna and Jungles biomes.
 
 ## Crop catalogue
-<table>
+<table class="sortable">
 <thead>
 <tr>
 <th>Crop</th>
