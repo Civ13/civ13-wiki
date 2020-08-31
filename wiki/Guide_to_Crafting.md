@@ -275,23 +275,23 @@ to the **[Guide to Cooking](Guide_to_Cooking "wikilink")**.
 <center>
 <p><strong>Furs and Pelts</strong></p>
 </center></td>
-<td><p>Obtained from various animals (check the <strong><img src="Full_Crafting_List" "wikilink">Full Crafting List</a></strong>) by skinning the carcass with a knife on Grab intent. Pelts could be made into coats, gloves, footwear and headgear. Fur clothing comes in handy in the colder climates and seasons. Pelts could also be turned into leather on the tanning rack - cut the hair off of the hide with a knife, then place the hide on the rack and wait until it's ready. One extra leather sheet is obtained this way, compared to skinning the carcass directly for leather as described below.</p></td>
+<td><p>Obtained from various animals (check the <strong>[Full Crafting List](Full_Crafting_List "wikilink")</strong>) by skinning the carcass with a knife on Grab intent. Pelts could be made into coats, gloves, footwear and headgear. Fur clothing comes in handy in the colder climates and seasons. Pelts could also be turned into leather on the tanning rack - cut the hair off of the hide with a knife, then place the hide on the rack and wait until it's ready. One extra leather sheet is obtained this way, compared to skinning the carcass directly for leather as described below.</p></td>
 </tr>
 <tr class="even">
 <td><center>
 <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wool_pile.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wool_roll.png">
 </center>
 <center>
-<p><strong><img src="Full_Crafting_List#woolcloth" title="wikilink">Wool</a></strong></p>
+<p><strong>[Wool](Full_Crafting_List#woolcloth "wikilink")</strong></p>
 </center></td>
-<td><p>Obtained by shearing sheep. Used for many varieties of clothing, mainly as a cloth substitute for the biomes that lack cotton. Use the <strong><img src="#Loom" title="wikilink">Loom</a></strong> to turn wool piles into <strong><img src="Full_Crafting_List#woolcloth" title="wikilink">Woolcloth</a></strong>.</p></td>
+<td><p>Obtained by shearing sheep. Used for many varieties of clothing, mainly as a cloth substitute for the biomes that lack cotton. Use the <strong>[loom](Guide_to_Crafting#loom "wikilink")</strong> to turn wool piles into <strong>[Woolcloth](Full_Crafting_List#woolcloth "wikilink")</strong>.</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/leather.png">
 </center>
 <center>
-<p><strong><img src="Full_Crafting_List#leather" title="wikilink">Leather</a></strong></p>
+<p><strong>[Leather](Full_Crafting_List#leather "wikilink")</strong></p>
 </center></td>
 <td><p>Used for clothing, military equipment, various bags etc. Obtained from many animals by skinning on Harm intent. Larger animals provide more leather.</p></td>
 </tr>
@@ -300,7 +300,7 @@ to the **[Guide to Cooking](Guide_to_Cooking "wikilink")**.
 <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/bone.png">
 </center>
 <center>
-<p><strong><img src="Full_Crafting_List#bone" title="wikilink">Bone</a></strong></p>
+<p><strong>[Bone](Full_Crafting_List#bone "wikilink")</strong></p>
 </center></td>
 <td><p>Obtained by skinning the animal carcass regardless of the intent. A material for primitive tools and weapons.</p></td>
 </tr>
@@ -329,7 +329,7 @@ build barricades and walls. Refer to the
 <center>
 <p><strong>Dirt</strong></p>
 </center></td>
-<td><p>Used to produce <strong><img src="Full_Crafting_List#clay" title="wikilink">Clay</a></strong> and to construct dirt walls and barricades. To produce clay, pour water from a container onto a dirt pile, 10 units of water per pile.</p></td>
+<td><p>Used to produce [clay](Full_Crafting_List#clay "wikilink") and to construct dirt walls and barricades. To produce clay, pour water from a container onto a dirt pile, 10 units of water per pile.</p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -338,7 +338,7 @@ build barricades and walls. Refer to the
 <center>
 <p><strong>Sand</strong></p>
 </center></td>
-<td><p>Used to produce <strong><img src="Full_Crafting_List#glass" title="wikilink">Glass</a></strong> sheets via firing in the campfire and ovens.</p></td>
+<td><p>Used to produce <strong>[Glass](Full_Crafting_List#glass "wikilink")</strong> sheets via firing in the campfire and ovens.</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -381,7 +381,7 @@ holding a hammer in the other hand.
 <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/ore_copper.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/sheet_copper.png">
 </center>
 <center>
-<p><strong><img src="Full_Crafting_List#copper" title="wikilink">Copper</a></strong></p>
+<p><strong>[Copper](Full_Crafting_List#copper "wikilink")</strong></p>
 </center></td>
 </tr>
 <tr class="odd">
@@ -394,7 +394,7 @@ holding a hammer in the other hand.
 <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/sheet_stone.png">
 </center>
 <center>
-<p><strong><img src="Full_Crafting_List#stone" title="wikilink">Stone</a></strong></p>
+<p><strong>[Stone](Full_Crafting_List#stone "wikilink")</strong></p>
 </center></td>
 </tr>
 </tbody>
@@ -634,13 +634,13 @@ or 1 piece of mineral coal.
 <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/sheet_bronze.png">
 </center>
 <center>
-<p><strong><img src="Full_Crafting_List#bronze" title="wikilink">Bronze</a></strong></p>
+<p><strong>[Bronze](Full_Crafting_List#bronze "wikilink")</strong></p>
 </center></td>
 <td><center>
 <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/sheet_steel.png">
 </center>
 <center>
-<p><strong><img src="Full_Crafting_List#steel" title="wikilink">Steel</a></strong></p>
+<p><strong>[Steel](Full_Crafting_List#steel "wikilink")</strong></p>
 </center></td>
 </tr>
 </tbody>
@@ -708,7 +708,7 @@ level of the crafting skill before you are able to use them.
 <center>
 <p><strong>Loom</strong></p>
 </center></td>
-<td><p>Made with 8 wood logs. Used to weave <strong><img src="Guide_to_Farming" title="wikilink">cotton</a></strong> and <strong><img src="#Retting_trough" title="wikilink">retted fabric</a></strong> into <strong><img src="Full_Crafting_List#cloth" title="wikilink">Cloth</a></strong> and to turn shorn wool into <strong><img src="Full_Crafting_List#woolcloth" title="wikilink">Woolcloth</a></strong>.</p></td>
+<td><p>Made with 8 wood logs. Used to weave <strong><img src="Guide_to_Farming" "wikilink">cotton</a></strong> and <strong><img src="#Retting_trough" "wikilink">retted fabric</a></strong> into <strong>[Cloth](Full_Crafting_List#cloth "wikilink")</strong> and to turn shorn wool into <strong>[Woolcloth](Full_Crafting_List#woolcloth "wikilink")</strong>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -740,7 +740,7 @@ level of the crafting skill before you are able to use them.
 <center>
 <p><strong>Retting trough</strong></p>
 </center></td>
-<td><p>Made with 8 wood logs. Used to soak fiberous plants into retted fabric. Two units of cotton or flax produce one bundle of retted fabric, which could be turned into <strong><img src="Full_Crafting_List#cloth" title="wikilink">Cloth</a></strong> at the <strong><img src="#Loom" title="wikilink">Loom</a></strong>.</p></td>
+<td><p>Made with 8 wood logs. Used to soak fiberous plants into retted fabric. Two units of cotton or flax produce one bundle of retted fabric, which could be turned into <strong>[Cloth](Full_Crafting_List#clot "wikilink")</strong> at the <strong>[Cloth](Guide_to_Crafting#Loom "wikilink")</strong>.</p></td>
 </tr>
 </tbody>
 </table>
@@ -757,7 +757,7 @@ level of the crafting skill before you are able to use them.
 <p><strong>Anvil</strong></p>
 </center></td>
 <td><p><strong>Skill required: 1.7</strong><br />
-Made with 25 iron ingots. Used to forge weapons and armour across the centuries, from ancient swords and chainmails to muskets, makeshift AK-47s and kevlar vests. Take some iron ingots or steel sheets and click the anvil with them. Now click the anvil to see the available recipes along with the material cost. Right-click the anvil and choose 'Empty' command to retrieve the iron or steel you have put on it. See the <strong><img src="Guide_to_Weapons" title="wikilink">Guide to Weapons</a></strong> for more information on specific weapons and their availability in different ages.</p></td>
+Made with 25 iron ingots. Used to forge weapons and armour across the centuries, from ancient swords and chainmails to muskets, makeshift AK-47s and kevlar vests. Take some iron ingots or steel sheets and click the anvil with them. Now click the anvil to see the available recipes along with the material cost. Right-click the anvil and choose 'Empty' command to retrieve the iron or steel you have put on it. See the <strong><img src="Guide_to_Weapons" "wikilink">Guide to Weapons</a></strong> for more information on specific weapons and their availability in different ages.</p></td>
 </tr>
 </tbody>
 </table>
@@ -3631,7 +3631,7 @@ Made with 18 steel sheets. Used to produce ethanol from alcoholic beverages (the
 <p><strong>Bakelizer</strong></p>
 </center></td>
 <td><p><strong>Production rate:</strong> every 5 units of raw petroleum =&gt; 1 plastic sheet per 1 minute<br />
-Made with 18 steel sheets. Used to produce <strong><img src="Full_Crafting_List#plastic" title="wikilink">Plastics</a></strong> from raw petroleum.</p></td>
+Made with 18 steel sheets. Used to produce <strong>[Plastic](Full_Crafting_List#plastic "wikilink")</a></strong> from raw petroleum.</p></td>
 </tr>
 </tbody>
 </table>
