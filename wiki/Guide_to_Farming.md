@@ -246,8 +246,7 @@ Desert, Savanna and Jungles biomes.
 <td style="text-align:center">O</td>
 <td>Spring, Summer, Wet, Dry</td>
 <td style="text-align:center">50</td>
-<td>Used to make &#39;&#39;&#39;[[Full Crafting List#cloth</td>
-<td>Cloth]]&#39;&#39;&#39;.</td>
+<td>Used to make cloth.</td>
 </tr>
 <tr>
 <td>Oat</td>
