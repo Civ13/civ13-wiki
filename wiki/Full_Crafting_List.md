@@ -5,13 +5,13 @@ by material.
 Exported on 01 May 2020 -
 [Commit 6001](https://github.com/Civ13/Civ13/tree/0f3b87dfec43aea66c25535aeaf01d329d86936f)
 
-### barbedwire
+## barbedwire
 
 | Item     | Cost | Material   | Category | Research Needed           | Available Until                 |
 | -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
 | barbwire | 1    | barbedwire | none     | Available from the start. | Available until the Modern Age. |
 
-### bearpeltblack
+## bearpeltblack
 
 | Item                | Cost | Material      | Category | Research Needed                      | Available Until                 |
 | ------------------- | ---- | ------------- | -------- | ------------------------------------ | ------------------------------- |
@@ -22,7 +22,7 @@ Exported on 01 May 2020 -
 | fur gloves          | 3    | bearpeltblack | none     | Available from the start.            | Available until the Modern Age. |
 | bear pelt headcover | 4    | bearpeltblack | none     | Available from the start.            | Available until the Modern Age. |
 
-### bearpeltbrown
+## bearpeltbrown
 
 | Item                | Cost | Material      | Category | Research Needed                      | Available Until                 |
 | ------------------- | ---- | ------------- | -------- | ------------------------------------ | ------------------------------- |
@@ -33,7 +33,7 @@ Exported on 01 May 2020 -
 | fur gloves          | 3    | bearpeltbrown | none     | Available from the start.            | Available until the Modern Age. |
 | bear pelt headcover | 4    | bearpeltbrown | none     | Available from the start.            | Available until the Modern Age. |
 
-### bearpeltwhite
+## bearpeltwhite
 
 | Item                | Cost | Material      | Category | Research Needed                      | Available Until                 |
 | ------------------- | ---- | ------------- | -------- | ------------------------------------ | ------------------------------- |
@@ -44,7 +44,7 @@ Exported on 01 May 2020 -
 | fur gloves          | 3    | bearpeltwhite | none     | Available from the start.            | Available until the Modern Age. |
 | bear pelt headcover | 4    | bearpeltwhite | none     | Available from the start.            | Available until the Modern Age. |
 
-### bone
+## bone
 
 | Item          | Cost | Material | Category | Research Needed                         | Available Until                     |
 | ------------- | ---- | -------- | -------- | --------------------------------------- | ----------------------------------- |
@@ -61,7 +61,7 @@ Exported on 01 May 2020 -
 | dice          | 2    | bone     | none     | Requires 15 Industrial research points. | Available until the Modern Age.     |
 | tomahawk      | 4    | bone     | none     | Requires 25 Industrial research points. | Available until the Industrial Age. |
 
-### bronze
+## bronze
 
 | Item                  | Cost | Material | Category    | Research Needed                                      | Available Until                     |
 | --------------------- | ---- | -------- | ----------- | ---------------------------------------------------- | ----------------------------------- |
@@ -90,7 +90,7 @@ Exported on 01 May 2020 -
 | bronze statue         | 10   | bronze   | none        | Requires 10 Industrial research points.              | Available until the Modern Age.     |
 | bronze sarcophagus    | 25   | bronze   | none        | Available from the start.                            | Available until the Bronze Age.     |
 
-### catpelt
+## catpelt
 
 | Item       | Cost | Material | Category | Research Needed                      | Available Until                 |
 | ---------- | ---- | -------- | -------- | ------------------------------------ | ------------------------------- |
@@ -100,14 +100,14 @@ Exported on 01 May 2020 -
 | fur boots  | 3    | catpelt  | none     | Available from the start.            | Available until the Modern Age. |
 | fur gloves | 3    | catpelt  | none     | Available from the start.            | Available until the Modern Age. |
 
-### chitin
+## chitin
 
 | Item          | Cost | Material | Category | Research Needed           | Available Until                |
 | ------------- | ---- | -------- | -------- | ------------------------- | ------------------------------ |
 | chitin mask   | 4    | chitin   | none     | Available from the start. | Available until the Stone Age. |
 | chitin helmet | 7    | chitin   | none     | Available from the start. | Available until the Stone Age. |
 
-### clay
+## clay
 
 | Item                        | Cost | Material | Category                | Research Needed                          | Available Until                  |
 | --------------------------- | ---- | -------- | ----------------------- | ---------------------------------------- | -------------------------------- |
@@ -135,7 +135,7 @@ Exported on 01 May 2020 -
 | concrete pillar             | 2    | clay     | none                    | Requires 103 Industrial research points. | Available until the Modern Age.  |
 | furnace                     | 10   | clay     | none                    | Requires 26 Industrial research points.  | Available until the Modern Age.  |
 
-### cloth
+## cloth
 
 | Item                              | Cost | Material | Category         | Research Needed                                     | Available Until                       |
 | --------------------------------- | ---- | -------- | ---------------- | --------------------------------------------------- | ------------------------------------- |
@@ -326,13 +326,13 @@ Exported on 01 May 2020 -
 | farmer outfit                     | 4    | cloth    | clothing         | Requires 112 Industrial research points.            | Available until the Modern Age.       |
 | mechanic outfit                   | 4    | cloth    | clothing         | Requires 112 Industrial research points.            | Available until the Modern Age.       |
 
-### coca
+## coca
 
 | Item    | Cost | Material | Category | Research Needed                      | Available Until                 |
 | ------- | ---- | -------- | -------- | ------------------------------------ | ------------------------------- |
 | cocaine | 10   | coca     | none     | Requires 93 Medical research points. | Available until the Modern Age. |
 
-### copper
+## copper
 
 | Item                    | Cost | Material | Category   | Research Needed                                      | Available Until                   |
 | ----------------------- | ---- | -------- | ---------- | ---------------------------------------------------- | --------------------------------- |
@@ -369,7 +369,7 @@ Exported on 01 May 2020 -
 | cyan cable coil (10m)   | 1    | copper   | electrical | Requires 105 Industrial research points.             | Available until the Modern Age.   |
 | pink cable coil (10m)   | 1    | copper   | electrical | Requires 105 Industrial research points.             | Available until the Modern Age.   |
 
-### electronics
+## electronics
 
 | Item                   | Cost | Material    | Category | Research Needed                          | Available Until                       |
 | ---------------------- | ---- | ----------- | -------- | ---------------------------------------- | ------------------------------------- |
@@ -389,20 +389,20 @@ Exported on 01 May 2020 -
 | mobile phone           | 20   | electronics | none     | Requires 212 Industrial research points. | Available until the Modern Age.       |
 | component analyser     | 18   | electronics | none     | Requires 218 Industrial research points. | Available until the Modern Age.       |
 
-### flax
+## flax
 
 | Item | Cost | Material | Category | Research Needed           | Available Until                 |
 | ---- | ---- | -------- | -------- | ------------------------- | ------------------------------- |
 | rope | 1    | flax     | none     | Available from the start. | Available until the Modern Age. |
 
-### fossil
+## fossil
 
 | Item        | Cost | Material | Category | Research Needed           | Available Until                 |
 | ----------- | ---- | -------- | -------- | ------------------------- | ------------------------------- |
 | bones (10x) | 1    | fossil   | none     | Available from the start. | Available until the Modern Age. |
 | stone (8x)  | 1    | fossil   | none     | Available from the start. | Available until the Modern Age. |
 
-### foxpelt
+## foxpelt
 
 | Item               | Cost | Material | Category | Research Needed                      | Available Until                 |
 | ------------------ | ---- | -------- | -------- | ------------------------------------ | ------------------------------- |
@@ -413,7 +413,7 @@ Exported on 01 May 2020 -
 | fur gloves         | 3    | foxpelt  | none     | Available from the start.            | Available until the Modern Age. |
 | fox pelt headcover | 3    | foxpelt  | none     | Available from the start.            | Available until the Modern Age. |
 
-### glass
+## glass
 
 | Item                  | Cost | Material | Category   | Research Needed                                     | Available Until                   |
 | --------------------- | ---- | -------- | ---------- | --------------------------------------------------- | --------------------------------- |
@@ -442,7 +442,7 @@ Exported on 01 May 2020 -
 | large sunglasses      | 2    | glass    | none       | Requires 165 Industrial research points.            | Available until the Modern Age.   |
 | chemical dispenser    | 12   | glass    | none       | Requires 90 Industrial research points.             | Available until the Modern Age.   |
 
-### gold
+## gold
 
 | Item              | Cost | Material | Category | Research Needed                                      | Available Until                   |
 | ----------------- | ---- | -------- | -------- | ---------------------------------------------------- | --------------------------------- |
@@ -456,7 +456,7 @@ Exported on 01 May 2020 -
 | gold statue       | 10   | gold     | none     | Requires 10 Industrial research points.              | Available until the Modern Age.   |
 | gold sarcophagus  | 15   | gold     | none     | Available from the start.                            | Available until the Bronze Age.   |
 
-### gorillapelt
+## gorillapelt
 
 | Item       | Cost | Material    | Category | Research Needed                      | Available Until                 |
 | ---------- | ---- | ----------- | -------- | ------------------------------------ | ------------------------------- |
@@ -466,14 +466,14 @@ Exported on 01 May 2020 -
 | fur boots  | 3    | gorillapelt | none     | Available from the start.            | Available until the Modern Age. |
 | fur gloves | 3    | gorillapelt | none     | Available from the start.            | Available until the Modern Age. |
 
-### hemp
+## hemp
 
 | Item  | Cost | Material | Category | Research Needed           | Available Until                 |
 | ----- | ---- | -------- | -------- | ------------------------- | ------------------------------- |
 | rope  | 1    | hemp     | none     | Available from the start. | Available until the Modern Age. |
 | joint | 2    | hemp     | none     | Available from the start. | Available until the Modern Age. |
 
-### humanpelt
+## humanpelt
 
 | Item        | Cost | Material  | Category | Research Needed           | Available Until                 |
 | ----------- | ---- | --------- | -------- | ------------------------- | ------------------------------- |
@@ -481,7 +481,7 @@ Exported on 01 May 2020 -
 | skin boots  | 3    | humanpelt | none     | Available from the start. | Available until the Modern Age. |
 | skin gloves | 3    | humanpelt | none     | Available from the start. | Available until the Modern Age. |
 
-### iron
+## iron
 
 | Item                      | Cost | Material | Category     | Research Needed                                       | Available Until                       |
 | ------------------------- | ---- | -------- | ------------ | ----------------------------------------------------- | ------------------------------------- |
@@ -576,13 +576,13 @@ Exported on 01 May 2020 -
 | large drying rack         | 8    | iron     | production   | Requires 16 Medical research points.                  | Available until the Modern Age.       |
 | meat grinder              | 8    | iron     | production   | Requires 90 Medical research points.                  | Available until the Modern Age.       |
 
-### lead
+## lead
 
 | Item      | Cost | Material | Category | Research Needed                      | Available Until                 |
 | --------- | ---- | -------- | -------- | ------------------------------------ | ------------------------------- |
 | lead safe | 3    | lead     | none     | Requires 65 Medical research points. | Available until the Modern Age. |
 
-### leather
+## leather
 
 | Item                         | Cost | Material | Category           | Research Needed                                       | Available Until                       |
 | ---------------------------- | ---- | -------- | ------------------ | ----------------------------------------------------- | ------------------------------------- |
@@ -660,13 +660,13 @@ Exported on 01 May 2020 -
 | leather curtain              | 1    | leather  | furniture          | Available from the start.                             | Available until the Modern Age.       |
 | biker jacket                 | 6    | leather  | jackets & vests    | Requires 150 Industrial, 175 Medical research points. | Available until the Modern Age.       |
 
-### lionpelt
+## lionpelt
 
 | Item                | Cost | Material | Category | Research Needed           | Available Until                 |
 | ------------------- | ---- | -------- | -------- | ------------------------- | ------------------------------- |
 | lion pelt headcover | 3    | lionpelt | none     | Available from the start. | Available until the Modern Age. |
 
-### monkeypelt
+## monkeypelt
 
 | Item       | Cost | Material   | Category | Research Needed                      | Available Until                 |
 | ---------- | ---- | ---------- | -------- | ------------------------------------ | ------------------------------- |
@@ -676,7 +676,7 @@ Exported on 01 May 2020 -
 | fur boots  | 3    | monkeypelt | none     | Available from the start.            | Available until the Modern Age. |
 | fur gloves | 3    | monkeypelt | none     | Available from the start.            | Available until the Modern Age. |
 
-### orcpelt
+## orcpelt
 
 | Item       | Cost | Material | Category | Research Needed           | Available Until                 |
 | ---------- | ---- | -------- | -------- | ------------------------- | ------------------------------- |
@@ -684,13 +684,13 @@ Exported on 01 May 2020 -
 | fur boots  | 3    | orcpelt  | none     | Available from the start. | Available until the Modern Age. |
 | fur gloves | 3    | orcpelt  | none     | Available from the start. | Available until the Modern Age. |
 
-### pantherpelt
+## pantherpelt
 
 | Item                   | Cost | Material    | Category | Research Needed           | Available Until                 |
 | ---------------------- | ---- | ----------- | -------- | ------------------------- | ------------------------------- |
 | panther pelt headcover | 3    | pantherpelt | none     | Available from the start. | Available until the Modern Age. |
 
-### peltgatorpelt
+## peltgatorpelt
 
 | Item                         | Cost | Material      | Category  | Research Needed                                       | Available Until                     |
 | ---------------------------- | ---- | ------------- | --------- | ----------------------------------------------------- | ----------------------------------- |
@@ -703,7 +703,7 @@ Exported on 01 May 2020 -
 | alligator scale ankle boots  | 3    | peltgatorpelt | foot wear | Requires 98 Medical research points.                  | Available until the Cold War.       |
 | alligator scale laceup shoes | 3    | peltgatorpelt | foot wear | Requires 112 Industrial, 112 Medical research points. | Available until the Modern Age.     |
 
-### plastic
+## plastic
 
 | Item                           | Cost | Material | Category  | Research Needed                          | Available Until                 |
 | ------------------------------ | ---- | -------- | --------- | ---------------------------------------- | ------------------------------- |
@@ -731,20 +731,20 @@ Exported on 01 May 2020 -
 | condiment bottle               | 0.75 | plastic  | drinks    | Requires 170 Industrial research points. | Available until the Modern Age. |
 | plastic bottle                 | 1.5  | plastic  | drinks    | Requires 170 Industrial research points. | Available until the Modern Age. |
 
-### poppy
+## poppy
 
 | Item  | Cost | Material | Category | Research Needed                      | Available Until                 |
 | ----- | ---- | -------- | -------- | ------------------------------------ | ------------------------------- |
 | opium | 3    | poppy    | none     | Requires 29 Medical research points. | Available until the Modern Age. |
 
-### rags
+## rags
 
 | Item            | Cost | Material | Category | Research Needed                       | Available Until                  |
 | --------------- | ---- | -------- | -------- | ------------------------------------- | -------------------------------- |
 | bandages        | 2    | rags     | none     | Available from the start.             | Available until the Modern Age.  |
 | beggar clothing | 4    | rags     | none     | Requires 39 Military research points. | Available until the Middle Ages. |
 
-### rope
+## rope
 
 | Item           | Cost | Material | Category | Research Needed                       | Available Until                 |
 | -------------- | ---- | -------- | -------- | ------------------------------------- | ------------------------------- |
@@ -754,7 +754,7 @@ Exported on 01 May 2020 -
 | leash          | 1    | rope     | none     | Available from the start.             | Available until the Modern Age. |
 | garrote        | 3    | rope     | none     | Requires 43 Military research points. | Available until the Modern Age. |
 
-### sandstone
+## sandstone
 
 | Item                                 | Cost | Material  | Category               | Research Needed                                      | Available Until                     |
 | ------------------------------------ | ---- | --------- | ---------------------- | ---------------------------------------------------- | ----------------------------------- |
@@ -795,7 +795,7 @@ Exported on 01 May 2020 -
 | pickaxe                              | 2    | sandstone | tools                  | Available from the start.                            | Available until the Modern Age.     |
 | grindstone                           | 18   | sandstone | production             | Requires 25 Industrial research points.              | Available until the Modern Age.     |
 
-### silver
+## silver
 
 | Item                | Cost | Material | Category | Research Needed                                      | Available Until                   |
 | ------------------- | ---- | -------- | -------- | ---------------------------------------------------- | --------------------------------- |
@@ -806,7 +806,7 @@ Exported on 01 May 2020 -
 | silver arm bangles  | 2    | silver   | none     | Available from the start.                            | Available until the Modern Age.   |
 | silver statue       | 10   | silver   | none     | Requires 10 Industrial research points.              | Available until the Modern Age.   |
 
-### steel
+## steel
 
 | Item                     | Cost | Material | Category       | Research Needed                                        | Available Until                     |
 | ------------------------ | ---- | -------- | -------------- | ------------------------------------------------------ | ----------------------------------- |
@@ -877,7 +877,7 @@ Exported on 01 May 2020 -
 | flagpole                 | 6    | steel    | none           | Available from the start.                              | Available until the Modern Age.     |
 | vending machine          | 12   | steel    | none           | Requires 200 Industrial research points.               | Available until the Modern Age.     |
 
-### stone
+## stone
 
 | Item                                    | Cost | Material | Category                     | Research Needed                                      | Available Until                     |
 | --------------------------------------- | ---- | -------- | ---------------------------- | ---------------------------------------------------- | ----------------------------------- |
@@ -944,7 +944,7 @@ Exported on 01 May 2020 -
 | stone bathtub                           | 50   | stone    | hygiene                      | Requires 15 Industrial, 10 Medical research points.  | Available until the Bronze Age.     |
 | stone public bathtub                    | 50   | stone    | hygiene                      | Requires 55 Industrial, 40 Medical research points.  | Available until the Middle Ages.    |
 
-### stonebrick
+## stonebrick
 
 | Item                | Cost | Material   | Category | Research Needed                         | Available Until                 |
 | ------------------- | ---- | ---------- | -------- | --------------------------------------- | ------------------------------- |
@@ -952,7 +952,7 @@ Exported on 01 May 2020 -
 | stone brick floor   | 1    | stonebrick | none     | Requires 35 Industrial research points. | Available until the Modern Age. |
 | stone brick archway | 6    | stonebrick | none     | Requires 35 Industrial research points. | Available until the Modern Age. |
 
-### tin
+## tin
 
 | Item               | Cost | Material | Category | Research Needed                         | Available Until                 |
 | ------------------ | ---- | -------- | -------- | --------------------------------------- | ------------------------------- |
@@ -962,7 +962,7 @@ Exported on 01 May 2020 -
 | large tin can      | 1    | tin      | none     | Requires 95 Industrial research points. | Available until the Modern Age. |
 | dummy armor        | 4    | tin      | none     | Requires 18 Industrial research points. | Available until the Modern Age. |
 
-### tobacco
+## tobacco
 
 | Item        | Cost | Material | Category | Research Needed                      | Available Until                 |
 | ----------- | ---- | -------- | -------- | ------------------------------------ | ------------------------------- |
@@ -970,7 +970,7 @@ Exported on 01 May 2020 -
 | cuban cigar | 5    | tobacco  | none     | Requires 57 Medical research points. | Available until the Modern Age. |
 | cigarette   | 2    | tobacco  | none     | Requires 80 Medical research points. | Available until the Modern Age. |
 
-### whitefoxpelt
+## whitefoxpelt
 
 | Item                     | Cost | Material     | Category | Research Needed                      | Available Until                 |
 | ------------------------ | ---- | ------------ | -------- | ------------------------------------ | ------------------------------- |
@@ -981,7 +981,7 @@ Exported on 01 May 2020 -
 | fur gloves               | 3    | whitefoxpelt | none     | Available from the start.            | Available until the Modern Age. |
 | white fox pelt headcover | 3    | whitefoxpelt | none     | Available from the start.            | Available until the Modern Age. |
 
-### wolfpelt
+## wolfpelt
 
 | Item                | Cost | Material | Category | Research Needed                      | Available Until                 |
 | ------------------- | ---- | -------- | -------- | ------------------------------------ | ------------------------------- |
@@ -992,7 +992,7 @@ Exported on 01 May 2020 -
 | fur gloves          | 3    | wolfpelt | none     | Available from the start.            | Available until the Modern Age. |
 | wolf pelt headcover | 4    | wolfpelt | none     | Available from the start.            | Available until the Modern Age. |
 
-### wood
+## wood
 
 | Item                                 | Cost | Material | Category               | Research Needed                                       | Available Until                     |
 | ------------------------------------ | ---- | -------- | ---------------------- | ----------------------------------------------------- | ----------------------------------- |
@@ -1171,7 +1171,7 @@ Exported on 01 May 2020 -
 | supply stall                         | 25   | wood     | economy & production   | Requires 24 Industrial research points.               | Available until the Modern Age.     |
 | stock market                         | 25   | wood     | economy & production   | Requires 24 Industrial research points.               | Available until the Modern Age.     |
 
-### woolcloth
+## woolcloth
 
 | Item                              | Cost | Material  | Category        | Research Needed                                     | Available Until                       |
 | --------------------------------- | ---- | --------- | --------------- | --------------------------------------------------- | ------------------------------------- |

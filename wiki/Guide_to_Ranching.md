@@ -1,5 +1,5 @@
 # Guide to Ranching
-### Livestock
+## Livestock
 
 Well, from the very start of the Neolithic age, Humanity has started
 domesticating animals.
@@ -72,7 +72,7 @@ domesticating animals.
 </tbody>
 </table>
 
-### Reproduction
+## Reproduction
 
 To simply get these animals to multiply, you have to have them in a
 fairly small area and cramp them. For cows you need a bull and a cow
@@ -82,7 +82,7 @@ on top of it for awhile. Try customizing your chicken coops making it so
 they are unable to move off their egg.**(Only the cows, chickens, Deers,
 Pigs, Sheep, Goats and turkey's can breed for now)**
 
-### Wildlife
+## Wildlife
 
 <table class="sortable">
 <thead>
