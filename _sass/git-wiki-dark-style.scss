@@ -155,7 +155,7 @@ img {
 }
 
 @media print,
-screen and (max-width: 992px) {
+screen and (max-width: 300px) {
   #git-wiki-sidebar {
     position: fixed !important;
     top: 50px;
