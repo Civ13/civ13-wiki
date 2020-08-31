@@ -6,7 +6,7 @@ body {
   background-color: #222;
   padding: 50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #aaaaaa;
+  color: #a5a5a5;
   font-weight: 400;
 }
 
@@ -388,4 +388,17 @@ screen and (max-width: 480px) {
   background-image: url("../images/external-link-ltr-icon.png");
   background-image: linear-gradient(transparent, transparent), url("../images/external.svg");
   padding-right: 13px;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: rgb(0, 0, 0);
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: rgb(0, 0, 0);
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: rgb(0, 0, 0);
 }

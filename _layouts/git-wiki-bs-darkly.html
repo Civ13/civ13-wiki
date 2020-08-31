@@ -19,43 +19,55 @@
     {% include git-wiki/sections/head/styles.html %}
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/darkly/bootstrap.min.css">
+    {% comment %} Hacky-Fix for lux theme {% endcomment %}
+    <style>
+        .git-wiki-page {
+            padding-left: 0;   
+        }
+        
+        .wrapper .col-lg-3 {
+            max-width: 250px;
+        }
+    </style>
     {% if site.inc_after_head %}
     {% include {{ site.inc_after_head }} %}
     {% endif %}
-    <body>
-        <div class="wrapper">
-            <div class="row">
-                <div class="col-lg-9">
-                    <div class="git-wiki-page">
-                        {% include git-wiki/sections/tools/tools.html %}
-    
-                        {% include git-wiki/components/toc/toc.html %}
-    
-                        {% if site.inc_before_content %}
-                        {% include {{ site.inc_before_content }} %}
-                        {% endif %}
-    
-                        <div id="git-wiki-content">
-                            {{ content }}
-                        </div>
-    
-                        {% if site.inc_after_content %}
-                        {% include {{ site.inc_after_content }} %}
-                        {% endif %}
-                    </div>
-                </div>
-                <div class="col-lg-3">
-                    {% include git-wiki/sections/header/header.html %}
-                </div>
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="row">
+            <div class="col-lg-3">
+                {% include git-wiki/sections/header/header.html %}
             </div>
-            <div class="row">
-                <div class="col">
-                    {% include git-wiki/sections/footer/footer.html %}
+            <div class="col-lg-9">
+                <div class="git-wiki-page">
+                    {% include git-wiki/sections/tools/tools.html %}
+
+                    {% include git-wiki/components/toc/toc.html %}
+
+                    {% if site.inc_before_content %}
+                    {% include {{ site.inc_before_content }} %}
+                    {% endif %}
+
+                    <div id="git-wiki-content">
+                        {{ content }}
+                    </div>
+
+                    {% if site.inc_after_content %}
+                    {% include {{ site.inc_after_content }} %}
+                    {% endif %}
                 </div>
             </div>
         </div>
-    
-        {% include git-wiki/sections/tail/tail.html %}
-    </body>
-    
-    </html>
+        <div class="row">
+            <div class="col">
+                {% include git-wiki/sections/footer/footer.html %}
+            </div>
+        </div>
+    </div>
+
+    {% include git-wiki/sections/tail/tail.html %}
+</body>
+
+</html>
