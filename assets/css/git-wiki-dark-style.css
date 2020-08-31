@@ -265,7 +265,7 @@ img {
   padding: 0;
   padding-top:0;
   padding-bottom:10px;
-  height: 75px;
+  height: 90px;
   width: 100%;
   border-radius: 10px;
   border-bottom: 1px solid white;
@@ -631,19 +631,34 @@ ol {
 
 .float-child-1 {
     width: 20%;
+    bottom: 65px;
+    top: 90px;
     float: left;
-    padding: 10px;
-    padding-top:0px;
+    padding: 0px;
     border-right: 1px solid white;
     position: fixed;
-    margin-top:55px;
     margin-right:20px;
 }  
-
+.float-child-1-scroll {
+  height: 100%;
+  overflow-y:scroll;
+}  
 .float-child-2 {
   width: 75%;
   float: right;
-  padding: 20px;
+  padding: 0;
   border: 0;
   margin: 20px;
+  margin-bottom: 80px;
 }  
+
+.git-wiki-copyrights {
+  border: 0;
+  bottom:0;
+  position:fixed;
+  margin:0;
+  padding:0;
+  width: 100%;
+  background-color:#222;
+  text-align: center;
+}
