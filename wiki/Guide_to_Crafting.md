@@ -115,7 +115,7 @@ Pioneers, only the Blacksmith can use the anvil.
 <center>
 <p><strong>Knife</strong></p>
 </center></td>
-<td><p>Made with either 4 bone pieces or 1 unit of manifold materials: stone, copper, bronze, iron, steel, tin, even gold, silver and diamonds. Used to cut trees, skin animals and stab enemies in a desperate situation. Used to cut wires and cut down curtains as well. The bone knife (the leftmost one) is also a surgical tool in the earliest epochs, but for that refer to <strong><img src="Guide_to_Medical#Surgery" title="wikilink">Surgery</a></strong>. And check the <strong><img src="Guide_to_Cooking" title="wikilink">Guide to Cooking</a></strong> for more culinary uses of the knife.</p></td>
+<td><p>Made with either 4 bone pieces or 1 unit of manifold materials: stone, copper, bronze, iron, steel, tin, even gold, silver and diamonds. Used to cut trees, skin animals and stab enemies in a desperate situation. Used to cut wires and cut down curtains as well. The bone knife (the leftmost one) is also a surgical tool in the earliest epochs, but for that refer to <strong><img src="Guide_to_Medical#Surgery" "wikilink">Surgery</a></strong>. And check the <strong><img src="Guide_to_Cooking" "wikilink">Guide to Cooking</a></strong> for more culinary uses of the knife.</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -275,7 +275,7 @@ to the **[Guide to Cooking](Guide_to_Cooking "wikilink")**.
 <center>
 <p><strong>Furs and Pelts</strong></p>
 </center></td>
-<td><p>Obtained from various animals (check the <strong><img src="Full_Crafting_List" title="wikilink">Full Crafting List</a></strong>) by skinning the carcass with a knife on Grab intent. Pelts could be made into coats, gloves, footwear and headgear. Fur clothing comes in handy in the colder climates and seasons. Pelts could also be turned into leather on the tanning rack - cut the hair off of the hide with a knife, then place the hide on the rack and wait until it's ready. One extra leather sheet is obtained this way, compared to skinning the carcass directly for leather as described below.</p></td>
+<td><p>Obtained from various animals (check the <strong><img src="Full_Crafting_List" "wikilink">Full Crafting List</a></strong>) by skinning the carcass with a knife on Grab intent. Pelts could be made into coats, gloves, footwear and headgear. Fur clothing comes in handy in the colder climates and seasons. Pelts could also be turned into leather on the tanning rack - cut the hair off of the hide with a knife, then place the hide on the rack and wait until it's ready. One extra leather sheet is obtained this way, compared to skinning the carcass directly for leather as described below.</p></td>
 </tr>
 <tr class="even">
 <td><center>
