@@ -32,4 +32,10 @@
     {% endif %}
     {% endif %}
     {% endif %}
+    <input type="text" id="search-input" placeholder="Search..." style="background-color:#a3a3a3;color:#000000;">
+    <ul id="results-container"></ul>
+    <!-- script pointing to jekyll-search.js -->
+    <script src="{{ '/assets/js/simple-jekyll-search.min.js' | relative_url }}"></script>
+    <script async src="{{ 'assets/js/searchdata.js' | relative_url }}"></script>
+
 </div>
