@@ -1,9 +1,36 @@
-<br>
-<div class=" w3-xlarge" id="git-wiki-mobile-header" style="position: fixed;background-color:#222;">
+<div class="row" id="git-wiki-mobile-header">
   &nbsp;&nbsp;<a href="{{ '/' | relative_url }}" style="font-size:1.5rem">
     {% if site.logo_url %}
     <img src="{{ site.logo_url | relative_url }}" width="50px"></a>&nbsp;&nbsp;
     {% endif %}
     <a href="{{ '/' | relative_url }}" style="font-size:1.5rem">{{ site.title | escape }}</a>
-    {% include git-wiki/components/action_btn/page_actions.html %}
+    &nbsp;<div class="git-wiki-tools" style="background-color:#222;font-size:1rem;">
+      <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/new/{{site.git_branch | escape}}?filename={{ site.site_root | default: '/' }}{{ site.wiki_folder }}/">New</a></span>
+      <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/edit/{{site.git_branch | escape}}/{{ site.site_root | default: '/' }}{{page.path | escape}}">Edit</a></span>
+      {% if site.github.hostname == "gitlab.com" %}
+      <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/blob/{{site.git_branch | escape}}/{{ site.site_root | default: '/' }}{{page.path | escape}}">Delete</a></span>
+      {% else %}
+      <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/delete/{{site.git_branch | escape}}/{{ site.site_root | default: '/' }}{{page.path | escape}}">Delete</a></span>
+      {% endif %}
+      <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/commits/{{site.git_branch | escape}}/{{ site.site_root | default: '/' }}{{page.path | escape}}">History</a></span>
+      {% if site.blog_feature %}
+      <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/new/{{site.git_branch | escape}}?filename={{ site.site_root | default: '/' }}_posts/">Add New Post</a></span>
+      {% endif %}
+      {% if site.use_prose_io and site.github.hostname != "gitlab.com" %}
+      Prose.io:
+      <span class="tools-element"><a target="_blank" href="http://prose.io/#{{site.github.repository_nwo}}/new/{{site.git_branch | escape}}{{ site.site_root | default: '/' }}{{ site.wiki_folder }}">Add
+              new</a></span>
+      <span class="tools-element"><a target="_blank" href="http://prose.io/#{{site.github.repository_nwo}}/edit/{{site.git_branch | escape}}{{ site.site_root | default: '/' }}{{page.path | escape}}">Edit</a></span>
+      {% if site.blog_feature %}
+      <span class="tools-element"><a target="_blank" href="http://prose.io/#{{site.github.repository_nwo}}/new/{{site.git_branch | escape}}{{ site.site_root | default: '/' }}_posts/">Add
+              new post</a></span>
+      {% endif %}
+      {% endif %}
+      <input type="text" id="search-input" placeholder="Search..." style="background-color:#a3a3a3;color:#000000;">
+      <ul id="results-container"></ul>
+      <!-- script pointing to jekyll-search.js -->
+      <script src="{{ '/assets/js/simple-jekyll-search.min.js' | relative_url }}"></script>
+      <script async src="{{ 'assets/js/searchdata.js' | relative_url }}"></script>
+  
+  </div>
 </div>

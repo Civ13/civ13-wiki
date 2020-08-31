@@ -24,41 +24,38 @@
     {% include {{ site.inc_after_head }} %}
     {% endif %}
 </head>
-
+<header>
+    {% include git-wiki/sections/header/header.html %}
+</header>
 <body>
-    <div class="wrapper">
-        <div class="row">
-            {% include git-wiki/sections/header/header.html %}
-        </div>
-        <div class="row">
-            <div class="col w3-hide-small">
+    <div class="row wrapper">
+        <div class="float-container git-wiki-page">
+            {% if site.inc_before_content %}
+            {% include {{ site.inc_before_content }} %}
+            {% endif %}
+            <div class="float-child-1 w3-hide-small">
                 {% include git-wiki/components/toc/toc.html %}
             </div>
-            <div class="col-lg-9">
-                <div class="git-wiki-page">
-
-                    {% if site.inc_before_content %}
-                    {% include {{ site.inc_before_content }} %}
-                    {% endif %}
-
-                    <div id="git-wiki-content">
-                        {{ content }}
-                    </div>
-
-                    {% if site.inc_after_content %}
-                    {% include {{ site.inc_after_content }} %}
-                    {% endif %}
-                </div>
+            <div class="float-child-2" id="git-wiki-content">
+                {{ content }}
             </div>
-        </div>
-        <div class="row">
-            <div class="col">
-                {% include git-wiki/sections/footer/footer.html %}
-            </div>
+
+            {% if site.inc_after_content %}
+            {% include {{ site.inc_after_content }} %}
+            {% endif %}
         </div>
     </div>
-
     {% include git-wiki/sections/tail/tail.html %}
 </body>
+<footer>
+    {% if site.inc_before_footer %}
+    {% include {{ site.inc_before_footer }} %}
+    {% endif %}
 
+    {% include git-wiki/components/copyrights/copyrights.html %}
+
+    {% if site.inc_after_footer %}
+    {% include {{ site.inc_after_footer }} %}
+    {% endif %}
+</footer>
 </html>
