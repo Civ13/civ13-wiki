@@ -132,40 +132,514 @@ Wet (winter and spring) and dry (summer and fall) seasons apply to the
 Desert, Savanna and Jungles biomes.
 
 ## Crop catalogue
-|Crop | Tundra | Taiga | Temperate | Sea | Semi-Arid | Desert | Savanna | Jungle | Season | Max Water Level | Description |
-|------|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|---------|:-:|--------------|
-| Rice | O | O | O | X | O | O | X | X | All | 30 | Used as food and to make sake. |
-| Apricot | O | O | X | O | O | X | X | X | All | 40 | Used as food. |
-| Cherry | O | O | X | O | O | X | X | X | All | 40 | Used as food. |
-| Banana | O | O | O | O | O | O | X | X | All | 45 | Used as food. |
-| Barley | O | X | X | X | X | O | O | O | Spring, Summer, Fall, Wet | 50 | Used as food and to make beer. |
-| Beans | O | X | X | X | X | X | X | O | All | 50 | Used as food. |
-| Cotton | O | O | X | X | X | X | O | O | Spring, Summer, Wet, Dry | 50 | Used to make '''[[Full Crafting List#cloth |Cloth]]'''. |
-| Oat | X | X | X | X | O | O | O | O | Spring, Summer, Fall, Wet | 50 | Used as food. |
-| Wheat | X | X | X | X | X | X | O | O | Spring, Summer, Fall, Wet | 50 | Used to feed cattle, make flour and beer. |
-| Tea | O | O | O | X | X | O | X | X | All | 50 | Drinkable, used to cure illnesses and treat toxin damage. |
-| Tomato | O | O | X | X | X | X | X | X | Spring, Summer, Wet, Dry | 55 | Used as food. |
-| Tobacco | O | O | O | O | X | X | X | X | All | 55 | Used to make cigars and cigarettes. |
-| Mushroom | X | X | X | X | O | O | X | X | Spring, Summer, Fall, Winter, Wet | 55 | Used as food. |
-| Flax | X | X | X | O | O | O | O | O | All | 60 | Used to make retted fabric. |
-| Hemp | O | O | O | X | X | X | X | X | Spring, Summer, Fall, Wet, Dry | 60 | Used to make rope, retted fabric and joints. |
-| Sugarcane | O | O | O | X | O | O | X | X | All | 60 | Used to make sugar. |
-| Grapes | O | O | X | X | X | X | O | O | Spring, Summer, Fall, Wet, Dry | 65 | Used as food and to make wine. |
-| Corn | O | X | X | X | X | X | X | X | Spring, Summer, Wet, Dry | 70 | Used as food. |
-| Cabbage | X | X | X | X | X | O | O | O | All | 70 | Used as food. |
-| Olives | O | O | X | X | X | X | O | O | All | 70 | Used as food and to make olive oil. |
-| Carrot | X | X | X | X | X | X | X | X | All | 75 | Used as food. |
-| Potato | O | X | X | O | X | O | O | O | All | 75 | Used as food and to make vodka. |
-| Poppy | O | O | O | O | O | X | X | X | All | 75 | A painkiller. |
-| Lime | O | O | X | X | X | X | O | X | All | 75 | Used as food. |
-| Lemon | O | O | X | X | X | X | O | X | All | 75 | Used as food. |
-| Apple | X | X | X | X | X | O | O | O | All | 75 | Used as food. |
-| Orange | O | O | X | X | X | X | O | X | All | 75 | Used as food. |
-| Coca | O | O | O | O | O | O | X | X | All | 75 | Used to make cocaine. |
-| Bamboo | O | O | O | X | O | O | O | X | Spring, Summer, Fall, Winter, Wet | 80 | A construction material. |
-| Coffee | O | O | O | O | X | X | X | X | All | 80 | A stimulant, temporarily increase movement speed. |
-| Tree | X | X | X | X | X | X | X | X | Spring, Summer, Fall, Wet, Dry | 80 | Cultivated to obtain wood. |
-| Melon | O | O | O | O | X | X | O | X | Spring, Summer, Wet | 90 | Used as food. |
-| Pumpkin | X | X | X | O | O | O | O | O | All | 90 | Used as food. |
-| Peyote | O | O | O | O | O | X | O | O | All | 100 | A painkiller, slowly heals brain damage. |
-| Coconut | O | O | O | X | O | O | O | X | All | 100 | Used as food. |
+<table>
+<thead>
+<tr>
+<th>Crop</th>
+<th style="text-align:center">Tundra</th>
+<th style="text-align:center">Taiga</th>
+<th style="text-align:center">Temperate</th>
+<th style="text-align:center">Sea</th>
+<th style="text-align:center">Semi-Arid</th>
+<th style="text-align:center">Desert</th>
+<th style="text-align:center">Savanna</th>
+<th style="text-align:center">Jungle</th>
+<th>Season</th>
+<th style="text-align:center">Max Water Level</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Rice</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">30</td>
+<td>Used as food and to make sake.</td>
+</tr>
+<tr>
+<td>Apricot</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">40</td>
+<td>Used as food.</td>
+</tr>
+<tr>
+<td>Cherry</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">40</td>
+<td>Used as food.</td>
+</tr>
+<tr>
+<td>Banana</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">45</td>
+<td>Used as food.</td>
+</tr>
+<tr>
+<td>Barley</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>Spring, Summer, Fall, Wet</td>
+<td style="text-align:center">50</td>
+<td>Used as food and to make beer.</td>
+</tr>
+<tr>
+<td>Beans</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td>All</td>
+<td style="text-align:center">50</td>
+<td>Used as food.</td>
+</tr>
+<tr>
+<td>Cotton</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>Spring, Summer, Wet, Dry</td>
+<td style="text-align:center">50</td>
+<td>Used to make &#39;&#39;&#39;[[Full Crafting List#cloth</td>
+<td>Cloth]]&#39;&#39;&#39;.</td>
+</tr>
+<tr>
+<td>Oat</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>Spring, Summer, Fall, Wet</td>
+<td style="text-align:center">50</td>
+<td>Used as food.</td>
+</tr>
+<tr>
+<td>Wheat</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>Spring, Summer, Fall, Wet</td>
+<td style="text-align:center">50</td>
+<td>Used to feed cattle, make flour and beer.</td>
+</tr>
+<tr>
+<td>Tea</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">50</td>
+<td>Drinkable, used to cure illnesses and treat toxin damage.</td>
+</tr>
+<tr>
+<td>Tomato</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>Spring, Summer, Wet, Dry</td>
+<td style="text-align:center">55</td>
+<td>Used as food.</td>
+</tr>
+<tr>
+<td>Tobacco</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">55</td>
+<td>Used to make cigars and cigarettes.</td>
+</tr>
+<tr>
+<td>Mushroom</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>Spring, Summer, Fall, Winter, Wet</td>
+<td style="text-align:center">55</td>
+<td>Used as food.</td>
+</tr>
+<tr>
+<td>Flax</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>All</td>
+<td style="text-align:center">60</td>
+<td>Used to make retted fabric.</td>
+</tr>
+<tr>
+<td>Hemp</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>Spring, Summer, Fall, Wet, Dry</td>
+<td style="text-align:center">60</td>
+<td>Used to make rope, retted fabric and joints.</td>
+</tr>
+<tr>
+<td>Sugarcane</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">60</td>
+<td>Used to make sugar.</td>
+</tr>
+<tr>
+<td>Grapes</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>Spring, Summer, Fall, Wet, Dry</td>
+<td style="text-align:center">65</td>
+<td>Used as food and to make wine.</td>
+</tr>
+<tr>
+<td>Corn</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>Spring, Summer, Wet, Dry</td>
+<td style="text-align:center">70</td>
+<td>Used as food.</td>
+</tr>
+<tr>
+<td>Cabbage</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>All</td>
+<td style="text-align:center">70</td>
+<td>Used as food.</td>
+</tr>
+<tr>
+<td>Olives</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>All</td>
+<td style="text-align:center">70</td>
+<td>Used as food and to make olive oil.</td>
+</tr>
+<tr>
+<td>Carrot</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">75</td>
+<td>Used as food.</td>
+</tr>
+<tr>
+<td>Potato</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>All</td>
+<td style="text-align:center">75</td>
+<td>Used as food and to make vodka.</td>
+</tr>
+<tr>
+<td>Poppy</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">75</td>
+<td>A painkiller.</td>
+</tr>
+<tr>
+<td>Lime</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">75</td>
+<td>Used as food.</td>
+</tr>
+<tr>
+<td>Lemon</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">75</td>
+<td>Used as food.</td>
+</tr>
+<tr>
+<td>Apple</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>All</td>
+<td style="text-align:center">75</td>
+<td>Used as food.</td>
+</tr>
+<tr>
+<td>Orange</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">75</td>
+<td>Used as food.</td>
+</tr>
+<tr>
+<td>Coca</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">75</td>
+<td>Used to make cocaine.</td>
+</tr>
+<tr>
+<td>Bamboo</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td>Spring, Summer, Fall, Winter, Wet</td>
+<td style="text-align:center">80</td>
+<td>A construction material.</td>
+</tr>
+<tr>
+<td>Coffee</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">80</td>
+<td>A stimulant, temporarily increase movement speed.</td>
+</tr>
+<tr>
+<td>Tree</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>Spring, Summer, Fall, Wet, Dry</td>
+<td style="text-align:center">80</td>
+<td>Cultivated to obtain wood.</td>
+</tr>
+<tr>
+<td>Melon</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td>Spring, Summer, Wet</td>
+<td style="text-align:center">90</td>
+<td>Used as food.</td>
+</tr>
+<tr>
+<td>Pumpkin</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>All</td>
+<td style="text-align:center">90</td>
+<td>Used as food.</td>
+</tr>
+<tr>
+<td>Peyote</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>All</td>
+<td style="text-align:center">100</td>
+<td>A painkiller, slowly heals brain damage.</td>
+</tr>
+<tr>
+<td>Coconut</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">100</td>
+<td>Used as food.</td>
+</tr>
+</tbody>
+</table>
