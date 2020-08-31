@@ -1,3 +1,4 @@
+# Guide to Religion
 ## Creating a Religion
 
 Religions in Civilization 13 are custom-made, and as a founder you can

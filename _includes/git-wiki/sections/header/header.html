@@ -1,15 +1,13 @@
-<div class=" w3-xlarge w3-hide-large" id="git-wiki-mobile-header">
-  <button class="w3-button w3-teal" onclick="sidebar_toggle()">&#9776;</button>
-  <a href="{{ '/main_page' | relative_url }}">
+<br>
+<div class=" w3-xlarge w3-hide-large" id="git-wiki-mobile-header" style="top: 0; position: sticky;">
+  &nbsp;&nbsp;<a href="{{ '/' | relative_url }}" style="font-size:1.5rem">
     {% if site.logo_url %}
-    <img src="{{ site.logo_url | relative_url }}" width="20px">
+    <img src="{{ site.logo_url | relative_url }}" width="50px"></a>&nbsp;&nbsp;
     {% endif %}
-    {{ site.title | escape }}
-  </a>
+    <a href="{{ '/' | relative_url }}" style="font-size:1.5rem">{{ site.title | escape }}</a>
 </div>
-<header class="w3-sidebar w3-bar-block w3-collapse" id="git-wiki-sidebar">
+<header class="w3-sidebar w3-bar-block w3-collapse" id="git-wiki-sidebar" style="display:none; position:inherit;">
   <div>
-    <button class="w3-bar-item w3-button w3-large w3-hide-large" onclick="sidebar_toggle()">Close &times;</button>
     {% if site.inc_before_header %}
     {% include {{ site.inc_before_header }} %}
     {% endif %}
@@ -26,6 +24,8 @@
     {% if site.github.is_user_page %}
     <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
     {% endif %}
+
+    {% include git-wiki/sections/sidebar.html %}
 
     {% if site.show_downloads %}
     {% include git-wiki/components/action_btn/downloads.html %}

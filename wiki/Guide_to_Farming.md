@@ -1,3 +1,4 @@
+# Guide to Farming
 Being a grower of crops is an important role. You farm both food and
 cash crops. Growing food is vital for a nation to increase in wealth and
 power.
@@ -6,7 +7,7 @@ power.
 
 To farm, you will require some basic tools.
 
-<table>
+<table class="sortable">
 <thead>
 <tr class="header">
 <th><p>Item</p></th>
@@ -20,7 +21,7 @@ To farm, you will require some basic tools.
 <p>Knife</p>
 </center></td>
 <td><center>
-<p><a href="https://cdn.discordapp.com/attachments/485954244437082112/638448789849374741/e.png">https://cdn.discordapp.com/attachments/485954244437082112/638448789849374741/e.png</a></p>
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/e.png">
 </center></td>
 <td><p>Used for harvesting crops. Can be made out of Wood, Bone, Copper, Bronze, Iron, Steel, Silver, Gold and Diamond.</p></td>
 </tr>
@@ -29,7 +30,7 @@ To farm, you will require some basic tools.
 <p>Plough</p>
 </center></td>
 <td><center>
-<p><a href="https://cdn.discordapp.com/attachments/468980363239358464/635639350180446219/plough_normal.png">https://cdn.discordapp.com/attachments/468980363239358464/635639350180446219/plough_normal.png</a></p>
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/plough_normal.png">
 </center></td>
 <td><p>A plough is made out of wood and used to plough fields for farming! Used once on the grass and once on the dirt underneath the grass. You can also plough snowy dirt and flooded plains dirt (found along the jungle rivers). In case of snowy grass, you will have to shovel the snow first. Lastly, there are places where you cannot plough: infertile soil, permafrost etc. You can also make an iron plough out of iron ingots to plough land faster.</p></td>
 </tr>
@@ -38,7 +39,7 @@ To farm, you will require some basic tools.
 <p>Trench shovel</p>
 </center></td>
 <td><center>
-<p><a href="https://cdn.discordapp.com/attachments/485954244437082112/638449007525363755/eas.png">https://cdn.discordapp.com/attachments/485954244437082112/638449007525363755/eas.png</a></p>
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/trench_shovel.png">
 </center></td>
 <td><p>A trench shovel is made out of iron ingots and a wooden handle. A trench shovel (as the name suggests) digs trenches, to dig a trench simple click a dirt tile two times also you can flood trenches by putting them next to a water source. Useful for large scale farming.</p></td>
 </tr>
@@ -47,7 +48,7 @@ To farm, you will require some basic tools.
 <p>Seeds</p>
 </center></td>
 <td><center>
-<p><a href="https://cdn.discordapp.com/attachments/468980363239358464/635639352256364574/seeds.png">https://cdn.discordapp.com/attachments/468980363239358464/635639352256364574/seeds.png</a></p>
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/seeds.png">
 </center></td>
 <td><p>Some sort of seeds to plant and grow. You may find seeds simply lying on the ground, but you can also collect them in the wilderness by using any type of knife on bushes and small bushes.</p></td>
 </tr>
@@ -56,7 +57,7 @@ To farm, you will require some basic tools.
 <p>Seed collector</p>
 </center></td>
 <td><center>
-<p><a href="https://cdn.discordapp.com/attachments/439888081231937552/640807738464796684/seed_collector.png">https://cdn.discordapp.com/attachments/439888081231937552/640807738464796684/seed_collector.png</a></p>
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/seed_collector.png">
 </center></td>
 <td><p>Made out of leather. Very useful for picking up seeds during large-scale farming. Have a seed collector in your active hand, stand over the seeds on the ground, then click the collector or press Ctrl-Z, and you will put the seeds in the bag. Just do not misplace it.</p></td>
 </tr>
@@ -131,278 +132,513 @@ Wet (winter and spring) and dry (summer and fall) seasons apply to the
 Desert, Savanna and Jungles biomes.
 
 ## Crop catalogue
-
-<table>
+<table class="sortable">
 <thead>
-<tr class="header">
-<th><p>Crop</p></th>
-<th><p>Biome</p></th>
-<th><p>Season</p></th>
-<th><p>Max<br />
-Water Level</p></th>
-<th><p>Description</p></th>
+<tr>
+<th>Crop</th>
+<th style="text-align:center">Tundra</th>
+<th style="text-align:center">Taiga</th>
+<th style="text-align:center">Temperate</th>
+<th style="text-align:center">Sea</th>
+<th style="text-align:center">Semi-Arid</th>
+<th style="text-align:center">Desert</th>
+<th style="text-align:center">Savanna</th>
+<th style="text-align:center">Jungle</th>
+<th>Season</th>
+<th style="text-align:center">Max Water Level</th>
+<th>Description</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
-<td><p><small><strong>Tundra</strong></small></p></td>
-<td><p><small><strong>Taiga</strong></small></p></td>
-<td><p><small><strong>Temperate</strong></small></p></td>
-<td><p><small><strong>Sea</strong></small></p></td>
-<td><p><small><strong>Semi-Arid</strong></small></p></td>
+<tr>
+<td>Rice</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">30</td>
+<td>Used as food and to make sake.</td>
 </tr>
-<tr class="even">
-<td><p><br />
-</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<tr>
+<td>Apricot</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">40</td>
+<td>Used as food.</td>
 </tr>
-<tr class="odd">
-<td><p>Rice</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
+<tr>
+<td>Cherry</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">40</td>
+<td>Used as food.</td>
 </tr>
-<tr class="even">
-<td><p>Apricot</p></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-<td></td>
+<tr>
+<td>Banana</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">45</td>
+<td>Used as food.</td>
 </tr>
-<tr class="odd">
-<td><p>Cherry</p></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-<td></td>
+<tr>
+<td>Barley</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>Spring, Summer, Fall, Wet</td>
+<td style="text-align:center">50</td>
+<td>Used as food and to make beer.</td>
 </tr>
-<tr class="even">
-<td><p>Banana</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<tr>
+<td>Beans</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td>All</td>
+<td style="text-align:center">50</td>
+<td>Used as food.</td>
 </tr>
-<tr class="odd">
-<td><p>Barley</p></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
+<tr>
+<td>Cotton</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>Spring, Summer, Wet, Dry</td>
+<td style="text-align:center">50</td>
+<td>Used to make cloth.</td>
 </tr>
-<tr class="even">
-<td><p>Beans</p></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
+<tr>
+<td>Oat</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>Spring, Summer, Fall, Wet</td>
+<td style="text-align:center">50</td>
+<td>Used as food.</td>
 </tr>
-<tr class="odd">
-<td><p>Cotton</p></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
+<tr>
+<td>Wheat</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>Spring, Summer, Fall, Wet</td>
+<td style="text-align:center">50</td>
+<td>Used to feed cattle, make flour and beer.</td>
 </tr>
-<tr class="even">
-<td><p>Oat</p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
+<tr>
+<td>Tea</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">50</td>
+<td>Drinkable, used to cure illnesses and treat toxin damage.</td>
 </tr>
-<tr class="odd">
-<td><p>Wheat</p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
+<tr>
+<td>Tomato</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>Spring, Summer, Wet, Dry</td>
+<td style="text-align:center">55</td>
+<td>Used as food.</td>
 </tr>
-<tr class="even">
-<td><p>Tea</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
+<tr>
+<td>Tobacco</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">55</td>
+<td>Used to make cigars and cigarettes.</td>
 </tr>
-<tr class="odd">
-<td><p>Tomato</p></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
+<tr>
+<td>Mushroom</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>Spring, Summer, Fall, Winter, Wet</td>
+<td style="text-align:center">55</td>
+<td>Used as food.</td>
 </tr>
-<tr class="even">
-<td><p>Tobacco</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<tr>
+<td>Flax</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>All</td>
+<td style="text-align:center">60</td>
+<td>Used to make retted fabric.</td>
 </tr>
-<tr class="odd">
-<td><p>Mushroom</p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
+<tr>
+<td>Hemp</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>Spring, Summer, Fall, Wet, Dry</td>
+<td style="text-align:center">60</td>
+<td>Used to make rope, retted fabric and joints.</td>
 </tr>
-<tr class="even">
-<td><p>Flax</p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td></td>
+<tr>
+<td>Sugarcane</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">60</td>
+<td>Used to make sugar.</td>
 </tr>
-<tr class="odd">
-<td><p>Hemp</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
+<tr>
+<td>Grapes</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>Spring, Summer, Fall, Wet, Dry</td>
+<td style="text-align:center">65</td>
+<td>Used as food and to make wine.</td>
 </tr>
-<tr class="even">
-<td><p>Sugarcane</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
+<tr>
+<td>Corn</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>Spring, Summer, Wet, Dry</td>
+<td style="text-align:center">70</td>
+<td>Used as food.</td>
 </tr>
-<tr class="odd">
-<td><p>Grapes</p></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
+<tr>
+<td>Cabbage</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>All</td>
+<td style="text-align:center">70</td>
+<td>Used as food.</td>
 </tr>
-<tr class="even">
-<td><p>Corn</p></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
+<tr>
+<td>Olives</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>All</td>
+<td style="text-align:center">70</td>
+<td>Used as food and to make olive oil.</td>
 </tr>
-<tr class="odd">
-<td><p>Cabbage</p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
+<tr>
+<td>Carrot</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">75</td>
+<td>Used as food.</td>
 </tr>
-<tr class="even">
-<td><p>Olives</p></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
+<tr>
+<td>Potato</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>All</td>
+<td style="text-align:center">75</td>
+<td>Used as food and to make vodka.</td>
 </tr>
-<tr class="odd">
-<td><p>Carrot</p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
+<tr>
+<td>Poppy</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">75</td>
+<td>A painkiller.</td>
 </tr>
-<tr class="even">
-<td><p>Potato</p></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td></td>
+<tr>
+<td>Lime</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">75</td>
+<td>Used as food.</td>
 </tr>
-<tr class="odd">
-<td><p>Poppy</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<tr>
+<td>Lemon</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">75</td>
+<td>Used as food.</td>
 </tr>
-<tr class="even">
-<td><p>Lime</p></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
+<tr>
+<td>Apple</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>All</td>
+<td style="text-align:center">75</td>
+<td>Used as food.</td>
 </tr>
-<tr class="odd">
-<td><p>Lemon</p></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
+<tr>
+<td>Orange</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">75</td>
+<td>Used as food.</td>
 </tr>
-<tr class="even">
-<td><p>Apple</p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
+<tr>
+<td>Coca</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">75</td>
+<td>Used to make cocaine.</td>
 </tr>
-<tr class="odd">
-<td><p>Orange</p></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
+<tr>
+<td>Bamboo</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td>Spring, Summer, Fall, Winter, Wet</td>
+<td style="text-align:center">80</td>
+<td>A construction material.</td>
 </tr>
-<tr class="even">
-<td><p>Coca</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<tr>
+<td>Coffee</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">80</td>
+<td>A stimulant, temporarily increase movement speed.</td>
 </tr>
-<tr class="odd">
-<td><p>Bamboo</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
+<tr>
+<td>Tree</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td>Spring, Summer, Fall, Wet, Dry</td>
+<td style="text-align:center">80</td>
+<td>Cultivated to obtain wood.</td>
 </tr>
-<tr class="even">
-<td><p>Coffee</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<tr>
+<td>Melon</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td>Spring, Summer, Wet</td>
+<td style="text-align:center">90</td>
+<td>Used as food.</td>
 </tr>
-<tr class="odd">
-<td><p>Tree</p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
+<tr>
+<td>Pumpkin</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>All</td>
+<td style="text-align:center">90</td>
+<td>Used as food.</td>
 </tr>
-<tr class="even">
-<td><p>Melon</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<tr>
+<td>Peyote</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>All</td>
+<td style="text-align:center">100</td>
+<td>A painkiller, slowly heals brain damage.</td>
 </tr>
-<tr class="odd">
-<td><p>Pumpkin</p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td><p><strong>X</strong></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Peyote</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Coconut</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p><strong>X</strong></p></td>
+<tr>
+<td>Coconut</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">100</td>
+<td>Used as food.</td>
 </tr>
 </tbody>
 </table>

@@ -1,11 +1,9 @@
-<div class="center" style="width:auto; margin-left:auto; margin-right:auto;">
+# Civilization and Nomads
 
-''"I'm cold and starving, **[WHAT DO I
-DO\!?](Civilizations#Starter_Guide "wikilink")"**
+***"I'm cold and starving, [WHAT DO I
+DO?](Civilizations_and_Nomads#surviving "wikilink")"***
 
 *- A confused player*
-
-</div>
 
 ## What is Civilizations Mode?
 
@@ -164,8 +162,6 @@ different biomes, detailed below.
 
 #### Temperate
 
-<img src="httpttps://cdn.discordapp.com/attachments/468979034571931650/524450345569484802/unknown.png" height=300>
-
 This is the classic map, using the same map as the Civilizations map.
 
   - The map climate is temperate, with plenty of forests, rivers,
@@ -193,8 +189,6 @@ It has four Seasons, and they will rotate every 30 minutes.
 
 #### Desert
 
-<img src="httpttps://cdn.discordapp.com/attachments/468979034571931650/524449668181131284/unknown.png" height=300>
-
   - In this map, the whole area is a desert with some sparse water
     sources and farming plots.
   - Water management is important here, as is control of the rare
@@ -212,8 +206,6 @@ There are two seasons:
     horses, camels, and alligators.
 
 #### Ice Age
-
-<img src="httpttps://cdn.discordapp.com/attachments/468979034571931650/524444327166869504/unknown.png" height=300>
 
   - In this map, the whole area is covered in snow all year round.
     Resources (including wood, animals and minerals) are rare here, and
@@ -233,8 +225,6 @@ There are two seasons:
     Have a shelter ready or you probably won't survive until summer.
 
 #### Jungle
-
-<img src="https://cdn.discordapp.com/attachments/514547439215312916/534500616265924618/5nbewoIg42UAAAAASUVORK5CYII.png" height=300>
 
 A dense tropical rainforest. It has two seasons, wet (where it rains all
 the time and rivers flood) and dry (where fertile floodplains are
@@ -258,15 +248,9 @@ flat.
 
 Tundra : Russian, Ukrainian.
 
-` ^`
-
 Temperate : German, Dutch.
 
-` ^`
-
 Desert : Arabian, Hebrew
-
-` ^`
 
 Jungle : Swahili, Zulu
 
@@ -601,7 +585,7 @@ levels, check [Full Crafting List](Full_Crafting_List "wikilink").
 `* 130: `*`custom``   ``camo``   ``uniform`*
 `* 145: `*`NBC``   ``suits``   ``and``   ``hoods`*
 
-# Starter Guide
+## Starter Guide
 
 ### Spawning in
 
@@ -669,7 +653,7 @@ the meat after cooking it.
       - Cooking pots are made with **iron ingots**, but again, it
         requires research levels to make.
 
-### Thirst
+#### Thirst
 
 The easiest way to quench your thirst early on is by drinking water or
 milk, though other liquids like **tea** can also be used.
@@ -716,7 +700,7 @@ You can get water from **puddles**, any **water tiles**, or **wells**.
 Milk is regenerated in the animals over time, so keep them alive, and
 you'll never go thirsty.
 
-### Surviving the Winter
+#### Surviving the Winter
 
 Being caught in the winter without protection will kill you. And even
 with a fur coat, a blizzard will make short work of you.

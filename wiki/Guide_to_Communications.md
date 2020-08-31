@@ -1,33 +1,33 @@
-## Guide to Communications
-### Towers
+# Guide to Communications
+## Towers
 
-<table>
+<table class="sortable">
 <thead>
 <tr class="header">
-<th><p>scope = "col" style="width: 10%" | Type of Tower</p></th>
-<th><p>scope = "col" style="width: 2%" class="sortable" | Image</p></th>
-<th><p>scope = "col" style="width: 10%" class="sortable" | Description</p></th>
+<th><p>Type of Tower</p></th>
+<th><p>Image</p></th>
+<th><p>Description</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>Utility pole</p></td>
 <td><center>
-<p><a href="https://cdn.discordapp.com/attachments/485954244437082112/638478244143693844/ea.png">https://cdn.discordapp.com/attachments/485954244437082112/638478244143693844/ea.png</a></p>
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/ea.png">
 <center></td>
 <td><p>must be within <strong>2</strong> tiles of another tower to work, can't be diagonal</p></td>
 </tr>
 <tr class="even">
 <td><p>Cell Tower</p></td>
 <td><center>
-<p><a href="https://cdn.discordapp.com/attachments/485954244437082112/638478249227321354/eas.png">https://cdn.discordapp.com/attachments/485954244437082112/638478249227321354/eas.png</a></p>
+<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/eas.png">
 <center></td>
 <td><p>Must be within <strong>30</strong> tiles of another tower to work. needs power</p></td>
 </tr>
 </tbody>
 </table>
 
-### Devices
+## Devices
 
 Screaming: the best form of getting help, but its better if your a
 woman.
@@ -51,7 +51,16 @@ Cameras: a simple form of relaying information through photographs,
 either for keeping memories of the past or for spying on enemy nations
 and war journalism.
 
-`1873-Sepia | 1913-grated b&w 1943- b&w | 1973- grime green color | 2003/2013- color|`
+1873 - Sepia
+
+1913 - grated b&w
+
+1943 - b&w
+
+1973 - grime green color
+
+2003/2013 - color
+
 
 Stationary phone: must be within 2 tiles from a utility pole in order to
 work. (Not working currently)

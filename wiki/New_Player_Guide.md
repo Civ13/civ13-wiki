@@ -1,3 +1,4 @@
+# New Player Guide
 ## Getting Started
 
 ### Rules

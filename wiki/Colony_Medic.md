@@ -1,3 +1,4 @@
+# Colony Medic
 ## Building A Medical Clinic
 
 One of the first things you should do as a medic is try and get a

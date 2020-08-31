@@ -1,9 +1,11 @@
+# Guide to Medical
+
 On round types that have specified doctors or surgeon jobs please only
 join these roles if you have had prior experience with Civilization 13
 medical on other rounds, as they are limited and many people will be
 relying on you to act fast.
 
-## **First-Aid**
+## First-Aid
 
 • The first thing you need to do is drag them (quickly hold CTRL then
 click, or right-click then select Pull) away from wildlife or people

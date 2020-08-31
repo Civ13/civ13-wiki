@@ -1,4 +1,4 @@
-### mining 101
+# Guide to Mining
 
 to mine simply click on a rock wall and wait till you break it, roof
 supports are essential to mining as they prevent collapses in a 3 tile

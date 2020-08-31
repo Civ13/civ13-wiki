@@ -21,3 +21,24 @@ However, don't worry! It is simpler than it seems. You do **not** need to downlo
 6) When you feel that your changes are good enough, just open a pull request to the main repository (the one you forked), and if accepted, it will be displayed on the page!
 
 7) Make sure you regularly update your repository to keep it up to date.
+
+## Features 
+
+* Improvements in the **cooperative** aspect: forks, pull-requests and roles.
+* You can **customize your wiki** as you want with style sheets and even changing the layout. (see customization section below) 
+* **No databases!** Only static files that can be downloaded in a few seconds.
+* **Blazing fast** and free thankfully to Github/Gitlab Pages and Jekyll Server Side Generation process!
+* **Markdown and html** mixed together!
+* **Multiple free search engines!** on a static site!
+* **History, revision comparison** and everything you need from a wiki platform.
+* You can **edit your pages** with the standard git editor, prose.io (integrated) or any kind of editor you prefer.
+* Non-existent wiki page links are "[red](red.md)", you can **click on them to automatically create a new page**!
+* External links get the right icon automatically.
+* **Component system with hooks** that allows you to totally customize your wiki UI. ([see customization documentation here](http://www.drassil.org/git-wiki/customize)) 
+* Some **nice internal themes** to change your entire wiki UI with 1 simple configuration. ([see customization documentation here](http://www.drassil.org/git-wiki/customize))
+* Integrated **Blogging** feature thanks to jekyll!
+* Automatic generated **TOC**
+* You can download the entire wiki for **offline** usage and even navigate directly using a markdown reader
+
+
+Instructions and full documentation: http://drassil.github.io/git-wiki
