@@ -641,7 +641,7 @@ ol {
 }  
 .float-child-1-scroll {
   height: 100%;
-  overflow-y:scroll;
+  overflow-y:auto;
 }  
 .float-child-2 {
   width: 75%;
