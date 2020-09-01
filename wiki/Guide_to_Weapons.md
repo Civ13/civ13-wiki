@@ -1,5 +1,5 @@
 # Guide to Weapons
-## 5000 B.C. Weapons
+## Weapon List
 
 <table class="sortable">
 
@@ -102,22 +102,6 @@
 <td>Yes</td>
 <td>Arrows</td>
 </tr>
-</table>
-
-
-## 313 B.C. Weapons
-
-<table class="sortable">
-
-<tr>
-<th>Weapon</th>
-<th>Image</th>
-<th>Description</th>
-<th>Available</th>
-<th>Craftable?</th>
-<th>Ammo type</th>
-</tr>
-
 <tr>
 <td>Xiphos</td>
 <td>
@@ -248,22 +232,6 @@
 <td>Yes</td>
 <td></td>
 </tr>
-
-</table>
-
-## 1013 A.D. Weapons
-
-<table class="sortable">
-
-<tr>
-<th>Weapon</th>
-<th>Image</th>
-<th>Description</th>
-<th>Available</th>
-<th>Craftable?</th>
-<th>Ammo type</th>
-</tr>
-
 <tr>
 <td>Garrote</td>
 <td>
@@ -464,22 +432,6 @@
 <td>Yes</td>
 <td>Stonebullet</td>
 </tr>
-
-</table>
-
-## 1713 A.D. Weapons
-
-<table class="sortable">
-
-<tr>
-<th>Weapon</th>
-<th>Image</th>
-<th>Description</th>
-<th>Available</th>
-<th>Craftable?</th>
-<th>Ammo type</th>
-</tr>
-
 <tr>
 <td>Police baton</td>
 <td>
@@ -590,22 +542,6 @@
 <td>Yes</td>
 <td>Musketball (pistol)</td>
 </tr>
-
-</table>
-
-## 1873 A.D. Weapons
-
-<table class="sortable">
-
-<tr>
-<th>Weapon</th>
-<th>Image</th>
-<th>Description</th>
-<th>Available</th>
-<th>Craftable?</th>
-<th>Ammo type</th>
-</tr>
-
 <tr>
 <td>Colt Peacemaker</td>
 <td>
@@ -676,22 +612,6 @@
 <td>Yes</td>
 <td>Artillery shell</td>
 </tr>
-
-</table>
-
-## 1903-2020 A.D. Weapons
-
-<table class="sortable">
-
-<tr>
-<th>Weapon</th>
-<th>Image</th>
-<th>Description</th>
-<th>Available</th>
-<th>Craftable?</th>
-<th>Ammo type</th>
-</tr>
-
 <tr>
 <td>Karabiner 98k</td>
 <td>
