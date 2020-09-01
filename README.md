@@ -20,8 +20,6 @@ it's a **modular and fully featured wiki** powered by [git-wiki-theme](https://g
 * Non-existent wiki page links are "[red](red.md)", you can **click on them to automatically create a new page**!
 * External links get the right icon automatically.
 * **Component system with hooks** that allows you to totally customize your wiki UI. ([see customization documentation here](http://www.drassil.org/git-wiki/customize)) 
-* Some **nice internal themes** to change your entire wiki UI with 1 simple configuration. ([see customization documentation here](http://www.drassil.org/git-wiki/customize))
-* Integrated **Blogging** feature thanks to jekyll!
 * Automatic generated **TOC**
 * You can download the entire wiki for **offline** usage and even navigate directly using a markdown reader
 
