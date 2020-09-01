@@ -43,7 +43,7 @@ Hunger and thirst affect your **movement speed**, **healing
 rates** and **mood**.
 
 Being slow makes you easy prey for predators, criminals, and
-cannibals. Malnourishment also makes it easier to catch **diseases**.
+cannibals. Malnourishment also makes it easier to catch **[diseases](Guide_to_Medical#diseases "wikilink")**.
 
 #### Hunger
 
