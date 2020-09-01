@@ -246,40 +246,15 @@ something else, anyway there is ocean between, desert below, Ice Age
 above, simple enough? Yet I understand why people thought the earth is
 flat.
 
-Tundra : Russian, Ukrainian.
-
-Temperate : German, Dutch.
-
-Desert : Arabian, Hebrew
-
-Jungle : Swahili, Zulu
+There are two major continents here, each with two biomes. On the North there is Taiga and Temperate, on the South there is Desert and Jungle.
 
 #### Pangea
 
-A combined map with no oceans dividing the biomes, excluding mountain
-ranges.
+A combined map with no oceans dividing the biomes, excluding mountain ranges.
 
-Tundra: Russian.
+The biomes are, from North to South:
 
-`  ^`
-
-Temperate: German.
-
-`  ^`
-
-Semi-Arid: Latin.
-
-`  ^`
-
-Desert: Arabian.
-
-`  ^`
-
-Savanah: Swahili.
-
-`  ^`
-
-Jungle: Japanese.
+Tundra, Taiga, Temperate, Semi-Arid, Desert, Savannah, and Jungle
 
 ### Animals
 
@@ -452,85 +427,132 @@ levels, check [Full Crafting List](Full_Crafting_List "wikilink").
 `* 8: `*`forks,``   ``knives,``   ``spoons.``   ``copper``   ``coins,``
  ``Copper``   ``hatchet``   ``&``   ``spear`*` `**`(requires``   ``8``
  ``in``   ``Military``   ``too)`**
+ 
 `* 14: `*`chair,``   ``wood``   ``chest,``   ``bookcase,``   ``target``
  ``dummy`*
+ 
 `* 15: `*`dice,``   ``bow`*
+
 `* 17: `*`gold``   ``and``   ``silver``   ``hatchets``   ``and``
  ``spears`*` `**`(requires``   ``16``   ``points``   ``in``
  ``Military``   ``too)`**
+ 
 `* 18: `*`coin``   ``pouch.``   ``floors,``   ``wood``   ``walls,``
  ``doors`*
+ 
 `* 19: `*`roman``   ``sandals,``   ``loom,``   ``pipe,``   ``mill,``
  ``dehydrator,``   ``barrel,``   ``pen,``   ``foldable``   ``canopy`*
+ 
 `* 21: `*`bronze``   ``hatchet,``   ``spear,``   ``shield,``   ``and``
  ``battle``   ``axe`*` `**`(requires``   ``16``   ``points``   ``in``
  ``Military``   ``too)`**` | `*`well`*
+ 
 `* 22: `*`rolling``   ``pin,``   ``mop,``   ``drinking``   ``glass,``
  ``small``   ``bottle`*
+ 
 `* 24: `*`diamond``   ``hatchet``   ``and``
  ``spear`*` `**`(requires``   ``30``   ``points``   ``in``
  ``Military``   ``too)`**
+ 
 `* 25: `*`anvil`*
+
 `* 25: `*`comfy``   ``chair`*` `**`(requires``   ``25``   ``poins``
  ``in``   ``Health``   ``too)`**
+ 
 `* 26: `*`furnace`*
+
 `* 27: `*`iron``   ``tools,``   ``spear``   ``and``
  ``shield`*` `**`(requires``   ``16``   ``points``   ``in``
  ``Military``   ``too)`**
+ 
 `* 28: `*`lanterns,``   ``doors,``   ``keys,``   ``coffins`*
+
 `* 29: `*`fortified``   ``walls`*
+
 `* 33: `*`iron``   ``brazier,``   ``iron``   ``pot,``   ``table,``
  ``oven`*
+ 
 `* 39: `*`medieval``   ``leather``   ``shoes`*
+
 `* 41: `*`coffin,``   ``wardrobe`*
+
 `* 43: `*`gravestone`*
+
 `* 45: `*`paper,``   ``violin`*
+
 `* 47: `*`crosses`*
+
 `* 49: `*`wine``   ``glass`*
+
 `* 50: `*`steel``   ``hatchet``   ``and``   ``spear`*` `**`(requires``
  ``44``   ``points``   ``in``   ``Military``   ``too)`**
+ 
 `* 52: `*`printing``   ``press`*
+
 `* 55: `*`black``   ``leather``   ``shoes,``   ``black``   ``leather``
  ``boots,``   ``leather``   ``boots`*` `**`(requires``   ``25``
  ``points``   ``in``   ``Health``   ``too)`**
+ 
 `* 85: `*`gunpowder``   ``pouch,``   ``bandolier`*
+
 `* 90: `*`bakelizer`*
+
 `* 95: `*`canner,``   ``tin``   ``cans`*
+
 `* 96: `*`Global``   ``Exchange`*
+
 `* 105: `*`oil``   ``well`*
+
 `* 141: `*`2-way``   ``radio,``   ``portable``   ``radio`*
+
 `* 178: `*`walkie-talkie``   ``radio`*
 
 #### Military
 
 `* 12: `*`bone``   ``armor`*
+
 `* 14: `*`wood``   ``shield`*
+
 `* 15: `*`leather``   ``armor`*
+
 `* 21: `*`bronze``   ``chest``   ``plate`*` `**`(requires``   ``34``
  ``points``   ``in``   ``Industrial``   ``too)`**` | `*`wood``
  ``sarissa,``   ``wood``   ``dory`*
+ 
 `* 32: `*`mechanical``   ``trap`*
+
 `* 33: `*`catapult,``   ``catapult``   ``projectiles,``   ``siege``
  ``ladder`*` `**`(requires``   ``24``   ``points``   ``in``
  ``Industrial``   ``too)`**
+ 
 `* 34: `*`copper``   ``small``   ``sword`*` `**`(requires``   ``18``
  ``points``   ``in``   ``Industrial``   ``too)`**` | `*`bronze``
  ``small``   ``sword`*` `**`(requires``   ``27``   ``points``   ``in``
  ``Industrial``   ``too)`**
+ 
 `* 39: `*`pike,``   ``halberd`*` `**`(requires``   ``33``   ``points``
  ``in``   ``Industrial``   ``too)`**
+ 
 `* 42: `*`copper``   ``spadroon`*` `**`(requires``   ``18``
  ``points``   ``in``   ``Industrial``   ``too)`**` | `*`bronze``
  ``spadroon`*` `**`(requires``   ``27``   ``points``   ``in``
  ``Industrial``   ``too)`**
+ 
 `* 46: `*`telescope`*
+
 `* 49: `*`Fire``   ``Lance,``   ``Stone``   ``Bullets`*
+
 `* 56: `*`Hand``   ``Cannon`*
+
 `* 62: `*`Arquebus`*
+
 `* 70: `*`Matchlock``   ``Musket`*
+
 `* 80: `*`iron``   ``bullets,``   ``cannon``   ``balls`*
+
 `* 79: `*`cannon`*` `**`(requires``   ``71``   ``points``   ``in``
  ``Industrial``   ``too)`**
+ 
 `* 94: `*`cannon`*` `**`(requires``   ``81``   ``points``   ``in``
  ``Industrial``   ``too)`**
 
