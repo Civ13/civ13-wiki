@@ -22,6 +22,10 @@ However, don't worry! It is simpler than it seems. You do **not** need to downlo
 
 7) Make sure you regularly update your repository to keep it up to date.
 
+## Images
+
+While you can link external images using either markdown or html tags, we recommend that you upload them to *assets/images/* and link them from there. Make sure they have a unique name as to not replace current images!
+
 ## Features 
 
 * Improvements in the **cooperative** aspect: forks, pull-requests and roles.
