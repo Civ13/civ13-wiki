@@ -152,6 +152,73 @@ the area.
 
 Without proper care, individuals may end up ill or even worse.
 
+### Diseases
+
+There are currently 5 diseases. Try not to catch them, they will make
+your day a whole lot more miserable. Especially in early game, when
+advanced medicine doesn't exist.
+
+#### Plague
+
+The rarest and the most lethal disease. If you have it, you will
+probably die.
+
+  - Caught from eating raw mice. Or standing too long near one.
+  - Transmits from person to person.
+  - It can be spotted by the lumps on your skin and vomiting blood.
+
+#### Malaria
+
+A deadly disease caused by parasites.
+
+  - Transmitted by mosquitoes.
+  - Does not transmit from person to person.
+  - Will give you very high fevers with shivering and convulsions.
+  - Untreated, it will give you brain damage from the fever, and
+    possibly kill you.
+  - Normally survivable without treatment, but won't give you immunity.
+  - Damage can be greatly reduced by taking quinine (harvested from the
+    Chinchona plant).
+
+#### Cholera
+
+A disease caused by water-borne bacteria.
+
+  - Caught by drinking straight from puddles or water tiles without
+    boiling it first.
+  - Cannot be transmitted in any way.
+  - Will cause you to convulse and vomit. This will dehydrate you fast\!
+  - Vomiting will also cause you to lower the hunger level.
+  - Dehydration will kill you without treatment.
+  - Treatment is drinking plenty of water until the disease is gone. Any
+    type of freshwater will do.
+  - **TIP**: You can remove the risk of catching cholera by building a
+    well on a puddle. Well water is pure.
+
+#### Flu
+
+Just a normal flu.
+
+  - Caught randomly.
+  - Easily transmitted from person to person. A single person can
+    contaminate an entire village\!
+  - Will very probably not kill you, but can be an annoyance, causing
+    blurred vision, blackouts, and fever.
+  - Untreated flu might give you brain damage from high fever.
+  - Manageable by eating and drinking until full, and resting (buckling
+    to a bed).
+  - Brain damage can be prevented by drinking plenty of tea until the
+    fever subsides.
+
+#### Typhus
+
+You've been covered with lice for days and now you feel sick.
+
+  - throw up randomly
+  - slightly transmittable fro person to person.
+  - Untreated typhus will lead to your death
+  - Treatment is through penicillin and tea.
+
 ### Combating Illness
 
 If you are a medical professional or just a beginner you may wish to
