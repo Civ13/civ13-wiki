@@ -335,85 +335,85 @@ craftables (over 700\!) with all the costs and necessary research
 levels, check [Full Crafting List](Full_Crafting_List "wikilink").
 
 #### Industrial
-- 8: *forks, knives, spoons. copper coins, Copper hatchet & spear* **(requires 8 in Military too)** 
-- 14: *chair, wood chest, bookcase, target dummy* 
-- 15: *dice, bow*
-- 17: *gold and silver hatchets and spears* **(requires 16 points in Military too)** 
-- 18: *coin pouch. floors, wood walls, doors* 
-- 19: *roman sandals, loom, pipe, mill, dehydrator, barrel, pen, foldable canopy* 
-- 21: *bronze hatchet, spear, shield, and battle axe* **(requires 16 points in Military too)** | *well* 
-- 22: *rolling pin, mop, drinking glass, small bottle* 
-- 24: *diamond hatchet and spear* **(requires 30 points in Military too)** 
-- 25: *anvil*
-- 25: *comfy chair* **(requires 25 poins in Health too)** 
-- 26: *furnace*
-- 27: *iron tools, spear and shield* **(requires 16 points in Military too)** 
-- 28: *lanterns, doors, keys, coffins*
-- 29: *fortified walls*
-- 33: *iron brazier, iron pot, table, oven* 
-- 39: *medieval leather shoes*
-- 41: *coffin, wardrobe*
-- 43: *gravestone*
-- 45: *paper, violin*
-- 47: *crosses*
-- 49: *wine glass*
-- 50: *steel hatchet and spear* **(requires 44 points in Military too)** 
-- 52: *printing press*
-- 55: *black leather shoes, black leather boots, leather boots* **(requires 25 points in Health too)** 
-- 85: *gunpowder pouch, bandolier*
-- 90: *bakelizer*
-- 95: *canner, tin cans*
-- 96: *Global Exchange*
-- 105: *oil well*
-- 141: *2-way radio, portable radio*
-- 178: *walkie-talkie radio*
+- 8: forks, knives, spoons. copper coins, Copper hatchet & spear **(requires 8 in Military too)**
+- 14: chair, wood chest, bookcase, target dummy
+- 15: dice, bow
+- 17: gold and silver hatchets and spears **(requires 16 points in Military too)**
+- 18: coin pouch. floors, wood walls, doors
+- 19: roman sandals, loom, pipe, mill, dehydrator, barrel, pen, foldable canopy
+- 21: bronze hatchet, spear, shield, and battle axe **(requires 16 points in Military too)** | well
+- 22: rolling pin, mop, drinking glass, small bottle
+- 24: diamond hatchet and spear **(requires 30 points in Military too)**
+- 25: anvil
+- 25: comfy chair **(requires 25 poins in Health too)**
+- 26: furnace
+- 27: iron tools, spear and shield **(requires 16 points in Military too)**
+- 28: lanterns, doors, keys, coffins
+- 29: fortified walls
+- 33: iron brazier, iron pot, table, oven
+- 39: medieval leather shoes
+- 41: coffin, wardrobe
+- 43: gravestone
+- 45: paper, violin
+- 47: crosses
+- 49: wine glass
+- 50: steel hatchet and spear **(requires 44 points in Military too)**
+- 52: printing press
+- 55: black leather shoes, black leather boots, leather boots **(requires 25 points in Health too)**
+- 85: gunpowder pouch, bandolier
+- 90: bakelizer
+- 95: canner, tin cans
+- 96: Global Exchange
+- 105: oil well
+- 141: 2-way radio, portable radio
+- 178: walkie-talkie radio
 
 #### Military
-- 12: *bone armor*
-- 14: *wood shield*
-- 15: *leather armor*
-- 21: *bronze chest plate* **(requires 34 points in Industrial too)** | *wood sarissa, wood dory* 
-- 32: *mechanical trap*
-- 33: *catapult, catapult projectiles, siege ladder* **(requires 24 points in Industrial too)** 
-- 34: *copper small sword* **(requires 18 points in Industrial too)** | *bronze small sword* **(requires 27 points in Industrial too)** 
-- 39: *pike, halberd* **(requires 33 points in Industrial too)** 
-- 42: *copper spadroon* **(requires 18 points in Industrial too)** | *bronze spadroon* **(requires 27 points in Industrial too)** 
-- 46: *telescope*
-- 49: *Fire Lance, Stone Bullets*
-- 56: *Hand Cannon*
-- 62: *Arquebus*
-- 70: *Matchlock Musket*
-- 80: *iron bullets, cannon balls*
-- 79: *cannon* **(requires 71 points in Industrial too)** 
+- 12: bone armor
+- 14: wood shield
+- 15: leather armor
+- 21: bronze chest plate **(requires 34 points in Industrial too)** | wood sarissa, wood dory
+- 32: mechanical trap
+- 33: catapult, catapult projectiles, siege ladder *(requires 24 points in Industrial too)
+- 34: copper small sword **(requires 18 points in Industrial too)** | bronze small sword **(requires 27 points in Industrial too)**
+- 39: pike, halberd **(requires 33 points in Industrial too)**
+- 42: copper spadroon **(requires 18 points in Industrial too)** | bronze spadroon **(requires 27 points in Industrial too)**
+- 46: telescope
+- 49: Fire Lance, Stone Bullets
+- 56: Hand Cannon
+- 62: Arquebus
+- 70: Matchlock Musket
+- 80: iron bullets, cannon balls
+- 79: cannon **(requires 71 points in Industrial too)** 
 
 #### Health
-- 15: *ancient clothing*
-- 18: *wood peglegs, wood feet*
-- 19: *bandages*
-- 23: *cigars & cigarettes*
-- 24: *teapot, teacup* **(requires 49 points in Industrial too)**
-- 25: *ancient hats*
-- 26: *bronze surgery tools* **(requires 18 points in Industrial too)**
-- 28: *bedsheets*
-- 29: *opium*
-- 38: *medieval clothing*
-- 43: *burn kit*
-- 44: *splints* **(requires 35 points in Industrial too)**
-- 48: *doctor handbook* **(requires 33 poins in Industrial too)**
-- 51: *operating table* **(requires 25 points in Industrial too)**
-- 52: *1713's hats*
-- 55: *retractor, bone saw, scalpel, bone setter.* **(requires 35 points in Industrial too)**
-- 56: *trauma kit*
-- 57: *Jackets and vests*
-- 59: *Renaissance clothing*
-- 67: *cautery, hemostat* **(requires 35 points in Industrial too)**
-- 79: *Colonial clothing, Colonial coats*
-- 89: *Industrial Jackets & Vests*
-- 98: *Industrial Hats & Clothes*
-- 109: *Modern Hats*
-- 112: *Modern Jackets, Vests & Outfits*
-- 130: *custom camo uniform*
-- 145: *NBC suits and hoods*
+- 15: ancient clothing
+- 18: wood peglegs, wood feet
+- 19: bandages
+- 23: cigars & cigarettes
+- 24: teapot, teacup **(requires 49 points in Industrial too)**
+- 25: ancient hats
+- 26: bronze surgery tools **(requires 18 points in Industrial too)**
+- 28: bedsheets
+- 29: opium
+- 38: medieval clothing
+- 43: burn kit
+- 44: splints **(requires 35 points in Industrial too)**
+- 48: doctor handbook **(requires 33 poins in Industrial too)**
+- 51: operating table **(requires 25 points in Industrial too)**
+- 52: 1713's hats
+- 55: retractor, bone saw, scalpel, bone setter. **(requires 35 points in Industrial too)**
+- 56: trauma kit
+- 57: Jackets and vests
+- 59: Renaissance clothing
+- 67: cautery, hemostat **(requires 35 points in Industrial too)**
+- 79: Colonial clothing, Colonial coats
+- 89: Industrial Jackets & Vests
+- 98: Industrial Hats & Clothes
+- 109: Modern Hats
+- 112: Modern Jackets, Vests & Outfits
+- 130: custom camo uniform
+- 145: NBC suits and hoods
 
 #### Blacksmithing
 - From 313 B.C.: Iron Xiphos, Iron Gladius. Ancient armors and helmets
@@ -482,7 +482,7 @@ You can get water from **puddles**, any **water tiles**, or **wells**.
 - Hold it in the **off-hand**.
 - Activate some **bone** in your **active-hand**.
 - Make a **pickaxe**.
-- Find a **rock** and use the **pickaxe** on it. **WARNING: BUILD MINING SUPPORTS WITH WOOD EVERY 2 TILES OR YOU WILL HAVE A CAVE-IN**
+- Find a **rock** and use the **pickaxe** on it. **WARNING: BUILD MINING SUPPORTS WITH WOOD EVERY 2 TILES OR YOU WILL HAVE A CAVE-IN*
 - Grab the **copper or tin ores** and **smelt them** into **ingots** in a **campfire**.
 - Use the **ingots** in-hand to craft a **pot**.
 - Fill the **pot** with **water**, place it on **campfire** or **oven**, turn it on, and wait for it to finish boiling.

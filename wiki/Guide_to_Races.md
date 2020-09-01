@@ -4,40 +4,21 @@ Here is a guide to the few human races and species we have in the game
 currently, you might like to read them to understand them. All of these
 species must follow the rules there are no exceptions.
 
-<table class="wikitable sortable jquery-tablesorter" style="width:80%:background-color:lightgrey;" border="1" cellspacing="4" cellpadding="3">
+<table class="table" style="width:80%;"cellspacing="4" cellpadding="3">
 
 <tr>
-
-<th width="200" tabindex="0" title="Sort ascending" class="headerSort" role="columnheader button" style="color:black;background-color:darkorange;" scope="col">
-
-Species
-
-</th>
-
-<th class="unsortable" style="color:black;background-color:darkorange;" scope="col">
-
-Description
-
-</th>
-
-<th width="100" tabindex="0" title="Sort ascending" class="headerSort" role="columnheader button" style="color:black;background-color:darkorange;" scope="col">
-
-Playable
-
-</th>
-
+<th width="200" tabindex="0" title="Sort ascending" class="headerSort" role="columnheader button" style="color:black;background-color:darkorange;" scope="col">Species</th>
+<th style="color:black;background-color:darkorange;" scope="col">Description</th>
 </tr>
 
 <tr>
-
-<th style="background-color:white">
-
+<th>
 <img width="64" height="64" alt="Human.png" src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/8BdL6ZF.png">
 Humans
 
 </th>
 
-<td style="background-color:white">
+<td>
 
 Mainly just evolved apes that have much more freedom than the other
 species. Generally warlike yet are prone to bask themselves in culture.
@@ -45,24 +26,18 @@ They greatly vary in physique and behaviour.
 
 </td>
 
-<th style="background-color:#4CFF4C">
-
-<span style="display: none;"></span>Yes
-
-</th>
-
 </tr>
 
 <tr>
 
-<th style="background-color:white">
+<th>
 
 <img width="64" height="64" alt="Wolfman.png" src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/HEVFxnj.png">
 Wolfmen
 
 </th>
 
-<td style="background-color:white">
+<td>
 
 A cross between a man and a wolf, their fur protects them from the cold
 and they can howl to communicate up to 15 turfs away. (Raw meat can be
@@ -70,48 +45,36 @@ consumed but they'll get sick from rotten meat).
 
 </td>
 
-<th style="background-color:#FF2626">
-
-<span style="display: none;"></span>No
-
-</th>
-
 </tr>
 
 <tr>
 
-<th style="background-color:white">
+<th>
 
 <img width="64" height="64" alt="Lizard.png" src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/R6WC9KX.png">
 Lizardfolk
 
 </th>
 
-<td style="background-color:white">
+<td>
 
 A stone age race of large reptiles, Alligators will not attack them and
 They're highly resistant to heat and have a strong bite.
 
 </td>
 
-<th style="background-color:#FF2626">
-
-<span style="display: none;"></span>No
-
-</th>
-
 </tr>
 
 <tr>
 
-<th style="background-color:white">
+<th>
 
 <img width="64" height="64" alt="Orc.png" src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/2iW6cry.png">
 Orcs
 
 </th>
 
-<td style="background-color:white">
+<td>
 
 Greenskined Humanoids the majority are very backward in their cultural
 understandings and it is usually rare to find them not following their
@@ -122,24 +85,18 @@ radiation. WAAAGH\!
 
 </td>
 
-<th style="background-color:#FF2626">
-
-<span style="display: none;"></span>No
-
-</th>
-
 </tr>
 
 <tr>
 
-<th style="background-color:white">
+<th>
 
 <img width="64" height="64" alt="Antman.png" src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/mEK2RaU.png">
 Antmen
 
 </th>
 
-<td style="background-color:white">
+<td>
 
 Giant Humanoid Ants that are said to be descendants of the Titanomyrma,
 they have been said to originate from below the soil after a natural
@@ -149,58 +106,40 @@ limited construction.
 
 </td>
 
-<th style="background-color:#FF2626">
-
-<span style="display: none;"></span>No
-
-</th>
-
 </tr>
 
 <tr>
 
-<th style="background-color:white">
+<th>
 
 <img width="64" height="64" alt="Crabs.png" src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/6TY3QJD.png">
 Crabs
 
 </th>
 
-<td style="background-color:white">
+<td>
 
 Crustaceans, an advanced race that can drink saltwater, they have a
 strong shell and sharp claws perfect for unarmed combat.
 
 </td>
 
-<th style="background-color:#FF2626">
-
-<span style="display: none;"></span>No
-
-</th>
-
 </tr>
 
 <tr>
 
-<th style="background-color:white">
+<th>
 
 <img width="64" height="64" alt="Skeleton.png" src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/ztvOGK4.png">
 Skeletons
 
 </th>
 
-<td style="background-color:white">
+<td>
 
 "Spooky scary skeletons."
 
 </td>
-
-<th style="background-color:#FF2626">
-
-<span style="display: none;"></span>No
-
-</th>
 
 </tr>
 
