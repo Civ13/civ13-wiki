@@ -4,11 +4,11 @@ Here is a guide to the few human races and species we have in the game
 currently, you might like to read them to understand them. All of these
 species must follow the rules there are no exceptions.
 
-<table class="table" style="width:80%;"cellspacing="4" cellpadding="3">
+<table class="table">
 
 <tr>
-<th width="200" tabindex="0" style="color:black;background-color:darkorange;" scope="col">Species</th>
-<th style="color:black;background-color:darkorange;" scope="col">Description</th>
+<th width="200" tabindex="0" style="color:black;background-color:#cc7000;" scope="col">Species</th>
+<th style="color:black;background-color:#cc7000;" scope="col">Description</th>
 </tr>
 
 <tr>
