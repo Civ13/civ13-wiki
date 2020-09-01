@@ -167,15 +167,11 @@ h1 {
   font-size: 28px;
 }
 
-h2 {
-  color: #7c7c7c;
-}
-
 h3,
 h4,
 h5,
 h6 {
-  color: #6b6b6b;
+  color: #888888;
 }
 
 a {
@@ -217,7 +213,7 @@ blockquote {
 code,
 pre {
   font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  color: #333;
+  color: #FFFFFF;
   font-size: 12px;
 }
 
