@@ -474,42 +474,25 @@ milk, though other liquids like **tea** can also be used.
 You can get water from **puddles**, any **water tiles**, or **wells**.
 
 - To drink, you need to make a **mug** from **wood** or **drinking glass** from **glass**.
-
 - **Wells** have disease-free freshwater. You can build them over a **puddle** by using with **stone**....**if** your faction has the research levels required....
- 
 - "Raw" water needs to be **boiled** to be 100% safe. Otherwise, you have a **chance** of catching **cholera**. Though if you're dying, raw water will be a risk you'll have to take.
-
 - To boil water, make a pot from **tin** or **copper** ingots.
-
 - **Intermission: MINING BASICS** : You'll need **wood** and **bone** for this. Go gather them.
- 
 - Make a **tool handle** from **wood**.
-
 - Hold it in the **off-hand**.
-
 - Activate some **bone** in your **active-hand**.
- 
 - Make a **pickaxe**.
- 
 - Find a **rock** and use the **pickaxe** on it. **WARNING: BUILD MINING SUPPORTS WITH WOOD EVERY 2 TILES OR YOU WILL HAVE A CAVE-IN**
- 
 - Grab the **copper or tin ores** and **smelt them** into **ingots** in a **campfire**.
- 
 - Use the **ingots** in-hand to craft a **pot**.
- 
 - Fill the **pot** with **water**, place it on **campfire** or **oven**, turn it on, and wait for it to finish boiling.
- 
 - Water is then safe to drink. Pour it in your **mug** or **glass** and drink.
 
 ##### Milk
 - Find a **cow**, **sheep ewe**, or **goat ewe**.
- 
 - Make a **bucket** from **wood**.
- 
 - Use the **bucket** on **help intent** on the animal of choice to gather milk.
- 
 - Pour the milk into the **mug** or **glass** and drink.
- 
 - You don't have to boil milk.
 
 Milk is regenerated in the animals over time, so keep them alive, and you'll never go thirsty.
@@ -538,10 +521,8 @@ Any roofed area is considered a shelter.
 - **Caves**: There's a reason that stone-age men were called cavemen. Look for entrances in rocks. If it has a roof, it will be darker inside. That means it will keep snow, cold, and rain out. The easiest way of surviving inclement weather. <sub>Make sure that no bears live in the cave, though...</sub>
 
 - **Tunnels / "Mines"**: You can dig into the underground for shelter\! All you need is to use a **shovel** in your active hand. To craft one, you'll need to make a **tool handle** from **wood planks**, and have **bone** available. With the **tool handle** in the off-hand, activate **bone** in the active hand.
- 
 - **Building a Roof**: Target your inner Bob the Builder and build your own roof. You'll need **wood planks**.
  - Build **walls** or **roof supports** to prop the ceiling up.
-  
  - Build a **roof builder**, hold it, and activate it in hand while facing the tile above which you want to build.
  - You can also build walls with **dirt** or **snow** by using the **shovel** directly on the ground. Just use the **dirt** or **snow** piles in your **active hand**, then add additional material directly to the wall.
 
@@ -551,12 +532,13 @@ You'll need a light source to see in the night and in dark indoor areas.
 
 The basic source of light is the **torch**.
 - Gather some **wood**.
-- Craft a **torch** in the **Kitchen & Other** submenu- An alternative to the torch is a tiki torch it burns for longer and provides larger source of light
+- Craft a **torch** in the **Kitchen & Other** submenu
+- An alternative to the torch is a tiki torch it burns for longer and provides larger source of light.
 
 Torches will last for **5 minutes** and then burn out.
+
 - you can also make '''lanterns '''with iron in the tool category lanterns require fuel any form of liquid fuel will do.
 
-For a more **permanent** light source, you can build **braziers** from
-**stone**. You can fuel it with any organic matter like wood or
-clothing, simply use items on the brazier on **help intent**.
+For a more **permanent** light source, you can build **braziers** from **stone**. You can fuel it with any organic matter like wood or clothing, simply use items on the brazier on **help intent**.
+
 - In later epochs you will be able to craft lights from glass and power them up get glass and go the the electricity category face the direction you would like the light to face and build it to power lights click on the light frame with a cable coil and connect it to a power generator.
