@@ -265,7 +265,7 @@ img {
   padding: 0;
   padding-top:0;
   padding-bottom:10px;
-  height: 90px;
+  height: 60px;
   width: 100%;
   border-radius: 10px;
   border-bottom: 1px solid white;
@@ -632,7 +632,7 @@ ol {
 .float-child-1 {
     width: 20%;
     bottom: 60px;
-    top: 90px;
+    top: 60px;
     float: left;
     padding: 0px;
     border-right: 1px solid white;
@@ -662,4 +662,11 @@ ol {
   font-size: 10px;
   background-color:#222;
   text-align: center;
+}
+
+.git-wiki-tools {
+  background-color:#222;
+  font-size:1rem;
+  float: right;
+  margin-top: 10px;
 }
