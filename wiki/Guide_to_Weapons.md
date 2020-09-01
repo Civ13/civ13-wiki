@@ -972,3 +972,4 @@ A shell designed to irradiate a large area for long periods of time.
 </td>
 
 </tr>
+</table>
