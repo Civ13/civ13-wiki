@@ -1,36 +1,48 @@
-# Civilization and Nomads
+# Civilizations and Nomads
 
 ***"I'm cold and starving, [WHAT DO I
-DO?](Civilizations_and_Nomads#surviving "wikilink")"***
+DO?](Starter_Guide "wikilink")"***
 
 *- A confused player*
 
-## What is Civilizations Mode?
+## What is Civilizations and Nomads mode?
 
-Civilizations mode is a roleplay-focused mode in which players are
-divided in up to 6 pre-determined factions, depending on the
-player-count.
+In Nomads, everyone spawns without any predetermined roles or **[Factions](Civilizations_and_Nomads#factions "wikilink")**. The **[map](Civilizations_and_Nomads#nomads-maps "wikilink")** is a complete wilderness, ready to be explored and settled. There are no prebuilt structures, except for occasional ancient ruins.
+
+You can stay factionless (a nomad), create your own faction or join an existing one. Only members of a faction can research new technologies and accumulate research points.
+
+A map may have one or more ethnicities, each speaking its own language initially incomprehensible to a speaker of a different language. On certain maps you can choose who you spawn as, while on other maps it is random.
 
 There is no predetermined goal.
 
-What will each civilization desire? Military power? World domination?
-Scholars with advanced technology? Mass resource output and production?
-Commerce and trade? Raiding? It's up to you or your leaders to decide!
+What will each civilization desire? Military power? World domination? Scholars with advanced technology? Mass resource output and production? Commerce and trade? Raiding? It’s up to you or your leaders to decide!
 
-## What is Nomads Mode?
+## What is RP Map mode?
 
-Nomads mode is a subtype of the **Civilization 13** mode.
+In the RP mode, everyone chooses a role to play as before spawning. There may be one or more preset factions. The map has some prebuilt structures, but there is also plenty of space to expand with new buildings.
 
-In Nomads Mode, everyone spawns without any pre-determined **factions**,
-with only a knife and basic clothing.
+In this mode, the research level is fixed and cannot be advanced. In other words, the epoch is static (Middle Ages - 1013; Wild West - 1873; certain decades of the 20th century - 1940s, 1990s, etc.)
 
-You can stay factionless (a nomad), create your own or be invited to
-one.
+There may or may not be specific goals, which are listed at the start of the round. A brief outline for goals on different maps where they are present (mostly accumulating points for factions under certain conditions):
 
-However, **research points** can only be collected if you have a
-**faction**.
+- Gulag (1946) - the prisoners - hold as much money as possible within your faction and escape; the camp guard - force the prisoners to work and send out the resources.
+- **[The Art of the Deal](The_Art_of_the_Deal "wikilink")** (1994) - the company members - arrange deals to acquire disks and money; the police - jail company members and confiscate disks and money.
 
-### Becoming Civilized
+Maps without a set goal:
+
+* Bohemia (1013) - live in a city in Medieval Europe.
+
+* **[Colony](Colony "wikilink")** (1713) - build a New World colony (two maps with different climates).
+* Little Creek (1873) - live in a Wild West town.
+* Pioneers (1873) - develop a town in the prairies.
+
+## What else is there?
+
+There are also other modes and maps which are, effectively, a mix of the previous two modes, with a number of extra features. Currently it includes:
+
+- **[Tribes](Tribes "wikilink")** - a fantasy mode with several different races (chosen randomly upon spawning), each forming a preset faction.
+
+## Becoming Civilized
 
 Perhaps you have noticed that your ability to craft things is a bit
 limited in comparison to other people, and you would like to make more.
@@ -39,12 +51,22 @@ company and roleplay opportunity that comes with engaging with other
 players. If those apply to you, then you should consider joining or
 starting a faction.
 
-The benefits of joining or assembling a faction...
-- You gain access to that factions research levels, which equates to [more things you can craft.](Civilizations_and_Nomads#The_Research_Milestones "wikilink")- More opportunity to roleplay in a manner you want to. From becoming a towns blacksmith, simple farmer, village idiot, to village chieftain, diplomat, emperor, or anything you want to try and make happen.
-- Depending on the faction, you might have access to shared resources and facilities.
-- Safety in numbers. Raiders will think twice before attacking a city, whereas a loner is an easy target for burglars, thieves, pillagers, and robbers.
+The benefits of joining or assembling a faction:
 
-## Factions
+  - You gain access to that factions research levels, which equates to
+    [more things you can
+    craft.](Civilizations_and_Nomads#the-research-milestones "wikilink")
+  - More opportunity to roleplay in a manner you want to. From becoming
+    a towns blacksmith, simple farmer, village idiot, to village
+    chieftain, diplomat, emperor, or anything you want to try and make
+    happen.
+  - Depending on the faction, you might have access to shared resources
+    and facilities.
+  - Safety in numbers. Raiders will think twice before attacking a city,
+    whereas a loner is an easy target for burglars, thieves, pillagers,
+    and robbers.
+
+### Factions
 
 Factions are basically "teams". Everyone in the same faction shares the
 same research points, and everyone in the faction contributes to
@@ -56,209 +78,42 @@ technology and resources and not contribute a thing...
 A small tight-knit group of workers that contribute is often better off
 than a large group of slackers that just consume.
 
-Pick your members wisely! Or cunningly use them to your advantage....
+Pick your members wisely\! Or cunningly use them to your advantage...
 
 Work smart, not hard!
 
-### As a Leader
+#### General
 
-#### Creation
-- Open the **faction tab** and click **create a faction**.
-- Creating a faction makes you the default **leader**.
+* To **Create** a faction, open the **Faction tab** and click **Create a faction**. Choose a name for it, as well as symbols and colours for you faction's banner.
+* To join a faction, you must be **Recruited** by a faction member who has **recruitment permissions**.
+* You can leave a faction by clicking **Abandon** on the **Faction tab**. Take note, that **you will not be able to rejoin the same faction for 24 hours!**
 
-#### Management
-- You can invite people to your faction by getting close to them, **right-clicking** them, and selecting **recruit** from the menu.
-- You can leave a faction by clicking **abandon**- You **cannot** force someone to leave your faction; They have to select **abandon** themselves. How to get them to do that, is up to you...
-- You can make someone else the Leader by clicking **transfer leadership** while near your successor.
+* Creating a faction makes you the default **Leader**.
 
-### As a Member
-- You cannot ask to join a faction, you can only be **recruited**.
-- Only the **leader** can recruit.
-- If the leader dies, anyone in the **faction** can **recruit**- Anyone in the **faction** can become a new **leader** if the current one is dead, by clicking **become leader**
+#### As a Leader
 
-## Surviving
+  - You can invite people to your faction by getting close to them, **right-clicking** them, and selecting **Recruit** from the menu.
+  - You **cannot** force someone to leave your faction; They have to **abandon** it themselves. How to get them to do that, is up to
+    you...
+  - You can make someone else a Leader by clicking **Transfer Leadership** on the **Faction tab** while near to your successor.
+  - You can make **Announcements** that are received by every member of your faction. Open the **Officer tab** and select **Faction Announcement**.
+  - You can delegate your power to other faction members by giving them certain **officer permissions**. **Right-click** a person and select **Faction Perms**. These are the permissions you can give or revoke, if the person already has them:
+      - **Permission Management** - allows giving permissions per se.
+      - **Announcements** 
+      - **Giving Titles**
+      - **Recruitment**
 
-### Nourishment
+#### As a Member
 
-You will need to keep yourself in check, nourished and warm, to survive.
-Also all hail potatos, you can make them into juice and make em into
-fries.
-
-Click your Thirst and Hunger icon on the right side (stomach icon) to
-know how you're doing.
-
-Nourishment affects:
-- Movement speed- Healing speed
-
-#### Food
-
-Thankfully, there are many ways to fill your stomach. Even an *unga
-dunga* can do it!
-- [Guide to Hunting](Guide_to_Hunting "wikilink")- [Guide to Ranching](Guide_to_Ranching "wikilink")- [Guide to Farming](Guide_to_Farming "wikilink")- [Guide to Cooking](Guide_to_Cooking "wikilink")
-
-#### Drink
-
-Feeling thirsty? Sip some water, milk, beer, tea, or anything liquid,
-really.
-
-Just remember that only water from **wells** are clean; All other water
-needs to be boiled in **[copper or tin
-pots](Guide_to_Mining "wikilink")**, or you risk getting [a nasty
-surprise](Civilizations#Cholera "wikilink")
-
-### Temperature
-
-Winter seasons can bring an icy chill that can seriously hurt and slow
-you down, or even kill you.
-
-Keep an eye out on your temperature icon. If it's flashing blue with a
-white snowflake, you're freezing up!
-- Make yourself a [nice cozy fur coat](Guide_to_Crafting "wikilink") to stay warm.
-- Fur coats won't be enough to keep you warm in blizzards! [Find caves](Guide_to_Mining "wikilink") or [build your own sheltered area](Guide_to_Carpentry "wikilink") to stay alive!
-
-### Environments and Maps
-
-The environment lives and breathes, and will be the single biggest
-factor that influences your life!
-
-Each map has different seasons, from the standard 4, to only 2, each
-with their own peculiarities.
-
-There is only one map for **Civilizations** mode. It will always be on
-the **Temperate** map.
-
-There are four different maps for the **Nomads** game mode, set in four
-different biomes, detailed below.
-
-#### Temperate
-
-This is the classic map, using the same map as the Civilizations map.
-- The map climate is temperate, with plenty of forests, rivers, overland mines, and farming space.
-- The northern part of the map contains most of the plains, while the southern part has most of the swamps and some beaches.
-- You may encounter mice, rabbits, bears, turkeys, cows, goats, snakes, deer, fish, frogs, leeches, horses, and alligators.
-- The round always starts in Spring.
-
-It has four Seasons, and they will rotate every 30 minutes.
-- Spring: Amene temperatures, a little leftover snow from the winter. Sparse rains cause mud slowdowns. Snow starts melting.
-- Summer: Hot temperatures, no rain. Chance of heat-waves that evaporate all puddles. All snow melts. Wild animals respawn at a faster rate.
-- Fall: Cooler temperatures, sparse rain and occasional snowfall will slow you down.
-- Winter: Icy temperatures can kill you without a fur coat, some lakes and rivers freeze over, allowing you to walk on them. Constant snowfall slows you down, **crops will not grow and animals won't respawn**. Chance of blizzards that cause a whiteout, and can kill you even with fur coats. Have a shelter ready!
-
-#### Desert
-- In this map, the whole area is a desert with some sparse water sources and farming plots.
-- Water management is important here, as is control of the rare farmable areas around rivers and swamps.
-- The round always starts in the Wet Season.
-
-There are two seasons:
-- Dry Season: All the water sources dry up, has a chance of sandstorms, which impair vision, but cause no other ill-effects. Heat is intense and can harm you if you stay in the sun too long.
-- Wet Season: All water sources fill up, sandstorms die down. Wild animals respawn.
-- You may encounter mice, bears, goats, snakes, frogs, leeches, horses, camels, and alligators.
-
-#### Ice Age
-- In this map, the whole area is covered in snow all year round. Resources (including wood, animals and minerals) are rare here, and snow can be used as a building material (as it wont melt during the Summer like in Temperate).
-- Permafrost prevents you from digging underground.
-- You may encounter wolves, deer, bears, penguins, goats, mammoths, and dogs.
-
-There are two seasons:
-- Summer: Amene temperatures, some land melts, crops can grow. No chance of snowfall or blizzard. Wild animals respawn. Lasts a third of the time that Winter lasts.
-- Winter: Icy temperatures requiring coat, high chance of snowfall, chance of deadly blizzard. Crops stop growing, snow covers all land. Have a shelter ready or you probably won't survive until summer.
-
-#### Jungle
-
-A dense tropical rainforest. It has two seasons, wet (where it rains all
-the time and rivers flood) and dry (where fertile floodplains are
-uncovered). You can only farm on the floodplains and during the dry
-season. Wildlife is deadly here! Stay away from panthers, mosquitoes
-(as they carry malaria) and ants (will eat your food). Crossing rivers
-without a bridge is considered unsafe- piranhas are abundant.
-
-#### Divided
-
-Jungle biome on West side, Desert biome on East side, separated by
-mineable mountains and a small patch of clear land filled with
-alligators.
-
-#### Continental
-
-Yet again, they done it, maybe because the god didn't get creative, or
-something else, anyway there is ocean between, desert below, Ice Age
-above, simple enough? Yet I understand why people thought the earth is
-flat.
-
-There are two major continents here, each with two biomes. On the North there is Taiga and Temperate, on the South there is Desert and Jungle.
-
-#### Pangea
-
-A combined map with no oceans dividing the biomes, excluding mountain ranges.
-
-The biomes are, from North to South:
-
-Tundra, Taiga, Temperate, Semi-Arid, Desert, Savannah, and Jungle
-
-### Animals
-
-The world is teeming with wildlife. Most of them are pretty tame and
-easy prey, but steer clear of the big game unless you're a skilled
-hunter, otherwise you'll become minced meat yourself!
-
-You want to avoid these, unless you're robust or need some pelts:
-- Bears (*can provide fur*)- Wolves (*can provide fur*)- Mammoths- Panthers & Jaguars- Snakes- Piranhas- Mosquitoes- Alligators
-
-### Diseases
-
-There are currently 5 diseases. Try not to catch them, they will make
-your day a whole lot more miserable. Especially in early game, when
-advanced medicine doesn't exist.
-
-#### Plague
-
-The rarest and the most lethal disease. If you have it, you will
-probably die.
-- Caught from eating raw mice. Or standing too long near one.
-- Transmits from person to person.
-- It can be spotted by the lumps on your skin and vomiting blood.
-
-#### Malaria
-
-A deadly disease caused by parasites.
-- Transmitted by mosquitoes.
-- Does not transmit from person to person.
-- Will give you very high fevers with shivering and convulsions.
-- Untreated, it will give you brain damage from the fever, and possibly kill you.
-- Normally survivable without treatment, but won't give you immunity.
-- Damage can be greatly reduced by taking quinine (harvested from the Chinchona plant).
-
-#### Cholera
-
-A disease caused by water-borne bacteria.
-- Caught by drinking straight from puddles or water tiles without boiling it first.
-- Cannot be transmitted in any way.
-- Will cause you to convulse and vomit. This will dehydrate you fast!- Vomiting will also cause you to lower the hunger level.
-- Dehydration will kill you without treatment.
-- Treatment is drinking plenty of water until the disease is gone. Any type of freshwater will do.
-- **TIP**: You can remove the risk of catching cholera by building a well on a puddle. Well water is pure.
-
-#### Flu
-
-Just a normal flu.
-- Caught randomly.
-- Easily transmitted from person to person. A single person can contaminate an entire village!- Will very probably not kill you, but can be an annoyance, causing blurred vision, blackouts, and fever.
-- Untreated flu might give you brain damage from high fever.
-- Manageable by eating and drinking until full, and resting (buckling to a bed).
-- Brain damage can be prevented by drinking plenty of tea until the fever subsides.
-
-#### Typhus
-
-You've been covered with lice for days and now you feel sick.
-- throw up randomly- slightly transmittable fro person to person.
-- Untreated typhus will lead to your death- Treatment is through penicillin and tea.
+  - You can ask the leader to give you **officer permissions**.
+  - If the leader dies, anyone in the faction can recruit new members.
+  - Anyone in the faction can become a new leader if the current one is dead, by clicking **Become Faction Leader** on the **Faction tab**.
 
 ## Research
-- [Guide To Research](Guide_To_Research "wikilink")
 
-Research is one of the most important aspects of Civilization and
+Research is one of the most important aspects of Civilizations and
 Nomads. It is with it that your faction can unlock new craftables and
-better equipment!
+better equipment\!
 
 A small faction with advanced research and guns can usually topple the
 big group of unga dunga cavemen armed with bows and arrows.
@@ -268,11 +123,11 @@ There are currently 4 modes of research.
 Research mode is voted at the lobby, before the game begins.
 
 Remember, **you need to create or join a faction to save research
-points**!
+points**\!
 
 ### Classic Research
 
-The original research method! And the most tedious...
+The original research method\! And the most tedious...
 
 Use a **Research Kit** on Scientific Literature, Scientific Rock Slate,
 Scientific Books, or Bookcases.
@@ -284,8 +139,8 @@ literature was, and what is the subject of their writing.
 
 **TIP:** If you are struggling with your own research, progressing
 slowly, it might be a good idea to see if any neighboring factions will
-let you study their bookcases! Buy, trade, and negotiate access to them
-to boost your research. Or fight them, rob them... Get creative!
+let you study their bookcases\! Buy, trade, and negotiate access to them
+to boost your research. Or fight them, rob them... Get creative\!
 (*within the rules*)
 
 ### Auto Research
@@ -304,11 +159,11 @@ In this mode, you create a **Research Bench** with **wood**, place any
 items on it, and select a category to research.
 
 This means that this mode rewards productivity and exploitation of
-natural resources. No slacking off!
+natural resources. No slacking off\!
 
 Different items are worth different amounts.
 
-Experiment!
+Experiment\!
 
 ### No Research
 
@@ -326,13 +181,19 @@ Essentially it is No Research, but **without any IC rules whatsoever**.
 Really. You can do anything you want, without any bwoinks. EXCEPT FOR
 ERP.
 
+### Chad Mode+
+
+Just like Chad Mode, but with research! To do chad research, build an **Altar of Chad**. Slam living or dead people on it, and you get a bunch of research points - it's that easy! Living are worth 12, dead - 8.
+
+**If a faction member is sacrificed to advance a certain category of research, that faction loses all their research points in that category!**
+
 ## The Research Milestones
 
 A list of the most important technology that you'll unlock, and at what
 research level.
 This is just a list of major milestones- For the full list of
 craftables (over 700!) with all the costs and necessary research
-levels, check [Full Crafting List](Full_Crafting_List "wikilink").
+levels, check **[Full Crafting List](Full_Crafting_List "wikilink")**.
 
 #### Industrial
 - 8: forks, knives, spoons. copper coins, Copper hatchet & spear **(requires 8 in Military too)**
@@ -426,119 +287,126 @@ levels, check [Full Crafting List](Full_Crafting_List "wikilink").
 - From 1943: Full-Auto Guns, Semi-Auto Rifles
 - From 1969: Selective-Fire Guns
 
-## Starter Guide
+## Environments
 
-### Spawning in
-- When you spawn, you will be told the languages you know. Your appearance and language will be determined by your spawn location.
-- Your **hunger** and **thirst** levels will both be at 50%.
-- You start out with nothing your first priority will be to gather a flint axe to make one grab intent a rock and click on it you should be able to gather some flint. Hit the flint on the rock until its sharp (via left clicking the rock you got it from with the flint). Now go to a tree and click it on harm intent. This will pull a branch from the tree and place it on the ground. Grab intent the branch to clear the leaves, then harm intent to pull out the twigs. Use the flint on the stick to sharpen it then again to craft yourself a trusty flint axe.
-- If it's **winter season** or **Ice Age** map, you also spawn with a **fur coat**. Losing this will mean cold and miserable **death** in the icy outdoors.
+The environment lives and breathes, and will be the single biggest
+factor that influences your life\!
 
-### Staying Alive
-- Hunger and thirst affect your **movement speed** and **healing rates**.
-- Being slow makes you easy prey for predators, criminals, and cannibals.
-- Being malnourished also makes it easier to catch **disease** and increase your **healing time**.
-- Letting either **hunger** or **thirst** reach 0% will cause your body to start shutting down, until your inevitable **death**.
-- **Cold can kill**. Being caught in a **blizzard** or **winter** without proper protection is a very easy way to **die**.
+Each map has one or more different biomes. 
 
-#### Crafting Basics
+There are seasons of the year, effects of which are different in every biome. Some biomes have four seasons, while others have only two.
 
-You'll need **wood** to make things to eat and drink.
-- Hit a tree with your flint hatchet and it will cut it down after a delay.
-- Get the wood and use it in the active hand to open a crafting menu.
+### Biomes and seasons
 
-The same mechanic for opening crafting menu applies to all materials.
-Activate in hand to open the crafting menu.
+#### Tundra
 
-#### Hunger
+* Snow covers the ground all year round and does not melt during summer (unlike in Temperate). 
+* Wood and animals are rare here.
 
-The easiest way to get food early on is by killing animals and eating
-the meat after cooking it.
-- Find an animal and kill it with the knife, preferably one that doesn't have fangs, claws, tusks, or poison. **Stay away from bears, alligators, wolves, snakes, and mammoths.**- Use your knife on it with **harm intent** to butcher it.
-- **Raw meat** causes **food poisoning**. You'll want to **cook** it, **stew** it or **dry** it first, <sub>dew it</sub>, but if you're starving, food poisoning is the least of your worries.
-- To cook meat, place it on a **campfire**.
-- You can make one with **wood logs**.
-- You can also use an **oven**.
-- To **dry** meat, cut the raw steak into **raw cutlets**, then place them on a **dehydrator** and wait.
-- Dehydrators are made of **wood**, but you need some research levels.
-- To **stew** meat, place the raw steak into the **cooking pot** after filling it with **water**, and wait.
-- Cooking pots are made with **iron ingots**, but again, it requires research levels to make.
+Seasons:
 
-#### Thirst
+* Summer: Amene temperatures, some snow melts, revealing dirt, and crops can grow. No
+  chance of snowfall or blizzard. Wild animals respawn.
+* Winter: Icy temperatures requiring coat, high chance of snowfall,
+  chance of deadly blizzard. Crops stop growing, snow covers all land.
+  Have a shelter ready or you probably won't survive until summer.
 
-The easiest way to quench your thirst early on is by drinking water or
-milk, though other liquids like **tea** can also be used.
+#### Taiga
 
-##### Water
+Similar to Tundra in many regards, but considerably more trees.
 
-You can get water from **puddles**, any **water tiles**, or **wells**.
+#### Temperate
 
-- To drink, you need to make a **mug** from **wood** or **drinking glass** from **glass**.
-- **Wells** have disease-free freshwater. You can build them over a **puddle** by using with **stone**....**if** your faction has the research levels required....
-- "Raw" water needs to be **boiled** to be 100% safe. Otherwise, you have a **chance** of catching **cholera**. Though if you're dying, raw water will be a risk you'll have to take.
-- To boil water, make a pot from **tin** or **copper** ingots.
-- **Intermission: MINING BASICS** : You'll need **wood** and **bone** for this. Go gather them.
-- Make a **tool handle** from **wood**.
-- Hold it in the **off-hand**.
-- Activate some **bone** in your **active-hand**.
-- Make a **pickaxe**.
-- Find a **rock** and use the **pickaxe** on it. **WARNING: BUILD MINING SUPPORTS WITH WOOD EVERY 2 TILES OR YOU WILL HAVE A CAVE-IN*
-- Grab the **copper or tin ores** and **smelt them** into **ingots** in a **campfire**.
-- Use the **ingots** in-hand to craft a **pot**.
-- Fill the **pot** with **water**, place it on **campfire** or **oven**, turn it on, and wait for it to finish boiling.
-- Water is then safe to drink. Pour it in your **mug** or **glass** and drink.
+Seasons (rotate every 30 minutes):
 
-##### Milk
-- Find a **cow**, **sheep ewe**, or **goat ewe**.
-- Make a **bucket** from **wood**.
-- Use the **bucket** on **help intent** on the animal of choice to gather milk.
-- Pour the milk into the **mug** or **glass** and drink.
-- You don't have to boil milk.
+  - Spring: Amene temperatures, a little leftover snow from the winter.
+    Sparse rains cause mud slowdowns. Snow starts melting.
+  - Summer: Hot temperatures, no rain. Chance of heat-waves that
+    evaporate all puddles. All snow melts. Wild animals respawn at a
+    faster rate.
+  - Fall: Cooler temperatures, sparse rain and occasional snowfall will
+    slow you down.
+  - Winter: Icy temperatures can kill you without a fur coat, some lakes
+    and rivers freeze over, allowing you to walk on them. Constant
+    snowfall slows you down, **crops will not grow and animals won't
+    respawn**. Chance of blizzards that cause a whiteout, and can kill
+    you even with fur coats. Have a shelter ready\!
 
-Milk is regenerated in the animals over time, so keep them alive, and you'll never go thirsty.
+#### Sea
 
-#### Surviving the Winter
+#### Semi-Arid
 
-Being caught in the winter without protection will kill you. And even
-with a fur coat, a blizzard will make short work of you.
+#### Desert
 
-##### Fur Clothing
+Seasons:
 
-Fur clothing can keep you warm in the winter, but won't keep you from
-dying you're caught in a blizzard.
+  - Dry Season: All the water sources dry up, has a chance of
+    sandstorms, which impair vision, but cause no other ill-effects.
+    Heat is intense and can harm you if you stay in the sun too long.
+  - Wet Season: All water sources fill up, sandstorms die down. Wild
+    animals respawn.
 
-You can make fur clothing by skinning large furry animals like **bears** and **wolves**. <sub>Yes, you can finally skin furries with no repercussions.</sub>
+#### Savanna
 
-- Kill a **bear** or **wolf**.
-- Skin the animal by using the **knife** on **grab intent**.
-- Collect the pelts and craft a **fur coat** (and **fur boots**, if you don't want to freeze your feet).
+#### Jungle
 
-##### Shelter
+Seasons:
 
-Shelter can save you from even the toughest of conditions.
+* Dry Season: Fertile floodplains on the riverbanks are uncovered, sunny weather most of the time.
+* Wet Season: Heavy rains and the arable land along the rivers is flooded.
 
-Any roofed area is considered a shelter.
-- **Caves**: There's a reason that stone-age men were called cavemen. Look for entrances in rocks. If it has a roof, it will be darker inside. That means it will keep snow, cold, and rain out. The easiest way of surviving inclement weather. <sub>Make sure that no bears live in the cave, though...</sub>
+## Nomads maps
 
-- **Tunnels / "Mines"**: You can dig into the underground for shelter! All you need is to use a **shovel** in your active hand. To craft one, you'll need to make a **tool handle** from **wood planks**, and have **bone** available. With the **tool handle** in the off-hand, activate **bone** in the active hand.
-- **Building a Roof**: Target your inner Bob the Builder and build your own roof. You'll need **wood planks**.
- - Build **walls** or **roof supports** to prop the ceiling up.
- - Build a **roof builder**, hold it, and activate it in hand while facing the tile above which you want to build.
- - You can also build walls with **dirt** or **snow** by using the **shovel** directly on the ground. Just use the **dirt** or **snow** piles in your **active hand**, then add additional material directly to the wall.
+### Temperate
 
-#### Night Time
+This is the classic map, using the same map as the Civilizations map.
 
-You'll need a light source to see in the night and in dark indoor areas.
+  - The map climate is temperate, with plenty of forests, rivers,
+    overland mines, and farming space.
+  - The northern part of the map contains most of the plains, while the
+    southern part has most of the swamps and some beaches.
+  - You may encounter mice, rabbits, bears, turkeys, cows, goats,
+    snakes, deer, fish, frogs, leeches, horses, and alligators.
+  - The round always starts in Spring.
 
-The basic source of light is the **torch**.
-- Gather some **wood**.
-- Craft a **torch** in the **Kitchen & Other** submenu
-- An alternative to the torch is a tiki torch it burns for longer and provides larger source of light.
+### Desert
 
-Torches will last for **5 minutes** and then burn out.
+  - In this map, the whole area is a desert with some sparse water
+    sources and farming plots.
+  - Water management is important here, as is control of the rare
+    farmable areas around rivers and swamps.
+  - You may encounter mice, bears, goats, snakes, frogs, leeches,
+    horses, camels, and alligators.
+  - The round always starts in the Wet Season.
 
-- you can also make '''lanterns '''with iron in the tool category lanterns require fuel any form of liquid fuel will do.
+### Jungle
 
-For a more **permanent** light source, you can build **braziers** from **stone**. You can fuel it with any organic matter like wood or clothing, simply use items on the brazier on **help intent**.
+A dense tropical rainforest. You can only farm on the floodplains and during the dry
+season. Wildlife is deadly here\! Stay away from panthers, mosquitoes
+(as they carry malaria) and ants (will eat your food). Crossing rivers
+without a bridge is considered unsafe - piranhas are abundant.
 
-- In later epochs you will be able to craft lights from glass and power them up get glass and go the the electricity category face the direction you would like the light to face and build it to power lights click on the light frame with a cable coil and connect it to a power generator.
+### Divide
+
+Jungle biome on West side, Desert biome on East side, separated by
+mineable mountains and a small patch of clear land filled with
+alligators.
+
+### Ice Age
+
+Snow plains with frozen rivers and lakes. Rock is more abundant than wood. You may encounter wolves, deer, bears, penguins, goats, mammoths, and dogs.
+
+### Continental
+
+Yet again, they done it, maybe because the god didn't get creative, or
+something else, anyway there is ocean between, desert below, Ice Age
+above, simple enough? Yet I understand why people thought the earth is
+flat.
+
+### Pangea
+
+A combined map with no oceans dividing the biomes, excluding mountain ranges.
+
+The biomes are, from North to South:
+
+Tundra, Taiga, Temperate, Semi-Arid, Desert, Savannah, and Jungle
