@@ -31,5 +31,5 @@ section.*
 
 ## RP / Roleplay Modes
 
-  - [Civilization and Nomads Starter
-    Guide](Civilizations_and_Nomads#Starter_Guide "wikilink")
+  - [Civilizations and Nomads](Civilizations_and_Nomads "wikilink")
+  - [Starter Guide](Starter_Guide "wikilink")
