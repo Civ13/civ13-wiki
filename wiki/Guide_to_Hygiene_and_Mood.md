@@ -3,7 +3,7 @@
 In this Guide you'll learn how not to be a filthy disgusting unga that
 is so depressed he's considering drowning himself in his own urine as a
 way of suicide. In other words, someone who won't be hated by literally
-everyone around them. Wow\! Rare indeed.
+everyone around them. Wow! Rare indeed.
 
 ## Guide to Hygiene
 
@@ -11,7 +11,7 @@ So, you're a bit stinky and need a good wash. There are currently two
 ways you are able to wash yourself. 1. is a bucket of clean water (pots
 and barrels work too). 2. is a shower.
 
-Washing your stinky ass self:
+**Washing your stinky ass self:**
 
 1.  Fill a bucket with at least 30 units of clean water, either from a
     well, or boiled in a pot from a puddle or river.
@@ -23,14 +23,14 @@ Washing your stinky ass self:
     can dissipate fairly fast, so wash yourself a few times (Usually 3
     is just fine) and it should last a bit.
 
-Crafting a Shower:
+**Crafting a Shower:**
 
 1.  With a stack of ten glass in hand, press Z.
 2.  Select the Shower option. Mind that the shower will be built BEHIND
     you, so if you want it on a wall, turn your back to it.
 3.  An advanced washing apparatus is ready for your use.
 
-Washing yourself with a shower:
+**Washing yourself with a shower:**
 
 1.  Be naked
 2.  Turn it on
@@ -39,7 +39,7 @@ Washing yourself with a shower:
     steamy, then it's equivalent to washing yourself a few times with a
     bucket.
 
-Congrats\! You're no longer stinky.
+Congrats! You're no longer stinky.
 
 ### Using the Washroom
 
@@ -49,7 +49,7 @@ toilets/latrines you can use. 1. the Pit Latrine dug with a shovel, 2.
 an Outhouse made from wood or 3. a Toilet made from glass (make sure the
 lid is open).
 
-Digging a Latrine:
+**Digging a Latrine:**
 
 1.  Have a Shovel and Press Z to open the menu and select "Pit Latrine"
     Out of the three options.
@@ -57,28 +57,28 @@ Digging a Latrine:
 3.  Leave with your dignity having not shit yourself. (make sure its an
     outhouse not just open space, privacy is needed)
 
-Building an Outhouse:
+**Building an Outhouse:**
 
 1.  With a stack of at least 35 Wood in hand, press Z.
 2.  Select the Hygiene category, then choose one of three types of
     outhouse (the only difference is appearance).
 3.  There, now you can do your business away from prying eyes.
 
-Crafting a Toilet:
+**Crafting a Toilet:**
 
 1.  With a stack of Glass in hand, press Z.
 2.  Select the Toilet option.
 3.  Bam, you've now got a shitter.
 
 Use these toiletries in privacy, make outhouses, don't shit everywhere
-or make a mess. You filthy ungas, clean up after yourselves\!
+or make a mess. You filthy ungas, clean up after yourselves!
 
 ### Shaving
 
-Look at you\! That unkempt beard of yours shows me something from every
-meal you had last week\! This may have been acceptable back in the Cave
-Age, but not any more\! Make yourself a damn Razor out of bronze or iron
-and cut that hair by clicking yourself with a Razor on "help" intent\!
+Look at you! That unkempt beard of yours shows me something from every
+meal you had last week! This may have been acceptable back in the Cave
+Age, but not any more! Make yourself a damn Razor out of bronze or iron
+and cut that hair by clicking yourself with a Razor on "help" intent!
 
 ### Washing clothes
 
@@ -99,7 +99,7 @@ its water unsafe to drink.
 ## Guide to Mood
 
 Are you constantly feeling depressed? Getting weird audio randomly out
-of nowhere? Well, then you've got a shit mood\! There's only 2 real ways
+of nowhere? Well, then you've got a shit mood! There's only 2 real ways
 to increase your mood.
 
 1.  Drugs, such as Cocaine and Opium.
@@ -118,7 +118,7 @@ Things that can decrease mood:
 5.  Delimbed Body Parts and Gore
 
 Now you know how to manage your mood with these not so effective up
-keeps\! But did you know mood effects more than you thought? Mood can
+keeps! But did you know mood effects more than you thought? Mood can
 effect your max skill stats. such as if you're feeling great you can
 have 2.875 as a stat cap. When your mood is shit, it can only be 2.0 (it
 will appear as 20x but it's actually 2.0x) So your mood can actually

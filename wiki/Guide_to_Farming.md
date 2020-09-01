@@ -7,7 +7,7 @@ power.
 
 To farm, you will require some basic tools.
 
-<table class="sortable">
+<table>
 <thead>
 <tr class="header">
 <th><p>Item</p></th>
@@ -17,48 +17,48 @@ To farm, you will require some basic tools.
 </thead>
 <tbody>
 <tr class="odd">
-<td><center>
+<td>
 <p>Knife</p>
-</center></td>
-<td><center>
+</td>
+<td>
 <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/e.png">
-</center></td>
+</td>
 <td><p>Used for harvesting crops. Can be made out of Wood, Bone, Copper, Bronze, Iron, Steel, Silver, Gold and Diamond.</p></td>
 </tr>
 <tr class="even">
-<td><center>
+<td>
 <p>Plough</p>
-</center></td>
-<td><center>
+</td>
+<td>
 <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/plough_normal.png">
-</center></td>
+</td>
 <td><p>A plough is made out of wood and used to plough fields for farming! Used once on the grass and once on the dirt underneath the grass. You can also plough snowy dirt and flooded plains dirt (found along the jungle rivers). In case of snowy grass, you will have to shovel the snow first. Lastly, there are places where you cannot plough: infertile soil, permafrost etc. You can also make an iron plough out of iron ingots to plough land faster.</p></td>
 </tr>
 <tr class="odd">
-<td><center>
+<td>
 <p>Trench shovel</p>
-</center></td>
-<td><center>
+</td>
+<td>
 <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/trench_shovel.png">
-</center></td>
+</td>
 <td><p>A trench shovel is made out of iron ingots and a wooden handle. A trench shovel (as the name suggests) digs trenches, to dig a trench simple click a dirt tile two times also you can flood trenches by putting them next to a water source. Useful for large scale farming.</p></td>
 </tr>
 <tr class="even">
-<td><center>
+<td>
 <p>Seeds</p>
-</center></td>
-<td><center>
+</td>
+<td>
 <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/seeds.png">
-</center></td>
+</td>
 <td><p>Some sort of seeds to plant and grow. You may find seeds simply lying on the ground, but you can also collect them in the wilderness by using any type of knife on bushes and small bushes.</p></td>
 </tr>
 <tr class="odd">
-<td><center>
+<td>
 <p>Seed collector</p>
-</center></td>
-<td><center>
+</td>
+<td>
 <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/seed_collector.png">
-</center></td>
+</td>
 <td><p>Made out of leather. Very useful for picking up seeds during large-scale farming. Have a seed collector in your active hand, stand over the seeds on the ground, then click the collector or press Ctrl-Z, and you will put the seeds in the bag. Just do not misplace it.</p></td>
 </tr>
 </tbody>
@@ -68,7 +68,7 @@ To farm, you will require some basic tools.
 
 Just plough a plot of land, surround said plot of land with trenches
 filled with fresh water or plough near a river, put some seeds in the
-ground and watch them grow\! Well, it is a bit more nuanced.
+ground and watch them grow! Well, it is a bit more nuanced.
 
 ### Watering
 
@@ -111,7 +111,7 @@ Be aware that blizzards will freeze the plants and kill them. A
 heatwave, as noted in the Watering section, will cause the crops to
 consume more water than usual. Sandstorms will also destroy the plants.
 You can try to cover them during the winter with tents, however, be sure
-to remove them in spring or they won't keep growing\!
+to remove them in spring or they won't keep growing!
 
 ### Skill
 
@@ -135,18 +135,18 @@ Desert, Savanna and Jungles biomes.
 <table class="sortable">
 <thead>
 <tr>
-<th>Crop</th>
-<th style="text-align:center">Tundra</th>
-<th style="text-align:center">Taiga</th>
-<th style="text-align:center">Temperate</th>
-<th style="text-align:center">Sea</th>
-<th style="text-align:center">Semi-Arid</th>
-<th style="text-align:center">Desert</th>
-<th style="text-align:center">Savanna</th>
-<th style="text-align:center">Jungle</th>
-<th>Season</th>
-<th style="text-align:center">Max Water Level</th>
-<th>Description</th>
+<th style="background-color=#cc7000;">Crop</th>
+<th style="background-color=#cc7000;text-align:center">Tundra</th>
+<th style="background-color=#cc7000;text-align:center">Taiga</th>
+<th style="background-color=#cc7000;text-align:center">Temperate</th>
+<th style="background-color=#cc7000;text-align:center">Sea</th>
+<th style="background-color=#cc7000;text-align:center">Semi-Arid</th>
+<th style="background-color=#cc7000;text-align:center">Desert</th>
+<th style="background-color=#cc7000;text-align:center">Savanna</th>
+<th style="background-color=#cc7000;text-align:center">Jungle</th>
+<th style="background-color=#cc7000;">Season</th>
+<th style="background-color=#cc7000;text-align:center">Max Water Level</th>
+<th style="background-color=#cc7000;">Description</th>
 </tr>
 </thead>
 <tbody>

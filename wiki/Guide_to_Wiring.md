@@ -4,7 +4,7 @@ So you're the unlucky guy trying to wire eh? Don't worry, i'll get you
 through this kid. Lets start with the basics. Picture of basic power
 setup (iron furnace and steam generator)
 
-![image](https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/unknown.png)
+![image](https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wiring_example.png)
 
 ## Basics
 
@@ -40,7 +40,7 @@ setup (iron furnace and steam generator)
 
 In case you're a lazy turd that simply didn't want to know how to wire
 and just do it trial and error, or already know how to wire but not
-craft the necessities (How can you wire then?\!).
+craft the necessities (How can you wire then?!).
 
   - Engines: Engine maker in one hand, steel in the other. With engine
     maker in active hand, press Z. Then specify cc (which subtracts from
@@ -78,7 +78,7 @@ and uh, it'll require a bit of steel.
     baby.
 5.  Now you've successfully made a motorcycle. What you named it? No one
     cares. Who you made it for? No one cares, they'll likely steal it
-    anyway. However, you're the man with the fuel\! (hopefully)
+    anyway. However, you're the man with the fuel! (hopefully)
 
 ### Motorcycle Operation
 
@@ -90,4 +90,4 @@ your icon onto the bike. You can get off by click on the bike with the
 handle bars in hand (this also shuts off the bike. 2 clicks, shut off
 the bike, and another to get off).You **turn on/increase speed of the
 bike by pressing Z**. You can **stop/decrease speed by pressing C**.
-Drive safe out there\!
+Drive safe out there!

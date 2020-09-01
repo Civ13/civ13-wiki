@@ -4,17 +4,6 @@ is_wiki_page: false
 ---
 {% if site.search_engine == "js" %}
 var jsondata=[
-  {% for post in site.posts %}
-    {
-      "title"    : "{{ post.title | escape }}",
-      "category" : "{{ post.category }}",
-      "tags"     : "{{ post.tags | join: ', ' }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date }}",
-      "content"  : "{{ post.content | strip_html | strip_newlines | remove: '"' }}"
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
-  ,
   {% for page in site.html_pages %}
    {
      {% assign title = page.title | default: page.name %}

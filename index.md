@@ -17,7 +17,7 @@ Modern Age.
 <span style="color:#FFD700;"><b>To contribute, edit a page using the links on the top right. You will need a github account. For more information check the guide [here](Contributing_to_the_Wiki "wikilink").</b></span>
 
 
-<b>[Official Server](https://civ13.com/server) | [Discord](https://discord.gg/hBEtg4x) | [Github](https://github.com/Civ13/Civ13)</b>
+<b>[Official TDM Server](byond://civ13.com:1714) | [Official RP/Nomads Server](byond://civ13.com:1715) | [Official Persistence Server](byond://valzargaming.com:1714) | [Discord](https://discord.gg/hBEtg4x) | [Github](https://github.com/Civ13/Civ13)</b>
 
 
 ## Getting started
@@ -33,7 +33,7 @@ mode
 
 [Guide to Medical](Guide_to_Medical "wikilink")
 
-[Guide to Carpentry](Guide_to_Carpentry "wikilink")
+[Guide to Crafting](Guide_to_Crafting "wikilink")
 
 [Guide to Cooking](Guide_to_Cooking "wikilink")
 
@@ -67,7 +67,7 @@ mode
 
 ### Civilization Mode
 
-Lead your Civilization from prehistory to the modern era\!
+Lead your Civilization from prehistory to the modern era!
 
 **RP:** [Civilizations and Nomads](Civilizations_and_Nomads "wikilink")
 

@@ -1,5 +1,5 @@
 # Guide to Tanks
-The 1945 epoch now has tanks\! (Yay)
+The 1945 epoch now has tanks! (Yay)
 
 There are 5 roles for the crew of the tank. In order to be effective,
 all roles most communicate with each other, organize and work
@@ -20,9 +20,6 @@ together.
     the telescope of the tank. This way, you can see afar, and thus be
     able to calculate the longer distances. (Thats the whole purpose)
 
-
-
-
   - **The Loader**: Your job is the easiest one. You will wait for the
     commander to tell you what shell type to load, and you will simply
     take the said shell from the rack or floor(depending on your unga
@@ -31,9 +28,6 @@ together.
     click on the shell. After taking the shell into your hand, click on
     the turret of the tank. Congratulations, you loaded the
     cannon.(Probably got the wrong type anyways.)
-
-
-
 
   - **The Gunner**: As a gunner, your job is to enter the parameters
     commander told you, and wait for his order to fire. To accomplish
@@ -48,9 +42,6 @@ together.
     seconds to fire. Congratulations, you fired the turret.(Probably
     missed though)
 
-
-
-
   - **The Machine-Gunner**; You are expected to operate the machine gun
     in front of the tank. To do that, approach to the machine gun in
     front, inside the tank. Take an ammo belt from the floor into your
@@ -59,11 +50,8 @@ together.
     managed to man the gun. You are also now aiming forward to enhance
     your view. Now, to fire the gun, simply press on the direction you
     want to fire. (Have you actually hit anything with that machine
-    gun?\!)
-
-
-
-
+    gun?!)
+    
   - **The Driver**: You are expected to drive/rotate the tank. Your job
     is more complex compared to the other roles, but do not let that
     scare you off. In order to start the tank, you must first sit on the
@@ -80,37 +68,36 @@ together.
     soldiers)
 
 
-
-
-Tips:
-\* The tank can only go forward or backwards and rotate to left and
+**Tips:**
+* The tank can only go forward or backwards and rotate to left and
 right. This is different from WASD(W to go forward, S to go back, you
 know the drill) control, so it may take some time to master. It is
 advised to drive jeeps first to get used to the driving system.
-\* You can run over trees/buildings with your tank and it does not
+* You can run over trees/buildings with your tank and it does not
 damage your tank.
-\* You can insta gib/kill any infantry if you run over them.
-\* It is advised to face directly towards the enemy. It will make
+* You can insta gib/kill any infantry if you run over them.
+* It is advised to face directly towards the enemy. It will make
 shooting it a lot easier.
-\* Your loader can not load the turret if you are moving. Let him load
+* Your loader can not load the turret if you are moving. Let him load
 by shutting the engine or not accelerating.
-\* If you run over non-deployed anti-tank mines/anti-tank grenades, they
+* If you run over non-deployed anti-tank mines/anti-tank grenades, they
 will still explode and damage your tank.
-\* You can not rotate your tank on its own axis if it is standing still.
+* You can not rotate your tank on its own axis if it is standing still.
 The tank must be moving in order rotate it.
-\* Rotating your tank rapidly causes your tank to become a jigsaw
+* Rotating your tank rapidly causes your tank to become a jigsaw
 puzzle, it is advised not to.(It's a bug and you'll be vulnerable to gun
 fire if it happens)
-\* Keep reading the chatlog for your commander's instructions.
-\* Rotating the tank at same time when right next to another tank causes
+* Keep reading the chatlog for your commander's instructions.
+* Rotating the tank at same time when right next to another tank causes
 a rare tank meeting to happen.(It is a bug and it completely ruins both
 of the collided tanks.)
-\* Faster you go, easier it is to rotate the tank.
-\* Do not rotate your tank near deep water tiles. If a single tile of
+* Faster you go, easier it is to rotate the tank.
+* Do not rotate your tank near deep water tiles. If a single tile of
 your tank is on the deep water tile, you will be stuck there for an
 eternity.
-\=== Driving === So you want to finally be useful and not just dead
-weight to a crew eh? Few can drive, or well enough to do anything worthy
+
+### Driving
+So you want to finally be useful and not just dead weight to a crew eh? Few can drive, or well enough to do anything worthy
 of mentioning. If you want to know how to drive you've got to listen
 carefully to the steps given, and learn the mechanics of how our
 machines really work. Also a tip, **the tank is safest place you can

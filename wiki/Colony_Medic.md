@@ -26,8 +26,8 @@ Requirements:
 2.  Know how to treat wounded without Hesitation
 3.  Learn to know what people are suffering from without a book just in
     case
-4.  Quick hands, surgery needs to be quick, there are others wounded\!
-5.  Clean your fucking hands degenerate\!
+4.  Quick hands, surgery needs to be quick, there are others wounded!
+5.  Clean your fucking hands degenerate!
 
 Challenges:
 

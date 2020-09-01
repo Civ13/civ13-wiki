@@ -10,7 +10,7 @@ food. TIP: Potatos can be turned into juice which hydrates a fuck ton
 also even eating raw fries fills you up well. To get water all you need
 to do is get water SALTWATER CANT BE USED FOR DRINKING then put it into
 a container like a copper pot, put it on a campfire or some burner with
-the lid on then tada\! pour it into a mug and drink it.
+the lid on then tada! pour it into a mug and drink it.
 
 ### Wildlife
 
@@ -18,7 +18,7 @@ Most wildlife is peaceful like cows or bulls (you should keep cows and
 bulls around to breed and for milk) however stuff like bears, when
 unexpected can kill a whole faction to counter this simple get a weapon,
 in 303 you should be able to make spears that take up a tile so you can
-kill animals without getting scratched at all\!
+kill animals without getting scratched at all!
 
 ### Nature
 

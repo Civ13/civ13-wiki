@@ -1,0 +1,655 @@
+@import "rouge-github.css";
+@import "w3.css";
+:root {
+  --blue: #375a7f;
+  --indigo: #6610f2;
+  --purple: #6f42c1;
+  --pink: #e83e8c;
+  --red: #e74c3c;
+  --orange: #fd7e14;
+  --yellow: #f39c12;
+  --green: #00bc8c;
+  --teal: #20c997;
+  --cyan: #3498db;
+  --white: #fff;
+  --gray: #888;
+  --gray-dark: #303030;
+  --primary: #375a7f;
+  --secondary: #444;
+  --success: #00bc8c;
+  --info: #3498db;
+  --warning: #f39c12;
+  --danger: #e74c3c;
+  --light: #adb5bd;
+  --dark: #303030;
+  --breakpoint-xs: 0;
+  --breakpoint-sm: 576px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 992px;
+  --breakpoint-xl: 1200px;
+  --font-family-sans-serif: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+article,
+aside,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section {
+  display: block;
+}
+
+body {
+  margin: 0;
+  font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 0.9375rem;
+  padding: 0px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #aaaaaa;
+  text-align: left;
+  background-color: #222;
+}
+[tabindex="-1"]:focus:not(:focus-visible) {
+  outline: 0 !important;
+}
+hr {
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0;
+  overflow: visible;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+abbr[title],
+abbr[data-original-title] {
+  text-decoration: underline;
+  -webkit-text-decoration: underline dotted;
+  text-decoration: underline dotted;
+  cursor: help;
+  border-bottom: 0;
+  text-decoration-skip-ink: none;
+}
+address {
+  margin-bottom: 1rem;
+  font-style: normal;
+  line-height: inherit;
+}
+ol,
+ul,
+dl {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+ol ol,
+ul ul,
+ol ul,
+ul ol {
+  margin-bottom: 0;
+}
+dt {
+  font-weight: 700;
+}
+dd {
+  margin-bottom: 0.5rem;
+  margin-left: 0;
+}
+blockquote {
+  margin: 0 0 1rem;
+}
+b,
+strong {
+  font-weight: bolder;
+}
+small {
+  font-size: 80%;
+}
+sub,
+sup {
+  position: relative;
+  font-size: 75%;
+  line-height: 0;
+  vertical-align: baseline;
+}
+sub {
+  bottom: -0.25em;
+}
+sup {
+  top: -0.5em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: rgb(209, 209, 209);
+  margin: 0 0 20px;
+}
+
+p,
+ul,
+ol,
+table,
+pre,
+dl {
+  margin: 0 0 20px;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.1;
+}
+
+h1 {
+  font-size: 30px;
+}
+h2 {
+  font-size: 27px;
+}
+h3,
+h4,
+h5,
+h6 {
+  color: #AAAAAA;
+}
+
+a {
+  color: #00bc8c;
+  text-decoration: none;
+  background-color: #222;
+}
+
+a:hover {
+  color: #01916d;
+}
+
+a small {
+  font-size: 11px;
+  color: #00bc8c;
+  margin-top: -0.3em;
+  display: block;
+}
+
+a:hover small {
+  color: #01916d;
+}
+
+.wrapper {
+  margin: 0 auto;
+}
+
+input {
+  background-color: #a3a3a3;
+}
+
+blockquote {
+  border-left: 1px solid #e5e5e5;
+  margin: 0;
+  padding: 0 0 0 20px;
+  font-style: italic;
+}
+
+code,
+pre {
+  font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  color: #bbbbbb;
+  font-size: 12px;
+}
+
+pre {
+  padding: 8px 15px;
+  background: #f8f8f8;
+  border-radius: 5px;
+  border: 1px solid #e5e5e5;
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border-color: white;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 5px 10px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+dt {
+  color: rgb(114, 114, 114);
+  font-weight: 700;
+}
+
+th {
+  color: rgb(114, 114, 114);
+}
+
+img {
+  max-width: 100%;
+}
+
+.w3-teal {
+  color: #000 !important;
+  background-color: inherit !important;
+}
+
+#git-wiki-mobile-header {
+  top: 0;
+  padding: 0;
+  padding-top:0;
+  padding-bottom:10px;
+  height: 60px;
+  width: 100%;
+  border-radius: 10px;
+  border-bottom: 1px solid white;
+  z-index: 999;
+  background-color:#222;
+  margin-top:0px;
+  margin-bottom:15px;
+  position: fixed;
+}
+
+#git-wiki-sidebar {
+  width: 280px !important;
+  float: left;
+  position: relative !important;
+  -webkit-font-smoothing: subpixel-antialiased;
+  /*overflow-y: auto;
+  overflow-x: auto;*/
+  max-height: 100%;
+  padding-bottom: 55px !important;
+}
+
+@media print,
+screen and (max-width: 992px) {
+  #git-wiki-sidebar {
+    position: fixed !important;
+    top: 50px;
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+    border-radius: 10px;
+  }
+
+  .git-wiki-page {
+    margin-top: 40px;
+  }
+}
+
+.git-wiki-main-logo {
+  max-width: 270px;
+}
+
+#git-wiki-sidebar .git-wiki-downloads {
+  list-style: none;
+  height: 40px;
+  padding: 0;
+  background: #f4f4f4;
+  border-radius: 5px;
+  border: 1px solid #e0e0e0;
+  width: 270px;
+}
+
+#git-wiki-sidebar .git-wiki-downloads li {
+  width: 89px;
+  float: left;
+  border-right: 1px solid #e0e0e0;
+  height: 40px;
+}
+
+#git-wiki-sidebar .git-wiki-downloads li:first-child a {
+  border-radius: 5px 0 0 5px;
+}
+
+#git-wiki-sidebar .git-wiki-downloads li:last-child a {
+  border-radius: 0 5px 5px 0;
+}
+
+#git-wiki-sidebar .git-wiki-downloads a {
+  line-height: 1;
+  font-size: 11px;
+  color: #999;
+  display: block;
+  text-align: center;
+  padding-top: 6px;
+  height: 34px;
+}
+
+#git-wiki-sidebar .git-wiki-downloads a:hover {
+  color: #999;
+}
+
+#git-wiki-sidebar .git-wiki-downloads a:active {
+  background-color: #f0f0f0;
+}
+
+strong {
+  color: #bbbbbb;
+  font-weight: 700;
+}
+
+#git-wiki-sidebar .git-wiki-downloads li+li+li {
+  border-right: none;
+  width: 89px;
+}
+
+#git-wiki-sidebar .git-wiki-downloads a strong {
+  font-size: 14px;
+  display: block;
+  color: rgb(209, 209, 209);
+}
+
+.git-wiki-page {
+  /*width:500px;
+  float:right;*/
+  padding-left: 320px;
+  padding-bottom: 50px;
+}
+
+small {
+  font-size: 11px;
+}
+
+hr {
+  border: 0;
+  background: #e5e5e5;
+  height: 1px;
+  margin: 0 0 20px;
+}
+
+footer {
+  padding-left: 320px;
+  float: left;
+  bottom: 50px;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+.tools-element {
+  border-left-style: solid;
+  border-right-style: solid;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+@media print,
+screen and (max-width: 960px) {
+
+  div.wrapper {
+    width: auto;
+    margin: 0;
+  }
+
+  #git-wiki-sidebar,
+  .git-wiki-page,
+  footer {
+    float: none;
+    position: static;
+    width: auto;
+  }
+
+  #git-wiki-sidebar {
+    padding-right: 320px;
+  }
+
+  .git-wiki-page,
+  footer {
+    border-width: 1px 0;
+    padding: 20px 0;
+    margin: 60px 0 20px;
+  }
+
+  #git-wiki-sidebara small {
+    display: inline;
+  }
+
+  /*#git-wiki-sidebar .git-wiki-downloads {
+    position:absolute;
+    right:50px;
+    top:52px;
+  }*/
+}
+
+
+@media print,
+screen and (max-width: 720px) {
+  body {
+    word-wrap: break-word;
+  }
+
+  #git-wiki-sidebar {
+    padding: 0;
+  }
+
+  #git-wiki-sidebar .git-wiki-downloads,
+  #git-wiki-sidebarp.view {
+    position: static;
+  }
+
+  pre,
+  code {
+    word-wrap: normal;
+  }
+}
+
+@media print,
+screen and (max-width: 480px) {
+  body {
+    padding: 15px;
+  }
+
+  #git-wiki-sidebar .git-wiki-downloads {
+    width: 99%;
+  }
+
+  #git-wiki-sidebarli,
+  #git-wiki-sidebar .git-wiki-downloads li+li+li {
+    width: 33%;
+  }
+}
+
+@media print {
+  body {
+    padding: 0.4in;
+    font-size: 12pt;
+    color: #444;
+  }
+}
+
+.post-item {
+  margin-bottom: 50px;
+}
+
+#results-container li {
+  list-style-type: none;
+}
+
+.external-link {
+  background-position: center right;
+  background-repeat: no-repeat;
+  background-image: url("../images/external-link-ltr-icon.png");
+  background-image: linear-gradient(transparent, transparent), url("../images/external.svg");
+  padding-right: 13px;
+}
+
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-10,
+.col-11,
+.col-12,
+.col,
+.col-auto,
+.col-sm-1,
+.col-sm-2,
+.col-sm-3,
+.col-sm-4,
+.col-sm-5,
+.col-sm-6,
+.col-sm-7,
+.col-sm-8,
+.col-sm-9,
+.col-sm-10,
+.col-sm-11,
+.col-sm-12,
+.col-sm,
+.col-sm-auto,
+.col-md-1,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-md-10,
+.col-md-11,
+.col-md-12,
+.col-md,
+.col-md-auto,
+.col-lg-1,
+.col-lg-2,
+.col-lg-3,
+.col-lg-4,
+.col-lg-5,
+.col-lg-6,
+.col-lg-7,
+.col-lg-8,
+.col-lg-9,
+.col-lg-10,
+.col-lg-11,
+.col-lg-12,
+.col-lg,
+.col-lg-auto,
+.col-xl-1,
+.col-xl-2,
+.col-xl-3,
+.col-xl-4,
+.col-xl-5,
+.col-xl-6,
+.col-xl-7,
+.col-xl-8,
+.col-xl-9,
+.col-xl-10,
+.col-xl-11,
+.col-xl-12,
+.col-xl,
+.col-xl-auto {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.col {
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    max-width: 100%;
+}
+
+.wrapper .col-lg-3 {
+  max-width: 250px;
+}
+
+.col-lg-3 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    min-width: 992px;
+}
+
+ol {
+  display: block;
+  list-style-type: decimal;
+  margin-block-start: 0px;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 20px;
+}
+
+  .git-wiki-page {
+    margin-top: 40px;
+  }
+
+.float-container {
+    border: 0;
+    margin-top:80px;
+    padding: 10px;
+    width: 100%;
+}
+
+.float-child-1 {
+    width: 20%;
+    bottom: 60px;
+    top: 60px;
+    float: left;
+    padding: 0px;
+    border-right: 1px solid white;
+    position: fixed;
+    margin-right:20px;
+}  
+.float-child-1-scroll {
+  height: 100%;
+  overflow-y:auto;
+}  
+.float-child-2 {
+  width: 75%;
+  float: right;
+  padding: 0;
+  border: 0;
+  margin: 20px;
+  margin-bottom: 80px;
+}  
+
+.git-wiki-copyrights {
+  border: 0;
+  bottom:0;
+  position:fixed;
+  margin:0;
+  padding:0;
+  width: 100%;
+  font-size: 10px;
+  background-color:#222;
+  text-align: center;
+}
+
+.git-wiki-tools {
+  background-color:#222;
+  font-size:1rem;
+  float: right;
+  margin-top: 10px;
+}
+
+.highlight {
+  background-color: #000;
+}

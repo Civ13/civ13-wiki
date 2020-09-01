@@ -16,57 +16,48 @@
 
     {% include git-wiki/sections/head/meta.html %}
     {% include git-wiki/sections/head/scripts.html %}
-    {% include git-wiki/sections/head/styles.html %}
 
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/darkly/bootstrap.min.css">
-    {% comment %} Hacky-Fix for lux theme {% endcomment %}
-    <style>
-        .git-wiki-page {
-            padding-left: 0;   
-        }
-        
-        .wrapper .col-lg-3 {
-            max-width: 250px;
-        }
-    </style>
+    <link href="assets/css/git-wiki-dark-style.css" rel="stylesheet" type="text/css">
+
     {% if site.inc_after_head %}
     {% include {{ site.inc_after_head }} %}
     {% endif %}
 </head>
-
+<header>
+    {% include git-wiki/sections/header/header.html %}
+</header>
 <body>
-    <div class="wrapper">
-        <div class="row">
-            <div class="col-lg-3" style="top: 0; position: sticky;">
-                {% include git-wiki/sections/header/header.html %}
-                {% include git-wiki/components/toc/toc.html %}
-            </div>
-            <div class="col-lg-9">
-                <div class="git-wiki-page">
-                    {% include git-wiki/sections/tools/tools.html %}
-
-
-                    {% if site.inc_before_content %}
-                    {% include {{ site.inc_before_content }} %}
-                    {% endif %}
-
-                    <div id="git-wiki-content">
-                        {{ content }}
-                    </div>
-
-                    {% if site.inc_after_content %}
-                    {% include {{ site.inc_after_content }} %}
-                    {% endif %}
+    <div class="row wrapper">
+        <div class="float-container git-wiki-page">
+            {% if site.inc_before_content %}
+            {% include {{ site.inc_before_content }} %}
+            {% endif %}
+            <div class="float-child-1 w3-hide-small">
+                <div class="float-child-1-scroll">
+                    {% include git-wiki/components/toc/toc.html %}
                 </div>
             </div>
-        </div>
-        <div class="row">
-            <div class="col">
-                {% include git-wiki/sections/footer/footer.html %}
+            <div class="float-child-2" id="git-wiki-content">
+                {{ content }}
             </div>
-        </div>
-    </div>
 
+            {% if site.inc_after_content %}
+            {% include {{ site.inc_after_content }} %}
+            {% endif %}
+        </div>
+        {% if site.inc_before_footer %}
+        {% include {{ site.inc_before_footer }} %}
+        {% endif %}
+    
+        <div class="git-wiki-copyrights">
+            <hr style="background-color:#FFFFFF;height: 3px; margin:5px;">
+            <p>Maintained by the <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> team&nbsp;&nbsp;—&nbsp;<a href="{{ site.github.repository_url }}">(Source Code)</a><br>Hosted on GitHub Pages &mdash; Powered by <a href="https://github.com/Drassil/git-wiki-theme">Git-Wiki v{{version }}</a></p>
+        </div>
+    
+        {% if site.inc_after_footer %}
+        {% include {{ site.inc_after_footer }} %}
+        {% endif %}
+    </div>
     {% include git-wiki/sections/tail/tail.html %}
 </body>
 
