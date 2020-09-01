@@ -394,7 +394,7 @@ alligators.
 
 ### Ice Age
 
-Snow plains with frozen rivers and lakes. Rock is more abundant than wood. You may encounter wolves, deer, bears, penguins, goats, mammoths, and dogs.
+Snow plains with frozen rivers and lakes. Rock is more abundant than wood. You may encounter wolves, deer, bears, penguins, goats, mammoths, and dogs. Summer lasts only 1/4 of the year, the rest is winter.
 
 ### Continental
 
