@@ -19,10 +19,6 @@ together.
     by clicking on it. After sitting, you will also be avaible to use
     the telescope of the tank. This way, you can see afar, and thus be
     able to calculate the longer distances. (Thats the whole purpose)
-
-
-
-
   - **The Loader**: Your job is the easiest one. You will wait for the
     commander to tell you what shell type to load, and you will simply
     take the said shell from the rack or floor(depending on your unga
@@ -31,10 +27,6 @@ together.
     click on the shell. After taking the shell into your hand, click on
     the turret of the tank. Congratulations, you loaded the
     cannon.(Probably got the wrong type anyways.)
-
-
-
-
   - **The Gunner**: As a gunner, your job is to enter the parameters
     commander told you, and wait for his order to fire. To accomplish
     that, you must get to the side of the turret(preferably, you can
@@ -47,10 +39,6 @@ together.
     that, you must left click on the fire button and wait a couple of
     seconds to fire. Congratulations, you fired the turret.(Probably
     missed though)
-
-
-
-
   - **The Machine-Gunner**; You are expected to operate the machine gun
     in front of the tank. To do that, approach to the machine gun in
     front, inside the tank. Take an ammo belt from the floor into your
@@ -60,10 +48,6 @@ together.
     your view. Now, to fire the gun, simply press on the direction you
     want to fire. (Have you actually hit anything with that machine
     gun?\!)
-
-
-
-
   - **The Driver**: You are expected to drive/rotate the tank. Your job
     is more complex compared to the other roles, but do not let that
     scare you off. In order to start the tank, you must first sit on the
@@ -78,10 +62,6 @@ together.
     engine is shut. Keep practicing to master your
     blitzkrieg/encirclement skills.(You will probably run over your own
     soldiers)
-
-
-
-
 Tips:
 \* The tank can only go forward or backwards and rotate to left and
 right. This is different from WASD(W to go forward, S to go back, you
