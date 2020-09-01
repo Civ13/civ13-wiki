@@ -794,182 +794,92 @@ This is an
 <b>A</b>rmor-<b>P</b>iercing shell, it will pierce through the armour of
 tanks.
 
-<hr>
 
 **All the other shells are:**
 
 <table>
 
 <tr>
+<td style="text-align: center;">Chlorine</td>
+<td style="text-align: center">Designed to cause overexposure to the chlorine element, it causes
+respiratory system failure and severe nose and throat irritation</td>
+</tr>
 
-<td style="text-align: center;">
+<tr>
+<td style="text-align: center;">Mustard</td>
 
-Chlorine
+<td style="text-align: center">A man-made agent which causes chemical burning of the skin, eyes, and
+throat, very nasty stuff.</td>
+</tr>
 
-</td>
+<tr>
 
-<td style="text-align: center">
+<td style="text-align: center;">Phosgene</td>
 
-Designed to cause overexposure to the chlorine element, it causes
-respiratory system failure and severe nose and throat irritation
-
-</td>
+<td style="text-align: center">A far more potent and well disguised cousin of chlorine gas, it has a
+slightly delayed but otherwise identical effect.</td>
 
 </tr>
 
 <tr>
 
-<td style="text-align: center;">
+<td style="text-align: center;">White Phosphorus</td>
 
-Mustard
-
-</td>
-
-<td style="text-align: center">
-
-A man-made agent which causes chemical burning of the skin, eyes, and
-throat., very nasty stuff.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: center;">
-
-Phosgene
-
-</td>
-
-<td style="text-align: center">
-
-A far more potent and well disguised cousin of chlorine gas, it has a
-slightly delayed but otherwise identical effect.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td style="text-align: center;">
-
-White Phosphorus
-
-</td>
-
-<td style="text-align: center">
-
-A type of pyrophoric incendiary munition, it ignites air creating a
+<td style="text-align: center">A type of pyrophoric incendiary munition, it ignites air creating a
 large smoke cloud. Temperatures high enough to cause fourth degree burns
-to anyone unfortunate enough to be in direct contact.
-
-</td>
+to anyone unfortunate enough to be in direct contact.</td>
 
 </tr>
 
 <tr>
 
-<td style="text-align: center;">
+<td style="text-align: center;">Xylyl Bromide</td>
 
-Xylyl Bromide
-
-</td>
-
-<td style="text-align: center">
-
-Primarily used as a "tear gas" type agent. Stereotypical respiratory
-pain and eye, skin, and throat irritations. Not heavily lethal, however.
-
-</td>
+<td style="text-align: center">Primarily used as a "tear gas" type agent. Stereotypical respiratory
+pain and eye, skin, and throat irritations. Not heavily lethal, however.</td>
 
 </tr>
 
 <tr>
 
-<td style="text-align: center;">
+<td style="text-align: center;">Zyklon B</td>
 
-Zyklon B
-
-</td>
-
-<td style="text-align: center">
-
-Cyanide-based pesticide, it impedes upon cellular respiration. In
+<td style="text-align: center">Cyanide-based pesticide, it impedes upon cellular respiration. In
 simpler words it 'deactivates' the entire human body within minutes
-post-inhalation.
-
-</td>
+post-inhalation.</td>
 
 </tr>
 
 <tr>
 
-<td style="text-align: center;">
+<td style="text-align: center;">APCR</td>
 
-APCR
-
-</td>
-
-<td style="text-align: center">
-
-A shell designed with a hard metal penetrating core, it has extreme
+<td style="text-align: center">A shell designed with a hard metal penetrating core, it has extreme
 penetrative force made to wound tank crews and disable vehicle
-components.
-
-</td>
+components.</td>
 
 </tr>
 
 <tr>
 
-<td style="text-align: center;">
+<td style="text-align: center;">AP</td>
 
-AP
-
-</td>
-
-<td style="text-align: center">
-
-A steel alloy shell designed to survive the shock of direct hits against
-metal armor and continue going. Not exactly fancy but it works.
-
-</td>
+<td style="text-align: center">A steel alloy shell designed to survive the shock of direct hits against metal armor and continue going. Not exactly fancy but it works.</td>
 
 </tr>
 
 <tr>
 
-<td style="text-align: center;">
+<td style="text-align: center;">HE</td>
 
-HE
-
-</td>
-
-<td style="text-align: center">
-
-A shell designed to inflict as much concussive explosive force as
+<td style="text-align: center">A shell designed to inflict as much concussive explosive force as
 possible, applications include destruction of fortifications or direct
-anti-personnel usages.
-
-</td>
-
+anti-personnel usages.</td>
 </tr>
 
 <tr>
-
-<td style="text-align: center;">
-
-Makeshift Nuclear
-
-</td>
-
-<td style="text-align: center">
-
-A shell designed to irradiate a large area for long periods of time.
-
-</td>
+<td style="text-align: center;">Makeshift Nuclear</td>
+<td style="text-align: center">A shell designed to irradiate a large area for long periods of time.</td>
 
 </tr>
 </table>
