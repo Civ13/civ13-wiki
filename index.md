@@ -67,7 +67,7 @@ mode
 
 ### Civilization Mode
 
-Lead your Civilization from prehistory to the modern era\!
+Lead your Civilization from prehistory to the modern era!
 
 **RP:** [Civilizations and Nomads](Civilizations_and_Nomads "wikilink")
 

@@ -15,7 +15,7 @@ There is no predetermined goal.
 
 What will each civilization desire? Military power? World domination?
 Scholars with advanced technology? Mass resource output and production?
-Commerce and trade? Raiding? It's up to you or your leaders to decide\!
+Commerce and trade? Raiding? It's up to you or your leaders to decide!
 
 ## What is Nomads Mode?
 
@@ -56,9 +56,9 @@ technology and resources and not contribute a thing...
 A small tight-knit group of workers that contribute is often better off
 than a large group of slackers that just consume.
 
-Pick your members wisely\! Or cunningly use them to your advantage....
+Pick your members wisely! Or cunningly use them to your advantage....
 
-Work smart, not hard\!
+Work smart, not hard!
 
 ### As a Leader
 
@@ -93,7 +93,7 @@ Nourishment affects:
 #### Food
 
 Thankfully, there are many ways to fill your stomach. Even an *unga
-dunga* can do it\!
+dunga* can do it!
 - [Guide to Hunting](Guide_to_Hunting "wikilink")- [Guide to Ranching](Guide_to_Ranching "wikilink")- [Guide to Farming](Guide_to_Farming "wikilink")- [Guide to Cooking](Guide_to_Cooking "wikilink")
 
 #### Drink
@@ -112,14 +112,14 @@ Winter seasons can bring an icy chill that can seriously hurt and slow
 you down, or even kill you.
 
 Keep an eye out on your temperature icon. If it's flashing blue with a
-white snowflake, you're freezing up\!
+white snowflake, you're freezing up!
 - Make yourself a [nice cozy fur coat](Guide_to_Crafting "wikilink") to stay warm.
-- Fur coats won't be enough to keep you warm in blizzards\! [Find caves](Guide_to_Mining "wikilink") or [build your own sheltered area](Guide_to_Carpentry "wikilink") to stay alive\!
+- Fur coats won't be enough to keep you warm in blizzards! [Find caves](Guide_to_Mining "wikilink") or [build your own sheltered area](Guide_to_Carpentry "wikilink") to stay alive!
 
 ### Environments and Maps
 
 The environment lives and breathes, and will be the single biggest
-factor that influences your life\!
+factor that influences your life!
 
 Each map has different seasons, from the standard 4, to only 2, each
 with their own peculiarities.
@@ -142,7 +142,7 @@ It has four Seasons, and they will rotate every 30 minutes.
 - Spring: Amene temperatures, a little leftover snow from the winter. Sparse rains cause mud slowdowns. Snow starts melting.
 - Summer: Hot temperatures, no rain. Chance of heat-waves that evaporate all puddles. All snow melts. Wild animals respawn at a faster rate.
 - Fall: Cooler temperatures, sparse rain and occasional snowfall will slow you down.
-- Winter: Icy temperatures can kill you without a fur coat, some lakes and rivers freeze over, allowing you to walk on them. Constant snowfall slows you down, **crops will not grow and animals won't respawn**. Chance of blizzards that cause a whiteout, and can kill you even with fur coats. Have a shelter ready\!
+- Winter: Icy temperatures can kill you without a fur coat, some lakes and rivers freeze over, allowing you to walk on them. Constant snowfall slows you down, **crops will not grow and animals won't respawn**. Chance of blizzards that cause a whiteout, and can kill you even with fur coats. Have a shelter ready!
 
 #### Desert
 - In this map, the whole area is a desert with some sparse water sources and farming plots.
@@ -168,7 +168,7 @@ There are two seasons:
 A dense tropical rainforest. It has two seasons, wet (where it rains all
 the time and rivers flood) and dry (where fertile floodplains are
 uncovered). You can only farm on the floodplains and during the dry
-season. Wildlife is deadly here\! Stay away from panthers, mosquitoes
+season. Wildlife is deadly here! Stay away from panthers, mosquitoes
 (as they carry malaria) and ants (will eat your food). Crossing rivers
 without a bridge is considered unsafe- piranhas are abundant.
 
@@ -199,7 +199,7 @@ Tundra, Taiga, Temperate, Semi-Arid, Desert, Savannah, and Jungle
 
 The world is teeming with wildlife. Most of them are pretty tame and
 easy prey, but steer clear of the big game unless you're a skilled
-hunter, otherwise you'll become minced meat yourself\!
+hunter, otherwise you'll become minced meat yourself!
 
 You want to avoid these, unless you're robust or need some pelts:
 - Bears (*can provide fur*)- Wolves (*can provide fur*)- Mammoths- Panthers & Jaguars- Snakes- Piranhas- Mosquitoes- Alligators
@@ -233,7 +233,7 @@ A deadly disease caused by parasites.
 A disease caused by water-borne bacteria.
 - Caught by drinking straight from puddles or water tiles without boiling it first.
 - Cannot be transmitted in any way.
-- Will cause you to convulse and vomit. This will dehydrate you fast\!- Vomiting will also cause you to lower the hunger level.
+- Will cause you to convulse and vomit. This will dehydrate you fast!- Vomiting will also cause you to lower the hunger level.
 - Dehydration will kill you without treatment.
 - Treatment is drinking plenty of water until the disease is gone. Any type of freshwater will do.
 - **TIP**: You can remove the risk of catching cholera by building a well on a puddle. Well water is pure.
@@ -242,7 +242,7 @@ A disease caused by water-borne bacteria.
 
 Just a normal flu.
 - Caught randomly.
-- Easily transmitted from person to person. A single person can contaminate an entire village\!- Will very probably not kill you, but can be an annoyance, causing blurred vision, blackouts, and fever.
+- Easily transmitted from person to person. A single person can contaminate an entire village!- Will very probably not kill you, but can be an annoyance, causing blurred vision, blackouts, and fever.
 - Untreated flu might give you brain damage from high fever.
 - Manageable by eating and drinking until full, and resting (buckling to a bed).
 - Brain damage can be prevented by drinking plenty of tea until the fever subsides.
@@ -258,7 +258,7 @@ You've been covered with lice for days and now you feel sick.
 
 Research is one of the most important aspects of Civilization and
 Nomads. It is with it that your faction can unlock new craftables and
-better equipment\!
+better equipment!
 
 A small faction with advanced research and guns can usually topple the
 big group of unga dunga cavemen armed with bows and arrows.
@@ -268,11 +268,11 @@ There are currently 4 modes of research.
 Research mode is voted at the lobby, before the game begins.
 
 Remember, **you need to create or join a faction to save research
-points**\!
+points**!
 
 ### Classic Research
 
-The original research method\! And the most tedious...
+The original research method! And the most tedious...
 
 Use a **Research Kit** on Scientific Literature, Scientific Rock Slate,
 Scientific Books, or Bookcases.
@@ -284,8 +284,8 @@ literature was, and what is the subject of their writing.
 
 **TIP:** If you are struggling with your own research, progressing
 slowly, it might be a good idea to see if any neighboring factions will
-let you study their bookcases\! Buy, trade, and negotiate access to them
-to boost your research. Or fight them, rob them... Get creative\!
+let you study their bookcases! Buy, trade, and negotiate access to them
+to boost your research. Or fight them, rob them... Get creative!
 (*within the rules*)
 
 ### Auto Research
@@ -304,11 +304,11 @@ In this mode, you create a **Research Bench** with **wood**, place any
 items on it, and select a category to research.
 
 This means that this mode rewards productivity and exploitation of
-natural resources. No slacking off\!
+natural resources. No slacking off!
 
 Different items are worth different amounts.
 
-Experiment\!
+Experiment!
 
 ### No Research
 
@@ -331,7 +331,7 @@ ERP.
 A list of the most important technology that you'll unlock, and at what
 research level.
 This is just a list of major milestones- For the full list of
-craftables (over 700\!) with all the costs and necessary research
+craftables (over 700!) with all the costs and necessary research
 levels, check [Full Crafting List](Full_Crafting_List "wikilink").
 
 #### Industrial
@@ -520,7 +520,7 @@ Shelter can save you from even the toughest of conditions.
 Any roofed area is considered a shelter.
 - **Caves**: There's a reason that stone-age men were called cavemen. Look for entrances in rocks. If it has a roof, it will be darker inside. That means it will keep snow, cold, and rain out. The easiest way of surviving inclement weather. <sub>Make sure that no bears live in the cave, though...</sub>
 
-- **Tunnels / "Mines"**: You can dig into the underground for shelter\! All you need is to use a **shovel** in your active hand. To craft one, you'll need to make a **tool handle** from **wood planks**, and have **bone** available. With the **tool handle** in the off-hand, activate **bone** in the active hand.
+- **Tunnels / "Mines"**: You can dig into the underground for shelter! All you need is to use a **shovel** in your active hand. To craft one, you'll need to make a **tool handle** from **wood planks**, and have **bone** available. With the **tool handle** in the off-hand, activate **bone** in the active hand.
 - **Building a Roof**: Target your inner Bob the Builder and build your own roof. You'll need **wood planks**.
  - Build **walls** or **roof supports** to prop the ceiling up.
  - Build a **roof builder**, hold it, and activate it in hand while facing the tile above which you want to build.

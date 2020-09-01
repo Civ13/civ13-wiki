@@ -3,7 +3,7 @@
 ### General Etiquette:
 
   - This server is medium/high-roleplay server, good communication
-    skills are necessary\!
+    skills are necessary!
   - Speak proper lingo for the current epoch of your team/the server
     (Don’t be using net speak in any era other than modern, no caveman
     or gladiator ran around saying LOL.)
@@ -45,7 +45,7 @@
     on others.)
   - Bypassing language barriers (Such as using LOOC, or typing on paper.
     You should use emote verbs and you can do “drawings” on paper (EX:
-    writing \*A drawing of two stick figures crossing spears\*))
+    writing *A drawing of two stick figures crossing spears*))
   - Killing yourself to play a different culture/race, if you don't
     wanna play that race you can kill yourself and stay dead the rest of
     the round, otherwise play with what you're given. In TDM, if you
@@ -92,28 +92,28 @@ something like this:
 
 #### Good Escalation:
 
-Person 1: “You there\! I like your backpack\! You should hand it over\!”
+Person 1: “You there! I like your backpack! You should hand it over!”
 
-Person 2: “What? No\! This is my backpack, go get your own\!"
+Person 2: “What? No! This is my backpack, go get your own!"
 
-Person 1: “I said give me that backpack\! Do it or else you’re going to
-get hurt\!”
+Person 1: “I said give me that backpack! Do it or else you’re going to
+get hurt!”
 
-Person 1 draws out a weapon\!
+Person 1 draws out a weapon!
 
-Person 2: “Was that a threat? I will never yield to you\!”
+Person 2: “Was that a threat? I will never yield to you!”
 
-Person 2 draws out a weapon\!
+Person 2 draws out a weapon!
 
-Person 1: “So be it\! That backpack is mine\!”
+Person 1: “So be it! That backpack is mine!”
 
 *Combat Begins*
 
 #### Bad Escalation:
 
-Person 1: “Give me your backpack\!”
+Person 1: “Give me your backpack!”
 
-Person 2: “No\!”
+Person 2: “No!”
 
 *Combat Begins*
 
@@ -126,7 +126,7 @@ be attacked.**
 
 If you don't share a mutual language, you still need to properly
 escalate and convey your intent. Rather than screaming and tryng to push
-them down and punch them like a monkey with no brain, try using \*me and
+them down and punch them like a monkey with no brain, try using *me and
 describing things. Like if you wanted someone to leave, "Points to
 (person you want to leave) and points away from the settlement with an
 angry expression and hand by his sword". Theres better ways to
@@ -144,8 +144,8 @@ to. When in any doubt, the faction leader should contact an admin
 beforehand.
 Wars should always have advance warning for the defending side like any
 escalation, and all wars must have a chance for the other side to back
-down (EX: “We want your oil wells\! Allow us to take this town and
-leave, or else you must die\!”)
+down (EX: “We want your oil wells! Allow us to take this town and
+leave, or else you must die!”)
 
 ### Non-Nomads Maps:
 
@@ -181,7 +181,7 @@ fighting, not civilians or shopkeepers.
     snipers can shoot, but should aim to wound, not kill.
   - You must value your life, admins will often be disabling respawn to
     make it so. Act like you actually would to your wounds and
-    situation. Don't lose and arm and state "Tis but a scratch\!"
+    situation. Don't lose and arm and state "Tis but a scratch!"
 
 ## TDM Server:
 

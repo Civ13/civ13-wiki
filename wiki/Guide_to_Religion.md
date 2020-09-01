@@ -5,7 +5,7 @@ Religions in Civilization 13 are custom-made, and as a founder you can
 choose its symbol, colors, focus, clergy organization and so on. First,
 you will need to maximize the philosophy skill. You can do it by either
 reading books by other people or writing them. Only with **2.5
-philosophy** will you be able to create a new religion\! Then, click on
+philosophy** will you be able to create a new religion! Then, click on
 **Create Religion** under the **Faction** tab.
 
 ## Customization
@@ -104,7 +104,7 @@ The religion's holy book is the main means of converting outsiders. Holy
 Books can only be written by the founder (except in the case of Clerical
 religions). These books can be copied using printing presses (or, in the
 case of Monk religions, by hand), but be aware that if all the books are
-lost, you might not be able to expand the religion further\!
+lost, you might not be able to expand the religion further!
 
 ### Totems and Monuments
 

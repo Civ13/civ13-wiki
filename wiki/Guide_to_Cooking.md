@@ -23,7 +23,7 @@ any item into a Burned Mess.
   - Put some fuel inside, if needed (wood or coal).
   - Place food (or container filled with water to boil).
   - Wait for it to finish cooking/boiling.
-  - Eat\!
+  - Eat!
 
 ## Cooking Pot
 
@@ -32,7 +32,7 @@ is that you can get rid of thirstiness and hunger at the same time, so
 long as you don't cook with salty water or dried meat, as those will
 contain salt, and dehydrate you. Another benefit is the fact that
 cooking pot will never go stale or decompose, allowing you to store food
-indefinitely\! NOTE: Filled wooden bowls will become stale and
+indefinitely! NOTE: Filled wooden bowls will become stale and
 decomposed if not eaten.
 
 ## Fridge
@@ -42,8 +42,8 @@ fridge needs to be powered to keep the food inside it safe to eat
 
 ## Ingredients
 
-All great dishes require ingredients\! Here you will find the
-ingredients needed to make your fantastic dishes, uma delicia\!
+All great dishes require ingredients! Here you will find the
+ingredients needed to make your fantastic dishes, uma delicia!
 
 <table class="sortable">
 <thead>
@@ -107,7 +107,7 @@ ingredients needed to make your fantastic dishes, uma delicia\!
 ## Food recipes
 
 There are many different recipes to be made that can perfect your
-culinary art\!
+culinary art!
 
 <table class="sortable">
 <thead>

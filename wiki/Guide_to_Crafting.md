@@ -2,7 +2,7 @@
 <strong><em>"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."</em></strong><br />
 Thomas Tredgold
 Have you ever thought of dedicating your life to something meaningful?
-Well, you have found the guide to it\! Once you familiarize yourself
+Well, you have found the guide to it! Once you familiarize yourself
 with these notes on crafting, you will have learned enough to become a
 true artisan, a person who is instrumental in lifting your Civilization
 from the primitive ways of loincloths, caves and wooden clubs to the
@@ -38,7 +38,7 @@ machinery and vehicles.
 This will bring up the crafting menu for a given material - a list of
 recipes for the items that can be made with this material at the present
 moment. **Many recipes require a certain research level, otherwise they
-will not be available\!** Check the **[Full Crafting List](Full_Crafting_List "wikilink")** for an item's research requirements. If you belong to a faction, you can see the current
+will not be available!** Check the **[Full Crafting List](Full_Crafting_List "wikilink")** for an item's research requirements. If you belong to a faction, you can see the current
 research levels on the Character tab. If you are not a part of a
 faction, checking the current epoch on the Status tab will give you a
 general idea about the available recipes.
@@ -176,7 +176,7 @@ As you look upon the sunny fields, bordered by a lush green forest, or
 upon the scorched desert dunes and steep snow-capped mountains, a warm
 feeling comes over you - you cannot help but wonder at the abundance of
 so many resources ripe for the taking, processing and exploiting. Ah,
-sweet industry\!
+sweet industry!
 
 If there are any recipes associated with a given material, the material
 name has a link - click it to see the recipes list in the **[Full Crafting List](Full_Crafting_List "wikilink")**. If there is no such
@@ -303,7 +303,7 @@ build barricades and walls. Refer to the
 ### Ores
 
 The riches that have been accumulating for eons, concealed by mass of
-rock. Time to hollow out the earth and put them to good use\!
+rock. Time to hollow out the earth and put them to good use!
 
 **Smelting**
 Some ores must be processed before crafting, which is done by smelting
@@ -346,13 +346,13 @@ holding a hammer in the other hand.
 
 **Additional information**
 
-  - **Uranium is radioactive\!** It will slowly irradiate everything in
+  - **Uranium is radioactive!** It will slowly irradiate everything in
     the vicinity if left out in the open.
   - The ore yielded from excavation is purely random; some ores appear
     noticeably rarer than others. Among the rarest ores are diamonds,
     coal, saltpeter, sulfur and uranium. Lead, mercury and platinum are
     also somewhat uncommon.
-  - Ores marked with (\*) could be found only in the undergrounds of
+  - Ores marked with (*) could be found only in the undergrounds of
     certain biomes:
 
 <!-- end list -->
@@ -383,7 +383,7 @@ holding a hammer in the other hand.
 </table>
 
 Now about that nuance, which has to do with how supports work. **Stay
-within two tiles of a nearest mining support to avoid a cave-in\!** Look
+within two tiles of a nearest mining support to avoid a cave-in!** Look
 at the picture - the lantern on the ground marks the maximum safe
 distance at which you can stand and mine everything in your reach. Even
 though supports technically hold 3 tiles of the ceiling, if you stand on
@@ -411,13 +411,13 @@ rock walls appears darkened compared to the outside, it means the darker
 area is considered a cave and you need to place supports there to
 prevent cave-ins, just like underground.
 
-And do not forget the ore collector\!
+And do not forget the ore collector!
 
 ### Petroleum
 
 There is nothing like burning some dead, millons of years old
 microorganisms for your own comfort or processing them for shiny
-plastics, so let's start drilling\!
+plastics, so let's start drilling!
 
 <table>
 <tbody>
@@ -471,7 +471,7 @@ either wood, tree branches, mineral coal or charcoal.
 
 **Pay attention when adding fuel to your fires, so as not to
 accidentally feed it a whole stack of 50 pieces of coal (unless that is
-your intent, of course)\! Fuel cannot be retrieved\!** Shift-Click the
+your intent, of course)! Fuel cannot be retrieved!** Shift-Click the
 stack to examine the quantity, then separate the stack by holding it in
 the non-active hand and clicking it with the active empty hand.
 
@@ -909,7 +909,7 @@ It is truly a marvel, that from this dusty dirt under our feet, these
 heaps of rugged stones and those chaotically growing trees could spring
 such smooth, even walls in all their rectangular glory. A natural
 landscape is a wild beast that needs to be reined in, and reined in it
-will be\!
+will be!
 
 There are a few key elements in the area of construction that you could
 combine and rearrange as you see fit to raise buildings, lay roads and
@@ -919,7 +919,7 @@ barricades along with fences. There are also somewhat distinct
 categories of fortifications and lighting.
 
 **Mind that the orientation of some constructions depends on the
-direction your character is facing\!** For example, some walls are built
+direction your character is facing!** For example, some walls are built
 vertically if you are facing North or South, or horizontally, if you are
 facing East or West. Some wall types also have separate corner elements
 for better appearance. All of this is marked in the description of a
@@ -974,7 +974,7 @@ Any kind of wood walls could be set on fire by hitting them with a
 torch. A wall will burn down in a few minutes, destroying the roof tiles
 supported by the wall as well (more in the
 **[Roofs](#Roofs "wikilink")** section). **Remove the grass and the wood
-floor around the wall if you are going to burn it\!** Otherwise the fire
+floor around the wall if you are going to burn it!** Otherwise the fire
 will very likely spread from the burning wall.
 
 Another way is simple brute force - hit a wall with melee weapons, and
@@ -1929,7 +1929,7 @@ Roofs provide shelter from bad weather, e.g. rains, blizzards and
 sandstorms, as well as a nice cool shade.
 
 Roofs are supported by walls, wooden roof supports and stone pillars and
-columns. **Mine supports do not hold the buildable roof\!**
+columns. **Mine supports do not hold the buildable roof!**
 
 <table>
 <tbody>
@@ -1997,7 +1997,7 @@ the roof. An additional "Turf" tab will appear in the upper right corner
 - click the roof there with the hammer in the active hand.
 
 **If roof supports are removed with the roof still present, the roof
-will collapse\! Collapsing roof may severely injure and even kill those
+will collapse! Collapsing roof may severely injure and even kill those
 in the roofed area, or even standing next to it.**
 
 <table>
@@ -2086,8 +2086,8 @@ in the roofed area, or even standing next to it.**
 
 <hr>
 
-No more sloshing or plodding through the mud and snow\! Walk the
-civilized way, swiftly and with resonant "top-top" footfalls\! Not only
+No more sloshing or plodding through the mud and snow! Walk the
+civilized way, swiftly and with resonant "top-top" footfalls! Not only
 that - floors on the surface prevent digging upwards from the
 underground. Floors can be removed with the hammer.
 
@@ -3076,7 +3076,7 @@ Made with 18 steel sheets. Used to produce [Plastic](Full_Crafting_List#plastic 
 
 ### Wiring
 
-The wonderful world of wires\!
+The wonderful world of wires!
 
 Once you have a roaring power generator, it is time for electricity to
 spring forth and animate the silent apparatus, to spread across the
@@ -3098,14 +3098,14 @@ electrical cables.
   -
     2\. Lay the cable on the ground by clicking it in your active hand,
     pressing Ctrl-Z or Z in the hotkeys mode.
-    :\* **The cable is placed horizontally when you are facing West or
+    :* **The cable is placed horizontally when you are facing West or
     East, and vertically, if facing North or South. Cables that cross on
     a single tile are automatically connected upon placement.**
-    :\* If you are placing cables over some kind of floor, the cables
+    :* If you are placing cables over some kind of floor, the cables
     are automatically placed under the floor tiles and concealed from
     view. You can make them visible by right-clicking the floor tile and
     selecting the "Under/over covers" command for the cable.
-    :\* You can cut and remove cables with the knife.
+    :* You can cut and remove cables with the knife.
 
 <!-- end list -->
 
@@ -3119,7 +3119,7 @@ electrical cables.
 <!-- end list -->
 
   -
-    4\. Fire up the generator\! Should a new piece of machinery be
+    4\. Fire up the generator! Should a new piece of machinery be
     connected to the existing network, the generator must be restarted
     to power the new element.
 
@@ -3209,7 +3209,7 @@ settling disputes and establishing accord on all fronts.
 Tank driving is covered in the **[Guide to Tanks](Guide_to_Tanks "wikilink")**.
 
 **Limitations**
-\* The maximum size of a tank is 5x5 tiles. Larger ones will not
+* The maximum size of a tank is 5x5 tiles. Larger ones will not
 function properly due to technical reasons.
 
   - A tank has to be of rectangular shape.
@@ -3260,5 +3260,5 @@ wrench to avoid pushing them on accident, but it is not necessary.**
 8.  ... and the exterior.
 
 **Repairs**
-\* Broken tank tracks could be repaired with the welding tool (made with
+* Broken tank tracks could be repaired with the welding tool (made with
 steel.)

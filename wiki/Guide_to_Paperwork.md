@@ -1,12 +1,12 @@
 # Guide to Paperwork
-Writing is an integral part to paperwork and writing books\! If you want
+Writing is an integral part to paperwork and writing books! If you want
 to write an official department memo, or a good looking book, you're
 gonna have to know how to write it.
 
 To properly understand this, you need a basic grasp of BBCode or HTML.
 This code is based on Bay12 code, so if you know it, it's going to be
 easy. But don't worry, even if you don't know either, just try copy
-pasting the examples and replacing the text with your own\! Once you're
+pasting the examples and replacing the text with your own! Once you're
 comfortable with that, try experimenting with what works together and
 how.
 
@@ -16,7 +16,7 @@ Writing is performed on paper using any standard writing utensil.
 
   - **Pens** come in a few different colours, black or blue by default,
     and some departments are provided with red pens. Pens have a variety
-    of functions\!
+    of functions!
   - **Crayons** work much like pens, except that they are always bold,
     and lack the list, horizontal rule, and small tags.
 
@@ -74,7 +74,7 @@ To center text, enclose it with the \[center\] and \[/center\] tags.
 ### Lists
 
 Create a list by using the \[list\] and \[/list\] tags. For every entry
-in your list, add a \[\*\] in front of your entry. For example;
+in your list, add a \[*\] in front of your entry. For example;
 
 `[list][*]Bullet one.[*]Bullet two.[/list]`
 

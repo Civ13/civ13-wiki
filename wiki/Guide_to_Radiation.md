@@ -30,8 +30,7 @@ Weather also plays a role, some weather conditions (like rain and
 storms) will increase the radiation being absorbed.
 
 All clothes give minimal radiation protection to the body parts covered.
-However, the most effective means of protection (although not fail proof
-- efficiency around 80%) are NBC suits. Gas masks are not specifically
+However, the most effective means of protection (although not fail proof; efficiency around 80%) are NBC suits. Gas masks are not specifically
 protective, but will help.
 
 It is important that you shower or remove the cloths worn used outside

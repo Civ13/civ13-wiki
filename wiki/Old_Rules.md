@@ -137,7 +137,7 @@ and murdering people for the smallest things.
     Instead of "ok", say something that will warn them combat may ensue,
     such as "you have committed crimes against Dai Nam and her people,
     what say you in your defense?" and then they'll likely say "I'd
-    sooner die\!" and the fight begins or you/they make the first move.
+    sooner die!" and the fight begins or you/they make the first move.
     The only times escalation is void is in 1. An Admin announced war.
     or 2. When someone is told to stop, but runs away not allowing the
     escalation to take place, thus making it void.
@@ -163,7 +163,7 @@ and murdering people for the smallest things.
 7.  ) You cannot use a famous name that most are likely to know (eg.
     Adolf Hitler, Josef Stalin, Ben Shapiro etc.)
 8.  ) Act realistically to your wounds, meaning you can't lose an arm
-    and say "Tis but a scratch\!" and rambo whatever your against.
+    and say "Tis but a scratch!" and rambo whatever your against.
 9.  ) Things that are realistically IC handled and easily handled,
     should be handled ICly. Such as a thief, a murderer with a good IC
     reason, or even corrupt government officials.

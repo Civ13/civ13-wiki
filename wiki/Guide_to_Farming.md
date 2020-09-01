@@ -7,7 +7,7 @@ power.
 
 To farm, you will require some basic tools.
 
-<table class="sortable">
+<table>
 <thead>
 <tr class="header">
 <th><p>Item</p></th>
@@ -68,7 +68,7 @@ To farm, you will require some basic tools.
 
 Just plough a plot of land, surround said plot of land with trenches
 filled with fresh water or plough near a river, put some seeds in the
-ground and watch them grow\! Well, it is a bit more nuanced.
+ground and watch them grow! Well, it is a bit more nuanced.
 
 ### Watering
 
@@ -111,7 +111,7 @@ Be aware that blizzards will freeze the plants and kill them. A
 heatwave, as noted in the Watering section, will cause the crops to
 consume more water than usual. Sandstorms will also destroy the plants.
 You can try to cover them during the winter with tents, however, be sure
-to remove them in spring or they won't keep growing\!
+to remove them in spring or they won't keep growing!
 
 ### Skill
 
@@ -135,18 +135,18 @@ Desert, Savanna and Jungles biomes.
 <table class="sortable">
 <thead>
 <tr>
-<th>Crop</th>
-<th style="text-align:center">Tundra</th>
-<th style="text-align:center">Taiga</th>
-<th style="text-align:center">Temperate</th>
-<th style="text-align:center">Sea</th>
-<th style="text-align:center">Semi-Arid</th>
-<th style="text-align:center">Desert</th>
-<th style="text-align:center">Savanna</th>
-<th style="text-align:center">Jungle</th>
-<th>Season</th>
-<th style="text-align:center">Max Water Level</th>
-<th>Description</th>
+<th style="background-color=#cc7000;">Crop</th>
+<th style="background-color=#cc7000;text-align:center">Tundra</th>
+<th style="background-color=#cc7000;text-align:center">Taiga</th>
+<th style="background-color=#cc7000;text-align:center">Temperate</th>
+<th style="background-color=#cc7000;text-align:center">Sea</th>
+<th style="background-color=#cc7000;text-align:center">Semi-Arid</th>
+<th style="background-color=#cc7000;text-align:center">Desert</th>
+<th style="background-color=#cc7000;text-align:center">Savanna</th>
+<th style="background-color=#cc7000;text-align:center">Jungle</th>
+<th style="background-color=#cc7000;">Season</th>
+<th style="background-color=#cc7000;text-align:center">Max Water Level</th>
+<th style="background-color=#cc7000;">Description</th>
 </tr>
 </thead>
 <tbody>

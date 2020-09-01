@@ -7,11 +7,11 @@ relying on you to act fast.
 
 ## First-Aid
 
-• The first thing you need to do is drag them (quickly hold CTRL then
+- The first thing you need to do is drag them (quickly hold CTRL then
 click, or right-click then select Pull) away from wildlife or people
 chasing/shooting them before they get finished off.
 
-• SHIFT+click or right-click Examine at the person to look more closely
+- SHIFT+click or right-click Examine at the person to look more closely
 at them, you might see where the bleeding is, but you should ask them as
 well as they can tell you about anything that is covered up (if they
 don't know how you can use
@@ -20,7 +20,7 @@ they need to click on their face icon on the right side of the screen).
 If you have a doctor's handbook you can use that on them to get fastest
 details for triage.
 
-• Bandage or trauma-kit any bleeding as top priority, and get them
+- Bandage or trauma-kit any bleeding as top priority, and get them
 buckled to a bed which will also help them stabilize. Don't take them
 any further than the closest bed unless you have to, and tell them to
 stay buckled to the bed and not try walking/crawling as moving around
@@ -29,7 +29,7 @@ too, but do not stuff them full of dried meat as the salt in it can
 overdose and do more damage to an already near-death person, so fresh
 food is better.
 
-• After main bleeds are stopped, the most injured body parts might also
+- After main bleeds are stopped, the most injured body parts might also
 have internal bleeding, which is important to fix as soon as you can,
 but you should not operate while they are "incredibly wounded" when you
 SHIFT+click or right-click Examine at them and let bed rest and food
@@ -40,13 +40,15 @@ depending on how close to death you might need to stop operating,
 cauterise the opened (bleeding) wound and then bandage any bleeding you
 caused.
 
-• If doctor's handbooks haven't been invented yet you're going to need
+- If doctor's handbooks haven't been invented yet you're going to need
 to open this person up and check inside each body part (at bottom-right)
 that was bleeding with your bare hands like a true blood-covered
 witch-doctor/chiurgeon. Anyone can use [proper tools that get invented
 later](#Surgery "wikilink"), but in dire situations if your character
 has had some previous experience in medicine (*Character tab at the
-top-right, Medical [skill](skill "wikilink") - you can advance with
+top-right, Medical [skill](Skills "wikilink")
+
+- You can advance with
 practice or reading scientific stone slates/papyrus/books*) you will be
 able to fix internal bleeding with a simple knife to open an incision,
 hemp rope to clamp, wood handle to retract the skin, hemp rope again to
@@ -64,7 +66,7 @@ help with blurry eyes. You can RP this in ancient times as healing
 salves and ointments being applied, some of which might have been later
 forgotten by history.
 
-• Now you have a person that will stay alive as long as they don't move.
+- Now you have a person that will stay alive as long as they don't move.
 The next step is to check for any broken parts missed, as when someone
 moves with broken bones it will do them damage unless it is Splinted
 (which is only a temporary fix). Moving with broken skulls leads to
@@ -72,7 +74,7 @@ blindness, brain damage and pain paralysis that will lead to eventual
 death from starvation/thirst, cold snow or rain, hot sandstorms or other
 hazards.
 
-• In the absence of a doctor's handbook, to check body parts for broken
+- In the absence of a doctor's handbook, to check body parts for broken
 bones click the yellow button at the bottom-right to go into Grab mode,
 click them, then double-click the Grab icon that appears in your hands
 in the bottom-middle of the screen to double it up and turn it into an
@@ -104,7 +106,7 @@ stabilize the victim until surgery.
 #### Stimulants, pain relievers and cleansing agents.
 
 **Tea:** Tea heals toxins and helps fight drowsiness and
-hallucinations\! Cure for flu.
+hallucinations! Cure for flu.
 
 **Charcoal:** Charcoal heals toxins very effectively, slight anti-rad,
 but does not help with drowsiness and hallucinations.
@@ -114,7 +116,7 @@ tea, can end up weakening the patient.
 
 **Coal:** Removes any chemical in the blood
 
-**Coffee:** Will give you that extra caffeine and increase your speed\!
+**Coffee:** Will give you that extra caffeine and increase your speed!
 
 **Cocaine:** A powerful stimulant. Very addictive. 2 times worse
 painkiller than opium.
@@ -128,7 +130,7 @@ communicating with gods
 **Iron:** Helps replenish blood
 
 **Alcohol:** Used as a painkiller when there's no opium around. This
-includes beer, ale, and rum. Also makes for a great party drink\!
+includes beer, ale, and rum. Also makes for a great party drink!
 
 **Opium:** Made from poppies and used as an extreme painkiller. Helps a
 lot when patients are mostly suffering from pain.
@@ -155,21 +157,27 @@ Without proper care, individuals may end up ill or even worse.
 If you are a medical professional or just a beginner you may wish to
 learn how to keep people from ending up sick and useless.
 
-  - **Salt overdose**: Extreme dehydration from drinking sea-water (even
-    boiled) or eating too much dried meat - you might be able to save
+  
+- **Salt overdose**: Extreme dehydration from drinking sea-water (even
+    boiled) or eating too much dried meat 
+- you might be able to save
     them by feeding them with a lot of water, and if you have tea that
     will help too.
-  - **Cholera**: Extreme dehydration and vomiting from drinking puddle/
+  
+- **Cholera**: Extreme dehydration and vomiting from drinking puddle/
     river water (or a Well with fecies near it) that hasn't had the
     germs cooked out of it. Give them lots of clean water and cooked
     food.
-  - **Food poisoning**: Cooked food, clean water and healing tea.
-  - **Flu:** Causes victims to suffer from weakness or even fever,
+  
+- **Food poisoning**: Cooked food, clean water and healing tea.
+  
+- **Flu:** Causes victims to suffer from weakness or even fever,
     fevers will worsen depending on certain factors, weather and
     fullness. The flu can be cured, it can also cause people to become
     immune to it if they are sick enough. (Caused by standing out in
     rain or in the cold for too long)
-  - **Plague:** Take Infected individuals away from large groups, burn
+  
+- **Plague:** Take Infected individuals away from large groups, burn
     Infected Corpses and burry them far away.
 
 ## Surgery
@@ -178,39 +186,62 @@ Besides the usual instruments (Scalpel, Hemostat, Retractor, Bone
 Setter, Bone Saw, Cautery) there are some improvised alternatives,
 although they are not as effective...
 
-**Scalpel** - Knife, Bone Knife, Glass Shard
+**Scalpel** 
+- Knife, Bone Knife, Glass Shard
 
-**Hemostat** - Rope. For organ removal, Fork or Bone Knife
+**Hemostat** 
+- Rope. For organ removal, Fork or Bone Knife
 
-**Retractor** - Crowbar, Wood Handle
+**Retractor** 
+- Crowbar, Wood Handle
 
-**Bone Setter** - Wrench, Hammer
+**Bone Setter** 
+- Wrench, Hammer
 
-**Bone Saw** - Hatchet, Bone Knife
+**Bone Saw** 
+- Hatchet, Bone Knife
 
-**Cautery** - Cigar, Torch
+**Cautery** 
+- Cigar, Torch
 
 ### Circumcision
 
-Circumcision Knife - On Naked Individual
+Circumcision Knife 
+- On Naked Individual
 
 ### Internal Bleeding
 
-Scalpel - Retractor - Hemostat - Cautery
+Scalpel 
+- Retractor 
+- Hemostat 
+- Cautery
 
-Rudimentary/emergency: Knife - Wood handle - Hemp rope - Wood torch
+Rudimentary/emergency: Knife 
+- Wood handle 
+- Hemp rope 
+- Wood torch
 
 ### Broken Bones
 
-Scalpel - Retractor - Bone Setter - Cautery
+Scalpel 
+- Retractor 
+- Bone Setter 
+- Cautery
 
-Rudimentary/emergency: Knife - Wood handle - Wood hammer - Wood torch
+Rudimentary/emergency: Knife 
+- Wood handle 
+- Wood hammer 
+- Wood torch
 
 ### Damaged Organs
 
-Scalpel - Bandage/Trauma-Kit(same result) - Cautery
+Scalpel 
+- Bandage/Trauma-Kit(same result) 
+- Cautery
 
-Rudimentary/emergency: Knife - Bandage - Wood torch
+Rudimentary/emergency: Knife 
+- Bandage 
+- Wood torch
 
 ### Amputation
 
@@ -219,15 +250,28 @@ on the head or limbs, for obvious reasons.
 
 ### Shrapnel removal
 
-Scalpel - Bandage/Trauma-Kit - Hemostat - Cautery
+Scalpel 
+- Bandage/Trauma-Kit 
+- Hemostat 
+- Cautery
 
 ### Organ removal
 
-Scalpel - Scalpel - Hemostat - Cautery
+Scalpel 
+- Scalpel 
+- Hemostat 
+- Cautery
 
 ### Tendons
 
-Scalpel - Retractor - Hemostat - Hemostat - Cautery
+Scalpel 
+- Retractor 
+- Hemostat 
+- Hemostat 
+- Cautery
 
-Rudimentary/emergency: Knife - Wood handle - Hemp rope - Hemp rope -
-Wood torch
+Rudimentary/emergency: Knife 
+- Wood handle 
+- Hemp rope 
+- Hemp rope
+- Wood torch

@@ -1,5 +1,6 @@
 # Contributing to the Wiki
 
+**You can check what pages need fixing/content on the [github Issues section](https://github.com/Civ13/civ13-wiki/issues).**
 Since this wiki is hosted on *github pages* using static Jekyll pages, it works slighly different from a regularly hosted wiki.
 
 However, don't worry! It is simpler than it seems. You do **not** need to download the code (altough you can if you want to edit it locally). Follow the steps below:

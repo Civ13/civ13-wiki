@@ -25,7 +25,7 @@ mechanics.
 
 There are also **Paramedics**. They have a fully furnished hospital and
 ambulances. **Be aware that killing a paramedic will greatly reduce your
-faction's score\!** Both the Police and Paramedics can be reached by
+faction's score!** Both the Police and Paramedics can be reached by
 calling **911**.
 
 ## Companies
@@ -155,7 +155,7 @@ desktop.
 ### Vehicles
 
 Vehicles can be bought at the **car dealership** in the center. Be aware
-that driving cars stolen from other companies will get you a warrant\!
+that driving cars stolen from other companies will get you a warrant!
 
 ### Guns
 
@@ -262,7 +262,7 @@ reduce the score. Money must be stored in the safe. To see how the disk
 conversion to money works, check [The Art of the
 Deal\#Disks](The_Art_of_the_Deal#Disks "wikilink"). Attacking Police
 Officers *should be avoided at all costs*, as it will reduce the
-company's points and give the police reason to search the HQ\!
+company's points and give the police reason to search the HQ!
 
 **Score Values:**
 
