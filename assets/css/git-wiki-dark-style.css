@@ -164,9 +164,11 @@ h3 {
 }
 
 h1 {
-  font-size: 28px;
+  font-size: 30px;
 }
-
+h2 {
+  font-size: 27px;
+}
 h3,
 h4,
 h5,
@@ -607,7 +609,7 @@ screen and (max-width: 480px) {
 ol {
   display: block;
   list-style-type: decimal;
-  margin-block-start: 1em;
+  margin-block-start: 0px;
   margin-block-end: 1em;
   margin-inline-start: 0px;
   margin-inline-end: 0px;
