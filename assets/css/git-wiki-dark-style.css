@@ -1,4 +1,3 @@
-@import "fonts.css";
 @import "rouge-github.css";
 @import "w3.css";
 :root {
@@ -173,7 +172,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #888888;
+  color: #AAAAAA;
 }
 
 a {
@@ -667,4 +666,8 @@ ol {
   font-size:1rem;
   float: right;
   margin-top: 10px;
+}
+
+.highlight {
+  background-color: #000;
 }
