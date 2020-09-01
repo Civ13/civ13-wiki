@@ -765,7 +765,7 @@ telling you where to aim while you control the artillery.
 
 ![image](https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/BjuQU61.png)
 
-<hr>
+
 
   - The sway is the "deviation" or just sway, that the shell will be
     affected by. If you fire from coordinates that aren't exactly
@@ -774,7 +774,7 @@ telling you where to aim while you control the artillery.
 
 ![image](https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/uSxJ8hu.png)
 
-<hr>
+
 
   - You will need to load a shell before firing, you can clearly see if
     there's one by checking the panel.
