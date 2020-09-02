@@ -26,4 +26,4 @@ it's a **modular and fully featured wiki** powered by [git-wiki-theme](https://g
 
 Instructions and full documentation: http://drassil.github.io/git-wiki
 
-
+Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](https://www.flaticon.com/)

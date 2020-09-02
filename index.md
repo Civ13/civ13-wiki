@@ -21,170 +21,237 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 
 <div style="box-shadow: 0 0 .3em #999; border-radius: .2em; margin: 1em 0 2em 0; padding: 1px;">
 
-<div style="background: #366EA7; border-radius: .2em; color: #FFF; padding: .4em .8em .5em;"><img src="assets/images/frontpage/basic.png" width="23" height="23"> &nbsp; <b>Basic Guides</b></div>
+<div style="background: #366EA7; border-radius: .2em; color: #FFF; padding: .4em .8em .5em;"><img src="assets/images/icons/guides.png" width="23" height="23"> &nbsp; <b>Guides</b></div>
 
-<div style="padding: 1em;"><div style="width: 100%;align-content:center"><ul>
-<li style="display: inline-block;"> <a href="/New_Player_Guide" title="How to Play"><img src="assets/images/frontpage/new_player.png" width="100" height="100" ></a><br><a href="/New_Player_Guide" title="How to Play">How to Play</a> </li>
+<div style="padding: 1em;"><div style="width: 100%;align-content:center">
+<li style="display: inline-block;text-align:center"> <a href="New_Player_Guide" title="How to Play"><img src="assets/images/icons/computer.png" width="100" height="100" ></a><br><a href="New_Player_Guide" title="How to Play">How to Play</a> </li>
 
-<li style="display: inline-block;"> <a href="/Starter_Guide" title="Starter Guide"><img src="assets/images/frontpage/starter.png" width="100" height="100" ></a><br><a href="/Starter_Guide" title="Starter Guide">Starter Guide</a> </li>
+<li style="display: inline-block;text-align:center"> <a href="Starter_Guide" title="Starter Guide"><img src="assets/images/icons/student.png" width="100" height="100" ></a><br><a href="Starter_Guide" title="Starter Guide">Starter Guide</a> </li>
 
-</ul></div></div></div>
+<li style="display: inline-block;text-align:center"> <a href="Civilizations_and_Nomads" title="Civilizations and Nomads"><img src="assets/images/icons/conference.png" width="100" height="100" ></a><br><a href="Civilizations_and_Nomads" title="Civilizations and Nomads">Nomads</a> </li>
 
+<li style="display: inline-block;text-align:center"> <a href="Guide_to_Crafting" title="Crafting"><img src="assets/images/icons/crafting.png" width="100" height="100" ></a><br><a href="Guide_to_Crafting" title="Guide to Crafting">Crafting</a> </li>
 
-<div style="box-shadow: 0 0 .3em #999; border-radius: .2em; margin: 1em 0 2em 0; padding: 1px;">
-<div style="background: #962424; border-radius: .2em; color: #FFF; padding: .4em .8em .5em;"><img src="assets/images/frontpage/advanced.png" width="23" height="23" > &nbsp; <b>Mechanics and Advanced Guides</b></div>
-<div style="padding: 1em;"><div style="overflow:auto;">
-<div style="margin:1em auto 1em auto; width:100%;">
-<table style="width: 100%; |">
-<tbody><tr>
-<th><img src="/images/thumb/a/a9/Icon_guide.png/64px-Icon_guide.png" width="64" height="64" >
-</th>
-<th><img src="/images/thumb/e/e6/Icon_law.png/64px-Icon_law.png" width="64" height="64" >
-</th>
-<th><img src="/images/thumb/1/18/Dept_med.png/64px-Dept_med.png" width="64" height="64" >
-</th>
-<th><img src="/images/thumb/2/2e/Dept_eng.png/64px-Dept_eng.png" width="64" height="64" >
-</th>
-<th><img src="/images/thumb/7/78/Icon_sci2.png/64px-Icon_sci2.png" width="64" height="64" >
-</th></tr>
-<tr style="text-align: center;">
-<th>General Guides
-</th>
-<th>Regulations and Laws
-</th>
-<th>Medical Guides
-</th>
-<th>Engineering Guides
-</th>
-<th>Research Guides
-</th></tr>
-<tr>
-<td style="vertical-align: top;">
-<ul><li><a href="/Guide_for_New_Players" title="Guide for New Players">Guide for New Players</a></li>
+<li style="display: inline-block;text-align:center"> <a href="Guide_to_Construction" title="Construction"><img src="assets/images/icons/architecture.png" width="100" height="100" ></a><br><a href="Guide_to_Construction" title="Guide to Construction">Construction</a> </li>
 
-<li><a href="/Combat" title="Combat">Combat</a></li>
+<li style="display: inline-block;text-align:center"> <a href="Guide_to_Farming" title="Guide to Farming"><img src="assets/images/icons/farming.png" width="100" height="100" ></a><br><a href="Guide_to_Farming" title="Guide to Farming">Farming</a> </li>
 
-<li><a href="/Example_Paperwork" title="Example Paperwork">Example Paperwork</a></li>
+<li style="display: inline-block;text-align:center"> <a href="Guide_to_Ranching" title="Ranching"><img src="assets/images/icons/ranching.png" width="100" height="100" ></a><br><a href="Guide_to_Ranching" title="Guide to Ranching">Ranching</a> </li>
 
-<li><a href="/Guide_to_Paperwork" title="Guide to Paperwork">Guide to Paperwork</a></li>
+<li style="display: inline-block;text-align:center"> <a href="Guide_to_Religion" title="Religion"><img src="assets/images/icons/religion.png" width="100" height="100" ></a><br><a href="Guide_to_Religion" title="Guide to Religion">Religion</a> </li>
 
-<li><a href="/Records" title="Records">Records</a></li>
+<li style="display: inline-block;text-align:center"> <a href="Guide_to_Cooking" title="Cooking"><img src="assets/images/icons/cooking.png" width="100" height="100" ></a><br><a href="Guide_to_Cooking" title="Guide to Cooking">Cooking</a> </li>
 
-<li><a href="/Skills" title="Skills">Skills</a></li>
+<li style="display: inline-block;text-align:center"> <a href="Guide_to_Chemistry" title="Chemistry"><img src="assets/images/icons/chemistry.png" width="100" height="100" ></a><br><a href="Guide_to_Chemistry" title="Guide to Chemistry">Chemistry</a> </li>
 
-<li><a href="/Starter_Guide_to_Admin_Tools" title="Starter Guide to Admin Tools">Starter Guide to Admin Tools</a></li>
-</ul>
-</td>
-<td style="vertical-align: top;">
-<ul><li><a href="/How_To_Sol_Gov_Guide" title="How To Sol Gov Guide">How To Sol Gov Guide</a></li>
+<li style="display: inline-block;text-align:center"> <a href="Guide_to_Hygiene_and_Mood" title="Hygiene and Mood"><img src="assets/images/icons/hygiene.png" width="100" height="100" ></a><br><a href="Guide_to_Hygiene_and_Mood" title="Guide to Hygiene and Mood">Hygiene</a> </li>
 
-<li><a href="/Alert_Procedure" title="Alert Procedure">Alert Procedure</a></li>
+<li style="display: inline-block;text-align:center"> <a href="Guide_to_Races" title="Races"><img src="assets/images/icons/animal.png" width="100" height="100" ></a><br><a href="Guide_to_Races" title="Guide to Races">Races</a> </li>
 
-<li><a href="/Corporate_Regulations" title="Corporate Regulations">Corporate Regulations</a></li>
+<li style="display: inline-block;text-align:center"> <a href="Guide_to_Medical" title="Medical"><img src="assets/images/icons/medic.png" width="100" height="100" ></a><br><a href="Guide_to_Medical" title="Guide to Medical">Medical</a> </li>
 
-<li><a href="/General_Regulations" title="General Regulations">General Regulations</a></li>
+<li style="display: inline-block;text-align:center"> <a href="Guide_to_Weapons" title="Weapons"><img src="assets/images/icons/weapons.png" width="100" height="100" ></a><br><a href="Guide_to_Weapons" title="Guide to Weapons">Weapons</a> </li>
 
-<li><a href="/Sol_Central_Government_Law" title="Sol Central Government Law">Sol Central Government Law</a></li>
+<li style="display: inline-block;text-align:center"> <a href="Guide_to_Wiring" title="Wiring"><img src="assets/images/icons/wiring.png" width="100" height="100" ></a><br><a href="Guide_to_Wiring" title="Guide to Wiring">Wiring</a> </li>
 
-<li><a href="/Sol_Code_of_Uniform_Justice" title="Sol Code of Uniform Justice">Sol Code of Uniform Justice</a></li>
+<li style="display: inline-block;text-align:center"> <a href="Guide_to_Communications" title="Communications"><img src="assets/images/icons/talk.png" width="100" height="100" ></a><br><a href="Guide_to_Communications" title="Guide to Communications">Communications</a> </li>
 
-<li><a href="/Standard_Operating_Procedure" title="Standard Operating Procedure">Standard Operating Procedure</a></li>
+<li style="display: inline-block;text-align:center"> <a href="Guide_to_Paperwork" title="Paperwork"><img src="assets/images/icons/renaissance.png" width="100" height="100" ></a><br><a href="Guide_to_Paperwork" title="Guide to Paperwork">Paperwork</a> </li>
 
-<li><a href="/Uniform_Guide" title="Uniform Guide">Uniform Guide</a></li>
-</ul>
-</td>
-<td style="vertical-align: top;">
-<ul><li><a href="/Guide_to_Medicine" title="Guide to Medicine">Guide to Medicine</a></li>
+<li style="display: inline-block;text-align:center"> <a href="Guide_to_Radiation" title="Radiation"><img src="assets/images/icons/nurse.png" width="100" height="100" ></a><br><a href="Guide_to_Radiation" title="Guide to Radiation">Radiation</a> </li>
 
-<li><a href="/Chemistry" title="Chemistry">Chemistry</a></li>
+<li style="display: inline-block;text-align:center"> <a href="Guide_to_Tanks" title="Tanks"><img src="assets/images/icons/driver.png" width="100" height="100" ></a><br><a href="Guide_to_Tanks" title="Guide to Tanks">Tanks</a> </li>
 
-<li><a href="/Surgery" title="Surgery">Surgery</a></li>
-</ul>
-</td>
-<td style="vertical-align: top;">
-<ul><li><a href="/Engineering" title="Engineering">Engineering</a></li>
+<li style="display: inline-block;text-align:center"> <a href="Full_Crafting_List" title="Full Crafting List"><img src="assets/images/icons/modern_architecture.png" width="100" height="100" ></a><br><a href="Full_Crafting_List" title="Full Crafting List">Full Crafting List</a> </li>
 
-<li><a href="/Atmospherics" title="Atmospherics">Atmospherics</a></li>
-
-<li><a href="/EVA" class="mw-redirect" title="EVA">EVA</a></li>
-
-<li><a href="/Guide_to_Construction" title="Guide to Construction">Construction</a></li>
-
-<li><a href="/Hacking" title="Hacking">Hacking</a></li>
-
-<li><a href="/Hardsuit" title="Hardsuit">Hardsuit</a></li>
-
-<li><a href="/Robotics" title="Robotics">Robotics</a></li>
-
-<li><a href="/Solars" title="Solars">Solars</a></li>
-
-<li><a href="/Supermatter_Engine" title="Supermatter Engine">Supermatter Engine</a></li>
-
-<li><a href="/R-UST" title="R-UST">R-UST</a></li>
-
-<li><a href="/Guide_to_Computing" title="Guide to Computing">NTNet and Computing</a></li>
-</ul>
-</td>
-<td style="vertical-align: top;">
-<ul><li><a href="/Research_%26_Development" title="Research &amp; Development">Research &amp; Development</a></li>
-
-<li><a href="/Destructive_Analyzer" title="Destructive Analyzer">Destructive Analyzer</a></li>
-
-<li><a href="/Guide_to_Anomalies" title="Guide to Anomalies">Guide to Anomalies</a></li>
-
-<li><a href="/Mining" title="Mining">Mining</a></li>
-
-<li><a href="/Xenoarcheology" title="Xenoarcheology">Xenoarcheology</a></li>
-
-<li><a href="/Guide_to_Xenobiology" title="Guide to Xenobiology">Xenobiology</a></li>
-
-<li><a href="/Xenobotany" title="Xenobotany">Xenobotany</a></li>
-</ul>
-</td></tr></tbody></table>
-</div>
+<li style="display: inline-block;text-align:center"> <a href="Rules" title="Rules"><img src="assets/images/icons/police.png" width="100" height="100" ></a><br><a href="Rules" title="Rules">Rules</a> </li>
 </div></div></div>
 
 
-[Rules](Rules "wikilink")
+<div style="box-shadow: 0 0 .3em #999; border-radius: .2em; margin: 1em 0 2em 0; padding: 1px;">
+<div style="background: #962424; border-radius: .2em; color: #FFF; padding: .4em .8em .5em;"><img src="assets/images/icons/maps.png" width="23" height="23" > &nbsp; <b>Maps</b></div>
+<div style="padding: 1em;"><div style="overflow:auto;">
+<div style="margin:1em auto 1em auto; width:100%;">
+<table style="width: 100%; align-content:center;">
+<tbody><tr>
+<th><img src="assets/images/icons/building.png" width="64" height="64" >
+</th>
+<th><img src="assets/images/icons/classical_architecture.png" width="64" height="64" >
+</th>
+<th><img src="assets/images/icons/viking.png" width="64" height="64" >
+</th>
+<th><img src="assets/images/icons/pirate.png" width="64" height="64" >
+</th>
+<th><img src="assets/images/icons/cowboy.png" width="64" height="64" >
+</th></tr>
+<tr style="text-align: center;">
+<th>Nomads
+</th>
+<th>Bronze Age
+</th>
+<th>Medieval Age
+</th>
+<th>Imperial Age
+</th>
+<th>Industrial Age
+</th></tr>
+<tr>
+<td style="vertical-align: top;">
 
-[New Player Guide](New_Player_Guide "wikilink")
+<a href="PLACEHOLDER">PLACEHOLDER</a>
 
-Guide to [Civilizations and Nomads](Civilizations_and_Nomads "wikilink")
-mode
+<a href="PLACEHOLDER">PLACEHOLDER</a>
 
-[Guide to Races/Species](Guide_to_Races "wikilink")
+<a href="PLACEHOLDER">PLACEHOLDER</a>
 
-[Guide to Medical](Guide_to_Medical "wikilink")
+<a href="PLACEHOLDER">PLACEHOLDER</a>
 
-[Guide to Crafting](Guide_to_Crafting "wikilink")
+<a href="PLACEHOLDER">PLACEHOLDER</a>
 
-[Guide to Cooking](Guide_to_Cooking "wikilink")
+</td>
+<td style="vertical-align: top;">
 
-[Guide to Farming](Guide_to_Farming "wikilink")
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Heraclea">Heraclea</a><br>
 
-[Guide to Weapons](Guide_to_Weapons "wikilink")
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Siege">Siege</a><br>
 
-[Guide to Ranching](Guide_to_Ranching "wikilink")
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Teutoburg">Teutoburg</a><br>
 
-[Guide to Wiring](Guide_to_Wiring "wikilink")
 
-[Guide to Communications](Guide_to_Communications "wikilink")
+</td>
+<td style="vertical-align: top;">
 
-[Guide to Religion](Guide_to_Religion "wikilink")
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Karak">Karak</a><br>
 
-[Guide to Paperwork](Guide_to_Paperwork "wikilink")
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Camp">Camp</a><br>
 
-[Guide to Hygiene and Mood](Guide_to_Hygiene_and_Mood "wikilink")
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Sammirhayeed">Sammir Hayeed</a><br>
 
-[Guide to Radiation](Guide_to_Radiation "wikilink")
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Battle Royale#Medieval">Medieval Battle Royale</a><br>
 
-[Guide to Chemistry](Guide_to_Chemistry "wikilink")
+<img src="assets/images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="Bohemia">Bohemia</a><br>
 
-[Guide to Tanks](Guide_to_Tanks "wikilink")
+</td>
+<td style="vertical-align: top;">
 
-[Custom Colors](Custom_Colors "wikilink")
+<img src="assets/images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="Colony">Colony</a><br>
 
-[Full Crafting List](Full_Crafting_List "wikilink")
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+</td>
+<td style="vertical-align: top;">
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+</td>
+</tr>
+<tr>
+<th><img src="assets/images/icons/people.png" width="64" height="64" >
+</th>
+<th><img src="assets/images/icons/soldier.png" width="64" height="64" >
+</th>
+<th><img src="assets/images/icons/greaser.png" width="64" height="64" >
+</th>
+<th><img src="assets/images/icons/modern.png" width="64" height="64" >
+</th>
+<th><img src="assets/images/icons/politician.png" width="64" height="64" >
+</th></tr>
+<tr style="text-align: center;">
+<th>1st World War
+</th>
+<th>2nd World War
+</th>
+<th>Cold War
+</th>
+<th>Modern Age
+</th>
+<th>Scenarios
+</th></tr>
+<tr>
+<td style="vertical-align: top;">
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+</td>
+<td style="vertical-align: top;">
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+</td>
+<td style="vertical-align: top;">
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+</td>
+<td style="vertical-align: top;">
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+</td>
+<td style="vertical-align: top;">
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+<a href="PLACEHOLDER">PLACEHOLDER</a>
+
+</td>
+</tr>
+</tbody></table>
+</div>
+</div></div></div>
+
 
 ## Maps
 
