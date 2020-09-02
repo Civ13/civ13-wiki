@@ -279,12 +279,67 @@ holding a hammer in the other hand.
 <tbody>
 <tr>
 <td><b>Metals</b></td>
-<td><img src="assets/images/ore_copper.png"> <img src="assets/images/sheet_copper.png"></td>
+<td></td>
+</tr><tr>
+<td><img src="assets/images/ore_copper.png"><img src="assets/images/sheet_copper.png"></td>
+<td>Copper</td>
+</tr><tr>
+<td><img src="assets/images/ore_tin.png"><img src="assets/images/sheet_tin.png"></td>
+<td>Tin</td>
+</tr><tr>
+<td><img src="assets/images/ore_iron.png"><img src="assets/images/sheet_iron.png"></td>
+<td>Iron</td>
+</tr><tr>
+<td><img src="assets/images/ore_lead.png"><img src="assets/images/sheet_lead.png"></td>
+<td>Lead</td>
+</tr><tr>
+<td><img src="assets/images/ore_gold.png"><img src="assets/images/sheet_gold.png"></td>
+<td>Gold</td>
+</tr><tr>
+<td><img src="assets/images/ore_silver.png"><img src="assets/images/sheet_silver.png"></td>
+<td>Silver</td>
+</tr><tr>
+<td><img src="assets/images/ore_mercury.png"></td>
+<td>Mercury</td>
+</tr><tr>
+<td><img src="assets/images/ore_platinum.png"></td>
+<td>Platinum</td>
+</tr><tr>
+<td><img src="assets/images/ore_uranium.png"></td>
+<td>Uranium</td>
 </tr>
+</tbody>
+</table>
+
+
+<table>
+<tbody>
 <tr>
 <td><b>Others</b></td>
+<td></td>
+</tr><tr>
 <td><img src="assets/images/sheet_stone.png"></td>
+<td>Stone</td>
+</tr><tr>
+<td><img src="assets/images/ore_sandstone.png"></td>
+<td>Sandstone*</td>
+</tr><tr>
+<td><img src="assets/images/ore_coal.png"></td>
+<td>Mineral coal</td>
+</tr><tr>
+<td><img src="assets/images/ore_saltpeter.png"></td>
+<td>Saltpeter</td>
+</tr><tr>
+<td><img src="assets/images/ore_sulphur.png"></td>
+<td>Sulphur</td>
+</tr><tr>
+<td><img src="assets/images/ore_diamond.png"><img src="assets/images/sheet_diamond.png"></td>
+<td>Diamonds</td>
+</tr><tr>
+<td><img src="assets/images/ore_obsidian.png"><img src="assets/images/sheet_obsidian.png"></td>
+<td>Obsidian*</td>
 </tr>
+
 </tbody>
 </table>
 
