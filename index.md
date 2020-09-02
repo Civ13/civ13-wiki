@@ -71,6 +71,12 @@ Lead your Civilization from prehistory to the modern era!
 
 **RP:** [Civilizations and Nomads](Civilizations_and_Nomads "wikilink")
 
+### The Art of the Deal
+
+Negotiate and betray in this mode.
+
+**RP: [The Art of the Deal](The_Art_of_the_Deal "wikilink")**
+
 ### 313 B.C.
 
 Ancient Greece and Romans. Phalanxes vs Legions.
