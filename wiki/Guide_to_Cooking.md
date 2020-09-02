@@ -54,47 +54,47 @@ ingredients needed to make your fantastic dishes, uma delicia!
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td><p>Dough</p></td>
 <td>
 <img src="assets/images/Dough.png">
 </td>
 <td><p>Make flour by grinding wheat with the small mill, them, activate a bag of flour with it in the active hand, and with a container with water in the off hand</p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p>Flatbread</p></td>
 <td>
 <img src="assets/images/Flatbread.png">
 </td>
 <td><p>Use a rolling pin on dough and roast the flat dough</p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p>Egg</p></td>
 <td>
 <img src="assets/images/egg.png">
 </td>
 <td><p>Get a chicken or turkey to lay an egg</p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p>Cheese</p></td>
 <td>
 <img src="assets/images/Cheese.png">
 </td>
 <td><p>Collect milk in a container and add one piece of yeast.</p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p>Meatball</p></td>
 <td>
 <img src="assets/images/Meatball.png">
 </td>
 <td><p>Add some flour to the slab of meat.</p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p>Meat Cutlets</p></td>
 <td><p>Cut a meat slab (or fish meat) with a knife.</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p>Grown Foods</p></td>
 <td>
 <img src="assets/images/Cutlet.png">
@@ -118,35 +118,35 @@ culinary art!
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td><p>Bread</p></td>
 <td>
 <img src="assets/images/Bread.png">
 </td>
 <td><p>Roast a ball of dough in a campfire or oven.</p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p>Bread slice</p></td>
 <td>
 <img src="assets/images/Bread_slice.png">
 </td>
 <td><p>Slice flat dough with a knife and roast it.</p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p>Fries</p></td>
 <td>
 <img src="assets/images/Fries.png">
 </td>
 <td><p>Cut potatoes with a knife to get raw potatoes and roast the raw potatoes to get fries.</p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p>Dried cutlets</p></td>
 <td>
 <img src="assets/images/Dried_cutlet.png">
 </td>
 <td><p>Simply take your raw meat cutlets and click on a dehydrator to dry them. In time they'll come off as dry cutlets. (NOTE: Dried cutlets cannot spoil, but will attract pests if left in the open.)</p></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><p>Stew</p></td>
 <td>
 <img src="assets/images/Stew.png">

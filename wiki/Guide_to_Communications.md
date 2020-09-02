@@ -10,14 +10,14 @@
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td><p>Utility pole</p></td>
 <td>
 <img src="assets/images/ea.png">
 </td>
 <td><p>must be within <strong>2</strong> tiles of another tower to work, can't be diagonal</p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p>Cell Tower</p></td>
 <td>
 <img src="assets/images/eas.png">
