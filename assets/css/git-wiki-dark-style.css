@@ -544,6 +544,7 @@ hr {
 .tools-element {
   border-left-style: solid;
   border-right-style: solid;
+  vertical-align:middle;
   padding-left: 10px;
   padding-right: 10px;
 }
