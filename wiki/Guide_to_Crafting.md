@@ -1,5 +1,5 @@
 # Guide to Crafting
-<strong><em>"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."</em></strong><br />
+**<em>"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."</em>**<br />
 Thomas Tredgold
 Have you ever thought of dedicating your life to something meaningful?
 Well, you have found the guide to it! Once you familiarize yourself
@@ -79,91 +79,91 @@ Pioneers, only the Blacksmith can use the anvil.
 <tr class="odd">
 <td>
 <img src="assets/images/leaved_stick.png"> <img src="assets/images/sharpened_stick.png">
-<strong>Stick</strong>
+**Stick**
 </td>
 <td>The humble beginnings of a future industrial superpower... First, harvest a branch by clicking a tree on Harm intent. Next, click the branch on Grab intent to remove the leaves, then click it again on Harm intent to clear the twigs. Voila! The first leap on the path of Progress has been made! Now the stick could be sharpened with a sharpened flint or a knife - click the stick with it. A sharpened stick could be used to catch fish (click fish tiles) or ants (click anthills); it could also be used to make a flint axe (see below.)</td>
 </tr>
 <tr class="even">
 <td>
 <img src="assets/images/flint.png"> <img src="assets/images/sharpened_flint.png">
-<strong>Flint</strong>
+**Flint**
 </td>
 <td>Could be found among rock piles on the ground - click rocks with an empty hand on Grab intent to look for flint. Next, click rocks with flint to sharpen it.</td>
 </tr>
 <tr class="odd">
 <td>
 <img src="assets/images/flint_axe.png">
-<strong>Flint hatchet</strong>
+**Flint hatchet**
 </td>
 <td>Made by attaching a sharpened flint to a sharpened stick. A forefather of more advanced hatchets.</td>
 </tr>
 <tr class="even">
 <td>
 <img src="assets/images/e.png"> <img src="assets/images/bronze_knife.png"> <img src="assets/images/steel_knife.png">
-<strong>Knife</strong>
+**Knife**
 </td>
 <td>Made with either 4 bone pieces or 1 unit of manifold materials: stone, copper, bronze, iron, steel, tin, even gold, silver and diamonds. Used to cut trees, skin animals and stab enemies in a desperate situation. Used to cut wires and cut down curtains as well. The bone knife (the leftmost one) is also a surgical tool in the earliest epochs, but for that refer to [Guide to Surgery](Guide_to_Medical#Surgery "wikilink"). And check the [Guide to Cooking](Guide_to_Cooking "wikilink") for more culinary uses of the knife.</td>
 </tr>
 <tr class="odd">
 <td>
 <img src="assets/images/bone_hatchet.png"> <img src="assets/images/hatchet.png">
-<strong>Hatchet</strong>
+**Hatchet**
 </td>
 <td>Made with either 2 bone pieces, 2 stones or 2 metal ingots (copper, bronze, iron or steel), plus a wooden handle. Mainly used to cut down trees for wood or to remove bushes and even rocks on the ground, but sometimes applied against hostile wildlife or malevolent people. Can be used to break fences or walls as well.</td>
 </tr>
 <tr class="even">
 <td>
 <img src="assets/images/hammer.png"> <img src="assets/images/clawhammer.png">
-<strong>Hammer</strong>
+**Hammer**
 </td>
 <td>Made with 5 wood logs. Used to deconstruct floors, fences, beds, chairs, tables, braziers, wooden roof supports and many other things - click something with a hammer to see whether it could be deconstructed. Also used to fix and unfix custom signs, paintings and mirrors in place. A clawhammer (the right one) is made with 3 iron ingots and functions as a modern and quicker variant of the hammer.</td>
 </tr>
 <tr class="odd">
 <td>
 <img src="assets/images/bone_shovel.png"> <img src="assets/images/shovel.png">
-<strong>Shovel</strong>
+**Shovel**
 </td>
 <td>Made with either 2 bone pieces or 2 iron ingots, plus a wooden handle. Used to dig up dirt, sand and snow, as well as for digging underground entrances (tunnels), pit latrines and graves. For the last three, hold a shovel in the active hand and click it, or press Ctrl-Z or Z in the hotkeys mode, then choose a respective option. An underground entrance (more like exit, in this case) could also be dug upwards if done underground, unless there is some kind of obstacle on the surface, e.g. a floor cover.</td>
 </tr>
 <tr class="even">
 <td>
 <img src="assets/images/chisel.png"> <img src="assets/images/modern_chisel.png">
-<strong>Chisel</strong>
+**Chisel**
 </td>
 <td>Made with either 8 stones or 8 iron ingots. Needs a hammer in the non-active hand to use. Used to give a certain design to a stone wall or an underground rock wall (take notice, that you could still mine through the latter despite it looking like a stone wall). To use, click a stone wall with a chisel.</td>
 </tr>
 <tr class="odd">
 <td>
 <img src="assets/images/wrench.png">
-<strong>Wrench</strong>
+**Wrench**
 </td>
 <td>Made with 5 iron ingots. Used to secure and unsecure movable objects, such as tables, glazed windows, braziers, ovens, furnaces, pianos, catapults and others.</td>
 </tr>
 <tr class="even">
 <td>
 <img src="assets/images/bone_pickaxe.png"> <img src="assets/images/pickaxe.png">
-<strong>Pickaxe</strong>
+**Pickaxe**
 </td>
 <td>Made with either 2 bone pieces, 2 stones or 3 iron ingots, plus a wooden handle. Used to mine underground rock walls. The iron pickaxe works quicker.</td>
 </tr>
 <tr class="odd">
 <td>
 <img src="assets/images/jackhammer.png">
-<strong>Jackhammer</strong>
+**Jackhammer**
 </td>
 <td>Made with 24 steel sheets. Used for the same purpose as pickaxes. The fastest mining tool.</td>
 </tr>
 <tr class="even">
 <td>
 <img src="assets/images/ore_collector.png">
-<strong>Ore collector</strong>
+**Ore collector**
 </td>
 <td>Made with 5 leather sheets. Used to pick up ore from the ground in a more efficient manner. Have the ore collector in your active hand, stand over the ore on the ground, then click the collector, or press Ctrl-Z or Z in the hotkeys mode. The ore will be put in the collector whose ingenious design allows to exceed the normal stacking limit (50 units per one stack) for its contents.</td>
 </tr>
 <tr class="odd">
 <td>
 <img src="assets/images/engine_maker.png">
-<strong>Engine maker</strong>
+**Engine maker**
 </td>
 <td>Made with 5 iron ingots. Used to construct engines, except for the steam engine. Have the engine maker in your active hand and a stack of steel sheets in the other hand, then click the engine maker, or press Ctrl-Z or Z in the hotkeys mode. Choose the engine to construct.</td>
 </tr>
@@ -201,21 +201,21 @@ There are two main ways to obtain
 <tr class="odd">
 <td>
 <img src="assets/images/sheet_wood.png">
-<strong>Wood log</strong>
+**Wood log**
 </td>
 <td>A visual representation of a wood log, placed herein to avoid any ambiguities. This is a guide, after all.</td>
 </tr>
 <tr class="even">
 <td>
 <img src="assets/images/leaves.png">
-<strong>Leaves</strong>
+**Leaves**
 </td>
 <td>This is what you get when removing leaves from a branch. Used to make thatch roofing - click the leaves in your active hand, or press Ctrl-Z, or Z in the hotkeys mode. Edible if you happen to be a gorilla.</td>
 </tr>
 <tr class="odd">
 <td>
 <img src="assets/images/leaves_palm.png">
-<strong>Palm leaves</strong>
+**Palm leaves**
 </td>
 <td>Obtained by felling palms. Used to make palm leaves roof. Edible for gorillas as well.</td>
 </tr>
@@ -232,29 +232,37 @@ to the **[Guide to Cooking](Guide_to_Cooking "wikilink")**.
 <tbody>
 <tr class="odd">
 <td>
-<img src="assets/images/black_bear_pelt.png"> <img src="assets/images/monkey_pelt.png"> <img src="assets/images/wolf_pelt.png">
-<strong>Furs and Pelts</strong>
+<img src="assets/images/black_bear_pelt.png"> <img src="assets/images/monkey_pelt.png"> <img src="assets/images/wolf_pelt.png"></td>
+<td>
+<b>Furs and Pelts</b>
 </td>
-<td>Obtained from various animals (check the [Full Crafting List](Full_Crafting_List "wikilink")) by skinning the carcass with a knife on Grab intent. Pelts could be made into coats, gloves, footwear and headgear. Fur clothing comes in handy in the colder climates and seasons. Pelts could also be turned into leather on the tanning rack - cut the hair off of the hide with a knife, then place the hide on the rack and wait until it's ready. One extra leather sheet is obtained this way, compared to skinning the carcass directly for leather as described below.</td>
+<td>Obtained from various animals (check the <a href="Full_Crafting_List">Full crafting List</a>) by skinning the carcass with a knife on Grab intent. Pelts could be made into coats, gloves, footwear and headgear. Fur clothing comes in handy in the colder climates and seasons. Pelts could also be turned into leather on the tanning rack - cut the hair off of the hide with a knife, then place the hide on the rack and wait until it's ready. One extra leather sheet is obtained this way, compared to skinning the carcass directly for leather as described below.</td>
 </tr>
 <tr class="even">
 <td>
 <img src="assets/images/wool_pile.png"> <img src="assets/images/wool_roll.png">
-<strong>[Wool](Full_Crafting_List#woolcloth "wikilink")</strong>
 </td>
-<td>Obtained by shearing sheep. Used for many varieties of clothing, mainly as a cloth substitute for the biomes that lack cotton. Use the <strong>[loom](Guide_to_Crafting#loom "wikilink")</strong> to turn wool piles into <strong>[Woolcloth](Full_Crafting_List#woolcloth "wikilink")</strong>.</td>
+<td>
+<b>Wool and Woolcloth</b>
+</td>
+<td>
+Obtained by shearing sheep. Used for many varieties of clothing, mainly as a cloth substitute for the biomes that lack cotton. Use the <a href="Guide_to_Crafting#loom">loom</a> to turn wool piles into <a href="Full_Crafting_List#woolcloth">woolcloth</a>.</td>
 </tr>
 <tr class="odd">
 <td>
 <img src="assets/images/leather.png">
-<strong>[Leather](Full_Crafting_List#leather "wikilink")</strong>
+</td>
+<td>
+<b>Leather</b>
 </td>
 <td>Used for clothing, military equipment, various bags etc. Obtained from many animals by skinning on Harm intent. Larger animals provide more leather.</td>
 </tr>
 <tr class="even">
 <td>
 <img src="assets/images/bone.png">
-<strong>[Bone](Full_Crafting_List#bone "wikilink")</strong>
+</td>
+<td>
+<b>Bone</b>
 </td>
 <td>Obtained by skinning the animal carcass regardless of the intent. A material for primitive tools and weapons.</td>
 </tr>
@@ -279,21 +287,21 @@ build barricades and walls. Refer to the
 <tr class="odd">
 <td>
 <img src="assets/images/dirt_pile.png">
-<strong>Dirt</strong>
+**Dirt**
 </td>
-<td>Used to produce [clay](Full_Crafting_List#clay "wikilink") and to construct dirt walls and barricades. To produce clay, pour water from a container onto a dirt pile, 10 units of water per pile.</td>
+<td>Used to produce <a href="Full_Crafting_List#clay">clay</a> and to construct dirt walls and barricades. To produce clay, pour water from a container onto a dirt pile, 10 units of water per pile.</td>
 </tr>
 <tr class="even">
 <td>
 <img src="assets/images/sand_pile.png">
-<strong>Sand</strong>
+**Sand**
 </td>
-<td>Used to produce <strong>[Glass](Full_Crafting_List#glass "wikilink")</strong> sheets via firing in the campfire and ovens.</td>
+<td>Used to produce <a href="Full_Crafting_List#glass">glass</a> sheets via firing in the campfire and ovens.</td>
 </tr>
 <tr class="odd">
 <td>
 <img src="assets/images/snow_pile.png">
-<strong>Snow</strong>
+**Snow**
 </td>
 <td>Not exactly a type of soil, but could be used to construct walls and barricades, similarly to dirt.</td>
 </tr>
@@ -321,24 +329,22 @@ holding a hammer in the other hand.
 <tbody>
 <tr class="odd">
 <td>
-<strong>Metals</strong>
+**Metals**
 </td>
 </tr>
 <tr class="even">
 <td>
 <img src="assets/images/ore_copper.png"> <img src="assets/images/sheet_copper.png">
-<strong>[Copper](Full_Crafting_List#copper "wikilink")</strong>
 </td>
 </tr>
 <tr class="odd">
 <td>
-<strong>Others</strong>
+**Others**
 </td>
 </tr>
 <tr class="even">
 <td>
 <img src="assets/images/sheet_stone.png">
-<strong>[Stone](Full_Crafting_List#stone "wikilink")</strong>
 </td>
 </tr>
 </tbody>
@@ -368,14 +374,14 @@ holding a hammer in the other hand.
 <tr class="odd">
 <td><img src="assets/images/mining.png">
 
-<strong>Safety first!</strong>
+**Safety first!**
 </td>
 <td></td>
 <td>Mining is pretty straightforward, save for one nuance:
 <ul>
 <li>Dig an underground entrance (a tunnel) - have a shovel in the active hand and click it, or press Ctrl-Z or Z in the hotkeys mode, then choose the respective option. A tunnel could be removed by filling it with dirt piles.</li>
 <li>Click the entrance to go down.</li>
-<li><strong>Build a mining support!</strong> It could be either a wooden mining support or a stone pillar, both work the same.</li>
+<li>**Build a mining support!** It could be either a wooden mining support or a stone pillar, both work the same.</li>
 <li>Proceed to hack away at the rock.</li>
 </ul></td>
 </tr>
@@ -424,14 +430,14 @@ plastics, so let's start drilling!
 <tr class="odd">
 <td>
 <img src="assets/images/oil_spring.png">
-<strong>Oil spring</strong>
+**Oil spring**
 </td>
 <td>A spot where an oil deposit reaches the surface of the earth, allowing the collection of crude oil with any containers that could hold liquids: buckets, barrels etc. Click the oil spring with a container, and you will fill it with 10 units of oil. The oil spring will refill presently. Before the advent of engines and machines, crude oil is mostly used as fuel for lamps and lanterns, or as a handy tool by scheming poisoners in royal courts. Yes, drinking oil is bad for health. Very bad.</td>
 </tr>
 <tr class="even">
 <td>
 <img src="assets/images/oil_well.png">
-<strong>Oil well</strong>
+**Oil well**
 </td>
 <td>Now we are talking! With this wonderful contraption, the scope of the oil industry could become truly fascinating. Made with 40 wood logs, the oil well will automatically fill any container you put inside it (click the oil well with the container in hand to put it in, click the oil well to remove it.) Needs to be built over an oil spring.</td>
 </tr>
@@ -462,7 +468,7 @@ either wood, tree branches, mineral coal or charcoal.
 <tr class="odd">
 <td>
 <img src="assets/images/ore_charcoal.png">
-<strong>Charcoal</strong>
+**Charcoal**
 </td>
 <td>A byproduct of burning, it will appear at your campfires and ovens once in a while and could be used as fuel.</td>
 </tr>
@@ -520,28 +526,28 @@ campfire.
 <tr class="odd">
 <td>
 <img src="assets/images/campfire.png">
-<strong>Campfire</strong>
+**Campfire**
 </td>
-<td><strong>Capacity</strong>: 2<br />
-<strong>Cooking time</strong>: 30 seconds<br />
+<td>**Capacity**: 2<br />
+**Cooking time**: 30 seconds<br />
 Made with 4 wood logs. The first sparkle of Civilization, the harbinger of metals and pottery, the omen of a fine cuisine, and so on, and so on.</td>
 </tr>
 <tr class="even">
 <td>
 <img src="assets/images/iron_oven.png">
-<strong>Iron oven</strong>
+**Iron oven**
 </td>
-<td><strong>Capacity</strong>: 3<br />
-<strong>Cooking time</strong>: 5 seconds<br />
+<td>**Capacity**: 3<br />
+**Cooking time**: 5 seconds<br />
 Made with 8 iron ingots. A potbelly-like containment for fire.</td>
 </tr>
 <tr class="odd">
 <td>
 <img src="assets/images/wood_stove.png">
-<strong>Wood stove</strong>
+**Wood stove**
 </td>
-<td><strong>Capacity</strong>: 4<br />
-<strong>Cooking time</strong>: 5 seconds<br />
+<td>**Capacity**: 4<br />
+**Cooking time**: 5 seconds<br />
 Made with 8 steel sheets. A pinnacle of the fireplace technology (so far.)</td>
 </tr>
 </tbody>
@@ -564,11 +570,9 @@ or 1 piece of mineral coal.
 <tr class="odd">
 <td>
 <img src="assets/images/sheet_bronze.png">
-<strong>[Bronze](Full_Crafting_List#bronze "wikilink")</strong>
 </td>
 <td>
 <img src="assets/images/sheet_steel.png">
-<strong>[Steel](Full_Crafting_List#steel "wikilink")</strong>
 </td>
 </tr>
 </tbody>
@@ -591,24 +595,24 @@ item's name.
 <tr class="odd">
 <td></td>
 <td>
-<strong>Alloys</strong>
+**Alloys**
 </td>
 <td>
-<strong>Recycling</strong>
+**Recycling**
 </td>
 </tr>
 <tr class="even">
 <td>
 <img src="assets/images/furnace.png"> <img src="assets/images/clay_brick_furnace.png">
-<strong>Furnace</strong>
+**Furnace**
 </td>
 <td>
-<strong>1</strong><span title="Iron"><img src="assets/images/ore_iron.png"></span><strong>or</strong><span title="Iron"><img src="assets/images/sheet_iron.png"></span><strong>=&gt; 1</strong><span title="Steel"><img src="assets/images/sheet_steel.png"></span>
-<strong>1</strong><span title="Copper"><img src="assets/images/ore_copper.png"></span><strong>or</strong><span title="Copper"><img src="assets/images/sheet_copper.png"></span><strong>+ 1</strong><span title="Tin"><img src="assets/images/ore_tin.png"></span><strong>or</strong><span title="Tin"><img src="assets/images/sheet_tin.png"></span><strong>=&gt; 1</strong>&lt;span title="Bronze&gt;assets/images/sheet_bronze.png</span>
+**1**<span title="Iron"><img src="assets/images/ore_iron.png"></span>**or**<span title="Iron"><img src="assets/images/sheet_iron.png"></span>**=&gt; 1**<span title="Steel"><img src="assets/images/sheet_steel.png"></span>
+**1**<span title="Copper"><img src="assets/images/ore_copper.png"></span>**or**<span title="Copper"><img src="assets/images/sheet_copper.png"></span>**+ 1**<span title="Tin"><img src="assets/images/ore_tin.png"></span>**or**<span title="Tin"><img src="assets/images/sheet_tin.png"></span>**=&gt; 1**&lt;span title="Bronze&gt;assets/images/sheet_bronze.png</span>
 </td>
 <td>
-<strong>1 knife, spoon or fork =&gt; 1 ingot of a respective material</strong>
-<span title="Tin can"><img src="assets/images/tin_can_empty.png"></span><strong>=&gt; 90% of amount of tin spent on the cans</strong>
+**1 knife, spoon or fork =&gt; 1 ingot of a respective material**
+<span title="Tin can"><img src="assets/images/tin_can_empty.png"></span>**=&gt; 90% of amount of tin spent on the cans**
 </td>
 </tr>
 </tbody>
@@ -626,9 +630,9 @@ level of the crafting skill before you are able to use them.
 <tr class="odd">
 <td>
 <img src="assets/images/loom.png">
-<strong>Loom</strong>
+**Loom**
 </td>
-<td>Made with 8 wood logs. Used to weave <strong><img src="Guide_to_Farming" "wikilink">cotton</a></strong> and <strong><img src="#Retting_trough" "wikilink">retted fabric</a></strong> into <strong>[Cloth](Full_Crafting_List#cloth "wikilink")</strong> and to turn shorn wool into <strong>[Woolcloth](Full_Crafting_List#woolcloth "wikilink")</strong>.</td>
+<td>Made with 8 wood logs. Used to weave <a href="Guide_to_Farming">cotton</a> and retted fabric into <a href="Full_Crafting_List#cloth">cloth</a> and to turn shorn wool into <a href="Full_Crafting_List#woolcloth">woolcloth</a>.</td>
 </tr>
 </tbody>
 </table>
@@ -640,7 +644,7 @@ level of the crafting skill before you are able to use them.
 <tr class="odd">
 <td>
 <img src="assets/images/drying_rack.png">
-<strong>Tanning rack</strong>
+**Tanning rack**
 </td>
 <td>Made with 8 wood logs. Used to turn animal pelts into leather sheets. Skin the carcass with the knife on Grab intent, cut the hair off of the pelt, then hang it to dry on the rack. One extra leather sheet is obtained this way, compared to skinning the carcass directly for leather.</td>
 </tr>
@@ -654,9 +658,9 @@ level of the crafting skill before you are able to use them.
 <tr class="odd">
 <td>
 <img src="assets/images/retting_trough.png">
-<strong>Retting trough</strong>
+**Retting trough**
 </td>
-<td>Made with 8 wood logs. Used to soak fiberous plants into retted fabric. Two units of cotton or flax produce one bundle of retted fabric, which could be turned into <strong>[Cloth](Full_Crafting_List#clot "wikilink")</strong> at the <strong>[Cloth](Guide_to_Crafting#Loom "wikilink")</strong>.</td>
+<td>Made with 8 wood logs. Used to soak fiberous plants into retted fabric. Two units of cotton or flax produce one bundle of retted fabric, which could be turned into **<a href="Full_Crafting_List#cloth">cloth</a>** at the **<a href="Guide_to_Crafting#Loom">loom</a>**.</td>
 </tr>
 </tbody>
 </table>
@@ -668,10 +672,10 @@ level of the crafting skill before you are able to use them.
 <tr class="odd">
 <td>
 <img src="assets/images/anvil.png">
-<strong>Anvil</strong>
+**Anvil**
 </td>
-<td><strong>Skill required: 1.7</strong><br />
-Made with 25 iron ingots. Used to forge weapons and armour across the centuries, from ancient swords and chainmails to muskets, makeshift AK-47s and kevlar vests. Take some iron ingots or steel sheets and click the anvil with them. Now click the anvil to see the available recipes along with the material cost. Right-click the anvil and choose 'Empty' command to retrieve the iron or steel you have put on it. See the <strong><img src="Guide_to_Weapons" "wikilink">Guide to Weapons</a></strong> for more information on specific weapons and their availability in different ages.</td>
+<td>**Skill required: 1.7**<br />
+Made with 25 iron ingots. Used to forge weapons and armour across the centuries, from ancient swords and chainmails to muskets, makeshift AK-47s and kevlar vests. Take some iron ingots or steel sheets and click the anvil with them. Now click the anvil to see the available recipes along with the material cost. Right-click the anvil and choose 'Empty' command to retrieve the iron or steel you have put on it. See the <a href="Guide_to_Weapons">Guide to Weapons</a> for more information on specific weapons and their availability in different ages.</td>
 </tr>
 </tbody>
 </table>
@@ -683,9 +687,9 @@ Made with 25 iron ingots. Used to forge weapons and armour across the centuries,
 <tr class="odd">
 <td>
 <img src="assets/images/gunbench.png">
-<strong>Gunsmithing bench</strong>
+**Gunsmithing bench**
 </td>
-<td><strong>Skill required: 1.5 + Blueprint</strong><br />
+<td>**Skill required: 1.5 + Blueprint**<br />
 Made with 13 wood logs. Used to assemble custom firearms from separate parts starting from the Early Modern age (1903) and to rechamber guns to a different caliber (click the bench with the gun).
 <ul>
 <li>Take some steel sheets and wood logs and click the bench with them.</li>
@@ -699,9 +703,9 @@ Made with 13 wood logs. Used to assemble custom firearms from separate parts sta
 <tr class="even">
 <td>
 <img src="assets/images/blueprint.png">
-<strong>Blueprint</strong>
+**Blueprint**
 </td>
-<td><strong>Skill required: 2.5 + 500 gold coins (or equivalent)</strong><br />
+<td>**Skill required: 2.5 + 500 gold coins (or equivalent)**<br />
 A weapon blueprint is produced every time you design and assemble a firearm at the gunsmithing bench. A blueprint could be used to assemble the previously designed firearm by someone with the lower skill level.</td>
 </tr>
 </tbody>
@@ -763,11 +767,11 @@ An arrow shaft is made with 1 wood log. Could be launched from a bow, but it is 
 <tr class="odd">
 <td>
 <img src="assets/images/arrow_shaft.png">
-<strong>Arrow shaft</strong>
+**Arrow shaft**
 </td>
 <td>
 <img src="assets/images/arrow_fire.png">
-<strong>Fire arrow</strong>
+**Fire arrow**
 </td>
 <td></td>
 </tr>
@@ -802,31 +806,31 @@ An arrow shaft is made with 1 wood log. Could be launched from a bow, but it is 
 <tr class="even">
 <td>
 <img src="assets/images/arrowhead_stone.png">
-<strong>Stone</strong>
+**Stone**
 </td>
 <td>
 <img src="assets/images/arrowhead_sandstone.png">
-<strong>Sandstone</strong>
+**Sandstone**
 </td>
 <td>
 <img src="assets/images/arrowhead_copper.png">
-<strong>Copper</strong>
+**Copper**
 </td>
 <td>
 <img src="assets/images/arrowhead_bronze.png">
-<strong>Bronze</strong>
+**Bronze**
 </td>
 <td>
 <img src="assets/images/arrowhead_iron.png">
-<strong>Iron</strong>
+**Iron**
 </td>
 <td>
 <img src="assets/images/arrowhead_steel.png">
-<strong>Steel</strong>
+**Steel**
 </td>
 <td>
 <img src="assets/images/arrowhead_vial.png">
-<strong>Vial</strong>
+**Vial**
 </td>
 </tr>
 </tbody>
@@ -868,19 +872,19 @@ that see the **[Guide to Chemistry](Guide_to_Chemistry "wikilink")**.
 <tr class="odd">
 <td>
 <img src="assets/images/casing_pistol.png">
-<strong>Pistol casing</strong>
+**Pistol casing**
 </td>
 <td>
 <img src="assets/images/casing_rifle.png">
-<strong>Rifle casing</strong>
+**Rifle casing**
 </td>
 <td>
 <img src="assets/images/casing_shell.png">
-<strong>Shell casing</strong>
+**Shell casing**
 </td>
 <td>
 <img src="assets/images/casing_shell_tank.png">
-<strong>Field cannon casing</strong>
+**Field cannon casing**
 </td>
 </tr>
 </tbody>
@@ -894,7 +898,7 @@ that see the **[Guide to Chemistry](Guide_to_Chemistry "wikilink")**.
 <tr class="odd">
 <td>
 <img src="assets/images/iron_bullet.png">
-<strong>Iron bullet</strong>
+**Iron bullet**
 </td>
 </tr>
 </tbody>
@@ -952,15 +956,15 @@ Hover the mouse cursor over the images below to see the material cost.
 <tr class="odd">
 <td>
 <span title="0.5 clay"><img src="assets/images/clay_blocks.png"></span>
-<strong>Clay blocks</strong>
+**Clay blocks**
 </td>
 <td>
 <span title="0.5 clay"><img src="assets/images/clay_bricks.png"></span>
-<strong>Clay bricks</strong>
+**Clay bricks**
 </td>
 <td>
 <span title="4 clay"><img src="assets/images/clay_cement_bricks.png"></span>
-<strong>Cement bricks</strong>
+**Cement bricks**
 </td>
 <td></td>
 </tr>
@@ -991,7 +995,7 @@ a flimsy one.
 <tr class="odd">
 <td>
 <img src="assets/images/wall_straw.png">
-<strong>All</strong>
+**All**
 </td>
 </tr>
 </tbody>
@@ -1006,15 +1010,15 @@ same for all directions.
 <tr class="odd">
 <td>
 <img src="assets/images/wall_log_vertical.png">
-<strong>N, S</strong>
+**N, S**
 </td>
 <td>
 <img src="assets/images/wall_log.png">
-<strong>W, E</strong>
+**W, E**
 </td>
 <td>
 <img src="assets/images/wall_log_corner.png">
-<strong>Corner</strong>
+**Corner**
 </td>
 </tr>
 </tbody>
@@ -1048,7 +1052,7 @@ than the log one.
 </tr>
 <tr class="even">
 <td>
-<strong>Adaptive</strong>
+**Adaptive**
 </td>
 <td></td>
 <td></td>
@@ -1068,7 +1072,7 @@ doors and doorways, such as medieval and shoji. More details below.
 <tr class="odd">
 <td>
 <img src="assets/images/wall_frame.png">
-<strong>All</strong>
+**All**
 </td>
 </tr>
 </tbody>
@@ -1097,7 +1101,7 @@ logs and choose a design.
 </tr>
 <tr class="even">
 <td>
-<strong>All</strong>
+**All**
 </td>
 <td></td>
 <td></td>
@@ -1116,16 +1120,16 @@ construct a wall frame first, then click it with a paper sheet.
 <tr class="odd">
 <td>
 <img src="assets/images/wall_shoji.png">
-<strong>Wall</strong>
+**Wall**
 </td>
 <td>
 <img src="assets/images/wall_shoji_divider.png">
-<strong>Divider</strong>
+**Divider**
 </td>
 </tr>
 <tr class="even">
 <td>
-<strong>All</strong>
+**All**
 </td>
 <td></td>
 </tr>
@@ -1142,16 +1146,16 @@ it with bamboo bundles.
 <tr class="odd">
 <td>
 <img src="assets/images/wall_bamboo.png">
-<strong>Wall</strong>
+**Wall**
 </td>
 <td>
 <img src="assets/images/doorway_bamboo.png">
-<strong>Doorway</strong>
+**Doorway**
 </td>
 </tr>
 <tr class="even">
 <td>
-<strong>All</strong>
+**All**
 </td>
 <td></td>
 </tr>
@@ -1191,7 +1195,7 @@ Made with 8 wood logs. Useful for creating your very own altepetl.
 </tr>
 <tr class="even">
 <td>
-<strong>Adaptive</strong>
+**Adaptive**
 </td>
 <td></td>
 <td></td>
@@ -1237,7 +1241,7 @@ Made with 6 stones.
 </tr>
 <tr class="even">
 <td>
-<strong>Adaptive</strong>
+**Adaptive**
 </td>
 <td></td>
 <td></td>
@@ -1294,13 +1298,13 @@ mirrored accordingly.)
 </tr>
 <tr class="even">
 <td>
-<strong>Adaptive</strong>
+**Adaptive**
 </td>
 <td>
-<strong>S</strong>
+**S**
 </td>
 <td>
-<strong>E</strong>
+**E**
 </td>
 <td></td>
 <td></td>
@@ -1340,7 +1344,7 @@ Made with 8 wood logs. For all your Långhus and mead hall needs.
 </tr>
 <tr class="even">
 <td>
-<strong>Adaptive</strong>
+**Adaptive**
 </td>
 <td></td>
 <td></td>
@@ -1378,7 +1382,7 @@ Made with 8 stones. Opus caementicium usque in sempiternum.
 </tr>
 <tr class="even">
 <td>
-<strong>Adaptive</strong>
+**Adaptive**
 </td>
 <td></td>
 <td></td>
@@ -1399,7 +1403,7 @@ start building a wall where you stand. Add 3 more piles to finish.
 <tr class="odd">
 <td>
 <img src="assets/images/wall_dirt_block.png">
-<strong>All</strong>
+**All**
 </td>
 </tr>
 </tbody>
@@ -1415,7 +1419,7 @@ where you stand. Add 3 more piles to finish.
 <tr class="odd">
 <td>
 <img src="assets/images/wall_snow_block.png">
-<strong>All</strong>
+**All**
 </td>
 </tr>
 </tbody>
@@ -1432,16 +1436,16 @@ batches to finish.
 <tr class="odd">
 <td>
 <img src="assets/images/wall_clay_block.png">
-<strong>Wall</strong>
+**Wall**
 </td>
 <td>
 <img src="assets/images/doorway_clay.png">
-<strong>Doorway</strong>
+**Doorway**
 </td>
 </tr>
 <tr class="even">
 <td>
-<strong>All</strong>
+**All**
 </td>
 <td></td>
 </tr>
@@ -1460,19 +1464,19 @@ The doorway is made by applying generic stucco to a clay block doorway.
 <tr class="odd">
 <td>
 <img src="assets/images/wall_red_earth_S.png">
-<strong>Regular</strong>
+**Regular**
 </td>
 <td>
 <img src="assets/images/wall_red_earth_pillared_S.png">
-<strong>Pillared</strong>
+**Pillared**
 </td>
 <td>
 <img src="assets/images/wall_red_earth_smooth_SN.png">
-<strong>Smooth</strong>
+**Smooth**
 </td>
 <td>
 <img src="assets/images/doorway_red_earth_S.png">
-<strong>Doorway</strong>
+**Doorway**
 </td>
 </tr>
 </tbody>
@@ -1492,20 +1496,20 @@ image below is NW.
 <tr class="odd">
 <td>
 <img src="assets/images/wall_sumerian.png">
-<strong>Wall</strong>
+**Wall**
 </td>
 <td>
 <img src="assets/images/door_sumerian.png">
-<strong>Doorway</strong>
+**Doorway**
 </td>
 <td>
 <img src="assets/images/wall_sumerian_corner.png">
-<strong>Corner</strong>
+**Corner**
 </td>
 </tr>
 <tr class="even">
 <td>
-<strong>All</strong>
+**All**
 </td>
 <td></td>
 <td></td>
@@ -1521,16 +1525,16 @@ Made with 8 sandstones.
 <tr class="odd">
 <td>
 <img src="assets/images/wall_sandstone_smooth.png">
-<strong>Smooth</strong>
+**Smooth**
 </td>
 <td>
 <img src="assets/images/wall_sandstone_brick.png">
-<strong>Brick</strong>
+**Brick**
 </td>
 </tr>
 <tr class="even">
 <td>
-<strong>All</strong>
+**All**
 </td>
 <td></td>
 </tr>
@@ -1546,24 +1550,24 @@ different designs.
 <tr class="odd">
 <td>
 <img src="assets/images/wall_stone.png">
-<strong>Regular</strong>
+**Regular**
 </td>
 <td>
 <img src="assets/images/wall_stone_brick.png">
-<strong>Brick</strong>
+**Brick**
 </td>
 <td>
 <img src="assets/images/wall_stone_cobbled.png">
-<strong>Cobbled</strong>
+**Cobbled**
 </td>
 <td>
 <img src="assets/images/wall_stone_tiled.png">
-<strong>Tiled</strong>
+**Tiled**
 </td>
 </tr>
 <tr class="even">
 <td>
-<strong>All</strong>
+**All**
 </td>
 <td></td>
 <td></td>
@@ -1606,13 +1610,13 @@ available (icons will be mirrored accordingly.)
 </tr>
 <tr class="even">
 <td>
-<strong>Adaptive</strong>
+**Adaptive**
 </td>
 <td>
-<strong>S</strong>
+**S**
 </td>
 <td>
-<strong>E</strong>
+**E**
 </td>
 <td></td>
 <td></td>
@@ -1637,23 +1641,23 @@ The archway is made by applying Greek stucco to a stone block archway.
 <tr class="odd">
 <td>
 <img src="assets/images/wall_grecian_smooth.png">
-<strong>Smooth</strong>
+**Smooth**
 </td>
 <td>
 <img src="assets/images/wall_grecian_cobbled.png">
-<strong>Cobbled</strong>
+**Cobbled**
 </td>
 <td>
 <img src="assets/images/wall_grecian_pattern.png">
-<strong>Pattern</strong>
+**Pattern**
 </td>
 <td>
 <img src="assets/images/wall_grecian_cobbled_pattern.png">
-<strong>Cob. pattern</strong>
+**Cob. pattern**
 </td>
 <td>
 <img src="assets/images/archway_grecian_S.png">
-<strong>Archway</strong>
+**Archway**
 </td>
 </tr>
 <tr class="even">
@@ -1673,7 +1677,7 @@ The archway is made by applying Greek stucco to a stone block archway.
 </tr>
 <tr class="odd">
 <td>
-<strong>Bordered</strong>
+**Bordered**
 </td>
 <td></td>
 <td></td>
@@ -1682,7 +1686,7 @@ The archway is made by applying Greek stucco to a stone block archway.
 </tr>
 <tr class="even">
 <td>
-<strong>All</strong>
+**All**
 </td>
 <td></td>
 <td></td>
@@ -1702,27 +1706,27 @@ the design.
 <tr class="odd">
 <td>
 <img src="assets/images/wall_villa_S.png">
-<strong>Regular</strong>
+**Regular**
 </td>
 <td>
 <img src="assets/images/wall_villa_pillared_S.png">
-<strong>Pillared</strong>
+**Pillared**
 </td>
 <td>
 <img src="assets/images/wall_villa_relief_S.png">
-<strong>Relief</strong>
+**Relief**
 </td>
 <td>
 <img src="assets/images/wall_villa_relief_greek_S.png">
-<strong>Hoplite rel.</strong>
+**Hoplite rel.**
 </td>
 <td>
 <img src="assets/images/wall_villa_relief_aquila_S.png">
-<strong>Aquila rel.</strong>
+**Aquila rel.**
 </td>
 <td>
 <img src="assets/images/wall_villa_relief_gladiator_S.png">
-<strong>Gladiator rel.</strong>
+**Gladiator rel.**
 </td>
 </tr>
 </tbody>
@@ -1763,13 +1767,13 @@ accordingly.)
 </tr>
 <tr class="even">
 <td>
-<strong>Adaptive</strong>
+**Adaptive**
 </td>
 <td>
-<strong>S</strong>
+**S**
 </td>
 <td>
-<strong>E</strong>
+**E**
 </td>
 <td></td>
 <td></td>
@@ -1821,13 +1825,13 @@ accordingly.)
 </tr>
 <tr class="even">
 <td>
-<strong>Adaptive</strong>
+**Adaptive**
 </td>
 <td>
-<strong>S</strong>
+**S**
 </td>
 <td>
-<strong>E</strong>
+**E**
 </td>
 <td></td>
 <td></td>
@@ -1869,7 +1873,7 @@ start building a wall where you stand. Add 1 more batch to finish.
 </tr>
 <tr class="even">
 <td>
-<strong>Adaptive</strong>
+**Adaptive**
 </td>
 <td></td>
 <td></td>
@@ -1910,7 +1914,7 @@ more batch to finish.
 </tr>
 <tr class="even">
 <td>
-<strong>Adaptive</strong>
+**Adaptive**
 </td>
 <td></td>
 <td></td>
@@ -1936,37 +1940,37 @@ columns. **Mine supports do not hold the buildable roof!**
 <tr class="odd">
 <td>
 <img src="assets/images/roof_support_wooden.png">
-<strong>Roof support</strong>
+**Roof support**
 </td>
 <td>
 <img src="assets/images/roof_support_nordic.png">
-<strong>Nordic roof support</strong>
+**Nordic roof support**
 </td>
 <td>
 <img src="assets/images/roof_support_stone.png">
-<strong>Stone pillar</strong>
+**Stone pillar**
 </td>
 <td>
 <img src="assets/images/roof_support_concrete.png">
-<strong>Concrete pillar</strong>
+**Concrete pillar**
 </td>
 <td>
 <img src="assets/images/roof_support_ionic.png">
-<strong>Ionic column</strong>
+**Ionic column**
 </td>
 </tr>
 <tr class="even">
 <td>
 <img src="assets/images/roof_support_solomonic.png">
-<strong>Solomonic column</strong>
+**Solomonic column**
 </td>
 <td>
 <img src="assets/images/roof_support_solomonic_thick.png">
-<strong>Thick Solomonic column</strong>
+**Thick Solomonic column**
 </td>
 <td>
 <img src="assets/images/roof_support_aztec.png">
-<strong>Aztec column</strong>
+**Aztec column**
 </td>
 <td></td>
 <td></td>
@@ -2005,43 +2009,43 @@ in the roofed area, or even standing next to it.**
 <tr class="odd">
 <td>
 <span title="1 bundle of palm leaves"><img src="assets/images/roof_builder_palm.png"></span>
-<strong>Palm leaves roof builder</strong>
+**Palm leaves roof builder**
 
 <br />
 <img src="assets/images/roof_palm.png">
-<strong>Palm leaves roof</strong>
+**Palm leaves roof**
 </td>
 <td>
 <span title="1 bundle of leaves"><img src="assets/images/roof_builder_thatch.png"></span>
-<strong>Thatch roof builder</strong>
+**Thatch roof builder**
 
 <br />
 <img src="assets/images/roof_thatch.png">
-<strong>Thatch roof</strong>
+**Thatch roof**
 </td>
 <td>
 <span title="1 wood"><img src="assets/images/roof_builder.png"></span>
-<strong>Roof builder</strong>
+**Roof builder**
 
 <br />
 <img src="assets/images/roof_wood.png">
-<strong>Wood roof</strong>
+**Wood roof**
 </td>
 <td>
 <span title="0.5 clay"><img src="assets/images/Fired_clay_roof.png"></span>
-<strong>Clay roofing</strong>
+**Clay roofing**
 
 <br />
 <img src="assets/images/roof_clay.png">
-<strong>Clay roof</strong>
+**Clay roof**
 </td>
 <td>
 <span title="0.5 clay"><img src="assets/images/roof_builder_black_clay.png"></span>
-<strong>Black clay roofing</strong>
+**Black clay roofing**
 
 <br />
 <img src="assets/images/roof_clay_black.png">
-<strong>Kerawa roof</strong>
+**Kerawa roof**
 </td>
 </tr>
 </tbody>
@@ -2054,27 +2058,27 @@ in the roofed area, or even standing next to it.**
 <tr class="odd">
 <td>
 <span title="1 sandstone"><img src="assets/images/roof_builder_sandstone.png"></span>
-<strong>Sandstone roof builder</strong>
+**Sandstone roof builder**
 
 <br />
 <img src="assets/images/roof_sandstone.png">
-<strong>Sandstone roof</strong>
+**Sandstone roof**
 </td>
 <td>
 <span title="1 stone"><img src="assets/images/roof_builder_mayan.png"></span>
-<strong>Mayan roof builder</strong>
+**Mayan roof builder**
 
 <br />
 <img src="assets/images/roof_mayan.png">
-<strong>Mayan roof</strong>
+**Mayan roof**
 </td>
 <td>
 <span title="0.75 clay"><img src="assets/images/roof_builder_concrete.png"></span>
-<strong>Concrete roof builder</strong>
+**Concrete roof builder**
 
 <br />
 <img src="assets/images/roof_cement.png">
-<strong>Concrete roof</strong>
+**Concrete roof**
 </td>
 <td></td>
 <td></td>
@@ -2096,7 +2100,7 @@ underground. Floors can be removed with the hammer.
 <tr class="odd">
 <td>
 <img src="assets/images/floor_cover.png">
-<strong>Floor cover</strong>
+**Floor cover**
 </td>
 <td>Made with 2 wood logs. The simplest type of floor, consisting of a few planks fastened together. Could be placed over a trench to make a bridge, or over a hole in the floor or ground to cover it (the latter concerns a couple of the TDM maps.)</td>
 </tr>
@@ -2114,19 +2118,19 @@ Hover the mouse cursor over an image to see the cost and the material.
 <tr class="odd">
 <td>
 <span title="1 wood log"><img src="assets/images/floor_wood.png"></span>
-<strong>Wood</strong>
+**Wood**
 </td>
 <td>
 <span title="1.5 wood log"><img src="assets/images/floor_fancy_wood.png"></span>
-<strong>Fancy wood</strong>
+**Fancy wood**
 </td>
 <td>
 <span title="0.75 wood log"><img src="assets/images/floor_thatch.png"></span>
-<strong>Thatch</strong>
+**Thatch**
 </td>
 <td>
 <span title="0.75 wood log"><img src="assets/images/floor_thatch_split.png"></span>
-<strong>Thatch split</strong>
+**Thatch split**
 </td>
 <td></td>
 </tr>
@@ -2143,81 +2147,81 @@ randomly selected upon construction.
 <tr class="odd">
 <td>
 <span title="1 stone"><img src="assets/images/floor_cobblestone.png"></span>
-<strong>Cobblestone</strong>
+**Cobblestone**
 </td>
 <td>
 <span title="1 stone brick"><img src="assets/images/floor_stone_bricks.png"></span>
-<strong>Stone brick</strong>
+**Stone brick**
 </td>
 <td>
 <span title="1 stone"><img src="assets/images/floor_road_roman.png"></span>
-<strong>Roman road</strong>
+**Roman road**
 </td>
 <td>
 <span title="1.2 stone"><img src="assets/images/floor_slate.png"></span>
-<strong>Slate</strong>
+**Slate**
 </td>
 <td>
 <span title="1 stone"><img src="assets/images/floor_road.png"></span>
-<strong>Road</strong>
+**Road**
 </td>
 <td>
 <span title="1 stone"><img src="assets/images/floor_marble_raw.png"></span>
-<strong>Raw marble</strong>
+**Raw marble**
 </td>
 <td></td>
 </tr>
 <tr class="even">
 <td>
 <span title="1 stone"><img src="assets/images/floor_marble_raw_black.png"></span>
-<strong>Raw black marble</strong>
+**Raw black marble**
 </td>
 <td>
 <span title="1 stone"><img src="assets/images/floor_marble_raw_pink.png"></span>
-<strong>Raw pink marble</strong>
+**Raw pink marble**
 </td>
 <td>
 <span title="1 stone"><img src="assets/images/floor_marble.png"></span>
-<strong>Marble</strong>
+**Marble**
 </td>
 <td>
 <span title="1 stone"><img src="assets/images/floor_marble_tile.png"></span>
-<strong>Marble tiles</strong>
+**Marble tiles**
 </td>
 <td>
 <span title="1 stone"><img src="assets/images/floor_marble_tile_black.png"></span>
-<strong>Black marble tiles</strong>
+**Black marble tiles**
 </td>
 <td>
 <span title="1 stone"><img src="assets/images/floor_marble_tile_pink.png"></span>
-<strong>Pink marble tiles</strong>
+**Pink marble tiles**
 </td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>
 <span title="1 stone"><img src="assets/images/floor_marble_ornate_tile.png"></span>
-<strong>Ornate marble tile</strong>
+**Ornate marble tile**
 </td>
 <td>
 <span title="1 stone"><img src="assets/images/floor_marble_ornate_tile_black.png"></span>
-<strong>Ornate black marble tile</strong>
+**Ornate black marble tile**
 </td>
 <td>
 <span title="1 stone"><img src="assets/images/floor_marble_decorative_tile.png"></span>
-<strong>Decorative marble tile</strong>
+**Decorative marble tile**
 </td>
 <td>
 <span title="1 stone"><img src="assets/images/floor_marble_decorative_tile_black.png"></span>
-<strong>Decorative black marble tile</strong>
+**Decorative black marble tile**
 </td>
 <td>
 <span title="1 stone"><img src="assets/images/floor_marble_decorative_tile_pink.png"></span>
-<strong>Decorative pink marble tile</strong>
+**Decorative pink marble tile**
 </td>
 <td>
 <span title="1 stone"><img src="assets/images/floor_marble_tile_grid.png"></span>
-<strong>Marble grid tile</strong>
+**Marble grid tile**
 
 <br />
 </td>
@@ -2226,19 +2230,19 @@ randomly selected upon construction.
 <tr class="even">
 <td>
 <span title="1 stone"><img src="assets/images/floor_marble_checkerboard.png"></span>
-<strong>Marble checkerboard</strong>
+**Marble checkerboard**
 </td>
 <td>
 <span title="1 stone"><img src="assets/images/floor_marble_checkerboard_reverse.png"></span>
-<strong>Reverse marble checkerboard</strong>
+**Reverse marble checkerboard**
 </td>
 <td>
 <span title="1 stone"><img src="assets/images/floor_marble_checkerboard_pink.png"></span>
-<strong>Pink marble checkerboard</strong>
+**Pink marble checkerboard**
 </td>
 <td>
 <span title="1 stone"><img src="assets/images/floor_marble_checkerboard_pink_reverse.png"></span>
-<strong>Reverse pink marble checkerboard</strong>
+**Reverse pink marble checkerboard**
 </td>
 <td></td>
 <td></td>
@@ -2254,31 +2258,31 @@ randomly selected upon construction.
 <tr class="odd">
 <td>
 <span title="1 sandstone"><img src="assets/images/floor_sandstone.png"></span>
-<strong>Sandstone</strong>
+**Sandstone**
 </td>
 <td>
 <span title="1 sandstone"><img src="assets/images/floor_sandstone_brick.png"></span>
-<strong>Brick</strong>
+**Brick**
 </td>
 <td>
 <span title="1 sandstone"><img src="assets/images/floor_sandstone_slab.png"></span>
-<strong>Slab</strong>
+**Slab**
 </td>
 <td>
 <span title="1 sandstone"><img src="assets/images/floor_sandstone_slab_red.png"></span>
-<strong>Red slab</strong>
+**Red slab**
 </td>
 <td>
 <span title="2 sandstone"><img src="assets/images/floor_sandstone_tile.png"></span>
-<strong>Tile</strong>
+**Tile**
 </td>
 <td>
 <span title="2.5 sandstone"><img src="assets/images/floor_sandstone_tile_decorative.png"></span>
-<strong>Decorative tile</strong>
+**Decorative tile**
 </td>
 <td>
 <span title="2.5 sandstone"><img src="assets/images/floor_sandstone_tile_decorative_red.png"></span>
-<strong>Red dec. tile</strong>
+**Red dec. tile**
 </td>
 <td></td>
 </tr>
@@ -2292,7 +2296,7 @@ randomly selected upon construction.
 <tr class="odd">
 <td>
 <span title="1 piece of clay"><img src="assets/images/floor_concrete.png"></span>
-<strong>Concrete</strong>
+**Concrete**
 </td>
 <td></td>
 </tr>
@@ -2306,11 +2310,11 @@ randomly selected upon construction.
 <tr class="odd">
 <td>
 <span title="1 steel sheet"><img src="assets/images/floor_steel.png"></span>
-<strong>Steel</strong>
+**Steel**
 </td>
 <td>
 <span title="1 steel sheet"><img src="assets/images/floor_steel_white.png"></span>
-<strong>Steel white</strong>
+**Steel white**
 </td>
 <td></td>
 </tr>
@@ -2327,15 +2331,15 @@ used to create an impression of height difference.
 <tr class="odd">
 <td>
 <span title="2 stone"><img src="assets/images/stairs_stone.png"></span>
-<strong>Stone</strong>
+**Stone**
 </td>
 <td>
 <span title="3 sandstone"><img src="assets/images/stairs_sandstone.png"></span>
-<strong>Sandstone</strong>
+**Sandstone**
 </td>
 <td>
 <span title="2 wood"><img src="assets/images/stairs_wood.png"></span>
-<strong>Wood</strong>
+**Wood**
 </td>
 <td>style="width: 64%|</td>
 </tr>
@@ -2360,51 +2364,51 @@ with a key (the iron and jail doors currently) - more details below.
 <tr class="odd">
 <td>
 <span title="3 wood; direction - W; opens to the left"><img src="assets/images/door_fence.png"></span>
-<strong>Primitive fence door</strong>
+**Primitive fence door**
 </td>
 <td>
 <span title="3 wood; direction - W; opens to the left"><img src="assets/images/door_fence_picket.png"></span>
-<strong>Picket wood fence door</strong>
+**Picket wood fence door**
 </td>
 <td>
 <span title="4 wood; direction - All"><img src="assets/images/door_rustic.png"></span>
-<strong>Rustic door</strong>
+**Rustic door**
 </td>
 <td>
 <span title="5 wood; direction - All"><img src="assets/images/door_wood.png"></span>
-<strong>Wood door</strong>
+**Wood door**
 </td>
 <td>
 <span title="5 wood; direction - All"><img src="assets/images/door_nordic.png"></span>
-<strong>Nordic door</strong>
+**Nordic door**
 </td>
 </tr>
 <tr class="even">
 <td>
 <span title="5 wood; direction - All"><img src="assets/images/door_aztec.png"></span>
-<strong>Aztec door</strong>
+**Aztec door**
 </td>
 <td>
 <span title="1 paper sheet on a wall frame (check Walls section); direction - All"><img src="assets/images/door_shoji.png"></span>
-<strong>Shoji door</strong>
+**Shoji door**
 </td>
 <td>
 <span title="5 stone; direction - All"><img src="assets/images/door_roman.png"></span>
-<strong>Roman door</strong>
+**Roman door**
 </td>
 <td>
 <span title="5 iron; direction - All"><img src="assets/images/door_iron.png"></span>
-<strong>Iron door</strong>
+**Iron door**
 </td>
 <td>
 <span title="12 wood; direction - All"><img src="assets/images/door_cell_wood.png"></span>
-<strong>Wood jail door</strong>
+**Wood jail door**
 </td>
 </tr>
 <tr class="odd">
 <td>
 <span title="12 steel; direction - All"><img src="assets/images/door_cell.png"></span>
-<strong>Steel jail door</strong>
+**Steel jail door**
 </td>
 <td>style=width: 80%|</td>
 <td></td>
@@ -2419,7 +2423,7 @@ with a key (the iron and jail doors currently) - more details below.
 <tr class="odd">
 <td>
 <img src="assets/images/key.png"> <img src="assets/images/keychain.png">
-<strong>Key and keychain</strong>
+**Key and keychain**
 </td>
 <td>Key and keychain are made with iron ingots. Keys are used to lock certain doors, wooden cabinets, crates, lockers and large barrels - click them with the key.
 <ul>
@@ -2446,62 +2450,62 @@ and additional details.
 <tr class="odd">
 <td>
 <span title="5 wood"><img src="assets/images/window.png"></span>
-<strong>Wood</strong>
+**Wood**
 </td>
 <td>
 <span title="4 wood on a wall frame (check Walls section)"><img src="assets/images/window_medieval.png"></span>
-<strong>Medieval</strong>
+**Medieval**
 </td>
 <td>
 <span title="1 paper sheet on a wall frame (check Walls section)"><img src="assets/images/window_shoji.png"></span>
-<strong>Shoji</strong>
+**Shoji**
 </td>
 <td>
 <span title="3 bamboo on a wall frame (check Walls section)"><img src="assets/images/window_bamboo.png"></span>
-<strong>Bamboo</strong>
+**Bamboo**
 </td>
 <td>
 <span title="5 stone"><img src="assets/images/window_stone.png"></span>
-<strong>Stone</strong>
+**Stone**
 </td>
 <td>
 <span title="5 stone"><img src="assets/images/window_stone_full.png"></span>
-<strong>Full stone</strong>
+**Full stone**
 </td>
 <td>
 <span title="1 roman stucco on a stone window frame"><img src="assets/images/window_villa.png"></span>
-<strong>Villa</strong>
+**Villa**
 </td>
 <td>
 <span title="1 roman stucco on a full stone window frame"><img src="assets/images/window_villa_full.png"></span>
-<strong>Full villa</strong>
+**Full villa**
 </td>
 <td></td>
 </tr>
 <tr class="even">
 <td>
 <span title="1 stucco on a wood window frame"><img src="assets/images/window_red_earth_full.png"></span>
-<strong>Full red earth</strong>
+**Full red earth**
 </td>
 <td>
 <span title="Built like a Sumerian wall - choose Window while building (check Walls section)"><img src="assets/images/window_sumerian.png"></span>
-<strong>Sumerian</strong>
+**Sumerian**
 </td>
 <td>
 <span title="5 sandstone"><img src="assets/images/window_sandstone.png"></span>
-<strong>Sandstone</strong>
+**Sandstone**
 </td>
 <td>
 <span title="5 sandstone"><img src="assets/images/window_sandstone_full.png"></span>
-<strong>Full sandst.</strong>
+**Full sandst.**
 </td>
 <td>
 <span title="Built like a brick wall - choose Window while building (check Walls section)"><img src="assets/images/window_brick.png"></span>
-<strong>Brick</strong>
+**Brick**
 </td>
 <td>
 <span title="Built like a brick wall - choose Full Window while building (check Walls section)"><img src="assets/images/window_brick_full.png"></span>
-<strong>Full brick</strong>
+**Full brick**
 </td>
 <td></td>
 <td></td>
@@ -2521,89 +2525,89 @@ random and may differ from the icons below.
 <tr class="odd">
 <td>
 <img src="assets/images/fence_woodWE.png">
-<strong>W,E</strong>
+**W,E**
 </td>
 <td>
 <img src="assets/images/fence_woodN.png">
-<strong>N</strong>
+**N**
 </td>
 <td>
 <img src="assets/images/fence_woodS.png">
-<strong>S</strong>
+**S**
 </td>
 <td></td>
 <td>
 <img src="assets/images/fence_picketWE.png">
-<strong>W,E</strong>
+**W,E**
 </td>
 <td>
 <img src="assets/images/fence_picketN.png">
-<strong>N</strong>
+**N**
 </td>
 <td>
 <img src="assets/images/fence_picketS.png">
-<strong>S</strong>
+**S**
 </td>
 <td></td>
 <td>
 <img src="assets/images/fence_palisadeW.png">
-<strong>W</strong>
+**W**
 </td>
 <td>
 <img src="assets/images/fence_palisadeE.png">
-<strong>E</strong>
+**E**
 </td>
 <td>
 <img src="assets/images/fence_palisadeN.png">
-<strong>N</strong>
+**N**
 </td>
 <td>
 <img src="assets/images/fence_palisadeS.png">
-<strong>S</strong>
+**S**
 </td>
 <td></td>
 <td>
 <img src="assets/images/fence_ironW.png">
-<strong>W</strong>
+**W**
 </td>
 <td>
 <img src="assets/images/fence_ironE.png">
-<strong>E</strong>
+**E**
 </td>
 <td>
 <img src="assets/images/fence_ironNS.png">
-<strong>N,S</strong>
+**N,S**
 </td>
 <td></td>
 <td>
 <img src="assets/images/fence_chainlinkWE.png">
-<strong>W,E</strong>
+**W,E**
 </td>
 <td>
 <img src="assets/images/fence_chainlinkNS.png">
-<strong>N,S</strong>
+**N,S**
 </td>
 <td></td>
 </tr>
 <tr class="even">
 <td>
-<strong>Primitive wood</strong>
+**Primitive wood**
 </td>
 <td></td>
 <td>
-<strong>Picket wood</strong>
+**Picket wood**
 </td>
 <td></td>
 <td>
-<strong>Wood palisade</strong>
+**Wood palisade**
 </td>
 <td></td>
 <td>
-<strong>Iron fence</strong>
+**Iron fence**
 </td>
 <td></td>
 <td>
-<strong>Chainlink fence</strong>
+**Chainlink fence**
 </td>
 <td></td>
 <td></td>
@@ -2643,11 +2647,11 @@ random and may differ from the icons below.
 <tr class="even">
 <td>
 <img src="assets/images/fence_wood_bars.png">
-<strong>All</strong>
+**All**
 </td>
 <td>
 <img src="assets/images/fence_steel_bars.png">
-<strong>All</strong>
+**All**
 </td>
 <td></td>
 <td></td>
@@ -2670,10 +2674,10 @@ random and may differ from the icons below.
 </tr>
 <tr class="odd">
 <td>
-<strong>Wood jail bars</strong>
+**Wood jail bars**
 </td>
 <td>
-<strong>Steel jail bars</strong>
+**Steel jail bars**
 </td>
 <td></td>
 <td></td>
@@ -2720,67 +2724,67 @@ right next to and behind them.**
 <tr class="odd">
 <td>
 <img src="assets/images/barricade_dirtW.png">
-<strong>W</strong>
+**W**
 </td>
 <td>
 <img src="assets/images/barricade_dirtE.png">
-<strong>E</strong>
+**E**
 </td>
 <td>
 <img src="assets/images/barricade_dirtN.png">
-<strong>N</strong>
+**N**
 </td>
 <td>
 <img src="assets/images/barricade_dirtS.png">
-<strong>S</strong>
+**S**
 </td>
 <td></td>
 <td>
 <img src="assets/images/barricade_snowW.png">
-<strong>W</strong>
+**W**
 </td>
 <td>
 <img src="assets/images/barricade_snowE.png">
-<strong>E</strong>
+**E**
 </td>
 <td>
 <img src="assets/images/barricade_snowN.png">
-<strong>N</strong>
+**N**
 </td>
 <td>
 <img src="assets/images/barricade_snowS.png">
-<strong>S</strong>
+**S**
 </td>
 <td></td>
 <td>
 <img src="assets/images/barricade_rockW.png">
-<strong>W</strong>
+**W**
 </td>
 <td>
 <img src="assets/images/barricade_rockE.png">
-<strong>E</strong>
+**E**
 </td>
 <td>
 <img src="assets/images/barricade_rockN.png">
-<strong>N</strong>
+**N**
 </td>
 <td>
 <img src="assets/images/barricade_rockS.png">
-<strong>S</strong>
+**S**
 </td>
 <td>style="width: 16%|</td>
 </tr>
 <tr class="even">
 <td>
-<strong>Dirt</strong>
+**Dirt**
 </td>
 <td></td>
 <td>
-<strong>Snow</strong>
+**Snow**
 </td>
 <td></td>
 <td>
-<strong>Rock</strong>
+**Rock**
 </td>
 <td></td>
 <td></td>
@@ -2814,19 +2818,19 @@ right next to and behind them.**
 <tr class="even">
 <td>
 <img src="assets/images/barricade_sandbagW.png">
-<strong>W</strong>
+**W**
 </td>
 <td>
 <img src="assets/images/barricade_sandbagE.png">
-<strong>E</strong>
+**E**
 </td>
 <td>
 <img src="assets/images/barricade_sandbagN.png">
-<strong>N</strong>
+**N**
 </td>
 <td>
 <img src="assets/images/barricade_sandbagS.png">
-<strong>S</strong>
+**S**
 </td>
 <td></td>
 <td></td>
@@ -2842,7 +2846,7 @@ right next to and behind them.**
 </tr>
 <tr class="odd">
 <td>
-<strong>Sandbag</strong>
+**Sandbag**
 </td>
 <td></td>
 <td></td>
@@ -2873,46 +2877,46 @@ barrier with the rolls themselves. Could be cut with the wirecutters.
 <tr class="odd">
 <td>
 <img src="assets/images/fence_barbwireW.png">
-<strong>W</strong>
+**W**
 </td>
 <td>
 <img src="assets/images/fence_barbwireE.png">
-<strong>E</strong>
+**E**
 </td>
 <td>
 <img src="assets/images/fence_barbwireN.png">
-<strong>N</strong>
+**N**
 </td>
 <td>
 <img src="assets/images/fence_barbwireS.png">
-<strong>S</strong>
+**S**
 </td>
 <td></td>
 <td>
 <img src="assets/images/barrier_jerseyW.png">
-<strong>W</strong>
+**W**
 </td>
 <td>
 <img src="assets/images/barrier_jerseyE.png">
-<strong>E</strong>
+**E**
 </td>
 <td>
 <img src="assets/images/barrier_jerseyN.png">
-<strong>N</strong>
+**N**
 </td>
 <td>
 <img src="assets/images/barrier_jerseyS.png">
-<strong>S</strong>
+**S**
 </td>
 <td>style="width: 78%|</td>
 </tr>
 <tr class="even">
 <td>
-<strong>Barbwire</strong>
+**Barbwire**
 </td>
 <td></td>
 <td>
-<strong>Jersey barrier</strong>
+**Jersey barrier**
 </td>
 <td></td>
 <td></td>
@@ -2980,36 +2984,36 @@ ingots).
 <tr class="odd">
 <td>
 <img src="assets/images/engine_iron_furnace.png"> <img src="assets/images/engine_steam.png">
-<strong>Iron furnace/Steam engine</strong>
+**Iron furnace/Steam engine**
 </td>
-<td><strong>Power:</strong> 45<br />
-<strong>Fuel (iron furnace):</strong> wood, branches, coal, charcoal, flammable cloth and wooden items<br />
+<td>**Power:** 45<br />
+**Fuel (iron furnace):** wood, branches, coal, charcoal, flammable cloth and wooden items<br />
 Available at 95 Industrial research. Made with 15 steel sheets (engine), plus 15 iron ingots (furnace). This engine requires an external combustion source, and that is the function of the iron furnace.<br />
 Build both the furnace and the engine, and place them next to each other, in neighbouring tiles. Add fuel to the furnace and click the furnace to light the fire. Now click the steam engine to start it. As long as the furnace has fire burning and remains next to the engine, the engine will keep working.</td>
 </tr>
 <tr class="even">
 <td>
 <img src="assets/images/engine_hotbulb.png">
-<strong>Hot bulb engine</strong>
+**Hot bulb engine**
 </td>
-<td><strong>Power:</strong> 66<br />
-<strong>Fuel:</strong> oil, gasoline, diesel, biodiesel, ethanol, olive oil</td>
+<td>**Power:** 66<br />
+**Fuel:** oil, gasoline, diesel, biodiesel, ethanol, olive oil</td>
 </tr>
 <tr class="odd">
 <td>
 <img src="assets/images/engine_diesel.png">
-<strong>Diesel engine</strong>
+**Diesel engine**
 </td>
-<td><strong>Power:</strong> 80<br />
-<strong>Fuel:</strong> diesel</td>
+<td>**Power:** 80<br />
+**Fuel:** diesel</td>
 </tr>
 <tr class="even">
 <td>
 <img src="assets/images/engine_gasoline.png">
-<strong>Gasoline 4-stroke engine</strong>
+**Gasoline 4-stroke engine**
 </td>
-<td><strong>Power:</strong> 100<br />
-<strong>Fuel:</strong> gasoline</td>
+<td>**Power:** 100<br />
+**Fuel:** gasoline</td>
 </tr>
 </tbody>
 </table>
@@ -3023,12 +3027,12 @@ There are two kinds of refinery - petroleum and biofuel.
 <tr class="odd">
 <td>
 <img src="assets/images/refinery.png">
-<strong>Refinery</strong>
+**Refinery**
 </td>
-<td><strong>Petroleum refinery</strong><br />
-<strong>Production rate:</strong> every 10 units of raw petroleum =&gt; 8 units of gasoline or 7 units of diesel per 1 minute<br />
+<td>**Petroleum refinery**<br />
+**Production rate:** every 10 units of raw petroleum =&gt; 8 units of gasoline or 7 units of diesel per 1 minute<br />
 Made with 22 steel sheets. Used to distill crude oil into gasoline and diesel.<br />
-<strong>Biofuel refinery</strong><br />
+**Biofuel refinery**<br />
 Made with 18 steel sheets. Used to produce ethanol from alcoholic beverages (the stronger, the more efficient) and biofuel from olive oil.</td>
 </tr>
 </tbody>
@@ -3055,10 +3059,10 @@ Made with 18 steel sheets. Used to produce ethanol from alcoholic beverages (the
 <tr class="odd">
 <td>
 <img src="assets/images/bakelizer.png">
-<strong>Bakelizer</strong>
+**Bakelizer**
 </td>
-<td><strong>Production rate:</strong> every 5 units of raw petroleum =&gt; 1 plastic sheet per 1 minute<br />
-Made with 18 steel sheets. Used to produce [Plastic](Full_Crafting_List#plastic "wikilink") from raw petroleum.</td>
+<td>**Production rate:** every 5 units of raw petroleum =&gt; 1 plastic sheet per 1 minute<br />
+Made with 18 steel sheets. Used to produce <a href="Full_Crafting_List#plastic">Plastic</a> from raw petroleum.</td>
 </tr>
 </tbody>
 </table>
@@ -3189,7 +3193,7 @@ to avoid pushing them on accident, but it is not necessary.**
 <img src="assets/images/ship_steel.png">
 </td>
 <td><ul>
-<li>A ship frame could also be built with steel instead of wood in later ages. <strong>Ship rudder axis has to be built with wood, though.</strong></li>
+<li>A ship frame could also be built with steel instead of wood in later ages. **Ship rudder axis has to be built with wood, though.**</li>
 <li>Also in later ages, a motor ship could be built to break free of the tyranny of the wind. Place an engine with a fuel tank on the ship frame instead of a mast.
 <ul>
 <li>A motor ship with an engine is sensitive to the weight it carries, so the engine must produce enough power. An engine the size of 12000-15000 cc should be adequate for almost any ship.</li>
