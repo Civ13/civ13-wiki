@@ -1,6 +1,8 @@
 # Guide to Crafting
-<b><em>"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."</em></b><br />
-Thomas Tredgold
+
+<b><em>"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."</em></b><br>
+<i>Thomas Tredgold</i>
+
 Have you ever thought of dedicating your life to something meaningful?
 Well, you have found the guide to it! Once you familiarize yourself
 with these notes on crafting, you will have learned enough to become a
@@ -78,91 +80,104 @@ Pioneers, only the Blacksmith can use the anvil.
 <tbody>
 <tr class="odd">
 <td>
-<img src="assets/images/leaved_stick.png"> <img src="assets/images/sharpened_stick.png">
+<img src="assets/images/leaved_stick.png"> <img src="assets/images/sharpened_stick.png"></td>
+<td>
 <b>Stick</b>
 </td>
 <td>The humble beginnings of a future industrial superpower... First, harvest a branch by clicking a tree on Harm intent. Next, click the branch on Grab intent to remove the leaves, then click it again on Harm intent to clear the twigs. Voila! The first leap on the path of Progress has been made! Now the stick could be sharpened with a sharpened flint or a knife - click the stick with it. A sharpened stick could be used to catch fish (click fish tiles) or ants (click anthills); it could also be used to make a flint axe (see below.)</td>
 </tr>
 <tr class="even">
 <td>
-<img src="assets/images/flint.png"> <img src="assets/images/sharpened_flint.png">
+<img src="assets/images/flint.png"> <img src="assets/images/sharpened_flint.png"></td>
+<td>
 <b>Flint</b>
 </td>
 <td>Could be found among rock piles on the ground - click rocks with an empty hand on Grab intent to look for flint. Next, click rocks with flint to sharpen it.</td>
 </tr>
 <tr class="odd">
 <td>
-<img src="assets/images/flint_axe.png">
+<img src="assets/images/flint_axe.png"></td>
+<td>
 <b>Flint hatchet</b>
 </td>
 <td>Made by attaching a sharpened flint to a sharpened stick. A forefather of more advanced hatchets.</td>
 </tr>
 <tr class="even">
 <td>
-<img src="assets/images/e.png"> <img src="assets/images/bronze_knife.png"> <img src="assets/images/steel_knife.png">
+<img src="assets/images/e.png"> <img src="assets/images/bronze_knife.png"> <img src="assets/images/steel_knife.png"></td>
+<td>
 <b>Knife</b>
 </td>
-<td>Made with either 4 bone pieces or 1 unit of manifold materials: stone, copper, bronze, iron, steel, tin, even gold, silver and diamonds. Used to cut trees, skin animals and stab enemies in a desperate situation. Used to cut wires and cut down curtains as well. The bone knife (the leftmost one) is also a surgical tool in the earliest epochs, but for that refer to [Guide to Surgery](Guide_to_Medical#Surgery "wikilink"). And check the [Guide to Cooking](Guide_to_Cooking "wikilink") for more culinary uses of the knife.</td>
+<td>Made with either 4 bone pieces or 1 unit of manifold materials: stone, copper, bronze, iron, steel, tin, even gold, silver and diamonds. Used to cut trees, skin animals and stab enemies in a desperate situation. Used to cut wires and cut down curtains as well. The bone knife (the leftmost one) is also a surgical tool in the earliest epochs, but for that refer to <a href="Guide_to_Medical#Surgery">Guide to Surgery</a>. And check the <a href="Guide_to_Cooking">Guide to Cooking</a> for more culinary uses of the knife.</td>
 </tr>
 <tr class="odd">
 <td>
-<img src="assets/images/bone_hatchet.png"> <img src="assets/images/hatchet.png">
+<img src="assets/images/bone_hatchet.png"> <img src="assets/images/hatchet.png"></td>
+<td>
 <b>Hatchet</b>
 </td>
 <td>Made with either 2 bone pieces, 2 stones or 2 metal ingots (copper, bronze, iron or steel), plus a wooden handle. Mainly used to cut down trees for wood or to remove bushes and even rocks on the ground, but sometimes applied against hostile wildlife or malevolent people. Can be used to break fences or walls as well.</td>
 </tr>
 <tr class="even">
 <td>
-<img src="assets/images/hammer.png"> <img src="assets/images/clawhammer.png">
+<img src="assets/images/hammer.png"> <img src="assets/images/clawhammer.png"></td>
+<td>
 <b>Hammer</b>
 </td>
 <td>Made with 5 wood logs. Used to deconstruct floors, fences, beds, chairs, tables, braziers, wooden roof supports and many other things - click something with a hammer to see whether it could be deconstructed. Also used to fix and unfix custom signs, paintings and mirrors in place. A clawhammer (the right one) is made with 3 iron ingots and functions as a modern and quicker variant of the hammer.</td>
 </tr>
 <tr class="odd">
 <td>
-<img src="assets/images/bone_shovel.png"> <img src="assets/images/shovel.png">
+<img src="assets/images/bone_shovel.png"> <img src="assets/images/shovel.png"></td>
+<td>
 <b>Shovel</b>
 </td>
 <td>Made with either 2 bone pieces or 2 iron ingots, plus a wooden handle. Used to dig up dirt, sand and snow, as well as for digging underground entrances (tunnels), pit latrines and graves. For the last three, hold a shovel in the active hand and click it, or press Ctrl-Z or Z in the hotkeys mode, then choose a respective option. An underground entrance (more like exit, in this case) could also be dug upwards if done underground, unless there is some kind of obstacle on the surface, e.g. a floor cover.</td>
 </tr>
 <tr class="even">
 <td>
-<img src="assets/images/chisel.png"> <img src="assets/images/modern_chisel.png">
+<img src="assets/images/chisel.png"> <img src="assets/images/modern_chisel.png"></td>
+<td>
 <b>Chisel</b>
 </td>
 <td>Made with either 8 stones or 8 iron ingots. Needs a hammer in the non-active hand to use. Used to give a certain design to a stone wall or an underground rock wall (take notice, that you could still mine through the latter despite it looking like a stone wall). To use, click a stone wall with a chisel.</td>
 </tr>
 <tr class="odd">
 <td>
-<img src="assets/images/wrench.png">
+<img src="assets/images/wrench.png"></td>
+<td>
 <b>Wrench</b>
 </td>
 <td>Made with 5 iron ingots. Used to secure and unsecure movable objects, such as tables, glazed windows, braziers, ovens, furnaces, pianos, catapults and others.</td>
 </tr>
 <tr class="even">
 <td>
-<img src="assets/images/bone_pickaxe.png"> <img src="assets/images/pickaxe.png">
+<img src="assets/images/bone_pickaxe.png"> <img src="assets/images/pickaxe.png"></td>
+<td>
 <b>Pickaxe</b>
 </td>
 <td>Made with either 2 bone pieces, 2 stones or 3 iron ingots, plus a wooden handle. Used to mine underground rock walls. The iron pickaxe works quicker.</td>
 </tr>
 <tr class="odd">
 <td>
-<img src="assets/images/jackhammer.png">
+<img src="assets/images/jackhammer.png"></td>
+<td>
 <b>Jackhammer</b>
 </td>
 <td>Made with 24 steel sheets. Used for the same purpose as pickaxes. The fastest mining tool.</td>
 </tr>
 <tr class="even">
 <td>
-<img src="assets/images/ore_collector.png">
+<img src="assets/images/ore_collector.png"></td>
+<td>
 <b>Ore collector</b>
 </td>
 <td>Made with 5 leather sheets. Used to pick up ore from the ground in a more efficient manner. Have the ore collector in your active hand, stand over the ore on the ground, then click the collector, or press Ctrl-Z or Z in the hotkeys mode. The ore will be put in the collector whose ingenious design allows to exceed the normal stacking limit (50 units per one stack) for its contents.</td>
 </tr>
 <tr class="odd">
 <td>
-<img src="assets/images/engine_maker.png">
+<img src="assets/images/engine_maker.png"></td>
+<td>
 <b>Engine maker</b>
 </td>
 <td>Made with 5 iron ingots. Used to construct engines, except for the steam engine. Have the engine maker in your active hand and a stack of steel sheets in the other hand, then click the engine maker, or press Ctrl-Z or Z in the hotkeys mode. Choose the engine to construct.</td>
@@ -186,7 +201,7 @@ but it is still used as a component in some other area of crafting.
 ### Wood
 
 There are two main ways to obtain
-<b>[Wood](Full_Crafting_List#wood "wikilink")** for crafting:
+**[Wood](Full_Crafting_List#wood "wikilink")** for crafting:
 
   - **Cut down trees in the wilderness** - preferably, a hatchet should
     be used, but a knife works too, although it will take around 15-20
@@ -194,27 +209,31 @@ There are two main ways to obtain
     logs. However, avoid using knives to cut down palms - it will take
     much more effort to cut the trunk of these desert-hardened trees.
     Trees will grow back slowly.
-  - **[Cultivate trees on farms](Guide_to_Farming "wikilink")</b>
+
+  - **[Cultivate trees on farms](Guide_to_Farming "wikilink")**
 
 <table>
 <tbody>
 <tr class="odd">
 <td>
-<img src="assets/images/sheet_wood.png">
+<img src="assets/images/sheet_wood.png"></td>
+<td>
 <b>Wood log</b>
 </td>
 <td>A visual representation of a wood log, placed herein to avoid any ambiguities. This is a guide, after all.</td>
 </tr>
 <tr class="even">
 <td>
-<img src="assets/images/leaves.png">
+<img src="assets/images/leaves.png"></td>
+<td>
 <b>Leaves</b>
 </td>
 <td>This is what you get when removing leaves from a branch. Used to make thatch roofing - click the leaves in your active hand, or press Ctrl-Z, or Z in the hotkeys mode. Edible if you happen to be a gorilla.</td>
 </tr>
 <tr class="odd">
 <td>
-<img src="assets/images/leaves_palm.png">
+<img src="assets/images/leaves_palm.png"></td>
+<td>
 <b>Palm leaves</b>
 </td>
 <td>Obtained by felling palms. Used to make palm leaves roof. Edible for gorillas as well.</td>
@@ -280,27 +299,30 @@ tile.
 
 When you have piles of dirt or snow, you can use them right away to
 build barricades and walls. Refer to the
-<b>[Construction](#Construction "wikilink")** section for more details.
+**[Construction](#Construction "wikilink")** section for more details.
 
 <table>
 <tbody>
 <tr class="odd">
 <td>
-<img src="assets/images/dirt_pile.png">
+<img src="assets/images/dirt_pile.png"></td>
+<td>
 <b>Dirt</b>
 </td>
 <td>Used to produce <a href="Full_Crafting_List#clay">clay</a> and to construct dirt walls and barricades. To produce clay, pour water from a container onto a dirt pile, 10 units of water per pile.</td>
 </tr>
 <tr class="even">
 <td>
-<img src="assets/images/sand_pile.png">
+<img src="assets/images/sand_pile.png"></td>
+<td>
 <b>Sand</b>
 </td>
 <td>Used to produce <a href="Full_Crafting_List#glass">glass</a> sheets via firing in the campfire and ovens.</td>
 </tr>
 <tr class="odd">
 <td>
-<img src="assets/images/snow_pile.png">
+<img src="assets/images/snow_pile.png"></td>
+<td>
 <b>Snow</b>
 </td>
 <td>Not exactly a type of soil, but could be used to construct walls and barricades, similarly to dirt.</td>
@@ -330,8 +352,6 @@ holding a hammer in the other hand.
 <td>
 <b>Metals</b>
 </td>
-</tr>
-<tr class="even">
 <td>
 <img src="assets/images/ore_copper.png"> <img src="assets/images/sheet_copper.png">
 </td>
@@ -340,8 +360,6 @@ holding a hammer in the other hand.
 <td>
 <b>Others</b>
 </td>
-</tr>
-<tr class="even">
 <td>
 <img src="assets/images/sheet_stone.png">
 </td>
@@ -353,10 +371,12 @@ holding a hammer in the other hand.
 
   - **Uranium is radioactive!** It will slowly irradiate everything in
     the vicinity if left out in the open.
+
   - The ore yielded from excavation is purely random; some ores appear
     noticeably rarer than others. Among the rarest ores are diamonds,
     coal, saltpeter, sulfur and uranium. Lead, mercury and platinum are
     also somewhat uncommon.
+
   - Ores marked with (*) could be found only in the undergrounds of
     certain biomes:
 
@@ -383,16 +403,12 @@ holding a hammer in the other hand.
 </tbody>
 </table>
 
-Now about that nuance, which has to do with how supports work. **Stay
-within two tiles of a nearest mining support to avoid a cave-in!** Look
+Now about that nuance, which has to do with how supports work. **Stay within two tiles of a nearest mining support to avoid a cave-in!** Look
 at the picture - the lantern on the ground marks the maximum safe
 distance at which you can stand and mine everything in your reach. Even
 though supports technically hold 3 tiles of the ceiling, if you stand on
 a tile and there are 2 tiles between you and the closest support, a
-cave-in is likely to happen. Back to the picture - **if you so much as
-stood on the rightmost tile, where there is no support, it could result
-in a cave-in** (it is not guaranteed to happen, but the probability is
-high.)
+cave-in is likely to happen. Back to the picture - **if you so much as stood on the rightmost tile, where there is no support, it could result in a cave-in** (it is not guaranteed to happen, but the probability is high.)
 
 There are two kinds of cave-ins, a minor and a major one, and there is
 an element of chance as to which cave-in befalls a careless miner. A
@@ -550,7 +566,7 @@ Made with 8 iron ingots. A potbelly-like containment for fire.</td>
 </td>
 <td><b>Capacity</b>: 4<br />
 <b>Cooking time</b>: 5 seconds<br />
-Made with 8 steel sheets. A pinnacle of the fireplace technology (so far.)</td>
+Made with 8 steel sheets. A pinnacle of the fireplace technology (so far...)</td>
 </tr>
 </tbody>
 </table>
@@ -575,6 +591,7 @@ or 1 piece of mineral coal.
 <td>Bronze
 </td>
 <td>
+</tr><tr>
 <img src="assets/images/sheet_steel.png"></td>
 <td>Steel
 </td>
@@ -602,7 +619,6 @@ item's name.
 <b>Alloys</b>
 </td>
 <td>
-<b>Recycling</b>
 </td>
 </tr>
 <tr class="even">
@@ -611,12 +627,25 @@ item's name.
 <b>Furnace</b>
 </td>
 <td>
-<b>1</b> Iron <img src="assets/images/ore_iron.png"><b>or</b> Iron <img src="assets/images/sheet_iron.png"><b>=> 1</b> Steel <img src="assets/images/sheet_steel.png">
-<b>1</b> Copper <img src="assets/images/ore_copper.png"><b>or</b> Copper <img src="assets/images/sheet_copper.png"><b>+ 1</b> Tin <img src="assets/images/ore_tin.png"><b>or</b> Tin <img src="assets/images/sheet_tin.png"><b>=> 1</b><img src="assets/images/sheet_bronze.png">
+<b>1 Iron ore</b> <img src="assets/images/ore_iron.png">or <b>1 Iron ingot</b><img src="assets/images/sheet_iron.png">=> <b>1 Steel ingot</b> <img src="assets/images/sheet_steel.png"></tr><tr>
+<b>1 Copper ore</b><img src="assets/images/ore_copper.png">or <b>1 Copper ingot</b> <img src="assets/images/sheet_copper.png">+ <b>1 Tin ore</b> <img src="assets/images/ore_tin.png">or <b>1 Tin ingot</b><img src="assets/images/sheet_tin.png">=> <b>1 Bronze ingot</b><img src="assets/images/sheet_bronze.png">
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td>
+<b>Recycling</b>
 </td>
 <td>
+</td>
+</tr>
+<td>
 <b>1 knife, spoon or fork => 1 ingot of a respective material</b>
-"Tin can"><img src="assets/images/tin_can_empty.png">**=> 90% of amount of tin spent on the cans</b>
+"Tin can"><img src="assets/images/tin_can_empty.png">=> 90% of amount of tin spent on the cans</b>
 </td>
 </tr>
 </tbody>
@@ -664,7 +693,7 @@ level of the crafting skill before you are able to use them.
 <img src="assets/images/retting_trough.png">
 <b>Retting trough</b>
 </td>
-<td>Made with 8 wood logs. Used to soak fiberous plants into retted fabric. Two units of cotton or flax produce one bundle of retted fabric, which could be turned into **<a href="Full_Crafting_List#cloth">cloth</a>** at the **<a href="Guide_to_Crafting#Loom">loom</a>**.</td>
+<td>Made with 8 wood logs. Used to soak fiberous plants into retted fabric. Two units of cotton or flax produce one bundle of retted fabric, which could be turned into <b><a href="Full_Crafting_List#cloth">cloth</a></b> at the <b><a href="Guide_to_Crafting#Loom">loom</a></b>.</td>
 </tr>
 </tbody>
 </table>
