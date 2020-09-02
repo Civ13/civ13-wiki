@@ -77,8 +77,6 @@ defaults:
 sass:
     style: compressed
 plugins:
-  - jekyll-avatar
-  - jekyll-coffeescript
   - jekyll-default-layout
   - jekyll-feed
   - jekyll-gist
