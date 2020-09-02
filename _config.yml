@@ -9,7 +9,7 @@ show_wiki_pages_limit: 10
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
 git_branch: "master"
 # (string) Url of logo image, it can be full, absolute or relative.
-logo_url: "https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/civ13_logo.png"
+logo_url: "assets/images/civ13_logo.png"
 baseurl: "/civ13-wiki" # the subpath of your site, e.g. /blog
 relative_url: ""
 url: "https://civ13.github.io" # the base hostname & protocol for your site, e.g. http://example.com

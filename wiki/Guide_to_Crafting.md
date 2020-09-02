@@ -78,91 +78,91 @@ Pioneers, only the Blacksmith can use the anvil.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/leaved_stick.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/sharpened_stick.png">
+<img src="assets/images/leaved_stick.png"> <img src="assets/images/sharpened_stick.png">
 <strong>Stick</strong>
 </td>
 <td>The humble beginnings of a future industrial superpower... First, harvest a branch by clicking a tree on Harm intent. Next, click the branch on Grab intent to remove the leaves, then click it again on Harm intent to clear the twigs. Voila! The first leap on the path of Progress has been made! Now the stick could be sharpened with a sharpened flint or a knife - click the stick with it. A sharpened stick could be used to catch fish (click fish tiles) or ants (click anthills); it could also be used to make a flint axe (see below.)</td>
 </tr>
 <tr class="even">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/flint.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/sharpened_flint.png">
+<img src="assets/images/flint.png"> <img src="assets/images/sharpened_flint.png">
 <strong>Flint</strong>
 </td>
 <td>Could be found among rock piles on the ground - click rocks with an empty hand on Grab intent to look for flint. Next, click rocks with flint to sharpen it.</td>
 </tr>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/flint_axe.png">
+<img src="assets/images/flint_axe.png">
 <strong>Flint hatchet</strong>
 </td>
 <td>Made by attaching a sharpened flint to a sharpened stick. A forefather of more advanced hatchets.</td>
 </tr>
 <tr class="even">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/e.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/bronze_knife.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/steel_knife.png">
+<img src="assets/images/e.png"> <img src="assets/images/bronze_knife.png"> <img src="assets/images/steel_knife.png">
 <strong>Knife</strong>
 </td>
 <td>Made with either 4 bone pieces or 1 unit of manifold materials: stone, copper, bronze, iron, steel, tin, even gold, silver and diamonds. Used to cut trees, skin animals and stab enemies in a desperate situation. Used to cut wires and cut down curtains as well. The bone knife (the leftmost one) is also a surgical tool in the earliest epochs, but for that refer to [Guide to Surgery](Guide_to_Medical#Surgery "wikilink"). And check the [Guide to Cooking](Guide_to_Cooking "wikilink") for more culinary uses of the knife.</td>
 </tr>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/bone_hatchet.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/hatchet.png">
+<img src="assets/images/bone_hatchet.png"> <img src="assets/images/hatchet.png">
 <strong>Hatchet</strong>
 </td>
 <td>Made with either 2 bone pieces, 2 stones or 2 metal ingots (copper, bronze, iron or steel), plus a wooden handle. Mainly used to cut down trees for wood or to remove bushes and even rocks on the ground, but sometimes applied against hostile wildlife or malevolent people. Can be used to break fences or walls as well.</td>
 </tr>
 <tr class="even">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/hammer.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/clawhammer.png">
+<img src="assets/images/hammer.png"> <img src="assets/images/clawhammer.png">
 <strong>Hammer</strong>
 </td>
 <td>Made with 5 wood logs. Used to deconstruct floors, fences, beds, chairs, tables, braziers, wooden roof supports and many other things - click something with a hammer to see whether it could be deconstructed. Also used to fix and unfix custom signs, paintings and mirrors in place. A clawhammer (the right one) is made with 3 iron ingots and functions as a modern and quicker variant of the hammer.</td>
 </tr>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/bone_shovel.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/shovel.png">
+<img src="assets/images/bone_shovel.png"> <img src="assets/images/shovel.png">
 <strong>Shovel</strong>
 </td>
 <td>Made with either 2 bone pieces or 2 iron ingots, plus a wooden handle. Used to dig up dirt, sand and snow, as well as for digging underground entrances (tunnels), pit latrines and graves. For the last three, hold a shovel in the active hand and click it, or press Ctrl-Z or Z in the hotkeys mode, then choose a respective option. An underground entrance (more like exit, in this case) could also be dug upwards if done underground, unless there is some kind of obstacle on the surface, e.g. a floor cover.</td>
 </tr>
 <tr class="even">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/chisel.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/modern_chisel.png">
+<img src="assets/images/chisel.png"> <img src="assets/images/modern_chisel.png">
 <strong>Chisel</strong>
 </td>
 <td>Made with either 8 stones or 8 iron ingots. Needs a hammer in the non-active hand to use. Used to give a certain design to a stone wall or an underground rock wall (take notice, that you could still mine through the latter despite it looking like a stone wall). To use, click a stone wall with a chisel.</td>
 </tr>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wrench.png">
+<img src="assets/images/wrench.png">
 <strong>Wrench</strong>
 </td>
 <td>Made with 5 iron ingots. Used to secure and unsecure movable objects, such as tables, glazed windows, braziers, ovens, furnaces, pianos, catapults and others.</td>
 </tr>
 <tr class="even">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/bone_pickaxe.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/pickaxe.png">
+<img src="assets/images/bone_pickaxe.png"> <img src="assets/images/pickaxe.png">
 <strong>Pickaxe</strong>
 </td>
 <td>Made with either 2 bone pieces, 2 stones or 3 iron ingots, plus a wooden handle. Used to mine underground rock walls. The iron pickaxe works quicker.</td>
 </tr>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/jackhammer.png">
+<img src="assets/images/jackhammer.png">
 <strong>Jackhammer</strong>
 </td>
 <td>Made with 24 steel sheets. Used for the same purpose as pickaxes. The fastest mining tool.</td>
 </tr>
 <tr class="even">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/ore_collector.png">
+<img src="assets/images/ore_collector.png">
 <strong>Ore collector</strong>
 </td>
 <td>Made with 5 leather sheets. Used to pick up ore from the ground in a more efficient manner. Have the ore collector in your active hand, stand over the ore on the ground, then click the collector, or press Ctrl-Z or Z in the hotkeys mode. The ore will be put in the collector whose ingenious design allows to exceed the normal stacking limit (50 units per one stack) for its contents.</td>
 </tr>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/engine_maker.png">
+<img src="assets/images/engine_maker.png">
 <strong>Engine maker</strong>
 </td>
 <td>Made with 5 iron ingots. Used to construct engines, except for the steam engine. Have the engine maker in your active hand and a stack of steel sheets in the other hand, then click the engine maker, or press Ctrl-Z or Z in the hotkeys mode. Choose the engine to construct.</td>
@@ -200,21 +200,21 @@ There are two main ways to obtain
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/sheet_wood.png">
+<img src="assets/images/sheet_wood.png">
 <strong>Wood log</strong>
 </td>
 <td>A visual representation of a wood log, placed herein to avoid any ambiguities. This is a guide, after all.</td>
 </tr>
 <tr class="even">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/leaves.png">
+<img src="assets/images/leaves.png">
 <strong>Leaves</strong>
 </td>
 <td>This is what you get when removing leaves from a branch. Used to make thatch roofing - click the leaves in your active hand, or press Ctrl-Z, or Z in the hotkeys mode. Edible if you happen to be a gorilla.</td>
 </tr>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/leaves_palm.png">
+<img src="assets/images/leaves_palm.png">
 <strong>Palm leaves</strong>
 </td>
 <td>Obtained by felling palms. Used to make palm leaves roof. Edible for gorillas as well.</td>
@@ -232,28 +232,28 @@ to the **[Guide to Cooking](Guide_to_Cooking "wikilink")**.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/black_bear_pelt.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/monkey_pelt.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wolf_pelt.png">
+<img src="assets/images/black_bear_pelt.png"> <img src="assets/images/monkey_pelt.png"> <img src="assets/images/wolf_pelt.png">
 <strong>Furs and Pelts</strong>
 </td>
 <td>Obtained from various animals (check the [Full Crafting List](Full_Crafting_List "wikilink")) by skinning the carcass with a knife on Grab intent. Pelts could be made into coats, gloves, footwear and headgear. Fur clothing comes in handy in the colder climates and seasons. Pelts could also be turned into leather on the tanning rack - cut the hair off of the hide with a knife, then place the hide on the rack and wait until it's ready. One extra leather sheet is obtained this way, compared to skinning the carcass directly for leather as described below.</td>
 </tr>
 <tr class="even">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wool_pile.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wool_roll.png">
+<img src="assets/images/wool_pile.png"> <img src="assets/images/wool_roll.png">
 <strong>[Wool](Full_Crafting_List#woolcloth "wikilink")</strong>
 </td>
 <td>Obtained by shearing sheep. Used for many varieties of clothing, mainly as a cloth substitute for the biomes that lack cotton. Use the <strong>[loom](Guide_to_Crafting#loom "wikilink")</strong> to turn wool piles into <strong>[Woolcloth](Full_Crafting_List#woolcloth "wikilink")</strong>.</td>
 </tr>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/leather.png">
+<img src="assets/images/leather.png">
 <strong>[Leather](Full_Crafting_List#leather "wikilink")</strong>
 </td>
 <td>Used for clothing, military equipment, various bags etc. Obtained from many animals by skinning on Harm intent. Larger animals provide more leather.</td>
 </tr>
 <tr class="even">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/bone.png">
+<img src="assets/images/bone.png">
 <strong>[Bone](Full_Crafting_List#bone "wikilink")</strong>
 </td>
 <td>Obtained by skinning the animal carcass regardless of the intent. A material for primitive tools and weapons.</td>
@@ -278,21 +278,21 @@ build barricades and walls. Refer to the
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/dirt_pile.png">
+<img src="assets/images/dirt_pile.png">
 <strong>Dirt</strong>
 </td>
 <td>Used to produce [clay](Full_Crafting_List#clay "wikilink") and to construct dirt walls and barricades. To produce clay, pour water from a container onto a dirt pile, 10 units of water per pile.</td>
 </tr>
 <tr class="even">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/sand_pile.png">
+<img src="assets/images/sand_pile.png">
 <strong>Sand</strong>
 </td>
 <td>Used to produce <strong>[Glass](Full_Crafting_List#glass "wikilink")</strong> sheets via firing in the campfire and ovens.</td>
 </tr>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/snow_pile.png">
+<img src="assets/images/snow_pile.png">
 <strong>Snow</strong>
 </td>
 <td>Not exactly a type of soil, but could be used to construct walls and barricades, similarly to dirt.</td>
@@ -326,7 +326,7 @@ holding a hammer in the other hand.
 </tr>
 <tr class="even">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/ore_copper.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/sheet_copper.png">
+<img src="assets/images/ore_copper.png"> <img src="assets/images/sheet_copper.png">
 <strong>[Copper](Full_Crafting_List#copper "wikilink")</strong>
 </td>
 </tr>
@@ -337,7 +337,7 @@ holding a hammer in the other hand.
 </tr>
 <tr class="even">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/sheet_stone.png">
+<img src="assets/images/sheet_stone.png">
 <strong>[Stone](Full_Crafting_List#stone "wikilink")</strong>
 </td>
 </tr>
@@ -366,7 +366,7 @@ holding a hammer in the other hand.
 <table>
 <tbody>
 <tr class="odd">
-<td><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/mining.png">
+<td><img src="assets/images/mining.png">
 
 <strong>Safety first!</strong>
 </td>
@@ -423,14 +423,14 @@ plastics, so let's start drilling!
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/oil_spring.png">
+<img src="assets/images/oil_spring.png">
 <strong>Oil spring</strong>
 </td>
 <td>A spot where an oil deposit reaches the surface of the earth, allowing the collection of crude oil with any containers that could hold liquids: buckets, barrels etc. Click the oil spring with a container, and you will fill it with 10 units of oil. The oil spring will refill presently. Before the advent of engines and machines, crude oil is mostly used as fuel for lamps and lanterns, or as a handy tool by scheming poisoners in royal courts. Yes, drinking oil is bad for health. Very bad.</td>
 </tr>
 <tr class="even">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/oil_well.png">
+<img src="assets/images/oil_well.png">
 <strong>Oil well</strong>
 </td>
 <td>Now we are talking! With this wonderful contraption, the scope of the oil industry could become truly fascinating. Made with 40 wood logs, the oil well will automatically fill any container you put inside it (click the oil well with the container in hand to put it in, click the oil well to remove it.) Needs to be built over an oil spring.</td>
@@ -461,7 +461,7 @@ either wood, tree branches, mineral coal or charcoal.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/ore_charcoal.png">
+<img src="assets/images/ore_charcoal.png">
 <strong>Charcoal</strong>
 </td>
 <td>A byproduct of burning, it will appear at your campfires and ovens once in a while and could be used as fuel.</td>
@@ -519,7 +519,7 @@ campfire.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/campfire.png">
+<img src="assets/images/campfire.png">
 <strong>Campfire</strong>
 </td>
 <td><strong>Capacity</strong>: 2<br />
@@ -528,7 +528,7 @@ Made with 4 wood logs. The first sparkle of Civilization, the harbinger of metal
 </tr>
 <tr class="even">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/iron_oven.png">
+<img src="assets/images/iron_oven.png">
 <strong>Iron oven</strong>
 </td>
 <td><strong>Capacity</strong>: 3<br />
@@ -537,7 +537,7 @@ Made with 8 iron ingots. A potbelly-like containment for fire.</td>
 </tr>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wood_stove.png">
+<img src="assets/images/wood_stove.png">
 <strong>Wood stove</strong>
 </td>
 <td><strong>Capacity</strong>: 4<br />
@@ -563,11 +563,11 @@ or 1 piece of mineral coal.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/sheet_bronze.png">
+<img src="assets/images/sheet_bronze.png">
 <strong>[Bronze](Full_Crafting_List#bronze "wikilink")</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/sheet_steel.png">
+<img src="assets/images/sheet_steel.png">
 <strong>[Steel](Full_Crafting_List#steel "wikilink")</strong>
 </td>
 </tr>
@@ -599,16 +599,16 @@ item's name.
 </tr>
 <tr class="even">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/furnace.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/clay_brick_furnace.png">
+<img src="assets/images/furnace.png"> <img src="assets/images/clay_brick_furnace.png">
 <strong>Furnace</strong>
 </td>
 <td>
-<strong>1</strong><span title="Iron"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/ore_iron.png"></span><strong>or</strong><span title="Iron"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/sheet_iron.png"></span><strong>=&gt; 1</strong><span title="Steel"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/sheet_steel.png"></span>
-<strong>1</strong><span title="Copper"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/ore_copper.png"></span><strong>or</strong><span title="Copper"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/sheet_copper.png"></span><strong>+ 1</strong><span title="Tin"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/ore_tin.png"></span><strong>or</strong><span title="Tin"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/sheet_tin.png"></span><strong>=&gt; 1</strong>&lt;span title="Bronze&gt;https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/sheet_bronze.png</span>
+<strong>1</strong><span title="Iron"><img src="assets/images/ore_iron.png"></span><strong>or</strong><span title="Iron"><img src="assets/images/sheet_iron.png"></span><strong>=&gt; 1</strong><span title="Steel"><img src="assets/images/sheet_steel.png"></span>
+<strong>1</strong><span title="Copper"><img src="assets/images/ore_copper.png"></span><strong>or</strong><span title="Copper"><img src="assets/images/sheet_copper.png"></span><strong>+ 1</strong><span title="Tin"><img src="assets/images/ore_tin.png"></span><strong>or</strong><span title="Tin"><img src="assets/images/sheet_tin.png"></span><strong>=&gt; 1</strong>&lt;span title="Bronze&gt;assets/images/sheet_bronze.png</span>
 </td>
 <td>
 <strong>1 knife, spoon or fork =&gt; 1 ingot of a respective material</strong>
-<span title="Tin can"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/tin_can_empty.png"></span><strong>=&gt; 90% of amount of tin spent on the cans</strong>
+<span title="Tin can"><img src="assets/images/tin_can_empty.png"></span><strong>=&gt; 90% of amount of tin spent on the cans</strong>
 </td>
 </tr>
 </tbody>
@@ -625,7 +625,7 @@ level of the crafting skill before you are able to use them.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/loom.png">
+<img src="assets/images/loom.png">
 <strong>Loom</strong>
 </td>
 <td>Made with 8 wood logs. Used to weave <strong><img src="Guide_to_Farming" "wikilink">cotton</a></strong> and <strong><img src="#Retting_trough" "wikilink">retted fabric</a></strong> into <strong>[Cloth](Full_Crafting_List#cloth "wikilink")</strong> and to turn shorn wool into <strong>[Woolcloth](Full_Crafting_List#woolcloth "wikilink")</strong>.</td>
@@ -639,7 +639,7 @@ level of the crafting skill before you are able to use them.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/drying_rack.png">
+<img src="assets/images/drying_rack.png">
 <strong>Tanning rack</strong>
 </td>
 <td>Made with 8 wood logs. Used to turn animal pelts into leather sheets. Skin the carcass with the knife on Grab intent, cut the hair off of the pelt, then hang it to dry on the rack. One extra leather sheet is obtained this way, compared to skinning the carcass directly for leather.</td>
@@ -653,7 +653,7 @@ level of the crafting skill before you are able to use them.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/retting_trough.png">
+<img src="assets/images/retting_trough.png">
 <strong>Retting trough</strong>
 </td>
 <td>Made with 8 wood logs. Used to soak fiberous plants into retted fabric. Two units of cotton or flax produce one bundle of retted fabric, which could be turned into <strong>[Cloth](Full_Crafting_List#clot "wikilink")</strong> at the <strong>[Cloth](Guide_to_Crafting#Loom "wikilink")</strong>.</td>
@@ -667,7 +667,7 @@ level of the crafting skill before you are able to use them.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/anvil.png">
+<img src="assets/images/anvil.png">
 <strong>Anvil</strong>
 </td>
 <td><strong>Skill required: 1.7</strong><br />
@@ -682,7 +682,7 @@ Made with 25 iron ingots. Used to forge weapons and armour across the centuries,
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/gunbench.png">
+<img src="assets/images/gunbench.png">
 <strong>Gunsmithing bench</strong>
 </td>
 <td><strong>Skill required: 1.5 + Blueprint</strong><br />
@@ -698,7 +698,7 @@ Made with 13 wood logs. Used to assemble custom firearms from separate parts sta
 </tr>
 <tr class="even">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/blueprint.png">
+<img src="assets/images/blueprint.png">
 <strong>Blueprint</strong>
 </td>
 <td><strong>Skill required: 2.5 + 500 gold coins (or equivalent)</strong><br />
@@ -762,11 +762,11 @@ An arrow shaft is made with 1 wood log. Could be launched from a bow, but it is 
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/arrow_shaft.png">
+<img src="assets/images/arrow_shaft.png">
 <strong>Arrow shaft</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/arrow_fire.png">
+<img src="assets/images/arrow_fire.png">
 <strong>Fire arrow</strong>
 </td>
 <td></td>
@@ -778,54 +778,54 @@ An arrow shaft is made with 1 wood log. Could be launched from a bow, but it is 
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/arrow_stone.png">
+<img src="assets/images/arrow_stone.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/arrow_sandstone.png">
+<img src="assets/images/arrow_sandstone.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/arrow_copper.png">
+<img src="assets/images/arrow_copper.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/arrow_bronze.png">
+<img src="assets/images/arrow_bronze.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/arrow_iron.png">
+<img src="assets/images/arrow_iron.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/arrow_steel.png">
+<img src="assets/images/arrow_steel.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/arrow_vial.png">
+<img src="assets/images/arrow_vial.png">
 </td>
 </tr>
 <tr class="even">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/arrowhead_stone.png">
+<img src="assets/images/arrowhead_stone.png">
 <strong>Stone</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/arrowhead_sandstone.png">
+<img src="assets/images/arrowhead_sandstone.png">
 <strong>Sandstone</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/arrowhead_copper.png">
+<img src="assets/images/arrowhead_copper.png">
 <strong>Copper</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/arrowhead_bronze.png">
+<img src="assets/images/arrowhead_bronze.png">
 <strong>Bronze</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/arrowhead_iron.png">
+<img src="assets/images/arrowhead_iron.png">
 <strong>Iron</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/arrowhead_steel.png">
+<img src="assets/images/arrowhead_steel.png">
 <strong>Steel</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/arrowhead_vial.png">
+<img src="assets/images/arrowhead_vial.png">
 <strong>Vial</strong>
 </td>
 </tr>
@@ -840,26 +840,26 @@ that see the **[Guide to Chemistry](Guide_to_Chemistry "wikilink")**.
 
 ### Iron projectiles
 **Musket ball**
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/musketball.png">
+<img src="assets/images/musketball.png">
 
 **Blunderbuss ball**
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/blunderbuss.png">
+<img src="assets/images/blunderbuss.png">
 
 **Small musket ball**
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/musketball_pistol.png">
+<img src="assets/images/musketball_pistol.png">
 
   - Make a required type of musket balls with iron ingots. Stand in one place to make them in a single stack.
   - Take the stack of projectiles in your active hand, then take a gunpowder container in the non-active hand.
   - Click the projectiles to produce a cartridge, 1 unit of gunpowder per 1 cartridge.
 
 **Musket cartridge**
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/projectile_musketball.png">
+<img src="assets/images/projectile_musketball.png">
 
 **Blunderbuss cartridge**
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/projectile_blunderbuss.png">
+<img src="assets/images/projectile_blunderbuss.png">
 
 **Pistol cartridge**
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/projectile_musketball_pistol.png">
+<img src="assets/images/projectile_musketball_pistol.png">
 
 <hr>
 
@@ -867,19 +867,19 @@ that see the **[Guide to Chemistry](Guide_to_Chemistry "wikilink")**.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/casing_pistol.png">
+<img src="assets/images/casing_pistol.png">
 <strong>Pistol casing</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/casing_rifle.png">
+<img src="assets/images/casing_rifle.png">
 <strong>Rifle casing</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/casing_shell.png">
+<img src="assets/images/casing_shell.png">
 <strong>Shell casing</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/casing_shell_tank.png">
+<img src="assets/images/casing_shell_tank.png">
 <strong>Field cannon casing</strong>
 </td>
 </tr>
@@ -893,7 +893,7 @@ that see the **[Guide to Chemistry](Guide_to_Chemistry "wikilink")**.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/iron_bullet.png">
+<img src="assets/images/iron_bullet.png">
 <strong>Iron bullet</strong>
 </td>
 </tr>
@@ -951,15 +951,15 @@ Hover the mouse cursor over the images below to see the material cost.
 <tbody>
 <tr class="odd">
 <td>
-<span title="0.5 clay"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/clay_blocks.png"></span>
+<span title="0.5 clay"><img src="assets/images/clay_blocks.png"></span>
 <strong>Clay blocks</strong>
 </td>
 <td>
-<span title="0.5 clay"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/clay_bricks.png"></span>
+<span title="0.5 clay"><img src="assets/images/clay_bricks.png"></span>
 <strong>Clay bricks</strong>
 </td>
 <td>
-<span title="4 clay"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/clay_cement_bricks.png"></span>
+<span title="4 clay"><img src="assets/images/clay_cement_bricks.png"></span>
 <strong>Cement bricks</strong>
 </td>
 <td></td>
@@ -990,7 +990,7 @@ a flimsy one.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_straw.png">
+<img src="assets/images/wall_straw.png">
 <strong>All</strong>
 </td>
 </tr>
@@ -1005,15 +1005,15 @@ same for all directions.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_log_vertical.png">
+<img src="assets/images/wall_log_vertical.png">
 <strong>N, S</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_log.png">
+<img src="assets/images/wall_log.png">
 <strong>W, E</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_log_corner.png">
+<img src="assets/images/wall_log_corner.png">
 <strong>Corner</strong>
 </td>
 </tr>
@@ -1028,22 +1028,22 @@ than the log one.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_wood.png">
+<img src="assets/images/wall_wood.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_wood1.png">
+<img src="assets/images/wall_wood1.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_wood2.png">
+<img src="assets/images/wall_wood2.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_wood3.png">
+<img src="assets/images/wall_wood3.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_wood4.png">
+<img src="assets/images/wall_wood4.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_wood5.png">
+<img src="assets/images/wall_wood5.png">
 </td>
 </tr>
 <tr class="even">
@@ -1067,7 +1067,7 @@ doors and doorways, such as medieval and shoji. More details below.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_frame.png">
+<img src="assets/images/wall_frame.png">
 <strong>All</strong>
 </td>
 </tr>
@@ -1083,16 +1083,16 @@ logs and choose a design.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_medieval.png">
+<img src="assets/images/wall_medieval.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_medieval_cross.png">
+<img src="assets/images/wall_medieval_cross.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_medieval_NE.png">
+<img src="assets/images/wall_medieval_NE.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_medieval_SE.png">
+<img src="assets/images/wall_medieval_SE.png">
 </td>
 </tr>
 <tr class="even">
@@ -1115,11 +1115,11 @@ construct a wall frame first, then click it with a paper sheet.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_shoji.png">
+<img src="assets/images/wall_shoji.png">
 <strong>Wall</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_shoji_divider.png">
+<img src="assets/images/wall_shoji_divider.png">
 <strong>Divider</strong>
 </td>
 </tr>
@@ -1141,11 +1141,11 @@ it with bamboo bundles.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_bamboo.png">
+<img src="assets/images/wall_bamboo.png">
 <strong>Wall</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/doorway_bamboo.png">
+<img src="assets/images/doorway_bamboo.png">
 <strong>Doorway</strong>
 </td>
 </tr>
@@ -1165,28 +1165,28 @@ Made with 8 wood logs. Useful for creating your very own altepetl.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_aztec.png">
+<img src="assets/images/wall_aztec.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_aztec1.png">
+<img src="assets/images/wall_aztec1.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_aztec7.png">
+<img src="assets/images/wall_aztec7.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_aztec2.png">
+<img src="assets/images/wall_aztec2.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_aztec3.png">
+<img src="assets/images/wall_aztec3.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_aztec4.png">
+<img src="assets/images/wall_aztec4.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_aztec5.png">
+<img src="assets/images/wall_aztec5.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_aztec6.png">
+<img src="assets/images/wall_aztec6.png">
 </td>
 </tr>
 <tr class="even">
@@ -1211,28 +1211,28 @@ Made with 6 stones.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_mayan.png">
+<img src="assets/images/wall_mayan.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_mayan1.png">
+<img src="assets/images/wall_mayan1.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_mayan2.png">
+<img src="assets/images/wall_mayan2.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_mayan3.png">
+<img src="assets/images/wall_mayan3.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_mayan4.png">
+<img src="assets/images/wall_mayan4.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_mayan5.png">
+<img src="assets/images/wall_mayan5.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_mayan6.png">
+<img src="assets/images/wall_mayan6.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_mayan7.png">
+<img src="assets/images/wall_mayan7.png">
 </td>
 </tr>
 <tr class="even">
@@ -1252,9 +1252,9 @@ Made with 6 stones.
 
 <u>**Egyptian**</u>
 Made with 6 sandstones.
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/townsite_city_region_hieroglyph.png">
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/o33.png">
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/a35.png">
+<img src="assets/images/townsite_city_region_hieroglyph.png">
+<img src="assets/images/o33.png">
+<img src="assets/images/a35.png">
 For the archway, directions N and W are also available (icons will be
 mirrored accordingly.)
 
@@ -1262,34 +1262,34 @@ mirrored accordingly.)
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_egyptian.png">
+<img src="assets/images/wall_egyptian.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_egyptian1.png">
+<img src="assets/images/wall_egyptian1.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_egyptian2.png">
+<img src="assets/images/wall_egyptian2.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_egyptian3.png">
+<img src="assets/images/wall_egyptian3.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_egyptian4.png">
+<img src="assets/images/wall_egyptian4.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_egyptian5.png">
+<img src="assets/images/wall_egyptian5.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_egyptian6.png">
+<img src="assets/images/wall_egyptian6.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_egyptian7.png">
+<img src="assets/images/wall_egyptian7.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/archway_egyptian_S.png">
+<img src="assets/images/archway_egyptian_S.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/archway_egyptian_E.png">
+<img src="assets/images/archway_egyptian_E.png">
 </td>
 </tr>
 <tr class="even">
@@ -1320,22 +1320,22 @@ Made with 8 wood logs. For all your Långhus and mead hall needs.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_nordic.png">
+<img src="assets/images/wall_nordic.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_nordic1.png">
+<img src="assets/images/wall_nordic1.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_nordic2.png">
+<img src="assets/images/wall_nordic2.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_nordic3.png">
+<img src="assets/images/wall_nordic3.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_nordic4.png">
+<img src="assets/images/wall_nordic4.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_nordic5.png">
+<img src="assets/images/wall_nordic5.png">
 </td>
 </tr>
 <tr class="even">
@@ -1358,22 +1358,22 @@ Made with 8 stones. Opus caementicium usque in sempiternum.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_roman.png">
+<img src="assets/images/wall_roman.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_roman1.png">
+<img src="assets/images/wall_roman1.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_roman2.png">
+<img src="assets/images/wall_roman2.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_roman3.png">
+<img src="assets/images/wall_roman3.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_roman4.png">
+<img src="assets/images/wall_roman4.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_roman5.png">
+<img src="assets/images/wall_roman5.png">
 </td>
 </tr>
 <tr class="even">
@@ -1398,7 +1398,7 @@ start building a wall where you stand. Add 3 more piles to finish.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_dirt_block.png">
+<img src="assets/images/wall_dirt_block.png">
 <strong>All</strong>
 </td>
 </tr>
@@ -1414,7 +1414,7 @@ where you stand. Add 3 more piles to finish.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_snow_block.png">
+<img src="assets/images/wall_snow_block.png">
 <strong>All</strong>
 </td>
 </tr>
@@ -1431,11 +1431,11 @@ batches to finish.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_clay_block.png">
+<img src="assets/images/wall_clay_block.png">
 <strong>Wall</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/doorway_clay.png">
+<img src="assets/images/doorway_clay.png">
 <strong>Doorway</strong>
 </td>
 </tr>
@@ -1459,19 +1459,19 @@ The doorway is made by applying generic stucco to a clay block doorway.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_red_earth_S.png">
+<img src="assets/images/wall_red_earth_S.png">
 <strong>Regular</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_red_earth_pillared_S.png">
+<img src="assets/images/wall_red_earth_pillared_S.png">
 <strong>Pillared</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_red_earth_smooth_SN.png">
+<img src="assets/images/wall_red_earth_smooth_SN.png">
 <strong>Smooth</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/doorway_red_earth_S.png">
+<img src="assets/images/doorway_red_earth_S.png">
 <strong>Doorway</strong>
 </td>
 </tr>
@@ -1491,15 +1491,15 @@ image below is NW.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_sumerian.png">
+<img src="assets/images/wall_sumerian.png">
 <strong>Wall</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/door_sumerian.png">
+<img src="assets/images/door_sumerian.png">
 <strong>Doorway</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_sumerian_corner.png">
+<img src="assets/images/wall_sumerian_corner.png">
 <strong>Corner</strong>
 </td>
 </tr>
@@ -1520,11 +1520,11 @@ Made with 8 sandstones.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_sandstone_smooth.png">
+<img src="assets/images/wall_sandstone_smooth.png">
 <strong>Smooth</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_sandstone_brick.png">
+<img src="assets/images/wall_sandstone_brick.png">
 <strong>Brick</strong>
 </td>
 </tr>
@@ -1545,19 +1545,19 @@ different designs.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_stone.png">
+<img src="assets/images/wall_stone.png">
 <strong>Regular</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_stone_brick.png">
+<img src="assets/images/wall_stone_brick.png">
 <strong>Brick</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_stone_cobbled.png">
+<img src="assets/images/wall_stone_cobbled.png">
 <strong>Cobbled</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_stone_tiled.png">
+<img src="assets/images/wall_stone_tiled.png">
 <strong>Tiled</strong>
 </td>
 </tr>
@@ -1580,28 +1580,28 @@ available (icons will be mirrored accordingly.)
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_stone_block.png">
+<img src="assets/images/wall_stone_block.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_stone_block1.png">
+<img src="assets/images/wall_stone_block1.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_stone_block2.png">
+<img src="assets/images/wall_stone_block2.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_stone_block3.png">
+<img src="assets/images/wall_stone_block3.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_stone_block4.png">
+<img src="assets/images/wall_stone_block4.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_stone_block5.png">
+<img src="assets/images/wall_stone_block5.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/archway_stone_block_S.png">
+<img src="assets/images/archway_stone_block_S.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/archway_stone_block_E.png">
+<img src="assets/images/archway_stone_block_E.png">
 </td>
 </tr>
 <tr class="even">
@@ -1636,38 +1636,38 @@ The archway is made by applying Greek stucco to a stone block archway.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_grecian_smooth.png">
+<img src="assets/images/wall_grecian_smooth.png">
 <strong>Smooth</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_grecian_cobbled.png">
+<img src="assets/images/wall_grecian_cobbled.png">
 <strong>Cobbled</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_grecian_pattern.png">
+<img src="assets/images/wall_grecian_pattern.png">
 <strong>Pattern</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_grecian_cobbled_pattern.png">
+<img src="assets/images/wall_grecian_cobbled_pattern.png">
 <strong>Cob. pattern</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/archway_grecian_S.png">
+<img src="assets/images/archway_grecian_S.png">
 <strong>Archway</strong>
 </td>
 </tr>
 <tr class="even">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_grecian_smooth_bordered.png">
+<img src="assets/images/wall_grecian_smooth_bordered.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_grecian_cobbled_bordered.png">
+<img src="assets/images/wall_grecian_cobbled_bordered.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_grecian_pattern_bordered.png">
+<img src="assets/images/wall_grecian_pattern_bordered.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_grecian_cobbled_pattern_bordered.png">
+<img src="assets/images/wall_grecian_cobbled_pattern_bordered.png">
 </td>
 <td></td>
 </tr>
@@ -1701,27 +1701,27 @@ the design.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_villa_S.png">
+<img src="assets/images/wall_villa_S.png">
 <strong>Regular</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_villa_pillared_S.png">
+<img src="assets/images/wall_villa_pillared_S.png">
 <strong>Pillared</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_villa_relief_S.png">
+<img src="assets/images/wall_villa_relief_S.png">
 <strong>Relief</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_villa_relief_greek_S.png">
+<img src="assets/images/wall_villa_relief_greek_S.png">
 <strong>Hoplite rel.</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_villa_relief_aquila_S.png">
+<img src="assets/images/wall_villa_relief_aquila_S.png">
 <strong>Aquila rel.</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_villa_relief_gladiator_S.png">
+<img src="assets/images/wall_villa_relief_gladiator_S.png">
 <strong>Gladiator rel.</strong>
 </td>
 </tr>
@@ -1737,28 +1737,28 @@ accordingly.)
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_stone_brick.png">
+<img src="assets/images/wall_stone_brick.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_stone_brick1.png">
+<img src="assets/images/wall_stone_brick1.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_stone_brick2.png">
+<img src="assets/images/wall_stone_brick2.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_stone_brick3.png">
+<img src="assets/images/wall_stone_brick3.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_stone_brick4.png">
+<img src="assets/images/wall_stone_brick4.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_stone_brick5.png">
+<img src="assets/images/wall_stone_brick5.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/archway_stone_brick_S.png">
+<img src="assets/images/archway_stone_brick_S.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/archway_stone_brick_E.png">
+<img src="assets/images/archway_stone_brick_E.png">
 </td>
 </tr>
 <tr class="even">
@@ -1789,34 +1789,34 @@ accordingly.)
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_fortress.png">
+<img src="assets/images/wall_fortress.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_fortress1.png">
+<img src="assets/images/wall_fortress1.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_fortress2.png">
+<img src="assets/images/wall_fortress2.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_fortress3.png">
+<img src="assets/images/wall_fortress3.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_fortress4.png">
+<img src="assets/images/wall_fortress4.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_fortress6.png">
+<img src="assets/images/wall_fortress6.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_fortress5.png">
+<img src="assets/images/wall_fortress5.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_fortress7.png">
+<img src="assets/images/wall_fortress7.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/archway_fortress_S.png">
+<img src="assets/images/archway_fortress_S.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/archway_fortress_E.png">
+<img src="assets/images/archway_fortress_E.png">
 </td>
 </tr>
 <tr class="even">
@@ -1849,22 +1849,22 @@ start building a wall where you stand. Add 1 more batch to finish.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_brick.png">
+<img src="assets/images/wall_brick.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_brick1.png">
+<img src="assets/images/wall_brick1.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_brick2.png">
+<img src="assets/images/wall_brick2.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_brick3.png">
+<img src="assets/images/wall_brick3.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_brick4.png">
+<img src="assets/images/wall_brick4.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_brick5.png">
+<img src="assets/images/wall_brick5.png">
 </td>
 </tr>
 <tr class="even">
@@ -1890,22 +1890,22 @@ more batch to finish.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_cement.png">
+<img src="assets/images/wall_cement.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_cement1.png">
+<img src="assets/images/wall_cement1.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_cement2.png">
+<img src="assets/images/wall_cement2.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_cement3.png">
+<img src="assets/images/wall_cement3.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_cement4.png">
+<img src="assets/images/wall_cement4.png">
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wall_cement5.png">
+<img src="assets/images/wall_cement5.png">
 </td>
 </tr>
 <tr class="even">
@@ -1935,37 +1935,37 @@ columns. **Mine supports do not hold the buildable roof!**
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/roof_support_wooden.png">
+<img src="assets/images/roof_support_wooden.png">
 <strong>Roof support</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/roof_support_nordic.png">
+<img src="assets/images/roof_support_nordic.png">
 <strong>Nordic roof support</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/roof_support_stone.png">
+<img src="assets/images/roof_support_stone.png">
 <strong>Stone pillar</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/roof_support_concrete.png">
+<img src="assets/images/roof_support_concrete.png">
 <strong>Concrete pillar</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/roof_support_ionic.png">
+<img src="assets/images/roof_support_ionic.png">
 <strong>Ionic column</strong>
 </td>
 </tr>
 <tr class="even">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/roof_support_solomonic.png">
+<img src="assets/images/roof_support_solomonic.png">
 <strong>Solomonic column</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/roof_support_solomonic_thick.png">
+<img src="assets/images/roof_support_solomonic_thick.png">
 <strong>Thick Solomonic column</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/roof_support_aztec.png">
+<img src="assets/images/roof_support_aztec.png">
 <strong>Aztec column</strong>
 </td>
 <td></td>
@@ -1978,7 +1978,7 @@ The image below shows the roof area supported by either a roof support
 (pillars and columns support the same area) or a wall (all walls support
 the same area.)
 
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/roof_area.png">
+<img src="assets/images/roof_area.png">
 
 There is a variety of roofs to build from different materials (see below
 - hover the mouse cursor over a roof builder's icon to see the cost and
@@ -2004,43 +2004,43 @@ in the roofed area, or even standing next to it.**
 <tbody>
 <tr class="odd">
 <td>
-<span title="1 bundle of palm leaves"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/roof_builder_palm.png"></span>
+<span title="1 bundle of palm leaves"><img src="assets/images/roof_builder_palm.png"></span>
 <strong>Palm leaves roof builder</strong>
 
 <br />
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/roof_palm.png">
+<img src="assets/images/roof_palm.png">
 <strong>Palm leaves roof</strong>
 </td>
 <td>
-<span title="1 bundle of leaves"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/roof_builder_thatch.png"></span>
+<span title="1 bundle of leaves"><img src="assets/images/roof_builder_thatch.png"></span>
 <strong>Thatch roof builder</strong>
 
 <br />
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/roof_thatch.png">
+<img src="assets/images/roof_thatch.png">
 <strong>Thatch roof</strong>
 </td>
 <td>
-<span title="1 wood"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/roof_builder.png"></span>
+<span title="1 wood"><img src="assets/images/roof_builder.png"></span>
 <strong>Roof builder</strong>
 
 <br />
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/roof_wood.png">
+<img src="assets/images/roof_wood.png">
 <strong>Wood roof</strong>
 </td>
 <td>
-<span title="0.5 clay"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Fired_clay_roof.png"></span>
+<span title="0.5 clay"><img src="assets/images/Fired_clay_roof.png"></span>
 <strong>Clay roofing</strong>
 
 <br />
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/roof_clay.png">
+<img src="assets/images/roof_clay.png">
 <strong>Clay roof</strong>
 </td>
 <td>
-<span title="0.5 clay"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/roof_builder_black_clay.png"></span>
+<span title="0.5 clay"><img src="assets/images/roof_builder_black_clay.png"></span>
 <strong>Black clay roofing</strong>
 
 <br />
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/roof_clay_black.png">
+<img src="assets/images/roof_clay_black.png">
 <strong>Kerawa roof</strong>
 </td>
 </tr>
@@ -2053,27 +2053,27 @@ in the roofed area, or even standing next to it.**
 <tbody>
 <tr class="odd">
 <td>
-<span title="1 sandstone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/roof_builder_sandstone.png"></span>
+<span title="1 sandstone"><img src="assets/images/roof_builder_sandstone.png"></span>
 <strong>Sandstone roof builder</strong>
 
 <br />
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/roof_sandstone.png">
+<img src="assets/images/roof_sandstone.png">
 <strong>Sandstone roof</strong>
 </td>
 <td>
-<span title="1 stone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/roof_builder_mayan.png"></span>
+<span title="1 stone"><img src="assets/images/roof_builder_mayan.png"></span>
 <strong>Mayan roof builder</strong>
 
 <br />
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/roof_mayan.png">
+<img src="assets/images/roof_mayan.png">
 <strong>Mayan roof</strong>
 </td>
 <td>
-<span title="0.75 clay"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/roof_builder_concrete.png"></span>
+<span title="0.75 clay"><img src="assets/images/roof_builder_concrete.png"></span>
 <strong>Concrete roof builder</strong>
 
 <br />
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/roof_cement.png">
+<img src="assets/images/roof_cement.png">
 <strong>Concrete roof</strong>
 </td>
 <td></td>
@@ -2095,7 +2095,7 @@ underground. Floors can be removed with the hammer.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_cover.png">
+<img src="assets/images/floor_cover.png">
 <strong>Floor cover</strong>
 </td>
 <td>Made with 2 wood logs. The simplest type of floor, consisting of a few planks fastened together. Could be placed over a trench to make a bridge, or over a hole in the floor or ground to cover it (the latter concerns a couple of the TDM maps.)</td>
@@ -2113,19 +2113,19 @@ Hover the mouse cursor over an image to see the cost and the material.
 <tbody>
 <tr class="odd">
 <td>
-<span title="1 wood log"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_wood.png"></span>
+<span title="1 wood log"><img src="assets/images/floor_wood.png"></span>
 <strong>Wood</strong>
 </td>
 <td>
-<span title="1.5 wood log"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_fancy_wood.png"></span>
+<span title="1.5 wood log"><img src="assets/images/floor_fancy_wood.png"></span>
 <strong>Fancy wood</strong>
 </td>
 <td>
-<span title="0.75 wood log"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_thatch.png"></span>
+<span title="0.75 wood log"><img src="assets/images/floor_thatch.png"></span>
 <strong>Thatch</strong>
 </td>
 <td>
-<span title="0.75 wood log"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_thatch_split.png"></span>
+<span title="0.75 wood log"><img src="assets/images/floor_thatch_split.png"></span>
 <strong>Thatch split</strong>
 </td>
 <td></td>
@@ -2142,81 +2142,81 @@ randomly selected upon construction.
 <tbody>
 <tr class="odd">
 <td>
-<span title="1 stone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_cobblestone.png"></span>
+<span title="1 stone"><img src="assets/images/floor_cobblestone.png"></span>
 <strong>Cobblestone</strong>
 </td>
 <td>
-<span title="1 stone brick"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_stone_bricks.png"></span>
+<span title="1 stone brick"><img src="assets/images/floor_stone_bricks.png"></span>
 <strong>Stone brick</strong>
 </td>
 <td>
-<span title="1 stone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_road_roman.png"></span>
+<span title="1 stone"><img src="assets/images/floor_road_roman.png"></span>
 <strong>Roman road</strong>
 </td>
 <td>
-<span title="1.2 stone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_slate.png"></span>
+<span title="1.2 stone"><img src="assets/images/floor_slate.png"></span>
 <strong>Slate</strong>
 </td>
 <td>
-<span title="1 stone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_road.png"></span>
+<span title="1 stone"><img src="assets/images/floor_road.png"></span>
 <strong>Road</strong>
 </td>
 <td>
-<span title="1 stone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_marble_raw.png"></span>
+<span title="1 stone"><img src="assets/images/floor_marble_raw.png"></span>
 <strong>Raw marble</strong>
 </td>
 <td></td>
 </tr>
 <tr class="even">
 <td>
-<span title="1 stone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_marble_raw_black.png"></span>
+<span title="1 stone"><img src="assets/images/floor_marble_raw_black.png"></span>
 <strong>Raw black marble</strong>
 </td>
 <td>
-<span title="1 stone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_marble_raw_pink.png"></span>
+<span title="1 stone"><img src="assets/images/floor_marble_raw_pink.png"></span>
 <strong>Raw pink marble</strong>
 </td>
 <td>
-<span title="1 stone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_marble.png"></span>
+<span title="1 stone"><img src="assets/images/floor_marble.png"></span>
 <strong>Marble</strong>
 </td>
 <td>
-<span title="1 stone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_marble_tile.png"></span>
+<span title="1 stone"><img src="assets/images/floor_marble_tile.png"></span>
 <strong>Marble tiles</strong>
 </td>
 <td>
-<span title="1 stone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_marble_tile_black.png"></span>
+<span title="1 stone"><img src="assets/images/floor_marble_tile_black.png"></span>
 <strong>Black marble tiles</strong>
 </td>
 <td>
-<span title="1 stone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_marble_tile_pink.png"></span>
+<span title="1 stone"><img src="assets/images/floor_marble_tile_pink.png"></span>
 <strong>Pink marble tiles</strong>
 </td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>
-<span title="1 stone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_marble_ornate_tile.png"></span>
+<span title="1 stone"><img src="assets/images/floor_marble_ornate_tile.png"></span>
 <strong>Ornate marble tile</strong>
 </td>
 <td>
-<span title="1 stone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_marble_ornate_tile_black.png"></span>
+<span title="1 stone"><img src="assets/images/floor_marble_ornate_tile_black.png"></span>
 <strong>Ornate black marble tile</strong>
 </td>
 <td>
-<span title="1 stone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_marble_decorative_tile.png"></span>
+<span title="1 stone"><img src="assets/images/floor_marble_decorative_tile.png"></span>
 <strong>Decorative marble tile</strong>
 </td>
 <td>
-<span title="1 stone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_marble_decorative_tile_black.png"></span>
+<span title="1 stone"><img src="assets/images/floor_marble_decorative_tile_black.png"></span>
 <strong>Decorative black marble tile</strong>
 </td>
 <td>
-<span title="1 stone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_marble_decorative_tile_pink.png"></span>
+<span title="1 stone"><img src="assets/images/floor_marble_decorative_tile_pink.png"></span>
 <strong>Decorative pink marble tile</strong>
 </td>
 <td>
-<span title="1 stone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_marble_tile_grid.png"></span>
+<span title="1 stone"><img src="assets/images/floor_marble_tile_grid.png"></span>
 <strong>Marble grid tile</strong>
 
 <br />
@@ -2225,19 +2225,19 @@ randomly selected upon construction.
 </tr>
 <tr class="even">
 <td>
-<span title="1 stone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_marble_checkerboard.png"></span>
+<span title="1 stone"><img src="assets/images/floor_marble_checkerboard.png"></span>
 <strong>Marble checkerboard</strong>
 </td>
 <td>
-<span title="1 stone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_marble_checkerboard_reverse.png"></span>
+<span title="1 stone"><img src="assets/images/floor_marble_checkerboard_reverse.png"></span>
 <strong>Reverse marble checkerboard</strong>
 </td>
 <td>
-<span title="1 stone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_marble_checkerboard_pink.png"></span>
+<span title="1 stone"><img src="assets/images/floor_marble_checkerboard_pink.png"></span>
 <strong>Pink marble checkerboard</strong>
 </td>
 <td>
-<span title="1 stone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_marble_checkerboard_pink_reverse.png"></span>
+<span title="1 stone"><img src="assets/images/floor_marble_checkerboard_pink_reverse.png"></span>
 <strong>Reverse pink marble checkerboard</strong>
 </td>
 <td></td>
@@ -2253,31 +2253,31 @@ randomly selected upon construction.
 <tbody>
 <tr class="odd">
 <td>
-<span title="1 sandstone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_sandstone.png"></span>
+<span title="1 sandstone"><img src="assets/images/floor_sandstone.png"></span>
 <strong>Sandstone</strong>
 </td>
 <td>
-<span title="1 sandstone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_sandstone_brick.png"></span>
+<span title="1 sandstone"><img src="assets/images/floor_sandstone_brick.png"></span>
 <strong>Brick</strong>
 </td>
 <td>
-<span title="1 sandstone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_sandstone_slab.png"></span>
+<span title="1 sandstone"><img src="assets/images/floor_sandstone_slab.png"></span>
 <strong>Slab</strong>
 </td>
 <td>
-<span title="1 sandstone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_sandstone_slab_red.png"></span>
+<span title="1 sandstone"><img src="assets/images/floor_sandstone_slab_red.png"></span>
 <strong>Red slab</strong>
 </td>
 <td>
-<span title="2 sandstone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_sandstone_tile.png"></span>
+<span title="2 sandstone"><img src="assets/images/floor_sandstone_tile.png"></span>
 <strong>Tile</strong>
 </td>
 <td>
-<span title="2.5 sandstone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_sandstone_tile_decorative.png"></span>
+<span title="2.5 sandstone"><img src="assets/images/floor_sandstone_tile_decorative.png"></span>
 <strong>Decorative tile</strong>
 </td>
 <td>
-<span title="2.5 sandstone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_sandstone_tile_decorative_red.png"></span>
+<span title="2.5 sandstone"><img src="assets/images/floor_sandstone_tile_decorative_red.png"></span>
 <strong>Red dec. tile</strong>
 </td>
 <td></td>
@@ -2291,7 +2291,7 @@ randomly selected upon construction.
 <tbody>
 <tr class="odd">
 <td>
-<span title="1 piece of clay"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_concrete.png"></span>
+<span title="1 piece of clay"><img src="assets/images/floor_concrete.png"></span>
 <strong>Concrete</strong>
 </td>
 <td></td>
@@ -2305,11 +2305,11 @@ randomly selected upon construction.
 <tbody>
 <tr class="odd">
 <td>
-<span title="1 steel sheet"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_steel.png"></span>
+<span title="1 steel sheet"><img src="assets/images/floor_steel.png"></span>
 <strong>Steel</strong>
 </td>
 <td>
-<span title="1 steel sheet"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/floor_steel_white.png"></span>
+<span title="1 steel sheet"><img src="assets/images/floor_steel_white.png"></span>
 <strong>Steel white</strong>
 </td>
 <td></td>
@@ -2326,15 +2326,15 @@ used to create an impression of height difference.
 <tbody>
 <tr class="odd">
 <td>
-<span title="2 stone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/stairs_stone.png"></span>
+<span title="2 stone"><img src="assets/images/stairs_stone.png"></span>
 <strong>Stone</strong>
 </td>
 <td>
-<span title="3 sandstone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/stairs_sandstone.png"></span>
+<span title="3 sandstone"><img src="assets/images/stairs_sandstone.png"></span>
 <strong>Sandstone</strong>
 </td>
 <td>
-<span title="2 wood"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/stairs_wood.png"></span>
+<span title="2 wood"><img src="assets/images/stairs_wood.png"></span>
 <strong>Wood</strong>
 </td>
 <td>style="width: 64%|</td>
@@ -2359,51 +2359,51 @@ with a key (the iron and jail doors currently) - more details below.
 <tbody>
 <tr class="odd">
 <td>
-<span title="3 wood; direction - W; opens to the left"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/door_fence.png"></span>
+<span title="3 wood; direction - W; opens to the left"><img src="assets/images/door_fence.png"></span>
 <strong>Primitive fence door</strong>
 </td>
 <td>
-<span title="3 wood; direction - W; opens to the left"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/door_fence_picket.png"></span>
+<span title="3 wood; direction - W; opens to the left"><img src="assets/images/door_fence_picket.png"></span>
 <strong>Picket wood fence door</strong>
 </td>
 <td>
-<span title="4 wood; direction - All"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/door_rustic.png"></span>
+<span title="4 wood; direction - All"><img src="assets/images/door_rustic.png"></span>
 <strong>Rustic door</strong>
 </td>
 <td>
-<span title="5 wood; direction - All"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/door_wood.png"></span>
+<span title="5 wood; direction - All"><img src="assets/images/door_wood.png"></span>
 <strong>Wood door</strong>
 </td>
 <td>
-<span title="5 wood; direction - All"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/door_nordic.png"></span>
+<span title="5 wood; direction - All"><img src="assets/images/door_nordic.png"></span>
 <strong>Nordic door</strong>
 </td>
 </tr>
 <tr class="even">
 <td>
-<span title="5 wood; direction - All"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/door_aztec.png"></span>
+<span title="5 wood; direction - All"><img src="assets/images/door_aztec.png"></span>
 <strong>Aztec door</strong>
 </td>
 <td>
-<span title="1 paper sheet on a wall frame (check Walls section); direction - All"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/door_shoji.png"></span>
+<span title="1 paper sheet on a wall frame (check Walls section); direction - All"><img src="assets/images/door_shoji.png"></span>
 <strong>Shoji door</strong>
 </td>
 <td>
-<span title="5 stone; direction - All"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/door_roman.png"></span>
+<span title="5 stone; direction - All"><img src="assets/images/door_roman.png"></span>
 <strong>Roman door</strong>
 </td>
 <td>
-<span title="5 iron; direction - All"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/door_iron.png"></span>
+<span title="5 iron; direction - All"><img src="assets/images/door_iron.png"></span>
 <strong>Iron door</strong>
 </td>
 <td>
-<span title="12 wood; direction - All"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/door_cell_wood.png"></span>
+<span title="12 wood; direction - All"><img src="assets/images/door_cell_wood.png"></span>
 <strong>Wood jail door</strong>
 </td>
 </tr>
 <tr class="odd">
 <td>
-<span title="12 steel; direction - All"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/door_cell.png"></span>
+<span title="12 steel; direction - All"><img src="assets/images/door_cell.png"></span>
 <strong>Steel jail door</strong>
 </td>
 <td>style=width: 80%|</td>
@@ -2418,7 +2418,7 @@ with a key (the iron and jail doors currently) - more details below.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/key.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/keychain.png">
+<img src="assets/images/key.png"> <img src="assets/images/keychain.png">
 <strong>Key and keychain</strong>
 </td>
 <td>Key and keychain are made with iron ingots. Keys are used to lock certain doors, wooden cabinets, crates, lockers and large barrels - click them with the key.
@@ -2445,62 +2445,62 @@ and additional details.
 <tbody>
 <tr class="odd">
 <td>
-<span title="5 wood"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/window.png"></span>
+<span title="5 wood"><img src="assets/images/window.png"></span>
 <strong>Wood</strong>
 </td>
 <td>
-<span title="4 wood on a wall frame (check Walls section)"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/window_medieval.png"></span>
+<span title="4 wood on a wall frame (check Walls section)"><img src="assets/images/window_medieval.png"></span>
 <strong>Medieval</strong>
 </td>
 <td>
-<span title="1 paper sheet on a wall frame (check Walls section)"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/window_shoji.png"></span>
+<span title="1 paper sheet on a wall frame (check Walls section)"><img src="assets/images/window_shoji.png"></span>
 <strong>Shoji</strong>
 </td>
 <td>
-<span title="3 bamboo on a wall frame (check Walls section)"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/window_bamboo.png"></span>
+<span title="3 bamboo on a wall frame (check Walls section)"><img src="assets/images/window_bamboo.png"></span>
 <strong>Bamboo</strong>
 </td>
 <td>
-<span title="5 stone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/window_stone.png"></span>
+<span title="5 stone"><img src="assets/images/window_stone.png"></span>
 <strong>Stone</strong>
 </td>
 <td>
-<span title="5 stone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/window_stone_full.png"></span>
+<span title="5 stone"><img src="assets/images/window_stone_full.png"></span>
 <strong>Full stone</strong>
 </td>
 <td>
-<span title="1 roman stucco on a stone window frame"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/window_villa.png"></span>
+<span title="1 roman stucco on a stone window frame"><img src="assets/images/window_villa.png"></span>
 <strong>Villa</strong>
 </td>
 <td>
-<span title="1 roman stucco on a full stone window frame"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/window_villa_full.png"></span>
+<span title="1 roman stucco on a full stone window frame"><img src="assets/images/window_villa_full.png"></span>
 <strong>Full villa</strong>
 </td>
 <td></td>
 </tr>
 <tr class="even">
 <td>
-<span title="1 stucco on a wood window frame"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/window_red_earth_full.png"></span>
+<span title="1 stucco on a wood window frame"><img src="assets/images/window_red_earth_full.png"></span>
 <strong>Full red earth</strong>
 </td>
 <td>
-<span title="Built like a Sumerian wall - choose Window while building (check Walls section)"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/window_sumerian.png"></span>
+<span title="Built like a Sumerian wall - choose Window while building (check Walls section)"><img src="assets/images/window_sumerian.png"></span>
 <strong>Sumerian</strong>
 </td>
 <td>
-<span title="5 sandstone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/window_sandstone.png"></span>
+<span title="5 sandstone"><img src="assets/images/window_sandstone.png"></span>
 <strong>Sandstone</strong>
 </td>
 <td>
-<span title="5 sandstone"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/window_sandstone_full.png"></span>
+<span title="5 sandstone"><img src="assets/images/window_sandstone_full.png"></span>
 <strong>Full sandst.</strong>
 </td>
 <td>
-<span title="Built like a brick wall - choose Window while building (check Walls section)"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/window_brick.png"></span>
+<span title="Built like a brick wall - choose Window while building (check Walls section)"><img src="assets/images/window_brick.png"></span>
 <strong>Brick</strong>
 </td>
 <td>
-<span title="Built like a brick wall - choose Full Window while building (check Walls section)"><img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/window_brick_full.png"></span>
+<span title="Built like a brick wall - choose Full Window while building (check Walls section)"><img src="assets/images/window_brick_full.png"></span>
 <strong>Full brick</strong>
 </td>
 <td></td>
@@ -2520,67 +2520,67 @@ random and may differ from the icons below.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/fence_woodWE.png">
+<img src="assets/images/fence_woodWE.png">
 <strong>W,E</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/fence_woodN.png">
+<img src="assets/images/fence_woodN.png">
 <strong>N</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/fence_woodS.png">
+<img src="assets/images/fence_woodS.png">
 <strong>S</strong>
 </td>
 <td></td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/fence_picketWE.png">
+<img src="assets/images/fence_picketWE.png">
 <strong>W,E</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/fence_picketN.png">
+<img src="assets/images/fence_picketN.png">
 <strong>N</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/fence_picketS.png">
+<img src="assets/images/fence_picketS.png">
 <strong>S</strong>
 </td>
 <td></td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/fence_palisadeW.png">
+<img src="assets/images/fence_palisadeW.png">
 <strong>W</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/fence_palisadeE.png">
+<img src="assets/images/fence_palisadeE.png">
 <strong>E</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/fence_palisadeN.png">
+<img src="assets/images/fence_palisadeN.png">
 <strong>N</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/fence_palisadeS.png">
+<img src="assets/images/fence_palisadeS.png">
 <strong>S</strong>
 </td>
 <td></td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/fence_ironW.png">
+<img src="assets/images/fence_ironW.png">
 <strong>W</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/fence_ironE.png">
+<img src="assets/images/fence_ironE.png">
 <strong>E</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/fence_ironNS.png">
+<img src="assets/images/fence_ironNS.png">
 <strong>N,S</strong>
 </td>
 <td></td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/fence_chainlinkWE.png">
+<img src="assets/images/fence_chainlinkWE.png">
 <strong>W,E</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/fence_chainlinkNS.png">
+<img src="assets/images/fence_chainlinkNS.png">
 <strong>N,S</strong>
 </td>
 <td></td>
@@ -2642,11 +2642,11 @@ random and may differ from the icons below.
 </tr>
 <tr class="even">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/fence_wood_bars.png">
+<img src="assets/images/fence_wood_bars.png">
 <strong>All</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/fence_steel_bars.png">
+<img src="assets/images/fence_steel_bars.png">
 <strong>All</strong>
 </td>
 <td></td>
@@ -2719,53 +2719,53 @@ right next to and behind them.**
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/barricade_dirtW.png">
+<img src="assets/images/barricade_dirtW.png">
 <strong>W</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/barricade_dirtE.png">
+<img src="assets/images/barricade_dirtE.png">
 <strong>E</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/barricade_dirtN.png">
+<img src="assets/images/barricade_dirtN.png">
 <strong>N</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/barricade_dirtS.png">
+<img src="assets/images/barricade_dirtS.png">
 <strong>S</strong>
 </td>
 <td></td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/barricade_snowW.png">
+<img src="assets/images/barricade_snowW.png">
 <strong>W</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/barricade_snowE.png">
+<img src="assets/images/barricade_snowE.png">
 <strong>E</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/barricade_snowN.png">
+<img src="assets/images/barricade_snowN.png">
 <strong>N</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/barricade_snowS.png">
+<img src="assets/images/barricade_snowS.png">
 <strong>S</strong>
 </td>
 <td></td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/barricade_rockW.png">
+<img src="assets/images/barricade_rockW.png">
 <strong>W</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/barricade_rockE.png">
+<img src="assets/images/barricade_rockE.png">
 <strong>E</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/barricade_rockN.png">
+<img src="assets/images/barricade_rockN.png">
 <strong>N</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/barricade_rockS.png">
+<img src="assets/images/barricade_rockS.png">
 <strong>S</strong>
 </td>
 <td>style="width: 16%|</td>
@@ -2813,19 +2813,19 @@ right next to and behind them.**
 </tr>
 <tr class="even">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/barricade_sandbagW.png">
+<img src="assets/images/barricade_sandbagW.png">
 <strong>W</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/barricade_sandbagE.png">
+<img src="assets/images/barricade_sandbagE.png">
 <strong>E</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/barricade_sandbagN.png">
+<img src="assets/images/barricade_sandbagN.png">
 <strong>N</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/barricade_sandbagS.png">
+<img src="assets/images/barricade_sandbagS.png">
 <strong>S</strong>
 </td>
 <td></td>
@@ -2872,36 +2872,36 @@ barrier with the rolls themselves. Could be cut with the wirecutters.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/fence_barbwireW.png">
+<img src="assets/images/fence_barbwireW.png">
 <strong>W</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/fence_barbwireE.png">
+<img src="assets/images/fence_barbwireE.png">
 <strong>E</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/fence_barbwireN.png">
+<img src="assets/images/fence_barbwireN.png">
 <strong>N</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/fence_barbwireS.png">
+<img src="assets/images/fence_barbwireS.png">
 <strong>S</strong>
 </td>
 <td></td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/barrier_jerseyW.png">
+<img src="assets/images/barrier_jerseyW.png">
 <strong>W</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/barrier_jerseyE.png">
+<img src="assets/images/barrier_jerseyE.png">
 <strong>E</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/barrier_jerseyN.png">
+<img src="assets/images/barrier_jerseyN.png">
 <strong>N</strong>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/barrier_jerseyS.png">
+<img src="assets/images/barrier_jerseyS.png">
 <strong>S</strong>
 </td>
 <td>style="width: 78%|</td>
@@ -2979,7 +2979,7 @@ ingots).
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/engine_iron_furnace.png"> <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/engine_steam.png">
+<img src="assets/images/engine_iron_furnace.png"> <img src="assets/images/engine_steam.png">
 <strong>Iron furnace/Steam engine</strong>
 </td>
 <td><strong>Power:</strong> 45<br />
@@ -2989,7 +2989,7 @@ Build both the furnace and the engine, and place them next to each other, in nei
 </tr>
 <tr class="even">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/engine_hotbulb.png">
+<img src="assets/images/engine_hotbulb.png">
 <strong>Hot bulb engine</strong>
 </td>
 <td><strong>Power:</strong> 66<br />
@@ -2997,7 +2997,7 @@ Build both the furnace and the engine, and place them next to each other, in nei
 </tr>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/engine_diesel.png">
+<img src="assets/images/engine_diesel.png">
 <strong>Diesel engine</strong>
 </td>
 <td><strong>Power:</strong> 80<br />
@@ -3005,7 +3005,7 @@ Build both the furnace and the engine, and place them next to each other, in nei
 </tr>
 <tr class="even">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/engine_gasoline.png">
+<img src="assets/images/engine_gasoline.png">
 <strong>Gasoline 4-stroke engine</strong>
 </td>
 <td><strong>Power:</strong> 100<br />
@@ -3022,7 +3022,7 @@ There are two kinds of refinery - petroleum and biofuel.
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/refinery.png">
+<img src="assets/images/refinery.png">
 <strong>Refinery</strong>
 </td>
 <td><strong>Petroleum refinery</strong><br />
@@ -3054,7 +3054,7 @@ Made with 18 steel sheets. Used to produce ethanol from alcoholic beverages (the
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/bakelizer.png">
+<img src="assets/images/bakelizer.png">
 <strong>Bakelizer</strong>
 </td>
 <td><strong>Production rate:</strong> every 5 units of raw petroleum =&gt; 1 plastic sheet per 1 minute<br />
@@ -3085,7 +3085,7 @@ electrical cables.
 
 |                                                                                            |                                                                                            |                                                                                            |                                                                                            |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
-| <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wiring1.png"> | <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wiring2.png"> | <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wiring3.png"> | <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wiring4.png"> |
+| <img src="assets/images/wiring1.png"> | <img src="assets/images/wiring2.png"> | <img src="assets/images/wiring3.png"> | <img src="assets/images/wiring4.png"> |
 | **1**                                                                           | **2**                                                                           | **3**                                                                           | **4**                                                                           |
 
   -
@@ -3150,7 +3150,7 @@ While selecting a place for shipbuilding, keep in mind the following:
 
 |                                                                                          |                                                                                          |                                                                                          |                                                                                          |
 | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/ship1.png"> | <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/ship2.png"> | <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/ship3.png"> | <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/ship4.png"> |
+| <img src="assets/images/ship1.png"> | <img src="assets/images/ship2.png"> | <img src="assets/images/ship3.png"> | <img src="assets/images/ship4.png"> |
 | **1**                                                                         | **2**                                                                         | **3**                                                                         | **4**                                                                         |
 
 **You can fix the walls and frames and the mast in place with the wrench
@@ -3176,7 +3176,7 @@ to avoid pushing them on accident, but it is not necessary.**
         built when facing North:
     <!-- end list -->
       -
-        <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/ship31.png">
+        <img src="assets/images/ship31.png">
 4.  **Build a ship rudder axis at the top left corner of the ship.**
     There are two axes, but for now you can always select a regular axis
     with 2500 carried weight. Click the axis to finish building the
@@ -3186,7 +3186,7 @@ to avoid pushing them on accident, but it is not necessary.**
 <tbody>
 <tr class="odd">
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/ship_steel.png">
+<img src="assets/images/ship_steel.png">
 </td>
 <td><ul>
 <li>A ship frame could also be built with steel instead of wood in later ages. <strong>Ship rudder axis has to be built with wood, though.</strong></li>
@@ -3217,9 +3217,9 @@ function properly due to technical reasons.
 
 |                                                                                            |                                                                                            |                                                                                          |                                                                                          |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/tank1.png">   | <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/tank2_l.png"> | <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/tank3.png"> | <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/tank4.png"> |
+| <img src="assets/images/tank1.png">   | <img src="assets/images/tank2_l.png"> | <img src="assets/images/tank3.png"> | <img src="assets/images/tank4.png"> |
 | **1**                                                                           | **2**                                                                           | **3**                                                                         | **4**                                                                         |
-| <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/tank5_l.png"> | <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/tank6_l.png"> | <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/tank7.png"> | <img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/tank8.png"> |
+| <img src="assets/images/tank5_l.png"> | <img src="assets/images/tank6_l.png"> | <img src="assets/images/tank7.png"> | <img src="assets/images/tank8.png"> |
 | **5**                                                                           | **6**                                                                           | **7**                                                                         | **8**                                                                         |
 
 **Everything inside the tank, except for the tank tracks and the vehicle

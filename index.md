@@ -1,6 +1,6 @@
 # Main Page
 
-![logo](https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/napac0L.png)
+![logo](assets/images/napac0L.png)
 
 ## What is this?
 

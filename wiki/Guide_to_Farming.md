@@ -21,7 +21,7 @@ To farm, you will require some basic tools.
 <p>Knife</p>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/e.png">
+<img src="assets/images/e.png">
 </td>
 <td><p>Used for harvesting crops. Can be made out of Wood, Bone, Copper, Bronze, Iron, Steel, Silver, Gold and Diamond.</p></td>
 </tr>
@@ -30,7 +30,7 @@ To farm, you will require some basic tools.
 <p>Plough</p>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/plough_normal.png">
+<img src="assets/images/plough_normal.png">
 </td>
 <td><p>A plough is made out of wood and used to plough fields for farming! Used once on the grass and once on the dirt underneath the grass. You can also plough snowy dirt and flooded plains dirt (found along the jungle rivers). In case of snowy grass, you will have to shovel the snow first. Lastly, there are places where you cannot plough: infertile soil, permafrost etc. You can also make an iron plough out of iron ingots to plough land faster.</p></td>
 </tr>
@@ -39,7 +39,7 @@ To farm, you will require some basic tools.
 <p>Trench shovel</p>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/trench_shovel.png">
+<img src="assets/images/trench_shovel.png">
 </td>
 <td><p>A trench shovel is made out of iron ingots and a wooden handle. A trench shovel (as the name suggests) digs trenches, to dig a trench simple click a dirt tile two times also you can flood trenches by putting them next to a water source. Useful for large scale farming.</p></td>
 </tr>
@@ -48,7 +48,7 @@ To farm, you will require some basic tools.
 <p>Seeds</p>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/seeds.png">
+<img src="assets/images/seeds.png">
 </td>
 <td><p>Some sort of seeds to plant and grow. You may find seeds simply lying on the ground, but you can also collect them in the wilderness by using any type of knife on bushes and small bushes.</p></td>
 </tr>
@@ -57,7 +57,7 @@ To farm, you will require some basic tools.
 <p>Seed collector</p>
 </td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/seed_collector.png">
+<img src="assets/images/seed_collector.png">
 </td>
 <td><p>Made out of leather. Very useful for picking up seeds during large-scale farming. Have a seed collector in your active hand, stand over the seeds on the ground, then click the collector or press Ctrl-Z, and you will put the seeds in the bag. Just do not misplace it.</p></td>
 </tr>

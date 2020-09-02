@@ -11,13 +11,13 @@ However, don't worry! It is simpler than it seems. You do **not** need to downlo
 
 3) Go to your fork of the wiki, open settings, and scroll down to **GitHub Pages**. Make sure it looks similar to the screenshot below by activating Github Pages:
 
-![image](https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/github_pages.PNG)
+![image](assets/images/github_pages.PNG)
 
 4) You can now open the wiki using the link shown there. It will look similar to https://**YOURUSERNAME**.github.io/civ13-wiki
 
 5) You're all set! Just edit by either creating a new page, or selecting **edit** on the top right menu, like the image below:
 
-![image](https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/edit_menu.PNG)
+![image](assets/images/edit_menu.PNG)
 
 6) When you feel that your changes are good enough, just open a pull request to the main repository (the one you forked), and if accepted, it will be displayed on the page!
 
