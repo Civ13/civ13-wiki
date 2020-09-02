@@ -314,14 +314,13 @@ The riches that have been accumulating for eons, concealed by mass of
 rock. Time to hollow out the earth and put them to good use!
 
 <b>Smelting</b>
+
 Some ores must be processed before crafting, which is done by smelting
-them in **[Campfire, Ovens and
-Furnace](#Campfire,_Ovens_and_Furnace "wikilink")**. See that section
-for the detailed description of smelting and available alloys. Smelting
+them in **[Campfire, Ovens and Furnace](#Campfire,_Ovens_and_Furnace "wikilink")**. See that section for the detailed description of smelting and available alloys. Smelting
 ores produces ingots, which are a material that could be used for
 crafting.
 
-<b>Obsidian** is turned into usable material sheets by cutting it with
+<b>Obsidian</b> is turned into usable material sheets by cutting it with
 hammer and chisel - click a stack of obsidian rocks with a chisel while
 holding a hammer in the other hand.
 
@@ -361,27 +360,23 @@ holding a hammer in the other hand.
   - Ores marked with (*) could be found only in the undergrounds of
     certain biomes:
 
-<!-- end list -->
+    - Sandstone - Desert
 
-  -
-    Sandstone - Desert
-    Obsidian - Jungle (obsidian is also available from 313 BC to 1713.)
+    - Obsidian - Jungle (obsidian is also available from 313 BC to 1713.)
 
 #### Mining
-
 <table>
 <tbody>
 <tr class="odd">
-<td><img src="assets/images/mining.png">
-
+<td style="text-align:center;"><img src="assets/images/mining.png">
+<br>
 <b>Safety first!</b>
 </td>
-<td></td>
 <td>Mining is pretty straightforward, save for one nuance:
 <ul>
 <li>Dig an underground entrance (a tunnel) - have a shovel in the active hand and click it, or press Ctrl-Z or Z in the hotkeys mode, then choose the respective option. A tunnel could be removed by filling it with dirt piles.</li>
 <li>Click the entrance to go down.</li>
-<li>**Build a mining support!** It could be either a wooden mining support or a stone pillar, both work the same.</li>
+<li><b>Build a mining support!</b> It could be either a wooden mining support or a stone pillar, both work the same.</li>
 <li>Proceed to hack away at the rock.</li>
 </ul></td>
 </tr>
@@ -429,14 +424,16 @@ plastics, so let's start drilling!
 <tbody>
 <tr class="odd">
 <td>
-<img src="assets/images/oil_spring.png">
+<img src="assets/images/oil_spring.png"></td>
+<td>
 <b>Oil spring</b>
 </td>
 <td>A spot where an oil deposit reaches the surface of the earth, allowing the collection of crude oil with any containers that could hold liquids: buckets, barrels etc. Click the oil spring with a container, and you will fill it with 10 units of oil. The oil spring will refill presently. Before the advent of engines and machines, crude oil is mostly used as fuel for lamps and lanterns, or as a handy tool by scheming poisoners in royal courts. Yes, drinking oil is bad for health. Very bad.</td>
 </tr>
 <tr class="even">
 <td>
-<img src="assets/images/oil_well.png">
+<img src="assets/images/oil_well.png"></td>
+<td>
 <b>Oil well</b>
 </td>
 <td>Now we are talking! With this wonderful contraption, the scope of the oil industry could become truly fascinating. Made with 40 wood logs, the oil well will automatically fill any container you put inside it (click the oil well with the container in hand to put it in, click the oil well to remove it.) Needs to be built over an oil spring.</td>
@@ -447,10 +444,11 @@ plastics, so let's start drilling!
 <b>Additional information</b>
 
   - Crude oil could be distilled and processed into a number of
-    petroleum products. See the **[Machinery](#Machinery "wikilink")</b>
+    petroleum products. See the **[Machinery](#Machinery "wikilink")**
     section for more information on the respective equipment. However,
     crude oil could be used directly to fuel one of the more primitive
     engines - the hot bulb engine.
+
   - Petroleum as fuel for lamps, lanterns and the hot bulb engine could
     be substituted with **[olive oil](Guide_to_Farming "wikilink")**.
 
@@ -467,7 +465,8 @@ either wood, tree branches, mineral coal or charcoal.
 <tbody>
 <tr class="odd">
 <td>
-<img src="assets/images/ore_charcoal.png">
+<img src="assets/images/ore_charcoal.png"></td>
+<td>
 <b>Charcoal</b>
 </td>
 <td>A byproduct of burning, it will appear at your campfires and ovens once in a while and could be used as fuel.</td>
@@ -475,23 +474,20 @@ either wood, tree branches, mineral coal or charcoal.
 </tbody>
 </table>
 
-<b>Pay attention when adding fuel to your fires, so as not to
-accidentally feed it a whole stack of 50 pieces of coal (unless that is
-your intent, of course)! Fuel cannot be retrieved!** Shift-Click the
-stack to examine the quantity, then separate the stack by holding it in
-the non-active hand and clicking it with the active empty hand.
+**Pay attention when adding fuel to your fires, so as not to accidentally feed it a whole stack of 50 pieces of coal (unless that is your intent, of course)! Fuel cannot be retrieved!** Shift-Click the stack to examine the quantity, then separate the stack by holding it in the non-active hand and clicking it with the active empty hand.
 
 Here is how long 1 unit of different fuel will last (minutes):
 
-Wood - 1
-Branches - 1
-Coal - 3
-Charcoal - 1
+  - Wood - 1
+  - Branches - 1
+  - Coal - 3
+  - Charcoal - 0.5
 
 ### Operating manual
 
   - Take something that you intend to put in the campfire, oven etc.
     (food item, ore, fuel.)
+
   - Click the campfire, oven etc. with it. Fuel is spent irretrievably,
     while everything else is put 'inside' or 'in the fire' and could be
     ejected by right-clicking a campfire or an oven and choosing 'Empty'
@@ -499,12 +495,15 @@ Charcoal - 1
     'capacity' (see more in the next subsection.) One stack is
     considered a single item. Pots do not go inside, they are
     'physically' put onto the campfire or the oven itself.
+
   - Click the campfire, oven etc. again to light the fire. You can also
     add more items to be cooked while there is fire.
+
   - After a while a product will be ready - cooked food, metal ingots,
     glass sheets etc. Unless, of course, it was something unsuitable, in
     which case it will turn into burned mess which you can only throw
     away.
+
   - Click the campfire, oven etc. to put out the fire, or leave it
     burning for light.
 
@@ -512,8 +511,8 @@ Charcoal - 1
 
 Essentially, these three have the same functions - to smelt ores into
 metal ingots, to fire pottery and bricks of
-<b>[Clay](Full_Crafting_List#clay "wikilink")**, and to
-<b>[cook](Guide_to_Cooking "wikilink")**. There are two main differences
+**[Clay](Full_Crafting_List#clay "wikilink")**, and to
+**[cook](Guide_to_Cooking "wikilink")**. There are two main differences
 between a campfire, an oven and a stove. The first one is their
 capacity, i.e. the number of objects they can hold and process
 simultaneously. You can think about it as a number of 'production
@@ -525,29 +524,32 @@ campfire.
 <tbody>
 <tr class="odd">
 <td>
-<img src="assets/images/campfire.png">
+<img src="assets/images/campfire.png"></td>
+<td>
 <b>Campfire</b>
 </td>
-<td>**Capacity**: 2<br />
-<b>Cooking time**: 30 seconds<br />
+<td><b>Capacity</b>: 2<br />
+<b>Cooking time</b>: 30 seconds<br />
 Made with 4 wood logs. The first sparkle of Civilization, the harbinger of metals and pottery, the omen of a fine cuisine, and so on, and so on.</td>
 </tr>
 <tr class="even">
 <td>
-<img src="assets/images/iron_oven.png">
+<img src="assets/images/iron_oven.png"></td>
+<td>
 <b>Iron oven</b>
 </td>
-<td>**Capacity**: 3<br />
-<b>Cooking time**: 5 seconds<br />
+<td><b>Capacity</b>: 3<br />
+<b>Cooking time</b>: 5 seconds<br />
 Made with 8 iron ingots. A potbelly-like containment for fire.</td>
 </tr>
 <tr class="odd">
 <td>
-<img src="assets/images/wood_stove.png">
+<img src="assets/images/wood_stove.png"></td>
+<td>
 <b>Wood stove</b>
 </td>
-<td>**Capacity**: 4<br />
-<b>Cooking time**: 5 seconds<br />
+<td><b>Capacity</b>: 4<br />
+<b>Cooking time</b>: 5 seconds<br />
 Made with 8 steel sheets. A pinnacle of the fireplace technology (so far.)</td>
 </tr>
 </tbody>
@@ -569,10 +571,12 @@ or 1 piece of mineral coal.
 <tbody>
 <tr class="odd">
 <td>
-<img src="assets/images/sheet_bronze.png">
+<img src="assets/images/sheet_bronze.png"></td>
+<td>Bronze
 </td>
 <td>
-<img src="assets/images/sheet_steel.png">
+<img src="assets/images/sheet_steel.png"></td>
+<td>Steel
 </td>
 </tr>
 </tbody>
@@ -607,12 +611,12 @@ item's name.
 <b>Furnace</b>
 </td>
 <td>
-<b>1**<span title="Iron"><img src="assets/images/ore_iron.png"></span>**or**<span title="Iron"><img src="assets/images/sheet_iron.png"></span>**=&gt; 1**<span title="Steel"><img src="assets/images/sheet_steel.png"></span>
-<b>1**<span title="Copper"><img src="assets/images/ore_copper.png"></span>**or**<span title="Copper"><img src="assets/images/sheet_copper.png"></span>**+ 1**<span title="Tin"><img src="assets/images/ore_tin.png"></span>**or**<span title="Tin"><img src="assets/images/sheet_tin.png"></span>**=&gt; 1**&lt;span title="Bronze&gt;assets/images/sheet_bronze.png</span>
+<b>1</b> Iron <img src="assets/images/ore_iron.png"><b>or</b> Iron <img src="assets/images/sheet_iron.png"><b>=> 1</b> Steel <img src="assets/images/sheet_steel.png">
+<b>1</b> Copper <img src="assets/images/ore_copper.png"><b>or</b> Copper <img src="assets/images/sheet_copper.png"><b>+ 1</b> Tin <img src="assets/images/ore_tin.png"><b>or</b> Tin <img src="assets/images/sheet_tin.png"><b>=> 1</b><img src="assets/images/sheet_bronze.png">
 </td>
 <td>
-<b>1 knife, spoon or fork =&gt; 1 ingot of a respective material</b>
-<span title="Tin can"><img src="assets/images/tin_can_empty.png"></span>**=&gt; 90% of amount of tin spent on the cans</b>
+<b>1 knife, spoon or fork => 1 ingot of a respective material</b>
+"Tin can"><img src="assets/images/tin_can_empty.png">**=> 90% of amount of tin spent on the cans</b>
 </td>
 </tr>
 </tbody>
@@ -955,15 +959,15 @@ Hover the mouse cursor over the images below to see the material cost.
 <tbody>
 <tr class="odd">
 <td>
-<span title="0.5 clay"><img src="assets/images/clay_blocks.png"></span>
+"0.5 clay"><img src="assets/images/clay_blocks.png">
 <b>Clay blocks</b>
 </td>
 <td>
-<span title="0.5 clay"><img src="assets/images/clay_bricks.png"></span>
+"0.5 clay"><img src="assets/images/clay_bricks.png">
 <b>Clay bricks</b>
 </td>
 <td>
-<span title="4 clay"><img src="assets/images/clay_cement_bricks.png"></span>
+"4 clay"><img src="assets/images/clay_cement_bricks.png">
 <b>Cement bricks</b>
 </td>
 <td></td>
@@ -2008,7 +2012,7 @@ in the roofed area, or even standing next to it.</b>
 <tbody>
 <tr class="odd">
 <td>
-<span title="1 bundle of palm leaves"><img src="assets/images/roof_builder_palm.png"></span>
+"1 bundle of palm leaves"><img src="assets/images/roof_builder_palm.png">
 <b>Palm leaves roof builder</b>
 </td>
 <br />
@@ -2016,7 +2020,7 @@ in the roofed area, or even standing next to it.</b>
 <b>Palm leaves roof</b>
 </td>
 <td>
-<span title="1 bundle of leaves"><img src="assets/images/roof_builder_thatch.png"></span>
+"1 bundle of leaves"><img src="assets/images/roof_builder_thatch.png">
 <b>Thatch roof builder</b>
 </td>
 <br />
@@ -2024,7 +2028,7 @@ in the roofed area, or even standing next to it.</b>
 <b>Thatch roof</b>
 </td>
 <td>
-<span title="1 wood"><img src="assets/images/roof_builder.png"></span>
+"1 wood"><img src="assets/images/roof_builder.png">
 <b>Roof builder</b>
 </td>
 <br />
@@ -2032,7 +2036,7 @@ in the roofed area, or even standing next to it.</b>
 <b>Wood roof</b>
 </td>
 <td>
-<span title="0.5 clay"><img src="assets/images/Fired_clay_roof.png"></span>
+"0.5 clay"><img src="assets/images/Fired_clay_roof.png">
 <b>Clay roofing</b>
 </td>
 <br />
@@ -2040,7 +2044,7 @@ in the roofed area, or even standing next to it.</b>
 <b>Clay roof</b>
 </td>
 <td>
-<span title="0.5 clay"><img src="assets/images/roof_builder_black_clay.png"></span>
+"0.5 clay"><img src="assets/images/roof_builder_black_clay.png">
 <b>Black clay roofing</b>
 </td>
 <br />
@@ -2057,7 +2061,7 @@ in the roofed area, or even standing next to it.</b>
 <tbody>
 <tr class="odd">
 <td>
-<span title="1 sandstone"><img src="assets/images/roof_builder_sandstone.png"></span>
+"1 sandstone"><img src="assets/images/roof_builder_sandstone.png">
 <td><b>Sandstone roof builder</b>
 </td>
 <br />
@@ -2065,7 +2069,7 @@ in the roofed area, or even standing next to it.</b>
 <td><b>Sandstone roof</b>
 </td>
 <td>
-<span title="1 stone"><img src="assets/images/roof_builder_mayan.png"></span>
+"1 stone"><img src="assets/images/roof_builder_mayan.png">
 <td><b>Mayan roof builder</b>
 </td>
 <br />
@@ -2073,7 +2077,7 @@ in the roofed area, or even standing next to it.</b>
 <td><b>Mayan roof</b>
 </td>
 <td>
-<span title="0.75 clay"><img src="assets/images/roof_builder_concrete.png"></span>
+"0.75 clay"><img src="assets/images/roof_builder_concrete.png">
 <td><b>Concrete roof builder</b>
 </td>
 <br />
@@ -2117,19 +2121,19 @@ Hover the mouse cursor over an image to see the cost and the material.
 <tbody>
 <tr class="odd">
 <td>
-<span title="1 wood log"><img src="assets/images/floor_wood.png"></span>
+"1 wood log"><img src="assets/images/floor_wood.png">
 <b>Wood</b>
 </td>
 <td>
-<span title="1.5 wood log"><img src="assets/images/floor_fancy_wood.png"></span>
+"1.5 wood log"><img src="assets/images/floor_fancy_wood.png">
 <b>Fancy wood</b>
 </td>
 <td>
-<span title="0.75 wood log"><img src="assets/images/floor_thatch.png"></span>
+"0.75 wood log"><img src="assets/images/floor_thatch.png">
 <b>Thatch</b>
 </td>
 <td>
-<span title="0.75 wood log"><img src="assets/images/floor_thatch_split.png"></span>
+"0.75 wood log"><img src="assets/images/floor_thatch_split.png">
 <b>Thatch split</b>
 </td>
 <td></td>
@@ -2146,81 +2150,81 @@ randomly selected upon construction.
 <tbody>
 <tr class="odd">
 <td>
-<span title="1 stone"><img src="assets/images/floor_cobblestone.png"></span>
+"1 stone"><img src="assets/images/floor_cobblestone.png">
 <b>Cobblestone</b>
 </td>
 <td>
-<span title="1 stone brick"><img src="assets/images/floor_stone_bricks.png"></span>
+"1 stone brick"><img src="assets/images/floor_stone_bricks.png">
 <b>Stone brick</b>
 </td>
 <td>
-<span title="1 stone"><img src="assets/images/floor_road_roman.png"></span>
+"1 stone"><img src="assets/images/floor_road_roman.png">
 <b>Roman road</b>
 </td>
 <td>
-<span title="1.2 stone"><img src="assets/images/floor_slate.png"></span>
+"1.2 stone"><img src="assets/images/floor_slate.png">
 <b>Slate</b>
 </td>
 <td>
-<span title="1 stone"><img src="assets/images/floor_road.png"></span>
+"1 stone"><img src="assets/images/floor_road.png">
 <b>Road</b>
 </td>
 <td>
-<span title="1 stone"><img src="assets/images/floor_marble_raw.png"></span>
+"1 stone"><img src="assets/images/floor_marble_raw.png">
 <b>Raw marble</b>
 </td>
 <td></td>
 </tr>
 <tr class="even">
 <td>
-<span title="1 stone"><img src="assets/images/floor_marble_raw_black.png"></span>
+"1 stone"><img src="assets/images/floor_marble_raw_black.png">
 <b>Raw black marble</b>
 </td>
 <td>
-<span title="1 stone"><img src="assets/images/floor_marble_raw_pink.png"></span>
+"1 stone"><img src="assets/images/floor_marble_raw_pink.png">
 <b>Raw pink marble</b>
 </td>
 <td>
-<span title="1 stone"><img src="assets/images/floor_marble.png"></span>
+"1 stone"><img src="assets/images/floor_marble.png">
 <b>Marble</b>
 </td>
 <td>
-<span title="1 stone"><img src="assets/images/floor_marble_tile.png"></span>
+"1 stone"><img src="assets/images/floor_marble_tile.png">
 <b>Marble tiles</b>
 </td>
 <td>
-<span title="1 stone"><img src="assets/images/floor_marble_tile_black.png"></span>
+"1 stone"><img src="assets/images/floor_marble_tile_black.png">
 <b>Black marble tiles</b>
 </td>
 <td>
-<span title="1 stone"><img src="assets/images/floor_marble_tile_pink.png"></span>
+"1 stone"><img src="assets/images/floor_marble_tile_pink.png">
 <b>Pink marble tiles</b>
 </td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>
-<span title="1 stone"><img src="assets/images/floor_marble_ornate_tile.png"></span>
+"1 stone"><img src="assets/images/floor_marble_ornate_tile.png">
 <b>Ornate marble tile</b>
 </td>
 <td>
-<span title="1 stone"><img src="assets/images/floor_marble_ornate_tile_black.png"></span>
+"1 stone"><img src="assets/images/floor_marble_ornate_tile_black.png">
 <b>Ornate black marble tile</b>
 </td>
 <td>
-<span title="1 stone"><img src="assets/images/floor_marble_decorative_tile.png"></span>
+"1 stone"><img src="assets/images/floor_marble_decorative_tile.png">
 <b>Decorative marble tile</b>
 </td>
 <td>
-<span title="1 stone"><img src="assets/images/floor_marble_decorative_tile_black.png"></span>
+"1 stone"><img src="assets/images/floor_marble_decorative_tile_black.png">
 <b>Decorative black marble tile</b>
 </td>
 <td>
-<span title="1 stone"><img src="assets/images/floor_marble_decorative_tile_pink.png"></span>
+"1 stone"><img src="assets/images/floor_marble_decorative_tile_pink.png">
 <b>Decorative pink marble tile</b>
 </td>
 <td>
-<span title="1 stone"><img src="assets/images/floor_marble_tile_grid.png"></span>
+"1 stone"><img src="assets/images/floor_marble_tile_grid.png">
 <b>Marble grid tile</b>
 </td>
 <br />
@@ -2229,19 +2233,19 @@ randomly selected upon construction.
 </tr>
 <tr class="even">
 <td>
-<span title="1 stone"><img src="assets/images/floor_marble_checkerboard.png"></span>
+"1 stone"><img src="assets/images/floor_marble_checkerboard.png">
 <b>Marble checkerboard</b>
 </td>
 <td>
-<span title="1 stone"><img src="assets/images/floor_marble_checkerboard_reverse.png"></span>
+"1 stone"><img src="assets/images/floor_marble_checkerboard_reverse.png">
 <b>Reverse marble checkerboard</b>
 </td>
 <td>
-<span title="1 stone"><img src="assets/images/floor_marble_checkerboard_pink.png"></span>
+"1 stone"><img src="assets/images/floor_marble_checkerboard_pink.png">
 <b>Pink marble checkerboard</b>
 </td>
 <td>
-<span title="1 stone"><img src="assets/images/floor_marble_checkerboard_pink_reverse.png"></span>
+"1 stone"><img src="assets/images/floor_marble_checkerboard_pink_reverse.png">
 <b>Reverse pink marble checkerboard</b>
 </td>
 <td></td>
@@ -2257,31 +2261,31 @@ randomly selected upon construction.
 <tbody>
 <tr class="odd">
 <td>
-<span title="1 sandstone"><img src="assets/images/floor_sandstone.png"></span>
+"1 sandstone"><img src="assets/images/floor_sandstone.png">
 <b>Sandstone</b>
 </td>
 <td>
-<span title="1 sandstone"><img src="assets/images/floor_sandstone_brick.png"></span>
+"1 sandstone"><img src="assets/images/floor_sandstone_brick.png">
 <b>Brick</b>
 </td>
 <td>
-<span title="1 sandstone"><img src="assets/images/floor_sandstone_slab.png"></span>
+"1 sandstone"><img src="assets/images/floor_sandstone_slab.png">
 <b>Slab</b>
 </td>
 <td>
-<span title="1 sandstone"><img src="assets/images/floor_sandstone_slab_red.png"></span>
+"1 sandstone"><img src="assets/images/floor_sandstone_slab_red.png">
 <b>Red slab</b>
 </td>
 <td>
-<span title="2 sandstone"><img src="assets/images/floor_sandstone_tile.png"></span>
+"2 sandstone"><img src="assets/images/floor_sandstone_tile.png">
 <b>Tile</b>
 </td>
 <td>
-<span title="2.5 sandstone"><img src="assets/images/floor_sandstone_tile_decorative.png"></span>
+"2.5 sandstone"><img src="assets/images/floor_sandstone_tile_decorative.png">
 <b>Decorative tile</b>
 </td>
 <td>
-<span title="2.5 sandstone"><img src="assets/images/floor_sandstone_tile_decorative_red.png"></span>
+"2.5 sandstone"><img src="assets/images/floor_sandstone_tile_decorative_red.png">
 <b>Red dec. tile</b>
 </td>
 <td></td>
@@ -2295,7 +2299,7 @@ randomly selected upon construction.
 <tbody>
 <tr class="odd">
 <td>
-<span title="1 piece of clay"><img src="assets/images/floor_concrete.png"></span>
+"1 piece of clay"><img src="assets/images/floor_concrete.png">
 <b>Concrete</b>
 </td>
 <td></td>
@@ -2309,11 +2313,11 @@ randomly selected upon construction.
 <tbody>
 <tr class="odd">
 <td>
-<span title="1 steel sheet"><img src="assets/images/floor_steel.png"></span>
+"1 steel sheet"><img src="assets/images/floor_steel.png">
 <b>Steel</b>
 </td>
 <td>
-<span title="1 steel sheet"><img src="assets/images/floor_steel_white.png"></span>
+"1 steel sheet"><img src="assets/images/floor_steel_white.png">
 <b>Steel white</b>
 </td>
 <td></td>
@@ -2330,15 +2334,15 @@ used to create an impression of height difference.
 <tbody>
 <tr class="odd">
 <td>
-<span title="2 stone"><img src="assets/images/stairs_stone.png"></span>
+"2 stone"><img src="assets/images/stairs_stone.png">
 <b>Stone</b>
 </td>
 <td>
-<span title="3 sandstone"><img src="assets/images/stairs_sandstone.png"></span>
+"3 sandstone"><img src="assets/images/stairs_sandstone.png">
 <b>Sandstone</b>
 </td>
 <td>
-<span title="2 wood"><img src="assets/images/stairs_wood.png"></span>
+"2 wood"><img src="assets/images/stairs_wood.png">
 <b>Wood</b>
 </td>
 <td>style="width: 64%|</td>
@@ -2363,51 +2367,51 @@ with a key (the iron and jail doors currently) - more details below.
 <tbody>
 <tr class="odd">
 <td>
-<span title="3 wood; direction - W; opens to the left"><img src="assets/images/door_fence.png"></span>
+"3 wood; direction - W; opens to the left"><img src="assets/images/door_fence.png">
 <b>Primitive fence door</b>
 </td>
 <td>
-<span title="3 wood; direction - W; opens to the left"><img src="assets/images/door_fence_picket.png"></span>
+"3 wood; direction - W; opens to the left"><img src="assets/images/door_fence_picket.png">
 <b>Picket wood fence door</b>
 </td>
 <td>
-<span title="4 wood; direction - All"><img src="assets/images/door_rustic.png"></span>
+"4 wood; direction - All"><img src="assets/images/door_rustic.png">
 <b>Rustic door</b>
 </td>
 <td>
-<span title="5 wood; direction - All"><img src="assets/images/door_wood.png"></span>
+"5 wood; direction - All"><img src="assets/images/door_wood.png">
 <b>Wood door</b>
 </td>
 <td>
-<span title="5 wood; direction - All"><img src="assets/images/door_nordic.png"></span>
+"5 wood; direction - All"><img src="assets/images/door_nordic.png">
 <b>Nordic door</b>
 </td>
 </tr>
 <tr class="even">
 <td>
-<span title="5 wood; direction - All"><img src="assets/images/door_aztec.png"></span>
+"5 wood; direction - All"><img src="assets/images/door_aztec.png">
 <b>Aztec door</b>
 </td>
 <td>
-<span title="1 paper sheet on a wall frame (check Walls section); direction - All"><img src="assets/images/door_shoji.png"></span>
+"1 paper sheet on a wall frame (check Walls section); direction - All"><img src="assets/images/door_shoji.png">
 <b>Shoji door</b>
 </td>
 <td>
-<span title="5 stone; direction - All"><img src="assets/images/door_roman.png"></span>
+"5 stone; direction - All"><img src="assets/images/door_roman.png">
 <b>Roman door</b>
 </td>
 <td>
-<span title="5 iron; direction - All"><img src="assets/images/door_iron.png"></span>
+"5 iron; direction - All"><img src="assets/images/door_iron.png">
 <b>Iron door</b>
 </td>
 <td>
-<span title="12 wood; direction - All"><img src="assets/images/door_cell_wood.png"></span>
+"12 wood; direction - All"><img src="assets/images/door_cell_wood.png">
 <b>Wood jail door</b>
 </td>
 </tr>
 <tr class="odd">
 <td>
-<span title="12 steel; direction - All"><img src="assets/images/door_cell.png"></span>
+"12 steel; direction - All"><img src="assets/images/door_cell.png">
 <b>Steel jail door</b>
 </td>
 <td>style=width: 80%|</td>
@@ -2449,62 +2453,62 @@ and additional details.
 <tbody>
 <tr class="odd">
 <td>
-<span title="5 wood"><img src="assets/images/window.png"></span>
+"5 wood"><img src="assets/images/window.png">
 <b>Wood</b>
 </td>
 <td>
-<span title="4 wood on a wall frame (check Walls section)"><img src="assets/images/window_medieval.png"></span>
+"4 wood on a wall frame (check Walls section)"><img src="assets/images/window_medieval.png">
 <b>Medieval</b>
 </td>
 <td>
-<span title="1 paper sheet on a wall frame (check Walls section)"><img src="assets/images/window_shoji.png"></span>
+"1 paper sheet on a wall frame (check Walls section)"><img src="assets/images/window_shoji.png">
 <b>Shoji</b>
 </td>
 <td>
-<span title="3 bamboo on a wall frame (check Walls section)"><img src="assets/images/window_bamboo.png"></span>
+"3 bamboo on a wall frame (check Walls section)"><img src="assets/images/window_bamboo.png">
 <b>Bamboo</b>
 </td>
 <td>
-<span title="5 stone"><img src="assets/images/window_stone.png"></span>
+"5 stone"><img src="assets/images/window_stone.png">
 <b>Stone</b>
 </td>
 <td>
-<span title="5 stone"><img src="assets/images/window_stone_full.png"></span>
+"5 stone"><img src="assets/images/window_stone_full.png">
 <b>Full stone</b>
 </td>
 <td>
-<span title="1 roman stucco on a stone window frame"><img src="assets/images/window_villa.png"></span>
+"1 roman stucco on a stone window frame"><img src="assets/images/window_villa.png">
 <b>Villa</b>
 </td>
 <td>
-<span title="1 roman stucco on a full stone window frame"><img src="assets/images/window_villa_full.png"></span>
+"1 roman stucco on a full stone window frame"><img src="assets/images/window_villa_full.png">
 <b>Full villa</b>
 </td>
 <td></td>
 </tr>
 <tr class="even">
 <td>
-<span title="1 stucco on a wood window frame"><img src="assets/images/window_red_earth_full.png"></span>
+"1 stucco on a wood window frame"><img src="assets/images/window_red_earth_full.png">
 <b>Full red earth</b>
 </td>
 <td>
-<span title="Built like a Sumerian wall - choose Window while building (check Walls section)"><img src="assets/images/window_sumerian.png"></span>
+"Built like a Sumerian wall - choose Window while building (check Walls section)"><img src="assets/images/window_sumerian.png">
 <b>Sumerian</b>
 </td>
 <td>
-<span title="5 sandstone"><img src="assets/images/window_sandstone.png"></span>
+"5 sandstone"><img src="assets/images/window_sandstone.png">
 <b>Sandstone</b>
 </td>
 <td>
-<span title="5 sandstone"><img src="assets/images/window_sandstone_full.png"></span>
+"5 sandstone"><img src="assets/images/window_sandstone_full.png">
 <b>Full sandst.</b>
 </td>
 <td>
-<span title="Built like a brick wall - choose Window while building (check Walls section)"><img src="assets/images/window_brick.png"></span>
+"Built like a brick wall - choose Window while building (check Walls section)"><img src="assets/images/window_brick.png">
 <b>Brick</b>
 </td>
 <td>
-<span title="Built like a brick wall - choose Full Window while building (check Walls section)"><img src="assets/images/window_brick_full.png"></span>
+"Built like a brick wall - choose Full Window while building (check Walls section)"><img src="assets/images/window_brick_full.png">
 <b>Full brick</b>
 </td>
 <td></td>
@@ -3030,7 +3034,7 @@ There are two kinds of refinery - petroleum and biofuel.
 <td><b>Refinery</b>
 </td>
 <td><b>Petroleum refinery</b><br />
-<b>Production rate:</b> every 10 units of raw petroleum =&gt; 8 units of gasoline or 7 units of diesel per 1 minute<br />
+<b>Production rate:</b> every 10 units of raw petroleum => 8 units of gasoline or 7 units of diesel per 1 minute<br />
 Made with 22 steel sheets. Used to distill crude oil into gasoline and diesel.<br />
 <b>Biofuel refinery</b><br />
 Made with 18 steel sheets. Used to produce ethanol from alcoholic beverages (the stronger, the more efficient) and biofuel from olive oil.</td>
@@ -3061,7 +3065,7 @@ Made with 18 steel sheets. Used to produce ethanol from alcoholic beverages (the
 <img src="assets/images/bakelizer.png">
 <b>Bakelizer</b>
 </td>
-<td>**Production rate:** every 5 units of raw petroleum =&gt; 1 plastic sheet per 1 minute<br />
+<td>**Production rate:** every 5 units of raw petroleum => 1 plastic sheet per 1 minute<br />
 Made with 18 steel sheets. Used to produce <a href="Full_Crafting_List#plastic">Plastic</a> from raw petroleum.</td>
 </tr>
 </tbody>
