@@ -1,8 +1,7 @@
 # Guide to Weapons
-## Weapon List
+## 5000 B.C. Weapons
 
 <table class="sortable">
-
 <tr>
 <th>Weapon</th>
 <th>Image</th>
@@ -11,7 +10,6 @@
 <th>Craftable?</th>
 <th>Ammo type</th>
 </tr>
-
 <tr>
 <td>Club</td>
 <td>
@@ -101,6 +99,20 @@
 <td>5000 B.C.- 1013 A.D.</td>
 <td>Yes</td>
 <td>Arrows</td>
+</tr>
+</table>
+
+
+## 313 B.C. Weapons
+
+<table class="sortable">
+<tr>
+<th>Weapon</th>
+<th>Image</th>
+<th>Description</th>
+<th>Available</th>
+<th>Craftable?</th>
+<th>Ammo type</th>
 </tr>
 <tr>
 <td>Xiphos</td>
@@ -231,6 +243,19 @@
 <td>700 A.D. - 2020 A.D.</td>
 <td>Yes</td>
 <td></td>
+</tr>
+</table>
+
+## 1013 A.D. Weapons
+
+<table class="sortable">
+<tr>
+<th>Weapon</th>
+<th>Image</th>
+<th>Description</th>
+<th>Available</th>
+<th>Craftable?</th>
+<th>Ammo type</th>
 </tr>
 <tr>
 <td>Garrote</td>
@@ -432,6 +457,19 @@
 <td>Yes</td>
 <td>Stonebullet</td>
 </tr>
+</table>
+
+## 1713 A.D. Weapons
+
+<table class="sortable">
+<tr>
+<th>Weapon</th>
+<th>Image</th>
+<th>Description</th>
+<th>Available</th>
+<th>Craftable?</th>
+<th>Ammo type</th>
+</tr>
 <tr>
 <td>Police baton</td>
 <td>
@@ -542,6 +580,19 @@
 <td>Yes</td>
 <td>Musketball (pistol)</td>
 </tr>
+</table>
+
+## 1873 A.D. Weapons
+
+<table class="sortable">
+<tr>
+<th>Weapon</th>
+<th>Image</th>
+<th>Description</th>
+<th>Available</th>
+<th>Craftable?</th>
+<th>Ammo type</th>
+</tr>
 <tr>
 <td>Colt Peacemaker</td>
 <td>
@@ -611,6 +662,19 @@
 <td>1850 A.D.- 2020 A.D.</td>
 <td>Yes</td>
 <td>Artillery shell</td>
+</tr>
+</table>
+
+## 1903-2020 A.D. Weapons
+
+<table class="sortable">
+<tr>
+<th>Weapon</th>
+<th>Image</th>
+<th>Description</th>
+<th>Available</th>
+<th>Craftable?</th>
+<th>Ammo type</th>
 </tr>
 <tr>
 <td>Karabiner 98k</td>
@@ -742,7 +806,6 @@
 <td>Yes</td>
 <td>7.62x39mm</td>
 </tr>
-
 </table>
 
 ## How to use artillery
@@ -799,66 +862,51 @@ tanks.
 **All the other shells are:**
 
 <table>
-
 <tr>
-
 <td style="text-align: center;">
 
 Chlorine
 
 </td>
-
 <td style="text-align: center">
 
 Designed to cause overexposure to the chlorine element, it causes
 respiratory system failure and severe nose and throat irritation
 
 </td>
-
 </tr>
-
 <tr>
-
 <td style="text-align: center;">
 
 Mustard
 
 </td>
-
 <td style="text-align: center">
 
 A man-made agent which causes chemical burning of the skin, eyes, and
 throat., very nasty stuff.
 
 </td>
-
 </tr>
-
 <tr>
-
 <td style="text-align: center;">
 
 Phosgene
 
 </td>
-
 <td style="text-align: center">
 
 A far more potent and well disguised cousin of chlorine gas, it has a
 slightly delayed but otherwise identical effect.
 
 </td>
-
 </tr>
-
 <tr>
-
 <td style="text-align: center;">
 
 White Phosphorus
 
 </td>
-
 <td style="text-align: center">
 
 A type of pyrophoric incendiary munition, it ignites air creating a
@@ -866,34 +914,26 @@ large smoke cloud. Temperatures high enough to cause fourth degree burns
 to anyone unfortunate enough to be in direct contact.
 
 </td>
-
 </tr>
-
 <tr>
-
 <td style="text-align: center;">
 
 Xylyl Bromide
 
 </td>
-
 <td style="text-align: center">
 
 Primarily used as a "tear gas" type agent. Stereotypical respiratory
 pain and eye, skin, and throat irritations. Not heavily lethal, however.
 
 </td>
-
 </tr>
-
 <tr>
-
 <td style="text-align: center;">
 
 Zyklon B
 
 </td>
-
 <td style="text-align: center">
 
 Cyanide-based pesticide, it impedes upon cellular respiration. In
@@ -901,17 +941,13 @@ simpler words it 'deactivates' the entire human body within minutes
 post-inhalation.
 
 </td>
-
 </tr>
-
 <tr>
-
 <td style="text-align: center;">
 
 APCR
 
 </td>
-
 <td style="text-align: center">
 
 A shell designed with a hard metal penetrating core, it has extreme
@@ -919,34 +955,26 @@ penetrative force made to wound tank crews and disable vehicle
 components.
 
 </td>
-
 </tr>
-
 <tr>
-
 <td style="text-align: center;">
 
 AP
 
 </td>
-
 <td style="text-align: center">
 
 A steel alloy shell designed to survive the shock of direct hits against
 metal armor and continue going. Not exactly fancy but it works.
 
 </td>
-
 </tr>
-
 <tr>
-
 <td style="text-align: center;">
 
 HE
 
 </td>
-
 <td style="text-align: center">
 
 A shell designed to inflict as much concussive explosive force as
@@ -954,22 +982,16 @@ possible, applications include destruction of fortifications or direct
 anti-personnel usages.
 
 </td>
-
 </tr>
-
 <tr>
-
 <td style="text-align: center;">
 
 Makeshift Nuclear
 
 </td>
-
 <td style="text-align: center">
 
 A shell designed to irradiate a large area for long periods of time.
 
 </td>
-
 </tr>
-</table>
