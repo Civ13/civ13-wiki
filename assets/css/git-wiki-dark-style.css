@@ -343,7 +343,7 @@ body {
   line-height: 1.5;
   color: #aaaaaa;
   text-align: left;
-  background-color: #222;
+  background-color: rgb(46, 46, 46);
 }
 hr {
   -webkit-box-sizing: content-box;
@@ -431,7 +431,7 @@ h5 {
 a {
   color: #00bc8c;
   text-decoration: none;
-  background-color: #222;
+  background-color: rgb(46, 46, 46);
 }
 
 a:hover {
@@ -487,7 +487,7 @@ td {
 }
 
 th {
-  color: rgb(114, 114, 114);
+  color: rgb(134, 134, 134);
 }
 
 img {
@@ -504,7 +504,7 @@ img {
   border-radius: 10px;
   border-bottom: 1px solid white;
   z-index: 999;
-  background-color:#222;
+  background-color:rgb(46, 46, 46);
   margin-top:0px;
   margin-bottom:15px;
   position: fixed;
@@ -669,13 +669,24 @@ ol {
   padding:0;
   width: 100%;
   font-size: 10px;
-  background-color:#222;
+  background-color:rgb(46, 46, 46);
   text-align: center;
 }
 
 .git-wiki-tools {
-  background-color:#222;
+  background-color:rgb(46, 46, 46);
   font-size:1rem;
   float: right;
   margin-top: 10px;
+}
+
+.mainmenu-line {
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid #666666;
+  display: inline-block;
+  align-content: center;
+  text-align: center;
+  width: 128px;
+  height: 148px;
 }
