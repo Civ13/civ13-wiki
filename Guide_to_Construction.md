@@ -1,4 +1,4 @@
-## Guide to Construction
+# Guide to Construction
 
 It is truly a marvel, that from this dusty dirt under our feet, these
 heaps of rugged stones and those chaotically growing trees could spring
@@ -27,11 +27,11 @@ direction.
 walls of the same type, so they connect seamlessly to each other.</b>
 These walls are marked as **Adaptive**.
 
-### Construction materials
+## Construction materials
 
 A few more details about particular materials.
 
-#### Bricks
+## Bricks
 
 Bricks and blocks are made with **[Clay](Full_Crafting_List#clay "wikilink")**, which is obtained from **[dirt](#Soil "wikilink")**.
 
@@ -54,7 +54,7 @@ Bricks and blocks are made with **[Clay](Full_Crafting_List#clay "wikilink")**, 
 </tbody>
 </table>
 
-### Walls
+## Walls
 
 <b>Deconstruction</b>
 
@@ -724,7 +724,7 @@ more batch to finish.
 </tbody>
 </table>
 
-### Roofs
+## Roofs
 
 Roofs provide shelter from bad weather, e.g. rains, blizzards and
 sandstorms, as well as a nice cool shade.
@@ -836,7 +836,7 @@ in the roofed area, or even standing next to it.**
 </tbody>
 </table>
 
-### Floors
+## Floors
 
 No more sloshing or plodding through the mud and snow! Walk the
 civilized way, swiftly and with resonant "top-top" footfalls! Not only
@@ -1010,7 +1010,7 @@ used to create an impression of height difference.
 Stairs on the images are built while facing **S**; directions **N, W, E** are also available. Hover the mouse cursor over the images to see
 the cost and the material.
 
-### Doors
+## Doors
 
 Hover the mouse cursor over the images to see the cost, the material and
 the direction (how it looks when built while facing either N, S, W or E.
@@ -1069,7 +1069,7 @@ with a key (the iron and jail doors currently) - more details below.
 </tbody>
 </table>
 
-### Windows
+## Windows
 
 A window frame is built first. To add glass, click the window frame with
 3 glass sheets.
@@ -1118,7 +1118,7 @@ and additional details.
 </tbody>
 </table>
 
-### Fences, barricades and barriers
+## Fences, barricades and barriers
 
 <u><b>Fences</b></u>
 The appearance of the primitive wood and picket wood fences is slightly
@@ -1421,6 +1421,6 @@ barrier with the rolls themselves. Could be cut with the wirecutters.
 </tbody>
 </table>
 
-### Fortifications
+## Fortifications
 
-### Lighting
+## Lighting
