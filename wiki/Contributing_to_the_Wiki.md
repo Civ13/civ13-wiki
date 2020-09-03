@@ -28,7 +28,7 @@ However, don't worry! It is simpler than it seems. You do **not** need to downlo
 
 8) Make sure you regularly update your repository to keep it up to date! You can do this using pull requests from master. Open your fork page on github and click **Pull Request** as per the image below:
 
-![image](assets/images/pull_request.png)
+![image](assets/images/pull_request.PNG)
 
 ## Images
 
@@ -65,4 +65,4 @@ If you prefer to edit the files locally, and/or want to experiment with the webs
 * Automatic generated **TOC**
 * You can download the entire wiki for **offline** usage and even navigate directly using a markdown reader.
 
-Instructions and full documentation: http://drassil.github.io/git-wiki
+Instructions and full documentation: [http://drassil.github.io/git-wiki](http://drassil.github.io/git-wiki)
