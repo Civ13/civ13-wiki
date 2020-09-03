@@ -229,7 +229,7 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 <img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Hostages">Hostages</a><br>
 
 <img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Battleroyale#Modern">Battleroyale (Modern)</a><br>
-
+</td>
 </tr>
 </tbody></table>
 </div>
