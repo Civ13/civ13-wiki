@@ -4,6 +4,8 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/civ13/civ13-wiki.svg?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/civ13/civ13-wiki.svg?style=flat)
 
+Access it [here](https://civ13.github.io/civ13-wiki)
+
 it's a **modular and fully featured wiki** powered by [git-wiki-theme](https://github.com/Drassil/git-wiki-theme) for Jekyll, [github pages](https://pages.github.com/) and pull-requests!
 
 
