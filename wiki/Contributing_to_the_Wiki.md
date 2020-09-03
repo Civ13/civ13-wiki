@@ -8,7 +8,7 @@ However, don't worry! It is simpler than it seems. You do **not** need to downlo
 
 **1) If you do not have one yet, register for a *Github Account* [here](https://github.com/join).**
 
-**2) Fork the wiki by going to the main project page [here](https://github.com/Civ13/civ13-wiki) and pressing the *Fork* button on the top right.
+**2) Fork the wiki by going to the main project page [here](https://github.com/Civ13/civ13-wiki) and pressing the *Fork* button on the top right.**
 
 ![image](assets/images/fork.PNG)
 
