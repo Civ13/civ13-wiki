@@ -1,7 +1,6 @@
-# Main Page
-
-![logo](assets/images/napac0L.png)
-
+---
+title: main page
+---
 ## What is this?
 
 Civilization 13 (formerly 1713) is a free game based on Space Station 13 code and using the BYOND platform, which features several epochs of human history. (hence the name).
@@ -71,45 +70,30 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 <div style="box-shadow: 0 0 .3em #999; border-radius: .2em; margin: 1em 0 2em 0; padding: 1px;">
 <div style="background: #962424; border-radius: .2em; color: #FFF; padding: .4em .8em .5em;"><img src="assets/images/icons/maps.png" width="23" height="23" > &nbsp; <b>Maps</b></div>
 <div style="padding: 1em;"><div style="overflow:auto;">
-<div style="margin:1em auto 1em auto; width:100%;">
-<table style="width: 100%; align-content:center;">
+<div style="margin:1em auto 1em auto;">
+<table style="align-content:center;">
 <tbody><tr>
-<th><img src="assets/images/icons/building.png" width="64" height="64" >
-</th>
-<th><img src="assets/images/icons/classical_architecture.png" width="64" height="64" >
-</th>
-<th><img src="assets/images/icons/viking.png" width="64" height="64" >
-</th>
-<th><img src="assets/images/icons/pirate.png" width="64" height="64" >
-</th>
-<th><img src="assets/images/icons/cowboy.png" width="64" height="64" >
-</th></tr>
+<th><img src="assets/images/icons/politician.png" width="64" height="64" ></th>
+<th><img src="assets/images/icons/classical_architecture.png" width="64" height="64" ></th>
+<th><img src="assets/images/icons/viking.png" width="64" height="64" ></th></tr>
 <tr style="text-align: center;">
-<th>Nomads
-</th>
-<th>Bronze Age
-</th>
-<th>Medieval Age
-</th>
-<th>Imperial Age
-</th>
-<th>Industrial Age
-</th></tr>
+<th>Scenarios</th>
+<th>Bronze Age</th>
+<th>Medieval Age</th></tr>
 <tr>
 <td style="vertical-align: top;">
 
-<a href="PLACEHOLDER">PLACEHOLDER</a>
+<img src="assets/images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="Nomads_Maps">Nomads Maps</a><br>
 
-<a href="PLACEHOLDER">PLACEHOLDER</a>
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><img src="assets/images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="The_Art_of_the_Deal">Art of the Deal</a><br>
 
-<a href="PLACEHOLDER">PLACEHOLDER</a>
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Alleyway">Alleyway</a><br>
 
-<a href="PLACEHOLDER">PLACEHOLDER</a>
-
-<a href="PLACEHOLDER">PLACEHOLDER</a>
-
+<img src="assets/images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="Tribes">Tribes</a><br>
 </td>
 <td style="vertical-align: top;">
+
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Gladiators">Gladiators</a><br>
 
 <img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Heraclea">Heraclea</a><br>
 
@@ -127,211 +111,131 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 
 <img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Sammirhayeed">Sammir Hayeed</a><br>
 
-<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Battle Royale#Medieval">Medieval Battle Royale</a><br>
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Battleroyale#Medieval">Battleroyale (Medieval)</a><br>
 
 <img src="assets/images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="Bohemia">Bohemia</a><br>
 
 </td>
+</tr>
+<tr>
+<th><img src="assets/images/icons/pirate.png" width="64" height="64" ></th>
+<th><img src="assets/images/icons/cowboy.png" width="64" height="64" ></th>
+<th><img src="assets/images/icons/people.png" width="64" height="64" ></th></tr>
+<tr style="text-align: center;">
+<th>Imperial Age</th>
+<th>Industrial Age</th>
+<th>1st World War</th>
+</tr>
+<tr>
 <td style="vertical-align: top;">
 
 <img src="assets/images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="Colony">Colony</a><br>
 
-<a href="PLACEHOLDER">PLACEHOLDER</a>
+<img src="assets/images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="Four_Colonies">Four Colonies</a><br>
 
-<a href="PLACEHOLDER">PLACEHOLDER</a>
+<img src="assets/images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="Hunt">Hunt</a><br>
 
-<a href="PLACEHOLDER">PLACEHOLDER</a>
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Naval">Naval</a><br>
 
-<a href="PLACEHOLDER">PLACEHOLDER</a>
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Island">Island</a><br>
+
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Isla_Robusta">Isla Robusta</a><br>
+
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Supply_Raid">Supply Raid</a><br>
+
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Fields">Fields</a><br>
+
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Recife">Recife</a><br>
+
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Battleroyale#Imperial">Battleroyale (Imperial)</a><br>
 
 </td>
 <td style="vertical-align: top;">
 
-<a href="PLACEHOLDER">PLACEHOLDER</a>
+<img src="assets/images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="Little_Creek_RP">Little Creek (RP)</a><br>
 
-<a href="PLACEHOLDER">PLACEHOLDER</a>
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Little_Creek_TDM">Little Creek (TDM)</a><br>
 
-<a href="PLACEHOLDER">PLACEHOLDER</a>
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Missionary_Ridge">Missionary Ridge</a><br>
 
-<a href="PLACEHOLDER">PLACEHOLDER</a>
+<img src="assets/images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="Pioneers">Pioneers</a><br>
+</td>
+<td style="vertical-align: top;">
 
-<a href="PLACEHOLDER">PLACEHOLDER</a>
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Ypres">Ypres</a><br>
 
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Hill_203">Hill 203</a><br>
+
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Tsaritsyn">Tsaritsyn</a><br>
+
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Port_Arthur">Port Arthur</a><br>
+
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Santo_Tomas">Santo Tomas</a><br>
+
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Coloocan">Coloocan</a><br>
 </td>
 </tr>
 <tr>
-<th><img src="assets/images/icons/people.png" width="64" height="64" >
-</th>
-<th><img src="assets/images/icons/soldier.png" width="64" height="64" >
-</th>
-<th><img src="assets/images/icons/greaser.png" width="64" height="64" >
-</th>
-<th><img src="assets/images/icons/modern.png" width="64" height="64" >
-</th>
-<th><img src="assets/images/icons/politician.png" width="64" height="64" >
-</th></tr>
+<th><img src="assets/images/icons/soldier.png" width="64" height="64" ></th>
+<th><img src="assets/images/icons/greaser.png" width="64" height="64" ></th>
+<th><img src="assets/images/icons/modern.png" width="64" height="64" ></th>
 <tr style="text-align: center;">
-<th>1st World War
-</th>
-<th>2nd World War
-</th>
-<th>Cold War
-</th>
-<th>Modern Age
-</th>
-<th>Scenarios
-</th></tr>
+<th>2nd World War</th>
+<th>Cold War</th>
+<th>Modern Age</th>
 <tr>
+
 <td style="vertical-align: top;">
 
-<a href="PLACEHOLDER">PLACEHOLDER</a>
+<img src="assets/images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="Gulag_13">Gulag 13</a><br>
 
-<a href="PLACEHOLDER">PLACEHOLDER</a>
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Reichstag">Reichstag</a><br>
 
-<a href="PLACEHOLDER">PLACEHOLDER</a>
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Intramuros">Intramuros</a><br>
 
-<a href="PLACEHOLDER">PLACEHOLDER</a>
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Iwo_Jima">Iwo Jima</a><br>
 
-<a href="PLACEHOLDER">PLACEHOLDER</a>
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Khalkyn_Gol">Khalkyn Gol</a><br>
+
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Kursk">Kursk</a><br>
+
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Nanjing">Nanjing</a><br>
+
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Omaha">Omaha</a><br>
+
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Rizal_Stadium">Rizal Stadium</a><br>
+
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Stalingrad">Stalingrad</a><br>
+
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Stalingrad#Smallingrad">Smallingrad</a><br>
+
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Wake Island">Wake Island</a><br>
+</td>
+<td style="vertical-align: top;">
+
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Compound">Compound</a><br>
+
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Road_to_Dak_To">Road to Dak To</a><br>
+
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Retreat">Retreat</a><br>
 
 </td>
 <td style="vertical-align: top;">
 
-<a href="PLACEHOLDER">PLACEHOLDER</a>
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Arab_Town">Arab Town</a><br>
 
-<a href="PLACEHOLDER">PLACEHOLDER</a>
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Arab_Town#Arab_Town_II">Arab Town II</a><br>
 
-<a href="PLACEHOLDER">PLACEHOLDER</a>
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Hostages">Hostages</a><br>
 
-<a href="PLACEHOLDER">PLACEHOLDER</a>
+<img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Battleroyale#Modern">Battleroyale (Modern)</a><br>
 
-<a href="PLACEHOLDER">PLACEHOLDER</a>
-
-</td>
-<td style="vertical-align: top;">
-
-<a href="PLACEHOLDER">PLACEHOLDER</a>
-
-<a href="PLACEHOLDER">PLACEHOLDER</a>
-
-<a href="PLACEHOLDER">PLACEHOLDER</a>
-
-<a href="PLACEHOLDER">PLACEHOLDER</a>
-
-<a href="PLACEHOLDER">PLACEHOLDER</a>
-
-</td>
-<td style="vertical-align: top;">
-
-<a href="PLACEHOLDER">PLACEHOLDER</a>
-
-<a href="PLACEHOLDER">PLACEHOLDER</a>
-
-<a href="PLACEHOLDER">PLACEHOLDER</a>
-
-<a href="PLACEHOLDER">PLACEHOLDER</a>
-
-<a href="PLACEHOLDER">PLACEHOLDER</a>
-
-</td>
-<td style="vertical-align: top;">
-
-<a href="PLACEHOLDER">PLACEHOLDER</a>
-
-<a href="PLACEHOLDER">PLACEHOLDER</a>
-
-<a href="PLACEHOLDER">PLACEHOLDER</a>
-
-<a href="PLACEHOLDER">PLACEHOLDER</a>
-
-<a href="PLACEHOLDER">PLACEHOLDER</a>
-
-</td>
 </tr>
 </tbody></table>
 </div>
 </div></div></div>
 
+## Other Things
 
-## Maps
-
-### Civilization Mode
-
-Lead your Civilization from prehistory to the modern era!
-
-**RP:** [Civilizations and Nomads](Civilizations_and_Nomads "wikilink")
-
-### The Art of the Deal
-
-Negotiate and betray in this mode.
-
-**RP: [The Art of the Deal](The_Art_of_the_Deal "wikilink")**
-
-### 313 B.C.
-
-Ancient Greece and Romans. Phalanxes vs Legions.
-
-**TDM:** [Heraclea](Heraclea "wikilink") - [Siege](Siege "wikilink")
-
-### 1013 A.D.
-
-Medieval Europe and the Crusades.
-
-**TDM:** [Camp](Camp "wikilink") - [Karak](Karak "wikilink") -
-[Sammirhayeed](Sammirhayeed "wikilink")
-
-### 1713 A.D.
-
-Colonial America. Piracy and Colonization
-
-**TDM:** [Naval](Naval "wikilink") - [Island](Island "wikilink") -
-[Robusta](Robusta "wikilink") - [Supply Raid](Supply_Raid "wikilink") -
-[Recife](Recife "wikilink")
-
-**RP:** [Hunt](Hunt "wikilink") - [Colony](Colony "wikilink")
-
-### 1803 A.D.
-
-Napoleonic Wars and War of 1812
-
-**TDM:** [Alamo](Alamo "wikilink") - [Gettysburg](Gettysburg "wikilink")
-
-### 1873 A.D.
-
-The Wild West and the American Civil War.
-
-**TDM:** [Little Creek TDM](Little_Creek_TDM "wikilink")
-
-**RP:** [Little Creek RP](Little_Creek_RP "wikilink") -
-[Pioneers](Pioneers "wikilink")
-
-### 1903 A.D.
-
-Victorian Era and the Russo-Japanese war.
-
-**TDM:** [Hill 203](Hill_203 "wikilink") -
-[Ypress](Ypress "wikilink") - [Tsaritsyn](Tsaritsyn "wikilink")
-
-### 1943 A.D.
-
-World War II.
-
-**TDM:** [Omaha](Omaha "wikilink") - [Reichstag](Reichstag "wikilink") - [Kursk](Kursk "wikilink") - [Nanjing](Nanjing "wikilink") - [Khalkhyn gol](Khalkhyn_gol "wikilink")
-
-**RP:** [Gulag](Gulag "wikilink")
-
-### 1969 A.D.
-
-Cold War and and Proxy wars.
-
-**TDM:** [Compound](Compound "wikilink") - [Road toDak-to](Road_to_Dak-to "wikilink")
-
-### 2013 A.D.
-
-War on Terror and Political conflict.
-
-**TDM:** [Arab Town](Arab_Town "wikilink") - [Hostages](Hostages "wikilink")
-
-## Media and other things
-
+[Contributing to this Wiki](Contributing_to_the_Wiki "wikilink")
 [Games](Games "wikilink") (similar games and inspirations)
