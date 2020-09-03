@@ -23,63 +23,61 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 <div style="background: #366EA7; border-radius: .2em; color: #FFF; padding: .4em .8em .5em;"><img src="assets/images/icons/guides.png" width="23" height="23"> &nbsp; <b>Guides</b></div>
 
 <div style="padding: 1em;"><div style="width: 100%;align-content:center">
-<li style="display: inline-block;text-align:center"> <a href="New_Player_Guide" title="How to Play"><img src="assets/images/icons/computer.png" width="100" height="100" ></a><br><a href="New_Player_Guide" title="How to Play">How to Play</a> </li>
+<li class="mainmenu-line"> <a href="New_Player_Guide" title="How to Play"><img src="assets/images/icons/computer.png" width="100" height="100" ></a><br><a href="New_Player_Guide" title="How to Play"><b>How to Play</b></a> </li>
 
-<li style="display: inline-block;text-align:center"> <a href="Starter_Guide" title="Starter Guide"><img src="assets/images/icons/student.png" width="100" height="100" ></a><br><a href="Starter_Guide" title="Starter Guide">Starter Guide</a> </li>
+<li class="mainmenu-line"> <a href="Starter_Guide" title="Starter Guide"><img src="assets/images/icons/student.png" width="100" height="100" ></a><br><a href="Starter_Guide" title="Starter Guide"><b>Starter Guide</b></a> </li>
 
-<li style="display: inline-block;text-align:center"> <a href="Civilizations_and_Nomads" title="Civilizations and Nomads"><img src="assets/images/icons/conference.png" width="100" height="100" ></a><br><a href="Civilizations_and_Nomads" title="Civilizations and Nomads">Nomads</a> </li>
+<li class="mainmenu-line"> <a href="Civilizations_and_Nomads" title="Civilizations and Nomads"><img src="assets/images/icons/conference.png" width="100" height="100" ></a><br><a href="Civilizations_and_Nomads" title="Civilizations and Nomads"><b>Nomads</b></a> </li>
 
-<li style="display: inline-block;text-align:center"> <a href="Guide_to_Crafting" title="Crafting"><img src="assets/images/icons/crafting.png" width="100" height="100" ></a><br><a href="Guide_to_Crafting" title="Guide to Crafting">Crafting</a> </li>
+<li class="mainmenu-line"> <a href="Guide_to_Crafting" title="Crafting"><img src="assets/images/icons/crafting.png" width="100" height="100" ></a><br><a href="Guide_to_Crafting" title="Guide to Crafting"><b>Crafting</b></a> </li>
 
-<li style="display: inline-block;text-align:center"> <a href="Guide_to_Construction" title="Construction"><img src="assets/images/icons/architecture.png" width="100" height="100" ></a><br><a href="Guide_to_Construction" title="Guide to Construction">Construction</a> </li>
+<li class="mainmenu-line"> <a href="Guide_to_Construction" title="Construction"><img src="assets/images/icons/architecture.png" width="100" height="100" ></a><br><a href="Guide_to_Construction" title="Guide to Construction"><b>Construction</b></a> </li>
 
-<li style="display: inline-block;text-align:center"> <a href="Guide_to_Farming" title="Guide to Farming"><img src="assets/images/icons/farming.png" width="100" height="100" ></a><br><a href="Guide_to_Farming" title="Guide to Farming">Farming</a> </li>
+<li class="mainmenu-line"> <a href="Guide_to_Farming" title="Guide to Farming"><img src="assets/images/icons/farming.png" width="100" height="100" ></a><br><a href="Guide_to_Farming" title="Guide to Farming"><b>Farming</b></a> </li>
 
-<li style="display: inline-block;text-align:center"> <a href="Guide_to_Ranching" title="Ranching"><img src="assets/images/icons/ranching.png" width="100" height="100" ></a><br><a href="Guide_to_Ranching" title="Guide to Ranching">Ranching</a> </li>
+<li class="mainmenu-line"> <a href="Guide_to_Ranching" title="Ranching"><img src="assets/images/icons/ranching.png" width="100" height="100" ></a><br><a href="Guide_to_Ranching" title="Guide to Ranching"><b>Ranching</b></a> </li>
 
-<li style="display: inline-block;text-align:center"> <a href="Guide_to_Religion" title="Religion"><img src="assets/images/icons/religion.png" width="100" height="100" ></a><br><a href="Guide_to_Religion" title="Guide to Religion">Religion</a> </li>
+<li class="mainmenu-line"> <a href="Guide_to_Religion" title="Religion"><img src="assets/images/icons/religion.png" width="100" height="100" ></a><br><a href="Guide_to_Religion" title="Guide to Religion"><b>Religion</b></a> </li>
 
-<li style="display: inline-block;text-align:center"> <a href="Guide_to_Cooking" title="Cooking"><img src="assets/images/icons/cooking.png" width="100" height="100" ></a><br><a href="Guide_to_Cooking" title="Guide to Cooking">Cooking</a> </li>
+<li class="mainmenu-line"> <a href="Guide_to_Cooking" title="Cooking"><img src="assets/images/icons/cooking.png" width="100" height="100" ></a><br><a href="Guide_to_Cooking" title="Guide to Cooking"><b>Cooking</b></a> </li>
 
-<li style="display: inline-block;text-align:center"> <a href="Guide_to_Chemistry" title="Chemistry"><img src="assets/images/icons/chemistry.png" width="100" height="100" ></a><br><a href="Guide_to_Chemistry" title="Guide to Chemistry">Chemistry</a> </li>
+<li class="mainmenu-line"> <a href="Guide_to_Chemistry" title="Chemistry"><img src="assets/images/icons/chemistry.png" width="100" height="100" ></a><br><a href="Guide_to_Chemistry" title="Guide to Chemistry"><b>Chemistry</b></a> </li>
 
-<li style="display: inline-block;text-align:center"> <a href="Guide_to_Hygiene_and_Mood" title="Hygiene and Mood"><img src="assets/images/icons/hygiene.png" width="100" height="100" ></a><br><a href="Guide_to_Hygiene_and_Mood" title="Guide to Hygiene and Mood">Hygiene</a> </li>
+<li class="mainmenu-line"> <a href="Guide_to_Hygiene_and_Mood" title="Hygiene and Mood"><img src="assets/images/icons/hygiene.png" width="100" height="100" ></a><br><a href="Guide_to_Hygiene_and_Mood" title="Guide to Hygiene and Mood"><b>Hygiene</b></a> </li>
 
-<li style="display: inline-block;text-align:center"> <a href="Guide_to_Races" title="Races"><img src="assets/images/icons/animal.png" width="100" height="100" ></a><br><a href="Guide_to_Races" title="Guide to Races">Races</a> </li>
+<li class="mainmenu-line"> <a href="Guide_to_Races" title="Races"><img src="assets/images/icons/animal.png" width="100" height="100" ></a><br><a href="Guide_to_Races" title="Guide to Races"><b>Races</b></a> </li>
 
-<li style="display: inline-block;text-align:center"> <a href="Guide_to_Medical" title="Medical"><img src="assets/images/icons/medic.png" width="100" height="100" ></a><br><a href="Guide_to_Medical" title="Guide to Medical">Medical</a> </li>
+<li class="mainmenu-line"> <a href="Guide_to_Medical" title="Medical"><img src="assets/images/icons/medic.png" width="100" height="100" ></a><br><a href="Guide_to_Medical" title="Guide to Medical"><b>Medical</b></a> </li>
 
-<li style="display: inline-block;text-align:center"> <a href="Guide_to_Weapons" title="Weapons"><img src="assets/images/icons/weapons.png" width="100" height="100" ></a><br><a href="Guide_to_Weapons" title="Guide to Weapons">Weapons</a> </li>
+<li class="mainmenu-line"> <a href="Guide_to_Weapons" title="Weapons"><img src="assets/images/icons/weapons.png" width="100" height="100" ></a><br><a href="Guide_to_Weapons" title="Guide to Weapons"><b>Weapons</b></a> </li>
 
-<li style="display: inline-block;text-align:center"> <a href="Guide_to_Wiring" title="Wiring"><img src="assets/images/icons/wiring.png" width="100" height="100" ></a><br><a href="Guide_to_Wiring" title="Guide to Wiring">Wiring</a> </li>
+<li class="mainmenu-line"> <a href="Guide_to_Wiring" title="Wiring"><img src="assets/images/icons/wiring.png" width="100" height="100" ></a><br><a href="Guide_to_Wiring" title="Guide to Wiring"><b>Wiring</b></a> </li>
 
-<li style="display: inline-block;text-align:center"> <a href="Guide_to_Communications" title="Communications"><img src="assets/images/icons/talk.png" width="100" height="100" ></a><br><a href="Guide_to_Communications" title="Guide to Communications">Communications</a> </li>
+<li class="mainmenu-line"> <a href="Guide_to_Communications" title="Communications"><img src="assets/images/icons/talk.png" width="100" height="100" ></a><br><a href="Guide_to_Communications" title="Guide to Communications"><b>Communications</b></a> </li>
 
-<li style="display: inline-block;text-align:center"> <a href="Guide_to_Paperwork" title="Paperwork"><img src="assets/images/icons/renaissance.png" width="100" height="100" ></a><br><a href="Guide_to_Paperwork" title="Guide to Paperwork">Paperwork</a> </li>
+<li class="mainmenu-line"> <a href="Guide_to_Paperwork" title="Paperwork"><img src="assets/images/icons/renaissance.png" width="100" height="100" ></a><br><a href="Guide_to_Paperwork" title="Guide to Paperwork"><b>Paperwork</b></a> </li>
 
-<li style="display: inline-block;text-align:center"> <a href="Guide_to_Radiation" title="Radiation"><img src="assets/images/icons/nurse.png" width="100" height="100" ></a><br><a href="Guide_to_Radiation" title="Guide to Radiation">Radiation</a> </li>
+<li class="mainmenu-line"> <a href="Guide_to_Radiation" title="Radiation"><img src="assets/images/icons/nurse.png" width="100" height="100" ></a><br><a href="Guide_to_Radiation" title="Guide to Radiation"><b>Radiation</b></a> </li>
 
-<li style="display: inline-block;text-align:center"> <a href="Guide_to_Tanks" title="Tanks"><img src="assets/images/icons/driver.png" width="100" height="100" ></a><br><a href="Guide_to_Tanks" title="Guide to Tanks">Tanks</a> </li>
+<li class="mainmenu-line"> <a href="Guide_to_Tanks" title="Tanks"><img src="assets/images/icons/driver.png" width="100" height="100" ></a><br><a href="Guide_to_Tanks" title="Guide to Tanks"><b>Tanks</b></a> </li>
 
-<li style="display: inline-block;text-align:center"> <a href="Full_Crafting_List" title="Full Crafting List"><img src="assets/images/icons/modern_architecture.png" width="100" height="100" ></a><br><a href="Full_Crafting_List" title="Full Crafting List">Full Crafting List</a> </li>
+<li class="mainmenu-line"> <a href="Full_Crafting_List" title="Full Crafting List"><img src="assets/images/icons/modern_architecture.png" width="100" height="100" ></a><br><a href="Full_Crafting_List" title="Full Crafting List"><b>Crafting List</b></a> </li>
 
-<li style="display: inline-block;text-align:center"> <a href="Rules" title="Rules"><img src="assets/images/icons/police.png" width="100" height="100" ></a><br><a href="Rules" title="Rules">Rules</a> </li>
+<li class="mainmenu-line"> <a href="Rules" title="Rules"><img src="assets/images/icons/police.png" width="100" height="100" ></a><br><a href="Rules" title="Rules"><b>Rules</b></a> </li>
 </div></div></div>
-
 
 <div style="box-shadow: 0 0 .3em #999; border-radius: .2em; margin: 1em 0 2em 0; padding: 1px;">
 <div style="background: #962424; border-radius: .2em; color: #FFF; padding: .4em .8em .5em;"><img src="assets/images/icons/maps.png" width="23" height="23" > &nbsp; <b>Maps</b></div>
 <div style="padding: 1em;"><div style="overflow:auto;">
-<div style="margin:1em auto 1em auto;">
 <table style="align-content:center;">
 <tbody><tr>
-<th><img src="assets/images/icons/politician.png" width="64" height="64" ></th>
-<th><img src="assets/images/icons/classical_architecture.png" width="64" height="64" ></th>
-<th><img src="assets/images/icons/viking.png" width="64" height="64" ></th></tr>
+<th style="align-content:center;"><img src="assets/images/icons/politician.png" width="64" height="64" ></th>
+<th style="align-content:center;"><img src="assets/images/icons/classical_architecture.png" width="64" height="64" ></th>
+<th style="align-content:center;"><img src="assets/images/icons/viking.png" width="64" height="64" ></th></tr>
 <tr style="text-align: center;">
-<th>Scenarios</th>
-<th>Bronze Age</th>
-<th>Medieval Age</th></tr>
+<th style="align-content:center;">Scenarios</th>
+<th style="align-content:center;">Bronze Age</th>
+<th style="align-content:center;">Medieval Age</th></tr>
 <tr>
 <td style="vertical-align: top;">
 
@@ -118,13 +116,13 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 </td>
 </tr>
 <tr>
-<th><img src="assets/images/icons/pirate.png" width="64" height="64" ></th>
-<th><img src="assets/images/icons/cowboy.png" width="64" height="64" ></th>
-<th><img src="assets/images/icons/people.png" width="64" height="64" ></th></tr>
+<th style="align-content:center;"><img src="assets/images/icons/pirate.png" width="64" height="64" ></th>
+<th style="align-content:center;"><img src="assets/images/icons/cowboy.png" width="64" height="64" ></th>
+<th style="align-content:center;"><img src="assets/images/icons/people.png" width="64" height="64" ></th></tr>
 <tr style="text-align: center;">
-<th>Imperial Age</th>
-<th>Industrial Age</th>
-<th>1st World War</th>
+<th style="align-content:center;">Imperial Age</th>
+<th style="align-content:center;">Industrial Age</th>
+<th style="align-content:center;">1st World War</th>
 </tr>
 <tr>
 <td style="vertical-align: top;">
@@ -176,13 +174,13 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 </td>
 </tr>
 <tr>
-<th><img src="assets/images/icons/soldier.png" width="64" height="64" ></th>
-<th><img src="assets/images/icons/greaser.png" width="64" height="64" ></th>
-<th><img src="assets/images/icons/modern.png" width="64" height="64" ></th>
+<th style="align-content:center;"><img src="assets/images/icons/soldier.png" width="64" height="64" ></th>
+<th style="align-content:center;"><img src="assets/images/icons/greaser.png" width="64" height="64" ></th>
+<th style="align-content:center;"><img src="assets/images/icons/modern.png" width="64" height="64" ></th></tr>
 <tr style="text-align: center;">
-<th>2nd World War</th>
-<th>Cold War</th>
-<th>Modern Age</th>
+<th style="align-content:center;">2nd World War</th>
+<th style="align-content:center;">Cold War</th>
+<th style="align-content:center;">Modern Age</th></tr>
 <tr>
 
 <td style="vertical-align: top;">
@@ -232,10 +230,10 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 </td>
 </tr>
 </tbody></table>
-</div>
-</div></div></div>
+</div></div></div></div>
 
 ## Other Things
 
 [Contributing to this Wiki](Contributing_to_the_Wiki "wikilink")
+
 [Games](Games "wikilink") (similar games and inspirations)
