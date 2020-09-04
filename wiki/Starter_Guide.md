@@ -1,6 +1,6 @@
-## Starter Guide
+# Starter Guide
 
-### Spawning in
+## Spawning in
 
   - When you spawn, you will be told the languages you know. Your
     appearance and language will be determined by your spawn location.
@@ -19,7 +19,7 @@
     **fur coat**. Losing this will mean cold and miserable **death** in
     the icy outdoors.
 
-### Crafting Basics
+## Crafting Basics
 
 You will need some basic things to survive. At the very start you will most likely be using **wood** to make them.
 
@@ -30,7 +30,7 @@ You will need some basic things to survive. At the very start you will most like
 The same mechanic for opening crafting menu applies to all materials.
 Activate in hand to open the crafting menu.
 
-### Staying alive
+## Staying alive
 
 To survive, you will need to keep yourself nourished and warm.
 
@@ -45,7 +45,7 @@ rates** and **mood**.
 Being slow makes you easy prey for predators, criminals, and
 cannibals. Malnourishment also makes it easier to catch **[diseases](Guide_to_Medical#diseases "wikilink")**.
 
-#### Hunger
+### Hunger
 
 The easiest way to get food early on is by killing animals and eating
 the meat after cooking it.
@@ -78,12 +78,12 @@ dunga* can do it!
   - **[Guide to Farming](Guide_to_Farming "wikilink")**
   - **[Guide to Cooking](Guide_to_Cooking "wikilink")**
 
-#### Thirst
+### Thirst
 
 The easiest way to quench your thirst early on is by drinking water or
 milk, though other liquids like **tea** can also be used.
 
-##### Water
+#### Water
 
 You can get water from **puddles**, any **water tiles**, or **wells**.
 
@@ -113,7 +113,7 @@ You can get water from **puddles**, any **water tiles**, or **wells**.
   - Water is then safe to drink. Pour it in your **mug** or **glass**
     and drink.
 
-##### Milk
+#### Milk
 
   - Find a **cow**, **sheep ewe**, or **goat ewe**.
   - Make a **bucket** from **wood**.
@@ -125,11 +125,11 @@ You can get water from **puddles**, any **water tiles**, or **wells**.
 Milk is regenerated in the animals over time, so keep them alive, and
 you'll never go thirsty.
 
-##### Palm wine
+#### Palm wine
 
 [Palm wine](Guide_to_Cooking#palm-wine "wikilink") could save your life in the desert areas. Follow the steps in the **[Guide to Cooking](Guide_to_Cooking "wikilink")** to make it (glass is made by firing dug sand piles in the campfire).
 
-#### Temperature
+### Temperature
 
 **Keep an eye out on your temperature icon. If it's flashing blue with a**
 **white snowflake, you're freezing up!**
@@ -137,7 +137,7 @@ you'll never go thirsty.
 Winter seasons can bring an icy chill that can seriously hurt and slow
 you down, or even kill you. Blizzards are especially deadly, and just wearing a fur coat will not cut it, so make sure you have a shelter ready before it is too late.
 
-##### Fur Clothing
+#### Fur Clothing
 
 Fur clothing can keep you warm in the winter, but it will not save you if you are caught in a blizzard.
 
@@ -149,7 +149,7 @@ repercussions.</sub>
   - Skin the animal by using the **knife** on **Grab intent**.
   - Collect the pelts and craft **fur coat, boots, headcover and gloves** (you will need to hunt several animals for the whole set).
 
-##### Shelter
+#### Shelter
 
 Shelter can save you from even the toughest of conditions.
 
@@ -174,7 +174,7 @@ Any roofed area is considered a shelter.
         **snow** piles in your **active hand**, then add additional
         material directly to the wall.
 
-##### Fire
+#### Fire
 
 Crackling fires will keep you warm even without a coat.
 
@@ -182,7 +182,7 @@ Crackling fires will keep you warm even without a coat.
 * A **brazier** (made with **stone**) provides more heat and warms you within 3 tiles.
 * Both campfire and brazier are refueled by adding **wood**, **coal** and **charcoal**. Brazier could also be refueled with **paper- and cloth-based items**.
 
-#### Dangerous animals
+### Dangerous animals
 
 The world is teeming with wildlife. Most of them are pretty tame and
 easy prey, but steer clear of the big game unless you're a skilled
@@ -199,7 +199,7 @@ You want to avoid these, unless you're robust or need some pelts:
   - Mosquitoes
   - Alligators
 
-#### Night time
+### Night time
 
 You'll need a light source to see in the night and in dark indoor areas.
 

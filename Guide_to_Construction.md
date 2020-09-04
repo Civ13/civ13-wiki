@@ -841,7 +841,7 @@ in the roofed area, or even standing next to it.**
 No more sloshing or plodding through the mud and snow! Walk the
 civilized way, swiftly and with resonant "top-top" footfalls! Not only
 that - floors on the surface prevent digging upwards from the
-underground. Floors can be removed with the hammer.
+underground. **Floors can be removed with the hammer.**
 
 <table>
 <tbody>
@@ -855,25 +855,17 @@ underground. Floors can be removed with the hammer.
 
 The floors below are essentially identical, save for the appearance,
 with a special note being that the wood floor could be set on fire.
-Hover the mouse cursor over an image to see the cost and the material.
+**Hover the mouse cursor over an image to see the cost and the material.**
 
 <u><b>Wood floors</b></u>
 
 <table>
 <tbody>
 <tr>
-<td>1 wood log</td>
-<td><img src="assets/images/floor_wood.png"></td>
-<td><b>Wood</b></td>
-<td>1.5 wood log</td>
-<td><img src="assets/images/floor_fancy_wood.png"></td>
-<td><b>Fancy wood</b></td>
-<td>0.75 wood log</td>
-<td><img src="assets/images/floor_thatch.png"></td>
-<td><b>Thatch</b></td>
-<td>0.75 wood log</td>
-<td><img src="assets/images/floor_thatch_split.png"></td>
-<td><b>Thatch split</b></td>
+<td><img src="assets/images/floor_wood.png" title="1 wood log">&emsp;<b>Wood</b></td>
+<td><img src="assets/images/floor_fancy_wood.png" title="1.5 wood log">&emsp;<b>Fancy wood</b></td>
+<td><img src="assets/images/floor_thatch.png" title="0.75 wood log">&emsp;<b>Thatch</b></td>
+<td><img src="assets/images/floor_thatch_split.png" title="0.75 wood log">&emsp;<b>Thatch split</b></td>
 <td></td>
 </tr>
 </tbody>
@@ -888,55 +880,59 @@ randomly selected upon construction.
 <table>
 <tbody>
 <tr>
-<td>1 stone</td><td><img src="assets/images/floor_cobblestone.png"></td><td>
-<b>Cobblestone</b></td>
-<td>1 stone brick</td><td><img src="assets/images/floor_stone_bricks.png"></td><td>
-<b>Stone brick</b></td>
-<td>1 stone</td><td><img src="assets/images/floor_road_roman.png"></td><td>
+<td><img src="assets/images/floor_cobblestone.png" title="1 stone"></td>
+<td><b>Cobblestone</b></td>
+<td><img src="assets/images/floor_stone_bricks.png" title="1 stone brick"></td>
+<td><b>Stone brick</b></td>
+<td><img src="assets/images/floor_road_roman.png" title="1 stone"></td><td>
 <b>Roman road</b></td>
-<td>1.2 stone</td><td><img src="assets/images/floor_slate.png"></td><td>
+<td><img src="assets/images/floor_slate.png" title="1.2 stone"></td><td>
 <b>Slate</b></td>
-<td>1 stone</td><td><img src="assets/images/floor_road.png"></td><td>
-<b>Road</b></td>
-<td>1 stone</td><td><img src="assets/images/floor_marble_raw.png"></td><td>
-<b>Raw marble</b></td>
 </tr>
 <tr>
-<td>1 stone</td><td><img src="assets/images/floor_marble_raw_black.png"></td><td>
+<td><img src="assets/images/floor_road.png" title="1 stone"></td><td>
+<b>Road</b></td>
+<td><img src="assets/images/floor_marble_raw.png" title="1 stone"></td><td>
+<b>Raw marble</b></td>
+<td><img src="assets/images/floor_marble_raw_black.png" title="1 stone"></td><td>
 <b>Raw black marble</b></td>
-<td>1 stone</td><td><img src="assets/images/floor_marble_raw_pink.png"></td><td>
+<td><img src="assets/images/floor_marble_raw_pink.png" title="1 stone"></td><td>
 <b>Raw pink marble</b></td>
-<td>1 stone</td><td><img src="assets/images/floor_marble.png"></td><td>
+</tr>
+<tr>
+<td><img src="assets/images/floor_marble.png" title="1 stone"></td><td>
 <b>Marble</b></td>
-<td>1 stone</td><td><img src="assets/images/floor_marble_tile.png"></td><td>
+<td><img src="assets/images/floor_marble_tile.png" title="1 stone"></td><td>
 <b>Marble tiles</b></td>
-<td>1 stone</td><td><img src="assets/images/floor_marble_tile_black.png"></td><td>
+<td><img src="assets/images/floor_marble_tile_black.png" title="1 stone"></td><td>
 <b>Black marble tiles</b></td>
-<td>1 stone</td><td><img src="assets/images/floor_marble_tile_pink.png"></td><td>
+<td><img src="assets/images/floor_marble_tile_pink.png" title="1 stone"></td><td>
 <b>Pink marble tiles</b></td>
 </tr>
 <tr>
-<td>1 stone</td><td><img src="assets/images/floor_marble_ornate_tile.png"></td><td>
+<td><img src="assets/images/floor_marble_ornate_tile.png" title="1 stone"></td><td>
 <b>Ornate marble tile</b></td>
-<td>1 stone</td><td><img src="assets/images/floor_marble_ornate_tile_black.png"></td><td>
+<td><img src="assets/images/floor_marble_ornate_tile_black.png" title="1 stone"></td><td>
 <b>Ornate black marble tile</b></td>
-<td>1 stone</td><td><img src="assets/images/floor_marble_decorative_tile.png"></td><td>
+<td><img src="assets/images/floor_marble_decorative_tile.png" title="1 stone"></td><td>
 <b>Decorative marble tile</b></td>
-<td>1 stone</td><td><img src="assets/images/floor_marble_decorative_tile_black.png"></td><td>
+<td><img src="assets/images/floor_marble_decorative_tile_black.png" title="1 stone"></td><td>
 <b>Decorative black marble tile</b></td>
-<td>1 stone</td><td><img src="assets/images/floor_marble_decorative_tile_pink.png"></td><td>
-<b>Decorative pink marble tile</b></td>
-<td>1 stone</td><td><img src="assets/images/floor_marble_tile_grid.png"></td><td>
-<b>Marble grid tile</b></td>
 </tr>
 <tr>
-<td>1 stone</td><td><img src="assets/images/floor_marble_checkerboard.png"></td><td>
+<td><img src="assets/images/floor_marble_decorative_tile_pink.png" title="1 stone"></td><td>
+<b>Decorative pink marble tile</b></td>
+<td><img src="assets/images/floor_marble_tile_grid.png" title="1 stone"></td><td>
+<b>Marble grid tile</b></td>
+<td><img src="assets/images/floor_marble_checkerboard.png" title="1 stone"></td><td>
 <b>Marble checkerboard</b></td>
-<td>1 stone</td><td><img src="assets/images/floor_marble_checkerboard_reverse.png"></td><td>
+<td><img src="assets/images/floor_marble_checkerboard_reverse.png" title="1 stone"></td><td>
 <b>Reverse marble checkerboard</b></td>
-<td>1 stone</td><td><img src="assets/images/floor_marble_checkerboard_pink.png"></td><td>
+</tr>
+<tr>
+<td><img src="assets/images/floor_marble_checkerboard_pink.png" title="1 stone"></td><td>
 <b>Pink marble checkerboard</b></td>
-<td>1 stone</td><td><img src="assets/images/floor_marble_checkerboard_pink_reverse.png"></td><td>
+<td><img src="assets/images/floor_marble_checkerboard_pink_reverse.png" title="1 stone"></td><td>
 <b>Reverse pink marble checkerboard</b></td>
 </tr>
 </tbody>
@@ -947,20 +943,22 @@ randomly selected upon construction.
 <table>
 <tbody>
 <tr>
-<td>1 sandstone</td><td><img src="assets/images/floor_sandstone.png"></td><td>
+<td><img src="assets/images/floor_sandstone.png" title="1 sandstone"></td><td>
 <b>Sandstone</b></td>
-<td>1 sandstone</td><td><img src="assets/images/floor_sandstone_brick.png"></td><td>
+<td><img src="assets/images/floor_sandstone_brick.png" title="1 sandstone"></td><td>
 <b>Brick</b></td>
-<td>1 sandstone</td><td><img src="assets/images/floor_sandstone_slab.png"></td><td>
+<td><img src="assets/images/floor_sandstone_slab.png" title="1 sandstone"></td><td>
 <b>Slab</b></td>
-<td>1 sandstone</td><td><img src="assets/images/floor_sandstone_slab_red.png"></td><td>
+<td><img src="assets/images/floor_sandstone_slab_red.png" title="1 sandstone"></td><td>
 <b>Red slab</b></td>
-<td>2 sandstone</td><td><img src="assets/images/floor_sandstone_tile.png"></td><td>
+</tr>
+<tr>
+<td><img src="assets/images/floor_sandstone_tile.png" title="2 sandstone"></td><td>
 <b>Tile</b></td>
-<td>2.5 sandstone</td><td><img src="assets/images/floor_sandstone_tile_decorative.png"></td><td>
+<td><img src="assets/images/floor_sandstone_tile_decorative.png" title="2.5 sandstone"></td><td>
 <b>Decorative tile</b></td>
-<td>2.5 sandstone</td><td><img src="assets/images/floor_sandstone_tile_decorative_red.png"></td><td>
-<b>Red dec. tile</b></td>
+<td><img src="assets/images/floor_sandstone_tile_decorative_red.png" title="2.5 sandstone"></td><td>
+<b>Red decorative tile</b></td>
 </tr>
 </tbody>
 </table>
@@ -970,8 +968,7 @@ randomly selected upon construction.
 <table>
 <tbody>
 <tr>
-<td>1 piece of clay</td><td><img src="assets/images/floor_concrete.png"></td><td>
-<b>Concrete</b></td>
+<td><img src="assets/images/floor_concrete.png" title="1 clay">&emsp;<b>Concrete</b></td>
 </tr>
 </tbody>
 </table>
@@ -981,15 +978,16 @@ randomly selected upon construction.
 <table>
 <tbody>
 <tr>
-<td>1 steel sheet</td><td><img src="assets/images/floor_steel.png"></td><td>
-<b>Steel</b></td>
-<td>1 steel sheet</td><td><img src="assets/images/floor_steel_white.png"></td><td>
+<td><img src="assets/images/floor_steel.png" title="1 steel sheet">&emsp;
+<b>Steel</b>&emsp;&emsp;
+<img src="assets/images/floor_steel_white.png" title="1 steel sheet">&emsp;
 <b>Steel white</b></td>
 </tr>
 </tbody>
 </table>
 
 <u><b>Stairs</b></u>
+
 At the moment, craftable stairs are purely cosmetic and cannot be used
 to travel between different Z levels. Nevertheless, they still could be
 used to create an impression of height difference.
@@ -997,11 +995,11 @@ used to create an impression of height difference.
 <table>
 <tbody>
 <tr>
-<td>2 stone</td><td><img src="assets/images/stairs_stone.png"></td><td>
+<td><img src="assets/images/stairs_stone.png" title="2 stone">&emsp;
 <b>Stone</b></td>
-<td>3 sandstone</td><td><img src="assets/images/stairs_sandstone.png"></td><td>
+<td><img src="assets/images/stairs_sandstone.png" title="3 sandstone">&emsp;
 <b>Sandstone</b></td>
-<td>2 wood</td><td><img src="assets/images/stairs_wood.png"></td><td>
+<td><img src="assets/images/stairs_wood.png" title="2 wood">&emsp;
 <b>Wood</b></td>
 </tr>
 </tbody>
@@ -1012,9 +1010,9 @@ the cost and the material.
 
 ## Doors
 
-Hover the mouse cursor over the images to see the cost, the material and
+**Hover the mouse cursor over the images to see the cost, the material and
 the direction (how it looks when built while facing either N, S, W or E.
-"All" means a door always looks the same.)
+"All" means a door always looks the same.)**
 
 Only the doors marked as "locked" in the crafting menu could be locked
 with a key (the iron and jail doors currently) - more details below.
@@ -1022,31 +1020,31 @@ with a key (the iron and jail doors currently) - more details below.
 <table>
 <tbody>
 <tr>
-<td>3 wood; direction - W; opens to the left</td><td><img src="assets/images/door_fence.png"></td><td>
+<td><img src="assets/images/door_fence.png" title="3 wood; direction - W; opens to the left"></td><td>
 <b>Primitive fence door</b></td>
-<td>3 wood; direction - W; opens to the left</td><td><img src="assets/images/door_fence_picket.png"></td><td>
+<td><img src="assets/images/door_fence_picket.png" title="3 wood; direction - W; opens to the left"></td><td>
 <b>Picket wood fence door</b></td>
-<td>4 wood; direction - All</td><td><img src="assets/images/door_rustic.png"></td><td>
+<td><img src="assets/images/door_rustic.png" title="4 wood; direction - All"></td><td>
 <b>Rustic door</b></td>
-<td>5 wood; direction - All</td><td><img src="assets/images/door_wood.png"></td><td>
+<td><img src="assets/images/door_wood.png" title="5 wood; direction - All"></td><td>
 <b>Wood door</b></td>
-<td>5 wood; direction - All</td><td><img src="assets/images/door_nordic.png"></td><td>
+</tr>
+<tr>
+<td><img src="assets/images/door_nordic.png" title="5 wood; direction - All"></td><td>
 <b>Nordic door</b></td>
-</tr>
-<tr>
-<td>5 wood; direction - All</td><td><img src="assets/images/door_aztec.png"></td><td>
+<td><img src="assets/images/door_aztec.png" title="5 wood; direction - All"></td><td>
 <b>Aztec door</b></td>
-<td>1 paper sheet on a wall frame (check Walls section); direction - All</td><td><img src="assets/images/door_shoji.png"></td><td>
+<td><img src="assets/images/door_shoji.png" title="1 paper sheet on a wall frame (check Walls section); direction - All"></td><td>
 <b>Shoji door</b></td>
-<td>5 stone; direction - All</td><td><img src="assets/images/door_roman.png"></td><td>
+<td><img src="assets/images/door_roman.png" title="5 stone; direction - All"></td><td>
 <b>Roman door</b></td>
-<td>5 iron; direction - All</td><td><img src="assets/images/door_iron.png"></td><td>
-<b>Iron door</b></td>
-<td>12 wood; direction - All</td><td><img src="assets/images/door_cell_wood.png"></td><td>
-<b>Wood jail door</b></td>
 </tr>
 <tr>
-<td>12 steel; direction - All</td><td><img src="assets/images/door_cell.png"></td><td>
+<td><img src="assets/images/door_iron.png" title="5 iron; direction - All"></td><td>
+<b>Iron door</b></td>
+<td><img src="assets/images/door_cell_wood.png" title="12 wood; direction - All"></td><td>
+<b>Wood jail door</b></td>
+<td><img src="assets/images/door_cell.png" title="12 steel; direction - All"></td><td>
 <b>Steel jail door</b></td>
 </tr>
 </tbody>
@@ -1074,42 +1072,42 @@ with a key (the iron and jail doors currently) - more details below.
 A window frame is built first. To add glass, click the window frame with
 3 glass sheets.
 
-Hover the mouse cursor over the images below to see the material cost
-and additional details.
+**Hover the mouse cursor over the images below to see the material cost
+and additional details.**
 
 <table>
 <tbody>
 <tr>
-<td>5 wood</td><td><img src="assets/images/window.png"></td><td>
+<td><img src="assets/images/window.png" title="5 wood"></td><td>
 <b>Wood</b></td>
-<td>4 wood on a wall frame (check Walls section)</td><td><img src="assets/images/window_medieval.png"></td><td>
+<td><img src="assets/images/window_medieval.png" title="4 wood on a wall frame (check Walls section)"></td><td>
 <b>Medieval</b></td>
-<td>1 paper sheet on a wall frame (check Walls section)</td><td><img src="assets/images/window_shoji.png"></td><td>
+<td><img src="assets/images/window_shoji.png" title="1 paper sheet on a wall frame (check Walls section)"></td><td>
 <b>Shoji</b></td>
-<td>3 bamboo on a wall frame (check Walls section)</td><td><img src="assets/images/window_bamboo.png"></td><td>
+<td><img src="assets/images/window_bamboo.png" title="3 bamboo on a wall frame (check Walls section)"></td><td>
 <b>Bamboo</b></td>
-<td>5 stone</td><td><img src="assets/images/window_stone.png"></td><td>
+<td><img src="assets/images/window_stone.png" title="5 stone"></td><td>
 <b>Stone</b></td>
-<td>5 stone</td><td><img src="assets/images/window_stone_full.png"></td><td>
+<td><img src="assets/images/window_stone_full.png" title="5 stone"></td><td>
 <b>Full stone</b></td>
-<td>1 roman stucco on a stone window frame</td><td><img src="assets/images/window_villa.png"></td><td>
+<td><img src="assets/images/window_villa.png" title="1 roman stucco on a stone window frame"></td><td>
 <b>Villa</b></td>
-<td>1 roman stucco on a full stone window frame</td><td><img src="assets/images/window_villa_full.png"></td><td>
+<td><img src="assets/images/window_villa_full.png" title="1 roman stucco on a full stone window frame"></td><td>
 <b>Full villa</b></td>
 <td></td>
 </tr>
 <tr>
-<td>1 stucco on a wood window frame</td><td><img src="assets/images/window_red_earth_full.png"></td><td>
+<td><img src="assets/images/window_red_earth_full.png" title="1 stucco on a wood window frame"></td><td>
 <b>Full red earth</b></td>
-<td>Built like a Sumerian wall - choose Window while building (check Walls section)</td><td><img src="assets/images/window_sumerian.png"></td><td>
+<td><img src="assets/images/window_sumerian.png" title="Built like a Sumerian wall - choose Window while building (check Walls section)"></td><td>
 <b>Sumerian</b></td>
-<td>5 sandstone</td><td><img src="assets/images/window_sandstone.png"></td><td>
+<td><img src="assets/images/window_sandstone.png" title="5 sandstone"></td><td>
 <b>Sandstone</b></td>
-<td>5 sandstone</td><td><img src="assets/images/window_sandstone_full.png"></td><td>
-<b>Full sandst.</b></td>
-<td>Built like a brick wall - choose Window while building (check Walls section)</td><td><img src="assets/images/window_brick.png"></td><td>
+<td><img src="assets/images/window_sandstone_full.png" title="5 sandstone"></td><td>
+<b>Full sandstone</b></td>
+<td><img src="assets/images/window_brick.png" title="Built like a brick wall - choose Window while building (check Walls section)"></td><td>
 <b>Brick</b></td>
-<td>Built like a brick wall - choose Full Window while building (check Walls section)</td><td><img src="assets/images/window_brick_full.png"></td><td>
+<td><img src="assets/images/window_brick_full.png" title="Built like a brick wall - choose Full Window while building (check Walls section)"></td><td>
 <b>Full brick</b></td>
 <td></td>
 <td></td>
@@ -1121,155 +1119,83 @@ and additional details.
 ## Fences, barricades and barriers
 
 <u><b>Fences</b></u>
-The appearance of the primitive wood and picket wood fences is slightly
+
+The appearance of the **primitive wood** and **picket wood** fences is slightly
 random and may differ from the icons below.
 
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/fence_woodWE.png"></td><td>
+<td><img src="assets/images/fence_woodWE.png">&ensp;
 <b>W,E</b></td>
-<td><img src="assets/images/fence_woodN.png"></td><td>
+<td><img src="assets/images/fence_woodN.png">&ensp;
 <b>N</b></td>
-<td><img src="assets/images/fence_woodS.png"></td><td>
+<td><img src="assets/images/fence_woodS.png">&ensp;
 <b>S</b></td>
-<td></td>
-<td><img src="assets/images/fence_picketWE.png"></td><td>
+<td><img src="assets/images/fence_picketWE.png">&ensp;
 <b>W,E</b></td>
-<td><img src="assets/images/fence_picketN.png"></td><td>
+<td><img src="assets/images/fence_picketN.png">&ensp;
 <b>N</b></td>
-<td><img src="assets/images/fence_picketS.png"></td><td>
+<td><img src="assets/images/fence_picketS.png">&ensp;
 <b>S</b></td>
-<td></td>
-<td><img src="assets/images/fence_palisadeW.png"></td><td>
+<td><img src="assets/images/fence_palisadeW.png">&ensp;
 <b>W</b></td>
-<td><img src="assets/images/fence_palisadeE.png"></td><td>
+<td><img src="assets/images/fence_palisadeE.png">&ensp;
 <b>E</b></td>
-<td><img src="assets/images/fence_palisadeN.png"></td><td>
+<td><img src="assets/images/fence_palisadeN.png">&ensp;
 <b>N</b></td>
-<td><img src="assets/images/fence_palisadeS.png"></td><td>
+<td><img src="assets/images/fence_palisadeS.png">&ensp;
 <b>S</b></td>
-<td></td>
-<td><img src="assets/images/fence_ironW.png"></td><td>
+</tr>
+<tr>
+<td colspan="3"><b>Primitive wood</b></td>
+<td colspan="3"><b>Picket wood</b></td>
+<td colspan="4"><b>Wood palisade</b></td>
+</tr>
+<tr>
+<td><img src="assets/images/fence_ironW.png">&ensp;
 <b>W</b></td>
-<td><img src="assets/images/fence_ironE.png"></td><td>
+<td><img src="assets/images/fence_ironE.png">&ensp;
 <b>E</b></td>
-<td><img src="assets/images/fence_ironNS.png"></td><td>
+<td><img src="assets/images/fence_ironNS.png">&ensp;
 <b>N,S</b></td>
-<td></td>
-<td><img src="assets/images/fence_chainlinkWE.png"></td><td>
+<td><img src="assets/images/fence_chainlinkWE.png">&ensp;
 <b>W,E</b></td>
-<td><img src="assets/images/fence_chainlinkNS.png"></td><td>
+<td><img src="assets/images/fence_chainlinkNS.png">&ensp;
 <b>N,S</b></td>
-<td></td>
 </tr>
 <tr>
-<td><b>Primitive wood</b></td>
-<td></td>
-<td><b>Picket wood</b></td>
-<td></td>
-<td><b>Wood palisade</b></td>
-<td></td>
-<td><b>Iron fence</b></td>
-<td></td>
-<td><b>Chainlink fence</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3"><b>Iron fence</b></td>
+<td colspan="2"><b>Chainlink fence</b></td>
 </tr>
 <tr>
-<td><br /></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><img src="assets/images/fence_wood_bars.png"></td><td>
+<td><img src="assets/images/fence_wood_bars.png">&ensp;
 <b>All</b></td>
-<td><img src="assets/images/fence_steel_bars.png"></td><td>
+<td><img src="assets/images/fence_steel_bars.png">&ensp;
 <b>All</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td><b>Wood jail bars</b></td>
 <td><b>Steel jail bars</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
 
 <u><b>Barricades</b></u>
-<b>Dirt and snow** - take a pile of respective material in your hand and
+
+**Dirt and snow** - take a pile of respective material in your hand and
 click one of the tiles next to the tile you are standing on. This will
 start building a barricade at the adjacent tile. Add 3 more piles to
 finish it.
 
-<b>Rock** - crafted with 3 stone.
+**Rock** - crafted with 3 stone.
 
-<b>Sandbag** - make empty sandbags with
-<b>[Cloth](Full_Crafting_List#cloth "wikilink")** and fill them with sand
+**Sandbag** - make empty sandbags with
+**[Cloth](Full_Crafting_List#cloth "wikilink")** and fill them with sand
 piles, then build the barricade like a dirt/snow one.
 
-<b>All barricades could be dismantled by clicking them with an empty
-hand.</b>
+**All barricades could be dismantled by clicking them with an empty
+hand.**
 
 <b>Barricades provide some protection from ranged attacks when you stand
 right next to and behind them.</b>
@@ -1277,146 +1203,82 @@ right next to and behind them.</b>
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/barricade_dirtW.png"></td><td>
+<td><img src="assets/images/barricade_dirtW.png">&ensp;
 <b>W</b></td>
-<td><img src="assets/images/barricade_dirtE.png"></td><td>
+<td><img src="assets/images/barricade_dirtE.png">&ensp;
 <b>E</b></td>
-<td><img src="assets/images/barricade_dirtN.png"></td><td>
+<td><img src="assets/images/barricade_dirtN.png">&ensp;
 <b>N</b></td>
-<td><img src="assets/images/barricade_dirtS.png"></td><td>
+<td><img src="assets/images/barricade_dirtS.png">&ensp;
 <b>S</b></td>
-<td></td>
-<td><img src="assets/images/barricade_snowW.png"></td><td>
+<td><img src="assets/images/barricade_snowW.png">&ensp;
 <b>W</b></td>
-<td><img src="assets/images/barricade_snowE.png"></td><td>
+<td><img src="assets/images/barricade_snowE.png">&ensp;
 <b>E</b></td>
-<td><img src="assets/images/barricade_snowN.png"></td><td>
+<td><img src="assets/images/barricade_snowN.png">&ensp;
 <b>N</b></td>
-<td><img src="assets/images/barricade_snowS.png"></td><td>
+<td><img src="assets/images/barricade_snowS.png">&ensp;
 <b>S</b></td>
-<td></td>
-<td><img src="assets/images/barricade_rockW.png"></td><td>
+<td><img src="assets/images/barricade_rockW.png">&ensp;
 <b>W</b></td>
-<td><img src="assets/images/barricade_rockE.png"></td><td>
+<td><img src="assets/images/barricade_rockE.png">&ensp;
 <b>E</b></td>
-<td><img src="assets/images/barricade_rockN.png"></td><td>
+<td><img src="assets/images/barricade_rockN.png">&ensp;
 <b>N</b></td>
-<td><img src="assets/images/barricade_rockS.png"></td><td>
+<td><img src="assets/images/barricade_rockS.png">&ensp;
 <b>S</b></td>
 </tr>
 <tr>
-<td><b>Dirt</b></td>
-<td></td>
-<td><b>Snow</b></td>
-<td></td>
-<td><b>Rock</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"><b>Dirt</b></td>
+<td colspan="4"><b>Snow</b></td>
+<td colspan="4"><b>Rock</b></td>
 </tr>
 <tr>
-<td><br /></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><img src="assets/images/barricade_sandbagW.png"></td><td>
+<td><img src="assets/images/barricade_sandbagW.png">&ensp;
 <b>W</b></td>
-<td><img src="assets/images/barricade_sandbagE.png"></td><td>
+<td><img src="assets/images/barricade_sandbagE.png">&ensp;
 <b>E</b></td>
-<td><img src="assets/images/barricade_sandbagN.png"></td><td>
+<td><img src="assets/images/barricade_sandbagN.png">&ensp;
 <b>N</b></td>
-<td><img src="assets/images/barricade_sandbagS.png"></td><td>
+<td><img src="assets/images/barricade_sandbagS.png">&ensp;
 <b>S</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td><b>Sandbag</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"><b>Sandbag</b></td>
 </tr>
 </tbody>
 </table>
 
 <u><b>Barriers</b></u>
-<b>Barbwire** - make barbwire rolls with iron ingots, then build the
+
+**Barbwire** - make barbwire rolls with iron ingots, then build the
 barrier with the rolls themselves. Could be cut with the wirecutters.
 
-<b>Jersey barrier** - made with 3 stone.
+**Jersey barrier** - made with 3 stone.
 
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/fence_barbwireW.png"></td><td>
+<td><img src="assets/images/fence_barbwireW.png">&ensp;
 <b>W</b></td>
-<td><img src="assets/images/fence_barbwireE.png"></td><td>
+<td><img src="assets/images/fence_barbwireE.png">&ensp;
 <b>E</b></td>
-<td><img src="assets/images/fence_barbwireN.png"></td><td>
+<td><img src="assets/images/fence_barbwireN.png">&ensp;
 <b>N</b></td>
-<td><img src="assets/images/fence_barbwireS.png"></td><td>
+<td><img src="assets/images/fence_barbwireS.png">&ensp;
 <b>S</b></td>
-<td></td>
-<td><img src="assets/images/barrier_jerseyW.png"></td><td>
+<td><img src="assets/images/barrier_jerseyW.png">&ensp;
 <b>W</b></td>
-<td><img src="assets/images/barrier_jerseyE.png"></td><td>
+<td><img src="assets/images/barrier_jerseyE.png">&ensp;
 <b>E</b></td>
-<td><img src="assets/images/barrier_jerseyN.png"></td><td>
+<td><img src="assets/images/barrier_jerseyN.png">&ensp;
 <b>N</b></td>
-<td><img src="assets/images/barrier_jerseyS.png"></td><td>
+<td><img src="assets/images/barrier_jerseyS.png">&ensp;
 <b>S</b></td>
 </tr>
 <tr>
-<td><b>Barbwire</b></td>
-<td></td>
-<td><b>Jersey barrier</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4"><b>Barbwire</b></td>
+<td colspan="4"><b>Jersey barrier</b></td>
 </tr>
 </tbody>
 </table>
