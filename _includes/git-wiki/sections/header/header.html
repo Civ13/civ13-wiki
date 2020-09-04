@@ -1,9 +1,9 @@
 <div class="row" id="git-wiki-mobile-header">
-  &nbsp;&nbsp;<a href="{{ '/' | relative_url }}" style="font-size:1.5rem">
+  &nbsp;&nbsp;<a href="{{ '/' | relative_url }}" style="font-size:2rem;vertical-align:middle;">
     {% if site.logo_url %}
     <img src="{{ site.logo_url | relative_url }}" width="50px"></a>&nbsp;&nbsp;
     {% endif %}
-    <a href="{{ '/' | relative_url }}" style="font-size:1.5rem">{{ site.title | escape }}</a>
+    <a href="{{ '/' | relative_url }}" style="font-size:2rem;vertical-align:middle;">{{ site.title | escape }}</a>
     &nbsp;<div class="git-wiki-tools">
       <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/new/{{site.git_branch | escape}}?filename={{ site.site_root | default: '/' }}{{ site.wiki_folder }}/">New</a></span>
       <span class="tools-element"><a target="_blank" href="{{ site.github.repository_url }}/edit/{{site.git_branch | escape}}/{{ site.site_root | default: '/' }}{{page.path | escape}}">Edit</a></span>

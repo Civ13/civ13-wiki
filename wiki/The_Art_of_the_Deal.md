@@ -36,7 +36,7 @@ Each company headquarters features a meeting room, an armory/storage
 room, a vault, a common area, and a garage. Below is a screenshot of the
 Red Corporation's HQ - all others have a similar layout.
 
-![Red_HQ.png](Red_HQ.png "Red_HQ.png")
+![Red HQ](assets/images/red_hq.png)
 
 #### Meeting Room
 
@@ -64,7 +64,7 @@ the top of the screen, along with the coordinates. At the HQ, there is a
 wall map that can be used for planning during the briefing: this map can
 be drawn on. Players also spawn with a **portable map**.
 
-![Minimap.png](Minimap.png "Minimap.png")
+![Minimap](assets/images/minimap.png)
 
 ### Radios and Phones
 
@@ -184,7 +184,7 @@ which laws can be enforced.
 
 ### The Station
 
-![Police_Station.png](Police_Station.png "Police_Station.png")
+![Police Station](assets/images/police_station.png)
 
 #### Main Room
 

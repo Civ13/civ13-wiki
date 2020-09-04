@@ -10,17 +10,17 @@
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td><p>Utility pole</p></td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/ea.png">
+<img src="assets/images/ea.png">
 </td>
 <td><p>must be within <strong>2</strong> tiles of another tower to work, can't be diagonal</p></td>
 </tr>
-<tr class="even">
+<tr>
 <td><p>Cell Tower</p></td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/eas.png">
+<img src="assets/images/eas.png">
 </td>
 <td><p>Must be within <strong>30</strong> tiles of another tower to work. needs power</p></td>
 </tr>

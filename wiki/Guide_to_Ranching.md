@@ -13,59 +13,59 @@ domesticating animals.
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td>Chicken</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/chicken.png">
+<img src="assets/images/chicken.png">
 </td>
 <td>A bird great for laying eggs.</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Pig</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/pig.png">
+<img src="assets/images/pig.png">
 </td>
 <td>Good for manure and meat.</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Sheep</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/sheep.png">
+<img src="assets/images/sheep.png">
 </td>
 <td>These animals are quite valuable as they can be sheared to drop wool.</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Cow</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/cow.png">
+<img src="assets/images/cow.png">
 </td>
 <td>Highly valuable as they give milk, which doesn't need to be purified or pastured at all. They can also breed in a 5x5 cage.</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Horse</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/horse.png">
+<img src="assets/images/horse.png">
 </td>
 <td>Extremely valuable. You can ride these animals or kill them (discouraged as these are rare)</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Camel</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/camel.png">
+<img src="assets/images/camel.png">
 </td>
 <td>Just like horses but you can't ride them, Put a bag on their back to carry equipment</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Goat</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/goat.png">
+<img src="assets/images/goat.png">
 </td>
 <td>Much like the cow, goats can be milked if female.</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Turkey</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/turkey.png">
+<img src="assets/images/turkey.png">
 </td>
 <td>A bird great for laying eggs!</td>
 </tr>
@@ -93,129 +93,129 @@ Pigs, Sheep, Goats and turkey's can breed for now)**
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td>Crab</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/crab.png">
+<img src="assets/images/crab.png">
 </td>
 <td>Crabby snappy, watch out for its arms.</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Wolf</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wolf.png">
+<img src="assets/images/wolf.png">
 </td>
 <td>Seen in temperate and tundra, they go in packs most of the time.</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Goose</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/goose.png">
+<img src="assets/images/goose.png">
 </td>
 <td>Geese always mark their territory.</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Panther</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/panther.png">
+<img src="assets/images/panther.png">
 </td>
 <td>The assasins of the jungle, hunt with caution.</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Jaguar</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/jaguar.png">
+<img src="assets/images/jaguar.png">
 </td>
 <td>Fastest hunters in the game.</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Boa</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/boa.png">
+<img src="assets/images/boa.png">
 </td>
 <td>It can strangle anyone to death.</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Mammoth</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/mammoth.png">
+<img src="assets/images/mammoth.png">
 </td>
 <td>A colossal behemoth, towering over huts and houses. If one thinks of hunting alone one of these, they'll find themselves stomped, their gibs all over the place.</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Cobra</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/cobra.png">
+<img src="assets/images/cobra.png">
 </td>
 <td>An aggressive cobra will jump and bite you if you approach it.</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Crow</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/crow.png">
+<img src="assets/images/crow.png">
 </td>
 <td>Flies around towns giving everyone the frights. *caw caw*.</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Buffalo</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/buffalo.png">
+<img src="assets/images/buffalo.png">
 </td>
 <td>Hyper-aggressive buffalos, don't try going near them.</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Mouse</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/mouse.png">
+<img src="assets/images/mouse.png">
 </td>
 <td>*Bites you* O-oh I spread you m-my plague, sowwy uwu.</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Penguin</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/Pengu.png">
+<img src="assets/images/Pengu.png">
 </td>
 <td>Found around the northern hemisphere, mostly at coasts.</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Bear</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/bear.png">
+<img src="assets/images/bear.png">
 </td>
 <td>Bears roam the temperate, run away if you have no weapon.</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Alligator</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/alligator.png">
+<img src="assets/images/alligator.png">
 </td>
 <td>A fierce beast that roams the swamp. If you have no weapon you should run because you can't kill these with your hand. Faster in the rain.</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Deer</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/deer.png">
+<img src="assets/images/deer.png">
 </td>
 <td>These animals will run away from you when they see you! Try making them run into a corner to kill them.</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Snake</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/snake.png">
+<img src="assets/images/snake.png">
 </td>
 <td>A slithery serpent that feasts among small mice; Though it is cute, touching it isn't the best idea.</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Frog</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/frog.png">
+<img src="assets/images/frog.png">
 </td>
 <td>Drops 1 meat. Watch out though if the frog is poisonous it can kill you! Other than that it just eats flies.</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Poisonous Frog</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/poison_frog.png">
+<img src="assets/images/poison_frog.png">
 </td>
 <td>A poisonous creature, it is the cousin of the normal frog, however, eating it will leave the taste of death in your mouth!</td>
 </tr>
@@ -233,38 +233,38 @@ Pigs, Sheep, Goats and turkey's can breed for now)**
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td>Flies</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/flies.png">
+<img src="assets/images/flies.png">
 </td>
 <td>An annoying pest that will buzz around any food you leave out, so stay clean!</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Mosquitos</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/mosquitos.png">
+<img src="assets/images/mosquitos.png">
 </td>
 <td>These fly like creatures give you malaria, stay away from them. If you do get bit by them, don't worry there's Quinine that cures malaria in swamp regions.</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Locusts</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/mosquitos.png">
+<img src="assets/images/mosquitos.png">
 </td>
 <td>Ready to eat your crops, ready to molest that corn. Hide your cabbage, hide your wheat, locusts are here to swindle your meat.</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Cockroach</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/cockroach.png">
+<img src="assets/images/cockroach.png">
 </td>
 <td>Penisbeetle for the friends.</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Leech</td>
 <td>
-<img src="https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/leech.png">
+<img src="assets/images/leech.png">
 </td>
 <td>Completely harmless unless they gang up on you, human boy. Can be used in medicine as a method to suck blood out.</td>
 </tr>

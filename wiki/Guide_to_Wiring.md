@@ -4,7 +4,7 @@ So you're the unlucky guy trying to wire eh? Don't worry, i'll get you
 through this kid. Lets start with the basics. Picture of basic power
 setup (iron furnace and steam generator)
 
-![image](https://raw.githubusercontent.com/Civ13/civ13-wiki/master/assets/images/wiring_example.png)
+![image](assets/images/wiring_example.png)
 
 ## Basics
 

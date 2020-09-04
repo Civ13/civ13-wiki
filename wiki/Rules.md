@@ -1,4 +1,4 @@
-# Server Rules:
+# Server Rules
 
 ### General Etiquette:
 
