@@ -31,7 +31,6 @@ There may or may not be specific goals, which are listed at the start of the rou
 Maps without a set goal:
 
 * Bohemia (1013) - live in a city in Medieval Europe.
-
 * **[Colony](Colony "wikilink")** (1713) - build a New World colony (two maps with different climates).
 * Little Creek (1873) - live in a Wild West town.
 * Pioneers (1873) - develop a town in the prairies.
@@ -87,7 +86,6 @@ Work smart, not hard!
 * To **Create** a faction, open the **Faction tab** and click **Create a faction**. Choose a name for it, as well as symbols and colours for you faction's banner.
 * To join a faction, you must be **Recruited** by a faction member who has **recruitment permissions**.
 * You can leave a faction by clicking **Abandon** on the **Faction tab**. Take note, that **you will not be able to rejoin the same faction for 24 hours!**
-
 * Creating a faction makes you the default **Leader**.
 
 #### As a Leader
