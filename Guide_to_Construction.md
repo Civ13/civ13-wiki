@@ -39,7 +39,7 @@ Bricks and blocks are made with **[Clay](Full_Crafting_List#clay "wikilink")**, 
 
   - First, make batches of unfired bricks.
 
-  - Put the unfired bricks in either **[a campfire, an oven or a stove](Guide_to_Crafting#campfire,-iron-oven-and-wood-stove "wikilink")**.
+  - Put the unfired bricks in either **[a campfire, an oven or a stove](Guide_to_Crafting#campfire-iron-oven-and-wood-stove "wikilink")**.
 
   - Cook until done.
 
