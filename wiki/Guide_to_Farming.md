@@ -101,9 +101,11 @@ There are a few ways to provide the crops with water:
 ### Fertilizing
 
 Many kinds of animals leave manure on the ground, which could be used to
-fertilize a ploughed field. Fertilizing one tile will affect all
-adjacent tiles or nine tiles in total. Plants that grow on the
+fertilize a ploughed field. **Fertilizing one tile will affect all
+adjacent tiles or nine tiles in total.** Plants that grow on the
 fertilized soil produce twice as much harvest.
+
+The **compost bin** (10 wood, "economy and production" section) also turns food scraps, plant matter (seeds, some plants) and something unpleasant else into fertilizer. Just place it in the bin and wait for a while. Fertilizer could also be used to refuel ovens etc.
 
 ### Severe weather
 
@@ -125,13 +127,14 @@ water level of a plant.
 
 Different biomes have different plants that could be cultivated in them.
 Take notice, that some plants grow only in certain seasons. Biome
-restriction applies only to the largest maps: Continents, Pangea and New
+restriction applies only to the largest maps: Continents, Pangea, Europe and New
 World.
 
 Wet (winter and spring) and dry (summer and fall) seasons apply to the
 Desert, Savanna and Jungles biomes.
 
 ## Crop catalogue
+**The table is sortable - click the headers to sort the column's contents.**
 <table class="sortable">
 <thead>
 <tr>
