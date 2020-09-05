@@ -255,7 +255,7 @@ mirrored accordingly.)
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/wall_egyptian.png">&emsp;
+<td width="50%"><img src="assets/images/wall_egyptian.png">&emsp;
 <img src="assets/images/wall_egyptian1.png">&emsp;
 <img src="assets/images/wall_egyptian2.png">&emsp;
 <img src="assets/images/wall_egyptian3.png">&emsp;
