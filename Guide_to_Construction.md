@@ -1,5 +1,7 @@
 # Guide to Construction
 
+Construction requires basic knowledge in other areas, such as resource acquirement, which are covered in the **[Guide to Crafting](Guide_to_Crafting "wikilink")**.
+
 It is truly a marvel, that from this dusty dirt under our feet, these
 heaps of rugged stones and those chaotically growing trees could spring
 such smooth, even walls in all their rectangular glory. A natural
@@ -13,14 +15,14 @@ to the eye. These elements are walls, floors, doors, windows, roofs and
 barricades along with fences. There are also somewhat distinct
 categories of fortifications and lighting.
 
-<b>Mind that the orientation of some constructions depends on the
+**Mind that the orientation of some constructions depends on the
 direction your character is facing!** For example, some walls are built
 vertically if you are facing North or South, or horizontally, if you are
 facing East or West. Some wall types also have separate corner elements
 for better appearance. All of this is marked in the description of a
 specific construction. **N, S, W, E** mean you need to be facing either
 North, South, West and East to build a wall the same as the image;
-<b>All** means the construction will look the same regardless of the
+**All** means the construction will look the same regardless of the
 direction.
 
 <b>Some wall tiles change their appearance depending on neighbouring
@@ -33,23 +35,26 @@ A few more details about particular materials.
 
 ## Bricks
 
-Bricks and blocks are made with **[Clay](Full_Crafting_List#clay "wikilink")**, which is obtained from **[dirt](#Soil "wikilink")**.
+Bricks and blocks are made with **[Clay](Full_Crafting_List#clay "wikilink")**, which is obtained from **[dirt](Guide_to_Crafting#soil "wikilink")**.
 
   - First, make batches of unfired bricks.
 
-  - Put the unfired bricks in either **[a campfire, an oven or a stove](#Campfire,_iron_oven_and_wood_stove "wikilink")**.
+  - Put the unfired bricks in either **[a campfire, an oven or a stove](Guide_to_Crafting#campfire-iron-oven-and-wood-stove "wikilink")**.
 
   - Cook until done.
+
+**Hover the mouse cursor over the icon to see the material cost.**
 
 <table>
 <tbody>
 <tr>
-<td>0.5 clay</td><td><img src="assets/images/clay_blocks.png">
-<b>Clay blocks</b></td>
-<td>0.5 clay</td><td><img src="assets/images/clay_bricks.png">
-<b>Clay bricks</b></td>
-<td>4 clay</td><td><img src="assets/images/clay_cement_bricks.png">
-<b>Cement bricks</b></td>
+<td><img src="assets/images/clay_blocks.png" title="0.5 clay">&ensp;<b>Clay blocks</b></td>
+</tr>
+<tr>
+<td><img src="assets/images/clay_bricks.png" title="0.5 clay">&ensp;<b>Clay bricks</b></td>
+</tr>
+<tr>
+<td><img src="assets/images/clay_cement_bricks.png" title="4 clay">&ensp;<b>Cement bricks</b></td>
 </tr>
 </tbody>
 </table>
@@ -61,7 +66,7 @@ Bricks and blocks are made with **[Clay](Full_Crafting_List#clay "wikilink")**, 
 Any kind of wood walls could be set on fire by hitting them with a
 torch. A wall will burn down in a few minutes, destroying the roof tiles
 supported by the wall as well (more in the
-**[Roofs](#Roofs "wikilink")** section). **Remove the grass and the wood floor around the wall if you are going to burn it!** Otherwise the fire
+**[Roofs](#roofs "wikilink")** section). **Remove the grass and the wood floor around the wall if you are going to burn it!** Otherwise the fire
 will very likely spread from the burning wall.
 
 Another way is simple brute force - hit a wall with melee weapons, and
@@ -92,10 +97,8 @@ same for all directions.
 <tbody>
 <tr>
 <td><img src="assets/images/wall_log_vertical.png">
-<b>N, S</b></td>
-<td><img src="assets/images/wall_log.png">
-<b>W, E</b></td>
-<td><img src="assets/images/wall_log_corner.png">
+<b>N, S</b>&emsp;<img src="assets/images/wall_log.png">
+<b>W, E</b>&emsp;<img src="assets/images/wall_log_corner.png">
 <b>Corner</b></td>
 </tr>
 </tbody>
@@ -109,20 +112,15 @@ than the log one.
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/wall_wood.png"></td>
-<td><img src="assets/images/wall_wood1.png"></td>
-<td><img src="assets/images/wall_wood2.png"></td>
-<td><img src="assets/images/wall_wood3.png"></td>
-<td><img src="assets/images/wall_wood4.png"></td>
-<td><img src="assets/images/wall_wood5.png"></td>
+<td><img src="assets/images/wall_wood.png">&emsp;
+<img src="assets/images/wall_wood1.png">&emsp;
+<img src="assets/images/wall_wood2.png">&emsp;
+<img src="assets/images/wall_wood3.png">&emsp;
+<img src="assets/images/wall_wood4.png">&emsp;
+<img src="assets/images/wall_wood5.png"></td>
 </tr>
 <tr>
 <td><b>Adaptive</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -150,16 +148,13 @@ logs and choose a design.
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/wall_medieval.png"></td>
-<td><img src="assets/images/wall_medieval_cross.png"></td>
-<td><img src="assets/images/wall_medieval_NE.png"></td>
-<td><img src="assets/images/wall_medieval_SE.png"></td>
+<td><img src="assets/images/wall_medieval.png">&emsp;
+<img src="assets/images/wall_medieval_cross.png">&emsp;
+<img src="assets/images/wall_medieval_NE.png">&emsp;
+<img src="assets/images/wall_medieval_SE.png"></td>
 </tr>
 <tr>
 <td><b>All</b></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -174,13 +169,12 @@ construct a wall frame first, then click it with a paper sheet.
 <tbody>
 <tr>
 <td><img src="assets/images/wall_shoji.png">
-<b>Wall</b></td>
-<td><img src="assets/images/wall_shoji_divider.png">
+<b>Wall</b>&emsp;
+<img src="assets/images/wall_shoji_divider.png">
 <b>Divider</b></td>
 </tr>
 <tr>
 <td><b>All</b></td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -195,13 +189,12 @@ it with bamboo bundles.
 <tbody>
 <tr>
 <td><img src="assets/images/wall_bamboo.png">
-<b>Wall</b></td>
-<td><img src="assets/images/doorway_bamboo.png">
+<b>Wall</b>&emsp;
+<img src="assets/images/doorway_bamboo.png">
 <b>Doorway</b></td>
 </tr>
 <tr>
 <td><b>All</b></td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -213,24 +206,17 @@ Made with 8 wood logs. Useful for creating your very own altepetl.
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/wall_aztec.png"></td>
-<td><img src="assets/images/wall_aztec1.png"></td>
-<td><img src="assets/images/wall_aztec7.png"></td>
-<td><img src="assets/images/wall_aztec2.png"></td>
-<td><img src="assets/images/wall_aztec3.png"></td>
-<td><img src="assets/images/wall_aztec4.png"></td>
-<td><img src="assets/images/wall_aztec5.png"></td>
-<td><img src="assets/images/wall_aztec6.png"></td>
+<td><img src="assets/images/wall_aztec.png">&emsp;
+<img src="assets/images/wall_aztec1.png">&emsp;
+<img src="assets/images/wall_aztec7.png">&emsp;
+<img src="assets/images/wall_aztec2.png">&emsp;
+<img src="assets/images/wall_aztec3.png">&emsp;
+<img src="assets/images/wall_aztec4.png">&emsp;
+<img src="assets/images/wall_aztec5.png">&emsp;
+<img src="assets/images/wall_aztec6.png"></td>
 </tr>
 <tr>
 <td><b>Adaptive</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -242,24 +228,17 @@ Made with 6 stones.
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/wall_mayan.png"></td>
-<td><img src="assets/images/wall_mayan1.png"></td>
-<td><img src="assets/images/wall_mayan2.png"></td>
-<td><img src="assets/images/wall_mayan3.png"></td>
-<td><img src="assets/images/wall_mayan4.png"></td>
-<td><img src="assets/images/wall_mayan5.png"></td>
-<td><img src="assets/images/wall_mayan6.png"></td>
-<td><img src="assets/images/wall_mayan7.png"></td>
+<td><img src="assets/images/wall_mayan.png">&emsp;
+<img src="assets/images/wall_mayan1.png">&emsp;
+<img src="assets/images/wall_mayan2.png">&emsp;
+<img src="assets/images/wall_mayan3.png">&emsp;
+<img src="assets/images/wall_mayan4.png">&emsp;
+<img src="assets/images/wall_mayan5.png">&emsp;
+<img src="assets/images/wall_mayan6.png">&emsp;
+<img src="assets/images/wall_mayan7.png"></td>
 </tr>
 <tr>
 <td><b>Adaptive</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -276,28 +255,20 @@ mirrored accordingly.)
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/wall_egyptian.png"></td>
-<td><img src="assets/images/wall_egyptian1.png"></td>
-<td><img src="assets/images/wall_egyptian2.png"></td>
-<td><img src="assets/images/wall_egyptian3.png"></td>
-<td><img src="assets/images/wall_egyptian4.png"></td>
-<td><img src="assets/images/wall_egyptian5.png"></td>
-<td><img src="assets/images/wall_egyptian6.png"></td>
-<td><img src="assets/images/wall_egyptian7.png"></td>
-<td><img src="assets/images/archway_egyptian_S.png"></td>
-<td><img src="assets/images/archway_egyptian_E.png"></td>
+<td width="40%"><img src="assets/images/wall_egyptian.png">&emsp;
+<img src="assets/images/wall_egyptian1.png">&emsp;
+<img src="assets/images/wall_egyptian2.png">&emsp;
+<img src="assets/images/wall_egyptian3.png">&emsp;
+<img src="assets/images/wall_egyptian4.png">&emsp;
+<img src="assets/images/wall_egyptian5.png">&emsp;
+<img src="assets/images/wall_egyptian6.png">&emsp;
+<img src="assets/images/wall_egyptian7.png"></td>
+<td><img src="assets/images/archway_egyptian_S.png">&emsp;
+<img src="assets/images/archway_egyptian_E.png"></td>
 </tr>
 <tr>
 <td><b>Adaptive</b></td>
-<td><b>S</b></td>
-<td><b>E</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><b>S</b>&emsp;&emsp;&emsp;<b>E</b></td>
 </tr>
 </tbody>
 </table>
@@ -309,20 +280,15 @@ Made with 8 wood logs. For all your Långhus and mead hall needs.
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/wall_nordic.png"></td>
-<td><img src="assets/images/wall_nordic1.png"></td>
-<td><img src="assets/images/wall_nordic2.png"></td>
-<td><img src="assets/images/wall_nordic3.png"></td>
-<td><img src="assets/images/wall_nordic4.png"></td>
-<td><img src="assets/images/wall_nordic5.png"></td>
+<td><img src="assets/images/wall_nordic.png">&emsp;
+<img src="assets/images/wall_nordic1.png">&emsp;
+<img src="assets/images/wall_nordic2.png">&emsp;
+<img src="assets/images/wall_nordic3.png">&emsp;
+<img src="assets/images/wall_nordic4.png">&emsp;
+<img src="assets/images/wall_nordic5.png"></td>
 </tr>
 <tr>
 <td><b>Adaptive</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -334,20 +300,15 @@ Made with 8 stones. Opus caementicium usque in sempiternum.
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/wall_roman.png"></td>
-<td><img src="assets/images/wall_roman1.png"></td>
-<td><img src="assets/images/wall_roman2.png"></td>
-<td><img src="assets/images/wall_roman3.png"></td>
-<td><img src="assets/images/wall_roman4.png"></td>
-<td><img src="assets/images/wall_roman5.png"></td>
+<td><img src="assets/images/wall_roman.png">&emsp;
+<img src="assets/images/wall_roman1.png">&emsp;
+<img src="assets/images/wall_roman2.png">&emsp;
+<img src="assets/images/wall_roman3.png">&emsp;
+<img src="assets/images/wall_roman4.png">&emsp;
+<img src="assets/images/wall_roman5.png"></td>
 </tr>
 <tr>
 <td><b>Adaptive</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -393,13 +354,12 @@ batches to finish.
 <tbody>
 <tr>
 <td><img src="assets/images/wall_clay_block.png">
-<b>Wall</b></td>
-<td><img src="assets/images/doorway_clay.png">
+<b>Wall</b>&emsp;
+<img src="assets/images/doorway_clay.png">
 <b>Doorway</b></td>
 </tr>
 <tr>
 <td><b>All</b></td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -416,12 +376,12 @@ The doorway is made by applying generic stucco to a clay block doorway.
 <tbody>
 <tr>
 <td><img src="assets/images/wall_red_earth_S.png">
-<b>Regular</b></td>
-<td><img src="assets/images/wall_red_earth_pillared_S.png">
-<b>Pillared</b></td>
-<td><img src="assets/images/wall_red_earth_smooth_SN.png">
-<b>Smooth</b></td>
-<td><img src="assets/images/doorway_red_earth_S.png">
+<b>Regular</b>&emsp;
+<img src="assets/images/wall_red_earth_pillared_S.png">
+<b>Pillared</b>&emsp;
+<img src="assets/images/wall_red_earth_smooth_SN.png">
+<b>Smooth</b>&emsp;
+<img src="assets/images/doorway_red_earth_S.png">
 <b>Doorway</b></td>
 </tr>
 </tbody>
@@ -441,16 +401,14 @@ image below is NW.
 <tbody>
 <tr>
 <td><img src="assets/images/wall_sumerian.png">
-<b>Wall</b></td>
-<td><img src="assets/images/door_sumerian.png">
-<b>Doorway</b></td>
-<td><img src="assets/images/wall_sumerian_corner.png">
+<b>Wall</b>&emsp;
+<img src="assets/images/door_sumerian.png">
+<b>Doorway</b>&emsp;
+<img src="assets/images/wall_sumerian_corner.png">
 <b>Corner</b></td>
 </tr>
 <tr>
 <td><b>All</b></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -463,13 +421,12 @@ Made with 8 sandstones.
 <tbody>
 <tr>
 <td><img src="assets/images/wall_sandstone_smooth.png">
-<b>Smooth</b></td>
-<td><img src="assets/images/wall_sandstone_brick.png">
+<b>Smooth</b>&emsp;
+<img src="assets/images/wall_sandstone_brick.png">
 <b>Brick</b></td>
 </tr>
 <tr>
 <td><b>All</b></td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -483,19 +440,16 @@ different designs.
 <tbody>
 <tr>
 <td><img src="assets/images/wall_stone.png">
-<b>Regular</b></td>
-<td><img src="assets/images/wall_stone_brick.png">
-<b>Brick</b></td>
-<td><img src="assets/images/wall_stone_cobbled.png">
-<b>Cobbled</b></td>
-<td><img src="assets/images/wall_stone_tiled.png">
+<b>Regular</b>&emsp;
+<img src="assets/images/wall_stone_brick.png">
+<b>Brick</b>&emsp;
+<img src="assets/images/wall_stone_cobbled.png">
+<b>Cobbled</b>&emsp;
+<img src="assets/images/wall_stone_tiled.png">
 <b>Tiled</b></td>
 </tr>
 <tr>
 <td><b>All</b></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -508,24 +462,18 @@ available (icons will be mirrored accordingly.)
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/wall_stone_block.png"></td>
-<td><img src="assets/images/wall_stone_block1.png"></td>
-<td><img src="assets/images/wall_stone_block2.png"></td>
-<td><img src="assets/images/wall_stone_block3.png"></td>
-<td><img src="assets/images/wall_stone_block4.png"></td>
-<td><img src="assets/images/wall_stone_block5.png"></td>
-<td><img src="assets/images/archway_stone_block_S.png"></td>
-<td><img src="assets/images/archway_stone_block_E.png"></td>
+<td width="30%"><img src="assets/images/wall_stone_block.png">&emsp;
+<img src="assets/images/wall_stone_block1.png">&emsp;
+<img src="assets/images/wall_stone_block2.png">&emsp;
+<img src="assets/images/wall_stone_block3.png">&emsp;
+<img src="assets/images/wall_stone_block4.png">&emsp;
+<img src="assets/images/wall_stone_block5.png"></td>
+<td><img src="assets/images/archway_stone_block_S.png">&emsp;
+<img src="assets/images/archway_stone_block_E.png"></td>
 </tr>
 <tr>
 <td><b>Adaptive</b></td>
-<td><b>S</b></td>
-<td><b>E</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><b>S</b>&emsp;&emsp;&emsp;<b>E</b></td>
 </tr>
 </tbody>
 </table>
@@ -612,24 +560,18 @@ accordingly.)
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/wall_stone_brick.png"></td>
-<td><img src="assets/images/wall_stone_brick1.png"></td>
-<td><img src="assets/images/wall_stone_brick2.png"></td>
-<td><img src="assets/images/wall_stone_brick3.png"></td>
-<td><img src="assets/images/wall_stone_brick4.png"></td>
-<td><img src="assets/images/wall_stone_brick5.png"></td>
-<td><img src="assets/images/archway_stone_brick_S.png"></td>
-<td><img src="assets/images/archway_stone_brick_E.png"></td>
+<td width="30%"><img src="assets/images/wall_stone_brick.png">&emsp;
+<img src="assets/images/wall_stone_brick1.png">&emsp;
+<img src="assets/images/wall_stone_brick2.png">&emsp;
+<img src="assets/images/wall_stone_brick3.png">&emsp;
+<img src="assets/images/wall_stone_brick4.png">&emsp;
+<img src="assets/images/wall_stone_brick5.png"></td>
+<td><img src="assets/images/archway_stone_brick_S.png">&emsp;
+<img src="assets/images/archway_stone_brick_E.png"></td>
 </tr>
 <tr>
 <td><b>Adaptive</b></td>
-<td><b>S</b></td>
-<td><b>E</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><b>S</b>&emsp;&emsp;&emsp;<b>E</b></td>
 </tr>
 </tbody>
 </table>
@@ -643,28 +585,20 @@ accordingly.)
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/wall_fortress.png"></td>
-<td><img src="assets/images/wall_fortress1.png"></td>
-<td><img src="assets/images/wall_fortress2.png"></td>
-<td><img src="assets/images/wall_fortress3.png"></td>
-<td><img src="assets/images/wall_fortress4.png"></td>
-<td><img src="assets/images/wall_fortress6.png"></td>
-<td><img src="assets/images/wall_fortress5.png"></td>
-<td><img src="assets/images/wall_fortress7.png"></td>
-<td><img src="assets/images/archway_fortress_S.png"></td>
-<td><img src="assets/images/archway_fortress_E.png"></td>
+<td width="40%"><img src="assets/images/wall_fortress.png">&emsp;
+<img src="assets/images/wall_fortress1.png">&emsp;
+<img src="assets/images/wall_fortress2.png">&emsp;
+<img src="assets/images/wall_fortress3.png">&emsp;
+<img src="assets/images/wall_fortress4.png">&emsp;
+<img src="assets/images/wall_fortress6.png">&emsp;
+<img src="assets/images/wall_fortress5.png">&emsp;
+<img src="assets/images/wall_fortress7.png"></td>
+<td><img src="assets/images/archway_fortress_S.png">&emsp;
+<img src="assets/images/archway_fortress_E.png"></td>
 </tr>
 <tr>
 <td><b>Adaptive</b></td>
-<td><b>S</b></td>
-<td><b>E</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><b>S</b>&emsp;&emsp;&emsp;<b>E</b></td>
 </tr>
 </tbody>
 </table>
@@ -678,20 +612,15 @@ start building a wall where you stand. Add 1 more batch to finish.
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/wall_brick.png"></td>
-<td><img src="assets/images/wall_brick1.png"></td>
-<td><img src="assets/images/wall_brick2.png"></td>
-<td><img src="assets/images/wall_brick3.png"></td>
-<td><img src="assets/images/wall_brick4.png"></td>
-<td><img src="assets/images/wall_brick5.png"></td>
+<td><img src="assets/images/wall_brick.png">&emsp;
+<img src="assets/images/wall_brick1.png">&emsp;
+<img src="assets/images/wall_brick2.png">&emsp;
+<img src="assets/images/wall_brick3.png">&emsp;
+<img src="assets/images/wall_brick4.png">&emsp;
+<img src="assets/images/wall_brick5.png"></td>
 </tr>
 <tr>
 <td><b>Adaptive</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -706,20 +635,15 @@ more batch to finish.
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/wall_cement.png"></td>
-<td><img src="assets/images/wall_cement1.png"></td>
-<td><img src="assets/images/wall_cement2.png"></td>
-<td><img src="assets/images/wall_cement3.png"></td>
-<td><img src="assets/images/wall_cement4.png"></td>
-<td><img src="assets/images/wall_cement5.png"></td>
+<td><img src="assets/images/wall_cement.png">&emsp;
+<img src="assets/images/wall_cement1.png">&emsp;
+<img src="assets/images/wall_cement2.png">&emsp;
+<img src="assets/images/wall_cement3.png">&emsp;
+<img src="assets/images/wall_cement4.png">&emsp;
+<img src="assets/images/wall_cement5.png"></td>
 </tr>
 <tr>
 <td><b>Adaptive</b></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>

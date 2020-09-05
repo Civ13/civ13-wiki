@@ -85,7 +85,7 @@ milk, though other liquids like **tea** can also be used.
 
 #### Water
 
-You can get water from **puddles**, any **water tiles**, or **wells**.
+You can get water from **puddles**, any **water tiles (except saltwater - do not drink nor boil it!)**, or **wells**.
 
   - To drink, you need to make a **mug** from **wood** or **drinking
     glass** from **glass**.

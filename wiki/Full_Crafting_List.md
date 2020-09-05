@@ -2,6 +2,8 @@
 Here you can find the full craft list, in sortable tables and segmented
 by material.
 
+**To look for specific items, use the "Find in page" command - Ctrl-F.**
+
 Exported on 01 May 2020 -
 [Commit 6001](https://github.com/Civ13/Civ13/tree/0f3b87dfec43aea66c25535aeaf01d329d86936f)
 
