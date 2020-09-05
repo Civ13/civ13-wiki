@@ -255,7 +255,7 @@ mirrored accordingly.)
 <table>
 <tbody>
 <tr>
-<td width="50%"><img src="assets/images/wall_egyptian.png">&emsp;
+<td width="40%"><img src="assets/images/wall_egyptian.png">&emsp;
 <img src="assets/images/wall_egyptian1.png">&emsp;
 <img src="assets/images/wall_egyptian2.png">&emsp;
 <img src="assets/images/wall_egyptian3.png">&emsp;
@@ -462,7 +462,7 @@ available (icons will be mirrored accordingly.)
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/wall_stone_block.png">&emsp;
+<td width="40%"><img src="assets/images/wall_stone_block.png">&emsp;
 <img src="assets/images/wall_stone_block1.png">&emsp;
 <img src="assets/images/wall_stone_block2.png">&emsp;
 <img src="assets/images/wall_stone_block3.png">&emsp;
@@ -560,7 +560,7 @@ accordingly.)
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/wall_stone_brick.png">&emsp;
+<td width="40%"><img src="assets/images/wall_stone_brick.png">&emsp;
 <img src="assets/images/wall_stone_brick1.png">&emsp;
 <img src="assets/images/wall_stone_brick2.png">&emsp;
 <img src="assets/images/wall_stone_brick3.png">&emsp;
@@ -585,7 +585,7 @@ accordingly.)
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/wall_fortress.png">&emsp;
+<td width="40%"><img src="assets/images/wall_fortress.png">&emsp;
 <img src="assets/images/wall_fortress1.png">&emsp;
 <img src="assets/images/wall_fortress2.png">&emsp;
 <img src="assets/images/wall_fortress3.png">&emsp;
