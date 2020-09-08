@@ -32,6 +32,8 @@ machinery and vehicles.
   - **[Guide to Ranching](Guide_to_Ranching "wikilink")** - includes the
     list of animals, many of which provide various materials for
     crafting.
+    
+   - **[Guide to Construction](Guide_to_Construction "wikilink")** - details on constructing walls, floors, doors etc.
 
 ## Basics
 
@@ -81,7 +83,7 @@ Pioneers, only the Blacksmith can use the anvil.
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/leaved_stick.png"> <img src="assets/images/sharpened_stick.png"></td>
+<td width="5%"><img src="assets/images/leaved_stick.png"> <img src="assets/images/sharpened_stick.png"></td>
 <td><b>Stick</b></td>
 <td>The humble beginnings of a future industrial superpower... First, harvest a branch by clicking a tree on Harm intent. Next, click the branch on Grab intent to remove the leaves, then click it again on Harm intent to clear the twigs. Voila! The first leap on the path of Progress has been made! Now the stick could be sharpened with a sharpened flint or a knife - click the stick with it. A sharpened stick could be used to catch fish (click fish tiles) or ants (click anthills); it could also be used to make a flint axe (see below.)</td>
 </tr>
@@ -98,7 +100,7 @@ Pioneers, only the Blacksmith can use the anvil.
 <tr>
 <td><img src="assets/images/e.png"> <img src="assets/images/bronze_knife.png"> <img src="assets/images/steel_knife.png"></td>
 <td><b>Knife</b></td>
-<td>Made with either 4 bone pieces or 1 unit of manifold materials: stone, copper, bronze, iron, steel, tin, even gold, silver and diamonds. Used to cut trees, skin animals and stab enemies in a desperate situation. Used to cut wires and cut down curtains as well. The bone knife (the leftmost one) is also a surgical tool in the earliest epochs, but for that refer to <a href="Guide_to_Medical#Surgery">Guide to Surgery</a>. And check the <a href="Guide_to_Cooking">Guide to Cooking</a> for more culinary uses of the knife.</td>
+<td>Made with either 4 bone pieces or 1 unit of manifold materials: stone, copper, bronze, iron, steel, tin, even gold, silver and diamonds. Used to cut trees, skin animals and stab enemies in a desperate situation. Used to cut wires and cut down curtains as well. The bone knife (the top one) is also a surgical tool in the earliest epochs, but for that refer to <a href="Guide_to_Medical#surgery">Surgery</a>. And check the <a href="Guide_to_Cooking">Guide to Cooking</a> for more culinary uses of the knife.</td>
 </tr>
 <tr>
 <td><img src="assets/images/bone_hatchet.png"> <img src="assets/images/hatchet.png"></td>
@@ -178,7 +180,7 @@ There are two main ways to obtain
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/sheet_wood.png"></td>
+<td width="5%"><img src="assets/images/sheet_wood.png"></td>
 <td><b>Wood log</b></td>
 <td>A visual representation of a wood log, placed herein to avoid any ambiguities. This is a guide, after all.</td>
 </tr>
@@ -204,23 +206,23 @@ to the **[Guide to Cooking](Guide_to_Cooking "wikilink")**.
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/black_bear_pelt.png"> <img src="assets/images/monkey_pelt.png"> <img src="assets/images/wolf_pelt.png"></td>
+<td width="5%"><img src="assets/images/black_bear_pelt.png"> <img src="assets/images/monkey_pelt.png"> <img src="assets/images/wolf_pelt.png"></td>
 <td><b>Furs and Pelts</b></td>
-<td>Obtained from various animals (check the <a href="Full_Crafting_List">Full crafting List</a>) by skinning the carcass with a knife on Grab intent. Pelts could be made into coats, gloves, footwear and headgear. Fur clothing comes in handy in the colder climates and seasons. Pelts could also be turned into leather on the tanning rack - cut the hair off of the hide with a knife, then place the hide on the rack and wait until it's ready. One extra leather sheet is obtained this way, compared to skinning the carcass directly for leather as described below.</td>
+<td>Obtained from various animals (check the <b><a href="Full_Crafting_List">Full Crafting List</a></b>) by skinning the carcass with a knife on Grab intent. Pelts could be made into coats, gloves, footwear and headgear. Fur clothing comes in handy in the colder climates and seasons. Pelts could also be turned into leather on the tanning rack - cut the hair off of the hide with a knife, then place the hide on the rack and wait until it's ready. One extra leather sheet is obtained this way, compared to skinning the carcass directly for leather as described below.</td>
 </tr>
 <tr>
 <td><img src="assets/images/wool_pile.png"> <img src="assets/images/wool_roll.png"></td>
 <td><b>Wool and Woolcloth</b></td>
-<td>Obtained by shearing sheep. Used for many varieties of clothing, mainly as a cloth substitute for the biomes that lack cotton. Use the <a href="Guide_to_Crafting#loom">loom</a> to turn wool piles into <a href="Full_Crafting_List#woolcloth">woolcloth</a>.</td>
+<td>Obtained by shearing sheep. Used for many varieties of clothing, mainly as a cloth substitute for the biomes that lack cotton. Use the <a href="Guide_to_Crafting#loom">loom</a> to turn wool piles into <b><a href="Full_Crafting_List#woolcloth">Woolcloth</a></b>.</td>
 </tr>
 <tr>
 <td><img src="assets/images/leather.png"></td>
-<td><b>Leather</b></td>
+<td><b><a href="Full_Crafting_List#leather">Leather</a></b></td>
 <td>Used for clothing, military equipment, various bags etc. Obtained from many animals by skinning on Harm intent. Larger animals provide more leather.</td>
 </tr>
 <tr>
 <td><img src="assets/images/bone.png"></td>
-<td><b>Bone</b></td>
+<td><b><a href="Full_Crafting_List#bone">Bone</a></b></td>
 <td>Obtained by skinning the animal carcass regardless of the intent. A material for primitive tools and weapons.</td>
 </tr>
 </tbody>
@@ -237,19 +239,19 @@ tile.
 
 When you have piles of dirt or snow, you can use them right away to
 build barricades and walls. Refer to the
-**[Construction](#Construction "wikilink")** section for more details.
+**[Construction](Guide_to_Construction "wikilink")** section for more details.
 
 <table>
 <tbody>
 <tr>
 <td><img src="assets/images/dirt_pile.png"></td>
 <td><b>Dirt</b></td>
-<td>Used to produce <a href="Full_Crafting_List#clay">clay</a> and to construct dirt walls and barricades. To produce clay, pour water from a container onto a dirt pile, 10 units of water per pile.</td>
+  <td>Used to produce <b><a href="Full_Crafting_List#clay">Clay</a></b> and to construct dirt walls and barricades. To produce clay, pour water from a container onto a dirt pile, 10 units of water per pile.</td>
 </tr>
 <tr>
 <td><img src="assets/images/sand_pile.png"></td>
 <td><b>Sand</b></td>
-<td>Used to produce <a href="Full_Crafting_List#glass">glass</a> sheets via firing in the campfire and ovens.</td>
+  <td>Used to produce <b><a href="Full_Crafting_List#glass">Glass</a></b> sheets via firing in the campfire and ovens.</td>
 </tr>
 <tr>
 <td><img src="assets/images/snow_pile.png"></td>
@@ -267,7 +269,7 @@ rock. Time to hollow out the earth and put them to good use!
 <b>Smelting</b>
 
 Some ores must be processed before crafting, which is done by smelting
-them in **[Campfire, Ovens and Furnace](#Campfire,_Ovens_and_Furnace "wikilink")**. See that section for the detailed description of smelting and available alloys. Smelting
+them in **[Campfire, Ovens and Furnace](#campfire-ovens-and-furnace "wikilink")**. See that section for the detailed description of smelting and available alloys. Smelting
 ores produces ingots, which are a material that could be used for
 crafting.
 
@@ -279,67 +281,53 @@ holding a hammer in the other hand.
 <tbody>
 <tr>
 <td><b>Metals</b></td>
-<td></td>
-</tr><tr>
+</tr><tr align="center">
 <td><img src="assets/images/ore_copper.png"><img src="assets/images/sheet_copper.png"></td>
-<td>Copper</td>
-</tr><tr>
 <td><img src="assets/images/ore_tin.png"><img src="assets/images/sheet_tin.png"></td>
-<td>Tin</td>
-</tr><tr>
 <td><img src="assets/images/ore_iron.png"><img src="assets/images/sheet_iron.png"></td>
-<td>Iron</td>
-</tr><tr>
 <td><img src="assets/images/ore_lead.png"><img src="assets/images/sheet_lead.png"></td>
-<td>Lead</td>
-</tr><tr>
 <td><img src="assets/images/ore_gold.png"><img src="assets/images/sheet_gold.png"></td>
-<td>Gold</td>
-</tr><tr>
 <td><img src="assets/images/ore_silver.png"><img src="assets/images/sheet_silver.png"></td>
-<td>Silver</td>
-</tr><tr>
 <td><img src="assets/images/ore_mercury.png"></td>
-<td>Mercury</td>
-</tr><tr>
 <td><img src="assets/images/ore_platinum.png"></td>
-<td>Platinum</td>
-</tr><tr>
 <td><img src="assets/images/ore_uranium.png"></td>
-<td>Uranium</td>
+</tr>
+<tr align="center">
+<td><b><a href="Full_Crafting_List#copper">Copper</a></b></td>
+<td><b><a href="Full_Crafting_List#tin">Tin</a></b></td>
+<td><b><a href="Full_Crafting_List#iron">Iron</a></b></td>
+<td><b><a href="Full_Crafting_List#lead">Lead</a></b></td>
+<td><b><a href="Full_Crafting_List#gold">Gold</a></b></td>
+<td><b><a href="Full_Crafting_List#silver">Silver</a></b></td>
+<td><b>Mercury</b></td>
+<td><b>Platinum</b></td>
+<td><b>Uranium</b></td>
 </tr>
 </tbody>
 </table>
-
 
 <table>
 <tbody>
 <tr>
 <td><b>Others</b></td>
-<td></td>
-</tr><tr>
+</tr><tr align="center">
 <td><img src="assets/images/sheet_stone.png"></td>
-<td>Stone</td>
-</tr><tr>
 <td><img src="assets/images/ore_sandstone.png"></td>
-<td>Sandstone*</td>
-</tr><tr>
 <td><img src="assets/images/ore_coal.png"></td>
-<td>Mineral coal</td>
-</tr><tr>
 <td><img src="assets/images/ore_saltpeter.png"></td>
-<td>Saltpeter</td>
-</tr><tr>
 <td><img src="assets/images/ore_sulphur.png"></td>
-<td>Sulphur</td>
-</tr><tr>
 <td><img src="assets/images/ore_diamond.png"><img src="assets/images/sheet_diamond.png"></td>
-<td>Diamonds</td>
-</tr><tr>
 <td><img src="assets/images/ore_obsidian.png"><img src="assets/images/sheet_obsidian.png"></td>
-<td>Obsidian*</td>
 </tr>
-
+<tr align="center">
+<td><b><a href="Full_Crafting_List#stone">Stone</a></b></td>
+<td><b><a href="Full_Crafting_List#sandstone">Sandstone*</a></b></td>
+<td><b>Mineral coal</b></td>
+<td><b>Saltpeter</b></td>
+<td><b>Sulphur</b></td>
+<td><b>Diamonds</b></td>
+<td><b>Obsidian*</b></td>
+</tr>
 </tbody>
 </table>
 
@@ -414,7 +402,7 @@ plastics, so let's start drilling!
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/oil_spring.png"></td>
+<td width="5%"><img src="assets/images/oil_spring.png"></td>
 <td><b>Oil spring</b></td>
 <td>A spot where an oil deposit reaches the surface of the earth, allowing the collection of crude oil with any containers that could hold liquids: buckets, barrels etc. Click the oil spring with a container, and you will fill it with 10 units of oil. The oil spring will refill presently. Before the advent of engines and machines, crude oil is mostly used as fuel for lamps and lanterns, or as a handy tool by scheming poisoners in royal courts. Yes, drinking oil is bad for health. Very bad.</td>
 </tr>
@@ -429,7 +417,7 @@ plastics, so let's start drilling!
 <b>Additional information</b>
 
   - Crude oil could be distilled and processed into a number of
-    petroleum products. See the **[Machinery](#Machinery "wikilink")**
+    petroleum products. See the **[Machinery](#machinery "wikilink")**
     section for more information on the respective equipment. However,
     crude oil could be used directly to fuel one of the more primitive
     engines - the hot bulb engine.
@@ -530,24 +518,31 @@ Made with 8 steel sheets. A pinnacle of the fireplace technology (so far...)</td
 
 ### Furnace
 
-The furnace has a different purpose. It is used to produce steel sheets
+<table>
+<tbody>
+<tr>
+<td width="5%"><img src="assets/images/furnace.png"></td>
+<td><b>Furnace</b></td>
+<td>The furnace has a different purpose. It is used to produce steel sheets
 from iron, to alloy metals and to recycle some of the metallic items
 back into metal ingots for further use. It is operated similarly to the
 campfires and ovens, apart from that it does not have continuous fire -
 the fire will go out after an operation is finished. The furnace
 requires 2 units of fuel per single operation, i.e. at least 2 wood logs
-or 1 piece of mineral coal.
+or 1 piece of mineral coal.</td>
+</tr>
+</tbody>
+</table>
 
 <b>Available alloys</b>
 
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/sheet_bronze.png"></td>
-<td>Bronze</td>
-</tr><tr>
-<td><img src="assets/images/sheet_steel.png"></td>
-<td>Steel</td>
+<td><img src="assets/images/sheet_bronze.png"> &emsp; &emsp; <img src="assets/images/sheet_steel.png"></td>
+</tr>
+<tr>
+<td><b><a href="Full_Crafting_List#bronze">Bronze</a></b> &emsp; <b><a href="Full_Crafting_List#steel">Steel</a></b></td>
 </tr>
 </tbody>
 </table>
@@ -568,16 +563,10 @@ item's name.
 <tbody>
 <tr>
 <td><b>Alloys</b></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td><img src="assets/images/furnace.png"> <img src="assets/images/clay_brick_furnace.png">
-<b>Furnace</b></td>
 <td><b>1 Iron ore</b> <img src="assets/images/ore_iron.png">or <b>1 Iron ingot</b><img src="assets/images/sheet_iron.png">=> <b>1 Steel ingot</b> <img src="assets/images/sheet_steel.png"></td></tr>
 <tr>
-<td><img src="assets/images/furnace.png"> <img src="assets/images/clay_brick_furnace.png">
-<b>Furnace</b></td>
 <td><b>1 Copper ore</b><img src="assets/images/ore_copper.png">or <b>1 Copper ingot</b> <img src="assets/images/sheet_copper.png">+ <b>1 Tin ore</b> <img src="assets/images/ore_tin.png">or <b>1 Tin ingot</b><img src="assets/images/sheet_tin.png">=> <b>1 Bronze ingot</b><img src="assets/images/sheet_bronze.png"></td>
 </tr>
 </tbody>
@@ -586,14 +575,12 @@ item's name.
 <tbody>
 <tr>
 <td><b>Recycling</b></td>
-<td></td>
-<td></td> 
 </tr>
 <tr>
-<td><img src="assets/images/furnace.png"> <img src="assets/images/clay_brick_furnace.png">
-<b>Furnace</b></td>
-<td><b>1 knife, spoon or fork => 1 ingot of a respective material</b><br>
-<b>Tin can<img src="assets/images/tin_can_empty.png">=> 90% of amount of tin spent on the cans</b></td>
+<td><b>1 knife, spoon or fork => 1 ingot of a respective material</b></td>
+</tr>
+<tr>
+<td><b>Tin can<img src="assets/images/tin_can_empty.png">=> 90% of amount of tin spent on the cans</b></td>
 </tr>
 </tbody>
 </table>
@@ -608,9 +595,9 @@ level of the crafting skill before you are able to use them.
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/loom.png">
-<b>Loom</b></td>
-<td>Made with 8 wood logs. Used to weave <a href="Guide_to_Farming">cotton</a> and retted fabric into <a href="Full_Crafting_List#cloth">cloth</a> and to turn shorn wool into <a href="Full_Crafting_List#woolcloth">woolcloth</a>.</td>
+<td width="5%"><img src="assets/images/loom.png"></td>
+<td width="10%"><b>Loom</b></td>
+<td>Made with 8 wood logs. Used to weave <a href="Guide_to_Farming">cotton</a> and retted fabric into <b><a href="Full_Crafting_List#cloth">Cloth</a></b> and to turn shorn wool into <b><a href="Full_Crafting_List#woolcloth">Woolcloth</a></b>.</td>
 </tr>
 </tbody>
 </table>
@@ -620,8 +607,8 @@ level of the crafting skill before you are able to use them.
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/drying_rack.png">
-<b>Tanning rack</b></td>
+<td width="5%"><img src="assets/images/drying_rack.png"></td>
+<td width="10%"><b>Tanning rack</b></td>
 <td>Made with 8 wood logs. Used to turn animal pelts into leather sheets. Skin the carcass with the knife on Grab intent, cut the hair off of the pelt, then hang it to dry on the rack. One extra leather sheet is obtained this way, compared to skinning the carcass directly for leather.</td>
 </tr>
 </tbody>
@@ -632,9 +619,21 @@ level of the crafting skill before you are able to use them.
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/retting_trough.png">
-<b>Retting trough</b></td>
-<td>Made with 8 wood logs. Used to soak fiberous plants into retted fabric. Two units of cotton or flax produce one bundle of retted fabric, which could be turned into <b><a href="Full_Crafting_List#cloth">cloth</a></b> at the <b><a href="Guide_to_Crafting#Loom">loom</a></b>.</td>
+<td width="5%"><img src="assets/images/retting_trough.png"></td>
+<td width="10%"><b>Retting trough</b></td>
+<td>Made with 8 wood logs. Used to soak fiberous plants into retted fabric. Two units of cotton or flax produce one bundle of retted fabric, which could be turned into <b><a href="Full_Crafting_List#cloth">Cloth</a></b> at the <b><a href="Guide_to_Crafting#loom">loom</a></b>.</td>
+</tr>
+</tbody>
+</table>
+
+### Acidic bath
+
+<table>
+<tbody>
+<tr>
+<td width="5%"><img src="assets/images/acidic_bath.png"></td>
+<td width="10%"><b>Acidic bath</b></td>
+<td>Made with 12 steel sheets. Used to soak <b>raw kevlar</b> into <b>prepared kevlar</b>, which is further formed into <b>kevlar sheets</b> at the <b><a href="#loom">loom</a></b>. <b>Raw kevlar</b> recipe requires mixing sulphuric acid (sulphur, hydrogen, oxygen) and any form of refined fuel (not ground-oil petroleum).</td>
 </tr>
 </tbody>
 </table>
@@ -644,10 +643,36 @@ level of the crafting skill before you are able to use them.
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/anvil.png">
-<b>Anvil</b></td>
+<td width="5%"><img src="assets/images/anvil.png"></td>
+<td width="10%"><b>Anvil</b></td>
 <td><b>Skill required: 1.7</b><br />
-Made with 25 iron ingots. Used to forge weapons and armour across the centuries, from ancient swords and chainmails to muskets, makeshift AK-47s and kevlar vests. Take some iron ingots or steel sheets and click the anvil with them. Now click the anvil to see the available recipes along with the material cost. Right-click the anvil and choose 'Empty' command to retrieve the iron or steel you have put on it. See the <a href="Guide_to_Weapons">Guide to Weapons</a> for more information on specific weapons and their availability in different ages.</td>
+Made with 25 iron ingots. Used to forge weapons across the centuries, from ancient swords to muskets and makeshift AK-47s. Take some iron ingots or steel sheets and click the anvil with them. Now click the anvil to see the available recipes along with the material cost. Right-click the anvil and choose 'Empty' command to retrieve the iron or steel you have put on it. See the <b><a href="Guide_to_Weapons">Guide to Weapons</a></b> for more information on specific weapons and their availability in different ages.</td>
+</tr>
+</tbody>
+</table>
+
+### Armorsmithing bench
+
+<table>
+<tbody>
+<tr>
+<td width="5%"><img src="assets/images/armorbench.png"></td>
+<td width="10%"><b>Armorsmithing bench</b></td>
+<td><b>Skill required: 1.7</b><br />
+Made with 10 wood logs and 3 iron ingots. Used to forge bronze and iron armor. Take some iron or bronze ingots and click the bench with them. Now click the bench to see the available recipes along with the material cost. Right-click the bench and choose 'Empty' command to retrieve the iron or bronze you have put on it.</td>
+</tr>
+</tbody>
+</table>
+
+### Specialist armor bench
+
+<table>
+<tbody>
+<tr>
+<td width="5%"><img src="assets/images/armorbench_specialist.png"></td>
+<td width="10%"><b>Specialist armor bench</b></td>
+<td><b>Skill required: 1.7</b><br />
+Made with 15 iron ingots. Used to produce steel and kevlar armor. Take some steel or kevlar sheets and click the bench with them. Now click the bench to see the available recipes along with the material cost. Right-click the bench and choose 'Empty' command to retrieve the steel or kevlar you have put on it. See <b><a href="#acidic-bath">acidic bath</a></b> about making kevlar.</td>
 </tr>
 </tbody>
 </table>
@@ -657,22 +682,22 @@ Made with 25 iron ingots. Used to forge weapons and armour across the centuries,
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/gunbench.png">
-<b>Gunsmithing bench</b></td>
+<td width="5%"><img src="assets/images/gunbench.png"></td>
+<td width="10%"><b>Gunsmithing bench</b></td>
 <td><b>Skill required: 1.5 + Blueprint</b><br />
 Made with 13 wood logs. Used to assemble custom firearms from separate parts starting from the Early Modern age (1903) and to rechamber guns to a different caliber (click the bench with the gun).
 <ul>
 <li>Take some steel sheets and wood logs and click the bench with them.</li>
 <li>If you have a weapon blueprint, click the bench with it to assemble that weapon.</li>
-<li>If you don't have a blueprint, but have high enough skill (2.5), click the bench with an empty hand while holding 500 gold coins (or equivalent) in the other hand to design a new firearm along with producing a blueprint.</li>
+<li>If you don't have a blueprint, but have high enough skill (2.5), click the bench with an empty hand while holding 50 gold coins (or equivalent) in the other hand to design a new firearm along with producing a blueprint.</li>
 <li>You will see the list of weapon parts and the amount of materials you have placed. You need to choose a different part at every step. The increase in the material cost, compared to the amount of materials at hand, is displayed after each step. See the tables below for more information on specific parts and their availability in different ages.</li>
 <li>When you have finished choosing the parts, you can select whether you want to use a specific design for the weapon.</li>
 <li>Name the firearm to finish the assembly. The blueprint will also be named the same as the weapon.</li>
 </ul></td>
 </tr>
 <tr>
-<td><img src="assets/images/blueprint.png">
-<b>Blueprint</b></td>
+<td width="5%"><img src="assets/images/blueprint.png"></td>
+<td width="10%"><b>Blueprint</b></td>
 <td><b>Skill required: 2.5 + 50 gold coins (or equivalent)</b><br />
 A weapon blueprint is produced every time you design and assemble a firearm at the gunsmithing bench. A blueprint could be used to assemble the previously designed firearm by someone with the lower skill level.</td>
 </tr>
@@ -734,8 +759,7 @@ An arrow shaft is made with 1 wood log. Could be launched from a bow, but it is 
 <tbody>
 <tr>
 <td><img src="assets/images/arrow_shaft.png">
-<b>Arrow shaft</b></td>
-<td><img src="assets/images/arrow_fire.png">
+<b>Arrow shaft</b>&emsp;<img src="assets/images/arrow_fire.png">
 <b>Fire arrow</b></td>
 <td></td>
 </tr>
@@ -857,7 +881,9 @@ maximum weight it could carry.
 
 <b>Engine as a generator</b>
 
-To supply various devices with electricity, the engine has to be connected to them with wires (cables). See the **[Wiring](#Wiring "wikilink")** section for more details.
+To supply various devices with electricity, the engine has to be connected to them with wires (cables). See the **[Wiring](#wiring "wikilink")** section for more details.
+
+As a rule of thumb, an engine the size of 1000 cc should be adequate for an average settlement.
 
 #### Construction
 
@@ -892,7 +918,7 @@ ingots).
 Build both the furnace and the engine, and place them next to each other, in neighbouring tiles. Add fuel to the furnace and click the furnace to light the fire. Now click the steam engine to start it. As long as the furnace has fire burning and remains next to the engine, the engine will keep working.</td>
 </tr>
 <tr>
-<td><img src="assets/images/engine_hotbulb.png"></td>
+<td width="5%"><img src="assets/images/engine_hotbulb.png"></td>
 <td><b>Hot bulb engine</b></td>
 <td><b>Power:</b> 66</td>
 <td><b>Fuel:</b> oil, gasoline, diesel, biodiesel, ethanol, olive oil</td>
@@ -922,7 +948,7 @@ There are two kinds of refinery - petroleum and biofuel.
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/refinery.png"></td>
+<td width="5%"><img src="assets/images/refinery.png"></td>
 <td><b>Petroleum refinery</b></td>
 <td><b>Production rate:</b> every 10 units of raw petroleum => 8 units of gasoline or 7 units of diesel per 1 minute</td>
 <td>Made with 22 steel sheets. Used to distill crude oil into gasoline and diesel.</td>
@@ -937,7 +963,7 @@ There are two kinds of refinery - petroleum and biofuel.
 
 <b>Operation</b>
 
-  - Construct and **[wire](#Wiring "wikilink")** the refinery.
+  - Construct and **[wire](#wiring "wikilink")** the refinery.
   - Place an empty barrel inside the refinery.
   - Fill the refinery with the respective raw substance (maximum volume
     is 300 units).
@@ -954,17 +980,17 @@ There are two kinds of refinery - petroleum and biofuel.
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/bakelizer.png"></td><td>
+<td width="5%"><img src="assets/images/bakelizer.png"></td><td>
 <b>Bakelizer</b></td>
 <td><b>Production rate:</b> every 5 units of raw petroleum => 1 plastic sheet per 1 minute</td><td>
-Made with 18 steel sheets. Used to produce <a href="Full_Crafting_List#plastic">Plastic</a> from raw petroleum.</td>
+Made with 18 steel sheets. Used to produce <b><a href="Full_Crafting_List#plastic">Plastic</a></b> from raw petroleum.</td>
 </tr>
 </tbody>
 </table>
 
 <b>Operation</b>
 
-  - Construct and **[wire](#Wiring "wikilink")** the bakelizer.
+  - Construct and **[wire](#wiring "wikilink")** the bakelizer.
   - Fill the bakelizer with raw petroleum.
   - Click the bakelizer to start it.
   - Wait till the product is ready. You can examine the bakelizer to
@@ -987,38 +1013,31 @@ electrical cables.
 | <img src="assets/images/wiring1.png"> | <img src="assets/images/wiring2.png"> | <img src="assets/images/wiring3.png"> | <img src="assets/images/wiring4.png"> |
 | **1**                                                                           | **2**                                                                           | **3**                                                                           | **4**                                                                           |
 
-  -
-    1\. Make some cables with copper, 1 ingot per every 10 meters of
+1. Make some cables with copper, 1 ingot per every 10 meters of
     cable (1 m - 1 tile). Stand in one place to make the cable in a
     single coil, which could be up to 50 m in length.
 
-<!-- end list -->
-
-  -
-    2\. Lay the cable on the ground by clicking it in your active hand,
+2. Lay the cable on the ground by clicking it in your active hand,
     pressing Ctrl-Z or Z in the hotkeys mode.
-    :* **The cable is placed horizontally when you are facing West or
+    
+    - **The cable is placed horizontally when you are facing West or
     East, and vertically, if facing North or South. Cables that cross on
-    a single tile are automatically connected upon placement.</b>
-    :* If you are placing cables over some kind of floor, the cables
+    a single tile are automatically connected upon placement.**
+    
+    - If you are placing cables over some kind of floor, the cables
     are automatically placed under the floor tiles and concealed from
     view. You can make them visible by right-clicking the floor tile and
     selecting the "Under/over covers" command for the cable.
-    :* You can cut and remove cables with the knife.
+   
+    - You can cut and remove cables with the knife.
 
-<!-- end list -->
-
-  -
-    3\. Connect the machinery (you may need to secure it with the wrench
+3. Connect the machinery (you may need to secure it with the wrench
     first, in which case there will be a message). **Stand close to it
     and click it with the cable - you will see a message. Do not place
-    cables under the machinery beforehand, it will remain unconnected.</b>
+    cables under the machinery beforehand, it will remain unconnected.**
     Remember to place another wire at the tile you are standing on.
 
-<!-- end list -->
-
-  -
-    4\. Fire up the generator! Should a new piece of machinery be
+4. Fire up the generator! Should a new piece of machinery be
     connected to the existing network, the generator must be restarted
     to power the new element.
 
@@ -1136,7 +1155,7 @@ wrench to avoid pushing them on accident, but it is not necessary.</b>
     North to build tracks like those in the front, or South to build
     them like those in the back.
 
-4.  Construct an **[engine](#Engines "wikilink")** with a fuel tank.
+4.  Construct an **[engine](#engines "wikilink")** with a fuel tank.
 
       - It is important to make an engine of an appropriate size that
         produces enough power to carry a tank and its load. A weak
