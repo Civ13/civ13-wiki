@@ -29,7 +29,7 @@ P.S. 20 is a lie, it is 2**<u>.</u>**0
 | Strength     | - Melee damage<br />- Mining and woodcutting speed           | - Mining<br />- Woodcutting<br />- Melee fights              |
 | Crafting     | - Ability to craft certain items<br />- Ability to use certain workbenches<br />- Ability to create firearm blueprints<br />- Crafting speed<br />- Quality of produced weapons | - Crafting anything                                          |
 | Rifle        | - Chance to hit a target with a rifle                        | - Shooting targets with a rifle (not necessarily practice ones) |
-| Dexterity    | - Chance to dodge a melee attack                             | - Dodging melee attacks (see **[Combat](#combat "wikilink")** section)<br />- Melee fights |
+| Dexterity    | - Chance to dodge a melee attack<br />- Increases movement speed                             | - Dodging melee attacks (see **[Combat](#combat "wikilink")** section)<br />- Melee fights |
 | Swords       | - Damage when fighting with a sword                          | - Practicing sword fights with people and training dummies   |
 | Pistol       | - Chance to hit a target with a pistol                       | - Shooting targets with a pistol                             |
 | Bows         | - Chance to hit a target with a bow                          | - Pincushioning targets with arrows                          |
@@ -37,7 +37,7 @@ P.S. 20 is a lie, it is 2**<u>.</u>**0
 | Philosophy   | - Ability to found a religion<br />- Ability to write **[language books](#languages "wikilink")** | - Writing and reading scientific literature                  |
 | Machine gun  | - Chance to hit a target with a machine gun                  | - Pumping targets full of lead                               |
 | Farming      | - Ability to check plants' water level<br />- Ploughing speed | - Planting seeds<br />- Ploughing fields                     |
-| Throwing     |                                                              |                                                              |
+| Throwing     | - Chance to hit a target with throwing weapons                | - Throw weapons designed for throwing                                  |
 
 ## Traits
 
