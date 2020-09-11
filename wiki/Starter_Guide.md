@@ -34,13 +34,14 @@ Activate in hand to open the crafting menu.
 
 To survive, you will need to keep yourself nourished and warm.
 
+<img src="assets/images/hud_stomach.png"><br>
 Click your **Thirst** and **Hunger** **icon** on the right side (stomach icon) to
 know how you're doing.
 
 **Letting either hunger or thirst reach 0% will cause your body to start shutting down, leading to inevitable death!**
 
 Hunger and thirst affect your **movement speed**, **healing
-rates** and **mood**.
+rates** and **[mood](#mood "wikilink")**.
 
 Being slow makes you easy prey for predators, criminals, and
 cannibals. Malnourishment also makes it easier to catch **[diseases](Guide_to_Medical#diseases "wikilink")**.
@@ -127,15 +128,53 @@ you'll never go thirsty.
 
 #### Palm wine
 
-[Palm wine](Guide_to_Cooking#palm-wine "wikilink") could save your life in the desert areas. Follow the steps in the **[Guide to Cooking](Guide_to_Cooking "wikilink")** to make it (glass is made by firing dug sand piles in the campfire).
+**[Palm wine](Guide_to_Cooking#palm-wine "wikilink")** could save your life in the desert areas. Follow the steps in the **[Guide to Cooking](Guide_to_Cooking "wikilink")** to make it (glass is made by firing dug sand piles in the campfire).
+
+### Mood
+
+<img src="assets/images/hud_mood.png"><br>
+Click this icon to see your current mood and **[hygiene](Guide_to_Hygiene "wikilink")** levels. When you need to go to the toilet, it will also tell you how exactly you need to... relieve yourself.
+
+Are you constantly feeling depressed? Getting weird audio randomly out
+of nowhere? Well, then you've got a shit mood! Here are the ways
+to increase your mood:
+
+1.  Drugs, such as cocaine and opium. Smoking tobacco as well.
+2.  Good **[complex foods](Guide_to_Cooking "wikilink")** like boiled rice, roasted meat steak, noodles,
+    sandwiches, etc.
+3.  Alcohol, like vodka and sake.
+
+Things that can decrease mood:
+
+1.  Other people's stench (when they have a cloud of filth around them,
+    they decrease your mood and you get a message that they smell).
+2.  Your own stench.
+3.  Your own low **hygiene**.
+4.  Killing others (drastically decreases mood, especially cutting someone's head off).
+5.  Eyeing delimbed body parts and gore.
+
+**Seeing too much of extreme gore will result in developing PTSD, which is incurable!** After a while, you will start hallucinating and having catatonic breakdowns. Antidepressants and drugs will temporarily block these effects.
+
+Now you know how to manage your mood with these not so effective up
+keeps! But did you know mood affects more than you thought? Mood can
+affect your max **[skill stats](Guide_to_Character#skills "wikilink")**. If you're feeling great, you can
+have 2.875 as a stat cap. When your mood is shit, it can only be 2.0 (it
+will appear as 20x, but it's actually 2.0x) So your mood can actually
+affect your ability to do things and speed of doing things greatly, and
+thus does matter, especially in combat situations.
 
 ### Temperature
 
-**Keep an eye out on your temperature icon. If it's flashing blue with a**
-**white snowflake, you're freezing up!**
+<img src="assets/images/hud_temperature.png"><br>
+**Keep an eye out on your temperature icon!** 
 
-Winter seasons can bring an icy chill that can seriously hurt and slow
-you down, or even kill you. Blizzards are especially deadly, and just wearing a fur coat will not cut it, so make sure you have a shelter ready before it is too late.
+**If it is flashing blue with a white snowflake, you are freezing up!**
+
+**If it is red and there is sun instead, you are melting from heat!**
+
+Winter seasons can bring an icy chill that can seriously hurt and slow you down, or even kill you. Blizzards are especially deadly, and just wearing a fur coat will not cut it, so make sure you have a shelter ready before it is too late.
+
+Southern climates could be merciless in their own way, so be careful that you do not overheat to the point of a heat stroke. Resting in a roofed shelter from time to time and wearing appropriate clothing (for instance, "traditional" desert clothes) can save you from fainting and shrivelling in a sweltering heat.
 
 #### Fur Clothing
 
@@ -157,7 +196,7 @@ Any roofed area is considered a shelter.
 
   - **Caves**: There's a reason that stone-age men were called cavemen.
     Look for entrances in rocks. If it has a roof, it will be darker
-    inside. That means it will keep snow, cold, and rain out. The
+    inside. That means it will keep snow, cold, blazing sun and rain out. The
     easiest way of surviving inclement weather. <sub>Make sure that no
     bears live in the cave, though...</sub>
   - **Tunnels / "Mines"**: You can dig into the underground for
@@ -216,3 +255,14 @@ Torches will last for **5 minutes** and then burn out.
 For a more **permanent** light source, you can build **braziers** from
 **stone**. You can fuel it with any organic matter like wood or
 clothing, simply use items on the brazier on **help intent**.
+
+## Additional info
+### Status tab
+The Status tab has some general info about the ongoing round, both OOC and IC, namely:
+- number of players
+- round duration
+- current map
+- current mode (usually states **[research](Civilizations_and_Nomads#research "wikilink")** mode)
+- current epoch
+- current wind (important if you are sailing)
+- time of day

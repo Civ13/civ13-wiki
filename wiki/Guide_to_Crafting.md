@@ -64,8 +64,9 @@ Crafting anything increases your crafting skill which is displayed on
 the Character tab. Some recipes and workbenches require a certain level
 of the crafting skill, the former to craft an item and the latter to use
 them. For example, building a well or a wall requires the skill at the
-1.1 mark, while using an anvil requires 1.7. See the **[Full Crafting List](Full_Crafting_List "wikilink")** for the skill requirements for a
-given recipe.
+1.1 mark, while using an anvil requires 1.7. 
+
+See this **[table](Crafting_Skill_Level_Requirements "wikilink")** for more info on skill requirements.
 
 ### Crafting differences between gamemodes
 
@@ -873,7 +874,7 @@ taken into account:
 
   - **Power per 1 litre (1000 cm<sup>3</sup>)** - the power produced by
     a given type of engine per every 1000 cc of its size. This is the
-    meaning behind the number in an engine's description. **For the game mechanic purposes, the value of the engine power is doubled when an engine is installed on a modular vehicle.**
+    meaning behind the number in an engine's description in the list below. **For the game mechanic purposes, the value of the engine power is doubled when an engine is installed on a modular vehicle.**
 
 The power affects how many pieces of machinery could be powered by an
 engine if used as a generator, or, if used as a vehicle engine, the
@@ -1043,6 +1044,47 @@ electrical cables.
 
 ## Vehicles
 
+### Motorcycles
+
+<hr>
+
+It is 1903, eh? You got gas, a refinery, even gas pumps, but no vehicles?
+Well, you are in luck, now you will learn you all the inner workings
+of creating your very own motorcycle! Just set aside a bunch of steel and follow the steps below.
+
+|                                           |                                           |                                           |                                           |                                           |
+| ----------------------------------------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
+| <img src="assets/images/motorcycle1.png"> | <img src="assets/images/motorcycle2.png"> | <img src="assets/images/motorcycle3.png"> | <img src="assets/images/motorcycle4.png"> | <img src="assets/images/motorcycle5.png"> |
+| **1**                                     | **2**                                     | **3**                                     | **4**                                     | **5**                                     |
+
+
+1.  Build a **motorcycle frame** with 12 steel sheets ("vehicle parts" category). Choose name and colour for the bike (you may like #5C573D - "#" is
+    not required).
+2.  Next, you need to build an **[engine](#engines "wikilink")**. Make an engine that is 125 cc **at most**. Only 125 cc or lower can be put into a bike, otherwise
+    it will not fit. Choose from 2- and 4-stroke engines, all others are too large.
+3.  Now you need to slap whatever engine you made into that sweet sweet
+    frame of the bike. Simply click the engine icon and drag it onto the bike.
+4.  All that is left then to add is a **fuel tank**. You can build one with
+    steel sheets ("fuel tanks" category). You have 3 choices. 75 u bike
+    tank is the biggest. Build bike tanks, fuel tanks will not fit.
+    Then take the bike tank and click on the bike to install that
+    baby.
+5.  Now you have successfully made a motorcycle. What you named it? No one
+    cares. Who you made it for? No one cares, they will likely steal it
+    anyway. However, you are the man with the fuel (hopefully)! Hop on and ride!
+
+#### Motorcycle operation
+
+Bikes have 4 speeds. Stopped (neutral), 1st
+gear (moving slowly), 2nd gear (moving faster than the 1st), and 3rd
+gear (fastest - you crash on this speed, you are sure to break something). 
+
+Mount your bike by click-dragging your icon onto the bike. You can get off by clicking on the bike with the
+handle bars in hand (this also shuts off the bike. Two clicks - shut off
+the bike, then another on to get off).You **turn on/increase speed of the
+bike by pressing Z**. You can **stop/decrease speed by pressing C**.
+Drive safe out there!
+
 ### Modular ships
 
 <hr>
@@ -1051,7 +1093,7 @@ Rafts and outriggers do not befit a true naval power, so when your
 nation has its eye on distant shores, it may be just the time to open
 shipyards and commission a man-of-war or two.
 
-<b>Shipyard considerations</b>
+<b>Shipyard considerations</b><br>
 While selecting a place for shipbuilding, keep in mind the following:
 
   - The maximum size of a ship is 5x5 tiles. Larger ones will not
@@ -1073,7 +1115,7 @@ While selecting a place for shipbuilding, keep in mind the following:
 
 **You can fix the walls and frames and the mast in place with the wrench to avoid pushing them on accident, but it is not necessary.**
 
-1.  Build a wood ship frame with wood logs. The frame on the picture is 5x3 tiles.
+1.  Build a **wood ship frame** with wood logs. The frame on the picture is 5x3 tiles.
 2.  Click ship frame tiles with wood logs to place walls and windows. Enter the desired thickness for every wall in millimeters.
 
       - **Wall (W)** - just a wooden impassable wall. Examples of walls
@@ -1087,7 +1129,7 @@ While selecting a place for shipbuilding, keep in mind the following:
       - **Window (Wi)** - just a cosmetic option. On the picture, there
         is a single window at the bow and three at the stern.
 
-3.  Build a ship rudder control and a mast (one is enough for now) with
+3.  Build a **ship rudder control** and a **ship mast** (one is enough for now) with
     wood logs. Their location is not important. **Make a small sail with 15 lengths of cloth and place it on the mast.**
       - The mast is actually larger than 1 tile, so its positioning is a
         bit quirky. See the picture below - this is how the mast is
@@ -1116,6 +1158,8 @@ While selecting a place for shipbuilding, keep in mind the following:
 </table>
 
 ### Modular tanks
+
+<hr>
 
 Indispensable political instruments in later ages, perfectly suited for
 settling disputes and establishing accord on all fronts.
