@@ -24,46 +24,46 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 
 <div style="padding: 1em;"><div style="width: 100%;align-content:center">
 <li class="mainmenu-line"> <a href="New_Player_Guide" title="How to Play"><img src="assets/images/icons/computer.png" width="100" height="100" ></a><br><a href="New_Player_Guide" title="How to Play"><b>How to Play</b></a> </li>
-
-<li class="mainmenu-line"> <a href="Starter_Guide" title="Starter Guide"><img src="assets/images/icons/student.png" width="100" height="100" ></a><br><a href="Starter_Guide" title="Starter Guide"><b>Starter Guide</b></a> </li>
+  
+<li class="mainmenu-line"> <a href="Rules" title="Rules"><img src="assets/images/icons/police.png" width="100" height="100" ></a><br><a href="Rules" title="Rules"><b>Rules</b></a> </li>
 
 <li class="mainmenu-line"> <a href="Civilizations_and_Nomads" title="Civilizations and Nomads"><img src="assets/images/icons/conference.png" width="100" height="100" ></a><br><a href="Civilizations_and_Nomads" title="Civilizations and Nomads"><b>Nomads</b></a> </li>
 
+<li class="mainmenu-line"> <a href="Starter_Guide" title="Starter Guide"><img src="assets/images/icons/student.png" width="100" height="100" ></a><br><a href="Starter_Guide" title="Starter Guide"><b>Starter Guide</b></a> </li>
+
+<li class="mainmenu-line"> <a href="Guide_to_Character" title="Character"><img src="assets/images/icons/wiring.png" width="100" height="100" ></a><br><a href="Guide_to_Character" title="Guide to Character"><b>Character</b></a> </li>
+
+<li class="mainmenu-line"> <a href="Guide_to_Races" title="Races"><img src="assets/images/icons/animal.png" width="100" height="100" ></a><br><a href="Guide_to_Races" title="Guide to Races"><b>Races</b></a> </li>
+
+<li class="mainmenu-line"> <a href="Guide_to_Hygiene" title="Hygiene"><img src="assets/images/icons/hygiene.png" width="100" height="100" ></a><br><a href="Guide_to_Hygiene" title="Guide to Hygiene"><b>Hygiene</b></a> </li>
+
 <li class="mainmenu-line"> <a href="Guide_to_Crafting" title="Crafting"><img src="assets/images/icons/crafting.png" width="100" height="100" ></a><br><a href="Guide_to_Crafting" title="Guide to Crafting"><b>Crafting</b></a> </li>
 
+<li class="mainmenu-line"> <a href="Full_Crafting_List" title="Full Crafting List"><img src="assets/images/icons/modern_architecture.png" width="100" height="100" ></a><br><a href="Full_Crafting_List" title="Full Crafting List"><b>Crafting List</b></a> </li>
+
 <li class="mainmenu-line"> <a href="Guide_to_Construction" title="Construction"><img src="assets/images/icons/architecture.png" width="100" height="100" ></a><br><a href="Guide_to_Construction" title="Guide to Construction"><b>Construction</b></a> </li>
+
+<li class="mainmenu-line"> <a href="Guide_to_Communications" title="Communications"><img src="assets/images/icons/talk.png" width="100" height="100" ></a><br><a href="Guide_to_Communications" title="Guide to Communications"><b>Communications</b></a> </li>
 
 <li class="mainmenu-line"> <a href="Guide_to_Farming" title="Guide to Farming"><img src="assets/images/icons/farming.png" width="100" height="100" ></a><br><a href="Guide_to_Farming" title="Guide to Farming"><b>Farming</b></a> </li>
 
 <li class="mainmenu-line"> <a href="Guide_to_Ranching" title="Ranching"><img src="assets/images/icons/ranching.png" width="100" height="100" ></a><br><a href="Guide_to_Ranching" title="Guide to Ranching"><b>Ranching</b></a> </li>
 
-<li class="mainmenu-line"> <a href="Guide_to_Religion" title="Religion"><img src="assets/images/icons/religion.png" width="100" height="100" ></a><br><a href="Guide_to_Religion" title="Guide to Religion"><b>Religion</b></a> </li>
-
 <li class="mainmenu-line"> <a href="Guide_to_Cooking" title="Cooking"><img src="assets/images/icons/cooking.png" width="100" height="100" ></a><br><a href="Guide_to_Cooking" title="Guide to Cooking"><b>Cooking</b></a> </li>
-
-<li class="mainmenu-line"> <a href="Guide_to_Chemistry" title="Chemistry"><img src="assets/images/icons/chemistry.png" width="100" height="100" ></a><br><a href="Guide_to_Chemistry" title="Guide to Chemistry"><b>Chemistry</b></a> </li>
-
-<li class="mainmenu-line"> <a href="Guide_to_Hygiene_and_Mood" title="Hygiene and Mood"><img src="assets/images/icons/hygiene.png" width="100" height="100" ></a><br><a href="Guide_to_Hygiene_and_Mood" title="Guide to Hygiene and Mood"><b>Hygiene</b></a> </li>
-
-<li class="mainmenu-line"> <a href="Guide_to_Races" title="Races"><img src="assets/images/icons/animal.png" width="100" height="100" ></a><br><a href="Guide_to_Races" title="Guide to Races"><b>Races</b></a> </li>
 
 <li class="mainmenu-line"> <a href="Guide_to_Medical" title="Medical"><img src="assets/images/icons/medic.png" width="100" height="100" ></a><br><a href="Guide_to_Medical" title="Guide to Medical"><b>Medical</b></a> </li>
 
-<li class="mainmenu-line"> <a href="Guide_to_Weapons" title="Weapons"><img src="assets/images/icons/weapons.png" width="100" height="100" ></a><br><a href="Guide_to_Weapons" title="Guide to Weapons"><b>Weapons</b></a> </li>
-
-<li class="mainmenu-line"> <a href="Guide_to_Wiring" title="Wiring"><img src="assets/images/icons/wiring.png" width="100" height="100" ></a><br><a href="Guide_to_Wiring" title="Guide to Wiring"><b>Wiring</b></a> </li>
-
-<li class="mainmenu-line"> <a href="Guide_to_Communications" title="Communications"><img src="assets/images/icons/talk.png" width="100" height="100" ></a><br><a href="Guide_to_Communications" title="Guide to Communications"><b>Communications</b></a> </li>
-
-<li class="mainmenu-line"> <a href="Guide_to_Paperwork" title="Paperwork"><img src="assets/images/icons/renaissance.png" width="100" height="100" ></a><br><a href="Guide_to_Paperwork" title="Guide to Paperwork"><b>Paperwork</b></a> </li>
+<li class="mainmenu-line"> <a href="Guide_to_Chemistry" title="Chemistry"><img src="assets/images/icons/chemistry.png" width="100" height="100" ></a><br><a href="Guide_to_Chemistry" title="Guide to Chemistry"><b>Chemistry</b></a> </li>
 
 <li class="mainmenu-line"> <a href="Guide_to_Radiation" title="Radiation"><img src="assets/images/icons/nurse.png" width="100" height="100" ></a><br><a href="Guide_to_Radiation" title="Guide to Radiation"><b>Radiation</b></a> </li>
 
+<li class="mainmenu-line"> <a href="Guide_to_Religion" title="Religion"><img src="assets/images/icons/religion.png" width="100" height="100" ></a><br><a href="Guide_to_Religion" title="Guide to Religion"><b>Religion</b></a> </li>
+
+<li class="mainmenu-line"> <a href="Guide_to_Paperwork" title="Paperwork"><img src="assets/images/icons/renaissance.png" width="100" height="100" ></a><br><a href="Guide_to_Paperwork" title="Guide to Paperwork"><b>Paperwork</b></a> </li>
+
+<li class="mainmenu-line"> <a href="Guide_to_Weapons" title="Weapons"><img src="assets/images/icons/weapons.png" width="100" height="100" ></a><br><a href="Guide_to_Weapons" title="Guide to Weapons"><b>Weapons</b></a> </li>
+
 <li class="mainmenu-line"> <a href="Guide_to_Tanks" title="Tanks"><img src="assets/images/icons/driver.png" width="100" height="100" ></a><br><a href="Guide_to_Tanks" title="Guide to Tanks"><b>Tanks</b></a> </li>
-
-<li class="mainmenu-line"> <a href="Full_Crafting_List" title="Full Crafting List"><img src="assets/images/icons/modern_architecture.png" width="100" height="100" ></a><br><a href="Full_Crafting_List" title="Full Crafting List"><b>Crafting List</b></a> </li>
-
-<li class="mainmenu-line"> <a href="Rules" title="Rules"><img src="assets/images/icons/police.png" width="100" height="100" ></a><br><a href="Rules" title="Rules"><b>Rules</b></a> </li>
 </div></div></div>
 
 <div style="box-shadow: 0 0 .3em #999; border-radius: .2em; margin: 1em 0 2em 0; padding: 1px;">
@@ -84,6 +84,8 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 <img src="assets/images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="Nomads_Maps">Nomads Maps</a><br>
 
 <img src="assets/images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="The_Art_of_the_Deal">Art of the Deal</a><br>
+
+<img src="assets/images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="Wasteland">Wasteland</a><br>
 
 <img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Alleyway">Alleyway</a><br>
 

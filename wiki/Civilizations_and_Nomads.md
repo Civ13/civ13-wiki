@@ -40,6 +40,7 @@ Maps without a set goal:
 There are also other modes and maps which are, effectively, a mix of the previous two modes, with a number of extra features. Currently it includes:
 
 - **[Tribes](Tribes "wikilink")** - a fantasy mode with several different races (chosen randomly upon spawning), each forming a preset faction.
+- Wasteland (2013) - survive in a post-apocalyptic environment (two variations - zombies and nuclear apocalypse).
 
 ## Becoming Civilized
 
