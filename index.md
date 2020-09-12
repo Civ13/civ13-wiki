@@ -31,7 +31,7 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 
 <li class="mainmenu-line"> <a href="Starter_Guide" title="Starter Guide"><img src="assets/images/icons/student.png" width="100" height="100" ></a><br><a href="Starter_Guide" title="Starter Guide"><b>Starter Guide</b></a> </li>
 
-<li class="mainmenu-line"> <a href="Guide_to_Character" title="Character"><img src="assets/images/icons/wiring.png" width="100" height="100" ></a><br><a href="Guide_to_Character" title="Guide to Character"><b>Character</b></a> </li>
+<li class="mainmenu-line"> <a href="Guide_to_Character" title="Character"><img src="assets/images/icons/character.png" width="100" height="100" ></a><br><a href="Guide_to_Character" title="Guide to Character"><b>Character</b></a> </li>
 
 <li class="mainmenu-line"> <a href="Guide_to_Races" title="Races"><img src="assets/images/icons/animal.png" width="100" height="100" ></a><br><a href="Guide_to_Races" title="Guide to Races"><b>Races</b></a> </li>
 
@@ -63,7 +63,7 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 
 <li class="mainmenu-line"> <a href="Guide_to_Weapons" title="Weapons"><img src="assets/images/icons/weapons.png" width="100" height="100" ></a><br><a href="Guide_to_Weapons" title="Guide to Weapons"><b>Weapons</b></a> </li>
 
-<li class="mainmenu-line"> <a href="Guide_to_Tanks" title="Tanks"><img src="assets/images/icons/driver.png" width="100" height="100" ></a><br><a href="Guide_to_Tanks" title="Guide to Tanks"><b>Tanks</b></a> </li>
+<li class="mainmenu-line"> <a href="Guide_to_Tanks" title="Tanks"><img src="assets/images/icons/tank.png" width="100" height="100" ></a><br><a href="Guide_to_Tanks" title="Guide to Tanks"><b>Tanks</b></a> </li>
 </div></div></div>
 
 <div style="box-shadow: 0 0 .3em #999; border-radius: .2em; margin: 1em 0 2em 0; padding: 1px;">
