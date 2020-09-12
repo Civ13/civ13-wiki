@@ -2,14 +2,13 @@
 
 In this guide you will learn how not to be a filthy disgusting unga that
 is so depressed he's considering drowning himself in his own urine as a
-way of suicide. In other words, someone who will not be hated by literally
+way of suicide. In other words, someone who won't be hated by literally
 everyone around them. Wow! Rare indeed.
 
-So, you are a bit stinky and need a good wash. There are currently two
-ways you are able to wash yourself. 1. is a bucket of clean water (pots
-and barrels work too). 2. is a shower.
+So, you're a bit stinky and need a good wash. There are currently three ways you are able to wash yourself: 1. is a bucket of clean water (pots
+and barrels work too); 2. is a shower; 3. is a bath.
 
-**Washing your stinky ass self:**
+**Washing your stinky ass self with a bucket:**
 
 1.  Fill a bucket with at least 30 units of clean water, either from a
     well, or boiled in a pot from a puddle or river.
@@ -17,49 +16,59 @@ and barrels work too). 2. is a shower.
     who sees your Johnson. In other words, be naked.
 3.  Target the chest area while on harm intent, and click yourself.
 4.  This washes you, which should raise your hygiene enough so you're
-    not stinky with a cloud of filth and smell around you. However it
-    can dissipate fairly fast, so wash yourself a few times (Usually 3
+    not stinky with a cloud of filth and smell around you. However, it
+    can dissipate fairly fast, so wash yourself a few times (usually 3
     is just fine) and it should last a bit.
 
-**Crafting a Shower:**
+**Crafting a shower:**
 
 <img src="assets/images/shower.png"><br>
-1.  With a stack of ten glass in hand, press Z.
-2.  Select the Shower option. Mind that the shower will be built BEHIND
-    you, so if you want it on a wall, turn your back to it.
+1.  With a stack of 10 Glass in hand, press Z.
+2.  Select the shower option. **Mind that the shower will be built BEHIND you, so if you want it on a wall, turn your back to it.**
 3.  An advanced washing apparatus is ready for your use.
 
 **Washing yourself with a shower:**
 
-1.  Be naked
-2.  Turn it on
-3.  Stand under it for a few seconds
-4.  Your stinky cloud should disappear. Sitting under it until it's
+1.  Be naked.
+2.  Turn it on.
+3.  Stand under it for a few seconds.
+4.  Your stinky cloud should disappear. Sit under it until it's
     steamy, then it's equivalent to washing yourself a few times with a
     bucket.
 
 Congrats! You're no longer stinky.
 
+**Crafting a bath:**
+
+Baths are made with different materials in different epochs (check **[Full Crafting List](Full_Crafting_List "wikilink")**, look for "bath"). Public baths are just larger versions of regular ones.
+
+**Washing yourself in a bath:**
+
+1.  Be naked.
+2.  Click the bath so there is water.
+3.  Step inside the bath and stay there for a couple of seconds (buckling for extra immersion is optional).
+4.  How clean you get depends on the kind of bath. Baths out of more advanced materials are better at cleaning. The order of the "bathing power", increasing: wood, stone, copper, bronze, steel, ~~industrial acidic bath~~.
+
 ## Using the washroom
 
 So, you're an unga who's about to shit him or herself. Well, the steps
 to prevent doo doo in your pantsu are very simple. There are 3 types of
-toilets/latrines you can use. 1. the Pit Latrine dug with a shovel, 2.
-an Outhouse made from wood or 3. a Toilet made from glass (make sure the
+toilets/latrines you can use. 1. the **pit latrine** dug with a shovel, 2.
+an **outhouse** made from wood or 3. a **toilet** made from glass (make sure the
 lid is open).
 
 **Digging a Latrine:**
 
 <img src="assets/images/pit_latrine.png"><br>
-1.  Have a Shovel and Press Z to open the menu and select "Pit Latrine"
-    Out of the three options.
-2.  Stand over said Pit Latrine and use the Pee and Poop emotes (Emote tab, or type *pee and *poop in chat).
-3.  Leave with your dignity having not shit yourself (make sure its an
-    outhouse not just open space, privacy is needed).
+1.  Have a shovel and press Z to open the menu and select "Pit Latrine"
+    out of the three options.
+2.  Stand over said pit latrine and use the **pee** and **poop** emotes (Emote tab, or type *pee and *poop in chat).
+3.  Leave with your dignity, having not shit yourself (make sure it's an
+    outhouse, not just open space, privacy is needed).
     
 A pit latrine could be removed by filling it with 4 dirt piles.
 
-**Building an Outhouse:**
+**Building an outhouse:**
 
 <img src="assets/images/outhouse.png"><br>
 1.  With a stack of at least 35 Wood in hand, press Z.
@@ -69,7 +78,7 @@ A pit latrine could be removed by filling it with 4 dirt piles.
 
 An outhouse could be deconstructed with the hammer.
 
-**Crafting a Toilet:**
+**Crafting a toilet:**
 
 <img src="assets/images/toilet.png"><br>
 1.  With a stack of Glass in hand, press Z.

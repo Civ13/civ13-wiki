@@ -88,3 +88,7 @@ Click the icon to switch or use the N hotkey in the hotkeys mode.
 **Jump** - when the enemy thinks you are cornered (maximum jumping distance is 2 tiles).
 
 These are tied to the middle mouse button. Could be switched with the U hotkey in the hotkeys mode.
+
+### Pulling punches
+
+Allows sparring without beating each other to a bloody pulp. On the IC tab, click "Pulling punches" - now you will not harm an opponent when attacking them **unarmed**. Click again to stop pulling punches.
