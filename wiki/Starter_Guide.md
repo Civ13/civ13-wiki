@@ -152,6 +152,7 @@ Things that can decrease mood:
 3.  Your own low **hygiene**.
 4.  Killing others (drastically decreases mood, especially cutting someone's head off).
 5.  Eyeing delimbed body parts and gore.
+6.  Mood also slowly decreases on its own.
 
 **Seeing too much of extreme gore will result in developing PTSD, which is incurable!** After a while, you will start hallucinating and having catatonic breakdowns. Antidepressants and drugs will temporarily block these effects.
 
