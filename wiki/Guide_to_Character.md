@@ -20,7 +20,7 @@ Go the Character tab on the right panel. There you will see various info about y
 
 The "standard" maximum level of a skill is 2.5, but it may be higher with the excellent **[mood](Starter_Guide#mood "wikilink")** bonus and additional **[trait](#traits "wikilink")** bonuses (for instance, excellent mood and the Gigantism trait provide strength of 4.3125). On the contrary, **bad mood decreases skill levels (for instance, with the horrible mood 2.5 becomes 2.0).**
 
-Skills are trained by various activities and by reading **scientific literature** on respective subjects (skill books - slates, scrolls and books, depending on the epoch). The literature written by a character with a higher skill level grants a larger skill boost to the reader.
+Skills are trained by various activities and by reading **scientific literature** on respective subjects (skill books - slates, scrolls and books, depending on the epoch). The literature written by a character with a higher skill level grants a larger skill boost to the reader. **You can only read literature written by others, not by yourself!**
 
 P.S. 20 is a lie, it is 2**<u>.</u>**0
 

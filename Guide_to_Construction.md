@@ -701,8 +701,7 @@ if there is a suitable support nearby.
 
 **To deconstruct a roof, click it with the hammer.** Either stand
 outside the roof, so you can see it, or hold Alt and click the tile with
-the roof. An additional "Turf" tab will appear in the upper right corner
-- click the roof there with the hammer in the active hand.
+the roof. An additional "Turf" tab will appear in the upper right corner - click the roof there with the hammer in the active hand.
 
 **If roof supports are removed with the roof still present, the roof
 will collapse! Collapsing roof may severely injure and even kill those
@@ -770,7 +769,7 @@ underground. **Floors can be removed with the hammer.**
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/floor_cover.png"></td>
+<td width="5%"><img src="assets/images/floor_cover.png"></td>
 <td><b>Floor cover</b></td>
 <td>Made with 2 wood logs. The simplest type of floor, consisting of a few planks fastened together. Could be placed over a trench to make a bridge, or over a hole in the floor or ground to cover it (the latter concerns a couple of the TDM maps.)</td>
 </tr>
@@ -1114,9 +1113,8 @@ finish it.
 
 **Rock** - crafted with 3 stone.
 
-**Sandbag** - make empty sandbags with
-**[Cloth](Full_Crafting_List#cloth "wikilink")** and fill them with sand
-piles, then build the barricade like a dirt/snow one.
+**Sandbag** - make sandbags with
+**[Cloth](Full_Crafting_List#cloth "wikilink")**, then build the barricade like a dirt/snow one.
 
 **All barricades could be dismantled by clicking them with an empty
 hand.**

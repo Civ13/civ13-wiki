@@ -101,7 +101,7 @@ Pioneers, only the Blacksmith can use the anvil.
 <tr>
 <td><img src="assets/images/e.png"> <img src="assets/images/bronze_knife.png"> <img src="assets/images/steel_knife.png"></td>
 <td><b>Knife</b></td>
-<td>Made with either 4 bone pieces or 1 unit of manifold materials: stone, copper, bronze, iron, steel, tin, even gold, silver and diamonds. Used to cut trees, skin animals and stab enemies in a desperate situation. Used to cut wires and cut down curtains as well. The bone knife (the top one) is also a surgical tool in the earliest epochs, but for that refer to <a href="Guide_to_Medical#surgery">Surgery</a>. And check the <a href="Guide_to_Cooking">Guide to Cooking</a> for more culinary uses of the knife.</td>
+<td>Made with either 4 bone pieces or 1 unit of manifold materials: stone, copper, bronze, iron, steel, tin, even gold, silver and diamonds. Used to cut trees, skin animals and stab enemies in a desperate situation. Used to cut wires and cut down curtains as well. The bone knife (the top one) is also a surgical tool in the earliest epochs, but for that refer to <b><a href="Guide_to_Medical#surgery">Surgery</a></b>. And check the <b><a href="Guide_to_Cooking#kitchen-implements">Guide to Cooking</a></b> for more culinary uses of the knife.</td>
 </tr>
 <tr>
 <td><img src="assets/images/bone_hatchet.png"> <img src="assets/images/hatchet.png"></td>
@@ -111,7 +111,7 @@ Pioneers, only the Blacksmith can use the anvil.
 <tr>
 <td><img src="assets/images/hammer.png"> <img src="assets/images/clawhammer.png"></td>
 <td><b>Hammer</b></td>
-<td>Made with 5 wood logs. Used to deconstruct floors, fences, beds, chairs, tables, braziers, wooden roof supports and many other things - click something with a hammer to see whether it could be deconstructed. Also used to fix and unfix custom signs, paintings and mirrors in place. A clawhammer (the right one) is made with 3 iron ingots and functions as a modern and quicker variant of the hammer.</td>
+<td>Made with 5 wood logs. Used to deconstruct floors, fences, beds, chairs, tables, braziers, wooden roof supports and many other things - click something with a hammer to see whether it could be deconstructed. Also used to fix and unfix custom signs, paintings and mirrors in place. A clawhammer (the bottom one) is made with 3 iron ingots and functions as a modern and quicker variant of the hammer. Also, do not be surprised if you see your local <b><a href="Guide_to_Cooking#kitchen-implements">chef</a></b> brandishing one.</td>
 </tr>
 <tr>
 <td><img src="assets/images/bone_shovel.png"> <img src="assets/images/shovel.png"></td>
@@ -327,7 +327,7 @@ holding a hammer in the other hand.
 <td><b>Saltpeter</b></td>
 <td><b>Sulphur</b></td>
 <td><b>Diamonds</b></td>
-<td><b>Obsidian*</b></td>
+<td><b><a href="Full_Crafting_List#obsidian">Obsidian*</a></b></td>
 </tr>
 </tbody>
 </table>
