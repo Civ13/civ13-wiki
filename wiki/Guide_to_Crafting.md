@@ -17,23 +17,30 @@ machinery and vehicles.
 
 **Be sure to consult the following pages:**
 
-  - **[Full Crafting List](Full_Crafting_List "wikilink")** - contains
+  - **[Full Crafting List](Full_Crafting_List)** - contains
     the list of materials and detailed crafting recipes for most of the
     craftable items, save for those that require specific machinery or a
     workbench, such as anvil, bakelizer, gunsmithing bench etc.
 
-  - **[Guide to Farming](Guide_to_Farming "wikilink")** - includes the
+  - **[Guide to Farming](Guide_to_Farming)** - includes the
     list of the agricultural produce, of which
-    **[cotton](Full_Crafting_List#cloth "wikilink")**,
-    **[trees](Full_Crafting_List#wood "wikilink")**, and
-    **[hemp](Full_Crafting_List#rope "wikilink")** are of particular
+    **[cotton](Full_Crafting_List#cloth)**,
+    **[trees](Full_Crafting_List#wood)**, and
+    **[hemp](Full_Crafting_List#rope)** are of particular
     importance for crafting.
 
-  - **[Guide to Ranching](Guide_to_Ranching "wikilink")** - includes the
+  - **[Guide to Ranching](Guide_to_Ranching)** - includes the
     list of animals, many of which provide various materials for
     crafting.
     
-   - **[Guide to Construction](Guide_to_Construction "wikilink")** - details on constructing walls, floors, doors etc.
+   - **[Guide to Construction](Guide_to_Construction)** - details on constructing walls, floors, doors etc.
+
+**Quick links:**
+
+- **[Mining](#mining)**
+- **Making swords and pre-1903 firearms** - **[Anvil](#anvil)**
+- **Making armor** - **[Armorsmithing bench](#armorsmithing-bench)**, **[Specialist armor bench](#specialist-armor-bench)**
+- **Making guns starting from 1903** - **[Gunsmithing bench](#gunsmithing-bench)**
 
 ## Basics
 
@@ -44,7 +51,7 @@ machinery and vehicles.
 This will bring up the crafting menu for a given material - a list of
 recipes for the items that can be made with this material at the present
 moment. **Many recipes require a certain research level, otherwise they
-will not be available!** Check the **[Full Crafting List](Full_Crafting_List "wikilink")** for an item's research requirements. If you belong to a faction, you can see the current
+will not be available!** Check the **[Full Crafting List](Full_Crafting_List)** for an item's research requirements. If you belong to a faction, you can see the current
 research levels on the Character tab. If you are not a part of a
 faction, checking the current epoch on the Status tab will give you a
 general idea about the available recipes.
@@ -66,7 +73,7 @@ of the crafting skill, the former to craft an item and the latter to use
 them. For example, building a well or a wall requires the skill at the
 1.1 mark, while using an anvil requires 1.7. 
 
-See this **[table](Crafting_Skill_Level_Requirements "wikilink")** for more info on skill requirements.
+See this **[table](Crafting_Skill_Level_Requirements)** for more info on skill requirements.
 
 ### Crafting differences between gamemodes
 
@@ -76,7 +83,7 @@ locked, and the list of available recipes does not change, thus only
 Humans and Orcs can make and use the anvil.
 
 Certain crafting options may also be restricted to certain professions.
-For example, in the RP maps like **[Colony](Colony "wikilink")** and
+For example, in the RP maps like **[Colony](Colony)** and
 Pioneers, only the Blacksmith can use the anvil.
 
 ## Tools
@@ -160,14 +167,14 @@ so many resources ripe for the taking, processing and exploiting. Ah,
 sweet industry!
 
 If there are any recipes associated with a given material, the material
-name has a link - click it to see the recipes list in the **[Full Crafting List](Full_Crafting_List "wikilink")**. If there is no such
+name has a link - click it to see the recipes list in the **[Full Crafting List](Full_Crafting_List)**. If there is no such
 link, it means the material does not have a crafting menu of its own,
 but it is still used as a component in some other area of crafting.
 
 ### Wood
 
 There are two main ways to obtain
-**[Wood](Full_Crafting_List#wood "wikilink")** for crafting:
+**[Wood](Full_Crafting_List#wood)** for crafting:
 
   - **Cut down trees in the wilderness** - preferably, a hatchet should
     be used, but a knife works too, although it will take around 15-20
@@ -176,7 +183,7 @@ There are two main ways to obtain
     much more effort to cut the trunk of these desert-hardened trees.
     Trees will grow back slowly.
 
-  - **[Cultivate trees on farms](Guide_to_Farming "wikilink")**
+  - **[Cultivate trees on farms](Guide_to_Farming)**
 
 <table>
 <tbody>
@@ -202,7 +209,7 @@ There are two main ways to obtain
 
 Almost every living being out there could contribute to the cause of
 Progress. Let's examine this more closely, leaving all the edible bits
-to the **[Guide to Cooking](Guide_to_Cooking "wikilink")**.
+to the **[Guide to Cooking](Guide_to_Cooking)**.
 
 <table>
 <tbody>
@@ -240,7 +247,7 @@ tile.
 
 When you have piles of dirt or snow, you can use them right away to
 build barricades and walls. Refer to the
-**[Construction](Guide_to_Construction "wikilink")** section for more details.
+**[Construction](Guide_to_Construction)** section for more details.
 
 <table>
 <tbody>
@@ -270,7 +277,7 @@ rock. Time to hollow out the earth and put them to good use!
 <b>Smelting</b>
 
 Some ores must be processed before crafting, which is done by smelting
-them in **[Campfire, Ovens and Furnace](#campfire-ovens-and-furnace "wikilink")**. See that section for the detailed description of smelting and available alloys. Smelting
+them in **[Campfire, Ovens and Furnace](#campfire-ovens-and-furnace)**. See that section for the detailed description of smelting and available alloys. Smelting
 ores produces ingots, which are a material that could be used for
 crafting.
 
@@ -418,13 +425,13 @@ plastics, so let's start drilling!
 <b>Additional information</b>
 
   - Crude oil could be distilled and processed into a number of
-    petroleum products. See the **[Machinery](#machinery "wikilink")**
+    petroleum products. See the **[Machinery](#machinery)**
     section for more information on the respective equipment. However,
     crude oil could be used directly to fuel one of the more primitive
     engines - the hot bulb engine.
 
   - Petroleum as fuel for lamps, lanterns and the hot bulb engine could
-    be substituted with **[olive oil](Guide_to_Farming "wikilink")**.
+    be substituted with **[olive oil](Guide_to_Farming)**.
 
 ## Campfire, Ovens and Furnace
 
@@ -482,8 +489,8 @@ Here is how long 1 unit of different fuel will last (minutes):
 
 Essentially, these three have the same functions - to smelt ores into
 metal ingots, to fire pottery and bricks of
-**[Clay](Full_Crafting_List#clay "wikilink")**, and to
-**[cook](Guide_to_Cooking "wikilink")**. There are two main differences
+**[Clay](Full_Crafting_List#clay)**, and to
+**[cook](Guide_to_Cooking)**. There are two main differences
 between a campfire, an oven and a stove. The first one is their
 capacity, i.e. the number of objects they can hold and process
 simultaneously. You can think about it as a number of 'production
@@ -801,7 +808,7 @@ An arrow shaft is made with 1 wood log. Could be launched from a bow, but it is 
 Gunpowder is produced by mixing mineral coal (carbon, actually), sulphur
 and saltpeter, 1 unit of each, in a barrel. This produces 9 units of
 gunpowder. There are alternative ways to acquire ingredients, but for
-that see the **[Guide to Chemistry](Guide_to_Chemistry "wikilink")**.
+that see the **[Guide to Chemistry](Guide_to_Chemistry)**.
 
 ### Iron projectiles
 <b>Musket ball</b>
@@ -882,7 +889,7 @@ maximum weight it could carry.
 
 <b>Engine as a generator</b>
 
-To supply various devices with electricity, the engine has to be connected to them with wires (cables). See the **[Wiring](#wiring "wikilink")** section for more details.
+To supply various devices with electricity, the engine has to be connected to them with wires (cables). See the **[Wiring](#wiring)** section for more details.
 
 As a rule of thumb, an engine the size of 1000 cc should be adequate for an average settlement.
 
@@ -964,7 +971,7 @@ There are two kinds of refinery - petroleum and biofuel.
 
 <b>Operation</b>
 
-  - Construct and **[wire](#wiring "wikilink")** the refinery.
+  - Construct and **[wire](#wiring)** the refinery.
   - Place an empty barrel inside the refinery.
   - Fill the refinery with the respective raw substance (maximum volume
     is 300 units).
@@ -991,7 +998,7 @@ Made with 18 steel sheets. Used to produce <b><a href="Full_Crafting_List#plasti
 
 <b>Operation</b>
 
-  - Construct and **[wire](#wiring "wikilink")** the bakelizer.
+  - Construct and **[wire](#wiring)** the bakelizer.
   - Fill the bakelizer with raw petroleum.
   - Click the bakelizer to start it.
   - Wait till the product is ready. You can examine the bakelizer to
@@ -1060,7 +1067,7 @@ of creating your very own motorcycle! Just set aside a bunch of steel and follow
 
 1.  Build a **motorcycle frame** with 12 steel sheets ("vehicle parts" category). Choose name and colour for the bike (you may like #5C573D - "#" is
     not required).
-2.  Next, you need to build an **[engine](#engines "wikilink")**. Make an engine that is 125 cc **at most**. Only 125 cc or lower can be put into a bike, otherwise
+2.  Next, you need to build an **[engine](#engines)**. Make an engine that is 125 cc **at most**. Only 125 cc or lower can be put into a bike, otherwise
     it will not fit. Choose from 2- and 4-stroke engines, all others are too large.
 3.  Now you need to slap whatever engine you made into that sweet sweet
     frame of the bike. Simply click the engine icon and drag it onto the bike.
@@ -1164,15 +1171,15 @@ While selecting a place for shipbuilding, keep in mind the following:
 Indispensable political instruments in later ages, perfectly suited for
 settling disputes and establishing accord on all fronts.
 
-Tank driving is covered in the **[Guide to Tanks](Guide_to_Tanks "wikilink")**.
+Tank driving is covered in the **[Guide to Tanks](Guide_to_Tanks)**.
 
 <b>Limitations</b>
 
 * The maximum size of a tank is 5x5 tiles. Larger ones will not function properly due to technical reasons.
 
-  - A tank has to be of rectangular shape.
+* A tank has to be of rectangular shape.
 
-  - A tank is facing North by default.
+* A tank is facing North by default.
 
 |                                                                                            |                                                                                            |                                                                                          |                                                                                          |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
@@ -1199,7 +1206,7 @@ wrench to avoid pushing them on accident, but it is not necessary.</b>
     North to build tracks like those in the front, or South to build
     them like those in the back.
 
-4.  Construct an **[engine](#engines "wikilink")** with a fuel tank.
+4.  Construct an **[engine](#engines)** with a fuel tank.
 
       - It is important to make an engine of an appropriate size that
         produces enough power to carry a tank and its load. A weak

@@ -23,6 +23,10 @@
 <td><b>Crafting:</b><br>motorcycle frame<br>fuel pump<br>hand cannon<br>dragoon helmet<br>monumental crucero cross<br>stone statue<br>sandstone statue<br>grandfather clock</td>
 </tr>
 <tr>
+<td><b>1.5</b></td>
+<td><b>Using:</b><br>gunsmithing bench (only with a blueprint)</td>
+</tr>
+<tr>
 <td><b>1.55</b></td>
 <td><b>Crafting:</b><br>arquebus<br>matchlock musket<br>monumental stone pillar<br>monumental ominous statue of the deep-one<br>monumental ominous statue of the evil-one<br>monumental ominous statue of the outsider<br>monumental stone buddha<br>monumental saint statue</td>
 </tr>
@@ -36,7 +40,7 @@
 </tr>
 <tr>
 <td><b>1.9</b></td>
-<td><b>Crafting:</b><br>locomotive<br><b>Using:</b><br>gunsmithing bench</td>
+<td><b>Crafting:</b><br>locomotive</td>
 </tr>
 <tr>
 <td><b>2</b></td>
@@ -45,6 +49,10 @@
 <tr>
 <td><b>2.2</b></td>
 <td><b>Crafting:</b><br>electronic circuits</td>
+</tr>
+<tr>
+<td><b>2.5</b></td>
+<td><b>Crafting:</b><br>gun blueprint (at the gunsmithing bench)</td>
 </tr>
 </tbody>
 </table>

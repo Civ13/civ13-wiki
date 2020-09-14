@@ -6,10 +6,11 @@ Cooking is useful for making meat and water safe to consume, as well as
 increasing the nutrition value of every other non-meat food, like
 vegetables and wheat-derived products.
 
-Furthermore, more complex recipes are also even more nutritious and improve **[mood](Starter_Guide#mood "wikilink")**. Besides, this also presents interesting RP options, such as being vegetarian, perhaps pork-free, et cetera, some of which could be enforced with selectable **[traits](Guide_to_Character#traits)**.
+Furthermore, more complex recipes are also even more nutritious and improve **[mood](Starter_Guide#mood)**. Besides, this also presents interesting RP options, such as being vegetarian, perhaps pork-free, et cetera, some of which could be enforced with selectable **[traits](Guide_to_Character#traits)**.
 
 ## Kitchen implements
 
+See the **[Full Crafting List](Full_Crafting_List)** for more details about crafting the implements from the list.
 <table>
 <tbody>
 <tr>
@@ -88,13 +89,13 @@ Most foods will spoil and decay (read, vanish from existence) if left in the ope
 
 Finding a formerly bursting-at-the-seams pantry devoid of its delicious contents may very well reduce a hungry soul to tears. Fortunately, there are ways to extend the shelf life of your food stock, which boil down to storing food inside any crate or a fridge.
 
-Check **[here](Food_Decay_Times "wikilink")** for the decay times for different **unstored** foods.
+Check **[here](Food_Decay_Times)** for the decay times for different **unstored** foods.
 
 **Meat and fish products also rot! It takes half the time of full decay!** Meaning, it takes a meat slab 15 minutes to decay, but it will become rotten after 7.5 minutes.
 
 Decay time for the food stored in a **crate** is **doubled**.
 
-Decay time for the food stored in a **fridge** is **tripled**. **A fridge must be [connected](Guide_to_Crafting#wiring "wikilink") to a [power source](Guide_to_Crafting#engines "wikilink") to work!**
+Decay time for the food stored in a **fridge** is **tripled**. **A fridge must be [connected](Guide_to_Crafting#wiring) to a [power source](Guide_to_Crafting#engines) to work!**
 
 ## Campfire, Oven and Wood Stove
 
@@ -113,7 +114,7 @@ You can roast plenty of things: vegetables, meat, fish etc.
   - Wait for it to finish cooking/boiling.
   - Eat!
 
-A more detailed section on campfires and ovens could be found **[here](Guide_to_Crafting#campfire-iron-oven-and-wood-stove "wikilink")**.
+A more detailed section on campfires and ovens could be found **[here](Guide_to_Crafting#campfire-iron-oven-and-wood-stove)**.
 
 ## Ingredients
 
@@ -133,7 +134,7 @@ ingredients needed to make your fantastic dishes, uma delicia!
 <tr>
 <td width="5%"><img src="assets/images/yeast.png"></td>
 <td>Yeast</td>
-<td>Put either wheat or flour in a fermentation far and wait for the message about fermentation.</td>
+<td>Put either wheat or flour in a fermentation jar and wait for the message about fermentation.</td>
 </tr>
 <tr>
 <td><img src="assets/images/salt.png"></td>
@@ -311,10 +312,83 @@ culinary art!
 <td>Stew</td>
 <td>Pour 100 units of water into a cooking pot and add any ingredients (meat, vegetables etc. - <b>except salty ingredients</b>) to the pot to make stew. The more ingredients, the better! Let it simmer for a while, and soon it will turn into hearty stew. Click the cooking pot with bowls to fill them. <b>Filled wooden bowls will go bad (disappear) if not eaten</b>.<br>The advantage of stew is that you get rid of thirst and hunger at the same time, as long as you do not cook it with salty water or dried meat, as those contain salt and will dehydrate you.</td>
 </tr>
+<tr>
+<td><img src="assets/images/cod_salted.png"></td>
+<td>Salted cod</td>
+<td>Put up to 3 codfish in a salting container, add 3 piles of salt and wait 6 minutes.</td>
+</tr>
 </tbody>
 </table>
 
 #### Complex
+
+##### Jamon
+
+Delicious Iberian ham.
+
+<table>
+<thead>
+<tr class="header">
+<th style="background-color=#cc7000;">Image</th>
+<th style="background-color=#cc7000;">Steps</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="5%"><img src="assets/images/jamon_container_full.png"></td>
+<td>Take a ham leg and beat it with a hammer to remove the excess blood. Put up to 3 legs in a salting container.</td>
+</tr>
+<tr>
+<td><img src="assets/images/salting_container_salting.png"></td>
+<td>Fill the container with 3 piles of salt. Salting takes 6 minutes.</td>
+</tr>
+<tr>
+<td><img src="assets/images/jamon_drying.png"></td>
+<td>Hang the salted ham on a drying rack, up to 3 legs on a rack. Drying takes 20 minutes.</td>
+</tr>
+<tr>
+<td><img src="assets/images/jamon_dried.png"></td>
+<td>When drying is over, slice dried ham with a knife, 5 slices per leg.</td>
+</tr>
+<tr>
+<td><img src="assets/images/jamon_slice.png"></td>
+<td>Enjoy! Pair with some good red wine and Iberian cheeses.</td>
+</tr>
+</tbody>
+</table>
+
+##### Salami
+
+<table>
+<thead>
+<tr class="header">
+<th style="background-color=#cc7000;">Image</th>
+<th style="background-color=#cc7000;">Steps</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="5%"><img src="assets/images/salami_container_full.png"></td>
+<td>Fill 1 sausage casing with 1 minced meat to make a sausage. Put up to 5 sausages in a salting container.</td>
+</tr>
+<tr>
+<td><img src="assets/images/salting_container_salting.png"></td>
+<td>Fill the container with 3 piles of salt. Salting takes 6 minutes.</td>
+</tr>
+<tr>
+<td><img src="assets/images/salami_drying.png"></td>
+<td>Hang the salted sausages on a drying rack, up to 5 sausages on a rack. Drying takes 2.5 minutes.</td>
+</tr>
+<tr>
+<td><img src="assets/images/salami_dried.png"></td>
+<td>When drying is over, slice salami with a knife, 4 slices per sausage.</td>
+</tr>
+<tr>
+<td><img src="assets/images/salami_slice.png"></td>
+<td>Enjoy!</td>
+</tr>
+</tbody>
+</table>
 
 ### Beverages
 
@@ -351,3 +425,15 @@ culinary art!
 
   - Get a barrel and fill it with 100u of water 1u of yeast and 100 of
     flour.
+
+## Canning
+
+Canning is a good way to preserve food for later consumption.
+
+<img src="assets/images/tin_can_large.png"><img src="assets/images/tin_can.png"><img src="assets/images/tin_can_small.png">
+
+* Make tin cans with tin. Large cans hold 10 units, regular - 5, small - 3 units. 1 food item = 1 unit.
+* Fill cans with whatever food.
+* Seal cans with the canner, entering a brand name and selecting colours for the can's design.
+* When the time comes, open sealed cans with a knife, then click them with an empty hand to remove food.
+* Used cans could be recycled back into tin with the **[furnace](Guide_to_Crafting#furnace)**.
