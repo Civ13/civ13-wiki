@@ -381,7 +381,7 @@ Delicious Iberian ham.
 </tr>
 <tr>
 <td><img src="assets/images/salami_dried.png"></td>
-<td>When drying is over, slice salami with a knife, 4 slices per leg.</td>
+<td>When drying is over, slice salami with a knife, 4 slices per sausage.</td>
 </tr>
 <tr>
 <td><img src="assets/images/salami_slice.png"></td>
