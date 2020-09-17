@@ -92,7 +92,7 @@ Molds are made with **[Clay](Full_Crafting_List#clay)** and used to cast tools a
 <table>
 <tbody>
 <tr>
-<td width="5%"><img src="assets/images/kiln.png"></td>
+<td width="5%"><img src="assets/images/kiln_clay.png"></td>
 <td><b>Kiln</b></td>
 <td>Made with either 10 clay, stone or sandstone. Used to melt ores and metals in blacksmith jugs and pots. Can also be used to recycle metal items back into metal.</td>
 </tr>
@@ -119,17 +119,17 @@ Some particulars about smelting certain ores and working with certain metals.
 **Tin**, **copper**, **gold**, **silver** and **bronze** only need a kiln. Just melt ores in jugs and pots.
 
 #### Bronze
-
+<img src="assets/images/sheet_bronze.png">
 Bronze is an alloy of tin and copper. You need to melt **equal amounts**  (1:1 ratio) of tin and copper ore in the same jug or pot to produce bronze. For example, 1 unit of tin and 1 unit of copper make 1 unit of bronze.
 
 ### Iron
-
+<img src="assets/images/sheet_iron.png">
 * Smelt raw iron ore in the bloomery to obtain **sponge iron**.
 * Work sponge iron at an anvil into usable iron ingots.
 * To cast iron tools or weapons with molds, **put iron ingots in a jug or a pot and melt them in a kiln**.
 
 ### Steel
-
+<img src="assets/images/sheet_steel.png">
 * Smelt raw iron ore in the blast furnace to obtain **pig iron**.
 * Work pig iron at the iron or steel anvil into usable steel sheets.
 * To cast steel tools or weapons with molds, **put steel sheets in a jug or a pot and melt them in a kiln**.
@@ -141,17 +141,17 @@ Bronze is an alloy of tin and copper. You need to melt **equal amounts**  (1:1 r
 <tr>
 <td width="5%"><img src="assets/images/anvil_stone.png"></td>
 <td><b>Stone</b></td>
-<td>Made with . Used to work tin, copper and bronze.</td>
+<td>Made with 25 stone. Used to work tin, copper and bronze.</td>
 </tr>
 <tr>
 <td><img src="assets/images/anvil_iron.png"></td>
 <td><b>Iron</b></td>
-<td>Made with . Used to work tin, copper, bronze, gold, silver and iron.</td>
+<td>Made with 20 iron. Used to work tin, copper, bronze, gold, silver and iron.</td>
 </tr>
 <tr>
-<td><img src="assets/images/anvil.png"></td>
+<td><img src="assets/images/anvil_steel.png"></td>
 <td><b>Steel</b></td>
-<td>Made with . Used to work all kinds of metals.</td>
+<td>Made with 25 steel. Used to work all kinds of metals.</td>
 </tr>
 </tbody>
 </table>
