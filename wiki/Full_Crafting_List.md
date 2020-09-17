@@ -4,8 +4,8 @@ by material.
 
 **To look for specific items, use the "Find in page" command - Ctrl-F.**
 
-Exported on 08 September 2020 -
-[Commit 7421](https://github.com/Civ13/Civ13/commit/b52dabff110356a87c2967eb24a7bc6531a4e855)
+Exported on 17 September 2020 -
+[Commit 7498](https://github.com/Civ13/Civ13/commit/4330184664cdbd935ddd0ea30b85efe278413084)
 
 ## bamboo
 
@@ -125,16 +125,7 @@ Exported on 08 September 2020 -
 | bronze bathtub | 50 | bronze | hygiene | Requires  30 Industrial, 20 Medical research points. | Available until the Industrial Age. |
 | bronze public bathtub | 50 | bronze | hygiene | Requires  85 Industrial, 60 Medical research points. | Available until the Industrial Age. |
 | bronze etsy lamp | 4 | bronze | none | Requires  15 Industrial research points. | Available until the Modern Age. |
-| bronze hatchet | 2 | bronze | tools | Requires  21 Industrial, 16 Military research points. | Available until the Modern Age. |
-| razor blade | 2 | bronze | tools | Available from the start. | Available until the Modern Age. |
 | shears | 2 | bronze | tools | Available from the start. | Available until the Modern Age. |
-| bronze-tipped spear | 1 | bronze | weapons | Requires  21 Industrial, 16 Military research points. | Available until the Imperial Age. |
-| bronze shield | 4 | bronze | weapons | Requires  21 Industrial, 16 Military research points. | Available until the Middle Ages. |
-| aspis shield | 18 | bronze | weapons | Requires  24 Industrial, 16 Military research points. | Available until the Middle Ages. |
-| roman shield | 18 | bronze | weapons | Requires  24 Industrial, 16 Military research points. | Available until the Middle Ages. |
-| bronze small sword | 10 | bronze | weapons | Requires  21 Industrial, 16 Military research points. | Available until the Middle Ages. |
-| bronze arming sword | 15 | bronze | weapons | Requires  24 Industrial, 21 Military research points. | Available until the Middle Ages. |
-| bronze arrowhead (x4) | 1 | bronze | projectiles | Requires  21 Military research points. | Available until the Modern Age. |
 | bronze phrigian helmet | 4 | bronze | armor | Requires  21 Industrial, 16 Military research points. | Available until the Bronze Age. |
 | bronze chestplate | 6 | bronze | armor | Requires  24 Industrial, 21 Military research points. | Available until the Middle Ages. |
 | bronze dragoon helmet | 7 | bronze | armor | Requires  88 Military, 92 Medical research points. | Available until the Imperial Age. |
@@ -197,8 +188,19 @@ Exported on 08 September 2020 -
 | unfired clay bricks | 0.5 | clay | none | Requires  82 Industrial research points. | Available until the Modern Age. |
 | unfired cement bricks | 4 | clay | none | Requires  82 Industrial research points. | Available until the Modern Age. |
 | concrete floor | 0.5 | clay | none | Requires  103 Industrial research points. | Available until the Modern Age. |
-| furnace | 10 | clay | none | Requires  26 Industrial research points. | Available until the Modern Age. |
+| clay brick bloomery | 10 | clay | none | Requires  26 Industrial research points. | Available until the Modern Age. |
+| clay kiln | 10 | clay | none | Requires  26 Industrial research points. | Available until the Modern Age. |
 | concrete pillar | 2 | clay | none | Requires  103 Industrial research points. | Available until the Modern Age. |
+| unfired ingot mold | 1.5 | clay | molds | Available from the start. | Available until the Modern Age. |
+| unfired axehead mold | 1.5 | clay | molds | Available from the start. | Available until the Modern Age. |
+| unfired sword mold | 5 | clay | molds | Available from the start. | Available until the Modern Age. |
+| unfired knife mold | 1 | clay | molds | Available from the start. | Available until the Modern Age. |
+| unfired spearhead mold | 1.5 | clay | molds | Available from the start. | Available until the Modern Age. |
+| unfired pickaxe mold | 3 | clay | molds | Available from the start. | Available until the Modern Age. |
+| unfired shovel mold | 3 | clay | molds | Available from the start. | Available until the Modern Age. |
+| unfired arrowhead mold | 1 | clay | molds | Available from the start. | Available until the Modern Age. |
+| unfired blacksmith clay pot | 2 | clay | molds | Available from the start. | Available until the Modern Age. |
+| unfired blacksmith clay jug | 5 | clay | molds | Available from the start. | Available until the Modern Age. |
 | raw stucco | 1.5 | clay | wall coverings & stucco | Requires  18 Industrial research points. | Available until the Modern Age. |
 | raw greek stucco | 1.5 | clay | wall coverings & stucco | Requires  18 Industrial research points. | Available until the Middle Ages. |
 | raw roman stucco | 1.5 | clay | wall coverings & stucco | Requires  18 Industrial research points. | Available until the Middle Ages. |
@@ -505,10 +507,6 @@ Exported on 08 September 2020 -
 | large copper pot | 5 | copper | none | Available from the start. | Available until the Modern Age. |
 | trombone | 6 | copper | none | Requires  83 Industrial research points. | Available until the Modern Age. |
 | handbell | 2 | copper | none | Requires  40 Industrial research points. | Available until the Modern Age. |
-| copper hatchet | 2 | copper | tools | Requires  8 Industrial, 8 Military research points. | Available until the Modern Age. |
-| copper-tipped spear | 1 | copper | weapons | Requires  8 Industrial, 8 Military research points. | Available until the Imperial Age. |
-| copper small sword | 10 | copper | weapons | Requires  18 Industrial, 18 Military research points. | Available until the Middle Ages. |
-| copper arrowhead (x4) | 1 | copper | ammunition | Requires  16 Military research points. | Available until the Modern Age. |
 | rifle casing (x3) | 1 | copper | ammunition | Requires  105 Industrial research points. | Available until the Modern Age. |
 | pistol casing (x3) | 1 | copper | ammunition | Requires  105 Industrial research points. | Available until the Modern Age. |
 | artillery casing | 2 | copper | ammunition | Requires  105 Industrial research points. | Available until the Modern Age. |
@@ -662,8 +660,6 @@ Exported on 08 September 2020 -
 | gold arm bangles | 2 | gold | none | Available from the start. | Available until the Modern Age. |
 | gold statue | 10 | gold | none | Requires  10 Industrial research points. | Available until the Modern Age. |
 | gold sarcophagus | 15 | gold | none | Available from the start. | Available until the Bronze Age. |
-| gold hatchet | 2 | gold | none | Requires  10 Industrial, 10 Military research points. | Available until the Modern Age. |
-| gold-tipped spear | 1 | gold | none | Requires  10 Industrial, 10 Military research points. | Available until the Imperial Age. |
 | gold sceptre | 3 | gold | none | Available from the start. | Available until the Modern Age. |
 
 
@@ -719,23 +715,19 @@ Exported on 08 September 2020 -
 | cabin wagon | 4 | iron | trains | Requires  101 Industrial research points. | Available until the Modern Age. |
 | flatbed wagon | 4 | iron | trains | Requires  101 Industrial research points. | Available until the Modern Age. |
 | transport wagon | 5 | iron | trains | Requires  101 Industrial research points. | Available until the Modern Age. |
-| anvil | 25 | iron | production | Requires  25 Industrial research points. | Available until the Modern Age. |
+| iron anvil | 20 | iron | production | Requires  25 Industrial research points. | Available until the Modern Age. |
 | armor repair bench | 16 | iron | production | Requires  25 Industrial research points. | Available until the Modern Age. |
+| specialist armorbench | 15 | iron | production | Requires  120 Industrial research points. | Available until the Modern Age. |
 | engine maker | 5 | iron | tools | Requires  115 Industrial research points. | Available until the Modern Age. |
 | iron furnace | 15 | iron | production | Requires  87 Military research points. | Available until the Modern Age. |
+| iron blast furnace | 25 | iron | production | Requires  87 Military research points. | Available until the Modern Age. |
 | firearm maintenance bench | 18 | iron | production | Requires  25 Industrial, 70 Military research points. | Available until the Modern Age. |
 | large drying rack | 8 | iron | production | Requires  16 Medical research points. | Available until the Modern Age. |
 | canner | 7 | iron | production | Requires  95 Industrial research points. | Available until the Modern Age. |
 | meat grinder | 8 | iron | production | Requires  90 Medical research points. | Available until the Modern Age. |
-| hatchet | 2 | iron | tools | Available from the start. | Available until the Modern Age. |
-| butcher's cleaver | 3 | iron | tools | Requires  20 Industrial, 25 Medical research points. | Available until the Modern Age. |
-| circumcision knife | 2 | iron | tools | Requires  25 Industrial research points. | Available until the Modern Age. |
 | iron plough | 4 | iron | tools | Available from the start. | Available until the Modern Age. |
-| shovel | 2 | iron | tools | Available from the start. | Available until the Modern Age. |
-| pickaxe | 3 | iron | tools | Available from the start. | Available until the Modern Age. |
 | shears | 2 | iron | tools | Available from the start. | Available until the Modern Age. |
 | chisel | 8 | iron | tools | Available from the start. | Available until the Modern Age. |
-| razor blade | 2 | iron | tools | Available from the start. | Available until the Modern Age. |
 | trench shovel | 2 | iron | tools | Requires  14 Industrial research points. | Available until the Modern Age. |
 | wrench | 5 | iron | tools | Requires  18 Industrial research points. | Available until the Modern Age. |
 | planting trowel | 3 | iron | tools | Requires  20 Industrial research points. | Available until the Modern Age. |
@@ -754,19 +746,14 @@ Exported on 08 September 2020 -
 | iron altar | 12 | iron | furniture | Available from the start. | Available until the Modern Age. |
 | locker | 4 | iron | furniture | Requires  105 Industrial research points. | Available until the Modern Age. |
 | mechanical trap | 5 | iron | weapons | Requires  32 Military research points. | Available until the Modern Age. |
-| iron-tipped spear | 2 | iron | weapons | Requires  27 Industrial, 16 Military research points. | Available until the Imperial Age. |
-| battle axe | 8 | iron | weapons | Requires  27 Industrial, 16 Military research points. | Available until the Modern Age. |
-| iron shield | 4 | iron | weapons | Requires  27 Industrial, 27 Military research points. | Available until the Industrial Age. |
 | shuriken | 2 | iron | weapons | Requires  39 Military research points. | Available until the Modern Age. |
 | kunai | 3 | iron | weapons | Requires  39 Military research points. | Available until the Modern Age. |
-| throwing knife | 4 | iron | weapons | Requires  39 Military research points. | Available until the Modern Age. |
 | bayonet | 2 | iron | weapons | Requires  90 Military research points. | Available until the Modern Age. |
 | unlocked iron door | 5 | iron | construction | Requires  28 Industrial research points. | Available until the Modern Age. |
 | locked iron door | 5 | iron | construction | Requires  28 Industrial research points. | Available until the Modern Age. |
 | iron fence | 2 | iron | construction | Requires  50 Industrial research points. | Available until the Modern Age. |
 | chainlink fence | 3 | iron | construction | Requires  120 Industrial research points. | Available until the Modern Age. |
 | barbwire | 1 | iron | construction | Requires  120 Industrial research points. | Available until the Modern Age. |
-| iron arrowhead (x4) | 1 | iron | projectiles | Requires  30 Military research points. | Available until the Modern Age. |
 | musket ball (x2) | 1 | iron | projectiles | Requires  80 Military research points. | Available until the Modern Age. |
 | small musket ball (x3) | 1 | iron | projectiles | Requires  80 Military research points. | Available until the Modern Age. |
 | blunderbuss ball (x2) | 1 | iron | projectiles | Requires  80 Military research points. | Available until the Modern Age. |
@@ -1082,7 +1069,7 @@ Exported on 08 September 2020 -
 | sandstone well | 7 | sandstone | structures | Requires  21 Industrial research points. | Available until the Modern Age. |
 | sandstone brazier | 3 | sandstone | structures | Available from the start. | Available until the Modern Age. |
 | grindstone | 18 | sandstone | production | Requires  25 Industrial research points. | Available until the Modern Age. |
-| furnace | 10 | sandstone | structures | Requires  26 Industrial research points. | Available until the Modern Age. |
+| sandstone kiln | 10 | sandstone | structures | Requires  26 Industrial research points. | Available until the Modern Age. |
 | sandstone barrier wall | 3 | sandstone | fortifications | Available from the start. | Available until the Modern Age. |
 | horizontal sandstone crenelated wall | 5 | sandstone | fortifications | Available from the start. | Available until the Modern Age. |
 | verticle sandstone crenelated wall | 5 | sandstone | fortifications | Available from the start. | Available until the Modern Age. |
@@ -1115,8 +1102,6 @@ Exported on 08 September 2020 -
 | Item | Cost| Material | Category | Research Needed | Available Until |
 | -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
 | silver coins | 1 | silver | none | Available from the start. | Available until the Modern Age. |
-| silver hatchet | 2 | silver | none | Requires  10 Industrial, 10 Military research points. | Available until the Modern Age. |
-| silver-tipped spear | 1 | silver | none | Requires  10 Industrial, 10 Military research points. | Available until the Imperial Age. |
 | silver crown | 3 | silver | none | Available from the start. | Available until the Modern Age. |
 | silver arm bangles | 2 | silver | none | Available from the start. | Available until the Modern Age. |
 | silver statue | 10 | silver | none | Requires  10 Industrial research points. | Available until the Modern Age. |
@@ -1133,11 +1118,6 @@ Exported on 08 September 2020 -
 | steel public bathtub | 50 | steel | hygiene | Requires  175 Industrial, 80 Medical research points. | Available until the Modern Age. |
 | wheelchair | 6 | steel | none | Requires  95 Industrial, 98 Medical research points. | Available until the Modern Age. |
 | zippo lighter | 4 | steel | none | Requires  145 Industrial research points. | Available until the Modern Age. |
-| steel-tipped spear | 1 | steel | weapons | Requires  50 Industrial, 44 Military research points. | Available until the Imperial Age. |
-| steel shield | 4 | steel | weapons | Requires  50 Industrial, 44 Military research points. | Available until the Industrial Age. |
-| throwing axe | 3 | steel | weapons | Requires  50 Industrial, 44 Military research points. | Available until the Modern Age. |
-| steel throwing knife | 2 | steel | weapons | Requires  50 Industrial, 44 Military research points. | Available until the Modern Age. |
-| steel hatchet | 2 | steel | tools | Requires  50 Industrial, 44 Military research points. | Available until the Modern Age. |
 | wirecutters | 4 | steel | tools | Requires  90 Industrial research points. | Available until the Modern Age. |
 | welding tool | 7 | steel | tools | Requires  99 Industrial research points. | Available until the Modern Age. |
 | jackhammer | 24 | steel | tools | Requires  178 Industrial research points. | Available until the Modern Age. |
@@ -1172,6 +1152,7 @@ Exported on 08 September 2020 -
 | 180u medium fuel tank | 15 | steel | fuel tanks | Requires  120 Industrial research points. | Available until the Modern Age. |
 | 250u large fuel tank | 20 | steel | fuel tanks | Requires  120 Industrial research points. | Available until the Modern Age. |
 | 450u huge fuel tank | 36 | steel | fuel tanks | Requires  120 Industrial research points. | Available until the Modern Age. |
+| steel anvil | 25 | steel | production | Requires  35 Industrial research points. | Available until the Modern Age. |
 | wood stove | 8 | steel | production | Requires  86 Industrial research points. | Available until the Modern Age. |
 | bakelizer | 18 | steel | production | Requires  90 Industrial research points. | Available until the Modern Age. |
 | industrial acidic bath | 12 | steel | jackets & vests | Requires  175 Industrial, 180 Medical research points. | Available until the Modern Age. |
@@ -1191,7 +1172,6 @@ Exported on 08 September 2020 -
 | steel jerrycan | 1 | steel | storage | Requires  120 Industrial research points. | Available until the Modern Age. |
 | street lamp | 3 | steel | electrical | Requires  99 Industrial research points. | Available until the Modern Age. |
 | cell tower | 15 | steel | none | Requires  212 Industrial research points. | Available until the Modern Age. |
-| steel arrowhead (x4) | 1 | steel | projectiles | Requires  45 Military research points. | Available until the Modern Age. |
 | steel statue | 10 | steel | none | Requires  10 Industrial research points. | Available until the Modern Age. |
 | flagpole | 6 | steel | none | Available from the start. | Available until the Modern Age. |
 
@@ -1264,8 +1244,9 @@ Exported on 08 September 2020 -
 | stone statue | 15 | stone | religious & decoration | Requires  10 Industrial research points. | Available until the Modern Age. |
 | stone window | 5 | stone | construction | Requires  18 Industrial research points. | Available until the Modern Age. |
 | full stone window | 5 | stone | construction | Requires  18 Industrial research points. | Available until the Modern Age. |
-| furnace | 10 | stone | production | Requires  26 Industrial research points. | Available until the Modern Age. |
+| stone kiln | 10 | stone | production | Requires  26 Industrial research points. | Available until the Modern Age. |
 | grindstone | 18 | stone | production | Requires  25 Industrial research points. | Available until the Modern Age. |
+| stone anvil | 25 | stone | production | Requires  16 Military research points. | Available until the Modern Age. |
 | stone bust | 3 | stone | none | Requires  20 Industrial research points. | Available until the Modern Age. |
 | stone bust of hippocrates | 3 | stone | none | Requires  20 Industrial research points. | Available until the Modern Age. |
 | sling projectile (x5) | 1 | stone | projectiles | Available from the start. | Available until the Modern Age. |
@@ -1390,6 +1371,7 @@ Exported on 08 September 2020 -
 | oil well | 40 | wood | economy & production | Requires  105 Industrial research points. | Available until the Modern Age. |
 | oil deposit | 6 | wood | economy & production | Requires  105 Industrial research points. | Available until the Modern Age. |
 | gunsmithing bench | 13 | wood | economy & production | Requires  118 Industrial research points. | Available until the Modern Age. |
+| ethanol distillery | 15 | wood | economy & production | Requires  45 Industrial research points. | Available until the Modern Age. |
 | market stall | 25 | wood | economy & production | Requires  24 Industrial research points. | Available until the Modern Age. |
 | supply stall | 25 | wood | economy & production | Requires  24 Industrial research points. | Available until the Modern Age. |
 | stock market | 25 | wood | economy & production | Requires  24 Industrial research points. | Available until the Modern Age. |
@@ -1436,11 +1418,11 @@ Exported on 08 September 2020 -
 | punji sticks trap | 4 | wood | weapons | Available from the start. | Available until the Modern Age. |
 | quarterstaff | 2 | wood | weapons | Available from the start. | Available until the Modern Age. |
 | wood club | 3 | wood | weapons | Available from the start. | Available until the Stone Age. |
-| wood spear | 3 | wood | weapons | Available from the start. | Available until the Imperial Age. |
+| wood spear | 4 | wood | weapons | Available from the start. | Available until the Imperial Age. |
 | assagai spear | 4 | wood | weapons | Requires  22 Military research points. | Available until the Imperial Age. |
 | pilum | 3 | wood | weapons | Requires  22 Military research points. | Available until the Middle Ages. |
-| wood dory | 4 | wood | weapons | Requires  22 Military research points. | Available until the Middle Ages. |
-| wood sarissa | 4 | wood | weapons | Requires  22 Military research points. | Available until the Middle Ages. |
+| wood dory | 6 | wood | weapons | Requires  22 Military research points. | Available until the Middle Ages. |
+| wood sarissa | 8 | wood | weapons | Requires  22 Military research points. | Available until the Middle Ages. |
 | training sword | 8 | wood | weapons | Requires  24 Military research points. | Available until the Middle Ages. |
 | macuahuitl | 5 | wood | weapons | Requires  26 Military research points. | Available until the Imperial Age. |
 | police baton | 4 | wood | weapons | Requires  95 Military research points. | Available until the Modern Age. |
@@ -1550,7 +1532,6 @@ Exported on 08 September 2020 -
 | greek cross | 10 | wood | punishments | Requires  20 Military research points. | Available until the Modern Age. |
 | tau cross | 10 | wood | punishments | Requires  20 Military research points. | Available until the Modern Age. |
 | pillory | 8 | wood | punishments | Requires  32 Military research points. | Available until the Modern Age. |
-| specialist armorbench | 15 | wood | production | Requires  120 Industrial research points. | Available until the Modern Age. |
 
 
 ## woolcloth
@@ -1659,5 +1640,3 @@ Exported on 08 September 2020 -
 | blue bedsheet | 2 | woolcloth | bedsheets | Requires  28 Medical research points. | Available until the Modern Age. |
 | yellow bedsheet | 2 | woolcloth | bedsheets | Requires  28 Medical research points. | Available until the Modern Age. |
 | red bedsheet | 2 | woolcloth | bedsheets | Requires  28 Medical research points. | Available until the Modern Age. |
-
-
