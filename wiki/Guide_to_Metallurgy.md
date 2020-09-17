@@ -129,7 +129,7 @@ Bronze is an alloy of tin and copper. You need to melt **equal amounts**  (1:1 r
 ### [Iron](Full_Crafting_List#iron)
 <img src="assets/images/sheet_iron.png">
 * Smelt raw iron ore in the bloomery to obtain **sponge iron**.
-* Work sponge iron at an anvil into usable iron ingots.
+* Work sponge iron at any anvil into usable iron ingots.
 * To cast iron tools or weapons with molds, **put iron ingots in a jug or a pot and melt them in a kiln**.
 
 ### [Steel](Full_Crafting_List#steel)
@@ -149,7 +149,7 @@ Click anvils with a mold with molten metal or with some metal sheets or ingots t
 <tr>
 <td width="5%"><img src="assets/images/anvil_stone.png"></td>
 <td><b>Stone</b></td>
-<td>Made with 25 stone. Used to work tin, copper and bronze.</td>
+<td>Made with 25 stone. Used to work tin, copper, bronze and sponge iron.</td>
 </tr>
 <tr>
 <td><img src="assets/images/anvil_iron.png"></td>
