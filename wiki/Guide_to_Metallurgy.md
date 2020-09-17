@@ -31,7 +31,7 @@ The primary component of metalworking is **[molds](#molds)**. At the very least,
 
 Molds are made with **[Clay](Full_Crafting_List#clay)** and used to cast tools and melee weapons from different metals. Each mold has a certain volume it can hold.  1 unit of volume = 1 unit of ore = 1 unit of molten metal = 1 metal ingot. Making different items requires a different amount of metal.
 
-**Clay molds are made raw and need to be fired in a campfire or an oven before using!**
+**Clay molds are made raw and need to be fired in [a campfire or an oven](Guide_to_Crafting#campfire-and-ovens) before using!**
 
 <table>
 <tbody>
@@ -90,6 +90,8 @@ Molds are made with **[Clay](Full_Crafting_List#clay)** and used to cast tools a
 
 ## Furnaces
 
+Furnaces are operated similarly to the **[campfire and ovens](Guide_to_Crafting#campfire-and-ovens)**, apart from that they do not have continuous fire - the fire will go out after an operation is finished. Furnaces require 2 units of fuel per single operation, i.e. at least 2 wood logs or 1 piece of mineral coal.
+
 <table>
 <tbody>
 <tr>
@@ -137,7 +139,11 @@ Bronze is an alloy of tin and copper. You need to melt **equal amounts**  (1:1 r
 * To cast steel tools or weapons with molds, **put steel sheets in a jug or a pot and melt them in a kiln**.
 
 ## Anvils
+Anvils are sed to forge weapons across the centuries, from ancient swords to muskets and makeshift AK-47s. See the Guide to Weapons for more information on specific weapons and their availability in different ages.
 
+Using anvils requires 1.7 of the Crafting skill.
+
+Click anvils with a mold with molten metal or with some metal sheets or ingots to craft metal items.
 <table>
 <tbody>
 <tr>
