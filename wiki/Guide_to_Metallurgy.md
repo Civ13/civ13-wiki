@@ -14,10 +14,10 @@ Different metals are produced from **[ores](Guide_to_Crafting#ores)** in differe
 
 ### General steps of metalworking
 
-The primary component of metalworking is **[molds](#molds)**. At the very least, you will need a **blacksmith pot** or a **blacksmith jar** to melt ores in them.
+The primary component of metalworking is **[molds](#molds)**. At the very least, you will need a **blacksmith pot** or a **blacksmith jug** to melt ores in them.
 
-* Put ore or metal (ingots) in a blacksmith pot or a blacksmith jar.
-* Place a pot or a jar inside a **kiln**.
+* Put ore or metal (ingots) in a blacksmith pot or a blacksmith jug.
+* Place a pot or a jug inside a **kiln**.
 * Light fire in the kiln and wait until the ore melts.
 * Pour molten metal into a mold of your choosing.
 * Take the mold and click a suitable(1) anvil with it.
