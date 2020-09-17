@@ -24,6 +24,7 @@ The primary component of metalworking is **[molds](#molds)**. At the very least,
 * Select a metal item to make(2).
 
 (1): Some metals could only be worked on a more advanced anvil. For example, iron items are produced on the iron and steel anvils, not on the stone one.
+
 (2): The list of available items depends on the epoch.
 
 ## Molds
@@ -104,7 +105,7 @@ Molds are made with **[Clay](Full_Crafting_List#clay)** and used to cast tools a
 <tr>
 <td><img src="assets/images/blast_furnace.png"></td>
 <td><b>Blast furnace</b></td>
-<td>Made with 25 steel. Used to smelt iron ore into pig iron.</td>
+<td>Made with 25 iron. Used to smelt iron ore into pig iron.</td>
 </tr>
 </tbody>
 </table>
