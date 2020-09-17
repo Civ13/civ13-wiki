@@ -20,11 +20,11 @@ The primary component of metalworking is **[molds](#molds)**. At the very least,
 * Place a pot or a jar inside a **kiln**.
 * Light fire in the kiln and wait until the ore melts.
 * Pour molten metal into a mold of your choosing.
-* Take the mold and click a suitable[^1] anvil with it.
-* Select a metal item to make[^2].
+* Take the mold and click a suitable(1) anvil with it.
+* Select a metal item to make(2).
 
-[^1]: Some metals could only be worked on a more advanced anvil. For example, iron items are produced on the iron and steel anvils, not on the stone one.
-[^2]: The list of available items depends on the epoch.
+(1): Some metals could only be worked on a more advanced anvil. For example, iron items are produced on the iron and steel anvils, not on the stone one.
+(2): The list of available items depends on the epoch.
 
 ## Molds
 
@@ -120,6 +120,7 @@ Some particulars about smelting certain ores and working with certain metals.
 
 #### Bronze
 <img src="assets/images/sheet_bronze.png">
+
 Bronze is an alloy of tin and copper. You need to melt **equal amounts**  (1:1 ratio) of tin and copper ore in the same jug or pot to produce bronze. For example, 1 unit of tin and 1 unit of copper make 1 unit of bronze.
 
 ### Iron
