@@ -126,7 +126,7 @@ Some particulars about smelting certain ores and working with certain metals.
 
 Bronze is an alloy of tin and copper. You need to melt **equal amounts**  (1:1 ratio) of tin and copper ore in the same jug or pot to produce bronze. For example, 1 unit of tin and 1 unit of copper make 1 unit of bronze.
 
-### Iron
+### [Iron](Full_Crafting_list#iron)
 <img src="assets/images/sheet_iron.png">
 * Smelt raw iron ore in the bloomery to obtain **sponge iron**.
 * Work sponge iron at an anvil into usable iron ingots.
