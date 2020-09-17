@@ -121,7 +121,7 @@ Some particulars about smelting certain ores and working with certain metals.
 
 **Tin**, **copper**, **gold**, **silver** and **bronze** only need a kiln. Just melt ores in jugs and pots.
 
-#### Bronze
+#### [Bronze](Full_Crafting_List#bronze)
 <img src="assets/images/sheet_bronze.png">
 
 Bronze is an alloy of tin and copper. You need to melt **equal amounts**  (1:1 ratio) of tin and copper ore in the same jug or pot to produce bronze. For example, 1 unit of tin and 1 unit of copper make 1 unit of bronze.
@@ -132,7 +132,7 @@ Bronze is an alloy of tin and copper. You need to melt **equal amounts**  (1:1 r
 * Work sponge iron at an anvil into usable iron ingots.
 * To cast iron tools or weapons with molds, **put iron ingots in a jug or a pot and melt them in a kiln**.
 
-### Steel
+### [Steel](Full_Crafting_List#steel)
 <img src="assets/images/sheet_steel.png">
 * Smelt raw iron ore in the blast furnace to obtain **pig iron**.
 * Work pig iron at the iron or steel anvil into usable steel sheets.
