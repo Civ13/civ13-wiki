@@ -38,7 +38,8 @@ machinery and vehicles.
 **Quick links:**
 
 - **[Mining](#mining)**
-- **Making swords and pre-1903 firearms** - **[Anvil](#anvil)**
+- **[Guide to Metallurgy](Guide_to_Metallurgy)**
+- **Making swords and pre-1903 firearms** - **[Anvils](Guide_to_Metallurgy#anvils)**
 - **Making armor** - **[Armorsmithing bench](#armorsmithing-bench)**, **[Specialist armor bench](#specialist-armor-bench)**
 - **Making guns starting from 1903** - **[Gunsmithing bench](#gunsmithing-bench)**
 
@@ -108,12 +109,12 @@ Pioneers, only the Blacksmith can use the anvil.
 <tr>
 <td><img src="assets/images/e.png"> <img src="assets/images/bronze_knife.png"> <img src="assets/images/steel_knife.png"></td>
 <td><b>Knife</b></td>
-<td>Made with either 4 bone pieces or 1 unit of manifold materials: stone, copper, bronze, iron, steel, tin, even gold, silver and diamonds. Used to cut trees, skin animals and stab enemies in a desperate situation. Used to cut wires and cut down curtains as well. The bone knife (the top one) is also a surgical tool in the earliest epochs, but for that refer to <b><a href="Guide_to_Medical#surgery">Surgery</a></b>. And check the <b><a href="Guide_to_Cooking#kitchen-implements">Guide to Cooking</a></b> for more culinary uses of the knife.</td>
+<td>Made with either 4 bone pieces or 1 unit of manifold materials: stone, copper, bronze, iron, steel, tin, even gold, silver and diamonds. Metal knives are made via casting in the <b><a href="Guide_to_Metallurgy#molds">knife mold</a></b>. Used to cut trees, skin animals and stab enemies in a desperate situation. Used to cut wires and cut down curtains as well. The bone knife (the top one) is also a surgical tool in the earliest epochs, but for that refer to <b><a href="Guide_to_Medical#surgery">Surgery</a></b>. And check the <b><a href="Guide_to_Cooking#kitchen-implements">Guide to Cooking</a></b> for more culinary uses of the knife.</td>
 </tr>
 <tr>
 <td><img src="assets/images/bone_hatchet.png"> <img src="assets/images/hatchet.png"></td>
 <td><b>Hatchet</b></td>
-<td>Made with either 2 bone pieces, 2 stones or 2 metal ingots (copper, bronze, iron or steel), plus a wooden handle. Mainly used to cut down trees for wood or to remove bushes and even rocks on the ground, but sometimes applied against hostile wildlife or malevolent people. Can be used to break fences or walls as well.</td>
+<td>Made with either 2 bone pieces, 2 stones or a <b><a href="Guide_to_Metallurgy#molds">cast axehead</a></b> (copper, bronze, iron or steel), plus a wooden handle. Mainly used to cut down trees for wood or to remove bushes and even rocks on the ground, but sometimes applied against hostile wildlife or malevolent people. Can be used to break fences or walls as well.</td>
 </tr>
 <tr>
 <td><img src="assets/images/hammer.png"> <img src="assets/images/clawhammer.png"></td>
@@ -123,7 +124,7 @@ Pioneers, only the Blacksmith can use the anvil.
 <tr>
 <td><img src="assets/images/bone_shovel.png"> <img src="assets/images/shovel.png"></td>
 <td><b>Shovel</b></td>
-<td>Made with either 2 bone pieces or 2 iron ingots, plus a wooden handle. Used to dig up dirt, sand and snow, as well as for digging underground entrances (tunnels), pit latrines and graves. For the last three, hold a shovel in the active hand and click it, or press Ctrl-Z or Z in the hotkeys mode, then choose a respective option. An underground entrance (more like exit, in this case) could also be dug upwards if done underground, unless there is some kind of obstacle on the surface, e.g. a floor cover.</td>
+<td>Made with either 2 bone pieces or a <b><a href="Guide_to_Metallurgy#molds">cast shovel head</a></b>, plus a wooden handle. Used to dig up dirt, sand and snow, as well as for digging underground entrances (tunnels), irrigation channels, pit latrines and graves. For the last four, hold a shovel in the active hand and click it, or press Ctrl-Z or Z in the hotkeys mode, then choose a respective option. An underground entrance (more like exit, in this case) could also be dug upwards if done underground, unless there is some kind of obstacle on the surface, e.g. a floor cover.</td>
 </tr>
 <tr>
 <td><img src="assets/images/chisel.png"> <img src="assets/images/modern_chisel.png"></td>
@@ -138,7 +139,7 @@ Pioneers, only the Blacksmith can use the anvil.
 <tr>
 <td><img src="assets/images/bone_pickaxe.png"> <img src="assets/images/pickaxe.png"></td>
 <td><b>Pickaxe</b></td>
-<td>Made with either 2 bone pieces, 2 stones or 3 iron ingots, plus a wooden handle. Used to mine underground rock walls. The iron pickaxe works quicker.</td>
+<td>Made with either 2 bone pieces, 2 stones or a <b><a href="Guide_to_Metallurgy#molds">cast pickaxe head</a></b>, plus a wooden handle. Used to mine underground rock walls. The iron pickaxe works quicker.</td>
 </tr>
 <tr>
 <td><img src="assets/images/jackhammer.png"></td>
@@ -274,16 +275,18 @@ build barricades and walls. Refer to the
 The riches that have been accumulating for eons, concealed by mass of
 rock. Time to hollow out the earth and put them to good use!
 
-<b>Smelting</b>
+#### Smelting
 
-Some ores must be processed before crafting, which is done by smelting
-them in **[Campfire, Ovens and Furnace](#campfire-ovens-and-furnace)**. See that section for the detailed description of smelting and available alloys. Smelting
+Metal ores must be processed before crafting, and smelting
+them is covered in the **[Guide to Metallurgy](Guide_to_Metallurgy)**. See that section for the detailed description of smelting and available alloys. Smelting
 ores produces ingots, which are a material that could be used for
 crafting.
 
 <b>Obsidian</b> is turned into usable material sheets by cutting it with
 hammer and chisel - click a stack of obsidian rocks with a chisel while
 holding a hammer in the other hand.
+
+**Diamonds** are simply... cooked until ready in the **[campfire and ovens](#campfire-and-ovens)** (for now).
 
 <table>
 <tbody>
@@ -352,9 +355,9 @@ holding a hammer in the other hand.
   - Ores marked with (*) could be found only in the undergrounds of
     certain biomes:
 
-    - Sandstone - Desert
+    - Sandstone - Desert.
 
-    - Obsidian - Jungle (obsidian is also available from 313 BC to 1713.)
+    - Obsidian - Jungle (obsidian is also available from 313 BC to 1713).
 
 #### Mining
 <table>
@@ -433,7 +436,7 @@ plastics, so let's start drilling!
   - Petroleum as fuel for lamps, lanterns and the hot bulb engine could
     be substituted with **[olive oil](Guide_to_Farming)**.
 
-## Campfire, Ovens and Furnace
+## Campfire and Ovens
 
 The means to harness fire.
 
@@ -452,7 +455,7 @@ either wood, tree branches, mineral coal or charcoal.
 </tbody>
 </table>
 
-**Pay attention when adding fuel to your fires, so as not to accidentally feed it a whole stack of 50 pieces of coal (unless that is your intent, of course)! Fuel cannot be retrieved!** Shift-Click the stack to examine the quantity, then separate the stack by holding it in the non-active hand and clicking it with the active empty hand.
+**Pay attention when adding fuel to your fires, so as not to accidentally feed it a whole stack of 50 pieces of coal (unless that is your intent, of course)! Fuel cannot be retrieved!** Shift-Click the stack to examine the quantity, then separate the stack by holding it in the non-active hand, pressing Alt and clicking it with the active empty hand.
 
 Here is how long 1 unit of different fuel will last (minutes):
 
@@ -487,10 +490,8 @@ Here is how long 1 unit of different fuel will last (minutes):
 
 ### Campfire, iron oven and wood stove
 
-Essentially, these three have the same functions - to smelt ores into
-metal ingots, to fire pottery and bricks of
-**[Clay](Full_Crafting_List#clay)**, and to
-**[cook](Guide_to_Cooking)**. There are two main differences
+Essentially, these three have the same functions - to fire **[Clay](Full_Crafting_List#clay)** items and to
+**[cook](Guide_to_Cooking)** (with an added bonus of keeping you warm when you are within 1 tile of them). There are two main differences
 between a campfire, an oven and a stove. The first one is their
 capacity, i.e. the number of objects they can hold and process
 simultaneously. You can think about it as a number of 'production
@@ -520,75 +521,6 @@ Made with 8 iron ingots. A potbelly-like containment for fire.</td>
 <td><b>Capacity</b>: 4<br />
 <b>Cooking time</b>: 5 seconds<br />
 Made with 8 steel sheets. A pinnacle of the fireplace technology (so far...)</td>
-</tr>
-</tbody>
-</table>
-
-### Furnace
-
-<table>
-<tbody>
-<tr>
-<td width="5%"><img src="assets/images/furnace.png"></td>
-<td><b>Furnace</b></td>
-<td>The furnace has a different purpose. It is used to produce steel sheets
-from iron, to alloy metals and to recycle some of the metallic items
-back into metal ingots for further use. It is operated similarly to the
-campfires and ovens, apart from that it does not have continuous fire -
-the fire will go out after an operation is finished. The furnace
-requires 2 units of fuel per single operation, i.e. at least 2 wood logs
-or 1 piece of mineral coal.</td>
-</tr>
-</tbody>
-</table>
-
-<b>Available alloys</b>
-
-<table>
-<tbody>
-<tr>
-<td><img src="assets/images/sheet_bronze.png"> &emsp; &emsp; <img src="assets/images/sheet_steel.png"></td>
-</tr>
-<tr>
-<td><b><a href="Full_Crafting_List#bronze">Bronze</a></b> &emsp; <b><a href="Full_Crafting_List#steel">Steel</a></b></td>
-</tr>
-</tbody>
-</table>
-
-Furnace accepts both ore and metal ingots as raw materials. For example,
-you could produce steel from both iron ore and iron ingots.
-
-Despite steel being an alloy, game mechanics does not require carbon as
-a second component (as of now), but, for convenience, steel is placed in
-the alloys category.
-
-Furnace could be made with either 10 stones or 10 pieces of clay.
-
-Hover the mouse cursor over the icons below to see the material or the
-item's name.
-
-<table>
-<tbody>
-<tr>
-<td><b>Alloys</b></td>
-</tr>
-<tr>
-<td><b>1 Iron ore</b> <img src="assets/images/ore_iron.png">or <b>1 Iron ingot</b><img src="assets/images/sheet_iron.png">=> <b>1 Steel ingot</b> <img src="assets/images/sheet_steel.png"></td></tr>
-<tr>
-<td><b>1 Copper ore</b><img src="assets/images/ore_copper.png">or <b>1 Copper ingot</b> <img src="assets/images/sheet_copper.png">+ <b>1 Tin ore</b> <img src="assets/images/ore_tin.png">or <b>1 Tin ingot</b><img src="assets/images/sheet_tin.png">=> <b>1 Bronze ingot</b><img src="assets/images/sheet_bronze.png"></td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td><b>Recycling</b></td>
-</tr>
-<tr>
-<td><b>1 knife, spoon or fork => 1 ingot of a respective material</b></td>
-</tr>
-<tr>
-<td><b>Tin can<img src="assets/images/tin_can_empty.png">=> 90% of amount of tin spent on the cans</b></td>
 </tr>
 </tbody>
 </table>
@@ -642,19 +574,6 @@ level of the crafting skill before you are able to use them.
 <td width="5%"><img src="assets/images/acidic_bath.png"></td>
 <td width="10%"><b>Acidic bath</b></td>
 <td>Made with 12 steel sheets. Used to soak <b>raw kevlar</b> into <b>prepared kevlar</b>, which is further formed into <b>kevlar sheets</b> at the <b><a href="#loom">loom</a></b>. <b>Raw kevlar</b> recipe requires mixing sulphuric acid (sulphur, hydrogen, oxygen) and any form of refined fuel (not ground-oil petroleum).</td>
-</tr>
-</tbody>
-</table>
-
-### Anvil
-
-<table>
-<tbody>
-<tr>
-<td width="5%"><img src="assets/images/anvil.png"></td>
-<td width="10%"><b>Anvil</b></td>
-<td><b>Skill required: 1.7</b><br />
-Made with 25 iron ingots. Used to forge weapons across the centuries, from ancient swords to muskets and makeshift AK-47s. Take some iron ingots or steel sheets and click the anvil with them. Now click the anvil to see the available recipes along with the material cost. Right-click the anvil and choose 'Empty' command to retrieve the iron or steel you have put on it. See the <b><a href="Guide_to_Weapons">Guide to Weapons</a></b> for more information on specific weapons and their availability in different ages.</td>
 </tr>
 </tbody>
 </table>
@@ -761,8 +680,8 @@ A weapon blueprint is produced every time you design and assemble a firearm at t
 
 These serve to truly extend one's reach.
 
-<b>Arrows</b>
-An arrow shaft is made with 1 wood log. Could be launched from a bow, but it is very weak on its own. Make arrowheads out of respective materials and attach them to arrow shafts by clicking. You can set arrows on fire by clicking a lit brazier with them. A vial arrowhead (made out of glass) could be filled with a chemical reagent that will be spilled upon hitting a target.
+### Arrows
+An arrow shaft is made with 1 wood log. Could be launched from a bow, but it is very weak on its own. Make arrowheads via casting in the **[arrowhead mold](Guide_to_Metallurgy#molds)** and attach them to arrow shafts by clicking. You can set arrows on fire by clicking a lit brazier with them. A vial arrowhead (made out of glass) could be filled with a chemical reagent that will be spilled upon hitting a target.
 <table>
 <tbody>
 <tr>
