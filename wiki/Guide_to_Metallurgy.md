@@ -10,7 +10,7 @@ Metallurgy concerns manipulating raw ores and turning them into metals, from whi
 
 ### Obtaining metals
 
-Different metals are produced from **[ores](Guide_to_Crafting#ores)** in different furnaces. See sections on furnaces and on respective metals for more details.
+Different metals are produced from **[ores](Guide_to_Crafting#ores)** in different furnaces. See sections on **[Furnaces](#furnaces)** and on respective **[metals](#ores-and-metals)** for more details.
 
 ### General steps of metalworking
 

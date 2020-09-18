@@ -267,6 +267,8 @@ To avoid that, go to sleep properly:
 - Sleep tight. Now you can log off. If you go to sleep with full stomach (100% of food and water), your character will last about 3 RL days. All things you have on yourself will be safe, **except that you drop whatever you have in your hands, leaving it in the sleep zone!**
 - To wake up, type "wake-up" (again, without "say") or click "Wake Up" on the IC tab. You will be teleported to the spot where you went to sleep.
 
+You can also save someone else if they happened to faint in the middle of the street. **Buckling to bed slows the increase of thirst and hunger**, so the buckled person will live longer and even indefinitely, if cared for with food and water regularly.
+
 ## Additional info
 ### Status tab
 The Status tab has some general info about the ongoing round, both OOC and IC, namely:

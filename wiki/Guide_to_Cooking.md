@@ -8,6 +8,11 @@ vegetables and wheat-derived products.
 
 Furthermore, more complex recipes are also even more nutritious and improve **[mood](Starter_Guide#mood)**. Besides, this also presents interesting RP options, such as being vegetarian, perhaps pork-free, et cetera, some of which could be enforced with selectable **[traits](Guide_to_Character#traits)**.
 
+## What to eat?
+- **[Guide to Farming](Guide_to_Farming)**
+- **[Guide to Ranching](Guide_to_Ranching)**
+- **[Guide to Fishing](Guide_to_Fishing)**
+
 ## Kitchen implements
 
 See the **[Full Crafting List](Full_Crafting_List)** for more details about crafting the implements from the list.
