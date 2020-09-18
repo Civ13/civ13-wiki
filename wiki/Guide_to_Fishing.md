@@ -39,7 +39,7 @@ Ways of parting fish and the like with their element.
 <tr>
 <td><img src="assets/images/fishing_rod.png"></td>
 <td><b>Fishing rod</b></td>
-<td>Made with 5 iron. A moden fishing contraption. Only blast fishing would be better than this.</td>
+<td>Made with 5 iron. A modern fishing contraption. Only blast fishing would be better than this.</td>
 </tr>
 <tr>
 <td><img src="assets/images/fishing_cage.png"></td>
