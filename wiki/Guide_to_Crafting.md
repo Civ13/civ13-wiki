@@ -34,11 +34,12 @@ machinery and vehicles.
     crafting.
     
    - **[Guide to Construction](Guide_to_Construction)** - details on constructing walls, floors, doors etc.
+   
+   - **[Guide to Metallurgy](Guide_to_Metallurgy)** - smelting raw metal ores, blacksmithing and metalworking.
 
 **Quick links:**
 
 - **[Mining](#mining)**
-- **[Guide to Metallurgy](Guide_to_Metallurgy)**
 - **Making swords and pre-1903 firearms** - **[Anvils](Guide_to_Metallurgy#anvils)**
 - **Making armor** - **[Armorsmithing bench](#armorsmithing-bench)**, **[Specialist armor bench](#specialist-armor-bench)**
 - **Making guns starting from 1903** - **[Gunsmithing bench](#gunsmithing-bench)**
@@ -491,7 +492,7 @@ Here is how long 1 unit of different fuel will last (minutes):
 ### Campfire, iron oven and wood stove
 
 Essentially, these three have the same functions - to fire **[Clay](Full_Crafting_List#clay)** items and to
-**[cook](Guide_to_Cooking)** (with an added bonus of keeping you warm when you are within 1 tile of them). There are two main differences
+**[cook](Guide_to_Cooking)** (with an added bonus of keeping you warm in winter chill when you are within 1 tile of them). There are two main differences
 between a campfire, an oven and a stove. The first one is their
 capacity, i.e. the number of objects they can hold and process
 simultaneously. You can think about it as a number of 'production
