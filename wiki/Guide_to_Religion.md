@@ -106,15 +106,107 @@ religions). These books can be copied using printing presses (or, in the
 case of Monk religions, by hand), but be aware that if all the books are
 lost, you might not be able to expand the religion further\!
 
-### Totems and Monuments
+### Totems, Monuments and Altars
 
 Posters and Altars can be built. Some styles of religion might rely more
 on these, like the Shamanistic religions with totems and Priesthood
 religions with altars.
+
+#### Altars
+
+A list of all altars, note that there is no difference in any altar so you can make the one you like the most or fits your temple.
+
+Wood altar. Made from wood.
+
+<img src="assets/images/woodaltar">
+
+Stone altar. Made from stone.
+
+<img src="assets/images/stonealtar">
+
+Marble altar. Made from stone.
+
+<img src="assets/images/marblealtar">
+
+Bamboo altar. Made from bamboo.
+
+<img src="assets/images/bambooaltar">
+
+Iron altar. Made from iron.
+
+<img src="assets/images/ironaltar">
+
+Obsidian altar. Made from obsidian.
+
+<img src="assets/images/obsidianaltar">
+
+Sandstone altar. Made from sandstone.
+
+<img src="assets/images/sandstonealtar">
+
+#### Statues
+
+A list of all statues of both stones, its good to know them if you want to make an animal themed religion.
+
+##### Stone statues
+
+Monkey statue.
+
+<img src="assets/images/monkeystatue">
+
+Bear statue.
+
+<img src="assets/images/bearstatue">
+
+Goose statue.
+
+<img src="assets/images/goosestatue">
+
+Mouse statue.
+
+<img src="assets/images/mousestatue">
+
+Turkey statue.
+
+<img src="assets/images/turkeystatue">
+
+Wolf statue.
+
+<img src="assets/images/wolfstatue">
+
+##### Sandstone statues
+
+Alligator statue.
+
+<img src="assets/images/alligatorstatue">
+
+Ewe statue.
+
+<img src="assets/images/ewestatue">
+
+Ram statue.
+
+<img src="assets/images/ramstatue">
+
+Snake statue.
+
+<img src="assets/images/snakestatue">
+
+
 
 ### Amulets and Talismans
 
 Amulets and Talismans enable the wearer to get the religion focus
 advantages.
 
-## Conversion and Organization
+## Conversion
+
+Converting people is important to expand your religion, and its so simple it seems easy, but have in mind its also so slow people will prefer to keep doing ~nothing~ their work.
+### How to Convert?
+Converting people is simple, but as said before its really slow and tedious, more if you have a lot of people.
+
+#### Holy Book 
+The slowest way of converting. To convert someone to your religion you have to give them your book, suposing a risk for the religion since they may be cultists looking to burn your ideology. If they are clear and really want to join your religion they will have to read it, for that, they have to stand still for 1 minute and 30 seconds, so first take them to a private place whit no people.
+
+#### Altar
+This is the most optimal way and the only reason why most religions are priesthoods. To convert someone you need a priest religion, an altar, made of multiple materials. First, make them stand still on top of the altar, then a priest has to use the altar, while the converted person is on top of it and they will be converted instantly.
