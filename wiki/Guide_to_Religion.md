@@ -118,31 +118,31 @@ A list of all altars, note that there is no difference in any altar so you can m
 
 Wood altar. Made from wood.
 
-<img src="assets/images/woodaltar">
+<img src="assets/images/woodaltar.png">
 
 Stone altar. Made from stone.
 
-<img src="assets/images/stonealtar">
+<img src="assets/images/stonealtar.png">
 
 Marble altar. Made from stone.
 
-<img src="assets/images/marblealtar">
+<img src="assets/images/marblealtar.png">
 
 Bamboo altar. Made from bamboo.
 
-<img src="assets/images/bambooaltar">
+<img src="assets/images/bambooaltar.png">
 
 Iron altar. Made from iron.
 
-<img src="assets/images/ironaltar">
+<img src="assets/images/ironaltar.png">
 
 Obsidian altar. Made from obsidian.
 
-<img src="assets/images/obsidianaltar">
+<img src="assets/images/obsidianaltar.png">
 
 Sandstone altar. Made from sandstone.
 
-<img src="assets/images/sandstonealtar">
+<img src="assets/images/sandstonealtar.png">
 
 #### Statues
 
@@ -152,46 +152,45 @@ A list of all statues of both stones, its good to know them if you want to make 
 
 Monkey statue.
 
-<img src="assets/images/monkeystatue">
+<img src="assets/images/monkeystatue.png">
 
 Bear statue.
 
-<img src="assets/images/bearstatue">
+<img src="assets/images/bearstatue.png">
 
 Goose statue.
 
-<img src="assets/images/goosestatue">
+<img src="assets/images/goosestatue.png">
 
 Mouse statue.
 
-<img src="assets/images/mousestatue">
+<img src="assets/images/mousestatue.png">
 
 Turkey statue.
 
-<img src="assets/images/turkeystatue">
+<img src="assets/images/turkeystatue.png">
 
 Wolf statue.
 
-<img src="assets/images/wolfstatue">
+<img src="assets/images/wolfstatue.png">
 
 ##### Sandstone statues
 
 Alligator statue.
 
-<img src="assets/images/alligatorstatue">
+<img src="assets/images/alligatorstatue.png">
 
 Ewe statue.
 
-<img src="assets/images/ewestatue">
+<img src="assets/images/ewestatue.png">
 
 Ram statue.
 
-<img src="assets/images/ramstatue">
+<img src="assets/images/ramstatue.png">
 
 Snake statue.
 
-<img src="assets/images/snakestatue">
-
+<img src="assets/images/snakestatue.png">
 
 
 ### Amulets and Talismans
