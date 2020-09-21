@@ -97,12 +97,12 @@ Furnaces are operated similarly to the **[campfire and ovens](Guide_to_Crafting#
 <tr>
 <td width="5%"><img src="assets/images/kiln_clay.png"></td>
 <td><b>Kiln</b></td>
-<td>Made with either 10 clay, stone or sandstone. Used to melt ores and metals in blacksmith jugs and pots. Can also be used to recycle metal items back into metal.</td>
+<td>Made with either 10 clay, stone or sandstone. Used to melt ores and metals in blacksmith jugs and pots.</td>
 </tr>
 <tr>
 <td><img src="assets/images/bloomery.png"></td>
 <td><b>Bloomery</b></td>
-<td>Made with 10 clay. Used to smelt iron ore into sponge iron.</td>
+<td>Made with 10 clay. Used to smelt iron ore into sponge iron. Can also be used to recycle metal items back into metal.</td>
 </tr>
 <tr>
 <td><img src="assets/images/blast_furnace.png"></td>
