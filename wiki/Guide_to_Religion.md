@@ -200,12 +200,12 @@ advantages.
 
 ## Conversion
 
-Converting people is important to expand your religion, and its so simple it seems easy, but have in mind its also so slow people will prefer to keep doing ~nothing~ their work.
+Converting people is important to expand your religion, and its so simple it seems easy, but have in mind its also so slow people will prefer to keep doing ~~nothing~~ their job.
 ### How to Convert?
-Converting people is simple, but as said before its really slow and tedious, more if you have a lot of people.
+Converting people is simple, but as said before its really slow and tedious, even more if you have a lot of people.
 
 #### Holy Book 
-The slowest way of converting. To convert someone to your religion you have to give them your book, suposing a risk for the religion since they may be cultists looking to burn your ideology. If they are clear and really want to join your religion they will have to read it, for that, they have to stand still for 1 minute and 30 seconds, so first take them to a private place whit no people.
+The slowest way of converting. To convert someone to your religion you have to give them your book, suposing a risk for the religion since they may be cultists looking to burn your ideology. If they are clear and really want to join your religion they will have to read it, for that, they have to stand still for 1 minute and 30 seconds, so first take them to a place whit no people or non transitated places.
 
 #### Altar
-This is the most optimal way and the only reason why most religions are priesthoods. To convert someone you need a priest religion, an altar, made of multiple materials. First, make them stand still on top of the altar, then a priest has to use the altar, while the converted person is on top of it and they will be converted instantly.
+This is the most optimal way and the only reason why most religions are cleric. To convert someone you need a cleric religion, an altar, made of multiple materials. First, make them stand still on top of the altar, then a clerc has to use the altar, while the converted person is on top of it and they will be converted instantly.
