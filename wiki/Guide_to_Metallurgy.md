@@ -20,12 +20,14 @@ The primary component of metalworking is **[molds](#molds)**. At the very least,
 * Place a pot or a jug inside a **kiln**.
 * Light fire in the kiln and wait until the ore melts.
 * Pour molten metal into a mold of your choosing.
-* Take the mold and click a suitable(1) anvil with it.
+* Take the mold and click a suitable(1) anvil with it(3). 
 * Select a metal item to make(2).
 
 (1): Some metals could only be worked on a more advanced anvil. For example, iron items are produced on the iron and steel anvils, not on the stone one. See the **[Anvils](#anvils)** section.
 
 (2): The list of available items depends on the epoch.
+
+(3): To make other items that are not cast via molds, click the anvil with metal ingots or sheets.
 
 ## Molds
 
@@ -139,7 +141,7 @@ Bronze is an alloy of tin and copper. You need to melt **equal amounts**  (1:1 r
 * To cast steel tools or weapons with molds, **put steel sheets in a jug or a pot and melt them in a kiln**.
 
 ## Anvils
-Anvils are used to forge weapons across the centuries, from ancient swords to muskets and makeshift AK-47s. See the **[Guide to Weapons](Guide_to_Weapons)** for more information on specific weapons and their availability in different ages.
+Anvils are used to forge armor and weapons across the centuries, from ancient swords to muskets and makeshift AK-47s. See the **[Guide to Weapons](Guide_to_Weapons)** for more information on specific weapons and their availability in different ages.
 
 **Using anvils requires 1.7 of the Crafting skill.**
 
@@ -159,7 +161,7 @@ Click anvils with a mold with molten metal or with some metal sheets or ingots t
 <tr>
 <td><img src="assets/images/anvil_steel.png"></td>
 <td><b>Steel</b></td>
-<td>Made with 25 steel. Used to work all kinds of metals.</td>
+<td>Made with 25 steel. Used to work all kinds of metals, plus <b><a href="Guide_to_Crafting#acidic-bath">kevlar</a></b>.</td>
 </tr>
 </tbody>
 </table>
