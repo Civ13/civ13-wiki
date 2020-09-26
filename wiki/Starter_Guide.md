@@ -30,6 +30,24 @@ You will need some basic things to survive. At the very start you will most like
 The same mechanic for opening crafting menu applies to all materials.
 Activate in hand to open the crafting menu.
 
+Also, now introducting **Mining 101**.
+
+Ores are valuable crafting materials which you mine out of the rock.
+
+ - You'll need **wood** and **bone** for this. Go gather them (bones are obtained by butchering animals),
+ - Make a **tool handle** from **wood** ("tools" section).
+ - Hold it in the **off-hand**.
+ - Activate some **bone** in your **active hand**.
+ - Make a **bone pickaxe**.
+ - Find an **underground rock** tile (either on surface or underground - see the **[Shelter](#shelter)** section about digging underground). 
+ - Use the **pickaxe** on it. 
+ 
+ **WARNING: IF MINING UNDERGROUND, BUILD MINING SUPPORTS WITH WOOD EVERY 2 TILES OR YOU WILL HAVE A CAVE-IN!**
+ 
+ More details about mining **[here](Guide_to_Crafting#mining)**.
+ 
+ What to do with metal ores - **[Guide to Metallurgy](Guide_to_Metallurgy)**.
+
 ## Staying alive
 
 To survive, you will need to keep yourself nourished and warm.
@@ -78,6 +96,7 @@ dunga* can do it!
   - **[Guide to Ranching](Guide_to_Ranching "wikilink")**
   - **[Guide to Farming](Guide_to_Farming "wikilink")**
   - **[Guide to Cooking](Guide_to_Cooking "wikilink")**
+  - **[Guide to Fishing](Guide_to_Fishing "wikilink")**
 
 ### Thirst
 
@@ -90,25 +109,23 @@ You can get water from **puddles**, any **water tiles (except saltwater - do not
 
   - To drink, you need to make a **mug** from **wood** or **drinking
     glass** from **glass**.
-  - **Wells** have disease-free freshwater. You can build them over a
+  - **Wells** have disease-free freshwater (**however, if there are some... excrements within 4 tiles of a well, the water becomes contaminated and unsafe to drink!)**. You can build them over a
     **puddle** by using with **stone**... if your faction has the
     research levels required.
   - "Raw" water needs to be **boiled** to be 100% safe. Otherwise, you
     have a **chance** of catching **cholera**. Though if you're dying,
     raw water will be a risk you'll have to take.
-  - To boil water, make a pot from **tin** or **copper** ingots.
-      - **Intermission: MINING BASICS**: You'll need **wood** and **bone**
-        for this. Go gather them (bones are obtained by butchering animals),
-          - Make a **tool handle** from **wood** ("tools" section).
-          - Hold it in the **off-hand**.
-          - Activate some **bone** in your **active hand**.
-          - Make a **bone pickaxe**.
-          - Find a **rock** and use the **pickaxe** on it. **WARNING: BUILD
-            MINING SUPPORTS WITH WOOD EVERY 2 TILES OR YOU WILL HAVE A
-            CAVE-IN**
-          - Grab the **copper or tin ores** and **smelt them** into
-            **ingots** in a **campfire**.
-          - Use the **ingots** in-hand to craft a **pot**.
+  - To boil water, make a simple **cooking pot** from **clay**.
+    - Craft a **wooden handle**, a **bucket** and a **campfire** with **wood logs**.
+    - Get some animal **bone** (bones obtained by butchering animals).
+    - Hold bones in the **active hand**, the wooden handle in the **off-hand**.
+    - Click bones and make a **bone shovel*.
+    - Take the shovel and click **dirt** tiles with it to dig **dirt piles** (any kind of dirt tiles will do). Click **grass** tiles to remove grass and **snowdirt** to shovel snow to uncover the dirt underneath.
+    - Find some water source and fill the **bucket** with water.
+    - Click dirt piles with the bucket to make lumps of **clay** (1 clay = 10 units of water per 1 dirt pile).
+    - Take clay and click it in the active hand, then choose **unfired clay cooking pot**.
+    - Put the unfired pot into the campfire and click the campfire.
+    - Wait until the pot is fired.
   - Fill the **pot** with **water**, place it on **campfire** or
     **oven**, turn it on, and wait for it to finish boiling.
   - Water is then safe to drink. Pour it in your **mug** or **glass**
