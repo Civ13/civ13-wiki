@@ -119,7 +119,7 @@ You can get water from **puddles**, any **water tiles (except saltwater - do not
     - Craft a **wooden handle**, a **bucket** and a **campfire** with **wood logs**.
     - Get some animal **bone** (bones obtained by butchering animals).
     - Hold bones in the **active hand**, the wooden handle in the **off-hand**.
-    - Click bones and make a **bone shovel*.
+    - Click bones and make a **bone shovel**.
     - Take the shovel and click **dirt** tiles with it to dig **dirt piles** (any kind of dirt tiles will do). Click **grass** tiles to remove grass and **snowdirt** to shovel snow to uncover the dirt underneath.
     - Find some water source and fill the **bucket** with water.
     - Click dirt piles with the bucket to make lumps of **clay** (1 clay = 10 units of water per 1 dirt pile).
