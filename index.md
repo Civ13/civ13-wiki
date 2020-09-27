@@ -41,6 +41,8 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 
 <li class="mainmenu-line"> <a href="Full_Crafting_List" title="Full Crafting List"><img src="assets/images/icons/modern_architecture.png" width="100" height="100" ></a><br><a href="Full_Crafting_List" title="Full Crafting List"><b>Crafting List</b></a> </li>
 
+<li class="mainmenu-line"> <a href="Guide_to_Metallurgy" title="Metallurgy"><img src="assets/images/icons/metallurgy.png" width="100" height="100" ></a><br><a href="Guide_to_Metallurgy" title="Guide to Metallurgy"><b>Metallurgy</b></a> </li>
+
 <li class="mainmenu-line"> <a href="Guide_to_Construction" title="Construction"><img src="assets/images/icons/architecture.png" width="100" height="100" ></a><br><a href="Guide_to_Construction" title="Guide to Construction"><b>Construction</b></a> </li>
 
 <li class="mainmenu-line"> <a href="Guide_to_Communications" title="Communications"><img src="assets/images/icons/talk.png" width="100" height="100" ></a><br><a href="Guide_to_Communications" title="Guide to Communications"><b>Communications</b></a> </li>
@@ -48,6 +50,8 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 <li class="mainmenu-line"> <a href="Guide_to_Farming" title="Guide to Farming"><img src="assets/images/icons/farming.png" width="100" height="100" ></a><br><a href="Guide_to_Farming" title="Guide to Farming"><b>Farming</b></a> </li>
 
 <li class="mainmenu-line"> <a href="Guide_to_Ranching" title="Ranching"><img src="assets/images/icons/ranching.png" width="100" height="100" ></a><br><a href="Guide_to_Ranching" title="Guide to Ranching"><b>Ranching</b></a> </li>
+
+<li class="mainmenu-line"> <a href="Guide_to_Fishing" title="Fishing"><img src="assets/images/icons/fishing.png" width="100" height="100" ></a><br><a href="Guide_to_Fishing" title="Guide to Fishing"><b>Fishing</b></a> </li>
 
 <li class="mainmenu-line"> <a href="Guide_to_Cooking" title="Cooking"><img src="assets/images/icons/cooking.png" width="100" height="100" ></a><br><a href="Guide_to_Cooking" title="Guide to Cooking"><b>Cooking</b></a> </li>
 

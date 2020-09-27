@@ -54,14 +54,14 @@ See the **[Full Crafting List](Full_Crafting_List)** for more details about craf
 <td>Made with 8 iron. Used to mince fish and various meats. More efficient than the cutting board. The minceable items: <b>steaks</b>, <b>cutlets</b>, <b>fish</b>, <b>ham leg</b>, <b>chicken (carcass, thigh, wing, breast)</b>.</td>
 </tr>
 <tr>
-<td><img src="assets/images/pot_tin.png"><img src="assets/images/pot_copper.png"><img src="assets/images/pot_copper_large.png"></td>
+<td><img src="assets/images/pot_clay.png"><img src="assets/images/pot_tin.png"><img src="assets/images/pot_copper.png"><img src="assets/images/pot_copper_large.png"></td>
 <td><b>Pot</b></td>
-<td>Tin pot is made with 3 tin, small copper pot - 3 copper, large - 5. Used to boil water to make it safe to drink (water from <b>wells</b> does not require boiling, unless the surrounding area is <b><a href="Guide_to_Hygiene#keeping-the-place-clean">unclean</a></b>.</td>
+<td>Clay pot is made with 2 clay (also needs firing in a campfire or an oven), tin pot - 3 tin, small copper pot - 3 copper, large - 5. Used to boil water to make it safe to drink (water from <b>wells</b> does not require boiling, unless the surrounding area is <b><a href="Guide_to_Hygiene#keeping-the-place-clean">unclean</a></b>.</td>
 </tr>
 <tr>
 <td><img src="assets/images/cooking_pot.png"></td>
 <td><b>Cooking pot</b></td>
-<td>Made with 8 iron. Used to cook <b>stew</b> and boil food in general. One of the benefits of this fascinating cooking pot is the fact that its contents will never go stale or decompose, allowing you to store food indefinitely!<br> To boil meat, pasta or vegetables without stewing them, fill the pot with water, add a single item, wait for the message that says "X finishes boiling", then click the pot to remove what you have added.</td>
+<td>Made with 8 iron. Used to cook <b>stew</b> and boil food in general. One of the benefits of this fascinating cooking pot is the fact that its contents will never go stale or decompose, allowing you to store food indefinitely!<br> To boil meat, pasta, vegetables etc. without stewing them, fill the pot with water, add a single item, wait for the message that says "X finishes boiling", then click the pot to remove what you have added.</td>
 </tr>
 <tr>
 <td><img src="assets/images/dehydrator.png"></td>
@@ -150,6 +150,11 @@ ingredients needed to make your fantastic dishes, uma delicia!
 <td><img src="assets/images/flour.png"></td>
 <td>Flour</td>
 <td>Grind wheat, oat or barley with the mill to get respective kind of flour. Each sack contains 10 units of flour.</td>
+</tr>
+<tr>
+<td><img src="assets/images/rice.png"></td>
+<td>Rice</td>
+<td>Grind rice stalks with the mill.</td>
 </tr>
 <tr>
 <td><img src="assets/images/Dough.png"></td>
@@ -306,6 +311,21 @@ culinary art!
 <td><img src="assets/images/dried_fish.png"></td>
 <td>Dried fish</td>
 <td>Same as above, only hanging fish fillets.</td>
+</tr>
+<tr>
+<td><img src="assets/images/lobster_boiled.png"></td>
+<td>Boiled lobster</td>
+<td>Boil a lobster in a cooking pot.</td>
+</tr>
+<tr>
+<td><img src="assets/images/rice_boiled.png"></td>
+<td>Boiled rice</td>
+<td>Boil rice in a cooking pot.</td>
+</tr>
+<tr>
+<td><img src="assets/images/ramen.png"></td>
+<td>Ramen</td>
+<td>Boil noodles in a cooking pot.</td>
 </tr>
 <tr>
 <td><img src="assets/images/spaghetti_and_meatballs.png"></td>

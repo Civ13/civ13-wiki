@@ -116,33 +116,52 @@ religions with altars.
 
 A list of all altars, note that there is no difference in any altar so you can make the one you like the most or fits your temple.
 
-Wood altar. Made from wood.
-
-<img src="assets/images/woodaltar.png">
-
-Stone altar. Made from stone.
-
-<img src="assets/images/stonealtar.png">
-
-Marble altar. Made from stone.
-
-<img src="assets/images/marblealtar.png">
-
-Bamboo altar. Made from bamboo.
-
-<img src="assets/images/bambooaltar.png">
-
-Iron altar. Made from iron.
-
-<img src="assets/images/ironaltar.png">
-
-Obsidian altar. Made from obsidian.
-
-<img src="assets/images/obsidianaltar.png">
-
-Sandstone altar. Made from sandstone.
-
-<img src="assets/images/sandstonealtar.png">
+<table>
+<tbody>
+<tr>
+<td width="5%"><img src="assets/images/woodaltar.png"></td>
+<td width="8%"><b>Wood</b></td>
+<td width="20%">Made with 20 wood.</td>
+<td width="67%"></td>
+</tr>
+<tr>
+<td><img src="assets/images/bambooaltar.png"></td>
+<td><b>Bamboo</b></td>
+<td>Made with 20 bamboo.</td>
+<td></td>
+</tr>
+<tr>
+<td><img src="assets/images/stonealtar.png"></td>
+<td><b>Stone</b></td>
+<td>Made with 15 stone.</td>
+<td></td>
+</tr>
+<tr>
+<td><img src="assets/images/sandstonealtar.png"></td>
+<td><b>Sandstone</b></td>
+<td>Made with 15 sandstone.</td>
+<td></td>
+</tr>
+<tr>
+<td><img src="assets/images/marblealtar.png"></td>
+<td><b>Marble</b></td>
+<td>Made with 20 stone.</td>
+<td></td>
+</tr>
+<tr>
+<td><img src="assets/images/obsidianaltar.png"></td>
+<td><b>Obsidian</b></td>
+<td>Made with 15 obsidian.</td>
+<td></td>
+</tr>
+<tr>
+<td><img src="assets/images/ironaltar.png"></td>
+<td><b>Stone</b></td>
+<td>Made with 12 iron.</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 #### Statues
 
@@ -150,48 +169,58 @@ A list of all statues of both stones, its good to know them if you want to make 
 
 ##### Stone statues
 
-Monkey statue.
+<table>
+<tbody>
+<tr>
+<td width="5%"><img src="assets/images/monkeystatue.png"></td>
+<td><b>Monkey</b></td>
+</tr>
+<tr>
+<td><img src="assets/images/bearstatue.png"></td>
+<td><b>Bear</b></td>
+</tr>
+<tr>
+<td><img src="assets/images/goosestatue.png"></td>
+<td><b>Goose</b></td>
+</tr>
+<tr>
+<td><img src="assets/images/mousestatue.png"></td>
+<td><b>Mouse</b></td>
+</tr>
+<tr>
+<td><img src="assets/images/turkeystatue.png"></td>
+<td><b>Turkey</b></td>
+</tr>
+<tr>
+<td><img src="assets/images/wolfstatue.png"></td>
+<td><b>Wolf</b></td>
+</tr>
+</tbody>
+</table>
 
-<img src="assets/images/monkeystatue.png">
-
-Bear statue.
-
-<img src="assets/images/bearstatue.png">
-
-Goose statue.
-
-<img src="assets/images/goosestatue.png">
-
-Mouse statue.
-
-<img src="assets/images/mousestatue.png">
-
-Turkey statue.
-
-<img src="assets/images/turkeystatue.png">
-
-Wolf statue.
-
-<img src="assets/images/wolfstatue.png">
 
 ##### Sandstone statues
 
-Alligator statue.
-
-<img src="assets/images/alligatorstatue.png">
-
-Ewe statue.
-
-<img src="assets/images/ewestatue.png">
-
-Ram statue.
-
-<img src="assets/images/ramstatue.png">
-
-Snake statue.
-
-<img src="assets/images/snakestatue.png">
-
+<table>
+<tbody>
+<tr>
+<td width="5%"><img src="assets/images/alligatorstatue.png"></td>
+<td><b>Alligator</b></td>
+</tr>
+<tr>
+<td><img src="assets/images/ewestatue.png"></td>
+<td><b>Ewe</b></td>
+</tr>
+<tr>
+<td><img src="assets/images/ramstatue.png"></td>
+<td><b>Ram</b></td>
+</tr>
+<tr>
+<td><img src="assets/images/snakestatue.png"></td>
+<td><b>Snake</b></td>
+</tr>
+</tbody>
+</table>
 
 ### Amulets and Talismans
 
@@ -200,12 +229,12 @@ advantages.
 
 ## Conversion
 
-Converting people is important to expand your religion, and its so simple it seems easy, but have in mind its also so slow people will prefer to keep doing ~~nothing~~ their job.
+Converting people is important to expand your religion, and it's so simple it seems easy, but have in mind it's also so slow people will prefer to keep doing ~~nothing~~ their job.
 ### How to Convert?
-Converting people is simple, but as said before its really slow and tedious, even more if you have a lot of people.
+Converting people is simple, but, as said before, it's really slow and tedious, even more if you have a lot of people.
 
 #### Holy Book 
-The slowest way of converting. To convert someone to your religion you have to give them your book, suposing a risk for the religion since they may be cultists looking to burn your ideology. If they are clear and really want to join your religion they will have to read it, for that, they have to stand still for 1 minute and 30 seconds, so first take them to a place whit no people or non transitated places.
+The slowest way of converting. To convert someone to your religion you have to give them your book, supposing a risk for the religion since they may be cultists looking to burn your ideology. If they are clear and really want to join your religion, they will have to read it. For that, they have to stand still for 1 minute and 30 seconds, so first take them to a quiet place with few or no people.
 
 #### Altar
-This is the most optimal way and the only reason why most religions are cleric. To convert someone you need a cleric religion, an altar, made of multiple materials. First, make them stand still on top of the altar, then a clerc has to use the altar, while the converted person is on top of it and they will be converted instantly.
+This is the most optimal way and the only reason why most religions are cleric. To convert someone you need a cleric religion, an altar, made of multiple materials. First, make them stand still on top of the altar, then a cleric has to use the altar, while the converted person is on top of it and they will be converted instantly.
