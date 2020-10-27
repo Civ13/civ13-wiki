@@ -71,6 +71,24 @@ Tundra, Taiga, Temperate, Semi-Arid, Desert, Savannah, and Jungle
 
 ## Island
 
+## Isle 
+
+A small island for 10-15 players, divided by a lava region, jungle/part swamp, and  tundra region.
+
 ## Europe
 
 <img src="assets/images/map_europe.png">
+
+A map based off of the European continent, it has a northern region covered in snow based off of Scandinavia and northern Russia..
+
+There is even a temperate biome based off of central europe (France/Germany/northern Balkans), and a semi arid region based off the Mediterranean regions (Iberian peninsula, Italy, and Greece).
+
+Large rivers cover the continent and 7x7 water ways for bridges(tanks and cars) exist on the large rivers.
+
+Section of Nomads_World project (1/4)
+
+## Africa
+
+Based off of all of Africa. Desert, Savannah, jungle, Savannah.
+
+Section of Nomads_World project (2/4)
