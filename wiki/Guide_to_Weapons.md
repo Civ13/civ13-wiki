@@ -962,7 +962,8 @@ Smoke Grenades
 Full screen coverage, Coverage estimation is about 5-8 blocks. Smoke grenades are useful mainly for medics and people with actual brain of a Chad, smokes prevents snipers shooting people inside it and it also blocks their view and unable to shoot directly to people covered in smoke.
 </td>
 </tr>
-<table>
+</table>
+
 
 ## How to use artillery
 
@@ -1007,7 +1008,6 @@ of wood or if there's grass around.
 ![image](assets/images/N5Xkpza.png)
 This is an <b>A</b>rmor-<b>P</b>iercing shell, it will pierce through the armour of
 tanks.
-
 
 **All the other shells are:**
 
