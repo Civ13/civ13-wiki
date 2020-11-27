@@ -927,8 +927,6 @@ Alternatively, this is the **UNGA** way.
 
 5. **All guns are capable of penetrating a wall, higher caliber means higher penetration.** So make sure to shoot through walls to get a chance of killing someone. Especially people hiding in the corner.
 
-***
-
 ## Grenades and What to do with them:
 
 <table>
@@ -965,8 +963,6 @@ Full screen coverage, Coverage estimation is about 5-8 blocks. Smoke grenades ar
 </td>
 </tr>
 <table>
-
-***
 
 ## How to use artillery
 
