@@ -33,7 +33,7 @@ These walls are marked as **Adaptive**.
 
 A few more details about particular materials.
 
-### Clay
+### [Clay](Full_Crafting_List#clay)
 
 Clay is obtained from **[dirt](Guide_to_Crafting#soil)**:
 
