@@ -117,7 +117,7 @@ better equipment\!
 A small faction with advanced research and guns can usually topple the
 big group of unga dunga cavemen armed with bows and arrows.
 
-There are currently 4 modes of research.
+There are currently 4 (more like 4.5) modes of research.
 
 Research mode is voted at the lobby, before the game begins.
 
@@ -126,12 +126,12 @@ points**\!
 
 ### Classic Research
 
-The original research method\! And the most tedious...
+The original research method! And the most tedious...
 
 Use a **Research Kit** on Scientific Literature, Scientific Rock Slate,
 Scientific Books, or Bookcases.
 
-You can make those with **wood** or **stone**.
+You can make those with the following materials: **wood, bamboo, stone, sandstone and marble**.
 
 The points you get depend on how advanced the person who wrote the
 literature was, and what is the subject of their writing.
@@ -144,7 +144,7 @@ to boost your research. Or fight them, rob them... Get creative\!
 
 ### Auto Research
 
-As the name suggest, all factions in the world gain the same amount of
+As the name suggests, all factions in the world gain the same amount of
 points in all areas at the same rate, without doing anything.
 
 Sit back and relax. Or go plan a war against that one guy who looked at
@@ -162,14 +162,7 @@ natural resources. No slacking off\!
 
 Different items are worth different amounts.
 
-Experiment\!
-
-### No Research
-
-In this mode, you're stuck in the epoch you started in, with all
-technology of that epoch unlocked.
-
-Research mechanics won't yield any improvements.
+Experiment!
 
 ### Chad Mode
 
@@ -186,6 +179,13 @@ Just like Chad Mode, but with research! To do chad research, build an **Altar of
 
 **If a faction member is sacrificed to advance a certain category of research, that faction loses all their research points in that category!**
 
+### No Research
+
+In this mode, you're stuck in the epoch you started in, with all
+technology of that epoch unlocked.
+
+Research mechanics won't yield any improvements.
+
 ## The Research Milestones
 
 A list of the most important technology that you'll unlock, and at what
@@ -201,7 +201,7 @@ levels, check **[Full Crafting List](Full_Crafting_List "wikilink")**.
 - 17: gold and silver hatchets and spears **(requires 16 points in Military too)**
 - 18: coin pouch. floors, wood walls, doors
 - 19: roman sandals, loom, pipe, mill, dehydrator, barrel, pen, foldable canopy
-- 21: bronze hatchet, spear, shield, and battle axe **(requires 16 points in Military too)** | well
+- 21: water well, bronze hatchet, spear, shield, and battle axe **(requires 16 points in Military too)**
 - 22: rolling pin, mop, drinking glass, small bottle
 - 24: diamond hatchet and spear **(requires 30 points in Military too)**
 - 25: anvil
@@ -232,12 +232,12 @@ levels, check **[Full Crafting List](Full_Crafting_List "wikilink")**.
 - 12: bone armor
 - 14: wood shield
 - 15: leather armor
-- 21: bronze chest plate **(requires 34 points in Industrial too)** | wood sarissa, wood dory
+- 21: bronze chest plate **(requires 34 points in Industrial too)**, wood sarissa, wood dory
 - 32: mechanical trap
 - 33: catapult, catapult projectiles, siege ladder *(requires 24 points in Industrial too)
-- 34: copper small sword **(requires 18 points in Industrial too)** | bronze small sword **(requires 27 points in Industrial too)**
+- 34: copper small sword **(requires 18 points in Industrial too)**, bronze small sword **(requires 27 points in Industrial too)**
 - 39: pike, halberd **(requires 33 points in Industrial too)**
-- 42: copper spadroon **(requires 18 points in Industrial too)** | bronze spadroon **(requires 27 points in Industrial too)**
+- 42: copper spadroon **(requires 18 points in Industrial too)**, bronze spadroon **(requires 27 points in Industrial too)**
 - 46: telescope
 - 49: Fire Lance, Stone Bullets
 - 56: Hand Cannon
@@ -291,7 +291,7 @@ levels, check **[Full Crafting List](Full_Crafting_List "wikilink")**.
 The environment lives and breathes, and will be the single biggest
 factor that influences your life\!
 
-Each map has one or more different biomes. 
+Each map has either a single biome or several different ones. 
 
 There are seasons of the year, effects of which are different in every biome. Some biomes have four seasons, while others have only two.
 
