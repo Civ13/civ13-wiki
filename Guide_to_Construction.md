@@ -7,13 +7,17 @@ heaps of rugged stones and those chaotically growing trees could spring
 such smooth, even walls in all their rectangular glory. A natural
 landscape is a wild beast that needs to be reined in, and reined in it
 will be!
-
+<hr>
 There are a few key elements in the area of construction that you could
 combine and rearrange as you see fit to raise buildings, lay roads and
 develop infrastructure as a whole that is both functional and pleasing
 to the eye. These elements are walls, floors, doors, windows, roofs and
 barricades along with fences. There are also somewhat distinct
 categories of fortifications and lighting.
+
+**To look for specific items, use the “Find in page” command - Ctrl-F.**
+
+## Construction orientation
 
 **Mind that the orientation of some constructions depends on the
 direction your character is facing!** For example, some walls are built
