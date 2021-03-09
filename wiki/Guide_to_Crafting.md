@@ -325,6 +325,7 @@ holding a hammer in the other hand.
 </tr><tr align="center">
 <td><img src="assets/images/sheet_stone.png"></td>
 <td><img src="assets/images/ore_sandstone.png"></td>
+<td><img src="assets/images/sheet_marble.png"></td>
 <td><img src="assets/images/ore_coal.png"></td>
 <td><img src="assets/images/ore_saltpeter.png"></td>
 <td><img src="assets/images/ore_sulphur.png"></td>
@@ -334,6 +335,7 @@ holding a hammer in the other hand.
 <tr align="center">
 <td><b><a href="Full_Crafting_List#stone">Stone</a></b></td>
 <td><b><a href="Full_Crafting_List#sandstone">Sandstone*</a></b></td>
+<td><b><a href="Full_Crafting_List#sandstone">Marble</a></b></td>
 <td><b>Mineral coal</b></td>
 <td><b>Saltpeter</b></td>
 <td><b>Sulphur</b></td>
@@ -345,20 +347,17 @@ holding a hammer in the other hand.
 
 <b>Additional information</b>
 
-  - **Uranium is radioactive!** It will slowly irradiate everything in
-    the vicinity if left out in the open.
+- **Uranium is radioactive!** It will slowly irradiate everything in the vicinity if left out in the open.
 
-  - The ore yielded from excavation is purely random; some ores appear
-    noticeably rarer than others. Among the rarest ores are diamonds,
-    coal, saltpeter, sulfur and uranium. Lead, mercury and platinum are
-    also somewhat uncommon.
+- The ore yielded from excavation is random, but there is a different chance for each ore depending on the epoch and biome. Some ores are noticeably rarer than others. Among the rarest ores are diamonds, coal, saltpeter, sulfur and uranium. Lead, mercury and platinum are also somewhat uncommon.
 
-  - Ores marked with (*) could be found only in the undergrounds of
-    certain biomes:
+- **Marble** can be turned into **Stone**: 2 marble > 1 stone (use "reclaim stone" in the marble crafting menu).
 
-    - Sandstone - Desert.
+- Ores marked with (*) could be found only in the undergrounds of certain biomes:
 
-    - Obsidian - Jungle (obsidian is also available from 313 BC to 1713).
+    - **Sandstone** - Desert.
+
+    - **Obsidian** - Jungle (obsidian is also available from 313 BC to 1713).
 
 #### Mining
 <table>
