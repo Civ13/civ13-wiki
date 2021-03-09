@@ -1,6 +1,6 @@
 # Starter Guide
 
-**This guide mostly pertains to survival in the sandbox [Civilizations and Nomads](Civilization_and_Nomads) game mode.**
+**This guide mostly pertains to survival in the sandbox [Civilizations and Nomads](Civilizations_and_Nomads) game mode.**
 
 ## Spawning in
 
