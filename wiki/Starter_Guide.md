@@ -1,5 +1,7 @@
 # Starter Guide
 
+**This guide mostly pertains to survival in the sandbox [Civilizations and Nomads](Civilization_and_Nomads) game mode.**
+
 ## Spawning in
 
   - When you spawn, you will be told the languages you know. Your
@@ -7,12 +9,12 @@
   - Your **hunger** and **thirst** levels will both be at 50%.
   - You start out with nothing but age-appropriate clothes on your person. Your first priority will be gathering flint to make a
     flint axe. 
-      - Find a large rock and click it on Grab intent - you should
+      - Find a large rock and click it with an empty hand on **Grab intent** - you should
         be able to gather some flint. 
       - Click the rock repeatedly with the flint to sharpen it (you will get a message when it is sharpened).
-      - Now go to a tree and click it on Harm intent. This will pull a
+      - Now go to a tree and click it with an empty hand on **Harm intent**. This will pull a
         branch from the tree and place it on the ground. 
-      - Click the branch with Grab intent to clear the leaves, then click again with Harm intent to pull out the twigs.
+      - Click the branch with an empty hand on **Grab intent** to clear the leaves, then click again on **Harm intent** to pull out the twigs.
       - Use the sharpened flint on the stick to sharpen it, then click the sharpened stick with the flint again to craft
         yourself a trusty flint axe, a tool and a weapon.
   - If it's **winter season** or **Ice Age** map, you also spawn with a
@@ -34,7 +36,7 @@ Also, now introducting **Mining 101**.
 
 Ores are valuable crafting materials which you mine out of the rock.
 
- - You'll need **wood** and **bone** for this. Go gather them (bones are obtained by butchering animals),
+ - You'll need **wood** and **bone** for this. Go gather them (bones are obtained by butchering animals - click the carcass with something sharp, like a flint axe or a knife),
  - Make a **tool handle** from **wood** ("tools" section).
  - Hold it in the **off-hand**.
  - Activate some **bone** in your **active hand**.
@@ -62,7 +64,7 @@ Hunger and thirst affect your **movement speed**, **healing
 rates** and **[mood](#mood "wikilink")**.
 
 Being slow makes you easy prey for predators, criminals, and
-cannibals. Malnourishment also makes it easier to catch **[diseases](Guide_to_Medical#diseases "wikilink")**.
+cannibals. Malnourishment also makes it easier to catch **[diseases](Guide_to_Medical#diseases)**.
 
 ### Hunger
 
@@ -87,16 +89,14 @@ the meat after cooking it. Also, you can eat bird eggs, even uncooked!
     filling it with **water**, and wait.
       - Cooking pots are made with **iron ingots**, but again, it
         requires research levels to make.
-  - **Cold can kill**. Being caught in a **blizzard** or **winter**
-    without proper protection is a very easy way to **die**.
 
 There are many ways to fill your stomach. Even an *unga
 dunga* can do it!
 
-  - **[Guide to Ranching](Guide_to_Ranching "wikilink")**
-  - **[Guide to Farming](Guide_to_Farming "wikilink")**
-  - **[Guide to Cooking](Guide_to_Cooking "wikilink")**
-  - **[Guide to Fishing](Guide_to_Fishing "wikilink")**
+  - **[Guide to Ranching](Guide_to_Ranching)**
+  - **[Guide to Farming](Guide_to_Farming)**
+  - **[Guide to Cooking](Guide_to_Cooking)**
+  - **[Guide to Fishing](Guide_to_Fishing)**
 
 ### Thirst
 
@@ -135,7 +135,7 @@ You can get water from **puddles**, any **water tiles (except saltwater - do not
 
   - Find a **cow**, **sheep ewe**, or **goat ewe**.
   - Make a **bucket** from **wood**.
-  - Use the **bucket** on **help intent** on the animal of choice to
+  - Use the **bucket** on **Help intent** on the animal of choice to
     gather milk.
   - Pour the milk into the **mug** or **glass** and drink.
   - You don't have to boil milk.
@@ -145,7 +145,7 @@ you'll never go thirsty.
 
 #### Palm wine
 
-**[Palm wine](Guide_to_Cooking#palm-wine "wikilink")** could save your life in the desert areas. Follow the steps in the **[Guide to Cooking](Guide_to_Cooking "wikilink")** to make it (glass is made by firing dug sand piles in the campfire).
+**[Palm wine](Guide_to_Cooking#palm-wine)** could save your life in the desert areas. Follow the steps in the **[Guide to Cooking](Guide_to_Cooking)** to make it (glass is made by firing dug sand piles in the campfire).
 
 ### Mood
 
@@ -202,9 +202,9 @@ You can make fur clothing by skinning large furry animals like **bears**
 and **wolves**. <sub>Yes, you can finally skin furries with no
 repercussions.</sub>
 
-  - Kill a **bear** or **wolf**.
+  - Kill one of the following animals: **bear, wolf, bison, monkey, fox sheep**.
   - Skin the animal by using the **knife** on **Grab intent**.
-  - Collect the pelts and craft **fur coat, boots, headcover and gloves** (you will need to hunt several animals for the whole set).
+  - Collect enough pelts and craft **fur coat, boots, headcover and gloves** (you will need to hunt several animals for the whole set).
 
 #### Shelter
 
@@ -268,11 +268,11 @@ The basic source of light is the **torch**.
 
 Torches will last for **5 minutes** and then burn out.
 
-  - You can also make lanterns with **iron**. Lanterns require fuel - any form of liquid fuel will do.
+  - You can also make lanterns with **iron**. Lanterns require fuel - any form of liquid fuel will do, like olive oil (**[grow](Guide_to_Farming)** olives and click buckets or barrels with them to make oil) or **[petroleum](Guide_to_Crafting#petroleum)**.
 
 For a more **permanent** light source, you can build **braziers** from
 **stone**. You can fuel it with any organic matter like wood or
-clothing, simply use items on the brazier on **help intent**.
+clothing - simply use items on the brazier on **Help intent**.
 
 ## Saving your character
 If you simply log off, your character will be left unconscious and helpless, lying face-down on the floor, liable to get killed or robbed or just starve to death.
