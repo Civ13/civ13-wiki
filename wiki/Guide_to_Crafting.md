@@ -223,7 +223,7 @@ to the **[Guide to Cooking](Guide_to_Cooking)**.
 <tr>
 <td><img src="assets/images/wool_pile.png"> <img src="assets/images/wool_roll.png"></td>
 <td><b>Wool and Woolcloth</b></td>
-<td>Obtained by shearing sheep. Used for many varieties of clothing, mainly as a cloth substitute for the biomes that lack cotton. Use the <a href="Guide_to_Crafting#loom">loom</a> to turn wool piles into <b><a href="Full_Crafting_List#woolcloth">Woolcloth</a></b>.</td>
+<td>Obtained by shearing sheep with shears (made from either bronze or iron). Used for many varieties of clothing, mainly as a cloth substitute for the biomes that lack cotton. Use the <a href="Guide_to_Crafting#loom">loom</a> to turn wool piles into <b><a href="Full_Crafting_List#woolcloth">Woolcloth</a></b>.</td>
 </tr>
 <tr>
 <td><img src="assets/images/leather.png"></td>
