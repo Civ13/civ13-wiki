@@ -1175,7 +1175,7 @@ with a key (the iron and jail doors currently) - more details below.
 <tr>
 <td><img src="assets/images/door_iron.png" title="5 iron; direction - All"></td><td>
 <b>Iron door</b></td>
-<td><img src="assets/images/double_doors.png" title="10 stone, sandstone, marble, steel, iron; 8 bronze; 5 gold, silver, tin, copper, lead, wood, bamboo; direction - All"></td><td>
+<td><img src="assets/images/double_doors.png" title="Either 10 stone, sandstone, marble, steel, iron; 8 bronze; 5 gold, silver, tin, copper, lead, wood, bamboo; direction - All"></td><td>
 <b>Double doors</b></td>
 <td><img src="assets/images/door_cell_wood.png" title="12 wood; direction - All"></td><td>
 <b>Wood jail door</b></td>
