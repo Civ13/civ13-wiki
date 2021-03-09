@@ -202,7 +202,7 @@ You can make fur clothing by skinning large furry animals like **bears**
 and **wolves**. <sub>Yes, you can finally skin furries with no
 repercussions.</sub>
 
-  - Kill one of the following animals: **bear, wolf, bison, monkey, fox sheep**.
+  - Kill one of the following animals: **bear, wolf, bison, monkey, fox, sheep**.
   - Skin the animal by using the **knife** on **Grab intent**.
   - Collect enough pelts and craft **fur coat, boots, headcover and gloves** (you will need to hunt several animals for the whole set).
 
