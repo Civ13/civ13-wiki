@@ -1163,20 +1163,26 @@ with a key (the iron and jail doors currently) - more details below.
 <b>Wood door</b></td>
 </tr>
 <tr>
+<td><img src="assets/images/door_privacy.png" title="10 wood; direction - All"></td><td>
+<b>Privacy door</b></td>
+<td><img src="assets/images/door_house.png" title="5 wood; direction - All"></td><td>
+<b>House door</b></td>
 <td><img src="assets/images/door_nordic.png" title="5 wood; direction - All"></td><td>
 <b>Nordic door</b></td>
 <td><img src="assets/images/door_aztec.png" title="5 wood; direction - All"></td><td>
 <b>Aztec door</b></td>
+</tr>
+<tr>
 <td><img src="assets/images/door_shoji.png" title="1 paper sheet on a wall frame (check Walls section); direction - All"></td><td>
 <b>Shoji door</b></td>
 <td><img src="assets/images/door_roman.png" title="5 stone; direction - All"></td><td>
 <b>Roman door</b></td>
-</tr>
-<tr>
 <td><img src="assets/images/door_iron.png" title="5 iron; direction - All"></td><td>
 <b>Iron door</b></td>
 <td><img src="assets/images/double_doors.png" title="Either 10 stone, sandstone, marble, steel, iron; 8 bronze; 5 gold, silver, tin, copper, lead, wood, bamboo; direction - All"></td><td>
 <b>Double doors</b></td>
+</tr>
+<tr>
 <td><img src="assets/images/door_cell_wood.png" title="12 wood; direction - All"></td><td>
 <b>Wood jail door</b></td>
 <td><img src="assets/images/door_cell.png" title="12 steel; direction - All"></td><td>
