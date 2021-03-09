@@ -135,6 +135,8 @@ Desert, Savanna and Jungles biomes.
 
 ## Crop catalogue
 **The table is sortable - click the headers to sort the column's contents.**
+
+**X - grows; O - doesn't grow.**
 <table class="sortable">
 <thead>
 <tr>
