@@ -335,7 +335,7 @@ holding a hammer in the other hand.
 <tr align="center">
 <td><b><a href="Full_Crafting_List#stone">Stone</a></b></td>
 <td><b><a href="Full_Crafting_List#sandstone">Sandstone*</a></b></td>
-<td><b><a href="Full_Crafting_List#sandstone">Marble</a></b></td>
+<td><b><a href="Full_Crafting_List#marble">Marble</a></b></td>
 <td><b>Mineral coal</b></td>
 <td><b>Saltpeter</b></td>
 <td><b>Sulphur</b></td>
