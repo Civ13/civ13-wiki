@@ -33,9 +33,9 @@ These walls are marked as **Adaptive**.
 
 A few more details about particular materials.
 
-### [Clay](Full_Crafting_List#clay)
+### Clay
 
-Clay is obtained from **[dirt](Guide_to_Crafting#soil)**:
+**[Clay](Full_Crafting_List#clay)** is obtained from **[dirt](Guide_to_Crafting#soil)**:
 
 - Dig any dirt tiles with a shovel to get dirt piles.
 
