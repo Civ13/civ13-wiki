@@ -49,7 +49,7 @@ A few more details about particular materials.
 
 ### Bricks
 
-Most bricks and blocks are made with **[Clay](Full_Crafting_List#clay)**, except for stone bricks.
+Most bricks and blocks are made with **[Clay](Full_Crafting_List#clay)**, except for stone bricks:
 
   - First, make batches of unfired bricks.
 
@@ -1176,7 +1176,7 @@ with a key (the iron and jail doors currently) - more details below.
 <td><img src="assets/images/door_iron.png" title="5 iron; direction - All"></td><td>
 <b>Iron door</b></td>
 <td><img src="assets/images/double_doors.png" title="10 stone, sandstone, marble, steel, iron; 8 bronze; 5 gold, silver, tin, copper, lead, wood, bamboo; direction - All"></td><td>
-<b>Iron door</b></td>
+<b>Double doors</b></td>
 <td><img src="assets/images/door_cell_wood.png" title="12 wood; direction - All"></td><td>
 <b>Wood jail door</b></td>
 <td><img src="assets/images/door_cell.png" title="12 steel; direction - All"></td><td>
