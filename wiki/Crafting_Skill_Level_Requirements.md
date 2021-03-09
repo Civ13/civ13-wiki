@@ -32,7 +32,7 @@
 </tr>
 <tr>
 <td><b>1.7</b></td>
-<td><b>Using:</b><br>anvil<br>armorbench<br>specialist armorbench</td>
+<td><b>Using:</b><br>anvils</td>
 </tr>
 <tr>
 <td><b>1.8</b></td>
