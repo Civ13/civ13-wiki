@@ -1,13 +1,13 @@
 # Guide to Construction
 
-Construction requires basic knowledge in other areas, such as resource acquirement, which are covered in the **[Guide to Crafting](Guide_to_Crafting)**.
-
 It is truly a marvel, that from this dusty dirt under our feet, these
 heaps of rugged stones and those chaotically growing trees could spring
 such smooth, even walls in all their rectangular glory. A natural
 landscape is a wild beast that needs to be reined in, and reined in it
 will be!
 <hr>
+Construction requires basic knowledge in other areas, such as resource acquirement, which are covered in the **[Guide to Crafting](Guide_to_Crafting)**.
+
 There are a few key elements in the area of construction that you could
 combine and rearrange as you see fit to raise buildings, lay roads and
 develop infrastructure as a whole that is both functional and pleasing
