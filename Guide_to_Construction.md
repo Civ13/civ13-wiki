@@ -29,7 +29,7 @@ North, South, West and East to build a wall the same as the image;
 **All** means the construction will look the same regardless of the
 direction.
 
-<b>Some wall tiles change their appearance depending on neighbouring
+<b>Some wall tiles change their appearance depending on the neighbouring
 walls of the same type, so they connect seamlessly to each other.</b>
 These walls are marked as **Adaptive**.
 
