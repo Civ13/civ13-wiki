@@ -1,6 +1,6 @@
 # Guide to Construction
 
-Construction requires basic knowledge in other areas, such as resource acquirement, which are covered in the **[Guide to Crafting](Guide_to_Crafting "wikilink")**.
+Construction requires basic knowledge in other areas, such as resource acquirement, which are covered in the **[Guide to Crafting](Guide_to_Crafting)**.
 
 It is truly a marvel, that from this dusty dirt under our feet, these
 heaps of rugged stones and those chaotically growing trees could spring
@@ -33,13 +33,23 @@ These walls are marked as **Adaptive**.
 
 A few more details about particular materials.
 
-## Bricks
+### Clay
 
-Bricks and blocks are made with **[Clay](Full_Crafting_List#clay "wikilink")**, which is obtained from **[dirt](Guide_to_Crafting#soil "wikilink")**.
+Clay is obtained from **[dirt](Guide_to_Crafting#soil)**:
+
+- Dig any dirt tiles with a shovel to get dirt piles.
+
+- Fill a container (a bucket, a barrel etc.) with water, then click dirt piles with it.
+
+- 10 units of water + 1 dirt pile = 1 clay
+
+### Bricks
+
+Most bricks and blocks are made with **[Clay](Full_Crafting_List#clay)**, except for stone bricks.
 
   - First, make batches of unfired bricks.
 
-  - Put the unfired bricks in either **[a campfire, an oven or a stove](Guide_to_Crafting#campfire-iron-oven-and-wood-stove "wikilink")**.
+  - Put the unfired bricks in either **[a campfire, an oven or a stove](Guide_to_Crafting#campfire-iron-oven-and-wood-stove)**.
 
   - Cook until done.
 
@@ -55,6 +65,9 @@ Bricks and blocks are made with **[Clay](Full_Crafting_List#clay "wikilink")**, 
 </tr>
 <tr>
 <td><img src="assets/images/clay_cement_bricks.png" title="4 clay">&ensp;<b>Cement bricks</b></td>
+</tr>
+<tr>
+<td><img src="assets/images/stone_bricks.png" title="1 stone / 3 sandstone">&ensp;<b>Stone bricks</b></td>
 </tr>
 </tbody>
 </table>
@@ -303,9 +316,7 @@ mirrored accordingly.)
 <img src="assets/images/wall_egyptian2.png">&emsp;
 <img src="assets/images/wall_egyptian3.png">&emsp;
 <img src="assets/images/wall_egyptian4.png">&emsp;
-<img src="assets/images/wall_egyptian5.png">&emsp;
-<img src="assets/images/wall_egyptian6.png">&emsp;
-<img src="assets/images/wall_egyptian7.png"></td>
+<img src="assets/images/wall_egyptian5.png">&emsp;</td>
 <td><img src="assets/images/archway_egyptian_S.png">&emsp;
 <img src="assets/images/archway_egyptian_E.png"></td>
 </tr>
@@ -464,12 +475,78 @@ Made with 8 sandstones.
 <tbody>
 <tr>
 <td><img src="assets/images/wall_sandstone_smooth.png">
-<b>Smooth</b>&emsp;
-<img src="assets/images/wall_sandstone_brick.png">
-<b>Brick</b></td>
+<b>Smooth</b></td>
 </tr>
 <tr>
 <td><b>All</b></td>
+</tr>
+</tbody>
+</table>
+
+<u><b>Sandstone block</b></u>
+
+Made with 8 sandstones. For the archway, directions N and W are also
+available (icons will be mirrored accordingly.)
+
+<table>
+<tbody>
+<tr>
+<td width="30%"><img src="assets/images/wall_sandstone_block.png">&emsp;
+<img src="assets/images/wall_sandstone_block1.png">&emsp;
+<img src="assets/images/wall_sandstone_block2.png">&emsp;
+<img src="assets/images/wall_sandstone_block3.png">&emsp;
+<img src="assets/images/wall_sandstone_block4.png">&emsp;
+<img src="assets/images/wall_sandstone_block5.png"></td>
+<td><img src="assets/images/archway_sandstone_block_S.png">&emsp;
+<img src="assets/images/archway_sandstone_block_E.png"></td>
+</tr>
+<tr>
+<td><b>Adaptive</b></td>
+<td><b>S</b>&emsp;&emsp;&emsp;<b>E</b></td>
+</tr>
+</tbody>
+</table>
+
+<u><b>Red sandstone block</b></u>
+
+Made with 8 sandstones. For the archway, directions N and W are also
+available (icons will be mirrored accordingly.)
+
+<table>
+<tbody>
+<tr>
+<td width="30%"><img src="assets/images/wall_sandstone_block_red.png">&emsp;
+<img src="assets/images/wall_sandstone_block_red1.png">&emsp;
+<img src="assets/images/wall_sandstone_block_red2.png">&emsp;
+<img src="assets/images/wall_sandstone_block_red3.png">&emsp;
+<img src="assets/images/wall_sandstone_block_red4.png">&emsp;
+<img src="assets/images/wall_sandstone_block_red5.png"></td>
+<td><img src="assets/images/archway_sandstone_block_red_S.png">&emsp;
+<img src="assets/images/archway_sandstone_block_red_E.png"></td>
+</tr>
+<tr>
+<td><b>Adaptive</b></td>
+<td><b>S</b>&emsp;&emsp;&emsp;<b>E</b></td>
+</tr>
+</tbody>
+</table>
+
+<u><b>Sandstone fortress</b></u>
+
+Made with 8 sandstones and 8 stones.
+
+<table>
+<tbody>
+<tr>
+<td><img src="assets/images/wall_fortress_sandstone.png">&emsp;
+<img src="assets/images/wall_fortress_sandstone1.png">&emsp;
+<img src="assets/images/wall_fortress_sandstone2.png">&emsp;
+<img src="assets/images/wall_fortress_sandstone3.png">&emsp;
+<img src="assets/images/wall_fortress_sandstone4.png">&emsp;
+<img src="assets/images/wall_fortress_sandstone5.png"></td>
+</tr>
+<tr>
+<td><b>Adaptive</b></td>
 </tr>
 </tbody>
 </table>
@@ -636,6 +713,72 @@ accordingly.)
 <img src="assets/images/wall_fortress5.png">&emsp;</td>
 <td><img src="assets/images/archway_fortress_S.png">&emsp;
 <img src="assets/images/archway_fortress_E.png"></td>
+</tr>
+<tr>
+<td><b>Adaptive</b></td>
+<td><b>S</b>&emsp;&emsp;&emsp;<b>E</b></td>
+</tr>
+</tbody>
+</table>
+
+<u><b>Marble</b></u>
+
+Made with 8 marble.
+
+<table>
+<tbody>
+<tr>
+<td><img src="assets/images/wall_marble.png">
+<b>Regular</b></td>
+</tr>
+<tr>
+<td><b>All</b></td>
+</tr>
+</tbody>
+</table>
+
+<u><b>Marble block</b></u>
+
+Made with 8 marble. For the archway,
+directions N and W are also available (icons will be mirrored
+accordingly.)
+
+<table>
+<tbody>
+<tr>
+<td width="30%"><img src="assets/images/wall_marble_block.png">&emsp;
+<img src="assets/images/wall_marble_block1.png">&emsp;
+<img src="assets/images/wall_marble_block2.png">&emsp;
+<img src="assets/images/wall_marble_block3.png">&emsp;
+<img src="assets/images/wall_marble_block4.png">&emsp;
+<img src="assets/images/wall_marble_block5.png">&emsp;</td>
+<td><img src="assets/images/archway_marble_block_S.png">&emsp;
+<img src="assets/images/archway_marble_block_E.png"></td>
+</tr>
+<tr>
+<td><b>Adaptive</b></td>
+<td><b>S</b>&emsp;&emsp;&emsp;<b>E</b></td>
+</tr>
+</tbody>
+</table>
+
+<u><b>Grecian marble</b></u>
+
+Made with 6 marble. For the archway,
+directions N and W are also available (icons will be mirrored
+accordingly.)
+
+<table>
+<tbody>
+<tr>
+<td width="30%"><img src="assets/images/wall_marble_grecian.png">&emsp;
+<img src="assets/images/wall_marble_grecian1.png">&emsp;
+<img src="assets/images/wall_marble_grecian2.png">&emsp;
+<img src="assets/images/wall_marble_grecian3.png">&emsp;
+<img src="assets/images/wall_marble_grecian4.png">&emsp;
+<img src="assets/images/wall_marble_grecian5.png">&emsp;</td>
+<td><img src="assets/images/archway_grecian_S.png">&emsp;
+<img src="assets/images/archway_grecian_E.png"></td>
 </tr>
 <tr>
 <td><b>Adaptive</b></td>
@@ -855,10 +998,6 @@ with a special note being that the wood floor could be set on fire.
 
 <u><b>Stone floors</b></u>
 
-Raw marble and marble tiles (except for ornate and grid tiles) floors
-each have a few versions that have a slightly different look, which are
-randomly selected upon construction.
-
 <table>
 <tbody>
 <tr>
@@ -874,46 +1013,59 @@ randomly selected upon construction.
 <tr>
 <td><img src="assets/images/floor_road.png" title="1 stone"></td><td>
 <b>Road</b></td>
+</tr>
+</tbody>
+</table>
+
+<u><b>Marble floors</b></u>
+
+Raw marble and marble tiles (except for ornate and grid tiles) floors
+each have a few versions that have a slightly different look, which are
+randomly selected upon construction.
+
+<table>
+<tbody>
+<tr>
 <td><img src="assets/images/floor_marble_raw.png" title="1 stone"></td><td>
 <b>Raw marble</b></td>
 <td><img src="assets/images/floor_marble_raw_black.png" title="1 stone"></td><td>
 <b>Raw black marble</b></td>
 <td><img src="assets/images/floor_marble_raw_pink.png" title="1 stone"></td><td>
 <b>Raw pink marble</b></td>
-</tr>
-<tr>
 <td><img src="assets/images/floor_marble.png" title="1 stone"></td><td>
 <b>Marble</b></td>
+</tr>
+<tr>
 <td><img src="assets/images/floor_marble_tile.png" title="1 stone"></td><td>
 <b>Marble tiles</b></td>
 <td><img src="assets/images/floor_marble_tile_black.png" title="1 stone"></td><td>
 <b>Black marble tiles</b></td>
 <td><img src="assets/images/floor_marble_tile_pink.png" title="1 stone"></td><td>
 <b>Pink marble tiles</b></td>
-</tr>
-<tr>
 <td><img src="assets/images/floor_marble_ornate_tile.png" title="1 stone"></td><td>
 <b>Ornate marble tile</b></td>
+</tr>
+<tr>
 <td><img src="assets/images/floor_marble_ornate_tile_black.png" title="1 stone"></td><td>
 <b>Ornate black marble tile</b></td>
 <td><img src="assets/images/floor_marble_decorative_tile.png" title="1 stone"></td><td>
 <b>Decorative marble tile</b></td>
 <td><img src="assets/images/floor_marble_decorative_tile_black.png" title="1 stone"></td><td>
 <b>Decorative black marble tile</b></td>
-</tr>
-<tr>
 <td><img src="assets/images/floor_marble_decorative_tile_pink.png" title="1 stone"></td><td>
 <b>Decorative pink marble tile</b></td>
+</tr>
+<tr>
 <td><img src="assets/images/floor_marble_tile_grid.png" title="1 stone"></td><td>
 <b>Marble grid tile</b></td>
 <td><img src="assets/images/floor_marble_checkerboard.png" title="1 stone"></td><td>
 <b>Marble checkerboard</b></td>
 <td><img src="assets/images/floor_marble_checkerboard_reverse.png" title="1 stone"></td><td>
 <b>Reverse marble checkerboard</b></td>
-</tr>
-<tr>
 <td><img src="assets/images/floor_marble_checkerboard_pink.png" title="1 stone"></td><td>
 <b>Pink marble checkerboard</b></td>
+</tr>
+<tr>
 <td><img src="assets/images/floor_marble_checkerboard_pink_reverse.png" title="1 stone"></td><td>
 <b>Reverse pink marble checkerboard</b></td>
 </tr>
@@ -1023,6 +1175,8 @@ with a key (the iron and jail doors currently) - more details below.
 </tr>
 <tr>
 <td><img src="assets/images/door_iron.png" title="5 iron; direction - All"></td><td>
+<b>Iron door</b></td>
+<td><img src="assets/images/double_doors.png" title="10 stone, sandstone, marble, steel, iron; 8 bronze; 5 gold, silver, tin, copper, lead, wood, bamboo; direction - All"></td><td>
 <b>Iron door</b></td>
 <td><img src="assets/images/door_cell_wood.png" title="12 wood; direction - All"></td><td>
 <b>Wood jail door</b></td>
