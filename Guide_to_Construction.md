@@ -1001,18 +1001,13 @@ with a special note being that the wood floor could be set on fire.
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/floor_cobblestone.png" title="1 stone"></td>
-<td><b>Cobblestone</b></td>
-<td><img src="assets/images/floor_stone_bricks.png" title="1 stone brick"></td>
-<td><b>Stone brick</b></td>
-<td><img src="assets/images/floor_road_roman.png" title="1 stone"></td><td>
-<b>Roman road</b></td>
-<td><img src="assets/images/floor_slate.png" title="1.2 stone"></td><td>
-<b>Slate</b></td>
+<td><img src="assets/images/floor_cobblestone.png" title="1 stone">&emsp;<b>Cobblestone</b></td>
+<td><img src="assets/images/floor_stone_bricks.png" title="1 stone brick">&emsp;<b>Stone brick</b></td>
+<td><img src="assets/images/floor_road_roman.png" title="1 stone">&emsp;<b>Roman road</b></td>
+<td><img src="assets/images/floor_slate.png" title="1.2 stone">&emsp;<b>Slate</b></td>
 </tr>
 <tr>
-<td><img src="assets/images/floor_road.png" title="1 stone"></td><td>
-<b>Road</b></td>
+<td><img src="assets/images/floor_road.png" title="1 stone">&emsp;<b>Road</b></td>
 </tr>
 </tbody>
 </table>
@@ -1026,47 +1021,47 @@ randomly selected upon construction.
 <table>
 <tbody>
 <tr>
-<td><img src="assets/images/floor_marble_raw.png" title="1 stone"></td><td>
+<td><img src="assets/images/floor_marble_raw.png" title="1 marble"></td><td>
 <b>Raw marble</b></td>
-<td><img src="assets/images/floor_marble_raw_black.png" title="1 stone"></td><td>
+<td><img src="assets/images/floor_marble_raw_black.png" title="1 marble"></td><td>
 <b>Raw black marble</b></td>
-<td><img src="assets/images/floor_marble_raw_pink.png" title="1 stone"></td><td>
+<td><img src="assets/images/floor_marble_raw_pink.png" title="1 marble"></td><td>
 <b>Raw pink marble</b></td>
-<td><img src="assets/images/floor_marble.png" title="1 stone"></td><td>
+<td><img src="assets/images/floor_marble.png" title="1 marble"></td><td>
 <b>Marble</b></td>
 </tr>
 <tr>
-<td><img src="assets/images/floor_marble_tile.png" title="1 stone"></td><td>
+<td><img src="assets/images/floor_marble_tile.png" title="1 marble"></td><td>
 <b>Marble tiles</b></td>
-<td><img src="assets/images/floor_marble_tile_black.png" title="1 stone"></td><td>
+<td><img src="assets/images/floor_marble_tile_black.png" title="1 marble"></td><td>
 <b>Black marble tiles</b></td>
-<td><img src="assets/images/floor_marble_tile_pink.png" title="1 stone"></td><td>
+<td><img src="assets/images/floor_marble_tile_pink.png" title="1 marble"></td><td>
 <b>Pink marble tiles</b></td>
-<td><img src="assets/images/floor_marble_ornate_tile.png" title="1 stone"></td><td>
+<td><img src="assets/images/floor_marble_ornate_tile.png" title="1 marble"></td><td>
 <b>Ornate marble tile</b></td>
 </tr>
 <tr>
-<td><img src="assets/images/floor_marble_ornate_tile_black.png" title="1 stone"></td><td>
+<td><img src="assets/images/floor_marble_ornate_tile_black.png" title="1 marble"></td><td>
 <b>Ornate black marble tile</b></td>
-<td><img src="assets/images/floor_marble_decorative_tile.png" title="1 stone"></td><td>
+<td><img src="assets/images/floor_marble_decorative_tile.png" title="1 marble"></td><td>
 <b>Decorative marble tile</b></td>
-<td><img src="assets/images/floor_marble_decorative_tile_black.png" title="1 stone"></td><td>
+<td><img src="assets/images/floor_marble_decorative_tile_black.png" title="1 marble"></td><td>
 <b>Decorative black marble tile</b></td>
-<td><img src="assets/images/floor_marble_decorative_tile_pink.png" title="1 stone"></td><td>
+<td><img src="assets/images/floor_marble_decorative_tile_pink.png" title="1 marble"></td><td>
 <b>Decorative pink marble tile</b></td>
 </tr>
 <tr>
-<td><img src="assets/images/floor_marble_tile_grid.png" title="1 stone"></td><td>
+<td><img src="assets/images/floor_marble_tile_grid.png" title="1 marble"></td><td>
 <b>Marble grid tile</b></td>
-<td><img src="assets/images/floor_marble_checkerboard.png" title="1 stone"></td><td>
+<td><img src="assets/images/floor_marble_checkerboard.png" title="1 marble"></td><td>
 <b>Marble checkerboard</b></td>
-<td><img src="assets/images/floor_marble_checkerboard_reverse.png" title="1 stone"></td><td>
+<td><img src="assets/images/floor_marble_checkerboard_reverse.png" title="1 marble"></td><td>
 <b>Reverse marble checkerboard</b></td>
-<td><img src="assets/images/floor_marble_checkerboard_pink.png" title="1 stone"></td><td>
+<td><img src="assets/images/floor_marble_checkerboard_pink.png" title="1 marble"></td><td>
 <b>Pink marble checkerboard</b></td>
 </tr>
 <tr>
-<td><img src="assets/images/floor_marble_checkerboard_pink_reverse.png" title="1 stone"></td><td>
+<td><img src="assets/images/floor_marble_checkerboard_pink_reverse.png" title="1 marble"></td><td>
 <b>Reverse pink marble checkerboard</b></td>
 </tr>
 </tbody>
