@@ -65,6 +65,10 @@ Tundra, Taiga, Temperate, Semi-Arid, Desert, Savannah, and Jungle
 
 ## New World
 
+<img src="assets/images/map_new_world.png">
+
+Everyone starts on the eastern continent. Crossing to the western islands requires something better than a simple raft.
+
 ## Mediterranean
 
 <img src="assets/images/map_mediterranean.png">
@@ -89,6 +93,8 @@ Section of Nomads_World project (1/4)
 
 ## Africa
 
-Based off of all of Africa. Desert, Savannah, jungle, Savannah.
+<img src="assets/images/map_africa.png">
+
+Based off of all of Africa: Desert, Savannah, Jungle, Savannah.
 
 Section of Nomads_World project (2/4)
