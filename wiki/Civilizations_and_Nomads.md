@@ -288,19 +288,22 @@ levels, check **[Full Crafting List](Full_Crafting_List "wikilink")**.
 
 ## Environments
 
-The environment lives and breathes, and will be the single biggest
-factor that influences your life\!
+The environment lives and breathes and will be the single biggest factor that influences your life!
 
 Each map has either a single biome or several different ones. 
 
 There are seasons of the year, effects of which are different in every biome. Some biomes have four seasons, while others have only two.
+
+On large maps with multiple biomes each biome has its own list of plants that could be grown there. Many plants also grow only in certain seasons. See the **[Guide to Farming](Guide_to_Farming)**.
+
+To determine the biome you are in, read the descriptions below and look at your surroundings. Looking at the map of **[Pangea](https://civ13.github.io/civ13-wiki/assets/images/map_pangea.png)** that has almost every biome may also help. From top to bottom: Tundra, Taiga (roughly the southern half of the snowed area, before the northern mountains), Temperate, Semi-Arid, Desert, Savanna, Jungle. The one biome missing is Sea.
 
 ### Biomes and seasons
 
 #### Tundra
 
 * Snow covers the ground all year round and does not melt during summer (unlike in Temperate). 
-* Wood and animals are rare here.
+* Trees and animals are somewhat rare here.
 
 Seasons:
 
@@ -316,7 +319,9 @@ Similar to Tundra in many regards, but considerably more trees.
 
 #### Temperate
 
-Seasons (rotate every 30 minutes):
+Plenty of trees and grassy meadows ("wild grass" tiles).
+
+Seasons:
 
   - Spring: Amene temperatures, a little leftover snow from the winter.
     Sparse rains cause mud slowdowns. Snow starts melting.
@@ -333,9 +338,15 @@ Seasons (rotate every 30 minutes):
 
 #### Sea
 
+Smaller islands on larger maps usually have this biome.
+
 #### Semi-Arid
 
+Large expanses of dry dirt with occasional groves.
+
 #### Desert
+
+Sand. Lots of sand.
 
 Seasons:
 
@@ -347,7 +358,11 @@ Seasons:
 
 #### Savanna
 
+Wide plains covered with sunburnt dry grass. Acacia trees are a common sight here.
+
 #### Jungle
+
+Lush vegetation with massive jungle trees and large bushes; thick jungle grass covers the ground.
 
 Seasons:
 
