@@ -6,6 +6,10 @@ Sticks, stones and bones can only carry you so far, but Mother Nature is infinit
 
 Metallurgy concerns manipulating raw ores and turning them into metals, from which a myriad of tools, weapons and devices could be produced.
 
+Before proceeding to metallurgy, it is recommended to check the **[Guide to Crafting](Guide_to_Crafting)** for the basics of crafting.
+
+**Building the metallurgy equipment (kiln, bloomery etc.) requires certain research levels – check the [Full Crafting List](Full_Crafting_List)**.
+
 ## Basics
 
 ### Obtaining metals
@@ -20,18 +24,18 @@ The primary component of metalworking is **[molds](#molds)**. At the very least,
 * Place a pot or a jug inside a **kiln**.
 * Light fire in the kiln and wait until the ore melts.
 * Pour molten metal into a mold of your choosing.
-* Take the mold and click a suitable(1) anvil with it(3). 
-* Select a metal item to make(2).
+* Take the mold and click a suitable(1) anvil with it(2). 
+* Select a metal item to make(3).
 
 (1): Some metals could only be worked on a more advanced anvil. For example, iron items are produced on the iron and steel anvils, not on the stone one. See the **[Anvils](#anvils)** section.
 
-(2): The list of available items depends on the epoch.
+(2): To make other items that are not cast via molds, click the anvil with metal ingots or sheets.
 
-(3): To make other items that are not cast via molds, click the anvil with metal ingots or sheets.
+(3): The list of available items depends on the epoch.
 
 ## Molds
 
-Molds are made with **[Clay](Full_Crafting_List#clay)** and used to cast tools and melee weapons from different metals. Each mold has a certain volume it can hold.  1 unit of volume = 1 unit of ore = 1 unit of molten metal = 1 metal ingot. Making different items requires a different amount of metal.
+Molds are made with **[Clay](Full_Crafting_List#clay)** (to make clay, fill a container – a barrel, a bucket etc. – with water, dig dirt piles and click them with the container). Molds are used to cast tools and melee weapons from different metals. Each mold has a certain volume it can hold.  1 unit of volume = 1 unit of ore = 1 unit of molten metal = 1 metal ingot. Making different items requires a different amount of metal.
 
 **Clay molds are made raw and need to be fired in [a campfire or an oven](Guide_to_Crafting#campfire-and-ovens) before using!**
 
