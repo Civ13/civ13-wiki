@@ -226,7 +226,7 @@ to the **[Guide to Cooking](Guide_to_Cooking)**.
 <tr>
 <td><img src="assets/images/wool_pile.png"> <img src="assets/images/wool_roll.png"></td>
 <td><b>Wool and Woolcloth</b></td>
-<td>Obtained by shearing sheep with shears (made from either bronze or iron). Used for many varieties of clothing, mainly as a cloth substitute for the biomes that lack cotton. Use the <a href="Guide_to_Crafting#loom">loom</a> to turn wool piles into <b><a href="Full_Crafting_List#woolcloth">Woolcloth</a></b>.</td>
+<td>Obtained by shearing sheep with shears (made from either bronze or iron). Used for many varieties of clothing, mainly as a cloth substitute for the biomes that lack cotton. Use the <b><a href="Guide_to_Crafting#loom">loom</a></b> to turn wool piles into <b><a href="Full_Crafting_List#woolcloth">Woolcloth</a></b>.</td>
 </tr>
 <tr>
 <td><img src="assets/images/leather.png"></td>
@@ -244,7 +244,7 @@ to the **[Guide to Cooking](Guide_to_Cooking)**.
 <td>Obtained by butchering the carcass of certain animals on Harm intent. Fat is dropped by pigs, cows, bison, buffaloes, camels, bears and mammoths: The larger the animal, the more fat. Animal fat is used to produce <b>lard</b>, which, in turn, is used to produce <b>fat oil</b>.<br>
 To make <b>lard</b>, take animal fat and click any vessel like barrels, buckets or cooking pots with it. 1 animal fat = 10u of lard.<br>
 To make <b>fat oil</b>, put lard into a cooking pot (a copper one, for instance) and cook it on a campfire or an oven (like boiling water). Every 5u of lard will produce 1u of fat oil.<br>
-Fat oil is used in <b><a href="Guide_to_Cooking">cooking</a></b> (pemmican) and <b><a href="Miscellaneous_Crafting">manufacturing</a></b> (lard soap).
+Fat oil and lard are used in <b><a href="Guide_to_Cooking">cooking</a></b> and <b><a href="Miscellaneous_Crafting">manufacturing</a></b>.
 </td>
 </tr>
 </tbody>
@@ -549,7 +549,7 @@ level of the crafting skill before you are able to use them.
 <tr>
 <td width="5%"><img src="assets/images/loom.png"></td>
 <td width="10%"><b>Loom</b></td>
-<td>Made with 8 wood logs. Used to weave <a href="Guide_to_Farming">cotton</a> and retted fabric into <b><a href="Full_Crafting_List#cloth">Cloth</a></b> and to turn shorn wool into <b><a href="Full_Crafting_List#woolcloth">Woolcloth</a></b>.</td>
+<td>Made with 8 wood logs. Used to weave <b><a href="Guide_to_Farming">cotton</a></b> and retted fabric into <b><a href="Full_Crafting_List#cloth">Cloth</a></b> and to turn shorn wool into <b><a href="Full_Crafting_List#woolcloth">Woolcloth</a></b>.</td>
 </tr>
 </tbody>
 </table>
