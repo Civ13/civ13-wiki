@@ -961,7 +961,7 @@ electrical cables.
 <tr>
 <td width="5%"><img src="assets/images/electronics.png"></td>
 <td width="10%"><b><a href="Full_Crafting_List#electronics">Electronic circuits</a></b></td>
-<td>Electronic circuits (or electronics) are made from copper and iron. Hold copper ingots in the active hand and iron ingots in the off-hand. Click copper ingots and choose "electronic circuits". Electronics are used to assemble various devices, such as <b><a href="Guide_to_Communications">phones and radios</a></b>, cameras, the <b><a href="Guide_to_Radiation">Geiger counter</a></b>, and the TV set.</td>
+<td>Electronic circuits (or electronics) are made from copper and iron (requires 2.2 of the crafting skill). Hold copper ingots in the active hand and iron ingots in the off-hand. Click copper ingots and choose "electronic circuits". Electronics are used to assemble various devices, such as <b><a href="Guide_to_Communications">phones and radios</a></b>, cameras, the <b><a href="Guide_to_Radiation">Geiger counter</a></b>, and the TV set.</td>
 </tr>
 </tbody>
 </table>
