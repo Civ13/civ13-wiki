@@ -11,6 +11,8 @@ from the primitive ways of loincloths, caves and wooden clubs to the
 dizzying complexities of electrified cities, wireless communications and
 automatic firearms.
 
+<hr>
+
 Here you will find the basics of how crafting works, along with the
 information on resource acquirement, tools, various workbenches,
 machinery and vehicles.
@@ -241,7 +243,7 @@ to the **[Guide to Cooking](Guide_to_Cooking)**.
 <td><b>Animal fat</b></td>
 <td>Obtained by butchering the carcass of certain animals on Harm intent. Fat is dropped by pigs, cows, bison, buffaloes, camels, bears and mammoths: The larger the animal, the more fat. Animal fat is used to produce <b>lard</b>, which, in turn, is used to produce <b>fat oil</b>.<br>
 To make <b>lard</b>, take animal fat and click any vessel like barrels, buckets or cooking pots with it. 1 animal fat = 10u of lard.<br>
-To make <b>fat oil</b>, put lard into a cooking pot (a copper one, for instance) and cook it on a campfire or an oven (just like boiling water). Every 5u of lard will produce 1u of fat oil.<br>
+To make <b>fat oil</b>, put lard into a cooking pot (a copper one, for instance) and cook it on a campfire or an oven (like boiling water). Every 5u of lard will produce 1u of fat oil.<br>
 Fat oil is used in <b><a href="Guide_to_Cooking">cooking</a></b> (pemmican) and <b><a href="Miscellaneous_Crafting">manufacturing</a></b> (lard soap).
 </td>
 </tr>
