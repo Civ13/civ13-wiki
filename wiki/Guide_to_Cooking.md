@@ -315,7 +315,7 @@ culinary art!
 <tr>
 <td><img src="assets/images/pemmican.png"></td>
 <td>Pemmican</td>
-<td>Hold minced dried meat in the active hand and a vessel with at least 5u of <b><a href="Guide_to_Crafting#animals>fat oil</a></b> in the off-hand, then click the minced dried meat.</td>
+<td>Hold minced dried meat in the active hand and a vessel with at least 5u of <b><a href="Guide_to_Crafting#animals">fat oil</a></b> in the off-hand, then click the minced dried meat.</td>
 </tr>
 <tr>
 <td><img src="assets/images/dried_fish.png"></td>
