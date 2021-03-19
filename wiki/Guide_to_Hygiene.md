@@ -105,7 +105,7 @@ or make a mess. You filthy ungas, clean up after yourselves!
 
 Look at you! That unkempt beard of yours shows me something from every
 meal you had last week! This may have been acceptable back in the Cave
-Age, but not any more! Make yourself a damn **razor** out (cast via the **[knife mold](Guide_to_Metallurgy#molds)**
+Age, but not any more! Make yourself a damn **razor** out (cast via the **[knife mold](Guide_to_Metallurgy#molds)**)
 and cut that hair by clicking yourself with a razor on Help intent!
 
 ## Washing clothes
