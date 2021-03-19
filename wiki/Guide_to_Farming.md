@@ -349,7 +349,7 @@ Desert, Savanna and Jungles biomes.
 <td style="text-align:center">O</td>
 <td>All</td>
 <td style="text-align:center">60</td>
-<td>Used to make retted fabric.</td>
+<td>Used to make <b><a href="Guide_to_Crafting#retting-trough">retted fabric</a></b>.</td>
 </tr>
 <tr>
 <td>Hemp</td>
@@ -363,7 +363,7 @@ Desert, Savanna and Jungles biomes.
 <td style="text-align:center">X</td>
 <td>Spring, Summer, Fall, Wet, Dry</td>
 <td style="text-align:center">60</td>
-<td>Used to make rope, retted fabric and joints.</td>
+<td>Used to make rope, <b><a href="Guide_to_Crafting#retting-trough">retted fabric</a></b> and joints.</td>
 </tr>
 <tr>
 <td>Sugarcane</td>
