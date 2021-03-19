@@ -192,12 +192,13 @@ There are two main ways to obtain
 <tr>
 <td width="5%"><img src="assets/images/sheet_wood.png"></td>
 <td><b>Wood log</b></td>
-<td>A visual representation of a wood log, placed herein to avoid any ambiguities. This is a guide, after all.</td>
+<td>A visual representation of a wood log placed herein to avoid any ambiguities. This is a guide, after all.<br>
+Wood is also used to produce <b>lye</b>. Put a stack of wood on the ground (make sure there is no grass on it, or it will start a fire). Click the wood with a lit torch or a flashlight on Harm intent. Scoop the ash (1 ash per 1 wood) with a vessel like a barrel, a bucket, or a cooking pot. Put the ash into a cooking pot and cook it on an oven or a campfire (like boiling water). Every 5u of ash will produce 1u of lye.</td>
 </tr>
 <tr>
 <td><img src="assets/images/leaves.png"></td>
 <td><b>Leaves</b></td>
-<td>This is what you get when removing leaves from a branch. Used to make thatch roofing - click the leaves in your active hand, or press Ctrl-Z, or Z in the hotkeys mode. Edible if you happen to be a gorilla.</td>
+<td>This is what you get when removing leaves from a branch. Used to make thatch roofing - click the leaves in your active hand, or press Ctrl-Z, or Z in the hotkeys mode. Can be used as fuel for campfires, ovens etc. Edible if you happen to be a gorilla.</td>
 </tr>
 <tr>
 <td><img src="assets/images/leaves_palm.png"></td>
@@ -234,6 +235,15 @@ to the **[Guide to Cooking](Guide_to_Cooking)**.
 <td><img src="assets/images/bone.png"></td>
 <td><b><a href="Full_Crafting_List#bone">Bone</a></b></td>
 <td>Obtained by skinning the animal carcass regardless of the intent. A material for primitive tools and weapons.</td>
+</tr>
+<tr>
+<td><img src="assets/images/animal_fat.png"></td>
+<td><b>Animal fat</b></td>
+<td>Obtained by butchering the carcass of certain animals on Harm intent. Fat is dropped by pigs, cows, bison, buffaloes, camels, bears and mammoths: The larger the animal, the more fat. Animal fat is used to produce <b>lard</b>, which, in turn, is used to produce <b>fat oil</b>.<br>
+To make <b>lard</b>, take animal fat and click any vessel like barrels, buckets or cooking pots with it. 1 animal fat = 10u of lard.<br>
+To make <b>fat oil</b>, put lard into a cooking pot (a copper one, for instance) and cook it on a campfire or an oven (just like boiling water). Every 5u of lard will produce 1u of fat oil.<br>
+Fat oil is used in <b><a href="Guide_to_Cooking">cooking</a></b> (pemmican) and <b><a href="Miscellaneous_Crafting">manufacturing</a></b> (lard soap).
+</td>
 </tr>
 </tbody>
 </table>
@@ -941,6 +951,18 @@ electrical cables.
 4. Fire up the generator! Should a new piece of machinery be
     connected to the existing network, the generator must be restarted
     to power the new element.
+
+## Electronic circuits
+
+<table>
+<tbody>
+<tr>
+<td width="5%"><img src="assets/images/electronics.png"></td>
+<td width="10%"><b><a href="Full_Crafting_List#electronics">Electronic circuits</a></b></td>
+<td>Electronic circuits (or electronics) are made from copper and iron. Hold copper ingots in the active hand and iron ingots in the off-hand. Click copper ingots and choose "electronic circuits". Electronics are used to assemble various devices, such as <b><a href="Guide_to_Communications">phones and radios</a></b>, cameras, the <b><a href="Guide_to_Radiation">Geiger counter</a></b>, and the TV set.</td>
+</tr>
+</tbody>
+</table>
 
 ## Vehicles
 
