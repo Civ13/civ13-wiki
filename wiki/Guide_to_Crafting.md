@@ -38,6 +38,8 @@ machinery and vehicles.
    - **[Guide to Construction](Guide_to_Construction)** - details on constructing walls, floors, doors etc.
    
    - **[Guide to Metallurgy](Guide_to_Metallurgy)** - smelting raw metal ores, blacksmithing and metalworking.
+   
+   - **[Miscellaneous Crafting](Miscellaneous_Crafting)** - details on crafting some more or less minor things with a specific manufacturing process.
 
 **Quick links:**
 
