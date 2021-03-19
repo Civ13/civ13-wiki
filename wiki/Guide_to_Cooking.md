@@ -46,7 +46,7 @@ See the **[Full Crafting List](Full_Crafting_List)** for more details about craf
 <tr>
 <td><img src="assets/images/cutting_board.png"></td>
 <td><b>Cutting board</b></td>
-<td>Made with 5 wood. Used to form meat and mince it before the invention of the meat grinder. Place <b>meat steaks</b> and <b>fish</b>, then mince them with a knife. Place <b>mince</b> on the board and use knife again to make <b>meatballs</b>, which you can then press into <b>patties</b>.</td>
+<td>Made with 5 wood. Used to form meat and mince it before the invention of the meat grinder. Place <b>meat steaks</b>, <b>dried meat cutlets</b>, and <b>fish</b>, then mince them with a knife. Place <b>mince</b> on the board and use knife again to make <b>meatballs</b>, which you can then press into <b>patties</b>.</td>
 </tr>
 <tr>
 <td><img src="assets/images/meat_grinder.png"></td>
@@ -212,6 +212,11 @@ ingredients needed to make your fantastic dishes, uma delicia!
 <td>1. Put meat steaks and fish on the cutting board and mince with a knife.<br>2. Grind meat and fish with the meat grinder.</td>
 </tr>
 <tr>
+<td><img src="assets/images/minced_meat_dried.png"></td>
+<td>Minced dried meat</td>
+<td>Put dried meat cutlets on the cutting board and mince with a knife.</td>
+</tr>
+<tr>
 <td><img src="assets/images/Meatball.png"></td>
 <td>Meatball</td>
 <td>1. Add flour to a slab of meat.<br>2. Form mince on the cutting board with a knife.</td>
@@ -306,6 +311,11 @@ culinary art!
 <td><img src="assets/images/Dried_cutlet.png"></td>
 <td>Dried meat cutlets</td>
 <td>Simply take your raw meat cutlets and click on a dehydrator to dry them. In a short time they will come off as dry cutlets.</td>
+</tr>
+<tr>
+<td><img src="assets/images/pemmican.png"></td>
+<td>Pemmican</td>
+<td>Hold minced dried meat in the active hand and a vessel with at least 5u of <b><a href="Guide_to_Crafting#animals>fat oil</a></b> in the off-hand, then click the minced dried meat.</td>
 </tr>
 <tr>
 <td><img src="assets/images/dried_fish.png"></td>
