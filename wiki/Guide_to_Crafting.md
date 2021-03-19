@@ -241,9 +241,9 @@ to the **[Guide to Cooking](Guide_to_Cooking)**.
 <tr>
 <td><img src="assets/images/animal_fat.png"></td>
 <td><b>Animal fat</b></td>
-<td>Obtained by butchering the carcass of certain animals on Harm intent. Fat is dropped by pigs, cows, bison, buffaloes, camels, bears and mammoths: The larger the animal, the more fat. Animal fat is used to produce <b>lard</b>, which, in turn, is used to produce <b>fat oil</b>.<br>
+<td>Obtained by butchering the carcass of certain animals on Harm intent. Fat is dropped by pigs, cows, bison, buffaloes, camels, wolves, bears and mammoths: the larger the animal, the more fat. Animal fat is used to produce <b>lard</b>, which, in turn, is used to produce <b>fat oil</b>.<br>
 To make <b>lard</b>, take animal fat and click any vessel like barrels, buckets or cooking pots with it. 1 animal fat = 10u of lard.<br>
-To make <b>fat oil</b>, put lard into a cooking pot (a copper one, for instance) and cook it on a campfire or an oven (like boiling water). Every 5u of lard will produce 1u of fat oil.<br>
+To make <b>fat oil</b>, put lard into a cooking pot (a copper one, for instance) and cook it on a campfire or an oven (like boiling water). Every 2u of lard will produce 1u of fat oil.<br>
 Fat oil and lard are used in <b><a href="Guide_to_Cooking">cooking</a></b> and <b><a href="Miscellaneous_Crafting">manufacturing</a></b>.
 </td>
 </tr>
