@@ -342,7 +342,7 @@ Desert, Savanna and Jungles biomes.
 <td style="text-align:center">X</td>
 <td>Spring, Summer, Fall, Winter, Wet</td>
 <td style="text-align:center">55</td>
-<td>Used as food.</td>
+<td>Used as food. Also, the only crop that grows underground and in caves.</td>
 </tr>
 <tr>
 <td>Flax</td>
