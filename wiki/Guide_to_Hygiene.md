@@ -8,6 +8,10 @@ everyone around them. Wow! Rare indeed.
 So, you're a bit stinky and need a good wash. There are currently three ways you are able to wash yourself: 1. is a bucket of clean water (pots
 and barrels work too); 2. is a shower; 3. is a bath.
 
+For extra cleaning effect, you can resort to **[soap](Miscellaneous_Crafting#lard-soap)**. Details below.
+
+## Bucket and the like
+
 **Washing your stinky ass self with a bucket:**
 
 1.  Fill a bucket with at least 30 units of clean water, either from a
@@ -19,6 +23,8 @@ and barrels work too); 2. is a shower; 3. is a bath.
     not stinky with a cloud of filth and smell around you. However, it
     can dissipate fairly fast, so wash yourself a few times (usually 3
     is just fine) and it should last a bit.
+
+## Shower
 
 **Crafting a shower:**
 
@@ -38,6 +44,8 @@ and barrels work too); 2. is a shower; 3. is a bath.
 
 Congrats! You're no longer stinky.
 
+## Baths
+
 **Crafting a bath:**
 
 Baths are made with different materials in different epochs (check **[Full Crafting List](Full_Crafting_List "wikilink")**, look for "bath"). Public baths are just larger versions of regular ones.
@@ -48,6 +56,11 @@ Baths are made with different materials in different epochs (check **[Full Craft
 2.  Click the bath so there is water.
 3.  Step inside the bath and stay there for a couple of seconds (buckling for extra immersion is optional).
 4.  How clean you get depends on the kind of bath. Baths out of more advanced materials are better at cleaning. The order of the "bathing power", increasing: wood, stone, copper, bronze, steel, ~~industrial acidic bath~~.
+
+## Soap
+
+<img src="assets/images/soap_lard.png"><br>
+Helps to have a much better wash and allows washing in any water tile. You can also use it in a bath or under the shower (make sure there is water in the bath and the shower is showering). As always, be naked, get in a bath or stand in the water or under the shower, then click yourself with the soap – you can use a single bar up to 30 times. Washing with soap is so good, you even get a mood boost from it.
 
 ## Using the washroom
 
@@ -92,8 +105,8 @@ or make a mess. You filthy ungas, clean up after yourselves!
 
 Look at you! That unkempt beard of yours shows me something from every
 meal you had last week! This may have been acceptable back in the Cave
-Age, but not any more! Make yourself a damn Razor out of bronze or iron
-and cut that hair by clicking yourself with a Razor on "help" intent!
+Age, but not any more! Make yourself a damn **razor** out (cast via the **[knife mold](Guide_to_Metallurgy#molds)**)
+and cut that hair by clicking yourself with a razor on Help intent!
 
 ## Washing clothes
 

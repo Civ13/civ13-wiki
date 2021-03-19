@@ -8,58 +8,60 @@ power.
 To farm, you will require some basic tools.
 
 <table>
-<thead>
-<tr class="header">
-<th><p>Item</p></th>
-<th><p>Image</p></th>
-<th><p>Description</p></th>
-</tr>
-</thead>
 <tbody>
 <tr>
-<td>
-<p>Knife</p>
-</td>
-<td>
+<td width="5%">
 <img src="assets/images/e.png">
 </td>
-<td><p>Used for harvesting crops. Can be made out of Wood, Bone, Copper, Bronze, Iron, Steel, Silver, Gold and Diamond.</p></td>
+<td>
+<b>Knife</b>
+</td>
+<td>Used for harvesting crops. Can be made out of Wood, Bone, Copper, Bronze, Iron, Steel, Silver, Gold and Diamond (metal knives are made via casting in the <b><a href="Guide_to_Metallurgy#molds">knife molds</a></b>.</td>
 </tr>
 <tr>
-<td>
-<p>Plough</p>
-</td>
 <td>
 <img src="assets/images/plough_normal.png">
 </td>
-<td><p>A plough is made out of wood and used to plough fields for farming! Used once on the grass and once on the dirt underneath the grass. You can also plough snowy dirt and flooded plains dirt (found along the jungle rivers). In case of snowy grass, you will have to shovel the snow first. Lastly, there are places where you cannot plough: infertile soil, permafrost etc. You can also make an iron plough out of iron ingots to plough land faster.</p></td>
+<td>
+<b>Plough</b>
+</td>
+<td>A plough is made out of wood and used to plough fields for farming! Used once on the grass and once on the dirt underneath the grass. You can also plough snowy dirt and flooded plains dirt (found along the jungle rivers). In case of snowy grass, you will have to shovel the snow first. Lastly, there are places where you cannot plough: infertile soil, permafrost etc. You can also make an iron plough out of iron ingots to plough land faster.</td>
 </tr>
 <tr>
-<td>
-<p>Trench shovel</p>
-</td>
 <td>
 <img src="assets/images/trench_shovel.png">
 </td>
-<td><p>A trench shovel is made out of iron ingots and a wooden handle. A trench shovel (as the name suggests) digs trenches, to dig a trench simple click a dirt tile two times also you can flood trenches by putting them next to a water source. Useful for large scale farming.</p></td>
+<td>
+<b>Trench shovel</b>
+</td>
+<td>A trench shovel is made out of iron ingots and a wooden handle. A trench shovel, as the name suggests, digs trenches. To dig a trench, simply click a dirt tile twice. If you dig a trench next to water tiles, the trench will get flooded, providing crops wtih water and serving as an extra barrier.</td>
 </tr>
 <tr>
 <td>
-<p>Seeds</p>
+<img src="assets/images/bone_shovel.png">
 </td>
+<td>
+<b>Shovel</b>
+</td>
+<td>Made with either 2 bone pieces or a <b><a href="Guide_to_Metallurgy#molds">cast shovel head</a></b>, plus a wooden handle. Used to dig irrigation channels that water crops and do not hinder your movement, unlike flooded trenches. TO dig an irrigation channel, hold a shovel in the active hand and click it, or press Ctrl-Z or Z in the hotkeys mode, then choose the respective option.</td>
+</tr>
+<tr>
 <td>
 <img src="assets/images/seeds.png">
 </td>
-<td><p>Some sort of seeds to plant and grow. You may find seeds simply lying on the ground, but you can also collect them in the wilderness by using any type of knife on bushes and small bushes.</p></td>
+<td>
+<b>Seeds</b>
+</td>
+<td>Some sort of seeds to plant and grow. You may find seeds simply lying on the ground, but you can also collect them in the wilderness by using any type of knife on bushes and small bushes.</td>
 </tr>
 <tr>
 <td>
-<p>Seed collector</p>
-</td>
-<td>
 <img src="assets/images/seed_collector.png">
 </td>
-<td><p>Made out of leather. Very useful for picking up seeds during large-scale farming. Have a seed collector in your active hand, stand over the seeds on the ground, then click the collector or press Ctrl-Z, and you will put the seeds in the bag. Just do not misplace it.</p></td>
+<td>
+<b>Seed collector</b>
+</td>
+<td>Made out of leather. Very useful for picking up seeds during large-scale farming. Have a seed collector in your active hand, stand over the seeds on the ground, then click the collector or press Ctrl-Z, and you will put the seeds in the bag. Just do not misplace it.</td>
 </tr>
 </tbody>
 </table>
@@ -87,14 +89,19 @@ There are a few ways to provide the crops with water:
   - Plough land within two tiles of fresh water, which is any water,
     except for the saltwater. The plants will have all the water they
     need without any extra labor.
-  - Dig a water channel from the nearest fresh water to irrigate remote
+    
+  - Dig a flooded trench from the nearest fresh water to irrigate remote
     fields. For this a trench shovel is required, which becomes
     available at the 14 industrial research mark. Dig the first trench
     on a lakeshore or on a riverbank, then the second trench next to the
     first one and so on. Farming fields should be within two tiles of
-    the water channel as well.
-  - Water the plants manually. Bring the fresh water in Buckets and
-    Barrels and splash it on the ploughed field (not the plant).
+    the water channel as well. A trench could be removed by filling it with 2 piles of dirt.
+    
+  - Dig an irrigation channel from the nearest fresh water, which could be done with any shovel. It functions just like flooded trenches, without the drawback of being a           barrier. An irrigation channel could be removed by filling it with 1 pile of dirt.
+    
+  - Water the plants manually. Bring the fresh water in buckets and
+    barrels and splash it on the ploughed field (the ground, not the plant).
+    
   - Pray for the eternal rain. Rain will water the fields (at the rate
     of 15 per minute), but may create other inconveniences.
 
@@ -335,7 +342,7 @@ Desert, Savanna and Jungles biomes.
 <td style="text-align:center">X</td>
 <td>Spring, Summer, Fall, Winter, Wet</td>
 <td style="text-align:center">55</td>
-<td>Used as food.</td>
+<td>Used as food. Also, the only crop that grows underground and in caves.</td>
 </tr>
 <tr>
 <td>Flax</td>
@@ -349,7 +356,7 @@ Desert, Savanna and Jungles biomes.
 <td style="text-align:center">O</td>
 <td>All</td>
 <td style="text-align:center">60</td>
-<td>Used to make retted fabric.</td>
+<td>Used to make <b><a href="Guide_to_Crafting#retting-trough">retted fabric</a></b>.</td>
 </tr>
 <tr>
 <td>Hemp</td>
@@ -363,7 +370,7 @@ Desert, Savanna and Jungles biomes.
 <td style="text-align:center">X</td>
 <td>Spring, Summer, Fall, Wet, Dry</td>
 <td style="text-align:center">60</td>
-<td>Used to make rope, retted fabric and joints.</td>
+<td>Used to make rope, <b><a href="Guide_to_Crafting#retting-trough">retted fabric</a></b> and joints.</td>
 </tr>
 <tr>
 <td>Sugarcane</td>
