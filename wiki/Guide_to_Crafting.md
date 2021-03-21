@@ -246,7 +246,7 @@ to the **[Guide to Cooking](Guide_to_Cooking)**.
 <td>Obtained by butchering the carcass of certain animals on Harm intent. Fat is dropped by pigs, cows, bison, buffaloes, camels, wolves, bears and mammoths: the larger the animal, the more fat. Animal fat is used to produce <b>lard</b>, which, in turn, is used to produce <b>fat oil</b>.<br>
 To make <b>lard</b>, take animal fat and click any vessel like barrels, buckets or cooking pots with it. 1 animal fat = 10u of lard.<br>
 To make <b>fat oil</b>, put lard into a cooking pot (a copper one, for instance) and cook it on a campfire or an oven (like boiling water). Every 2u of lard will produce 1u of fat oil.<br>
-Fat oil and lard are used in <b><a href="Guide_to_Cooking">cooking</a></b> and <b><a href="Miscellaneous_Crafting">manufacturing</a></b>.
+Fat oil and lard are used in <b><a href="Guide_to_Cooking">cooking</a></b> and <b><a href="Miscellaneous_Crafting">manufacturing</a></b>. Fat oil can also be used as fuel for lanterns and the hot bulb engine.
 </td>
 </tr>
 </tbody>
@@ -836,7 +836,7 @@ Build both the furnace and the engine, and place them next to each other, in nei
 <td width="5%"><img src="assets/images/engine_hotbulb.png"></td>
 <td><b>Hot bulb engine</b></td>
 <td><b>Power:</b> 66</td>
-<td><b>Fuel:</b> oil, gasoline, diesel, biodiesel, ethanol, olive oil</td>
+<td><b>Fuel:</b> oil, gasoline, diesel, biodiesel, ethanol, olive oil, fat oil</td>
 <td></td>
 </tr>
 <tr>
