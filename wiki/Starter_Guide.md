@@ -107,6 +107,8 @@ milk, though other liquids like **tea** can also be used.
 
 You can get water from **puddles**, any **water tiles (except saltwater - do not drink nor boil it!)**, or **wells**.
 
+**Avoid drinking "raw" water from puddles, rivers and lakes! It needs to be boiled to be safe (see below).**
+
   - To drink, you need to make a **mug** from **wood** or **drinking
     glass** from **glass**.
   - **Wells** have disease-free freshwater (**however, if there are some... excrements within 4 tiles of a well, the water becomes contaminated and unsafe to drink!)**. You can build them over a
@@ -268,7 +270,7 @@ The basic source of light is the **torch**.
 
 Torches will last for **5 minutes** and then burn out.
 
-  - You can also make lanterns with **iron**. Lanterns require fuel - any form of liquid fuel will do, like olive oil (**[grow](Guide_to_Farming)** olives and click buckets or barrels with them to make oil) or **[petroleum](Guide_to_Crafting#petroleum)**.
+  - You can also make lanterns with **iron**. Lanterns require fuel - any form of liquid fuel will do, like olive oil (**[grow](Guide_to_Farming)** olives and click buckets or barrels with them to make oil), **[fat oil](Guide_to_Crafting#animals)**, or **[petroleum](Guide_to_Crafting#petroleum)**.
 
 For a more **permanent** light source, you can build **braziers** from
 **stone**. You can fuel it with any organic matter like wood or
