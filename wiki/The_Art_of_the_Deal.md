@@ -11,7 +11,7 @@ There are four companies in the game mode:
 
   - **Goldstein Solutions**, known as the *yellow team*, with its base
     on the **North-West** part of the map. Phone number: **4444**
-  - **MacGreene Traders**, known as the *green team*, with its base on
+  - **Kogama Kraftsmen**, known as the *green team*, with its base on
     the **South-West** part of the map. Phone number: **3333**
   - **Giovanni Blu**, known as the *blue team*, with its base on the
     **North-East** part of the map. Phone number: **2222**
@@ -86,7 +86,7 @@ When you login you can see all the personal and global e-mails.
 | Company             | HQ Phone | Global E-mail     |
 | ------------------- | -------- | ----------------- |
 | Rednikov Industries | 1111     | mail@rednikov.ug  |
-| MacGreene Traders   | 2222     | mail@greene.ug    |
+| Kogama Kraftsmen    | 2222     | mail@kogama.ug    |
 | Giovanni Blu Stocks | 3333     | mail@blu.ug       |
 | Goldstein Solutions | 4444     | mail@goldstein.ug |
 
