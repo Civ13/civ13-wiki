@@ -182,6 +182,18 @@ fighting, not civilians or shopkeepers.
   - You must value your life, admins will often be disabling respawn to
     make it so. Act like you actually would to your wounds and
     situation. Don't lose and arm and state "Tis but a scratch!"
+## Occupation Rules
+
+  - SS can shoot anyone with a gun held in their hands on sight. SS can shoot confirmed UPA on sight (UPA in a UPA uniform).
+  - SS <b>can't kill</b> civilians without good IC reason (They don't need escalation)
+  - SS should try getting civilians to work while trying to capture <b>UPA alive</b>. Dead is acceptable too, but not as good for points.
+  - Civilians <b>can't harm</b> SS without <b>good IC reason AND escalation.</b>
+  - UPA can kill SS on sight and worldlessly, its their objective.
+  - SS have a jail area. If a civie is being bad, arrest them, or send the axuillary police to arrest them.
+  - The <b>Auxillary Police</b> are an <i>extension</i> of the SS, <b>they abide by the same rules</b>.
+  - If you join as a certain civilian job, you're to do that job. If you find it boring then ahelp to be changed and don't choose it again.
+  - SS can be slightly brutal to civilians for RP purposes, but <b>aren't to inflict lethal wounds or ruin others' rounds intentionally</b>.
+  - No one can mindlessly grief and break into things. Even the SS or UPA.
 
 ## TDM Server:
 
