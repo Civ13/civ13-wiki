@@ -25,6 +25,9 @@
   - **Every user must have common sense to identify and apply the rules
     to their behavior correctly so as to avoid breaking the rules and to
     discern wrong-doers from players who follow the rules.**
+  - Sharing exploits of any kind or sharing information that could lead to griefing is against the rules. 
+    You will be warned first if you do it again it will result in a
+    permanent ban from the server. If you find a exploit please inform staff privately.
 
 ### Prohibited Behaviors:
 
