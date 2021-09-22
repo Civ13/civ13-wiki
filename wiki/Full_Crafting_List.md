@@ -1,11 +1,9 @@
 # Full Crafting List
-Here you can find the full craft list, in sortable tables and segmented
-by material.
+Here you can find the full craft list, in sortable tables and segmented by material.
 
 **To look for specific items, use the "Find in page" command - Ctrl-F.**
 
-Exported on 17 September 2020 -
-[Commit 7498](https://github.com/Civ13/Civ13/commit/4330184664cdbd935ddd0ea30b85efe278413084)
+Exported on 21 September 2021 - [Commit 8828](https://github.com/Civ13/Civ13/commit/73c8c60f2d181cdbb506391b478f951e4dbd6e7a)
 
 ## bamboo
 
@@ -15,6 +13,7 @@ Exported on 17 September 2020 -
 | bamboo altar | 20 | bamboo | religious & decoration | Available from the start. | Available until the Modern Age. |
 | small tiki statue | 8 | bamboo | religious & decoration | Available from the start. | Available until the Modern Age. |
 | tiki torch | 5 | bamboo | none | Available from the start. | Available until the Modern Age. |
+| large bamboo double doors | 5 | bamboo | construction | Requires  18 Industrial research points. | Available until the Modern Age. |
 | roof support | 2 | bamboo | construction | Available from the start. | Available until the Modern Age. |
 | bamboo wall frame | 1 | bamboo | construction | Requires  10 Industrial research points. | Available until the Modern Age. |
 | horizontal tatami floor | 0.75 | bamboo | construction | Available from the start. | Available until the Modern Age. |
@@ -43,7 +42,8 @@ Exported on 17 September 2020 -
 
 | Item | Cost| Material | Category | Research Needed | Available Until |
 | -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
-| fur coat | 6 | bearpeltblack | none | Available from the start. | Available until the Modern Age. |
+| primitive pelt coat | 6 | bearpeltblack | none | Available from the start. | Available until the Stone Age. |
+| fur coat | 6 | bearpeltblack | none | Requires  20 Medical research points. | Available until the Modern Age. |
 | fancy fur coat | 10 | bearpeltblack | none | Available from the start. | Available until the Modern Age. |
 | fur boots | 3 | bearpeltblack | none | Available from the start. | Available until the Modern Age. |
 | fur gloves | 3 | bearpeltblack | none | Available from the start. | Available until the Modern Age. |
@@ -58,7 +58,8 @@ Exported on 17 September 2020 -
 
 | Item | Cost| Material | Category | Research Needed | Available Until |
 | -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
-| fur coat | 6 | bearpeltbrown | none | Available from the start. | Available until the Modern Age. |
+| primitive pelt coat | 6 | bearpeltbrown | none | Available from the start. | Available until the Stone Age. |
+| fur coat | 6 | bearpeltbrown | none | Requires  20 Medical research points. | Available until the Modern Age. |
 | fancy fur coat | 10 | bearpeltbrown | none | Available from the start. | Available until the Modern Age. |
 | fur boots | 3 | bearpeltbrown | none | Available from the start. | Available until the Modern Age. |
 | fur gloves | 3 | bearpeltbrown | none | Available from the start. | Available until the Modern Age. |
@@ -73,12 +74,14 @@ Exported on 17 September 2020 -
 
 | Item | Cost| Material | Category | Research Needed | Available Until |
 | -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
-| fur coat | 6 | bearpeltwhite | none | Available from the start. | Available until the Modern Age. |
+| primitive pelt coat | 6 | bearpeltwhite | none | Available from the start. | Available until the Stone Age. |
+| fur coat | 6 | bearpeltwhite | none | Requires  20 Medical research points. | Available until the Modern Age. |
 | fur boots | 3 | bearpeltwhite | none | Available from the start. | Available until the Modern Age. |
 | fur gloves | 3 | bearpeltwhite | none | Available from the start. | Available until the Modern Age. |
 | bear pelt headcover | 4 | bearpeltwhite | none | Available from the start. | Available until the Modern Age. |
 | furcap | 2 | bearpeltwhite | none | Requires  89 Medical research points. | Available until the Modern Age. |
 | furhat | 2 | bearpeltwhite | none | Requires  89 Medical research points. | Available until the Modern Age. |
+| regal ermine cape | 9 | bearpeltwhite | none | Requires  38 Medical research points. | Available until the Modern Age. |
 | white napoleonic bearskin hat | 4 | bearpeltwhite | none | Requires  88 Military, 92 Medical research points. | Available until the Imperial Age. |
 
 
@@ -91,7 +94,8 @@ Exported on 17 September 2020 -
 | furcap | 2 | bisonpelt | none | Requires  89 Medical research points. | Available until the Modern Age. |
 | furhat | 2 | bisonpelt | none | Requires  89 Medical research points. | Available until the Modern Age. |
 | bisonhead furhat | 3 | bisonpelt | none | Requires  89 Medical research points. | Available until the Modern Age. |
-| fur coat | 6 | bisonpelt | none | Available from the start. | Available until the Modern Age. |
+| primitive pelt coat | 6 | bisonpelt | none | Available from the start. | Available until the Stone Age. |
+| fur coat | 6 | bisonpelt | none | Requires  20 Medical research points. | Available until the Modern Age. |
 | fancy fur coat | 10 | bisonpelt | none | Available from the start. | Available until the Modern Age. |
 | fur boots | 3 | bisonpelt | none | Available from the start. | Available until the Modern Age. |
 | fur gloves | 3 | bisonpelt | none | Available from the start. | Available until the Modern Age. |
@@ -106,6 +110,7 @@ Exported on 17 September 2020 -
 | skull mask | 5 | bone | none | Available from the start. | Available until the Middle Ages. |
 | bone helmet | 10 | bone | none | Available from the start. | Available until the Middle Ages. |
 | bone armor | 10 | bone | none | Available from the start. | Available until the Bronze Age. |
+| primitive bone hair-pipe armor | 5 | bone | none | Available from the start. | Available until the Middle Ages. |
 | bone hatchet | 2 | bone | none | Available from the start. | Available until the Modern Age. |
 | battle axe | 10 | bone | none | Available from the start. | Available until the Industrial Age. |
 | tribal bone knife | 4 | bone | none | Available from the start. | Available until the Industrial Age. |
@@ -114,6 +119,7 @@ Exported on 17 September 2020 -
 | blowing horn | 4 | bone | none | Available from the start. | Available until the Industrial Age. |
 | dice | 2 | bone | none | Requires  15 Industrial research points. | Available until the Modern Age. |
 | tomahawk | 4 | bone | none | Requires  25 Industrial research points. | Available until the Industrial Age. |
+| bone dart | 2 | bone | none | Requires  9 Industrial, 14 Military, 12 Medical research points. | Available until the Early Modern Age. |
 
 
 ## bronze
@@ -125,8 +131,11 @@ Exported on 17 September 2020 -
 | bronze bathtub | 50 | bronze | hygiene | Requires  30 Industrial, 20 Medical research points. | Available until the Industrial Age. |
 | bronze public bathtub | 50 | bronze | hygiene | Requires  85 Industrial, 60 Medical research points. | Available until the Industrial Age. |
 | bronze etsy lamp | 4 | bronze | none | Requires  15 Industrial research points. | Available until the Modern Age. |
+| ashtray | 3 | bronze | none | Requires  20 Industrial research points. | Available until the Modern Age. |
+| large bronze double doors | 8 | bronze | none | Requires  18 Industrial research points. | Available until the Modern Age. |
 | shears | 2 | bronze | tools | Available from the start. | Available until the Modern Age. |
 | bronze phrigian helmet | 4 | bronze | armor | Requires  21 Industrial, 16 Military research points. | Available until the Bronze Age. |
+| bronze montefortino helmet | 4 | bronze | armor | Requires  21 Industrial, 16 Military research points. | Available until the Bronze Age. |
 | bronze chestplate | 6 | bronze | armor | Requires  24 Industrial, 21 Military research points. | Available until the Middle Ages. |
 | bronze dragoon helmet | 7 | bronze | armor | Requires  88 Military, 92 Medical research points. | Available until the Imperial Age. |
 | bronze retractor | 2 | bronze | healthcare | Requires  18 Industrial, 26 Medical research points. | Available until the Modern Age. |
@@ -141,6 +150,7 @@ Exported on 17 September 2020 -
 | bronze sarcophagus | 25 | bronze | religious & decoration | Available from the start. | Available until the Bronze Age. |
 | monumental bronze statue of karl marx | 30 | bronze | religious & decoration | Requires  125 Industrial research points. | Available until the Modern Age. |
 | bronze bust of karl marx | 3 | bronze | religious & decoration | Requires  125 Industrial research points. | Available until the Modern Age. |
+| globe | 8 | bronze | religious & decoration | Requires  85 Industrial, 80 Military research points. | Available until the Modern Age. |
 
 
 ## catpelt
@@ -148,7 +158,8 @@ Exported on 17 September 2020 -
 
 | Item | Cost| Material | Category | Research Needed | Available Until |
 | -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
-| fur coat | 6 | catpelt | none | Available from the start. | Available until the Modern Age. |
+| pelt coat | 6 | catpelt | none | Available from the start. | Available until the Stone Age. |
+| fur coat | 6 | catpelt | none | Requires  20 Medical research points. | Available until the Modern Age. |
 | fur boots | 3 | catpelt | none | Available from the start. | Available until the Modern Age. |
 | fur gloves | 3 | catpelt | none | Available from the start. | Available until the Modern Age. |
 | furcap | 2 | catpelt | none | Requires  89 Medical research points. | Available until the Modern Age. |
@@ -171,13 +182,16 @@ Exported on 17 September 2020 -
 | Item | Cost| Material | Category | Research Needed | Available Until |
 | -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
 | unfired clay roofing | 0.5 | clay | none | Available from the start. | Available until the Modern Age. |
-| unfired black clay roofing | 0.5 | clay | none | Available from the start. | Available until the Modern Age. |
+| unfired blue clay roofing | 0.5 | clay | none | Requires  18 Industrial research points. | Available until the Modern Age. |
+| unfired black clay roofing | 0.5 | clay | none | Requires  18 Industrial research points. | Available until the Modern Age. |
+| unfired black kerawa roofing | 0.5 | clay | none | Available from the start. | Available until the Modern Age. |
 | concrete roof builder | 0.75 | clay | none | Requires  103 Industrial research points. | Available until the Modern Age. |
 | unfired clay vase | 3 | clay | kitchen | Available from the start. | Available until the Modern Age. |
 | unfired clay wine cup | 1 | clay | kitchen | Available from the start. | Available until the Modern Age. |
 | unfired clay bowl | 1 | clay | kitchen | Available from the start. | Available until the Modern Age. |
 | unfired clay jug | 2 | clay | kitchen | Available from the start. | Available until the Modern Age. |
 | unfired clay cup | 1 | clay | kitchen | Available from the start. | Available until the Modern Age. |
+| unfired clay cooking pot | 2 | clay | none | Available from the start. | Available until the Modern Age. |
 | unfired very small clay pot | 1 | clay | none | Available from the start. | Available until the Modern Age. |
 | unfired small clay pot | 1 | clay | none | Available from the start. | Available until the Modern Age. |
 | unfired medium clay pot | 2 | clay | kitchen | Available from the start. | Available until the Modern Age. |
@@ -202,7 +216,6 @@ Exported on 17 September 2020 -
 | unfired blacksmith clay pot | 2 | clay | molds | Available from the start. | Available until the Modern Age. |
 | unfired blacksmith clay jug | 5 | clay | molds | Available from the start. | Available until the Modern Age. |
 | raw stucco | 1.5 | clay | wall coverings & stucco | Requires  18 Industrial research points. | Available until the Modern Age. |
-| raw greek stucco | 1.5 | clay | wall coverings & stucco | Requires  18 Industrial research points. | Available until the Middle Ages. |
 | raw roman stucco | 1.5 | clay | wall coverings & stucco | Requires  18 Industrial research points. | Available until the Middle Ages. |
 | light clay plant pot | 4 | clay | plant pots & decoration | Requires  18 Industrial research points. | Available until the Modern Age. |
 | medium sized yellow clay planter | 4 | clay | plant pots & decoration | Requires  18 Industrial research points. | Available until the Modern Age. |
@@ -213,12 +226,10 @@ Exported on 17 September 2020 -
 
 | Item | Cost| Material | Category | Research Needed | Available Until |
 | -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
-| light hanfu | 3 | cloth | clothing | Requires  38 Medical research points. | Available until the 2nd World War. |
-| dark hanfu | 3 | cloth | clothing | Requires  38 Medical research points. | Available until the 2nd World War. |
-| green hanfu | 3 | cloth | clothing | Requires  38 Medical research points. | Available until the 2nd World War. |
 | small sail | 15 | cloth | none | Requires  22 Medical research points. | Available until the Modern Age. |
 | cigarette pack | 1 | cloth | none | Requires  90 Industrial research points. | Available until the Modern Age. |
 | sandbag | 1 | cloth | none | Requires  90 Medical research points. | Available until the Modern Age. |
+| cashbag | 1 | cloth | none | Requires  90 Medical research points. | Available until the Modern Age. |
 | courier sneakers | 3 | cloth | foot wear | Requires  180 Medical research points. | Available until the Modern Age. |
 | oven mittens | 3 | cloth | gloves | Requires  45 Industrial, 8 Medical research points. | Available until the Modern Age. |
 | motorist gloves | 3 | cloth | gloves | Requires  180 Medical research points. | Available until the Modern Age. |
@@ -264,6 +275,7 @@ Exported on 17 September 2020 -
 | plague doctor suit | 5 | cloth | jackets & vests | Requires  38 Medical research points. | Available until the Imperial Age. |
 | custom haori jacket | 4 | cloth | jackets & vests | Requires  38 Medical research points. | Available until the Modern Age. |
 | black haori jacket | 4 | cloth | jackets & vests | Requires  38 Medical research points. | Available until the Modern Age. |
+| monk robes | 6 | cloth | jackets & vests | Requires  38 Medical research points. | Available until the Modern Age. |
 | custom colonial jacket | 5 | cloth | jackets & vests | Requires  57 Medical research points. | Available until the Imperial Age. |
 | custom colonial coat | 7 | cloth | jackets & vests | Requires  57 Medical research points. | Available until the Imperial Age. |
 | black jacket | 6 | cloth | jackets & vests | Requires  57 Medical research points. | Available until the Industrial Age. |
@@ -277,6 +289,8 @@ Exported on 17 September 2020 -
 | olive vest | 4 | cloth | jackets & vests | Requires  89 Medical research points. | Available until the Modern Age. |
 | brown winter coat | 10 | cloth | jackets & vests | Requires  99 Medical research points. | Available until the Modern Age. |
 | grey winter coat | 10 | cloth | jackets & vests | Requires  99 Medical research points. | Available until the Modern Age. |
+| chest length apron | 4 | cloth | jackets & vests | Requires  105 Medical research points. | Available until the Modern Age. |
+| waist length apron | 4 | cloth | jackets & vests | Requires  105 Medical research points. | Available until the Modern Age. |
 | charcoal suit | 15 | cloth | jackets & vests | Requires  112 Medical research points. | Available until the Modern Age. |
 | black suit | 15 | cloth | jackets & vests | Requires  112 Medical research points. | Available until the Modern Age. |
 | dark black suit | 15 | cloth | jackets & vests | Requires  112 Medical research points. | Available until the Modern Age. |
@@ -318,6 +332,7 @@ Exported on 17 September 2020 -
 | grey padded head-cap | 4 | cloth | hats | Requires  32 Military, 42 Medical research points. | Available until the Middle Ages. |
 | ratty old padded head-cap | 4 | cloth | hats | Requires  32 Military, 42 Medical research points. | Available until the Middle Ages. |
 | hooded cape | 6 | cloth | hats | Requires  35 Medical research points. | Available until the Imperial Age. |
+| count hat | 5 | cloth | hats | Requires  35 Medical research points. | Available until the Modern Age. |
 | colored turban | 2 | cloth | hats | Requires  38 Medical research points. | Available until the Modern Age. |
 | white turban | 2 | cloth | hats | Requires  38 Medical research points. | Available until the Modern Age. |
 | grand turban | 5 | cloth | hats | Requires  38 Medical research points. | Available until the Modern Age. |
@@ -325,8 +340,9 @@ Exported on 17 September 2020 -
 | phrigian hat | 4 | cloth | hats | Requires  38 Medical research points. | Available until the Middle Ages. |
 | red phrigian hat | 4 | cloth | hats | Requires  38 Medical research points. | Available until the Middle Ages. |
 | blue phrigian hat | 4 | cloth | hats | Requires  38 Medical research points. | Available until the Middle Ages. |
+| doge hat | 4 | cloth | hats | Requires  38 Medical research points. | Available until the Imperial Age. |
 | plague doctor hat | 4 | cloth | hats | Requires  38 Medical research points. | Available until the Imperial Age. |
-| nun hood | 4 | cloth | hats | Requires  38 Medical research points. | Available until the Imperial Age. |
+| nun hood | 4 | cloth | hats | Requires  38 Medical research points. | Available until the Modern Age. |
 | customizable hennin | 2 | cloth | hats | Requires  38 Medical research points. | Available until the Imperial Age. |
 | custom noble hat | 4 | cloth | hats | Requires  38 Medical research points. | Available until the Imperial Age. |
 | feathered hat | 3 | cloth | hats | Requires  52 Medical research points. | Available until the Modern Age. |
@@ -357,7 +373,7 @@ Exported on 17 September 2020 -
 | custom field cap | 3 | cloth | hats | Requires  109 Medical research points. | Available until the Modern Age. |
 | black balaclava | 2 | cloth | hats | Requires  109 Medical research points. | Available until the Modern Age. |
 | customizable beanie | 2 | cloth | hats | Requires  109 Medical research points. | Available until the Modern Age. |
-| count hat | 5 | cloth | hats | Requires  35 Medical research points. | Available until the Modern Age. |
+| ushanka | 4 | cloth | hats | Requires  110 Medical research points. | Available until the Modern Age. |
 | police cap | 4 | cloth | military & law enforcement clothes | Requires  160 Medical research points. | Available until the Modern Age. |
 | eyepatch | 2 | cloth | masks & eyewear | Requires  18 Medical research points. | Available until the Modern Age. |
 | blindfold | 2 | cloth | masks & eyewear | Requires  18 Medical research points. | Available until the Modern Age. |
@@ -375,7 +391,7 @@ Exported on 17 September 2020 -
 | huipil | 3 | cloth | clothing | Requires  18 Medical research points. | Available until the Industrial Age. |
 | half huipil | 2 | cloth | clothing | Requires  18 Medical research points. | Available until the Industrial Age. |
 | white kimono | 4 | cloth | clothing | Requires  18 Medical research points. | Available until the Modern Age. |
-| customizable tunic | 4 | cloth | clothing | Requires  18 Medical research points. | Available until the Modern Age. |
+| customizable long tunic | 4 | cloth | clothing | Requires  18 Medical research points. | Available until the Modern Age. |
 | customizable toga | 3 | cloth | clothing | Requires  18 Medical research points. | Available until the Middle Ages. |
 | customizable shendyt | 2 | cloth | clothing | Requires  18 Medical research points. | Available until the Middle Ages. |
 | customizable celtic trousers | 2 | cloth | clothing | Requires  18 Medical research points. | Available until the Bronze Age. |
@@ -401,6 +417,7 @@ Exported on 17 September 2020 -
 | light hanfu | 3 | cloth | clothing | Requires  38 Medical research points. | Available until the 2nd World War. |
 | dark hanfu | 3 | cloth | clothing | Requires  38 Medical research points. | Available until the 2nd World War. |
 | green hanfu | 3 | cloth | clothing | Requires  38 Medical research points. | Available until the 2nd World War. |
+| doge outfit | 8 | cloth | clothing | Requires  38 Medical research points. | Available until the Imperial Age. |
 | customizable renaissance clothing | 6 | cloth | clothing | Requires  59 Medical research points. | Available until the Imperial Age. |
 | customizable pontifical clothing | 6 | cloth | clothing | Requires  59 Medical research points. | Available until the Modern Age. |
 | baggy renaissance clothing | 6 | cloth | clothing | Requires  59 Medical research points. | Available until the Imperial Age. |
@@ -408,6 +425,8 @@ Exported on 17 September 2020 -
 | artisan clothing | 3 | cloth | clothing | Requires  59 Medical research points. | Available until the Imperial Age. |
 | dark artisan clothing | 3 | cloth | clothing | Requires  59 Medical research points. | Available until the Imperial Age. |
 | light artisan clothing | 3 | cloth | clothing | Requires  59 Medical research points. | Available until the Imperial Age. |
+| custom colonial outfit | 4 | cloth | clothing | Requires  70 Medical research points. | Available until the Modern Age. |
+| custom short colonial outfit | 4 | cloth | clothing | Requires  70 Medical research points. | Available until the Modern Age. |
 | blue colonial clothing | 3 | cloth | clothing | Requires  78 Medical research points. | Available until the Industrial Age. |
 | white colonial clothing | 3 | cloth | clothing | Requires  78 Medical research points. | Available until the Industrial Age. |
 | short-sleeved colonial clothing | 2 | cloth | clothing | Requires  78 Medical research points. | Available until the Industrial Age. |
@@ -440,10 +459,9 @@ Exported on 17 September 2020 -
 | custom modern outfit | 4 | cloth | clothing | Requires  120 Medical research points. | Available until the Modern Age. |
 | custom baggy modern outfit | 4 | cloth | clothing | Requires  120 Medical research points. | Available until the Modern Age. |
 | custom short modern outfit | 4 | cloth | clothing | Requires  120 Medical research points. | Available until the Modern Age. |
-| custom colonial outfit | 4 | cloth | clothing | Requires  70 Medical research points. | Available until the Modern Age. |
-| custom short colonial outfit | 4 | cloth | clothing | Requires  70 Medical research points. | Available until the Modern Age. |
 | motorist outfit | 4 | cloth | clothing | Requires  180 Medical research points. | Available until the Modern Age. |
 | punk outfit | 3 | cloth | clothing | Requires  180 Medical research points. | Available until the Modern Age. |
+| customizable roman dress | 4 | cloth | feminine clothing | Requires  18 Medical research points. | Available until the Modern Age. |
 | nun dress | 4 | cloth | feminine clothing | Requires  38 Medical research points. | Available until the Modern Age. |
 | plain black dress | 4 | cloth | feminine clothing | Requires  38 Medical research points. | Available until the 2nd World War. |
 | blue sari | 4 | cloth | feminine clothing | Requires  38 Medical research points. | Available until the Modern Age. |
@@ -507,6 +525,7 @@ Exported on 17 September 2020 -
 | large copper pot | 5 | copper | none | Available from the start. | Available until the Modern Age. |
 | trombone | 6 | copper | none | Requires  83 Industrial research points. | Available until the Modern Age. |
 | handbell | 2 | copper | none | Requires  40 Industrial research points. | Available until the Modern Age. |
+| large copper double doors | 5 | copper | none | Requires  18 Industrial research points. | Available until the Modern Age. |
 | rifle casing (x3) | 1 | copper | ammunition | Requires  105 Industrial research points. | Available until the Modern Age. |
 | pistol casing (x3) | 1 | copper | ammunition | Requires  105 Industrial research points. | Available until the Modern Age. |
 | artillery casing | 2 | copper | ammunition | Requires  105 Industrial research points. | Available until the Modern Age. |
@@ -534,7 +553,7 @@ Exported on 17 September 2020 -
 
 | Item | Cost| Material | Category | Research Needed | Available Until |
 | -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
-| slene cowfur loincloth | 2 | cowpelt | none | Available from the start. | Available until the Imperial Age. |
+| slene cattlefur loincloth | 2 | cowpelt | none | Available from the start. | Available until the Imperial Age. |
 | nguni shield | 6 | cowpelt | none | Available from the start. | Available until the Imperial Age. |
 | fur boots | 3 | cowpelt | none | Available from the start. | Available until the Modern Age. |
 | fur gloves | 3 | cowpelt | none | Available from the start. | Available until the Modern Age. |
@@ -552,6 +571,7 @@ Exported on 17 September 2020 -
 | radio transmitter | 6 | electronics | none | Requires  105 Industrial research points. | Available until the Modern Age. |
 | radio receiver | 3 | electronics | none | Requires  105 Industrial research points. | Available until the Modern Age. |
 | 2-way radio | 10 | electronics | none | Requires  137 Industrial research points. | Available until the Modern Age. |
+| loudspeaker | 3 | electronics | none | Requires  135 Industrial research points. | Available until the Modern Age. |
 | portable radio | 12 | electronics | none | Requires  141 Industrial research points. | Available until the Modern Age. |
 | walkie-talkie radio | 16 | electronics | none | Requires  178 Industrial research points. | Available until the Modern Age. |
 | mobile phone | 20 | electronics | none | Requires  212 Industrial research points. | Available until the Modern Age. |
@@ -584,7 +604,8 @@ Exported on 17 September 2020 -
 
 | Item | Cost| Material | Category | Research Needed | Available Until |
 | -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
-| fur coat | 6 | foxpelt | none | Available from the start. | Available until the Modern Age. |
+| primitive pelt coat | 6 | foxpelt | none | Available from the start. | Available until the Stone Age. |
+| fur coat | 6 | foxpelt | none | Requires  20 Medical research points. | Available until the Modern Age. |
 | fur boots | 3 | foxpelt | none | Available from the start. | Available until the Modern Age. |
 | fur gloves | 3 | foxpelt | none | Available from the start. | Available until the Modern Age. |
 | fox pelt headcover | 3 | foxpelt | none | Available from the start. | Available until the Modern Age. |
@@ -625,6 +646,7 @@ Exported on 17 September 2020 -
 | teacup | 2 | glass | drinks | Requires  49 Industrial, 24 Medical research points. | Available until the Modern Age. |
 | wine glass | 2 | glass | drinks | Requires  49 Industrial research points. | Available until the Modern Age. |
 | beer mug | 2 | glass | drinks | Requires  75 Industrial research points. | Available until the Modern Age. |
+| coffee mug | 2 | glass | drinks | Requires  110 Industrial research points. | Available until the Modern Age. |
 | small lightbulb frame | 2 | glass | electrical | Requires  115 Industrial research points. | Available until the Modern Age. |
 | light tube frame | 3 | glass | electrical | Requires  115 Industrial research points. | Available until the Modern Age. |
 | light tube | 1 | glass | electrical | Requires  115 Industrial research points. | Available until the Modern Age. |
@@ -637,8 +659,12 @@ Exported on 17 September 2020 -
 | toilet | 4 | glass | furniture | Requires  95 Industrial research points. | Available until the Modern Age. |
 | mirror | 3 | glass | furniture | Requires  55 Industrial research points. | Available until the Modern Age. |
 | shower | 10 | glass | furniture | Requires  115 Industrial research points. | Available until the Modern Age. |
-| sunglasses | 2 | glass | none | Requires  140 Industrial research points. | Available until the Modern Age. |
-| large sunglasses | 2 | glass | none | Requires  165 Industrial research points. | Available until the Modern Age. |
+| sink | 40 | glass | furniture | Requires  115 Industrial research points. | Available until the Modern Age. |
+| ashtray | 3 | glass | none | Requires  110 Industrial research points. | Available until the Modern Age. |
+| green glasses | 6 | glass | eyewear | Requires  110 Industrial, 120 Military research points. | Available until the Modern Age. |
+| corrective glasses | 6 | glass | eyewear | Requires  110 Industrial, 120 Military research points. | Available until the Modern Age. |
+| sunglasses | 2 | glass | eyewear | Requires  140 Industrial research points. | Available until the Modern Age. |
+| large sunglasses | 2 | glass | eyewear | Requires  165 Industrial research points. | Available until the Modern Age. |
 
 
 ## goatpelt
@@ -655,9 +681,10 @@ Exported on 17 September 2020 -
 | Item | Cost| Material | Category | Research Needed | Available Until |
 | -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
 | gold coins | 1 | gold | none | Available from the start. | Available until the Modern Age. |
+| large gold double doors | 5 | gold | none | Requires  18 Industrial research points. | Available until the Modern Age. |
 | gold crown | 3 | gold | none | Requires  25 Industrial research points. | Available until the Modern Age. |
-| gold laurel crown | 2 | gold | none | Requires  25 Industrial research points. | Available until the Modern Age. |
 | gold arm bangles | 2 | gold | none | Available from the start. | Available until the Modern Age. |
+| gold watch | 6 | gold | none | Requires  110 Industrial, 60 Military research points. | Available until the Modern Age. |
 | gold statue | 10 | gold | none | Requires  10 Industrial research points. | Available until the Modern Age. |
 | gold sarcophagus | 15 | gold | none | Available from the start. | Available until the Bronze Age. |
 | gold sceptre | 3 | gold | none | Available from the start. | Available until the Modern Age. |
@@ -668,11 +695,13 @@ Exported on 17 September 2020 -
 
 | Item | Cost| Material | Category | Research Needed | Available Until |
 | -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
-| fur coat | 6 | gorillapelt | none | Available from the start. | Available until the Modern Age. |
+| primitive pelt coat | 6 | gorillapelt | none | Available from the start. | Available until the Stone Age. |
+| fur coat | 6 | gorillapelt | none | Requires  20 Medical research points. | Available until the Modern Age. |
 | fur boots | 3 | gorillapelt | none | Available from the start. | Available until the Modern Age. |
 | fur gloves | 3 | gorillapelt | none | Available from the start. | Available until the Modern Age. |
 | furcap | 2 | gorillapelt | none | Requires  89 Medical research points. | Available until the Modern Age. |
 | furhat | 2 | gorillapelt | none | Requires  89 Medical research points. | Available until the Modern Age. |
+| full body gorilla suit | 12 | gorillapelt | none | Requires  112 Medical research points. | Available until the Modern Age. |
 
 
 ## hemp
@@ -717,14 +746,13 @@ Exported on 17 September 2020 -
 | transport wagon | 5 | iron | trains | Requires  101 Industrial research points. | Available until the Modern Age. |
 | iron anvil | 20 | iron | production | Requires  25 Industrial research points. | Available until the Modern Age. |
 | armor repair bench | 16 | iron | production | Requires  25 Industrial research points. | Available until the Modern Age. |
-| specialist armorbench | 15 | iron | production | Requires  120 Industrial research points. | Available until the Modern Age. |
 | engine maker | 5 | iron | tools | Requires  115 Industrial research points. | Available until the Modern Age. |
+| iron blast furnace | 25 | iron | production | Requires  45 Military research points. | Available until the Modern Age. |
 | iron furnace | 15 | iron | production | Requires  87 Military research points. | Available until the Modern Age. |
-| iron blast furnace | 25 | iron | production | Requires  87 Military research points. | Available until the Modern Age. |
 | firearm maintenance bench | 18 | iron | production | Requires  25 Industrial, 70 Military research points. | Available until the Modern Age. |
 | large drying rack | 8 | iron | production | Requires  16 Medical research points. | Available until the Modern Age. |
-| canner | 7 | iron | production | Requires  95 Industrial research points. | Available until the Modern Age. |
 | meat grinder | 8 | iron | production | Requires  90 Medical research points. | Available until the Modern Age. |
+| canner | 7 | iron | production | Requires  95 Industrial research points. | Available until the Modern Age. |
 | iron plough | 4 | iron | tools | Available from the start. | Available until the Modern Age. |
 | shears | 2 | iron | tools | Available from the start. | Available until the Modern Age. |
 | chisel | 8 | iron | tools | Available from the start. | Available until the Modern Age. |
@@ -738,19 +766,25 @@ Exported on 17 September 2020 -
 | clawhammer | 3 | iron | tools | Requires  110 Industrial research points. | Available until the Modern Age. |
 | fishing rod | 5 | iron | tools | Requires  120 Industrial research points. | Available until the Modern Age. |
 | handcuffs | 1 | iron | tools | Requires  61 Military research points. | Available until the Modern Age. |
-| table | 4 | iron | furniture | Requires  33 Industrial research points. | Available until the Modern Age. |
 | cooking pot | 8 | iron | production | Requires  33 Industrial research points. | Available until the Modern Age. |
-| brazier | 4 | iron | production | Requires  33 Industrial research points. | Available until the Modern Age. |
 | oven | 8 | iron | production | Requires  45 Industrial research points. | Available until the Modern Age. |
 | grill | 8 | iron | production | Requires  150 Industrial research points. | Available until the Modern Age. |
 | iron altar | 12 | iron | furniture | Available from the start. | Available until the Modern Age. |
+| table | 4 | iron | furniture | Requires  33 Industrial research points. | Available until the Modern Age. |
+| brazier | 4 | iron | production | Requires  33 Industrial research points. | Available until the Modern Age. |
+| rack | 6 | iron | furniture | Requires  40 Industrial research points. | Available until the Modern Age. |
+| wall mailbox | 3 | iron | furniture | Requires  90 Industrial research points. | Available until the Modern Age. |
+| bin | 4 | iron | furniture | Requires  105 Industrial research points. | Available until the Modern Age. |
 | locker | 4 | iron | furniture | Requires  105 Industrial research points. | Available until the Modern Age. |
 | mechanical trap | 5 | iron | weapons | Requires  32 Military research points. | Available until the Modern Age. |
 | shuriken | 2 | iron | weapons | Requires  39 Military research points. | Available until the Modern Age. |
 | kunai | 3 | iron | weapons | Requires  39 Military research points. | Available until the Modern Age. |
 | bayonet | 2 | iron | weapons | Requires  90 Military research points. | Available until the Modern Age. |
-| unlocked iron door | 5 | iron | construction | Requires  28 Industrial research points. | Available until the Modern Age. |
-| locked iron door | 5 | iron | construction | Requires  28 Industrial research points. | Available until the Modern Age. |
+| unlocked iron door | 10 | iron | construction | Requires  28 Industrial research points. | Available until the Modern Age. |
+| locked iron door | 15 | iron | construction | Requires  28 Industrial research points. | Available until the Modern Age. |
+| faction door | 15 | iron | construction | Requires  28 Industrial research points. | Available until the Modern Age. |
+| unlocked large iron double doors | 10 | iron | construction | Requires  28 Industrial research points. | Available until the Modern Age. |
+| key | 2 | iron | none | Requires  28 Industrial research points. | Available until the Modern Age. |
 | iron fence | 2 | iron | construction | Requires  50 Industrial research points. | Available until the Modern Age. |
 | chainlink fence | 3 | iron | construction | Requires  120 Industrial research points. | Available until the Modern Age. |
 | barbwire | 1 | iron | construction | Requires  120 Industrial research points. | Available until the Modern Age. |
@@ -765,7 +799,8 @@ Exported on 17 September 2020 -
 | magazine (30) | 4 | iron | magazines | Requires  130 Industrial research points. | Available until the Modern Age. |
 | drum magazine (65) | 7 | iron | magazines | Requires  135 Industrial research points. | Available until the Modern Age. |
 | iron arm bangles | 2 | iron | none | Available from the start. | Available until the Modern Age. |
-| monocle | 3 | iron | none | Requires  61 Military research points. | Available until the Modern Age. |
+| monocle | 3 | iron | none | Requires  61 Medical research points. | Available until the Modern Age. |
+| pocket watch | 6 | iron | none | Requires  105 Industrial, 61 Military research points. | Available until the Modern Age. |
 | splints | 2 | iron | healthcare | Requires  35 Industrial, 44 Medical research points. | Available until the Modern Age. |
 | retractor | 2 | iron | healthcare | Requires  35 Industrial, 55 Medical research points. | Available until the Modern Age. |
 | bone saw | 2 | iron | healthcare | Requires  35 Industrial, 55 Medical research points. | Available until the Modern Age. |
@@ -798,6 +833,43 @@ Exported on 17 September 2020 -
 | Item | Cost| Material | Category | Research Needed | Available Until |
 | -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
 | lead safe | 3 | lead | none | Requires  65 Medical research points. | Available until the Modern Age. |
+| large lead double doors | 5 | lead | none | Requires  18 Industrial research points. | Available until the Bronze Age. |
+
+
+## leaf
+
+
+| Item | Cost| Material | Category | Research Needed | Available Until |
+| -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
+| thatch roofing | 2 | leaf | none | Available from the start. | Available until the Modern Age. |
+| leaf head covering | 3 | leaf | none | Available from the start. | Available until the Stone Age. |
+| laurel crown | 4 | leaf | none | Requires  23 Industrial research points. | Available until the Middle Ages. |
+| gold laurel crown | 6 | leaf | none | Requires  23 Industrial research points. | Available until the Middle Ages. |
+| imitation laurel crown | 8 | leaf | none | Requires  82 Medical research points. | Available until the Modern Age. |
+| masculine modesty preserving leaf | 2 | leaf | none | Available from the start. | Available until the Middle Ages. |
+| feminine modesty preserving leaf | 2 | leaf | none | Available from the start. | Available until the Middle Ages. |
+
+
+## leaffern
+
+
+| Item | Cost| Material | Category | Research Needed | Available Until |
+| -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
+| leaf head covering | 3 | leaffern | none | Available from the start. | Available until the Middle Ages. |
+| leaf crown | 5 | leaffern | none | Available from the start. | Available until the Middle Ages. |
+| leaf skirt | 4 | leaffern | none | Available from the start. | Available until the Middle Ages. |
+| long leaf skirt | 6 | leaffern | none | Available from the start. | Available until the Middle Ages. |
+
+
+## leafpalm
+
+
+| Item | Cost| Material | Category | Research Needed | Available Until |
+| -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
+| palm leaf roofing | 1 | leafpalm | none | Available from the start. | Available until the Modern Age. |
+| leaf crown | 5 | leafpalm | none | Available from the start. | Available until the Middle Ages. |
+| leaf skirt | 4 | leafpalm | none | Available from the start. | Available until the Middle Ages. |
+| long leaf skirt | 6 | leafpalm | none | Available from the start. | Available until the Middle Ages. |
 
 
 ## leather
@@ -813,6 +885,7 @@ Exported on 17 September 2020 -
 | leather bedroll | 4 | leather | furniture | Available from the start. | Available until the Modern Age. |
 | foldable canopy | 5 | leather | furniture | Available from the start. | Available until the Modern Age. |
 | comfy chair | 6 | leather | furniture | Requires  25 Industrial, 25 Medical research points. | Available until the Modern Age. |
+| divan | 9 | leather | furniture | Requires  95 Industrial, 35 Medical research points. | Available until the Modern Age. |
 | ore collector | 5 | leather | storage | Available from the start. | Available until the Modern Age. |
 | seed collector | 5 | leather | storage | Available from the start. | Available until the Modern Age. |
 | quiver | 3 | leather | storage | Available from the start. | Available until the Modern Age. |
@@ -822,6 +895,7 @@ Exported on 17 September 2020 -
 | leather satchel | 3 | leather | storage | Requires  120 Industrial, 125 Medical research points. | Available until the Modern Age. |
 | leather briefcase | 2 | leather | storage | Requires  100 Industrial, 100 Medical research points. | Available until the Modern Age. |
 | duffel bag | 4 | leather | storage | Requires  180 Industrial, 180 Medical research points. | Available until the Modern Age. |
+| small pouch | 2 | leather | storage | Requires  25 Industrial, 25 Medical research points. | Available until the Modern Age. |
 | leather bandages | 1 | leather | medical | Available from the start. | Available until the Modern Age. |
 | leather loincloth | 2 | leather | clothing | Available from the start. | Available until the Stone Age. |
 | aztec loincloth | 2 | leather | clothing | Available from the start. | Available until the Imperial Age. |
@@ -853,6 +927,14 @@ Exported on 17 September 2020 -
 | leather armor | 6 | leather | armor | Requires  16 Military, 21 Medical research points. | Available until the Imperial Age. |
 | leather helmet | 3 | leather | armor | Requires  16 Military, 21 Medical research points. | Available until the Imperial Age. |
 | hatchigane headband | 3 | leather | armor | Requires  16 Military, 21 Medical research points. | Available until the Imperial Age. |
+| leather samurai helmet | 7 | leather | armor | Requires  16 Military, 21 Medical research points. | Available until the Imperial Age. |
+| red leather samurai helmet | 7 | leather | armor | Requires  16 Military, 21 Medical research points. | Available until the Imperial Age. |
+| blue leather samurai helmet | 7 | leather | armor | Requires  16 Military, 21 Medical research points. | Available until the Imperial Age. |
+| black leather samurai helmet | 7 | leather | armor | Requires  16 Military, 21 Medical research points. | Available until the Imperial Age. |
+| leather samurai armor | 10 | leather | armor | Requires  16 Military, 21 Medical research points. | Available until the Imperial Age. |
+| red leather samurai armor | 10 | leather | armor | Requires  16 Military, 21 Medical research points. | Available until the Imperial Age. |
+| blue leather samurai armor | 10 | leather | armor | Requires  16 Military, 21 Medical research points. | Available until the Imperial Age. |
+| black leather samurai armor | 10 | leather | armor | Requires  16 Military, 21 Medical research points. | Available until the Imperial Age. |
 | khepresh war crown | 3 | leather | armor | Requires  16 Military, 22 Medical research points. | Available until the Middle Ages. |
 | leather skullcap helmet | 3 | leather | armor | Requires  27 Military, 27 Medical research points. | Available until the Imperial Age. |
 | steppe leather armor | 5 | leather | armor | Requires  33 Military, 28 Medical research points. | Available until the Imperial Age. |
@@ -913,12 +995,70 @@ Exported on 17 September 2020 -
 | shirtless lizard scale pants | 3 | lizardpelt | none | Requires  175 Medical research points. | Available until the Modern Age. |
 
 
+## marble
+
+
+| Item | Cost| Material | Category | Research Needed | Available Until |
+| -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
+| reclaim stone from marble | 2 | marble | none | Available from the start. | Available until the Modern Age. |
+| marble brazier | 3 | marble | none | Available from the start. | Available until the Modern Age. |
+| well | 7 | marble | none | Requires  21 Industrial research points. | Available until the Modern Age. |
+| ashtray | 3 | marble | none | Requires  14 Industrial research points. | Available until the Modern Age. |
+| marble pillar | 2 | marble | construction | Available from the start. | Available until the Modern Age. |
+| ionic column | 2.5 | marble | construction | Requires  22 Industrial research points. | Available until the Modern Age. |
+| solomonic column | 2.5 | marble | construction | Requires  22 Industrial research points. | Available until the Modern Age. |
+| thick solomonic column | 2.5 | marble | construction | Requires  22 Industrial research points. | Available until the Modern Age. |
+| marble aztec column | 2.5 | marble | construction | Requires  32 Industrial research points. | Available until the Modern Age. |
+| research kit | 10 | marble | none | Available from the start. | Available until the Modern Age. |
+| raw marble floor | 1 | marble | floors | Requires  20 Industrial research points. | Available until the Modern Age. |
+| raw black marble floor | 1 | marble | floors | Requires  20 Industrial research points. | Available until the Modern Age. |
+| raw pink marble floor | 1 | marble | floors | Requires  20 Industrial research points. | Available until the Modern Age. |
+| marble floor | 1 | marble | floors | Requires  25 Industrial research points. | Available until the Modern Age. |
+| marble tiles | 1 | marble | floors | Requires  25 Industrial research points. | Available until the Modern Age. |
+| black marble tiles | 1 | marble | floors | Requires  25 Industrial research points. | Available until the Modern Age. |
+| pink marble tiles | 1 | marble | floors | Requires  25 Industrial research points. | Available until the Modern Age. |
+| ornate marble tile | 1 | marble | floors | Requires  32 Industrial research points. | Available until the Modern Age. |
+| ornate black marble tile | 1 | marble | floors | Requires  32 Industrial research points. | Available until the Modern Age. |
+| decorative marble tile | 1 | marble | floors | Requires  32 Industrial research points. | Available until the Modern Age. |
+| decorative black marble tile | 1 | marble | floors | Requires  32 Industrial research points. | Available until the Modern Age. |
+| decorative pink marble tile | 1 | marble | floors | Requires  32 Industrial research points. | Available until the Modern Age. |
+| marble grid tile floor | 1 | marble | floors | Requires  45 Industrial research points. | Available until the Modern Age. |
+| marble checkerboard floor | 1 | marble | floors | Requires  45 Industrial research points. | Available until the Modern Age. |
+| reverse marble checkerboard floor | 1 | marble | floors | Requires  45 Industrial research points. | Available until the Modern Age. |
+| pink marble checkerboard floor | 1 | marble | floors | Requires  45 Industrial research points. | Available until the Modern Age. |
+| reverse pink marble checkerboard floor | 1 | marble | floors | Requires  45 Industrial research points. | Available until the Modern Age. |
+| marble statue | 15 | marble | religious & decoration | Requires  10 Industrial research points. | Available until the Modern Age. |
+| marble altar | 20 | marble | religious & decoration | Requires  28 Industrial research points. | Available until the Modern Age. |
+| monumental marble statue of venus | 45 | marble | religious & decoration | Requires  62 Industrial research points. | Available until the Modern Age. |
+| grindstone | 18 | marble | none | Requires  25 Industrial research points. | Available until the Modern Age. |
+| marble bust | 3 | marble | none | Requires  20 Industrial research points. | Available until the Modern Age. |
+| marble bust of hippocrates | 3 | marble | none | Requires  20 Industrial research points. | Available until the Modern Age. |
+| marble wall | 8 | marble | construction | Available from the start. | Available until the Middle Ages. |
+| marble block wall | 8 | marble | construction | Available from the start. | Available until the Middle Ages. |
+| grecian marble wall | 6 | marble | construction | Requires  22 Industrial research points. | Available until the Middle Ages. |
+| marble block archway | 8 | marble | construction | Available from the start. | Available until the Middle Ages. |
+| grecian archway | 8 | marble | construction | Available from the start. | Available until the Bronze Age. |
+| grand marble archway | 8 | marble | construction | Requires  65 Industrial research points. | Available until the Modern Age. |
+| large marble double doors | 10 | marble | none | Requires  18 Industrial research points. | Available until the Modern Age. |
+| marble window | 5 | marble | construction | Requires  20 Industrial research points. | Available until the Modern Age. |
+| full stone window | 5 | marble | construction | Requires  20 Industrial research points. | Available until the Modern Age. |
+
+
+## materialleaffern
+
+
+| Item | Cost| Material | Category | Research Needed | Available Until |
+| -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
+| thatch roofing | 2 | materialleaffern | none | Available from the start. | Available until the Modern Age. |
+
+
 ## monkeypelt
 
 
 | Item | Cost| Material | Category | Research Needed | Available Until |
 | -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
-| fur coat | 6 | monkeypelt | none | Available from the start. | Available until the Modern Age. |
+| primitive pelt coat | 6 | monkeypelt | none | Available from the start. | Available until the Stone Age. |
+| fur coat | 6 | monkeypelt | none | Requires  20 Medical research points. | Available until the Modern Age. |
 | fur boots | 3 | monkeypelt | none | Available from the start. | Available until the Modern Age. |
 | fur gloves | 3 | monkeypelt | none | Available from the start. | Available until the Modern Age. |
 | furcap | 2 | monkeypelt | none | Requires  89 Medical research points. | Available until the Modern Age. |
@@ -968,6 +1108,14 @@ Exported on 17 September 2020 -
 | blood pack | 2 | plastic | none | Requires  95 Medical research points. | Available until the Modern Age. |
 | lighter | 3 | plastic | none | Requires  150 Industrial research points. | Available until the Modern Age. |
 | bug swatter | 8 | plastic | none | Available from the start. | Available until the Modern Age. |
+| D2 | 1 | plastic | dice | Requires  147 Industrial research points. | Available until the Modern Age. |
+| D4 | 1 | plastic | dice | Requires  147 Industrial research points. | Available until the Modern Age. |
+| D6 | 1 | plastic | dice | Requires  147 Industrial research points. | Available until the Modern Age. |
+| D8 | 1 | plastic | dice | Requires  147 Industrial research points. | Available until the Modern Age. |
+| D10 | 1 | plastic | dice | Requires  147 Industrial research points. | Available until the Modern Age. |
+| D00 | 1 | plastic | dice | Requires  147 Industrial research points. | Available until the Modern Age. |
+| D12 | 1 | plastic | dice | Requires  147 Industrial research points. | Available until the Modern Age. |
+| D20 | 1 | plastic | dice | Requires  147 Industrial research points. | Available until the Modern Age. |
 | filing cabinet | 6 | plastic | storage | Available from the start. | Available until the Modern Age. |
 | large filing cabinet | 6 | plastic | storage | Available from the start. | Available until the Modern Age. |
 | chest drawer | 6 | plastic | storage | Available from the start. | Available until the Modern Age. |
@@ -988,6 +1136,7 @@ Exported on 17 September 2020 -
 | frog mask | 3 | plastic | face masks | Requires  165 Medical research points. | Available until the Modern Age. |
 | cow mask | 3 | plastic | face masks | Requires  165 Medical research points. | Available until the Modern Age. |
 | pig mask | 3 | plastic | face masks | Requires  165 Medical research points. | Available until the Modern Age. |
+| gorilla mask | 3 | plastic | face masks | Requires  165 Medical research points. | Available until the Modern Age. |
 | joy mask | 3 | plastic | face masks | Requires  210 Medical research points. | Available until the Modern Age. |
 | traffic cone | 1 | plastic | signs | Requires  125 Industrial research points. | Available until the Modern Age. |
 | do not enter sign | 2 | plastic | signs | Requires  125 Industrial research points. | Available until the Modern Age. |
@@ -1038,11 +1187,17 @@ Exported on 17 September 2020 -
 | Item | Cost| Material | Category | Research Needed | Available Until |
 | -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
 | smooth sandstone road | 1 | sandstone | roads | Available from the start. | Available until the Modern Age. |
-| sandstone wall | 8 | sandstone | construction | Available from the start. | Available until the Modern Age. |
+| stone bricks | 3 | sandstone | none | Requires  35 Industrial research points. | Available until the Modern Age. |
+| smooth sandstone wall | 8 | sandstone | construction | Available from the start. | Available until the Modern Age. |
 | egyptian wall | 6 | sandstone | construction | Available from the start. | Available until the Bronze Age. |
-| sandstone brick wall | 8 | sandstone | construction | Available from the start. | Available until the Modern Age. |
+| sandstone block wall | 8 | sandstone | construction | Available from the start. | Available until the Modern Age. |
+| red sandstone block wall | 8 | sandstone | construction | Available from the start. | Available until the Modern Age. |
+| sandstone fortress wall | 8 | sandstone | construction | Requires  45 Industrial, 35 Military research points. | Available until the Imperial Age. |
 | castle gate | 15 | sandstone | construction | Requires  30 Industrial, 30 Military research points. | Available until the Modern Age. |
 | castle gate control | 5 | sandstone | construction | Requires  30 Industrial, 30 Military research points. | Available until the Modern Age. |
+| large sandstone double doors | 10 | sandstone | none | Requires  18 Industrial research points. | Available until the Bronze Age. |
+| sandstone block archway | 6 | sandstone | construction | Available from the start. | Available until the Modern Age. |
+| red sandstone block archway | 6 | sandstone | construction | Available from the start. | Available until the Modern Age. |
 | egyptian archway | 6 | sandstone | construction | Available from the start. | Available until the Bronze Age. |
 | sandstone statue | 15 | sandstone | religious & decoration | Requires  10 Industrial research points. | Available until the Modern Age. |
 | sandstone floor | 1 | sandstone | floors | Available from the start. | Available until the Modern Age. |
@@ -1061,6 +1216,8 @@ Exported on 17 September 2020 -
 | aztec column | 2.5 | sandstone | construction | Requires  32 Industrial research points. | Available until the Modern Age. |
 | sandstone window | 5 | sandstone | construction | Requires  18 Industrial research points. | Available until the Modern Age. |
 | full sandstone window | 5 | sandstone | construction | Requires  18 Industrial research points. | Available until the Modern Age. |
+| red sandstone window | 5 | sandstone | construction | Requires  18 Industrial research points. | Available until the Modern Age. |
+| red full sandstone window | 5 | sandstone | construction | Requires  18 Industrial research points. | Available until the Modern Age. |
 | sandstone roof builder | 1 | sandstone | construction | Available from the start. | Available until the Modern Age. |
 | sandstone totem | 8 | sandstone | religious & decoration | Available from the start. | Available until the Modern Age. |
 | sandstone altar | 15 | sandstone | religious & decoration | Available from the start. | Available until the Modern Age. |
@@ -1089,7 +1246,8 @@ Exported on 17 September 2020 -
 
 | Item | Cost| Material | Category | Research Needed | Available Until |
 | -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
-| wool coat | 6 | sheeppelt | none | Available from the start. | Available until the Modern Age. |
+| primitive pelt coat | 6 | sheeppelt | none | Available from the start. | Available until the Stone Age. |
+| wool coat | 6 | sheeppelt | none | Requires  20 Medical research points. | Available until the Modern Age. |
 | wool boots | 3 | sheeppelt | none | Available from the start. | Available until the Modern Age. |
 | wool gloves | 3 | sheeppelt | none | Available from the start. | Available until the Modern Age. |
 | sheep pelt headcover | 3 | sheeppelt | none | Available from the start. | Available until the Modern Age. |
@@ -1102,8 +1260,10 @@ Exported on 17 September 2020 -
 | Item | Cost| Material | Category | Research Needed | Available Until |
 | -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
 | silver coins | 1 | silver | none | Available from the start. | Available until the Modern Age. |
+| large silver double doors | 5 | silver | none | Requires  18 Industrial research points. | Available until the Modern Age. |
 | silver crown | 3 | silver | none | Available from the start. | Available until the Modern Age. |
 | silver arm bangles | 2 | silver | none | Available from the start. | Available until the Modern Age. |
+| expensive watch | 6 | silver | none | Requires  110 Industrial, 60 Military research points. | Available until the Modern Age. |
 | silver statue | 10 | silver | none | Requires  10 Industrial research points. | Available until the Modern Age. |
 
 
@@ -1113,17 +1273,32 @@ Exported on 17 September 2020 -
 | Item | Cost| Material | Category | Research Needed | Available Until |
 | -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
 | steel cart | 30 | steel | logistics | Requires  147 Industrial research points. | Available until the Modern Age. |
+| shopping cart | 30 | steel | logistics | Requires  149 Industrial research points. | Available until the Modern Age. |
 | coin smelter | 50 | steel | none | Requires  25 Industrial research points. | Available until the Modern Age. |
 | steel bathtub | 50 | steel | hygiene | Requires  150 Industrial, 40 Medical research points. | Available until the Modern Age. |
 | steel public bathtub | 50 | steel | hygiene | Requires  175 Industrial, 80 Medical research points. | Available until the Modern Age. |
+| shelf | 6 | steel | furniture | Requires  90 Industrial research points. | Available until the Modern Age. |
 | wheelchair | 6 | steel | none | Requires  95 Industrial, 98 Medical research points. | Available until the Modern Age. |
+| clock | 9 | steel | none | Requires  98 Industrial research points. | Available until the Modern Age. |
+| ashtray | 3 | steel | none | Requires  100 Industrial research points. | Available until the Modern Age. |
+| steel chair | 6 | steel | furniture | Requires  110 Industrial research points. | Available until the Modern Age. |
+| reinforced table | 6 | steel | furniture | Requires  110 Industrial research points. | Available until the Modern Age. |
+| dark rollerchair | 8 | steel | furniture | Requires  123 Industrial research points. | Available until the Modern Age. |
+| rollerchair | 8 | steel | furniture | Requires  123 Industrial research points. | Available until the Modern Age. |
+| drink shaker | 3 | steel | none | Requires  125 Industrial research points. | Available until the Modern Age. |
+| watch | 6 | steel | none | Requires  125 Industrial, 60 Military research points. | Available until the Modern Age. |
 | zippo lighter | 4 | steel | none | Requires  145 Industrial research points. | Available until the Modern Age. |
+| whistle | 4 | steel | tools | Requires  80 Industrial research points. | Available until the Modern Age. |
+| expensive cane | 7 | steel | tools | Requires  60 Industrial research points. | Available until the Modern Age. |
 | wirecutters | 4 | steel | tools | Requires  90 Industrial research points. | Available until the Modern Age. |
 | welding tool | 7 | steel | tools | Requires  99 Industrial research points. | Available until the Modern Age. |
 | jackhammer | 24 | steel | tools | Requires  178 Industrial research points. | Available until the Modern Age. |
 | cannon | 35 | steel | siege weapons | Requires  71 Industrial, 79 Military research points. | Available until the Industrial Age. |
 | artillery cannon | 40 | steel | siege weapons | Requires  95 Industrial, 109 Military research points. | Available until the Modern Age. |
 | ladder | 6 | steel | siege weapons | Requires  24 Industrial, 33 Military research points. | Available until the Modern Age. |
+| blast door | 40 | steel | construction | Requires  110 Industrial, 125 Military research points. | Available until the Modern Age. |
+| blast door control | 15 | steel | construction | Requires  110 Industrial, 125 Military research points. | Available until the Modern Age. |
+| large reinforced large steel double doors | 10 | steel | construction | Requires  62 Industrial research points. | Available until the Modern Age. |
 | jail bars | 8 | steel | construction | Requires  75 Industrial research points. | Available until the Modern Age. |
 | locked jail door | 12 | steel | construction | Requires  75 Industrial research points. | Available until the Modern Age. |
 | steel floor | 1 | steel | construction | Requires  96 Industrial research points. | Available until the Modern Age. |
@@ -1155,18 +1330,26 @@ Exported on 17 September 2020 -
 | steel anvil | 25 | steel | production | Requires  35 Industrial research points. | Available until the Modern Age. |
 | wood stove | 8 | steel | production | Requires  86 Industrial research points. | Available until the Modern Age. |
 | bakelizer | 18 | steel | production | Requires  90 Industrial research points. | Available until the Modern Age. |
-| industrial acidic bath | 12 | steel | jackets & vests | Requires  175 Industrial, 180 Medical research points. | Available until the Modern Age. |
+| industrial acidic bath | 12 | steel | production | Requires  175 Industrial, 180 Medical research points. | Available until the Modern Age. |
 | petroleum refinery | 22 | steel | production | Requires  110 Industrial research points. | Available until the Modern Age. |
 | biofuel refinery | 18 | steel | production | Requires  115 Industrial research points. | Available until the Modern Age. |
 | steam engine | 15 | steel | production | Requires  95 Industrial research points. | Available until the Modern Age. |
 | IV drip | 6 | steel | production | Requires  95 Industrial, 95 Medical research points. | Available until the Modern Age. |
 | vending machine | 12 | steel | none | Requires  200 Industrial research points. | Available until the Modern Age. |
+| kitchen sink | 40 | steel | production | Requires  115 Industrial research points. | Available until the Modern Age. |
 | red toolbox | 4 | steel | storage | Requires  95 Industrial research points. | Available until the Modern Age. |
 | blue toolbox | 4 | steel | storage | Requires  95 Industrial research points. | Available until the Modern Age. |
 | yellow toolbox | 4 | steel | storage | Requires  95 Industrial research points. | Available until the Modern Age. |
 | footlocker | 1.5 | steel | storage | Requires  95 Industrial research points. | Available until the Modern Age. |
 | metal crate | 3 | steel | storage | Requires  115 Industrial research points. | Available until the Modern Age. |
 | cash register | 3 | steel | storage | Requires  135 Industrial research points. | Available until the Modern Age. |
+| fridge | 15 | steel | storage | Requires  150 Industrial, 178 Medical research points. | Available until the Modern Age. |
+| steel rifle rack | 5 | steel | storage | Requires  95 Military research points. | Available until the Modern Age. |
+| paper bin | 4 | steel | storage | Requires  95 Industrial research points. | Available until the Modern Age. |
+| large crate | 15 | steel | storage | Requires  110 Industrial research points. | Available until the Modern Age. |
+| steel barrel | 2 | steel | storage | Requires  105 Industrial research points. | Available until the Modern Age. |
+| steel jerrycan | 1 | steel | storage | Requires  120 Industrial research points. | Available until the Modern Age. |
+| lunchkit | 8 | steel | storage | Requires  115 Industrial, 130 Military research points. | Available until the Modern Age. |
 | storage | 15 | steel | storage | Requires  150 Industrial, 178 Medical research points. | Available until the Modern Age. |
 | steel barrel | 2 | steel | storage | Requires  105 Industrial research points. | Available until the Modern Age. |
 | steel jerrycan | 1 | steel | storage | Requires  120 Industrial research points. | Available until the Modern Age. |
@@ -1183,10 +1366,11 @@ Exported on 17 September 2020 -
 | -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
 | stone brazier | 3 | stone | none | Available from the start. | Available until the Modern Age. |
 | well | 7 | stone | none | Requires  21 Industrial research points. | Available until the Modern Age. |
+| ashtray | 3 | stone | none | Requires  14 Industrial research points. | Available until the Modern Age. |
 | stone pillar | 2 | stone | construction | Available from the start. | Available until the Modern Age. |
-| ionic column | 2.5 | stone | construction | Requires  22 Industrial research points. | Available until the Modern Age. |
-| solomonic column | 2.5 | stone | construction | Requires  22 Industrial research points. | Available until the Modern Age. |
-| thick solomonic column | 2.5 | stone | construction | Requires  22 Industrial research points. | Available until the Modern Age. |
+| stone ionic column | 2.5 | stone | construction | Requires  22 Industrial research points. | Available until the Modern Age. |
+| stone solomonic column | 2.5 | stone | construction | Requires  22 Industrial research points. | Available until the Modern Age. |
+| stone thick solomonic column | 2.5 | stone | construction | Requires  22 Industrial research points. | Available until the Modern Age. |
 | aztec column | 2.5 | stone | construction | Requires  32 Industrial research points. | Available until the Modern Age. |
 | mayan roof builder | 1 | stone | construction | Available from the start. | Available until the Imperial Age. |
 | research kit | 10 | stone | none | Available from the start. | Available until the Modern Age. |
@@ -1200,26 +1384,8 @@ Exported on 17 September 2020 -
 | stone decorative slab floor | 1 | stone | floors | Requires  32 Industrial research points. | Available until the Modern Age. |
 | road | 1 | stone | floors | Requires  100 Industrial research points. | Available until the Modern Age. |
 | sidewalk | 1 | stone | floors | Requires  100 Industrial research points. | Available until the Modern Age. |
-| raw marble floor | 1 | stone | marble floors | Requires  20 Industrial research points. | Available until the Modern Age. |
-| raw black marble floor | 1 | stone | marble floors | Requires  20 Industrial research points. | Available until the Modern Age. |
-| raw pink marble floor | 1 | stone | marble floors | Requires  20 Industrial research points. | Available until the Modern Age. |
-| marble floor | 1 | stone | marble floors | Requires  25 Industrial research points. | Available until the Modern Age. |
-| marble tiles | 1 | stone | marble floors | Requires  25 Industrial research points. | Available until the Modern Age. |
-| black marble tiles | 1 | stone | marble floors | Requires  25 Industrial research points. | Available until the Modern Age. |
-| pink marble tiles | 1 | stone | marble floors | Requires  25 Industrial research points. | Available until the Modern Age. |
-| ornate marble tile | 1 | stone | marble floors | Requires  32 Industrial research points. | Available until the Modern Age. |
-| ornate black marble tile | 1 | stone | marble floors | Requires  32 Industrial research points. | Available until the Modern Age. |
-| decorative marble tile | 1 | stone | marble floors | Requires  32 Industrial research points. | Available until the Modern Age. |
-| decorative black marble tile | 1 | stone | marble floors | Requires  32 Industrial research points. | Available until the Modern Age. |
-| decorative pink marble tile | 1 | stone | marble floors | Requires  32 Industrial research points. | Available until the Modern Age. |
-| marble grid tile floor | 1 | stone | marble floors | Requires  45 Industrial research points. | Available until the Modern Age. |
-| marble checkerboard floor | 1 | stone | marble floors | Requires  45 Industrial research points. | Available until the Modern Age. |
-| reverse marble checkerboard floor | 1 | stone | marble floors | Requires  45 Industrial research points. | Available until the Modern Age. |
-| pink marble checkerboard floor | 1 | stone | marble floors | Requires  45 Industrial research points. | Available until the Modern Age. |
-| reverse pink marble checkerboard floor | 1 | stone | marble floors | Requires  45 Industrial research points. | Available until the Modern Age. |
 | stone stairs | 2 | stone | construction | Available from the start. | Available until the Modern Age. |
 | stone altar | 15 | stone | religious & decoration | Available from the start. | Available until the Modern Age. |
-| marble altar | 20 | stone | religious & decoration | Requires  28 Industrial research points. | Available until the Modern Age. |
 | totem | 8 | stone | religious & decoration | Available from the start. | Available until the Modern Age. |
 | aztec statue | 8 | stone | religious & decoration | Available from the start. | Available until the Modern Age. |
 | large stone head | 12 | stone | religious & decoration | Available from the start. | Available until the Modern Age. |
@@ -1237,7 +1403,6 @@ Exported on 17 September 2020 -
 | monumental ominous statue of the ruler | 45 | stone | religious & decoration | Requires  32 Industrial research points. | Available until the Modern Age. |
 | monumental stone buddha | 45 | stone | religious & decoration | Requires  32 Industrial research points. | Available until the Modern Age. |
 | monumental saint statue | 45 | stone | religious & decoration | Requires  32 Industrial research points. | Available until the Modern Age. |
-| monumental marble statue of venus | 45 | stone | religious & decoration | Requires  62 Industrial research points. | Available until the Modern Age. |
 | smooth roman road | 1 | stone | roads | Requires  20 Industrial research points. | Available until the Modern Age. |
 | smooth cobble road | 1 | stone | roads | Requires  32 Industrial research points. | Available until the Modern Age. |
 | smooth modern road | 1 | stone | roads | Requires  100 Industrial research points. | Available until the Modern Age. |
@@ -1259,22 +1424,19 @@ Exported on 17 September 2020 -
 | roman stone wall | 6 | stone | construction | Requires  28 Industrial research points. | Available until the Middle Ages. |
 | mayan wall | 6 | stone | construction | Requires  28 Industrial research points. | Available until the Middle Ages. |
 | fortress wall | 8 | stone | construction | Requires  45 Industrial, 35 Military research points. | Available until the Imperial Age. |
+| tiled white brick wall | 6 | stone | construction | Requires  115 Industrial research points. | Available until the Modern Age. |
 | stone block archway | 8 | stone | doorways and other buildings | Available from the start. | Available until the Middle Ages. |
-| fortress archway | 16 | stone | doorways and other buildings | Available from the start. | Available until the Middle Ages. |
+| fortress archway | 16 | stone | doorways and other buildings | Requires  45 Industrial, 35 Military research points. | Available until the Imperial Age. |
 | castle gate | 15 | stone | doorways and other buildings | Requires  30 Industrial, 30 Military research points. | Available until the Modern Age. |
 | castle gate control | 5 | stone | doorways and other buildings | Requires  30 Industrial, 30 Military research points. | Available until the Modern Age. |
 | roman door | 5 | stone | construction | Requires  28 Industrial research points. | Available until the Modern Age. |
+| large stone double doors | 10 | stone | none | Requires  18 Industrial research points. | Available until the Modern Age. |
 | rock barrier wall | 3 | stone | fortifications | Available from the start. | Available until the Modern Age. |
 | fortified wall (horizontal) | 5 | stone | fortifications | Requires  29 Industrial research points. | Available until the Modern Age. |
 | fortified wall (vertical) | 5 | stone | fortifications | Requires  29 Industrial research points. | Available until the Modern Age. |
 | fortified crenelated wall (horizontal) | 5 | stone | fortifications | Requires  29 Industrial research points. | Available until the Modern Age. |
 | fortified crenelated wall (vertical) | 5 | stone | fortifications | Requires  29 Industrial research points. | Available until the Modern Age. |
-| stone shingled wall (vertical center) | 4 | stone | fortifications | Requires  29 Industrial research points. | Available until the Modern Age. |
-| stone shingled wall (vertical top) | 4 | stone | fortifications | Requires  29 Industrial research points. | Available until the Modern Age. |
-| stone shingled wall (vertical bottom) | 4 | stone | fortifications | Requires  29 Industrial research points. | Available until the Modern Age. |
-| stone shingled wall (horizontal center) | 4 | stone | fortifications | Requires  29 Industrial research points. | Available until the Modern Age. |
-| stone shingled wall (horizontal left) | 4 | stone | fortifications | Requires  29 Industrial research points. | Available until the Modern Age. |
-| stone shingled wall (horizontal right) | 4 | stone | fortifications | Requires  29 Industrial research points. | Available until the Modern Age. |
+| stone shingled wall | 4 | stone | fortifications | Requires  29 Industrial research points. | Available until the Modern Age. |
 | jersey barrier | 3 | stone | fortifications | Requires  215 Industrial research points. | Available until the Modern Age. |
 | stone cart | 50 | stone | logistics | Requires  45 Industrial research points. | Available until the Middle Ages. |
 | stone bathtub | 50 | stone | hygiene | Requires  15 Industrial, 10 Medical research points. | Available until the Bronze Age. |
@@ -1298,6 +1460,8 @@ Exported on 17 September 2020 -
 | -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
 | small tin pot | 3 | tin | none | Available from the start. | Available until the Modern Age. |
 | dummy armor | 4 | tin | none | Requires  18 Industrial research points. | Available until the Modern Age. |
+| messtin | 8 | tin | none | Requires  115 Industrial, 110 Military research points. | Available until the Modern Age. |
+| large tin double doors | 5 | tin | none | Requires  18 Industrial research points. | Available until the Modern Age. |
 | small tin can (x3) | 1 | tin | none | Requires  95 Industrial research points. | Available until the Modern Age. |
 | tin can (x2) | 1 | tin | none | Requires  95 Industrial research points. | Available until the Modern Age. |
 | large tin can | 1 | tin | none | Requires  95 Industrial research points. | Available until the Modern Age. |
@@ -1318,12 +1482,29 @@ Exported on 17 September 2020 -
 
 | Item | Cost| Material | Category | Research Needed | Available Until |
 | -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
-| fur coat | 6 | whitefoxpelt | none | Available from the start. | Available until the Modern Age. |
+| primitive pelt coat | 6 | whitefoxpelt | none | Available from the start. | Available until the Stone Age. |
+| fur coat | 6 | whitefoxpelt | none | Requires  20 Medical research points. | Available until the Modern Age. |
 | fur boots | 3 | whitefoxpelt | none | Available from the start. | Available until the Modern Age. |
 | fur gloves | 3 | whitefoxpelt | none | Available from the start. | Available until the Modern Age. |
 | white fox pelt headcover | 3 | whitefoxpelt | none | Available from the start. | Available until the Modern Age. |
+| regal ermine cape | 9 | whitefoxpelt | none | Requires  38 Medical research points. | Available until the Modern Age. |
 | furcap | 2 | whitefoxpelt | none | Requires  89 Medical research points. | Available until the Modern Age. |
 | furhat | 2 | whitefoxpelt | none | Requires  89 Medical research points. | Available until the Modern Age. |
+
+
+## whitewolfpelt
+
+
+| Item | Cost| Material | Category | Research Needed | Available Until |
+| -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
+| primitive pelt coat | 6 | whitewolfpelt | none | Available from the start. | Available until the Stone Age. |
+| fur coat | 6 | whitewolfpelt | none | Requires  20 Medical research points. | Available until the Modern Age. |
+| fur boots | 3 | whitewolfpelt | none | Available from the start. | Available until the Modern Age. |
+| fur gloves | 3 | whitewolfpelt | none | Available from the start. | Available until the Modern Age. |
+| white wolf pelt headcover | 3 | whitewolfpelt | none | Available from the start. | Available until the Modern Age. |
+| regal ermine cape | 9 | whitewolfpelt | none | Requires  38 Medical research points. | Available until the Modern Age. |
+| furcap | 2 | whitewolfpelt | none | Requires  89 Medical research points. | Available until the Modern Age. |
+| furhat | 2 | whitewolfpelt | none | Requires  89 Medical research points. | Available until the Modern Age. |
 
 
 ## wolfpelt
@@ -1331,7 +1512,8 @@ Exported on 17 September 2020 -
 
 | Item | Cost| Material | Category | Research Needed | Available Until |
 | -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
-| fur coat | 6 | wolfpelt | none | Available from the start. | Available until the Modern Age. |
+| primitive pelt coat | 6 | wolfpelt | none | Available from the start. | Available until the Stone Age. |
+| fur coat | 6 | wolfpelt | none | Requires  20 Medical research points. | Available until the Modern Age. |
 | fur boots | 3 | wolfpelt | none | Available from the start. | Available until the Modern Age. |
 | fur gloves | 3 | wolfpelt | none | Available from the start. | Available until the Modern Age. |
 | wolf pelt headcover | 4 | wolfpelt | none | Available from the start. | Available until the Modern Age. |
@@ -1347,9 +1529,11 @@ Exported on 17 September 2020 -
 | wooden cart | 40 | wood | logistics | Requires  20 Industrial research points. | Available until the Modern Age. |
 | bathtub | 50 | wood | hygiene | Requires  10 Industrial, 5 Medical research points. | Available until the Stone Age. |
 | wooden public bathtub | 100 | wood | hygiene | Requires  45 Industrial, 30 Medical research points. | Available until the Bronze Age. |
+| wooden knife | 2 | wood | none | Available from the start. | Available until the Modern Age. |
 | torch | 2 | wood | none | Available from the start. | Available until the Modern Age. |
 | mining cart | 10 | wood | trains | Requires  93 Industrial research points. | Available until the Modern Age. |
 | raft | 10 | wood | vehicle parts | Requires  22 Industrial research points. | Available until the Modern Age. |
+| carriage | 50 | wood | vehicle parts | Requires  22 Industrial research points. | Available until the Modern Age. |
 | communications pole | 2 | wood | none | Requires  100 Industrial research points. | Available until the Modern Age. |
 | outrigger boat frame | 22 | wood | vehicle parts | Requires  22 Industrial research points. | Available until the Modern Age. |
 | wood vehicle frame | 2 | wood | vehicle parts | Requires  126 Industrial research points. | Available until the Modern Age. |
@@ -1363,10 +1547,9 @@ Exported on 17 September 2020 -
 | tanning rack | 8 | wood | economy & production | Requires  16 Industrial research points. | Available until the Modern Age. |
 | salting container | 6 | wood | economy & production | Requires  18 Medical research points. | Available until the Modern Age. |
 | small mill | 4 | wood | economy & production | Requires  19 Industrial research points. | Available until the Modern Age. |
-| dehydrator | 5 | wood | economy & production | Requires  19 Industrial research points. | Available until the Modern Age. |
+| dehydrator | 5 | wood | economy & production | Requires  4 Industrial research points. | Available until the Modern Age. |
 | loom | 8 | wood | economy & production | Requires  19 Industrial research points. | Available until the Modern Age. |
 | retting trough | 8 | wood | economy & production | Requires  19 Industrial research points. | Available until the Modern Age. |
-| armorbench | 10 | wood | economy & production | Requires  25 Industrial research points. | Available until the Modern Age. |
 | compost bin | 10 | wood | economy & production | Requires  35 Industrial research points. | Available until the Modern Age. |
 | oil well | 40 | wood | economy & production | Requires  105 Industrial research points. | Available until the Modern Age. |
 | oil deposit | 6 | wood | economy & production | Requires  105 Industrial research points. | Available until the Modern Age. |
@@ -1381,9 +1564,12 @@ Exported on 17 September 2020 -
 | wood roof builder | 1 | wood | construction | Available from the start. | Available until the Modern Age. |
 | wall frame | 1 | wood | construction | Requires  35 Industrial research points. | Available until the Modern Age. |
 | door | 5 | wood | construction | Requires  18 Industrial research points. | Available until the Modern Age. |
+| large wood double doors | 5 | wood | construction | Requires  18 Industrial research points. | Available until the Modern Age. |
 | aztec door | 5 | wood | construction | Requires  35 Industrial research points. | Available until the Modern Age. |
 | rustic door | 4 | wood | construction | Requires  18 Industrial research points. | Available until the Modern Age. |
 | nordic door | 5 | wood | construction | Requires  35 Industrial research points. | Available until the Modern Age. |
+| wooden privacy door | 10 | wood | construction | Requires  47 Industrial research points. | Available until the Modern Age. |
+| wooden house door | 5 | wood | construction | Requires  82 Industrial research points. | Available until the Modern Age. |
 | floor cover | 2 | wood | construction | Available from the start. | Available until the Modern Age. |
 | thatch floor | 0.75 | wood | construction | Available from the start. | Available until the Modern Age. |
 | split thatch floor | 0.75 | wood | construction | Available from the start. | Available until the Modern Age. |
@@ -1415,11 +1601,11 @@ Exported on 17 September 2020 -
 | outhouse | 35 | wood | hygiene | Requires  45 Medical research points. | Available until the Modern Age. |
 | male outhouse | 35 | wood | hygiene | Requires  45 Medical research points. | Available until the Modern Age. |
 | female outhouse | 35 | wood | hygiene | Requires  45 Medical research points. | Available until the Modern Age. |
+| empty dynamite stick | 1 | wood | weapons | Requires  92 Military research points. | Available until the Modern Age. |
 | punji sticks trap | 4 | wood | weapons | Available from the start. | Available until the Modern Age. |
 | quarterstaff | 2 | wood | weapons | Available from the start. | Available until the Modern Age. |
 | wood club | 3 | wood | weapons | Available from the start. | Available until the Stone Age. |
 | wood spear | 4 | wood | weapons | Available from the start. | Available until the Imperial Age. |
-| assagai spear | 4 | wood | weapons | Requires  22 Military research points. | Available until the Imperial Age. |
 | pilum | 3 | wood | weapons | Requires  22 Military research points. | Available until the Middle Ages. |
 | wood dory | 6 | wood | weapons | Requires  22 Military research points. | Available until the Middle Ages. |
 | wood sarissa | 8 | wood | weapons | Requires  22 Military research points. | Available until the Middle Ages. |
@@ -1433,6 +1619,7 @@ Exported on 17 September 2020 -
 | longbow | 12 | wood | weapons | Requires  35 Military research points. | Available until the Cold War. |
 | crossbow | 12 | wood | weapons | Requires  45 Military research points. | Available until the Modern Age. |
 | compound bow | 8 | wood | weapons | Requires  175 Military research points. | Available until the Modern Age. |
+| blow gun | 8 | wood | weapons | Requires  9 Industrial, 14 Military, 12 Medical research points. | Available until the Early Modern Age. |
 | arrow shaft (x3) | 1 | wood | weapons | Requires  14 Military research points. | Available until the Modern Age. |
 | bolt shaft (x3) | 1 | wood | weapons | Requires  45 Military research points. | Available until the Modern Age. |
 | hammer | 5 | wood | tools | Available from the start. | Available until the Modern Age. |
@@ -1447,6 +1634,7 @@ Exported on 17 September 2020 -
 | produce basket | 5 | wood | tools | Available from the start. | Available until the Modern Age. |
 | fishing cage | 12 | wood | tools | Requires  12 Industrial, 12 Medical research points. | Available until the Modern Age. |
 | wearable sign | 2.5 | wood | tools | Available from the start. | Available until the Modern Age. |
+| ballot box | 8 | wood | furniture | Requires  25 Industrial research points. | Available until the Modern Age. |
 | table | 4 | wood | furniture | Available from the start. | Available until the Modern Age. |
 | wood pole | 2 | wood | furniture | Available from the start. | Available until the Modern Age. |
 | bed | 4 | wood | furniture | Available from the start. | Available until the Modern Age. |
@@ -1455,15 +1643,24 @@ Exported on 17 September 2020 -
 | chair | 4 | wood | furniture | Requires  14 Industrial research points. | Available until the Modern Age. |
 | wood chest | 7 | wood | furniture | Requires  14 Industrial research points. | Available until the Modern Age. |
 | practice dummy | 8 | wood | furniture | Requires  18 Industrial research points. | Available until the Modern Age. |
-| large barrel | 16 | wood | furniture | Requires  19 Industrial research points. | Available until the Modern Age. |
 | practice target | 6 | wood | furniture | Requires  18 Industrial research points. | Available until the Modern Age. |
+| large barrel | 16 | wood | furniture | Requires  19 Industrial research points. | Available until the Modern Age. |
+| wood mailbox | 3 | wood | furniture | Requires  40 Industrial research points. | Available until the Modern Age. |
+| padded chair | 6 | wood | furniture | Requires  40 Industrial research points. | Available until the Modern Age. |
+| wing backed chair | 6 | wood | furniture | Requires  40 Industrial research points. | Available until the Modern Age. |
 | coffin | 4 | wood | furniture | Requires  41 Industrial research points. | Available until the Modern Age. |
 | wardrobe | 5 | wood | furniture | Requires  41 Industrial research points. | Available until the Modern Age. |
 | cabinet | 4 | wood | furniture | Requires  41 Industrial research points. | Available until the Modern Age. |
 | grandfather clock | 9 | wood | furniture | Requires  42 Industrial research points. | Available until the Modern Age. |
+| wooden rifle rack | 8 | wood | storage | Requires  75 Military research points. | Available until the Modern Age. |
+| poker table | 7 | wood | furniture | Requires  95 Industrial research points. | Available until the Modern Age. |
+| modern table | 7 | wood | furniture | Requires  95 Industrial research points. | Available until the Modern Age. |
+| fancy table | 7 | wood | furniture | Requires  95 Industrial research points. | Available until the Modern Age. |
+| coatrack | 3 | wood | furniture | Requires  95 Industrial research points. | Available until the Modern Age. |
 | shell rack | 6 | wood | furniture | Requires  80 Industrial, 105 Military research points. | Available until the Modern Age. |
 | large crate | 8 | wood | furniture | Requires  95 Industrial research points. | Available until the Modern Age. |
 | military crate | 5 | wood | furniture | Requires  105 Industrial research points. | Available until the Modern Age. |
+| standing clock | 6 | wood | furniture | Requires  110 Industrial research points. | Available until the Modern Age. |
 | wood altar | 20 | wood | religious & decoration | Available from the start. | Available until the Modern Age. |
 | decorative wood mask | 2 | wood | religious & decoration | Available from the start. | Available until the Middle Ages. |
 | impaled skull | 2 | wood | religious & decoration | Available from the start. | Available until the Modern Age. |
@@ -1475,8 +1672,9 @@ Exported on 17 September 2020 -
 | monumental crucero cross | 45 | wood | religious & decoration | Requires  32 Industrial research points. | Available until the Modern Age. |
 | sandals | 1 | wood | shoes & clothing | Available from the start. | Available until the Modern Age. |
 | geta sandals | 1 | wood | shoes & clothing | Requires  24 Industrial, 38 Medical research points. | Available until the Modern Age. |
-| wearable wood mask | 2 | wood | shoes & clothing | Available from the start. | Available until the Middle Ages. |
 | expressive wearable wood mask | 3 | wood | shoes & clothing | Available from the start. | Available until the Middle Ages. |
+| black african wood mask | 3 | wood | shoes & clothing | Available from the start. | Available until the Middle Ages. |
+| wearable wood mask | 2 | wood | shoes & clothing | Available from the start. | Available until the Middle Ages. |
 | wood mug | 1 | wood | kitchen | Available from the start. | Available until the Modern Age. |
 | campfire | 4 | wood | kitchen | Available from the start. | Available until the Modern Age. |
 | tiki torch | 5 | wood | kitchen | Available from the start. | Available until the Modern Age. |
@@ -1484,14 +1682,15 @@ Exported on 17 September 2020 -
 | wood pipe | 2 | wood | kitchen | Requires  19 Industrial research points. | Available until the Modern Age. |
 | barrel | 5 | wood | kitchen | Requires  19 Industrial research points. | Available until the Modern Age. |
 | cutting board | 5 | wood | kitchen | Requires  20 Industrial research points. | Available until the Modern Age. |
+| paper cup | 1 | wood | kitchen | Requires  105 Industrial research points. | Available until the Modern Age. |
 | gong | 5 | wood | entertainment & other | Requires  26 Industrial research points. | Available until the Modern Age. |
 | gong mallet | 3 | wood | entertainment & other | Requires  26 Industrial research points. | Available until the Modern Age. |
 | bell stand | 3 | wood | entertainment & other | Requires  40 Industrial research points. | Available until the Modern Age. |
-| matches (x10) | 2 | wood | entertainment & other | Requires  67 Industrial research points. | Available until the Modern Age. |
 | cigar case | 2 | wood | entertainment & other | Requires  65 Industrial research points. | Available until the Modern Age. |
 | deck of cards | 2 | wood | entertainment & other | Requires  65 Industrial research points. | Available until the Modern Age. |
-| violin | 10 | wood | entertainment & other | Requires  50 Industrial research points. | Available until the Modern Age. |
+| matches (x10) | 2 | wood | entertainment & other | Requires  67 Industrial research points. | Available until the Modern Age. |
 | piano | 18 | wood | entertainment & other | Requires  45 Industrial research points. | Available until the Modern Age. |
+| violin | 10 | wood | entertainment & other | Requires  50 Industrial research points. | Available until the Modern Age. |
 | research kit | 10 | wood | paper & printing | Available from the start. | Available until the Modern Age. |
 | scientific literature | 4 | wood | paper & printing | Available from the start. | Available until the Modern Age. |
 | language book | 10 | wood | paper & printing | Available from the start. | Available until the Modern Age. |
@@ -1501,6 +1700,9 @@ Exported on 17 September 2020 -
 | pen | 1 | wood | paper & printing | Requires  19 Industrial research points. | Available until the Modern Age. |
 | paper sheet | 1 | wood | paper & printing | Requires  19 Industrial research points. | Available until the Modern Age. |
 | official faction paper | 1 | wood | paper & printing | Requires  19 Industrial research points. | Available until the Modern Age. |
+| envelope | 2 | wood | paper & printing | Requires  40 Industrial research points. | Available until the Modern Age. |
+| envelope seal stamp | 1 | wood | paper & printing | Requires  40 Industrial research points. | Available until the Modern Age. |
+| wax seal stamp | 1 | wood | paper & printing | Requires  40 Industrial research points. | Available until the Modern Age. |
 | book | 4 | wood | paper & printing | Requires  45 Industrial research points. | Available until the Modern Age. |
 | grey folder | 1 | wood | paper & printing | Requires  120 Industrial research points. | Available until the Modern Age. |
 | yellow folder | 1 | wood | paper & printing | Requires  120 Industrial research points. | Available until the Modern Age. |
@@ -1513,6 +1715,15 @@ Exported on 17 September 2020 -
 | leader propaganda poster | 1 | wood | paper & printing | Requires  19 Industrial research points. | Available until the Modern Age. |
 | notice board | 12 | wood | paper & printing | Requires  50 Industrial research points. | Available until the Modern Age. |
 | printing press | 12 | wood | paper & printing | Requires  52 Industrial research points. | Available until the Modern Age. |
+| clipboard | 5 | wood | paper & printing | Requires  125 Industrial research points. | Available until the Modern Age. |
+| large blue stamp | 1 | wood | paper & printing | Requires  103 Industrial research points. | Available until the Modern Age. |
+| DENIED stamp | 1 | wood | paper & printing | Requires  103 Industrial research points. | Available until the Modern Age. |
+| APPROVED stamp | 1 | wood | paper & printing | Requires  103 Industrial research points. | Available until the Modern Age. |
+| silly stamp | 1 | wood | paper & printing | Requires  103 Industrial research points. | Available until the Modern Age. |
+| red stamp | 1 | wood | paper & printing | Requires  103 Industrial research points. | Available until the Modern Age. |
+| blue stamp | 1 | wood | paper & printing | Requires  103 Industrial research points. | Available until the Modern Age. |
+| dark red stamp | 1 | wood | paper & printing | Requires  103 Industrial research points. | Available until the Modern Age. |
+| yellow stamp | 1 | wood | paper & printing | Requires  103 Industrial research points. | Available until the Modern Age. |
 | catapult | 50 | wood | siege weapons | Requires  24 Industrial, 33 Military research points. | Available until the Industrial Age. |
 | siege ladder | 8 | wood | siege weapons | Requires  24 Industrial, 33 Military research points. | Available until the Modern Age. |
 | wooden foot | 3 | wood | medical | Requires  18 Medical research points. | Available until the Modern Age. |
@@ -1539,8 +1750,8 @@ Exported on 17 September 2020 -
 
 | Item | Cost| Material | Category | Research Needed | Available Until |
 | -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
-| wool coat | 6 | woolcloth | jackets & vests | Available from the start. | Available until the Modern Age. |
 | wool gloves | 3 | woolcloth | gloves | Available from the start. | Available until the Modern Age. |
+| wool coat | 6 | woolcloth | jackets & vests | Requires  20 Medical research points. | Available until the Modern Age. |
 | oven mittens | 3 | woolcloth | gloves | Requires  45 Industrial, 8 Medical research points. | Available until the Modern Age. |
 | motorist gloves | 3 | woolcloth | gloves | Requires  180 Medical research points. | Available until the Modern Age. |
 | wool boots | 3 | woolcloth | foot wear | Available from the start. | Available until the Modern Age. |
@@ -1551,7 +1762,8 @@ Exported on 17 September 2020 -
 | custom wool hood | 2 | woolcloth | hats | Requires  26 Medical research points. | Available until the Modern Age. |
 | ainu bandana | 4 | woolcloth | hats | Requires  28 Medical research points. | Available until the Early Modern Age. |
 | steppe shaman hat | 4 | woolcloth | hats | Requires  33 Medical research points. | Available until the Imperial Age. |
-| nun hood | 4 | woolcloth | hats | Requires  38 Medical research points. | Available until the Imperial Age. |
+| nun hood | 4 | woolcloth | hats | Requires  35 Medical research points. | Available until the Modern Age. |
+| count hat | 5 | woolcloth | hats | Requires  35 Medical research points. | Available until the Modern Age. |
 | brown padded head-cap | 4 | woolcloth | hats | Requires  32 Military, 42 Medical research points. | Available until the Middle Ages. |
 | grey padded head-cap | 4 | woolcloth | hats | Requires  32 Military, 42 Medical research points. | Available until the Middle Ages. |
 | ratty old padded head-cap | 4 | woolcloth | hats | Requires  32 Military, 42 Medical research points. | Available until the Middle Ages. |
@@ -1566,7 +1778,6 @@ Exported on 17 September 2020 -
 | custom officer cap | 4 | woolcloth | hats | Requires  109 Medical research points. | Available until the Modern Age. |
 | custom field cap | 3 | woolcloth | hats | Requires  109 Medical research points. | Available until the Modern Age. |
 | customizable beanie | 2 | woolcloth | hats | Requires  109 Medical research points. | Available until the Modern Age. |
-| count hat | 5 | woolcloth | hats | Requires  35 Medical research points. | Available until the Modern Age. |
 | shemagh | 2 | woolcloth | masks & eyewear | Requires  33 Medical research points. | Available until the Modern Age. |
 | bandana | 2 | woolcloth | masks & eyewear | Requires  62 Medical research points. | Available until the Imperial Age. |
 | red kerchief | 2 | woolcloth | masks & eyewear | Requires  98 Medical research points. | Available until the Modern Age. |
@@ -1580,7 +1791,10 @@ Exported on 17 September 2020 -
 | blue haori | 3 | woolcloth | clothing | Requires  38 Medical research points. | Available until the 2nd World War. |
 | red haori | 3 | woolcloth | clothing | Requires  38 Medical research points. | Available until the 2nd World War. |
 | customizable haori | 3 | woolcloth | clothing | Requires  38 Medical research points. | Available until the 2nd World War. |
-| merchant outfit | 5 | woolcloth | clothing | Requires  75 Medical research points. | Available until the Modern Age. |
+| light hanfu | 3 | woolcloth | clothing | Requires  38 Medical research points. | Available until the 2nd World War. |
+| dark hanfu | 3 | woolcloth | clothing | Requires  38 Medical research points. | Available until the 2nd World War. |
+| monk robes | 6 | woolcloth | jackets & vests | Requires  38 Medical research points. | Available until the Modern Age. |
+| green hanfu | 3 | woolcloth | clothing | Requires  38 Medical research points. | Available until the 2nd World War. |
 | count outfit | 6 | woolcloth | clothing | Requires  35 Medical research points. | Available until the Modern Age. |
 | artisan clothing | 3 | woolcloth | clothing | Requires  38 Medical research points. | Available until the Imperial Age. |
 | dark artisan clothing | 3 | woolcloth | clothing | Requires  38 Medical research points. | Available until the Imperial Age. |
@@ -1588,13 +1802,16 @@ Exported on 17 September 2020 -
 | customizable renaissance clothing | 6 | woolcloth | clothing | Requires  59 Medical research points. | Available until the Imperial Age. |
 | baggy renaissance clothing | 6 | woolcloth | clothing | Requires  59 Medical research points. | Available until the Imperial Age. |
 | pontifical renaissance clothing | 6 | woolcloth | clothing | Requires  59 Medical research points. | Available until the Imperial Age. |
+| custom colonial outfit | 4 | woolcloth | clothing | Requires  70 Medical research points. | Available until the Modern Age. |
+| custom short colonial outfit | 4 | woolcloth | clothing | Requires  70 Medical research points. | Available until the Modern Age. |
+| merchant outfit | 5 | woolcloth | clothing | Requires  75 Medical research points. | Available until the Modern Age. |
 | pilgrim uniform | 4 | woolcloth | clothing | Requires  80 Medical research points. | Available until the Industrial Age. |
 | lederhosen | 4 | woolcloth | clothing | Requires  80 Medical research points. | Available until the Modern Age. |
 | custom victorian uniform | 3 | woolcloth | clothing | Requires  98 Medical research points. | Available until the Modern Age. |
+| waistcoat | 5 | woolcloth | clothing | Requires  105 Medical research points. | Available until the Modern Age. |
 | custom modern outfit | 4 | woolcloth | clothing | Requires  120 Medical research points. | Available until the Modern Age. |
 | custom baggy modern outfit | 4 | woolcloth | clothing | Requires  120 Medical research points. | Available until the Modern Age. |
 | custom short modern outfit | 4 | woolcloth | clothing | Requires  120 Medical research points. | Available until the Modern Age. |
-| custom colonial outfit | 4 | woolcloth | clothing | Requires  70 Medical research points. | Available until the Modern Age. |
 | custom short colonial outfit | 4 | woolcloth | clothing | Requires  70 Medical research points. | Available until the Modern Age. |
 | motorist outfit | 4 | woolcloth | clothing | Requires  180 Medical research points. | Available until the Modern Age. |
 | punk outfit | 3 | woolcloth | clothing | Requires  180 Medical research points. | Available until the Modern Age. |
@@ -1603,6 +1820,7 @@ Exported on 17 September 2020 -
 | customizable dress | 4 | woolcloth | feminine clothing | Requires  38 Medical research points. | Available until the Modern Age. |
 | customizable buttoned dress | 4 | woolcloth | feminine clothing | Requires  38 Medical research points. | Available until the Modern Age. |
 | short black dress | 4 | woolcloth | feminine clothing | Requires  98 Medical research points. | Available until the 2nd World War. |
+| proper black dress | 4 | woolcloth | feminine clothing | Requires  105 Medical research points. | Available until the Modern Age. |
 | steppe shaman wool coat | 6 | woolcloth | jackets & vests | Requires  33 Medical research points. | Available until the Imperial Age. |
 | black jacket | 6 | woolcloth | jackets & vests | Requires  57 Medical research points. | Available until the Imperial Age. |
 | fancy brown jacket | 10 | woolcloth | jackets & vests | Requires  57 Medical research points. | Available until the Imperial Age. |
@@ -1612,6 +1830,7 @@ Exported on 17 September 2020 -
 | olive vest | 4 | woolcloth | jackets & vests | Requires  89 Medical research points. | Available until the Modern Age. |
 | brown winter coat | 10 | woolcloth | jackets & vests | Requires  89 Medical research points. | Available until the Modern Age. |
 | grey winter coat | 10 | woolcloth | jackets & vests | Requires  89 Medical research points. | Available until the Modern Age. |
+| victorian peacoat | 7 | woolcloth | jackets & vests | Requires  105 Medical research points. | Available until the Modern Age. |
 | brown bomber's jacket | 4 | woolcloth | jackets & vests | Requires  109 Medical research points. | Available until the Modern Age. |
 | black bomber's jacket | 4 | woolcloth | jackets & vests | Requires  109 Medical research points. | Available until the Modern Age. |
 | service jacket | 3 | woolcloth | jackets & vests | Requires  109 Medical research points. | Available until the Modern Age. |
@@ -1640,3 +1859,5 @@ Exported on 17 September 2020 -
 | blue bedsheet | 2 | woolcloth | bedsheets | Requires  28 Medical research points. | Available until the Modern Age. |
 | yellow bedsheet | 2 | woolcloth | bedsheets | Requires  28 Medical research points. | Available until the Modern Age. |
 | red bedsheet | 2 | woolcloth | bedsheets | Requires  28 Medical research points. | Available until the Modern Age. |
+
+
