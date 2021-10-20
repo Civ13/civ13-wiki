@@ -36,9 +36,6 @@
 }
 
 /* W3.CSS 4.12 Novemberr 2018 by Jan Egil and Borge Refsnes */
-html {
-  box-sizing: border-box;
-}
 *,
 *:before,
 *:after {
@@ -48,6 +45,7 @@ html {
 html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
+  box-sizing: border-box;
 }
 body {
   margin: 0;
@@ -167,21 +165,15 @@ body {
 html {
   overflow-x: hidden;
 }
-h1 {
-  font-size: 36px;
+
+h2::after {
+  display: inline-grid;
+  content: "";
+  border-top: 2px solid rgb(221, 221, 221);
+  width: 100%;
+  padding-top: 5px;
 }
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 20px;
-}
-h5 {
-  font-size: 18px;
-}
+
 h1,
 h2,
 h3,
@@ -189,7 +181,8 @@ h4,
 h5 {
   font-family: "Segoe UI", Arial, sans-serif;
   font-weight: 400;
-  margin: 10px 0;
+  color: rgb(209, 209, 209);
+  margin: 0 0 20px;
 }
 hr {
   border: 0;
@@ -207,82 +200,82 @@ a {
 }
 @media (max-width: 600px) {
   .w3-hide-small {
-      display: none !important;
+    display: none !important;
   }
 }
 @keyframes w3-spin {
   0% {
-      transform: rotate(0deg);
+    transform: rotate(0deg);
   }
   100% {
-      transform: rotate(359deg);
+    transform: rotate(359deg);
   }
 }
 @keyframes fading {
   0% {
-      opacity: 0;
+    opacity: 0;
   }
   50% {
-      opacity: 1;
+    opacity: 1;
   }
   100% {
-      opacity: 0;
+    opacity: 0;
   }
 }
 @keyframes opac {
   from {
-      opacity: 0;
+    opacity: 0;
   }
   to {
-      opacity: 1;
+    opacity: 1;
   }
 }
 @keyframes animatetop {
   from {
-      top: -300px;
-      opacity: 0;
+    top: -300px;
+    opacity: 0;
   }
   to {
-      top: 0;
-      opacity: 1;
+    top: 0;
+    opacity: 1;
   }
 }
 @keyframes animateleft {
   from {
-      left: -300px;
-      opacity: 0;
+    left: -300px;
+    opacity: 0;
   }
   to {
-      left: 0;
-      opacity: 1;
+    left: 0;
+    opacity: 1;
   }
 }
 @keyframes animateright {
   from {
-      right: -300px;
-      opacity: 0;
+    right: -300px;
+    opacity: 0;
   }
   to {
-      right: 0;
-      opacity: 1;
+    right: 0;
+    opacity: 1;
   }
 }
 @keyframes animatebottom {
   from {
-      bottom: -300px;
-      opacity: 0;
+    bottom: -300px;
+    opacity: 0;
   }
   to {
-      bottom: 0;
-      opacity: 1;
+    bottom: 0;
+    opacity: 1;
   }
 }
 @keyframes animatezoom {
   from {
-      transform: scale(0);
+    transform: scale(0);
   }
   to {
-      transform: scale(1);
+    transform: scale(1);
   }
 }
 :root {
@@ -393,15 +386,6 @@ sup {
   top: -0.5em;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5 {
-  color: rgb(209, 209, 209);
-  margin: 0 0 20px;
-}
-
 p,
 ul,
 ol,
@@ -417,10 +401,20 @@ h3 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 50px;
+  text-align: center;
 }
 h2 {
   font-size: 27px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 20px;
+}
+h5 {
+  font-size: 18px;
 }
 h3,
 h4,
@@ -510,7 +504,7 @@ img {
 }
 
 @media print,
-screen and (max-width: 992px) {
+  screen and (max-width: 992px) {
 
   .git-wiki-page {
     margin-top: 40px;
@@ -549,7 +543,7 @@ hr {
 }
 
 @media print,
-screen and (max-width: 960px) {
+  screen and (max-width: 960px) {
 
   div.wrapper {
     width: auto;
@@ -572,7 +566,7 @@ screen and (max-width: 960px) {
 
 
 @media print,
-screen and (max-width: 720px) {
+  screen and (max-width: 720px) {
   body {
     word-wrap: break-word;
   }
@@ -584,7 +578,7 @@ screen and (max-width: 720px) {
 }
 
 @media print,
-screen and (max-width: 480px) {
+  screen and (max-width: 480px) {
   body {
     padding: 15px;
   }
@@ -604,16 +598,16 @@ screen and (max-width: 480px) {
 
 
 .col {
-    padding-right: 15px;
-    padding-left: 15px;
+  padding-right: 15px;
+  padding-left: 15px;
 }
 .col {
-    -ms-flex-preferred-size: 0;
-    flex-basis: 0;
-    -webkit-box-flex: 1;
-    -ms-flex-positive: 1;
-    flex-grow: 1;
-    max-width: 100%;
+  -ms-flex-preferred-size: 0;
+  flex-basis: 0;
+  -webkit-box-flex: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  max-width: 100%;
 }
 
 ol {
@@ -626,26 +620,26 @@ ol {
   padding-inline-start: 20px;
 }
 
-  .git-wiki-page {
-    margin-top: 40px;
-  }
+.git-wiki-page {
+  margin-top: 40px;
+}
 
 .float-container {
-    border: 0;
-    margin-top:80px;
-    padding: 10px;
-    width: 100%;
+  border: 0;
+  margin-top:80px;
+  padding: 10px;
+  width: 100%;
 }
 
 .float-child-1 {
-    width: 20%;
-    bottom: 60px;
-    top: 60px;
-    float: left;
-    padding: 0px;
-    border-right: 1px solid white;
-    position: fixed;
-    margin-right:20px;
+  width: 20%;
+  bottom: 60px;
+  top: 60px;
+  float: left;
+  padding: 0px;
+  border-right: 1px solid white;
+  position: fixed;
+  margin-right:20px;
 }  
 .float-child-1-scroll {
   height: 100%;
