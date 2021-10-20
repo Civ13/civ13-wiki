@@ -68,48 +68,16 @@ Ship's bell, cannons, grappling hooks
 ![Voyage game map](assets/images/voyage/voyage_map.png)
 
 ### Ships
-There are 6 ship classes ingame. The starting player's ship is a **Brig** (size 4)
-#### Xebec (size 1)
-**Cannons(top/bottom - total): 6/0 - 6**
+There are 6 ship classes ingame. The starting player's ship is a **Flute** (size 3)
 
-**Crew: approx. 10**
-
-The smallest ship, this single-deck, single-mast ship packs 6 cannons and a small crew. There is no cargo hull so loot will be smaller.
-
-#### Schooner (size 2)
-**Cannons(top/bottom - total): 4/0 - 4**
-
-**Crew: approx. 20**
-
-This fast ship has a sizeable cargo hull, but also packs a decent amount of crew for its size. Only has cannons on top deck.
-
-#### Flute (size 3)
-**Cannons(top/bottom - total): 6/4 - 10**
-
-**Crew: approx. 15**
-
-This swift, double masted ship has a small-ish crew, but packs a good punch in terms of firepower.
-
-#### Brig (size 4)
-**Cannons(top/bottom - total): 6/10 - 16**
-
-**Crew: approx. 40**
-
-The Brig is a long ship with a large crew.
-
-#### Galleon (size 5)
-**Cannons(top/bottom - total): 16/16 - 32**
-
-**Crew: approx. 50**
-
-The Galleon is a large, wide ship with a massive amount of cannons and a considerable cargo hull.
-
-#### Man-O-War (size 6)
-**Cannons(top/bottom - total): 24/24 - 48**
-
-**Crew: approx. 65**
-
-This is a massive ship, and you probably shouldn't take it head-on unless you have a sizable crew and several cannons.
+| Ship | Size | Image | Cannons (top/bottom - total) | Crew | Description |
+| -------- | --- | ---------------- | ------------ | --- | ------------------------------- |
+| Xebec | 1 | ![ship1](assets/images/voyage/ship1.png) | 6/0 - 6 | 10 | The smallest ship, this single-deck, single-mast ship packs 6 cannons and a small crew. There is no cargo hull so loot will be smaller. |
+| Schooner | 2 | ![ship2](assets/images/voyage/ship2.png) | 4/0 - 4 | 20 | This fast ship has a sizeable cargo hull, but also packs a decent amount of crew for its size. Only has cannons on top deck. |
+| Flute | 2 | ![ship3](assets/images/voyage/ship3.png) | 6/4 - 10 | 15 | This swift, double masted ship has a small-ish crew, but packs a good punch in terms of firepower. |
+| Brig | 2 | ![ship4](assets/images/voyage/ship4.png) | 6/10 - 16 | 40 | The Brig is a long ship with a large crew. |
+| Galleon | 2 | ![ship5](assets/images/voyage/ship5.png) | 16/16 - 32 | 50 | The Galleon is a large, wide ship with a massive amount of cannons and a considerable cargo hull. |
+| Man-O-War | 6 | ![ship6](assets/images/voyage/ship6.png) | 24/24 - 48 | 65 | This is a massive ship, and you probably shouldn't take it head-on unless you have a sizable crew and several cannons. |
 
 ### Islands
 Types of islands
