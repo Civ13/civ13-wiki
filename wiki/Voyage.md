@@ -71,32 +71,44 @@ Ship's bell, cannons, grappling hooks
 There are 6 ship classes ingame. The starting player's ship is a **Brig** (size 4)
 #### Xebec (size 1)
 **Cannons(top/bottom - total): 6/0 - 6**
+
 **Crew: approx. 10**
+
 The smallest ship, this single-deck, single-mast ship packs 6 cannons and a small crew. There is no cargo hull so loot will be smaller.
 
 #### Schooner (size 2)
 **Cannons(top/bottom - total): 4/0 - 4**
+
 **Crew: approx. 20**
+
 This fast ship has a sizeable cargo hull, but also packs a decent amount of crew for its size. Only has cannons on top deck.
 
 #### Flute (size 3)
 **Cannons(top/bottom - total): 6/4 - 10**
+
 **Crew: approx. 15**
+
 This swift, double masted ship has a small-ish crew, but packs a good punch in terms of firepower.
 
 #### Brig (size 4)
 **Cannons(top/bottom - total): 6/10 - 16**
+
 **Crew: approx. 40**
+
 The Brig is a long ship with a large crew.
 
 #### Galleon (size 5)
 **Cannons(top/bottom - total): 16/16 - 32**
+
 **Crew: approx. 50**
+
 The Galleon is a large, wide ship with a massive amount of cannons and a considerable cargo hull.
 
 #### Man-O-War (size 6)
 **Cannons(top/bottom - total): 24/24 - 48**
+
 **Crew: approx. 65**
+
 This is a massive ship, and you probably shouldn't take it head-on unless you have a sizable crew and several cannons.
 
 ### Islands
