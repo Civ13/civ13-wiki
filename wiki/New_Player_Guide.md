@@ -27,6 +27,9 @@ section.*
   - You are now in the Lobby - Before you join, make sure to read the
     **[Rules](Rules "wikilink")**.
 
+### Controls
+Check [Hotkeys](Hotkeys).
+
 ## TDM / Team Death Match Modes
 
 ## RP / Roleplay Modes
