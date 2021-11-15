@@ -1,6 +1,6 @@
 # Voyage
-In Voyage, you are a member of a pirate crew sailing through the Caribbean
-(Expand intro)
+
+Avast! Set sail on the high seas of adventure aboard the Good Ship; a two masted, 12 cannon pirate vessel during the golden age of piracy. Pursue plunder and peril, though not necessarily in that order, across the Caribbean sea. Transform your impoverished boat and crew into a force to be reckoned with and work together to become rich beyond your wildest imaginings!
 
 ## Roles
 
