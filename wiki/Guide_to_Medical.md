@@ -166,6 +166,7 @@ probably die.
   - Caught from eating raw mice. Or standing too long near one.
   - Transmits from person to person.
   - It can be spotted by the lumps on your skin and vomiting blood.
+  - If you survive, you will get immunity.
 
 #### Malaria
 
@@ -179,6 +180,7 @@ A deadly disease caused by parasites.
   - Normally survivable without treatment, but won't give you immunity.
   - Damage can be greatly reduced by taking quinine (harvested from the
     Chinchona plant).
+  - You will not get immunity.
 
 #### Cholera
 
@@ -194,14 +196,15 @@ A disease caused by water-borne bacteria.
     type of freshwater will do.
   - **TIP**: You can remove the risk of catching cholera by building a
     well on a puddle. Well water is pure.
+  - You will not get immunity.
 
 #### Flu
 
 Just a normal flu.
 
-  - Caught randomly.
+  - Caught from being dirty.
   - Easily transmitted from person to person. A single person can
-    contaminate an entire village\!
+    contaminate an entire village!
   - Will very probably not kill you, but can be an annoyance, causing
     blurred vision, blackouts, and fever.
   - Untreated flu might give you brain damage from high fever.
@@ -209,15 +212,18 @@ Just a normal flu.
     to a bed).
   - Brain damage can be prevented by drinking plenty of tea until the
     fever subsides.
+  - You might get immunity after surviving it.
 
 #### Typhus
 
 You've been covered with lice for days and now you feel sick.
 
-  - throw up randomly
-  - slightly transmittable fro person to person.
-  - Untreated typhus will lead to your death
+  - You might get it from wearing dirty clothes for too long. Watch out for the flea sprites.
+  - Throwing up randomly.
+  - Slightly transmittable from person to person.
+  - Untreated typhus will lead to your death.
   - Treatment is through penicillin and tea.
+  - You might get immunity after surviving it.
 
 ### Combating Illness
 
@@ -241,8 +247,7 @@ learn how to keep people from ending up sick and useless.
 - **Flu:** Causes victims to suffer from weakness or even fever,
     fevers will worsen depending on certain factors, weather and
     fullness. The flu can be cured, it can also cause people to become
-    immune to it if they are sick enough. (Caused by standing out in
-    rain or in the cold for too long)
+    immune to it if they are sick enough.
   
 - **Plague:** Take Infected individuals away from large groups, burn
     Infected Corpses and burry them far away.
