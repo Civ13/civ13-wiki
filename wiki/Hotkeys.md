@@ -3,8 +3,8 @@
 This is a list of hotkeys for when the game is on **Hotkey Mode**. Use **Tab** to switch.
 
 | Key | Command |
-| --- | ------- |
-| Tab | Switch between Macro and Hotkey Mode |
+| ------- | -------------------------------- |
+| Tab | Switch Macro and Hotkey Mode |
 | Escape | Fullscreen |
 | Space | Zoom/Scope |
 | W | Move Up |
@@ -33,13 +33,13 @@ This is a list of hotkeys for when the game is on **Hotkey Mode**. Use **Tab** t
 | Q, CTRL+Q | Drop |
 | R, CTRL+R | Throw |
 | T | Say (IC chat) |
-| Numpad1 | Select Right Leg (targeting) |
-| Numpad2 | Select Groin (targeting) |
-| Numpad3 | Select Left Leg (targeting) |
-| Numpad4 | Select Right Arm (targeting) |
-| Numpad5 | Select Chest (targeting) |
-| Numpad6 | Select Left Arm (targeting) |
-| Numpad8 | Select Head (targeting) |
+| Numpad 1 | Select Right Leg (targeting) |
+| Numpad 2 | Select Groin (targeting) |
+| Numpad 3 | Select Left Leg (targeting) |
+| Numpad 4 | Select Right Arm (targeting) |
+| Numpad 5 | Select Chest (targeting) |
+| Numpad 6 | Select Left Arm (targeting) |
+| Numpad 8 | Select Head (targeting) |
 | F1 | Adminhelp |
 | F3 | Asay (admins) |
 | F4 | OOC chat |
