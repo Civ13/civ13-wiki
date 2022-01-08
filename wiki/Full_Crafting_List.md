@@ -3,7 +3,7 @@ Here you can find the full craft list, in sortable tables and segmented by mater
 
 **To look for specific items, use the "Find in page" command - Ctrl-F.**
 
-Exported on 21 September 2021 - [Commit 8828](https://github.com/Civ13/Civ13/commit/73c8c60f2d181cdbb506391b478f951e4dbd6e7a)
+Exported on 7 December 2021 - [Commit 9126](https://github.com/Civ13/Civ13/commit/1c0f2808711c1c6eccd4915fd86b0b348251f6fc)
 
 ## bamboo
 
@@ -959,11 +959,6 @@ Exported on 21 September 2021 - [Commit 8828](https://github.com/Civ13/Civ13/com
 | daisho sheath | 6 | leather | weapon accessories | Requires  39 Military research points. | Available until the Middle Ages. |
 | gunpowder pouch | 2 | leather | weapon accessories | Requires  54 Military research points. | Available until the Modern Age. |
 | bandolier | 3 | leather | weapon accessories | Requires  54 Military research points. | Available until the Modern Age. |
-| sword sheath | 3 | leather | weapon accessories | Requires  54 Military research points. | Available until the Modern Age. |
-| longer sword sheath | 3 | leather | weapon accessories | Requires  54 Military research points. | Available until the Modern Age. |
-| longsword sheath | 4 | leather | weapon accessories | Requires  54 Military research points. | Available until the Modern Age. |
-| katana sheath | 3 | leather | weapon accessories | Requires  54 Military research points. | Available until the Modern Age. |
-| daisho sheath | 6 | leather | weapon accessories | Requires  54 Military research points. | Available until the Modern Age. |
 | bullet pouch | 3 | leather | weapon accessories | Requires  85 Medical research points. | Available until the Modern Age. |
 | hip holster | 2 | leather | weapon accessories | Requires  85 Medical research points. | Available until the Modern Age. |
 | double hip holster | 3 | leather | weapon accessories | Requires  85 Medical research points. | Available until the Modern Age. |
@@ -1859,5 +1854,7 @@ Exported on 21 September 2021 - [Commit 8828](https://github.com/Civ13/Civ13/com
 | blue bedsheet | 2 | woolcloth | bedsheets | Requires  28 Medical research points. | Available until the Modern Age. |
 | yellow bedsheet | 2 | woolcloth | bedsheets | Requires  28 Medical research points. | Available until the Modern Age. |
 | red bedsheet | 2 | woolcloth | bedsheets | Requires  28 Medical research points. | Available until the Modern Age. |
+
+
 
 
