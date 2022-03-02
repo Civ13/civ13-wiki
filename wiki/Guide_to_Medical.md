@@ -92,9 +92,11 @@ to know your patient.
 
 #### Bleeding
 
+**Applying Pressure:** Used to stop or lessen the effects of bleeding. To perform this action use grab intent and then click on yourself while aiming at the body part which is bleeding. Be aware that if you use that same hand you will stop applying pressure. Useful for mild cuts and making it back to a doctor.
+
 **Healing Herbs:** Mostly used by primitive peoples, it will not help
 stop the bleeding but will also clean the wound, so it is always
-preferable. can be gathered from bushes with a knife.
+preferable. Can be gathered from bushes with a knife.
 
 **Bandages:** Quick and effective, most people should carry some all
 times, reduces the pain on most wounds and helps to treat bleeding as
@@ -114,7 +116,7 @@ but does not help with drowsiness and hallucinations.
 **Leech:** Drains toxins and bloods from patients, good alternative to
 tea, can end up weakening the patient.
 
-**Coal:** Removes any chemical in the blood
+**Coal:** Removes any chemical in the blood.
 
 **Coffee:** Will give you that extra caffeine and increase your speed!
 
@@ -125,9 +127,9 @@ painkiller than opium.
 makes you see many colors. Also using in tribes gamemode for
 communicating with gods
 
-**Orange Juice:** Heals suffocation
+**Orange Juice:** Heals suffocation.
 
-**Iron:** Helps replenish blood
+**Iron:** Helps replenish blood.
 
 **Alcohol:** Used as a painkiller when there's no opium around. This
 includes beer, ale, and rum. Also makes for a great party drink!
@@ -137,7 +139,7 @@ lot when patients are mostly suffering from pain.
 
 **Potassium Iodide:** Heals radiation. Cure for zombie virus.
 
-**Penicillin:** Cure for typhus
+**Penicillin:** Cure for typhus.
 
 ### Advanced
 
@@ -295,7 +297,7 @@ Rudimentary/emergency: Knife
 
 ### Broken Bones
 
-Scalpel 
+- Scalpel 
 - Retractor 
 - Bone Setter 
 - Cautery
@@ -307,7 +309,7 @@ Rudimentary/emergency: Knife
 
 ### Damaged Organs
 
-Scalpel 
+- Scalpel 
 - Bandage/Trauma-Kit(same result) 
 - Cautery
 
@@ -322,21 +324,21 @@ on the head or limbs, for obvious reasons.
 
 ### Shrapnel removal
 
-Scalpel 
+- Scalpel 
 - Bandage/Trauma-Kit 
 - Hemostat 
 - Cautery
 
 ### Organ removal
 
-Scalpel 
+- Scalpel 
 - Scalpel 
 - Hemostat 
 - Cautery
 
 ### Tendons
 
-Scalpel 
+- Scalpel 
 - Retractor 
 - Hemostat 
 - Hemostat 
