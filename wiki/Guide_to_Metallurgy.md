@@ -96,24 +96,25 @@ Molds are made with **[Clay](Full_Crafting_List#clay)** (to make clay, fill a co
 
 ## Furnaces
 
-Furnaces are operated similarly to the **[campfire and ovens](Guide_to_Crafting#campfire-and-ovens)**, apart from that they do not have continuous fire - the fire will go out after an operation is finished. Furnaces require 2 units of fuel per single operation, i.e. at least 2 wood logs or 1 piece of mineral coal.
+Furnaces are operated similarly to the **[campfire and ovens](Guide_to_Crafting#campfire-and-ovens)**, apart from that they do not have continuous fire - the fire will go out after an operation is finished. Furnaces require 2 units of fuel per single operation, i.e. at least 2 wood logs or 1 piece of mineral coal. To insert items into a furnace be on help intent.
+
 
 <table>
 <tbody>
 <tr>
 <td width="5%"><img src="assets/images/kiln_clay.png"></td>
 <td><b>Kiln</b></td>
-<td>Made with either 10 clay, stone or sandstone. Used to melt ores and metals in blacksmith jugs and pots.</td>
+<td>Made with either 10 clay, stone or sandstone. Used to melt all ores and metals in blacksmith jugs and pots, except for Iron.</td>
 </tr>
 <tr>
 <td><img src="assets/images/bloomery.png"></td>
 <td><b>Bloomery</b></td>
-<td>Made with 10 clay. Used to smelt iron ore into sponge iron. Can also be used to recycle metal items back into metal.</td>
+<td>Made with 10 clay. Used to <strong>only smelt iron</strong> ore into <strong>sponge iron</strong>. Can also be used to recycle metal items back into metal.</td>
 </tr>
 <tr>
 <td><img src="assets/images/blast_furnace.png"></td>
 <td><b>Blast furnace</b></td>
-<td>Made with 25 iron. Used to smelt iron ore into pig iron.</td>
+<td>Made with 25 iron. Used to <strong>only smelt iron</strong> ore into <strong>pig iron</strong>.</td>
 </tr>
 </tbody>
 </table>
