@@ -30,6 +30,8 @@ However, don't worry! It is simpler than it seems. You do **not** need to downlo
 
 ![image](assets/images/pull_request.PNG)
 
+Or in your fork page on github click on *Fetch Upstream*, it will update your fork to have all the merged pull requests of the Civ-13 master.
+
 ## Images
 
 While you can link external images using either markdown or html tags, we recommend that you upload them to **assets/images/** and link them from there. Make sure they have a unique name as to not replace current images!
