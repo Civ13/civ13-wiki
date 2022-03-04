@@ -16,7 +16,7 @@ Throughout history slang has evolved and changed with the rise and fall of natio
 
 # Epochs <a name="paragraph1"></a>
 Epochs are used to describe an event that begins a new period or development. An example would be the victorian era.
-
+<br><br>
 
 
 ## 313 BC <a name="subparagraph1"></a>
@@ -26,17 +26,23 @@ Epochs are used to describe an event that begins a new period or development. An
 <summary>Click to expand!</summary>
 <table><tbody><tr><td>
 
-- War between Rome and Tibur **361–354 BC**.
-- First Samnite War **343 to 341 BC**.
-- The Latin War **340 to 338 BC**.
-- King Philip II of Macedon is assasinated in **336 BC**.
-- Alexander III of Macedon assumed the throne of Macedon **336 BC**.
-- King of kings of the Achaemenid Empire, Darius III dies **330 BC**.
-- King Alexander III of Macedon dies in the city of Babylon **323 BC**.
-- Second Samnite War **326 to 304 BC** (Ongoing).
-
+<ul>    
+<li>War between Rome and Tibur <strong>361–354 BC</strong>.</li>
+<li> First Samnite War <strong>343 to 341 BC</strong>.</li>
+<li> The Latin War <strong>340 to 338 BC</strong>.</li>
+<li> King Philip II of Macedon is assasinated in <strong>336 BC</strong>.</li>
+<li> Alexander III of Macedon assumed the throne of Macedon <strong>336 BC</strong>.</li>
+<li> King of kings of the Achaemenid Empire, Darius III dies <strong>330 BC</strong>.</li>
+<li> King Alexander III of Macedon dies in the city of Babylon <strong>323 BC</strong>.</li>
+<li> Second Samnite War <strong>326 to 304 BC</strong> (Ongoing).</li>
+</ul>
+    
 </td></tr></tbody></table>
 </details>
+<br><br>
+
+
+
 
 
 ## 1013 AD <a name="subparagraph2"></a>
@@ -52,8 +58,8 @@ Epochs are used to describe an event that begins a new period or development. An
 </tr>
 </thead>
 
-<tbody>
 
+<tbody>
 <tr>
 <td>Acre</td>
 <td> The area of land that can be ploughed by one ox team in a day.</td>
@@ -139,21 +145,28 @@ Epochs are used to describe an event that begins a new period or development. An
 </tbody>
 </table>
 </details>
-
+<br>
 
 <strong>Historical Events within living memory:</strong>
 <details>
 <summary>Click to expand!</summary>
 <table><tbody><tr><td>
 
-- In Rouen, Pope John XV ratifies the first Truce of God, between Æthelred II of England and Richard I of Normandy **991 AD**.
-- The city of Babylon is abandoned **1000 AD**.
-- Norsemen, led by Leif Eriksson, establish short-lived settlements in and around Vinland in North America **1001 AD**.
-- Sweyn Forkbeard takes control of the Danelaw and is proclaimed king of England in London **1013 AD**.
-- Byzantine conquest of Bulgaria **970 AD to 1018 AD** (ongoing).
-
+    
+<ul>   
+<li>In Rouen, Pope John XV ratifies the first Truce of God, between Æthelred II of England and Richard I of Normandy <strong>991 AD</strong>.</li>
+<li>The city of Babylon is abandoned <strong>1000 AD</strong>.</li>
+<li>Norsemen, led by Leif Eriksson, establish short-lived settlements in and around Vinland in North America <strong>1001 AD</strong>.</li>
+<li>Sweyn Forkbeard takes control of the Danelaw and is proclaimed king of England in London <strong>1013 AD</strong>.</li>
+<li>Byzantine conquest of Bulgaria <strong>970 AD to 1018 AD</strong> (ongoing).</li>
+</ul>
+    
 </td></tr></tbody></table>
 </details>
+<br><br>
+
+
+
 
 
 ## 1713 AD <a name="subparagraph3"></a>
@@ -245,26 +258,30 @@ Epochs are used to describe an event that begins a new period or development. An
 </tbody>
 </table>
 </details>
-
+<br>
 
 <strong>Historical Events within living memory:</strong>
 <details>
 <summary>Click to expand!</summary>
 <table><tbody><tr><td>
-
-- The Restoration of the Stuart monarchy, King Charles II returns frome exile **1660 AD**.
-- The Second Anglo-Dutch War **1665 to 1667 AD**.
-- The Great Fire of London **1666 AD**.
-- Russo-Turkish War **1676 to 1681 AD**.
-- The Nine Years' War **1688 to 1697 AD**
-- The Great Northern War **1700 to 1721 AD** (ongoing).
-- Kingdom of Prussia declared under King Frederick I **1701 AD**.
-- The Act of Union is passed, merging the Scottish and English Parliaments, thus establishing the Kingdom of Great Britain **1707 AD**.
-- The War of the Spanish Succession **1701 to 1714 AD** (ongoing).
-
+<ul>
+<li>The Restoration of the Stuart monarchy, King Charles II returns frome exile <strong>1660 AD</strong>.</li>
+<li>The Second Anglo-Dutch War <strong>1665 to 1667 AD</strong>.</li>
+<li>The Great Fire of London <strong>1666 AD</strong>.</li>
+<li>Russo-Turkish War <strong>1676 to 1681 AD</strong>.</li>
+<li>The Nine Years' War <strong>1688 to 1697 AD</strong>.</li>
+<li>The Great Northern War <strong>1700 to 1721 AD</strong> (ongoing).</li>
+<li>Kingdom of Prussia declared under King Frederick I <strong>1701 AD</strong>.</li>
+<li>The Act of Union is passed, merging the Scottish and English Parliaments, thus establishing the Kingdom of Great Britain <strong>1707 AD</strong>.</li>
+<li>The War of the Spanish Succession <strong>1701 to 1714 AD</strong> (ongoing).</li>
+</ul>
 
 </td></tr></tbody></table>
 </details>
+<br><br>
+
+
+
 
 
 ## 1873 AD <a name="subparagraph4"></a>
@@ -330,23 +347,29 @@ Epochs are used to describe an event that begins a new period or development. An
 </tbody>
 </table>
 </details>
-
+<br>
 
 <strong>Historical Events within living memory:</strong>
 <details>
 <summary>Click to expand!</summary>
 <table><tbody><tr><td>
-
-- The Texas Revolution **1835 to 1836 AD**.
-- The Taiping Rebellion **1850 to 1864 AD**.
-- The American Civil War **1861 to 1865 AD**.
-- The Meiji Restoration (明治維新) **1868 AD**.
-  - The Boshin War (戊辰戦争) **1868 to 1869 AD**.
-- The United States purchases Alaska from Russia **1867 AD**.
-- The Franco-Prussian War **1870 to 1871**.
-
+<ul>
+<li>The Texas Revolution <strong>1835 to 1836 AD</strong>.</li>
+<li>The Taiping Rebellion <strong>1850 to 1864 AD</strong>.</li>
+<li>The American Civil War <strong>1861 to 1865 AD</strong>.</li>
+<li>The Meiji Restoration (明治維新) <strong>1868 AD</strong>.</li>
+    <ul>
+    <li>The Boshin War (戊辰戦争) <strong>1868 to 1869 AD</strong>.</li>
+    </ul>
+<li>The United States purchases Alaska from Russia <strong>1867 AD</strong>.</li>
+<li>The Franco-Prussian War <strong>1870 to 1871</strong>.</li>
+</ul>
 </td></tr></tbody></table>
 </details>
+<br><br>
+
+
+
 
 
 ## 1896 AD <a name="subparagraph5"></a>
@@ -412,21 +435,25 @@ Epochs are used to describe an event that begins a new period or development. An
 </tbody>
 </table>
 </details>
-
+<br>
 
 <strong>Historical Events within living memory:</strong>
 <details>
 <summary>Click to expand!</summary>
 <table><tbody><tr><td>
-
-- Anglo-Zulu War **1879 AD**
-- The First Boer War **1880 to 1881 AD.**
-- The Anglo-Egyptian War **1882 AD**
-- The First Sino-Japanese War (甲午戰爭 | 日清戦争) **1894 to 1895 AD**
-- The First Italo–Ethiopian War **1895 to 1896 AD**
-
+<ul>
+<li>Anglo-Zulu War <strong>1879 AD</strong>.</li>
+<li>The First Boer War <strong>1880 to 1881 AD</strong>.</li>
+<li>The Anglo-Egyptian War <strong>1882 AD</strong>.</li>
+<li>The First Sino-Japanese War (甲午戰爭 | 日清戦争) <strong>1894 to 1895 AD</strong>.</li>
+<li>The First Italo–Ethiopian War <strong>1895 to 1896 AD</strong>.</li>
+</ul>
 </td></tr></tbody></table>
 </details>
+<br><br>
+
+
+
 
 
 ## 1940's AD <a name="subparagraph6"></a>
@@ -486,25 +513,31 @@ Epochs are used to describe an event that begins a new period or development. An
 </tbody>
 </table>
 </details>
-
+<br>
 
 <strong>Historical Events within living memory:</strong>
 <details>
 <summary>Click to expand!</summary>
 <table><tbody><tr><td>
-
-- The Xinhai Revolution **1911 to 1912 AD**
-- The United States Occupation of Nicaragua **1912 to 1933 AD**
-- The Panama Canal Opens **1914 AD**
-- The First World War **1914 to 1918 AD**
-- The German Revolution **1918 to 1919 AD**
-- The Mukden Incident **1931 AD**
-  - The Japanese Invasion of Manchuria **1931 to 1932 AD**
-- The Second Sino-Japanese War **1937 to 1945 AD**
-- The Second World War **1939 to 1945 AD**
-
+<ul>
+<li>The Xinhai Revolution <strong>1911 to 1912 AD</strong>.</li>
+<li>The United States Occupation of Nicaragua <strong>1912 to 1933 AD</strong>.</li>
+<li>The Panama Canal Opens <strong>1914 AD</strong>.</li>
+<li>The First World War <strong>1914 to 1918 AD</strong>.</li>
+<li>The German Revolution <strong>1918 to 1919 AD</strong>.</li>
+<li>The Mukden Incident <strong>1931 AD</strong>.</li>
+    <ul>
+        <li>The Japanese Invasion of Manchuria <strong>1931 to 1932 AD</strong>.</li>
+    </ul>
+<li>The Second Sino-Japanese War <strong>1937 to 1945 AD</strong>.</li>
+<li>The Second World War <strong>1939 to 1945 AD</strong>.</li>
+</ul>
 </td></tr></tbody></table>
 </details>
+<br><br>
+
+
+
 
 
 ## 1969 AD <a name="subparagraph7"></a>
@@ -564,22 +597,26 @@ Epochs are used to describe an event that begins a new period or development. An
 </tbody>
 </table>
 </details>
-
+<br>
 
 
 <strong>Historical Events within living memory:</strong>
 <details>
 <summary>Click to expand!</summary>
 <table><tbody><tr><td>
-
-- The Gulf of Tonkin Incident **1964 AD**
-- The Rhodesian Bush War **1964 to 1979 AD** (ongoing)
-- The Cultural Revolution (文化大革命) **1966 to 1976 AD** (ongoing)
-- The Six-Day War **1967 AD**
-- The Tet Offensive **1968 AD**
-
+<ul>
+<li>The Gulf of Tonkin Incident <strong>1964 AD</strong>.</li>
+<li>The Rhodesian Bush War <strong>1964 to 1979 AD</strong> (ongoing).</li>
+<li>The Cultural Revolution (文化大革命) <strong>1966 to 1976 AD</strong> (ongoing).</li>
+<li>The Six-Day War <strong>1967 AD</strong>.</li>
+<li>The Tet Offensive <strong>1968 AD</strong>.</li>
+</ul>
 </td></tr></tbody></table>
 </details>
+<br><br>
+
+
+
 
 
 ## 1984 AD <a name="subparagraph8"></a>
@@ -634,19 +671,19 @@ Epochs are used to describe an event that begins a new period or development. An
 </tbody>
 </table>
 </details>
-
+<br>
 
 <strong>Historical Events within living memory:</strong>
 <details>
 <summary>Click to expand!</summary>
 <table><tbody><tr><td>
-
-- The Rhodesian Bush War **1964 to 1979 AD**
-- The Iranian Revolution **1978 to 1979 AD**.
-- The Second Oil Crisis **1979 AD**.
-- WHO announces the eradication of smallpox **1980 AD**.
-- The Falklands War **1982 AD**.
-- United States invasion of Grenada **1983 AD**.
-
+<ul>
+<li>The Rhodesian Bush War <strong>1964 to 1979 AD</strong>.</li>
+<li>The Iranian Revolution <strong>1978 to 1979 AD</strong>.</li>
+<li>The Second Oil Crisis <strong>1979 AD</strong>.</li>
+<li>WHO announces the eradication of smallpox <strong>1980 AD</strong>.</li>
+<li>The Falklands War <strong>1982 AD</strong>.</li>
+<li>United States invasion of Grenada <strong>1983 AD</strong>.</li>
+</ul>
 </td></tr></tbody></table>
 </details>
