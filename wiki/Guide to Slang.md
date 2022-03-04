@@ -1,4 +1,4 @@
-# Table of contents
+Table of contents
 1. [Guide to Slang](#Introduction)
 2. [Epochs](#paragraph1)
     1. [313 BC](#subparagraph1)
@@ -12,6 +12,7 @@
 
 # Guide to Slang <a name="Introduction"></a>
 Throughout history slang has evolved and changed with the rise and fall of nations, city states and civlisations. The below section is an addendum to help further embellish your roleplaying at different epochs.
+
 
 # Epochs <a name="paragraph1"></a>
 Epochs are used to describe an event that begins a new period or development. An example would be the victorian era.
@@ -37,7 +38,9 @@ Epochs are used to describe an event that begins a new period or development. An
 </td></tr></tbody></table>
 </details>
 
+
 ## 1013 AD <a name="subparagraph2"></a>
+
 
 <strong>Period Slang:</strong>
 <details>
@@ -152,7 +155,9 @@ Epochs are used to describe an event that begins a new period or development. An
 </td></tr></tbody></table>
 </details>
 
+
 ## 1713 AD <a name="subparagraph3"></a>
+
 
 <strong>Period Slang:</strong>
 <details>
@@ -242,7 +247,6 @@ Epochs are used to describe an event that begins a new period or development. An
 </details>
 
 
-
 <strong>Historical Events within living memory:</strong>
 <details>
 <summary>Click to expand!</summary>
@@ -262,7 +266,9 @@ Epochs are used to describe an event that begins a new period or development. An
 </td></tr></tbody></table>
 </details>
 
+
 ## 1873 AD <a name="subparagraph4"></a>
+
 
 <strong>Period Slang:</strong>
 <details>
@@ -342,7 +348,9 @@ Epochs are used to describe an event that begins a new period or development. An
 </td></tr></tbody></table>
 </details>
 
+
 ## 1896 AD <a name="subparagraph5"></a>
+
 
 <strong>Period Slang:</strong>
 <details>
@@ -405,6 +413,7 @@ Epochs are used to describe an event that begins a new period or development. An
 </table>
 </details>
 
+
 <strong>Historical Events within living memory:</strong>
 <details>
 <summary>Click to expand!</summary>
@@ -419,7 +428,9 @@ Epochs are used to describe an event that begins a new period or development. An
 </td></tr></tbody></table>
 </details>
 
+
 ## 1940's AD <a name="subparagraph6"></a>
+
 
 <strong>Period Slang:</strong>
 <details>
@@ -495,7 +506,9 @@ Epochs are used to describe an event that begins a new period or development. An
 </td></tr></tbody></table>
 </details>
 
+
 ## 1969 AD <a name="subparagraph7"></a>
+
 
 <strong>Period Slang:</strong>
 <details>
@@ -568,7 +581,9 @@ Epochs are used to describe an event that begins a new period or development. An
 </td></tr></tbody></table>
 </details>
 
+
 ## 1984 AD <a name="subparagraph8"></a>
+
 
 <strong>Period Slang:</strong>
 <details>
