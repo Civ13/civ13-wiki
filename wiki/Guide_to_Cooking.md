@@ -19,7 +19,7 @@ See the **[Full Crafting List](Full_Crafting_List)** for more details about craf
 <table>
 <tbody>
 <tr>
-<td width="5%"><img src="assets/images/e.png"> <img src="assets/images/bronze_knife.png"> <img src="assets/images/steel_knife.png"></td>
+<td width="5%"><img src="../assets/images/e.png"> <img src="assets/images/bronze_knife.png"> <img src="assets/images/steel_knife.png"></td>
 <td><b>Knife</b></td>
 <td>Made with either 4 bone pieces or 1 unit of manifold materials: stone, copper, bronze, iron, steel, tin, even gold, silver and diamonds. A versatile tool that is used to cut various foods. Also has other, non-culinary uses described in the <b><a href="Guide_to_Crafting#tools">Guide to Crafting</a></b>.</td>
 </tr>
