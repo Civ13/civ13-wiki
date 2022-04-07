@@ -66,7 +66,7 @@ See the **[Full Crafting List](Full_Crafting_List)** for more details about craf
 <tr>
 <td><img src="assets/images/dehydrator.png"></td>
 <td><b>Dehydrator</b></td>
-<td>Made with 5 wood. Used to hang meat and fish cutlets (slice meat and fish with the knife) to dry.</td>
+<td>Made with 5 wood. Used to dry various items, including meat cutlets and fish fillets (slice meat and fish with the knife).</td>
 </tr>
 <tr>
 <td><img src="assets/images/salting_container.png"></td>
@@ -98,9 +98,14 @@ Check **[here](Food_Decay_Times)** for the decay times for different **unstored*
 
 **Meat and fish products also rot! It takes half the time of full decay!** Meaning, it takes a meat slab 15 minutes to decay, but it will become rotten after 7.5 minutes.
 
-Decay time for the food stored in a **crate** is **doubled**.
+><table><tr><td width=32><img src="assets/images/icons/guides.png"></td><td><i>To be precise, from 14 minutes 45 seconds to 15 minutes 15 seconds for meat to decay and from 7 minutes 52 seconds to 8 minutes 8 seconds for rotting.</i></td></tr></table>
+`Learn more about how decay works and about food items at` **[Food Decay Times](Food_Decay_Times)**.
 
-Decay time for the food stored in a **fridge** is **tripled**. **A fridge must be [connected](Guide_to_Crafting#wiring) to a [power source](Guide_to_Crafting#engines) to work!**
+<BR>
+
+Decay time of products stored in any containers is **doubled**.
+
+Decay time for the food stored in a fridge is **eight time longer!**. **A fridge must be [connected](Guide_to_Crafting#wiring) to a [power source](Guide_to_Crafting#engines) to work!** If fridge not connected, it will still better than a regular container: decay time is **tripled**.
 
 ## Campfire, Oven and Wood Stove
 
