@@ -127,13 +127,11 @@
 <td>20</td>
 </tr>
 <tr>
-<tr>
 <td><img src="assets/images/food/pumpkin.png"></td>
 <td><b>Pumpkin</b> <small>(contains 1 nutriment) - <i>food (satisfaction +4)</i> - <b>temperate • taiga • tundra</b> - will grow at all seasons</small><br>
 • slice to make 12 pumpkin slices</td>
 <td>100</td>
 </tr>
-<tr>
 <tr>
 <td><img src="assets/images/food/lemon.png"></td>
 <td><b>Lemon</b> <small>(contains 1 nutriment) - <i>food (satisfaction +1)</i> - <b>temperate • desert • sea • semi-arid • jungle</b> - will grow at all seasons</small></td>
@@ -357,7 +355,6 @@
 </details></small>
 </td>
 <td>-</td>
-</tr>
 </tr>
 <tr>
 <td><img src="assets/images/stacks/tobacco_green.png"></td>
@@ -862,6 +859,7 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 <td>15</td>
 <td>8</td>
 <td><img src="assets/images/food/rottenfish.png"><br><img src="assets/images/food/rottenfish.png"><br><img src="assets/images/food/rotten_cod.png"></td>
+</tr>
 <tr>
 <td><img src="assets/images/food/fishfillet.png"></td>
 <td><b>Raw fish fillet</b></td>
@@ -937,6 +935,8 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 </tr>
 <tr>
 <td><b>Boiled rice</b></td>
+</tr>
+</tbody>
 </table>
 
 ## Canned food
