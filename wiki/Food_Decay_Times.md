@@ -2,7 +2,7 @@
 
 ## Grown products details
 
-> <small>All tables are sortable - click the headers.</small>
+<small>All tables are sortable - click the headers.</small>
 
 <table class="sortable">
 <tbody>
@@ -551,19 +551,19 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 </tbody>
 </table>
 
-> <small>You won't be able to get enough nutrients to start the Moonshine reaction with the standard methods, which require 10 Nutrients and 5 Enzymes as a catalyst (making 10 Moonshine).</small>
+ <small>You won't be able to get enough nutrients to start the Moonshine reaction with the standard methods, which require 10 Nutrients and 5 Enzymes as a catalyst (making 10 Moonshine).</small>
 
-> <small>Any plant, except for wild ones and mushrooms, will die if it drinks all the water, or when a snowstorm or sandstorm occurs.</small>
+ <small>Any plant, except for wild ones and mushrooms, will die if it drinks all the water, or when a snowstorm or sandstorm occurs.</small>
 
-> <small>Grain can be fed to herbivores: deer, reindeer, elk, dik-diks, cows, goats, sheep, camels and ... mammoths and ... (drum roll) pachycephalosaurs (ba-dum-s-s!).</small>
+ <small>Grain can be fed to herbivores: deer, reindeer, elk, dik-diks, cows, goats, sheep, camels and ... mammoths and ... (drum roll) pachycephalosaurs (ba-dum-s-s!).</small>
 
-> <small>Seeds can be fed to granivorous: parrots, chickens, turkeys, geese, pelicans, gulls, crows, pigs, wild boars, monkeys, mice, rabbits, gorillas, gigantopithecus, mammoths, pachycephalosaurs. Oviparous will adds the amount of eggs from seed feeding, i.e. it mean that oviparous will not lay eggs if not feeded with seeds.</small>
+ <small>Seeds can be fed to granivorous: parrots, chickens, turkeys, geese, pelicans, gulls, crows, pigs, wild boars, monkeys, mice, rabbits, gorillas, gigantopithecus, mammoths, pachycephalosaurs. Oviparous will adds the amount of eggs from seed feeding, i.e. it mean that oviparous will not lay eggs if not feeded with seeds.</small>
 
-> <small>Oviparous can eat seeds from the floor on their own, but this will not add to the number of eggs (bug). Initially, each egg laying female has an egg count of 5. The maximum value of the egg counter is currently 5. If the egg counter drops to zero, then when feeding with seeds, the counter will not increase. This is a bug in the code.</small>
+ <small>Oviparous can eat seeds from the floor on their own, but this will not add to the number of eggs (bug). Initially, each egg laying female has an egg count of 5. The maximum value of the egg counter is currently 5. If the egg counter drops to zero, then when feeding with seeds, the counter will not increase. This is a bug in the code.</small>
 
-> <small>At this moment, only two egg-laying birds have been implemented: turkeys and chickens. These birds are supposed to lay eggs every 120 seconds, but this is not happening due to a bug. If there is at least one conscious male in area 3 (not a 3x3 area, but a diamond-shaped area 7 wide and 7 high), and there are less than 6 birds in total in this area, not counting males, then a new egg will be fertilized and from it in 2000 seconds can hatch a chick, provided that on the whole map there are no more than 35 of them for turkeys and 50 for chickens.</small>
+ <small>At this moment, only two egg-laying birds have been implemented: turkeys and chickens. These birds are supposed to lay eggs every 120 seconds, but this is not happening due to a bug. If there is at least one conscious male in area 3 (not a 3x3 area, but a diamond-shaped area 7 wide and 7 high), and there are less than 6 birds in total in this area, not counting males, then a new egg will be fertilized and from it in 2000 seconds can hatch a chick, provided that on the whole map there are no more than 35 of them for turkeys and 50 for chickens.</small>
 
-> <small>To maximize the amount of fuel in a bloomery, furnace (not iron furnace), or oven, add items one at a time for the following stack items: leaves, dry dung.</small>
+ <small>To maximize the amount of fuel in a bloomery, furnace (not iron furnace), or oven, add items one at a time for the following stack items: leaves, dry dung.</small>
 
 ## Processed grown food products
 
@@ -949,7 +949,7 @@ There are 3 types of tin cans:<br>
 After filling it with food cans must be sealed at canner<img src="assets/images/canner.png">.<br>
 <img src="assets/images/tools/boneknife.png">Cans can be opened with a knife. Attack the tin can with an empty hand to take the previously canned food.<br>
 
-><small>Every time you put food in a tin can, it will lose satisfaction. Thus, putting food in a tin can and then taking it out and repeating it several times will result food item with very little satisfaction or terrible negative satisfaction.</small>
+<small>Every time you put food in a tin can, it will lose satisfaction. Thus, putting food in a tin can and then taking it out and repeating it several times will result food item with very little satisfaction or terrible negative satisfaction.</small>
 
 <br>
 
