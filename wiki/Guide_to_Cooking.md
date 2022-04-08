@@ -19,7 +19,7 @@ See the **[Full Crafting List](Full_Crafting_List)** for more details about craf
 <table>
 <tbody>
 <tr>
-<td width="5%"><img src="assets/images/e.png"> <img src="assets/images/bronze_knife.png"> <img src="assets/images/steel_knife.png"></td>
+<td wwidth="52"><img src="assets/images/e.png"> <img src="assets/images/bronze_knife.png"> <img src="assets/images/steel_knife.png"></td>
 <td><b>Knife</b></td>
 <td>Made with either 4 bone pieces or 1 unit of manifold materials: stone, copper, bronze, iron, steel, tin, even gold, silver and diamonds. A versatile tool that is used to cut various foods. Also has other, non-culinary uses described in the <b><a href="Guide_to_Crafting#tools">Guide to Crafting</a></b>.</td>
 </tr>
@@ -98,7 +98,7 @@ Check **[here](Food_Decay_Times)** for the decay times for different **unstored*
 
 **Meat and fish products also rot! It takes half the time of full decay!** Meaning, it takes a meat slab 15 minutes to decay, but it will become rotten after 7.5 minutes.
 
-><table><tr><td width=32><img src="assets/images/icons/guides.png"></td><td><i>To be precise, from 14 minutes 45 seconds to 15 minutes 15 seconds for meat to decay and from 7 minutes 52 seconds to 8 minutes 8 seconds for rotting.</i></td></tr></table>
+><table><tr><td width=52><img src="assets/images/icons/guides.png"></td><td><i>To be precise, from 14 minutes 45 seconds to 15 minutes 15 seconds for meat to decay and from 7 minutes 52 seconds to 8 minutes 8 seconds for rotting.</i></td></tr></table>
 `Learn more about how decay works and about food items at` **[Food Decay Times](Food_Decay_Times)**.
 
 <BR>
@@ -135,14 +135,14 @@ ingredients needed to make your fantastic dishes, uma delicia!
 <table>
 <thead>
 <tr class="header">
-<th style="background-color=#cc7000;">Image</th>
+<th style="background-color=#cc7000;" width="52"></th>
 <th style="background-color=#cc7000;">Ingredient</th>
 <th style="background-color=#cc7000;">Steps</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td width="5%"><img src="assets/images/yeast.png"></td>
+<td><img src="assets/images/yeast.png"></td>
 <td>Yeast</td>
 <td>Put either wheat or flour in a fermentation jar and wait for the message about fermentation.</td>
 </tr>
@@ -291,14 +291,14 @@ culinary art!
 <table>
 <thead>
 <tr class="header">
-<th style="background-color=#cc7000;">Image</th>
+<th style="background-color=#cc7000;" width="52"></th>
 <th style="background-color=#cc7000;">Dish</th>
 <th style="background-color=#cc7000;">Recipe</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td width="5%"><img src="assets/images/Flatbread.png"></td>
+<td><img src="assets/images/Flatbread.png"></td>
 <td>Flatbread</td>
 <td>Roast flat dough.</td>
 </tr>
@@ -374,13 +374,13 @@ Delicious Iberian ham.
 <table>
 <thead>
 <tr class="header">
-<th style="background-color=#cc7000;">Image</th>
+<th style="background-color=#cc7000;" width="52"></th>
 <th style="background-color=#cc7000;">Steps</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td width="5%"><img src="assets/images/jamon_container_full.png"></td>
+<td><img src="assets/images/jamon_container_full.png"></td>
 <td>Take a ham leg and beat it with a hammer to remove the excess blood. Put up to 3 legs in a salting container.</td>
 </tr>
 <tr>
@@ -407,13 +407,13 @@ Delicious Iberian ham.
 <table>
 <thead>
 <tr class="header">
-<th style="background-color=#cc7000;">Image</th>
+<th style="background-color=#cc7000;" width="52"></th>
 <th style="background-color=#cc7000;">Steps</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td width="5%"><img src="assets/images/salami_container_full.png"></td>
+<td><img src="assets/images/salami_container_full.png"></td>
 <td>Fill 1 sausage casing with 1 minced meat to make a sausage. Put up to 5 sausages in a salting container.</td>
 </tr>
 <tr>

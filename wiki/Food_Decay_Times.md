@@ -1,13 +1,13 @@
 # Food Decay Times
-# Grown products details
 
-><small>All tables are sortable - click the headers.</small>
+## Grown products details
 
+> <small>All tables are sortable - click the headers.</small>
 
 <table class="sortable">
 <tbody>
 <tr>
-<th width=32>
+<th width=52>
 <th style="background-color=#cc7000;">Product</th>
 <th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
 </tr>
@@ -44,7 +44,7 @@
 &nbsp; &nbsp; • 1 water 1 salt and 1 sugar will react to 2 saline glucose solution<br>
 &nbsp; &nbsp; • 3 sugar and 1 water will react to 1 rum (with 5 enzyme as catalyst)<br>
 &nbsp; &nbsp; • 3 sugar and 1 juniper juice will react to 1 gin (with 5 enzyme as catalyst)<br><i>
-&nbsp; &nbsp; • it's not a joke, but 1 sugar, 1 carbon and 1 acetone will react to 3 "" reagent (annihilated)!<br> 
+&nbsp; &nbsp; • it's not a joke, but 1 sugar, 1 carbon and 1 acetone will react to 3 "" reagent (annihilated)!<br>
 &nbsp; &nbsp; • 1 phosphorus, 1 sugar and 1 saltpeter must react to 0.4 chemsmoke, but will annihilated<br>
 &nbsp; &nbsp; • 2 sugar, 3 egg and 10 flour must react to sweet dough, but will annihilated <br>
 &nbsp; &nbsp; • 1 sugar and 1 water will not react to 2 mead (with 5 enzyme as catalyst), because inherited with rum reaction<br>
@@ -73,7 +73,7 @@
 &nbsp; &nbsp; • iron furnace can be fueled for 30 seconds with 1 olive oil<br>
 &nbsp; &nbsp; • hot bulb engine can be fueled with olive oil<br>
 &nbsp; &nbsp; • turbine engine can be fueled with olive oil<br>
-&nbsp; &nbsp; • boiling oil pot can be filled with 50 of a mixture of olive oil and fat oil (or pure olive oil)<br> 
+&nbsp; &nbsp; • boiling oil pot can be filled with 50 of a mixture of olive oil and fat oil (or pure olive oil)<br>
 &nbsp; &nbsp; • olive oil in sufficient quantity can be poured onto the ground in a mess, which can be set on fire with a torch<br>
 &nbsp; &nbsp; • olive oil can cause vomiting if it enters the bloodstream<br>
 </details></small>
@@ -292,7 +292,7 @@
 <small><details><summary>show/hide corn oil reactions</summary>
 &nbsp; &nbsp; • 3 corn oil and 1 sulphuric acid will react to 3 glycerol<br>
 &nbsp; &nbsp; • 3 corn oil and 1 hydrochloric acid will react to 3 glycerol<br>
-<i>* 1 glycerol with 1 saltpeter will react to 2 nitroglycerin<br>
+<i>*1 glycerol with 1 saltpeter will react to 2 nitroglycerin<br>
 ** 2 nitroglycerin can be filled to empty dynamite stick to make filled dynamite stick<br>
 *** attach rope to filled dynamite stick to make finished dynamite stick<br>
 **** empty dynamite stick is made from wood</i>
@@ -336,7 +336,7 @@
 <td><img src="assets/images/healing_herbs.png"></td>
 <td><b>Healing herbs</b> <small>(not a reagent container) - <i>stackable item</i> - <b>temperate • semi-arid • sea • jungle</b> - will grow at all seasons</small><br>
 • use them on wounds to disinfect, salving and heal brute damage
-<i><br><img src="assets/images/flora/junglebush6.png"><img src="assets/images/flora/junglebush1.png"><img src="assets/images/flora/junglebush16.png"> <img src="assets/images/tools/boneknife.png"> *can be collected from jungle bushes with knife with 25% chance (new will re-grow after 300 seconds)<br><img src="assets/images/dirt_ploughed.png"><img src="assets/images/flora/herbs-harvest.png">has no seeds, just plant them in ploughed field<br>
+<i><br><img src="assets/images/flora/junglebush6.png"><img src="assets/images/flora/junglebush1.png"><img src="assets/images/flora/junglebush16.png"> <img src="assets/images/tools/boneknife.png"> *can be collected from jungle bushes (small vegetation) with knife with 25% chance (new will re-grow after 300 seconds)<br><img src="assets/images/dirt_ploughed.png"><img src="assets/images/flora/herbs-harvest.png">has no seeds, just plant them in ploughed field<br>
 </i></td>
 <td>-</td>
 </tr>
@@ -363,7 +363,7 @@
 <td><img src="assets/images/stacks/tobacco_green.png"></td>
 <td><b>Tobacco fresh leaves</b> <small>(not a reagent container) - <i>stackable material</i> - <b>desert • jungle • savanna • semi-arid</b> - will grow at all seasons</small><br>
 • hang it on a dehydrator to dry it to dried tobacco leaves<br>
-• offer it to religious totem for 12 power each 
+• offer it to religious totem for 12 power each
 </td>
 <td>-</td>
 </tr>
@@ -374,7 +374,7 @@
 • craft a cigar out of 3, that will contain 30 nicotine<br>
 • craft a cuban cigar out of 5, that will contain 40 nicotine<br>
 • craft a cigar out of 2, that will contain 15 nicotine<br>
-• offer it to religious totem for 12 power each 
+• offer it to religious totem for 12 power each
 </td>
 <td>-</td>
 </tr>
@@ -429,7 +429,7 @@
 <tr>
 <td><img src="assets/images/stacks/bamboo.png"></td>
 <td><b>Bamboo bundle</b> <small>(not a reagent container) - <i>stackable material</i> - <b>jungle • sea</b> - not grow at dry season</small><br>
-• bamboo is another crafting material, also may be used as fuel<br>
+• bamboo is another crafting material, also may be used as fuel
 </td>
 <td>-</td>
 </tr>
@@ -458,7 +458,9 @@ The effects <b>must</b> be <small>(but not, due errors in code)</small>:
 <i>*berries can be harvested from bushes in wild by hand with GRAB intent <small>(exclude red ones on some maps, because of error in map)</small></i><br>
 <img src="assets/images/flora/tintobush.png"><img src="assets/images/flora/azulbush.png"><img src="assets/images/flora/amarbush.png"><img src="assets/images/flora/majobush.png"><img src="assets/images/flora/narcobush.png"><img src="assets/images/flora/zelenyybush.png"><img src="assets/images/flora/marronbush.png"><img src="assets/images/flora/corcairghormbush.png"><br>
 <i>**new berries will regrow in 300 seconds</i><br>
-<i>***if you use a berry gatherer <img src="assets/images/tools/berriesgatherer.png">(made from wood), you will pick two berries at once</i><br><br>
+<i>***if you use a berry gatherer <img src="assets/images/tools/berriesgatherer.png">(made from wood), you will pick two berries at once</i><br>
+<i>****berries hase no seeds and can't be cultivated for now</i><br>
+<br>
 <details><summary><small>show/hide how to identify berries</small></summary>
 <i>This one works like this now due to bugs in the code.</i><br>
 Take a berry in your hand and use the smell verb. If it smell:<br>
@@ -483,7 +485,7 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • <b>strong flavor of fruit and the strong flavor of bitterness</b> - it's poison berries with <b>cyanide</b>. Start toxins healing right now!<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;You will recieve messages: "Your body stings slightly". Don't panic, just wait some after toxins healing.<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • <b>strong flavor of fruit and bitterness</b> and receiving messages "You feel sick..." - it's poison berries with <b>food poisoning</b>. Start toxins healing right now!<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;You will recieve messages: "Your body stings slightly". Don't panic, just wait some after toxins healing.<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;You may recieve messages: "Your body stings slightly". Don't panic, just wait some after toxins healing.<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • <b>strong flavor of fruit and bitterness</b> and you eyes fills with rainbow - it's drug berries with <b>peyote</b>. Don't panic, just wait some time, when effect ends.<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • <b>fruit and the strong flavor of bitterness</b> - it's healing berries with <b>penicillin</b> or <b>opium</b>, wait some time, don't bite berrie, just wait about 3 minutes<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • if nothing happens - it's healing berries with <b>penicillin</b><br>
@@ -498,8 +500,7 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 <img src="assets/images/stacks/leaves.png">
 </td>
 <td><b>Leaves</b> <small>(not a reagent container) - <i>stackable material</i> - <b>in wild only</b> - not cultivated</small><br>
-<i>*due to the fact that it is a stackable material, the decay time counter is applied on each newly created stack, when merging/splitting the decay counters are not aligned to the average value</i><br>
-<i>**leaves of all types should be edible for the gorillaman, but this is not implemented in the code</i><br>
+<details><summary><small>show/hide how to obtain leaves</small></summary>
 • 3 leaves are obtained by cutting down trees (2 from acacia, 6 from jungle tree)<br>
 • 3 leaves are obtained from a hand attack with the intent GRAB on an unpeeled tree branch<br>
 • each tree usually has 3 branches, they can be obtained one by one from the tree with a hand attack with the intent HARM on the tree<br>
@@ -507,10 +508,13 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 &nbsp; &nbsp; <i>**branches from dead trees will be broken off from a tree without leaves</i><br>
 • for a gorillamens, 2 leaves are obtained when attacking with a hand with the intention of GRAB on a tree or some bushes<br>
 &nbsp; &nbsp; <i>*this will work not for all trees, but if it work gorillaman may try to pick also some bunches</i><br>
+</details>
 • leaves are material for crafting clothes from leaves, thatch roofing and can be used as fuel<br>
-&nbsp; &nbsp; <i>*to craft golden and ceremonial crowns you must to hold 1 gold or 2 leather in your other hand, but they will still be craftable without them due to the error in code</i><br>
-&nbsp; &nbsp; &nbsp; &nbsp; <i>**if you are holding gold or leather in your other hand, when creating a gold or ceremonial crown, they will be used to craft</i><br>
-• leaves of all types can be attached to <b>Mk2 Brodie Helmet</b> (twice) or to <b>Mk2 Brodie Helmet with tan netting</b> (once) - all stack will be used for that <small>(maybe it's a bug and will be fixed in future)</small>
+&nbsp; &nbsp; <i>*to craft gold laurel crown you must to hold 1 gold in your other hand, <small>but gold laurel crown will still be craftable without gold due to the error in code</small></i><br>
+&nbsp; &nbsp; &nbsp; &nbsp; <i>**<small>if you are holding gold in your other hand, when creating a gold laurel crown, gold will be used to craft</small></i><br>
+• leaves of all types can be attached to <b>Mk2 Brodie Helmet</b> (twice) or to <b>Mk2 Brodie Helmet with netting</b> (once) - all stack will be used for that <small>(maybe it's a bug and will be fixed in future)</small><br>
+<i>*<small>due to the fact that it is a stackable material, the decay time counter is applied on each newly created stack, when merging/splitting the decay counters are not aligned to the average value</small></i><br>
+<i>**<small>leaves of all types should be edible for the gorillaman, but this is not implemented in the code</small></i>
 </td>
 <td>80</td>
 </tr>
@@ -519,9 +523,13 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 <img src="assets/images/stacks/palm_leaves.png">
 </td>
 <td><b>Palm leaves</b> <small>(not a reagent container) - <i>stackable material</i> - <b>in wild only</b> - not cultivated</small><br>
-<i>*due to the fact that it is a stackable material, the decay time counter is applied on each newly created stack, when merging/splitting the decay counters are not aligned to the average value</i><br>
 • 3 palm leaves are obtained by cutting down palms<br>
 • palm leaves are material for crafting clothes from palm leaves, palm leaf roofing and can be used as fuel<br>
+&nbsp; &nbsp; <i>*to craft leaf crown you must to hold 2 leather in your other hand, <small>but leaf crown will still be craftable without leather due to the error in code</small></i><br>
+&nbsp; &nbsp; &nbsp; &nbsp; <i>**<small>if you are holding leather in your other hand, when creating a leaf crown, leather will be used to craft</small></i><br>
+• leaves of all types can be attached to <b>Mk2 Brodie Helmet</b> (twice) or to <b>Mk2 Brodie Helmet with netting</b> (once) - all stack will be used for that <small>(maybe it's a bug and will be fixed in future)</small><br>
+<i>*<small>due to the fact that it is a stackable material, the decay time counter is applied on each newly created stack, when merging/splitting the decay counters are not aligned to the average value</small></i><br>
+<i>**<small>leaves of all types should be edible for the gorillaman, but this is not implemented in the code</small></i>
 </td>
 <td>80</td>
 </tr>
@@ -530,121 +538,281 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 <img src="assets/images/stacks/fern_leaves.png">
 </td>
 <td><b>Fern leaves</b> <small>(not a reagent container) - <i>stackable material</i> - <b>in wild only</b> - not cultivated</small><br>
-<i>*due to the fact that it is a stackable material, the decay time counter is applied on each newly created stack, when merging/splitting the decay counters are not aligned to the average value</i><br>
-• 2 fern leaves are harvested by hand attacking with the intent GRAB on jungle bushes (small ones can be harvested 2 times, large ones 4 times), they will not re-grow leaves <small>(maybe it's a bug and will be fixed in future)</small><br>
+• 2 fern leaves are harvested by attacking with the intent to GRAB the jungle bushes (small vegetation) with any weapon except the knife <small>(empty hand attack is not included in the code, possibly a bug)</small>.  Bushes will not re-grow leaves <small>(maybe it's a bug and will be fixed in future)</small><br>
 • fern leaves are material for crafting clothes from fern leaves<br>
+&nbsp; &nbsp; <i>*to craft leaf crown you must to hold 2 leather in your other hand, <small>but leaf crown will still be craftable without leather due to the error in code</small></i><br>
+&nbsp; &nbsp; &nbsp; &nbsp; <i>**<small>if you are holding leather in your other hand, when creating a leaf crown, leather will be used to craft</small></i><br>
+• leaves of all types can be attached to <b>Mk2 Brodie Helmet</b> (twice) or to <b>Mk2 Brodie Helmet with netting</b> (once) - all stack will be used for that <small>(maybe it's a bug and will be fixed in future)</small><br>
+<i>*<small>due to the fact that it is a stackable material, the decay time counter is applied on each newly created stack, when merging/splitting the decay counters are not aligned to the average value</small></i><br>
+<i>**<small>leaves of all types should be edible for the gorillaman, but this is not implemented in the code</small></i>
 </td>
 <td>80</td>
 </tr>
 </tbody>
 </table>
 
-><small>You won't be able to get enough nutrients to start the Moonshine reaction with the standard methods, which require 10 Nutrients and 5 Enzymes as a catalyst (making 10 Moonshine).</small>
+> <small>You won't be able to get enough nutrients to start the Moonshine reaction with the standard methods, which require 10 Nutrients and 5 Enzymes as a catalyst (making 10 Moonshine).</small>
 
-><small>Any plant, except for wild ones and mushrooms, will die if it drinks all the water, or when a snowstorm or sandstorm occurs.</small>
+> <small>Any plant, except for wild ones and mushrooms, will die if it drinks all the water, or when a snowstorm or sandstorm occurs.</small>
 
-><small>Grain can be fed to herbivores: deer, reindeer, elk, dik-diks, cows, goats, sheep, camels and ... mammoths and ... (drum roll) pachycephalosaurs (ba-dum-s-s!).</small>
+> <small>Grain can be fed to herbivores: deer, reindeer, elk, dik-diks, cows, goats, sheep, camels and ... mammoths and ... (drum roll) pachycephalosaurs (ba-dum-s-s!).</small>
 
-><small>Seeds can be fed to granivorous: parrots, chickens, turkeys, geese, pelicans, gulls, crows, pigs, wild boars, monkeys, mice, rabbits, gorillas, gigantopithecus, mammoths, pachycephalosaurs. Oviparous will adds the amount of eggs from seed feeding, i.e. it mean that oviparous will not lay eggs if not feeded with seeds.</small>
+> <small>Seeds can be fed to granivorous: parrots, chickens, turkeys, geese, pelicans, gulls, crows, pigs, wild boars, monkeys, mice, rabbits, gorillas, gigantopithecus, mammoths, pachycephalosaurs. Oviparous will adds the amount of eggs from seed feeding, i.e. it mean that oviparous will not lay eggs if not feeded with seeds.</small>
 
-><small>To maximize the amount of fuel in a bloomery, furnace (not iron furnace), or oven, add items one at a time for the following stack items: leaves, dry dung.</small>
+> <small>Oviparous can eat seeds from the floor on their own, but this will not add to the number of eggs (bug). Initially, each egg laying female has an egg count of 5. The maximum value of the egg counter is currently 5. If the egg counter drops to zero, then when feeding with seeds, the counter will not increase. This is a bug in the code.</small>
 
-<table><tr><td>
-<img src="assets/images/icons/guides.png" height=128></td><td><i><b>after this point the page is under construction and may contain inaccuracies!!!</b></i></td>
-</tr></table>
+> <small>At this moment, only two egg-laying birds have been implemented: turkeys and chickens. These birds are supposed to lay eggs every 120 seconds, but this is not happening due to a bug. If there is at least one conscious male in area 3 (not a 3x3 area, but a diamond-shaped area 7 wide and 7 high), and there are less than 6 birds in total in this area, not counting males, then a new egg will be fertilized and from it in 2000 seconds can hatch a chick, provided that on the whole map there are no more than 35 of them for turkeys and 50 for chickens.</small>
+
+> <small>To maximize the amount of fuel in a bloomery, furnace (not iron furnace), or oven, add items one at a time for the following stack items: leaves, dry dung.</small>
 
 ## Processed grown food products
 
 <table class="sortable">
 <tbody>
 <tr>
-<th width=32>
+<th width=52>
 <th style="background-color=#cc7000;">Product</th>
 <th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
 </tr>
 <tr>
 <td><img src="assets/images/food/flour.png"></td>
-<td><b>Small flour sack</b> <small>(contains 10 flour) - <i>condiment</i></small><i><br>*use 5 with 5 water in off-hand liquid container to make dough<br>
-**use cutlet with 5 flour in off-hand liquid container to make uncooked schnitzel<br>
-**use 5 flour on chicken breast to make crumbed chicken breast<br>
-***put in empty fermentation starter jar for yeast</i>
-<small><details><summary>show/hide reactions</summary>
-&nbsp; &nbsp; • 5 proteins and 5 flour will produce 3 meatballs<br>
-&nbsp; &nbsp; • 5 water and 10 flour will produce dough<br>
-&nbsp; &nbsp; • 3 egg 10 flour and 2 sugar will produce sweet dough<br>
-&nbsp; &nbsp; • 2 flour and 2 water will react to 2 wheat beer (with 5 enzyme as catalyst)</details></small>
-
+<td><b>Small flour sack</b> <small>(contains 10 flour) - <i>condiment</i></small><br>
+• use small flour sack with 5 flour and with 5 water in off-hand liquid container to make dough<br>
+• use small flour sack with 5 flour on chicken breast to make crumbed chicken breast<br>
+• use small flour sack with 5 flour on chicken drumstick to make crumbed chicken drumstick<br>
+• put in empty fermentation starter jar for yeast<br>
+• use cutlet with small flour sack with 5 flour in off-hand liquid container to make uncooked schnitzel<br>
+<small><details><summary>show/hide flour reactions</summary>
+&nbsp; &nbsp; • 2 flour and 2 water will react to 2 wheat beer (with 5 enzyme as catalyst)<br><i>
+&nbsp; &nbsp; • 5 proteins and 5 flour must react to 3 meatballs, but will annihilated<br>
+&nbsp; &nbsp; • 5 water and 10 flour must react to dough, but will annihilated<br>
+&nbsp; &nbsp; • 3 egg 10 flour and 2 sugar must react to sweet dough, but will annihilated</i>
+</details></small>
 </td>
 <td>1000</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/flour.png"></td>
-<td><b>Small barley flour sack</b><i> (contains 10 flour)<br>*use 5 with 5 water in off-hand liquid container to make dough<br>**2 barley flour + 2 water + 2 hops with enzymes will produce 2 beer<br>***2 barley flour + 2 water with enzymes will produce 2 ale<br>****put in empty fermentation starter jar for yeast</i></td>
+<td><b>Small barley flour sack</b> <small>(contains 10 barley flour) - <i>condiment</i></small><br>
+• use small barley flour sack with 5 barley flour and with 5 water in off-hand liquid container to make dough<br>
+• put in empty fermentation starter jar for yeast<br>
+<small><details><summary>show/hide barley flour reactions</summary>
+&nbsp; &nbsp; • 2 barley flour and 2 water will react to 2 ale (with 5 enzyme as catalyst)<br><i>
+&nbsp; &nbsp; • 2 barley flour, 2 water and 1 hops will react to 2 beer (with 5 enzyme as catalyst), but hops is unobtainable now<br></i>
+</details></small>
+</td>
 <td>1000</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/flour.png"></td>
-<td><b>Small oat flour sack</b><i> (contains 10 flour)<br>*use 5 with 5 water in off-hand liquid container to make dough<br>**put in empty fermentation starter jar for yeast</i></td>
+<td><b>Small oat flour sack</b> <small>(contains 10 oat flour) - <i>condiment</i></small><br>
+• use small oat flour sack with 5 barley flour and with 5 water in off-hand liquid container to make dough<br>
+• put in empty fermentation starter jar for yeast<br>
+</td>
 <td>1000</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/enzyme.png"></td>
-<td><b>Yeast</b><i> (contains 50 enzyme)<br>*transfer 5 to start fermentation</i></td>
+<td><b>Yeast</b> <small>(contains 50 enzymes) - <i>condiment</i></small><br>
+• put any grain (slower) or any flour (faster) or yeast (fastest) into a fermentation starter jar, wait for the fermentation to finish, then use a fermentation starter jar to get the yeast<br>
+• don't remove last yeast from jar, and they a will grown more, up to 5 portions <small>(it's not a bug, it's a feature © maybe, but it's not certain™ )</small><br>
+• take out not last yeast and put it back in 4 times and you will have a full jar of yeast in the next grow cycle <small>(yes, surely, it's a bug)</small><br>
+</td>
 <td>30</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/ricepile.png"></td>
-<td><b>Rice</b></td>
-<td>600</td>
-</tr>
-<tr>
-<td><img src="assets/images/food/dough.png"></td>
-<td><b>Dough</b><br>*<i>use rolling pin to make it flat dough<br>**use something sharp to make 2-3 spaghetti</i></td>
-<td>25</td>
-</tr>
-<tr>
-<td><img src="assets/images/food/dough_flat.png"></td>
-<td><b>Flat dough</b><br>*<i>slice to make 3 dough slice</i></td>
-<td>25</td>
-</tr>
-<tr>
-<td><img src="assets/images/food/dough_slice.png"></td>
-<td><b>Dough slice</b><br>*<i>slice to make spaghetti</i></td>
-<td>25</td>
-</tr>
-<tr>
-<td><img src="assets/images/food/spaghetti.png"></td>
-<td><b>Spaghetti</b><br>*<i>use something sharp to make 1-2 noodles</i></td>
-<td>60</td>
-</tr>
-<tr>
-<td><img src="assets/images/food/noodles.png"></td>
-<td><b>Noodles</b></td>
-<td>60</td>
-</tr>
-<tr>
 <td><img src="assets/images/food/watermelonslice.png"></td>
-<td><b>Watermelon slice</b></td>
+<td><b>Watermelon slice</b> <small>(contains 0.08333 nutriments) - <i>food (satisfaction +0.33333)</i></small>
+</td>
 <td>18</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/pumpkinslice.png"></td>
-<td><b>Pumpkin slice</b></td>
+<td><b>Pumpkin slice</b> <small>(contains 0.08333 nutriments) - <i>food (satisfaction +0.33333)</i></small>
+</td>
 <td>20</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/ricepile.png"></td>
+<td><b>Rice</b> <small>(contains 2 nutriments) - <i>food (satisfaction +3)</i></small><br>
+• put in pot with water, wait when rice boil and remove it from pot before it turn to stew to obtain boiled rice
+</td>
+<td>600</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/boiledrice.png"></td>
+<td><b>Rice boiled</b> <small>(contains 3 nutriments) - <i>food (satisfaction +5)</i></small>
+</td>
+<td>12</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/rawsticks.png"></td>
+<td><b>Potato raw sticks</b> <small>(contains 3 nutriments) - <i>food (satisfaction -2)</i></small><br>
+• put in campfire, wood stove, stove, metal grill or oven to make fries
+</td>
+<td>27</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/fries.png"></td>
+<td><b>Potato fries</b> <small>(contains 4 nutriments) - <i>food (satisfaction +8)</i></small>
+</td>
+<td>15</td>
 </tr>
 </tbody>
 </table>
+<br>
+
+## Pastries and pasta products
+
+<table class="sortable">
+<tbody>
+<tr>
+<th width=52>
+<th style="background-color=#cc7000;">Product</th>
+<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
+</tr>
+<tr>
+<td><img src="assets/images/food/dough.png"></td>
+<td><b>Dough</b> <small>(contains 3 nutriments) - <i>food (satisfaction -4)</i></small><br>
+• put in campfire, wood stove, stove, metal grill or oven to make bread<br>
+• use rolling pin to make flat dough<br>
+• use something sharp to make 2-3 spaghetti<br>
+<i><small>*slicing it you must get 2-3 dough slices, but it inherited by spaghetti recipe</small></i>
+</td>
+<td>25</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/bread.png"></td>
+<td><b>Bread</b> <small>(contains 6 nutriments) - <i>food (satisfaction +4)</i></small><br>
+• slice to make 5 bread slices<br>
+&nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i>
+</td>
+<td>22</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/baguette.png"></td>
+<td><b>Baguette</b> <small>(contains 6 nutriments) - <i>food (satisfaction +4)</i></small><br>
+• slice to make 5 bread slices<br>
+&nbsp; &nbsp; *<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
+*<i>you cannot bake a baguette, but it's present on some maps</i>
+</td>
+<td>22</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/breadslice.png"></td>
+<td><b>Bread slice</b> <small>(contains 1.2 nutriments) - <i>food (satisfaction +0.8)</i></small><br>
+• use food or a shard on it to start making a sandwich (or expand its limit)<br>
+</td>
+<td>17</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/abs_sandwich.png"></td>
+<td><b>Sandwich</b> <small>(contains all you put in) - <i>food (satisfaction +7)</i></small><br>
+• use food on it to add ingredient (all reagents will transfer to it)<br>
+• use shard on it to add 5 brute damage after biting into this sandwich (more shards don't give more damage)<br>
+• sandwich at start will have 3 height limit (4 - 1 added food)<br>
+• use bread slice to expand height limit by 3 (4 - 1 added bread slice)<br>
+• examine it for know one random ingredient (it might help you find shard)<br>
+• if height limit is exceeded, you will not be able to add food or a shard, and even another slice of bread to expand the height limit<br>
+• it still can only hold a maximum of 50 reagents by volume, if you keep adding layers the reagents will stop adding (but layers will keep adding)<br>
+</td>
+<td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/dough_flat.png">
+</td>
+<td><b>Flat dough</b> <small>(contains 2 nutriments and 1 protein) - <i>food (satisfaction -3)</i></small><br>
+• put in campfire, wood stove, stove, metal grill or oven to make flatbread<br>
+• slice to make 3 dough slices<br>
+&nbsp; &nbsp; *<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i>
+<i><small>*we really don't know where the protein comes from after flattening</small></i>
+</td>
+<td>25</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/flatbread.png">
+</td>
+<td><b>Flatbread</b> <small>(contains 3 nutriments) - <i>food (satisfaction +4)</i></small><br>
+</td>
+<td>25</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/dough_slice.png"></td>
+<td><b>Dough slice</b> <small>(must contains 1 nutriment, but will contains 1.66667 nutriments and 0.333333 proteins) - <i>food (satisfaction -1)</i></small><br>
+• slice to make 1 spaghetti<br>
+<i><small>*we still don't know where the protein comes from</small></i><br>
+&nbsp; &nbsp; <i><small>*seriously - this is a bug, in a dough slice there should be 1/3 of the reagents from the flat dough</small></i>
+</td>
+<td>25</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/spaghetti.png"></td>
+<td><b>Spaghetti</b> <small>(it will contains 1 nutriment if sliced from dough, but will contains 2.66667 nutriments and 0.333333 proteins if sliced from dough slice due the bug in code) - <i>food (satisfaction -1 if sliced from dough slice, but +3 if sliced from dough)</i></small><br>
+• put in pot with water, wait when spaghetti boil and remove it from pot before it turn to stew to obtain boiled spaghetti<br>
+• use something sharp to make 1-2 noodles <small>(incorrect mechanics instead of using slicing mechanics)</small><br>
+<i><small>*correct values which should be: -1 satisfaction and 1 nutrient</small></i>
+</td>
+<td>60</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/spaghettiboiled.png"></td>
+<td><b>Spaghetti boiled</b> <small>(contains 2 nutriments) - <i>food (satisfaction +5)</i></small><br>
+• use meatball on it to make spaghetti & meatballs<br>
+</td>
+<td>14</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/spaghettimeatballs.png"></td>
+<td><b>Spaghetti & meatballs</b> <small>(contains 4 nutriments and 4 proteins) - <i>food (satisfaction +10)</i></small><br>
+</td>
+<td>11</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/noodles.png"></td>
+<td><b>Noodles</b> <small>(contains 1 nutriment) - <i>food (satisfaction +3)</i></small><br>
+• put in pot with water, wait when noodles boil and remove it from pot before it turn to stew to obtain ramen<br>
+</td>
+<td>60</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/ramen.png"></td>
+<td><b>Ramen</b> <small>(contains 6 nutriments, 4 proteins and 30 water) - <i>food (satisfaction +9)</i></small><br>
+• put in pot with water, wait when noodles boil and remove it from pot before it turn to stew to obtain ramen<br>
+<i><small>*it's really overpowered (it's not a bug, it's a feature © maybe, but it's not certain™ )</small></i>
+</td>
+<td>11</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/hardtack.png"></td>
+<td><b>Hardtack</b> <small>(contains 2 nutriments) - <i>food (satisfaction +1)</i></small><br>
+*<i>you cannot bake a hardtack, but it's present on some maps</i>
+</td>
+<td>-</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/cookie.png"></td>
+<td><b>Cookie</b> <small>(contains 5 nutriments) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot bake a cookie, but it's present on some maps</i>
+</td>
+<td>45</td>
+</tr>
+</tbody>
+</table>
+
+<table><tr><td>
+<img src="assets/images/icons/guides.png" height=128></td><td><i><b>after this point the page is under construction and may contain inaccuracies!!!</b></i></td>
+</tr></table>
 
 ## Meat products
 
 <table class="sortable">
 <tbody>
 <tr>
-<th width=32>
+<th width=52>
 <th style="background-color=#cc7000;">Product</th>
 <th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
 <th width=64 style="background-color=#cc7000;">Rots (minutes)</th>
-<th width=32>
+<th width=52>
 </tr>
 <tr>
 <td><img src="assets/images/food/meat.png"></td>
@@ -677,16 +845,16 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 </tbody>
 </table>
 
-## Seafood 
+## Seafood
 
 <table class="sortable">
 <tbody>
 <tr>
-<th width=32>
+<th width=52>
 <th style="background-color=#cc7000;">Product</th>
 <th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
 <th width=64 style="background-color=#cc7000;">Rots (minutes)</th>
-<th width=32>
+<th width=52>
 </tr>
 <tr>
 <td><img src="assets/images/food/rawfish.png"><br><img src="assets/images/food/salmon.png"><br><img src="assets/images/food/cod.png"></td>
