@@ -126,5 +126,3 @@ repository: Civ13/civ13-wiki
 github:
   repository_nwo: Civ13/civ13-wiki
   repository_url: https://github.com/Civ13/civ13-wiki
-
-theme: jekyll-theme-hacker
