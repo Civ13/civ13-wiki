@@ -2,12 +2,12 @@
 
 ## Grown products details
 
-<small>All tables are sortable - click the headers.</small>
+> <small>All tables are sortable - click the headers.</small>
 
 <table class="sortable">
 <tbody>
 <tr>
-<th width=52>
+<th width=52></th>
 <th style="background-color=#cc7000;">Product</th>
 <th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
 </tr>
@@ -43,13 +43,13 @@
 &nbsp; &nbsp; • 4 sugar and 1 chloral hydrate will react to 5 soporific toxin (if no phosphorus in container)<br>
 &nbsp; &nbsp; • 1 water 1 salt and 1 sugar will react to 2 saline glucose solution<br>
 &nbsp; &nbsp; • 3 sugar and 1 water will react to 1 rum (with 5 enzyme as catalyst)<br>
-&nbsp; &nbsp; • 3 sugar and 1 juniper juice will react to 1 gin (with 5 enzyme as catalyst)<br><i>
-&nbsp; &nbsp; • it's not a joke, but 1 sugar, 1 carbon and 1 acetone will react to 3 "" reagent (annihilated)!<br>
-&nbsp; &nbsp; • 1 phosphorus, 1 sugar and 1 saltpeter must react to 0.4 chemsmoke, but will annihilated<br>
-&nbsp; &nbsp; • 2 sugar, 3 egg and 10 flour must react to sweet dough, but will annihilated <br>
-&nbsp; &nbsp; • 1 sugar and 1 water will not react to 2 mead (with 5 enzyme as catalyst), because inherited with rum reaction<br>
-&nbsp; &nbsp; • 1 lemon juice, 1 sugar and 1 water will react to 3 lemonade, but lemon juice is unobtainable now
-</i></details></small>
+&nbsp; &nbsp; • 3 sugar and 1 juniper juice will react to 1 gin (with 5 enzyme as catalyst)<br>
+&nbsp; &nbsp; • 1 phosphorus, 1 sugar and 1 saltpeter [potassium] will react to 0.4 chemsmoke; that reaction will take all reagents from holder and they will used in created smoke<br>
+&nbsp; &nbsp; • <i>it's not a joke, but 1 sugar, 1 carbon and 1 acetone will react to 3 "" reagent (annihilated)!</i><br>
+&nbsp; &nbsp; • <i>2 sugar, 3 egg yolk and 10 flour must react to sweet dough, but will annihilated; also egg yolk is unobtainable now</i><br>
+&nbsp; &nbsp; • <i>1 sugar and 1 water will not react to 2 mead (with 5 enzyme as catalyst), because inherited with another "mead" reaction from honey, that is unobtainable now</i><br>
+&nbsp; &nbsp; • <i>1 lemon juice, 1 sugar and 1 water will react to 3 lemonade, but lemon juice is unobtainable now</i>
+</details></small>
 </td>
 <td>-</td>
 </tr>
@@ -381,7 +381,7 @@
 • craft a pile of cocaine out of 10, that will contain 25 cocaine<br>
 • attack pile of cocaine by hand to make cocaine line with 5 cocaine<br>
 <small><details><summary>show/hide cocaine reactions</summary>
-&nbsp; &nbsp; • <i>1 cocaine and 10 wine must react to 10 coca wine (with 5 enzyme as catalyst), but reagent coca wine doesn't exists</i>
+&nbsp; &nbsp; • <i>1 cocaine and 10 wine must react to 10 coca wine (with 5 enzyme as catalyst), but will annihilated, because reagent coca wine doesn't exists</i>
 </details></small>
 </td>
 <td>-</td>
@@ -409,7 +409,7 @@
 • put in liquid container to make 1 purified cotton from each 1<br>
 • weave it on loom to make 1 cloth from each 1<br>
 <small><details><summary>show/hide purified cotton reactions</summary>
-&nbsp; &nbsp; • 1 cotton and 1 saltpeter will react to 2 nitrocellulose<br>
+&nbsp; &nbsp; • 1 cotton and 1 saltpeter [potassium] will react to 2 nitrocellulose <b>(danger, it will explode!)</b><br>
 &nbsp; &nbsp; • 1 cotton and 1 gasoline will react to 1 napalm<br>
 </details></small>
 </td>
@@ -511,7 +511,7 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 &nbsp; &nbsp; &nbsp; &nbsp; <i>**<small>if you are holding gold in your other hand, when creating a gold laurel crown, gold will be used to craft</small></i><br>
 • leaves of all types can be attached to <b>Mk2 Brodie Helmet</b> (twice) or to <b>Mk2 Brodie Helmet with netting</b> (once) - all stack will be used for that <small>(maybe it's a bug and will be fixed in future)</small><br>
 <i>*<small>due to the fact that it is a stackable material, the decay time counter is applied on each newly created stack, when merging/splitting the decay counters are not aligned to the average value</small></i><br>
-<i>**<small>leaves of all types should be edible for the gorillaman, but this is not implemented in the code</small></i>
+<i>**<small>gorillaman able to craft leaf salad from 6 leaves, but if gorilla recipes are loaded</small></i>
 </td>
 <td>80</td>
 </tr>
@@ -526,7 +526,7 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 &nbsp; &nbsp; &nbsp; &nbsp; <i>**<small>if you are holding leather in your other hand, when creating a leaf crown, leather will be used to craft</small></i><br>
 • leaves of all types can be attached to <b>Mk2 Brodie Helmet</b> (twice) or to <b>Mk2 Brodie Helmet with netting</b> (once) - all stack will be used for that <small>(maybe it's a bug and will be fixed in future)</small><br>
 <i>*<small>due to the fact that it is a stackable material, the decay time counter is applied on each newly created stack, when merging/splitting the decay counters are not aligned to the average value</small></i><br>
-<i>**<small>leaves of all types should be edible for the gorillaman, but this is not implemented in the code</small></i>
+<i>**<small>gorillaman able to craft leaf salad from 6 palm leaves, but if gorilla recipes are loaded</small></i>
 </td>
 <td>80</td>
 </tr>
@@ -541,33 +541,31 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 &nbsp; &nbsp; &nbsp; &nbsp; <i>**<small>if you are holding leather in your other hand, when creating a leaf crown, leather will be used to craft</small></i><br>
 • leaves of all types can be attached to <b>Mk2 Brodie Helmet</b> (twice) or to <b>Mk2 Brodie Helmet with netting</b> (once) - all stack will be used for that <small>(maybe it's a bug and will be fixed in future)</small><br>
 <i>*<small>due to the fact that it is a stackable material, the decay time counter is applied on each newly created stack, when merging/splitting the decay counters are not aligned to the average value</small></i><br>
-<i>**<small>leaves of all types should be edible for the gorillaman, but this is not implemented in the code</small></i>
+<i>**<small>gorillaman able to craft leaf salad from 6 fern leaves, but if gorilla recipes are loaded</small></i>
 </td>
 <td>80</td>
 </tr>
 </tbody>
 </table>
 
- <small>You won't be able to get enough nutrients to start the Moonshine reaction with the standard methods, which require 10 Nutrients and 5 Enzymes as a catalyst (making 10 Moonshine).</small>
+> <small>Any plant, except for wild ones and mushrooms, will die if it drinks all the water, or when a snowstorm or sandstorm occurs.</small>
 
- <small>Any plant, except for wild ones and mushrooms, will die if it drinks all the water, or when a snowstorm or sandstorm occurs.</small>
+> <small>Grain can be fed to herbivores: deer, reindeer, elk, dik-diks, cows, goats, sheep, camels and ... mammoths and ... (drum roll) pachycephalosaurs (ba-dum-s-s!).</small>
 
- <small>Grain can be fed to herbivores: deer, reindeer, elk, dik-diks, cows, goats, sheep, camels and ... mammoths and ... (drum roll) pachycephalosaurs (ba-dum-s-s!).</small>
+> <small>Seeds can be fed to granivorous: parrots, chickens, turkeys, geese, pelicans, gulls, crows, pigs, wild boars, monkeys, mice, rabbits, gorillas, gigantopithecus, mammoths, pachycephalosaurs. Oviparous will adds the amount of eggs from seed feeding, i.e. it mean that oviparous will not lay eggs if not feeded with seeds.</small>
 
- <small>Seeds can be fed to granivorous: parrots, chickens, turkeys, geese, pelicans, gulls, crows, pigs, wild boars, monkeys, mice, rabbits, gorillas, gigantopithecus, mammoths, pachycephalosaurs. Oviparous will adds the amount of eggs from seed feeding, i.e. it mean that oviparous will not lay eggs if not feeded with seeds.</small>
+> <small>Oviparous can eat seeds from the floor on their own, but this will not add to the number of eggs (bug). Initially, each egg laying female has an egg count of 5. The maximum value of the egg counter is currently 5. If the egg counter drops to zero, then when feeding with seeds, the counter will not increase. This is a bug in the code.</small>
 
- <small>Oviparous can eat seeds from the floor on their own, but this will not add to the number of eggs (bug). Initially, each egg laying female has an egg count of 5. The maximum value of the egg counter is currently 5. If the egg counter drops to zero, then when feeding with seeds, the counter will not increase. This is a bug in the code.</small>
+> <small>At this moment, only two egg-laying birds have been implemented: turkeys and chickens. These birds are supposed to lay eggs every 120 seconds, but this is not happening due to a bug. If there is at least one conscious male in area 3 (not a 3x3 area, but a diamond-shaped area 7 wide and 7 high), and there are less than 6 birds in total in this area, not counting males, then a new egg will be fertilized and from it in 2000 seconds can hatch a chick, provided that on the whole map there are no more than 35 of them for turkeys and 50 for chickens.</small>
 
- <small>At this moment, only two egg-laying birds have been implemented: turkeys and chickens. These birds are supposed to lay eggs every 120 seconds, but this is not happening due to a bug. If there is at least one conscious male in area 3 (not a 3x3 area, but a diamond-shaped area 7 wide and 7 high), and there are less than 6 birds in total in this area, not counting males, then a new egg will be fertilized and from it in 2000 seconds can hatch a chick, provided that on the whole map there are no more than 35 of them for turkeys and 50 for chickens.</small>
-
- <small>To maximize the amount of fuel in a bloomery, furnace (not iron furnace), or oven, add items one at a time for the following stack items: leaves, dry dung.</small>
+> <small>To maximize the amount of fuel in a bloomery, furnace (not iron furnace), or oven, add items one at a time for the following stack items: leaves, dry dung.</small>
 
 ## Processed grown food products
 
 <table class="sortable">
 <tbody>
 <tr>
-<th width=52>
+<th width=52></th>
 <th style="background-color=#cc7000;">Product</th>
 <th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
 </tr>
@@ -580,10 +578,10 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 • put in empty fermentation starter jar for yeast<br>
 • use cutlet with small flour sack with 5 flour in off-hand liquid container to make uncooked schnitzel<br>
 <small><details><summary>show/hide flour reactions</summary>
-&nbsp; &nbsp; • 2 flour and 2 water will react to 2 wheat beer (with 5 enzyme as catalyst)<br><i>
-&nbsp; &nbsp; • 5 proteins and 5 flour must react to 3 meatballs, but will annihilated<br>
-&nbsp; &nbsp; • 5 water and 10 flour must react to dough, but will annihilated<br>
-&nbsp; &nbsp; • 3 egg 10 flour and 2 sugar must react to sweet dough, but will annihilated</i>
+&nbsp; &nbsp; • 2 flour and 2 water will react to 2 wheat beer (with 5 enzyme as catalyst)<br>
+&nbsp; &nbsp; • 5 proteins and 5 flour will produce 3 meatballs<br>
+&nbsp; &nbsp; • <i>5 water and 10 flour must react to dough, but will annihilated</i><br>
+&nbsp; &nbsp; • <i>2 sugar, 3 egg yolk and 10 flour must react to sweet dough, but will annihilated; also egg yolk is unobtainable now</i>
 </details></small>
 </td>
 <td>1000</td>
@@ -594,8 +592,8 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 • use small barley flour sack with 5 barley flour and with 5 water in off-hand liquid container to make dough<br>
 • put in empty fermentation starter jar for yeast<br>
 <small><details><summary>show/hide barley flour reactions</summary>
-&nbsp; &nbsp; • 2 barley flour and 2 water will react to 2 ale (with 5 enzyme as catalyst)<br><i>
-&nbsp; &nbsp; • 2 barley flour, 2 water and 1 hops will react to 2 beer (with 5 enzyme as catalyst), but hops is unobtainable now<br></i>
+&nbsp; &nbsp; • 2 barley flour and 2 water will react to 2 ale (with 5 enzyme as catalyst)<br>
+&nbsp; &nbsp; • <i>2 barley flour, 2 water and 1 hops will react to 2 beer (with 5 enzyme as catalyst), but hops is unobtainable now</i><br>
 </details></small>
 </td>
 <td>1000</td>
@@ -610,10 +608,33 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 </tr>
 <tr>
 <td><img src="assets/images/food/enzyme.png"></td>
-<td><b>Yeast</b> <small>(contains 50 enzymes) - <i>condiment</i></small><br>
+<td><b>Yeast</b> <small>(contains 50 enzyme) - <i>condiment</i></small><br>
 • put any grain (slower) or any flour (faster) or yeast (fastest) into a fermentation starter jar, wait for the fermentation to finish, then use a fermentation starter jar to get the yeast<br>
 • don't remove last yeast from jar, and they a will grown more, up to 5 portions <small>(it's not a bug, it's a feature © maybe, but it's not certain™ )</small><br>
 • take out not last yeast and put it back in 4 times and you will have a full jar of yeast in the next grow cycle <small>(yes, surely, it's a bug)</small><br>
+• put some used yeast in jar and take it out and it will contains 50 enzyme again <small>(it's a bug too)</small><br>
+<small><details><summary>show/hide enzyme reactions</summary>
+&nbsp; &nbsp; • 10 enzyme and 1 acetone will react to 5 penicillin<br>
+&nbsp; &nbsp; • 1 enzyme and 1 diethylamine will react to 2 lysergic acid diethylamide [LCD]<br>
+&nbsp; &nbsp; • 10 apple juice will react to 10 cider (with 5 enzyme as catalyst)<br>
+&nbsp; &nbsp; • 40 milk will produce 1 cheese wheel (with 5 enzyme as catalyst)<br>
+&nbsp; &nbsp; • 10 grape juice will react to 10 wine (with 5 enzyme as catalyst)<br>
+&nbsp; &nbsp; • 10 potato juice will react to 5 vodka (with 5 enzyme as catalyst)<br>
+&nbsp; &nbsp; • 10 rice paste will react to 5 sake (with 5 enzyme as catalyst)<br>
+&nbsp; &nbsp; • 2 fish and 1 table salt will react to 2 garum (with 5 enzyme as catalyst)<br>
+&nbsp; &nbsp; • 3 sugar and 1 water will react to 1 rum (with 5 enzyme as catalyst)<br>
+&nbsp; &nbsp; • 3 sugar and 1 juniper juice will react to 1 gin (with 5 enzyme as catalyst)<br>
+&nbsp; &nbsp; • 5 agave and 2 water will react to 2 mezcal (with 5 enzyme as catalyst)<br>
+&nbsp; &nbsp; • 2 flour and 2 water will react to 2 wheat beer (with 5 enzyme as catalyst)<br>
+&nbsp; &nbsp; • 2 barley flour and 2 water will react to 2 ale (with 5 enzyme as catalyst)<br>
+&nbsp; &nbsp; • <i>2 barley flour, 2 water and 1 hops will react to 2 beer (with 5 enzyme as catalyst), but hops is unobtainable now</i><br>
+&nbsp; &nbsp; • <i>10 nutriment will react to 5 moonshine (with 5 enzyme as catalyst), 
+but there are no standard ways to extract nutriment from food</i><br>
+&nbsp; &nbsp; • <i>10 berry juice will react to 10 grenadine (with 5 enzyme as catalyst), but berry juice is unobtainable now</i><br>
+&nbsp; &nbsp; • <i>10 watermelon juice will react to 5 watermelon liquor (with 5 enzyme as catalyst), but watermelon juice is unobtainable now</i><br>
+&nbsp; &nbsp; • <i>1 sugar and 1 water will not react to 2 mead (with 5 enzyme as catalyst), because inherited with another "mead" reaction from honey</i><br>
+&nbsp; &nbsp; &nbsp; &nbsp; *<i>mead reaction needs 2 honey and 2 water without any enzymes, they will react to 2 mead</i>
+</details></small>
 </td>
 <td>30</td>
 </tr>
@@ -655,6 +676,13 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 </td>
 <td>15</td>
 </tr>
+<tr>
+<td><img src="assets/images/food/leafsalad.png"></td>
+<td><b>Leaf salad</b> <small>(contains 3 nutriments) - <i>food (satisfaction +2)</i></small><br>
+<i>*can be created by gorrilaman from 6 leaves of any type<small>, but if gorilla recipes loaded</small></i>
+</td>
+<td>15</td>
+</tr>
 </tbody>
 </table>
 <br>
@@ -664,7 +692,7 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 <table class="sortable">
 <tbody>
 <tr>
-<th width=52>
+<th width=52></th>
 <th style="background-color=#cc7000;">Product</th>
 <th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
 </tr>
@@ -796,7 +824,73 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 </tbody>
 </table>
 
-<table><tr><td>
+### Pizza
+
+<table class="sortable">
+<tbody>
+<tr>
+<th width=52></th>
+<th style="background-color=#cc7000;">Product</th>
+<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
+</tr>
+<tr>
+<td><img src="assets/images/food/pizza.png"></td>
+<td><b>Pizza</b> <small>(contains 2 parsley and 2 tomato juice) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot bake a pizza, but it's present on some maps</i><br>
+**<i><small>it should contain 8 nutriment, 2 parsley and 2 ketchup, but there is a bug in the code</small></i><br>
+***<i>cannot be sliced</i>
+</td>
+<td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/pizzapepperoni.png"></td>
+<td><b>Pepperoni and cheese pizza</b> <small>(contains 2 tomato juice and 1 capsaicin) - <i>food (satisfaction 0)</i> <b>non vegetarian</b></small><br>
+*<i>you cannot bake a peperoni and cheese pizza, but it's present on some maps</i><br>
+**<i><small>it should contain 9 nutriment, 2 ketchup and 1 capsaicin, but there is a bug in the code</small></i><br>
+***<i>cannot be sliced</i>
+</td>
+<td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/vegetablepizza.png"></td>
+<td><b>Spicy vegetable pizza</b> <small>(contains 2 celery and 2 tomato juice) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot bake a spicy vegetable pizza, but it's present on some maps</i><br>
+**<i><small>it should contain 8 nutriment, 2 celery and 2 ketchup, but there is a bug in the code</small></i><br>
+***<i>cannot be sliced</i>
+</td>
+<td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/meatpizza.png"></td>
+<td><b>Meatball pizza</b> <small>(contains 4 protein and 2 tomato juice) - <i>food (satisfaction 0)</i> <b>non vegetarian</b></small><br>
+*<i>you cannot bake a meatball pizza, but it's present on some maps</i><br>
+**<i><small>it should contain 6 nutriment, 4 protein and 2 ketchup, but there is a bug in the code</small></i><br>
+***<i>cannot be sliced</i>
+</td>
+<td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/pizzasauced.png"></td>
+<td><b>Plain pizza</b> <small>(contains 8 tomato juice) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot bake a plain pizza, it's not present on maps, but it's defined in code</i><br>
+**<i><small>it should contain 4 nutriment, and 8 ketchup, but there is a bug in the code</small></i><br>
+***<i>cannot be sliced</i>
+</td>
+<td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/pizzacheesed.png"></td>
+<td><b>Cheese pizza</b> <small>(contains 2 tomato juice) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot bake a cheese pizza, but it's present on some maps</i><br>
+**<i><small>it should contain 10 nutriment, and 2 ketchup, but there is a bug in the code</small></i><br>
+***<i>cannot be sliced</i>
+</td>
+<td>15</td>
+</tr>
+</tbody>
+</table>
+
+<br><br><table><tr><td>
 <img src="assets/images/icons/guides.png" height=128></td><td><i><b>after this point the page is under construction and may contain inaccuracies!!!</b></i></td>
 </tr></table>
 
@@ -805,11 +899,11 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 <table class="sortable">
 <tbody>
 <tr>
-<th width=52>
+<th width=52></th>
 <th style="background-color=#cc7000;">Product</th>
 <th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
 <th width=64 style="background-color=#cc7000;">Rots (minutes)</th>
-<th width=52>
+<th width=52></th>
 </tr>
 <tr>
 <td><img src="assets/images/food/meat.png"></td>
@@ -847,11 +941,11 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 <table class="sortable">
 <tbody>
 <tr>
-<th width=52>
+<th width=52></th>
 <th style="background-color=#cc7000;">Product</th>
 <th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
 <th width=64 style="background-color=#cc7000;">Rots (minutes)</th>
-<th width=52>
+<th width=52></th>
 </tr>
 <tr>
 <td><img src="assets/images/food/rawfish.png"><br><img src="assets/images/food/salmon.png"><br><img src="assets/images/food/cod.png"></td>
@@ -963,3 +1057,59 @@ If the decay timer of a food item has exceeded its decay, then the item disappea
 
 Thus, for example, a raw cutlet, being in a refrigerator connected to the power supply, having 15 minutes before decays, will have 120 ticks (one minute each).
 At the sixty-first tick, the cutlet will turn rotten. The minimum real time this will happen will be one hour minus one second (3599 seconds), the maximum time will be one hour, two minutes and one second (3721 seconds).
+
+## What will be included later to this page (TO DO LIST)
+
+snacks food (is not added before)
+
+poo, manure, dry dung and composting mechanics
+
+cockroach
+
+meat subtypes
+
+frog eggs
+
+raw fish subtypes
+
+bear meat
+
+animal organs
+
+MRE
+
+drinks(?)
+
+pickle
+
+octopus
+
+rawlobster
+
+squid
+
+shell fish
+
+bad recipe
+
+fishing cage
+
+ovens cooking
+
+stew cooking
+
+vending sales food (?) if needs
+
+food from complex production
+
+dried food
+
+chocolatebar, pervitinchocolatebar
+
+glass attacks
+
+fat, lard
+
+add details of food items (vegetarian, effects etc.)
+
+say about condiments mechanics
