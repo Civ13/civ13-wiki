@@ -5,7 +5,6 @@
 > <small>All tables are sortable - click the headers.</small>
 
 <table class="sortable">
-<tbody>
 <tr>
 <th width=52></th>
 <th style="background-color=#cc7000;">Product</th>
@@ -545,7 +544,6 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 </td>
 <td>80</td>
 </tr>
-</tbody>
 </table>
 
 > <small>Any plant, except for wild ones and mushrooms, will die if it drinks all the water, or when a snowstorm or sandstorm occurs.</small>
@@ -563,7 +561,7 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 ## Processed grown food products
 
 <table class="sortable">
-<tbody>
+
 <tr>
 <th width=52></th>
 <th style="background-color=#cc7000;">Product</th>
@@ -690,7 +688,7 @@ but there are no standard ways to extract nutriment from food</i><br>
 ## Pastries and pasta products
 
 <table class="sortable">
-<tbody>
+
 <tr>
 <th width=52></th>
 <th style="background-color=#cc7000;">Product</th>
@@ -821,7 +819,7 @@ but there are no standard ways to extract nutriment from food</i><br>
 </td>
 <td>45</td>
 </tr>
-</tbody>
+
 </table>
 
 ### Pizza
@@ -897,7 +895,7 @@ but there are no standard ways to extract nutriment from food</i><br>
 ## Meat products
 
 <table class="sortable">
-<tbody>
+
 <tr>
 <th width=52></th>
 <th style="background-color=#cc7000;">Product</th>
@@ -933,13 +931,13 @@ but there are no standard ways to extract nutriment from food</i><br>
 <td>-</td>
 <td></td>
 </tr>
-</tbody>
+
 </table>
 
 ## Seafood
 
 <table class="sortable">
-<tbody>
+
 <tr>
 <th width=52></th>
 <th style="background-color=#cc7000;">Product</th>
@@ -982,13 +980,13 @@ but there are no standard ways to extract nutriment from food</i><br>
 <td>-</td>
 <td></td>
 </tr>
-</tbody>
+
 </table>
 
 ## Other products
 
 <table class="sortable">
-<tbody>
+
 <tr>
 <th style="background-color=#cc7000;">Product</th>
 <th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
@@ -997,13 +995,13 @@ but there are no standard ways to extract nutriment from food</i><br>
 <td><b>Eggs</b></td>
 <td>90</td>
 </tr>
-</tbody>
+
 </table>
 
 ## Ingredients
 
 <table class="sortable">
-<tbody>
+
 <tr>
 <th style="background-color=#cc7000;">Product</th>
 <th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
@@ -1012,13 +1010,12 @@ but there are no standard ways to extract nutriment from food</i><br>
 <td><b>Dough</b></td>
 <td>25</td>
 </tr>
-</tbody>
+
 </table>
 
 ## Dishes
 
 <table class="sortable">
-<tbody>
 <tr>
 <th style="background-color=#cc7000;">Product</th>
 <th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
@@ -1030,7 +1027,6 @@ but there are no standard ways to extract nutriment from food</i><br>
 <tr>
 <td><b>Boiled rice</b></td>
 </tr>
-</tbody>
 </table>
 
 ## Canned food
@@ -1056,6 +1052,7 @@ Food item that has a rotten variant, when the decay timer reaches more than half
 If the decay timer of a food item has exceeded its decay, then the item disappears.
 
 Thus, for example, a raw cutlet, being in a refrigerator connected to the power supply, having 15 minutes before decays, will have 120 ticks (one minute each).
+
 At the sixty-first tick, the cutlet will turn rotten. The minimum real time this will happen will be one hour minus one second (3599 seconds), the maximum time will be one hour, two minutes and one second (3721 seconds).
 
 ## What will be included later to this page (TO DO LIST)
