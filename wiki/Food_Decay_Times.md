@@ -5,6 +5,7 @@
 > <small>All tables are sortable - click the headers.</small>
 
 <table class="sortable">
+<tbody>
 <tr>
 <th width=52></th>
 <th style="background-color=#cc7000;">Product</th>
@@ -43,10 +44,10 @@
 &nbsp; &nbsp; • 1 water 1 salt and 1 sugar will react to 2 saline glucose solution<br>
 &nbsp; &nbsp; • 3 sugar and 1 water will react to 1 rum (with 5 enzyme as catalyst)<br>
 &nbsp; &nbsp; • 3 sugar and 1 juniper juice will react to 1 gin (with 5 enzyme as catalyst)<br>
-&nbsp; &nbsp; • 1 phosphorus, 1 sugar and 1 saltpeter [potassium] will react to 0.4 chemsmoke; that reaction will take all reagents from holder and they will used in created smoke<br>
-&nbsp; &nbsp; • <i>it's not a joke, but 1 sugar, 1 carbon and 1 acetone will react to 3 "" reagent (annihilated)!</i><br>
+&nbsp; &nbsp; • 1 phosphorus, 1 sugar and 1 saltpeter &#91;potassium&#93; will react to 0.4 chemsmoke; that reaction will take all reagents from holder and they will used in created smoke<br>
+&nbsp; &nbsp; • <i>it's not a joke, but 1 sugar, 1 carbon and 1 acetone will react to 3 &#8243;&#8243; reagent (annihilated)!</i><br>
 &nbsp; &nbsp; • <i>2 sugar, 3 egg yolk and 10 flour must react to sweet dough, but will annihilated; also egg yolk is unobtainable now</i><br>
-&nbsp; &nbsp; • <i>1 sugar and 1 water will not react to 2 mead (with 5 enzyme as catalyst), because inherited with another "mead" reaction from honey, that is unobtainable now</i><br>
+&nbsp; &nbsp; • <i>1 sugar and 1 water will not react to 2 mead (with 5 enzyme as catalyst), because inherited with another &#8243;mead&#8243; reaction from honey, that is unobtainable now</i><br>
 &nbsp; &nbsp; • <i>1 lemon juice, 1 sugar and 1 water will react to 3 lemonade, but lemon juice is unobtainable now</i>
 </details></small>
 </td>
@@ -408,7 +409,7 @@
 • put in liquid container to make 1 purified cotton from each 1<br>
 • weave it on loom to make 1 cloth from each 1<br>
 <small><details><summary>show/hide purified cotton reactions</summary>
-&nbsp; &nbsp; • 1 cotton and 1 saltpeter [potassium] will react to 2 nitrocellulose <b>(danger, it will explode!)</b><br>
+&nbsp; &nbsp; • 1 cotton and 1 saltpeter &#91;potassium&#93; will react to 2 nitrocellulose <b>(danger, it will explode!)</b><br>
 &nbsp; &nbsp; • 1 cotton and 1 gasoline will react to 1 napalm<br>
 </details></small>
 </td>
@@ -441,12 +442,12 @@
 <img src="assets/images/food/corcairghormberry.png">
 </td>
 <td><b>Berries</b> <small>(may contain </small><b>random</b><small> reagents) - <i>food</i> - <b>in wild only</b> - will regrow after harvesting</small><br>
-All types of berries at the beginning of the round will receive random effects and reagents according to the effects. At the same time, the names remain, i.e. "narco" berries will not necessarily contain a "drug" effect.<br><br>
+All types of berries at the beginning of the round will receive random effects and reagents according to the effects. At the same time, the names remain, i.e. &#8243;narco&#8243; berries will not necessarily contain a &#8243;drug&#8243; effect.<br><br>
 <details><summary><small>show/hide berries effects</small></summary>
 The effects <b>must</b> be <small>(but not, due errors in code)</small>:
 • <b>neutral</b> - fruit taste <small>(contains 1 nutriment) <b>+3 satisfaction</b></small><br>
 • <b>poisonous</b> - bitterness taste <small>(contains 1 nutriment and 5 amatoxin, cyanide, solanine or food poisoning) <b>+3 satisfaction</b></small><br>
-• <b>drug</b> - bitterness taste <small>(contains 1 nutriment and 5 peyote, psilocybin or mindbreaker [LSD]) <b>+3 satisfaction</b></small><br>
+• <b>drug</b> - bitterness taste <small>(contains 1 nutriment and 5 peyote, psilocybin or lysergic acid diethylamide &#91;mindbreaker or LSD&#93;) <b>+3 satisfaction</b></small><br>
 • <b>healing</b> - bitterness taste <small>(contains 1 nutriment and 5 paracetamol, penicillin, opium, cocaine or salicyclic acid) <b>+3 satisfaction</b></small><br>
 • <b>tasty</b> - sweet taste <small>(contains 1 nutriment) <b>+6 satisfaction</b></small><br>
 • <b>disgusting</b> - disguisting food taste <small>(contains 1 nutriment) <b>-6 satisfaction</b></small><br>
@@ -463,7 +464,7 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 &nbsp; &nbsp; • <b>mushroom</b> - it's poison berries with <b>amatoxin</b><br>
 &nbsp; &nbsp; • <b>fruit and mushroom</b> - it's drug berries with <b>psilocybin</b><br>
 &nbsp; &nbsp; • <b>starch</b> - it's poison berries with <b>solanine</b><br>
-&nbsp; &nbsp; • <b>fruit and sourness</b> - it's drug berries with <b>mindbreaker</b> [LSD]<br>
+&nbsp; &nbsp; • <b>fruit and sourness</b> - it's drug berries with <b>lysergic acid diethylamide</b> &#91;mindbreaker or LSD&#93;<br>
 &nbsp; &nbsp; • <b>fruit and sickness</b> - it's healing berries with <b>paracetamol</b><br>
 &nbsp; &nbsp; • <b>fruit and metallic bitterness</b> - it's healing berries with <b>cocaine</b><br>
 &nbsp; &nbsp; • <b>fruit and old rotten bandaids</b> - it's healing berries with <b>salicyclic acid</b><br><br>
@@ -479,13 +480,13 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • extract 2 times charcoal (10 units) with extraction kit and drink<br><br>
 &nbsp; &nbsp; &nbsp; &nbsp; • if you ready to heal toxins, than bite berrie <b>ONE</b> time, if you taste:<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • <b>strong flavor of fruit and the strong flavor of bitterness</b> - it's poison berries with <b>cyanide</b>. Start toxins healing right now!<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;You will recieve messages: "Your body stings slightly". Don't panic, just wait some after toxins healing.<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • <b>strong flavor of fruit and bitterness</b> and receiving messages "You feel sick..." - it's poison berries with <b>food poisoning</b>. Start toxins healing right now!<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;You may recieve messages: "Your body stings slightly". Don't panic, just wait some after toxins healing.<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;You will recieve messages: &#8243;Your body stings slightly&#8243;. Don't panic, just wait some after toxins healing.<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • <b>strong flavor of fruit and bitterness</b> and receiving messages &#8243;You feel sick...&#8243; - it's poison berries with <b>food poisoning</b>. Start toxins healing right now!<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;You may recieve messages: &#8243;Your body stings slightly&#8243;. Don't panic, just wait some after toxins healing.<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • <b>strong flavor of fruit and bitterness</b> and you eyes fills with rainbow - it's drug berries with <b>peyote</b>. Don't panic, just wait some time, when effect ends.<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • <b>fruit and the strong flavor of bitterness</b> - it's healing berries with <b>penicillin</b> or <b>opium</b>, wait some time, don't bite berrie, just wait about 3 minutes<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • if nothing happens - it's healing berries with <b>penicillin</b><br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • if your character start shivers and you began recieve messages: "You feel slightly sick" - it's healing berries with <b>opium</b><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • if your character start shivers and you began recieve messages: &#8243;You feel slightly sick&#8243; - it's healing berries with <b>opium</b><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; now just wait about 3 minutes and addiction from opium will gone
 </details>
 </td>
@@ -544,6 +545,7 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 </td>
 <td>80</td>
 </tr>
+</tbody>
 </table>
 
 > <small>Any plant, except for wild ones and mushrooms, will die if it drinks all the water, or when a snowstorm or sandstorm occurs.</small>
@@ -561,7 +563,7 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 ## Processed grown food products
 
 <table class="sortable">
-
+<tbody>
 <tr>
 <th width=52></th>
 <th style="background-color=#cc7000;">Product</th>
@@ -577,7 +579,7 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 • use cutlet with small flour sack with 5 flour in off-hand liquid container to make uncooked schnitzel<br>
 <small><details><summary>show/hide flour reactions</summary>
 &nbsp; &nbsp; • 2 flour and 2 water will react to 2 wheat beer (with 5 enzyme as catalyst)<br>
-&nbsp; &nbsp; • 5 proteins and 5 flour will produce 3 meatballs<br>
+&nbsp; &nbsp; • 5 protein and 5 flour will produce 3 meatballs<br>
 &nbsp; &nbsp; • <i>5 water and 10 flour must react to dough, but will annihilated</i><br>
 &nbsp; &nbsp; • <i>2 sugar, 3 egg yolk and 10 flour must react to sweet dough, but will annihilated; also egg yolk is unobtainable now</i>
 </details></small>
@@ -613,7 +615,7 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 • put some used yeast in jar and take it out and it will contains 50 enzyme again <small>(it's a bug too)</small><br>
 <small><details><summary>show/hide enzyme reactions</summary>
 &nbsp; &nbsp; • 10 enzyme and 1 acetone will react to 5 penicillin<br>
-&nbsp; &nbsp; • 1 enzyme and 1 diethylamine will react to 2 lysergic acid diethylamide [LCD]<br>
+&nbsp; &nbsp; • 1 enzyme and 1 diethylamine will react to 2 lysergic acid diethylamide &#91;mindbreaker or LSD&#93;<br>
 &nbsp; &nbsp; • 10 apple juice will react to 10 cider (with 5 enzyme as catalyst)<br>
 &nbsp; &nbsp; • 40 milk will produce 1 cheese wheel (with 5 enzyme as catalyst)<br>
 &nbsp; &nbsp; • 10 grape juice will react to 10 wine (with 5 enzyme as catalyst)<br>
@@ -630,56 +632,107 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 but there are no standard ways to extract nutriment from food</i><br>
 &nbsp; &nbsp; • <i>10 berry juice will react to 10 grenadine (with 5 enzyme as catalyst), but berry juice is unobtainable now</i><br>
 &nbsp; &nbsp; • <i>10 watermelon juice will react to 5 watermelon liquor (with 5 enzyme as catalyst), but watermelon juice is unobtainable now</i><br>
-&nbsp; &nbsp; • <i>1 sugar and 1 water will not react to 2 mead (with 5 enzyme as catalyst), because inherited with another "mead" reaction from honey</i><br>
-&nbsp; &nbsp; &nbsp; &nbsp; *<i>mead reaction needs 2 honey and 2 water without any enzymes, they will react to 2 mead</i>
+&nbsp; &nbsp; • <i>1 sugar and 1 water will not react to 2 mead (with 5 enzyme as catalyst), because inherited with another &#8243;mead&#8243; reaction from honey</i><br>
+&nbsp; &nbsp; &nbsp; &nbsp; *<i>&#8243;mead&#8243; reaction needs 2 honey and 2 water without any enzymes, they will react to 2 mead</i>
 </details></small>
 </td>
 <td>30</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/watermelonslice.png"></td>
-<td><b>Watermelon slice</b> <small>(contains 0.08333 nutriments) - <i>food (satisfaction +0.33333)</i></small>
+<td><b>Watermelon slice</b> <small>(contains 0.08333 nutriment) - <i>food (satisfaction +0.33333)</i></small><br>
+*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
 </td>
 <td>18</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/pumpkinslice.png"></td>
-<td><b>Pumpkin slice</b> <small>(contains 0.08333 nutriments) - <i>food (satisfaction +0.33333)</i></small>
+<td><b>Pumpkin slice</b> <small>(contains 0.08333 nutriment) - <i>food (satisfaction +0.33333)</i></small><br>
+*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
 </td>
 <td>20</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/ricepile.png"></td>
-<td><b>Rice</b> <small>(contains 2 nutriments) - <i>food (satisfaction +3)</i></small><br>
+<td><b>Rice</b> <small>(contains 2 nutriment) - <i>food (satisfaction +3)</i></small><br>
 • put in pot with water, wait when rice boil and remove it from pot before it turn to stew to obtain boiled rice
 </td>
 <td>600</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/boiledrice.png"></td>
-<td><b>Rice boiled</b> <small>(contains 3 nutriments) - <i>food (satisfaction +5)</i></small>
+<td><b>Rice boiled</b> <small>(contains 3 nutriment) - <i>food (satisfaction +5)</i></small>
+</td>
+<td>12</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/rpudding.png"></td>
+<td><b>Rice pudding</b> <small>(contains 4 nutriment) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot bake rice pudding, but it's present on some maps</i><br>
+**<i>after eating, there will stay a bowl (not wooden) that can be used on a pot of stew to get <small>(due to a bug)</small> stew in a wooden bowl</i>
 </td>
 <td>12</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/rawsticks.png"></td>
-<td><b>Potato raw sticks</b> <small>(contains 3 nutriments) - <i>food (satisfaction -2)</i></small><br>
+<td><b>Potato raw sticks</b> <small>(contains 3 nutriment) - <i>food (satisfaction -2)</i></small><br>
 • put in campfire, wood stove, stove, metal grill or oven to make fries
 </td>
 <td>27</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/fries.png"></td>
-<td><b>Potato fries</b> <small>(contains 4 nutriments) - <i>food (satisfaction +8)</i></small>
+<td><b>Potato fries</b> <small>(contains 4 nutriment) - <i>food (satisfaction +8)</i></small>
 </td>
 <td>15</td>
 </tr>
 <tr>
+<td><img src="assets/images/food/loadedbakedpotato.png"></td>
+<td><b>Loaded baked potato</b> <small>(contains 6 nutriment) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot bake loaded baked potato, but it's present on some maps</i>
+</td>
+<td>12</td>
+</tr>
+<tr>
 <td><img src="assets/images/food/leafsalad.png"></td>
-<td><b>Leaf salad</b> <small>(contains 3 nutriments) - <i>food (satisfaction +2)</i></small><br>
+<td><b>Leaf salad</b> <small>(contains 3 nutriment) - <i>food (satisfaction +2)</i></small><br>
 <i>*can be created by gorrilaman from 6 leaves of any type<small>, but if gorilla recipes loaded</small></i>
 </td>
 <td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/herbsalad.png"></td>
+<td><b>Tossed salad</b> <small>(contains 8 nutriment) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot make a tossed salad, but it's present on some maps</i>
+</td>
+<td>16</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/mint.png"></td>
+<td><b>Mint</b> <small>(contains 1 mint) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot produce mint, but it's present on some maps</i>
+</td>
+<td>20</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/tofu.png"></td>
+<td><b>Tofu</b> <small>(contains 3 nutriment) - <i>food (satisfaction +2)</i></small><br>
+*<i>you cannot produce tofu, but it's present on some maps</i>
+</td>
+<td>25</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/badrecipe.png"></td>
+<td><b>Burned mess</b> <small>(contains 1 toxin and 3 carbon) - <i>food (satisfaction -8)</i></small> <b>disgusting</b><br>
+You can obtain this if you roast on campfire, wood stove, stove, metal grill or oven:<br>
+&nbsp; • food that already roasted<br>
+&nbsp; • some soup<br>
+&nbsp; • some drink type<br>
+&nbsp; • something that is not food, not fuel, not rough diamonds, not sand, not clay, not an organ<br>
+&nbsp; • burned mess after roasting will remain burned mess <small>(but with reset decay timer, that is bug)</small><br>
+*<i><small>you can make roasted stew, because bug in code</small></i>
+</td>
+<td>18</td>
 </tr>
 </tbody>
 </table>
@@ -688,7 +741,7 @@ but there are no standard ways to extract nutriment from food</i><br>
 ## Pastries and pasta products
 
 <table class="sortable">
-
+<tbody>
 <tr>
 <th width=52></th>
 <th style="background-color=#cc7000;">Product</th>
@@ -696,7 +749,7 @@ but there are no standard ways to extract nutriment from food</i><br>
 </tr>
 <tr>
 <td><img src="assets/images/food/dough.png"></td>
-<td><b>Dough</b> <small>(contains 3 nutriments) - <i>food (satisfaction -4)</i></small><br>
+<td><b>Dough</b> <small>(contains 3 nutriment) - <i>food (satisfaction -4)</i></small><br>
 • put in campfire, wood stove, stove, metal grill or oven to make bread<br>
 • use rolling pin to make flat dough<br>
 • use something sharp to make 2-3 spaghetti<br>
@@ -706,7 +759,7 @@ but there are no standard ways to extract nutriment from food</i><br>
 </tr>
 <tr>
 <td><img src="assets/images/food/bread.png"></td>
-<td><b>Bread</b> <small>(contains 6 nutriments) - <i>food (satisfaction +4)</i></small><br>
+<td><b>Bread</b> <small>(contains 6 nutriment) - <i>food (satisfaction +4)</i></small><br>
 • slice to make 5 bread slices<br>
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i>
 </td>
@@ -714,7 +767,7 @@ but there are no standard ways to extract nutriment from food</i><br>
 </tr>
 <tr>
 <td><img src="assets/images/food/baguette.png"></td>
-<td><b>Baguette</b> <small>(contains 6 nutriments) - <i>food (satisfaction +4)</i></small><br>
+<td><b>Baguette</b> <small>(contains 6 nutriment) - <i>food (satisfaction +4)</i></small><br>
 • slice to make 5 bread slices<br>
 &nbsp; &nbsp; *<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
 *<i>you cannot bake a baguette, but it's present on some maps</i>
@@ -723,10 +776,18 @@ but there are no standard ways to extract nutriment from food</i><br>
 </tr>
 <tr>
 <td><img src="assets/images/food/breadslice.png"></td>
-<td><b>Bread slice</b> <small>(contains 1.2 nutriments) - <i>food (satisfaction +0.8)</i></small><br>
+<td><b>Bread slice</b> <small>(contains 1.2 nutriment) - <i>food (satisfaction +0.8)</i></small><br>
 • use food or a shard on it to start making a sandwich (or expand its limit)<br>
+*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
 </td>
 <td>17</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/twobread.png"></td>
+<td><b>Two bread</b> <small>(contains 2 nutriment) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot make this, it's not present on maps, but it's defined in code</i><br>
+</td>
+<td>12</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/abs_sandwich.png"></td>
@@ -742,9 +803,64 @@ but there are no standard ways to extract nutriment from food</i><br>
 <td>15</td>
 </tr>
 <tr>
+<td><img src="assets/images/food/sandwich.png"></td>
+<td><b>Sandwich</b> <small>(contains 3 nutriment and 3 protein) - <i>food (satisfaction +8)</i></small><br>
+*<i>you cannot make this sandwich, but it's present on some maps</i>
+</td>
+<td>18</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/sandwichtoasted.png"></td>
+<td><b>Sandwich toasted</b> <small>(contains 3 nutriment, 3 protein and 2 carbon) - <i>food (satisfaction +8)</i></small><br>
+*<i>you cannot make this sandwich, but it's present on some maps</i>
+</td>
+<td>18</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/sandwichtoasted.png"></td>
+<td><b>Sandwich grilled cheese</b> <small>(contains 3 nutriment and 4 protein) - <i>food (satisfaction +8)</i></small><br>
+*<i>you cannot make this sandwich, but it's present on some maps</i>
+</td>
+<td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/jellysandwich.png"></td>
+<td><b>Sandwich with jelly</b> <small>(contains 2 nutriment) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot make this sandwich, but it's present on some maps</i>
+</td>
+<td>12</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/jellysandwich.png"></td>
+<td><b>Sandwich with cherry jelly</b> <small>(contains 2 nutriment and 1 cherry jelly) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot make this sandwich, it's not present on maps, but it's defined in code</i><br>
+**<i><small>it doesn't have a defined correct name</small></i><br>
+***<i><small>it should contain 1 nutriment and 1 cherry jelly, but there is a bug in the code</small></i><br>
+</td>
+<td>12</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/error.png"></td>
+<td><b>Jellied toast</b> <small>(contains 2 nutriment) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot make a jellied toast, it's not present on maps, but it's defined in code</i><br>
+**<i><small>it doesn't have a defined correct sprite</small></i><br>
+</td>
+<td>12</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/error.png"></td>
+<td><b>Cherry jellied toast</b> <small>(contains 2 nutriment and 1 cherry jelly) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot make a cherry jellied toast, it's not present on maps, but it's defined in code</i><br>
+**<i><small>it doesn't have a defined correct sprite</small></i><br>
+***<i><small>it doesn't have a defined correct name</small></i><br>
+****<i><small>it should contain 1 nutriment and 2 cherry jelly, but there is a bug in the code</small></i><br>
+</td>
+<td>12</td>
+</tr>
+<tr>
 <td><img src="assets/images/food/dough_flat.png">
 </td>
-<td><b>Flat dough</b> <small>(contains 2 nutriments and 1 protein) - <i>food (satisfaction -3)</i></small><br>
+<td><b>Flat dough</b> <small>(contains 2 nutriment and 1 protein) - <i>food (satisfaction -3)</i></small><br>
 • put in campfire, wood stove, stove, metal grill or oven to make flatbread<br>
 • slice to make 3 dough slices<br>
 &nbsp; &nbsp; *<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i>
@@ -755,13 +871,13 @@ but there are no standard ways to extract nutriment from food</i><br>
 <tr>
 <td><img src="assets/images/food/flatbread.png">
 </td>
-<td><b>Flatbread</b> <small>(contains 3 nutriments) - <i>food (satisfaction +4)</i></small><br>
+<td><b>Flatbread</b> <small>(contains 3 nutriment) - <i>food (satisfaction +4)</i></small><br>
 </td>
 <td>25</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/dough_slice.png"></td>
-<td><b>Dough slice</b> <small>(must contains 1 nutriment, but will contains 1.66667 nutriments and 0.333333 proteins) - <i>food (satisfaction -1)</i></small><br>
+<td><b>Dough slice</b> <small>(must contains 1 nutriment, but will contains 1.66667 nutriment and 0.333333 protein) - <i>food (satisfaction -1)</i></small><br>
 • slice to make 1 spaghetti<br>
 <i><small>*we still don't know where the protein comes from</small></i><br>
 &nbsp; &nbsp; <i><small>*seriously - this is a bug, in a dough slice there should be 1/3 of the reagents from the flat dough</small></i>
@@ -770,7 +886,7 @@ but there are no standard ways to extract nutriment from food</i><br>
 </tr>
 <tr>
 <td><img src="assets/images/food/spaghetti.png"></td>
-<td><b>Spaghetti</b> <small>(it will contains 1 nutriment if sliced from dough, but will contains 2.66667 nutriments and 0.333333 proteins if sliced from dough slice due the bug in code) - <i>food (satisfaction -1 if sliced from dough slice, but +3 if sliced from dough)</i></small><br>
+<td><b>Spaghetti</b> <small>(it will contains 1 nutriment if sliced from dough, but will contains 2.66667 nutriment and 0.333333 protein if sliced from dough slice due the bug in code) - <i>food (satisfaction -1 if sliced from dough slice, but +3 if sliced from dough)</i></small><br>
 • put in pot with water, wait when spaghetti boil and remove it from pot before it turn to stew to obtain boiled spaghetti<br>
 • use something sharp to make 1-2 noodles <small>(incorrect mechanics instead of using slicing mechanics)</small><br>
 <i><small>*correct values which should be: -1 satisfaction and 1 nutrient</small></i>
@@ -779,16 +895,24 @@ but there are no standard ways to extract nutriment from food</i><br>
 </tr>
 <tr>
 <td><img src="assets/images/food/spaghettiboiled.png"></td>
-<td><b>Spaghetti boiled</b> <small>(contains 2 nutriments) - <i>food (satisfaction +5)</i></small><br>
+<td><b>Spaghetti boiled</b> <small>(contains 2 nutriment) - <i>food (satisfaction +5)</i></small><br>
 • use meatball on it to make spaghetti & meatballs<br>
 </td>
 <td>14</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/spaghettimeatballs.png"></td>
-<td><b>Spaghetti & meatballs</b> <small>(contains 4 nutriments and 4 proteins) - <i>food (satisfaction +10)</i></small><br>
+<td><b>Spaghetti & meatballs</b> <small>(contains 4 nutriment and 4 protein) - <i>food (satisfaction +10)</i></small><br>
 </td>
 <td>11</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/pastatomato.png"></td>
+<td><b>Spaghetti (pasta tomato)</b> <small>(contains 6 nutriment and 10 tomato juice) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot make a pasta tomato, but it's present on some maps</i><br>
+**<i><small>it doesn't have a defined correct name</small></i><br>
+***<i><small>it should contain 2 nutriment and 2 ketchup, but the definition is wrong in the code</small></i><br></td>
+<td>12</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/noodles.png"></td>
@@ -799,27 +923,176 @@ but there are no standard ways to extract nutriment from food</i><br>
 </tr>
 <tr>
 <td><img src="assets/images/food/ramen.png"></td>
-<td><b>Ramen</b> <small>(contains 6 nutriments, 4 proteins and 30 water) - <i>food (satisfaction +9)</i></small><br>
+<td><b>Ramen</b> <small>(contains 6 nutriment, 4 protein and 30 water) - <i>food (satisfaction +9)</i></small><br>
 • put in pot with water, wait when noodles boil and remove it from pot before it turn to stew to obtain ramen<br>
 <i><small>*it's really overpowered (it's not a bug, it's a feature © maybe, but it's not certain™ )</small></i>
 </td>
 <td>11</td>
 </tr>
 <tr>
+<td><img src="assets/images/food/gyro.png"></td>
+<td><b>Gyro</b> <small>(contains 6 nutriment) - <i>food (satisfaction +10)</i></small><br>
+*<i>you cannot make a gyro, but it's present on some maps</i>
+</td>
+<td>15</td>
+</tr>
+<tr>
 <td><img src="assets/images/food/hardtack.png"></td>
-<td><b>Hardtack</b> <small>(contains 2 nutriments) - <i>food (satisfaction +1)</i></small><br>
+<td><b>Hardtack</b> <small>(contains 2 nutriment) - <i>food (satisfaction +1)</i></small><br>
 *<i>you cannot bake a hardtack, but it's present on some maps</i>
 </td>
 <td>-</td>
 </tr>
 <tr>
+<td><img src="assets/images/food/poppypretzel.png"></td>
+<td><b>Poppy pretzel</b> <small>(contains 5 nutriment) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot bake a poppy pretzel, but it's present on some maps</i>
+</td>
+<td>35</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/meatpie.png"></td>
+<td><b>Meat-pie</b> <small>(contains 10 protein) - <i>food (satisfaction 0)</i> <b>non vegetarian</b></small><br>
+*<i>you cannot bake a meat-pie, but it's present on some maps</i><br>
+</td>
+<td>20</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/meatbread.png"></td>
+<td><b>Meatbread loaf</b> <small>(contains 10 nutriment and 20 protein) - <i>food (satisfaction 0)</i> <b>non vegetarian</b></small><br>
+• slice to make 5 meatbread slices<br>
+&nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
+*<i>you cannot bake a meatbread loaf, but it's present on some maps</i>
+</td>
+<td>17</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/meatbreadslice.png"></td>
+<td><b>Meatbread slice</b> <small>(contains 2 nutriment and 4 protein) - <i>food (satisfaction 0)</i> <b>non vegetarian</b></small><br>
+*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
+</td>
+<td>17</td>
+</tr>
+</tbody>
+</table>
+
+### Cakes, pies and sweet pastry
+
+<table class="sortable">
+<tbody>
+<tr>
+<th width=52></th>
+<th style="background-color=#cc7000;">Product</th>
+<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
+</tr>
+<tr>
+<td><img src="assets/images/food/bananabread.png"></td>
+<td><b>Banana-nut bread</b> <small>(contains 10 nutriment and 20 banana juice) - <i>food (satisfaction 0)</i></small><br>
+• slice to make 5 banana-nut bread slices<br>
+&nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
+*<i>you cannot bake a banan-nut bread, but it's present on some maps</i>
+</td>
+<td>17</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/bananabreadslice.png"></td>
+<td><b>Banana-nut bread slice </b> <small>(contains 2 nutriment and 4 banana juice) - <i>food (satisfaction 0)</i></small><br>
+*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
+</td>
+<td>17</td>
+</tr>
+<tr>
 <td><img src="assets/images/food/cookie.png"></td>
-<td><b>Cookie</b> <small>(contains 5 nutriments) - <i>food (satisfaction 0)</i></small><br>
+<td><b>Cookie</b> <small>(contains 5 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot bake a cookie, but it's present on some maps</i>
 </td>
 <td>45</td>
 </tr>
-
+<tr>
+<td><img src="assets/images/food/muffin.png"></td>
+<td><b>Muffin</b> <small>(contains 6 nutriment) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot bake a muffin, but it's present on some maps</i><br>
+</td>
+<td>25</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/waffles.png"></td>
+<td><b>Waffles</b> <small>(contains 6 nutriment) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot bake a waffles, but it's present on some maps</i><br>
+</td>
+<td>18</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/sweetroll.png"></td>
+<td><b>Sweet roll</b> <small>(contains 4 nutriment) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot bake a sweet roll, but it's present on some maps</i>
+</td>
+<td>18</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/applepie.png"></td>
+<td><b>Apple pie</b> <small>(contains 4 nutriment) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot bake an apple pie, but it's present on some maps</i><br>
+</td>
+<td>18</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/cherrypie.png"></td>
+<td><b>Cherry pie</b> <small>(contains 4 nutriment) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot bake a cherry pie, but it's present on some maps</i><br>
+</td>
+<td>18</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/gappletart.png"></td>
+<td><b>Golden apple streusel tart</b> <small>(contains 8 nutriment and 5 gold) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot bake a golden apple streusel tart, but it's present on some maps</i><br>
+</td>
+<td>16</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/plaincake.png"></td>
+<td><b>Tofu-pie</b> <small>(contains 10 nutriment) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot bake a tofu-pie, but it's present on some maps</i><br>
+**<i>cannot be sliced</i>
+</td>
+<td>25</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/carrotcake.png"></td>
+<td><b>Carrot cake</b> <small>(contains 25 nutriment and 10 imidazoline) - <i>food (satisfaction 0)</i></small><br>
+• slice to make 5 carrot cake slices<br>
+&nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
+*<i>you cannot bake a carrot cake, but it's contains in german dessert ration</i><br>
+</td>
+<td>17</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/carrotcake_slice.png"></td>
+<td><b>Carrot cake slice</b> <small>(contains 5 nutriment and 2 imidazoline) - <i>food (satisfaction 0)</i></small><br>
+*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
+</td>
+<td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/cheesecake.png"></td>
+<td><b>Cheesecake</b> <small>(contains 10 nutriment and 15 protein) - <i>food (satisfaction 0)</i></small><br>
+• slice to make 5 cheese cake slices<br>
+&nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
+*<i>you cannot bake a cheesecake, but it's slices presents on some maps</i><br>
+*<i><small>cheese cake - typo in code</small></i><br>
+</td>
+<td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/cheesecake_slice.png"></td>
+<td><b>Cheesecake slice</b> <small>(contains 2 nutriment and 3 protein) - <i>food (satisfaction 0)</i></small><br>
+*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i><br>
+**<i><small>cheese cake slice - typo in code</small></i><br>
+</td>
+<td>15</td>
+</tr>
+</tbody>
 </table>
 
 ### Pizza
@@ -895,7 +1168,7 @@ but there are no standard ways to extract nutriment from food</i><br>
 ## Meat products
 
 <table class="sortable">
-
+<tbody>
 <tr>
 <th width=52></th>
 <th style="background-color=#cc7000;">Product</th>
@@ -931,13 +1204,13 @@ but there are no standard ways to extract nutriment from food</i><br>
 <td>-</td>
 <td></td>
 </tr>
-
+</tbody>
 </table>
 
 ## Seafood
 
 <table class="sortable">
-
+<tbody>
 <tr>
 <th width=52></th>
 <th style="background-color=#cc7000;">Product</th>
@@ -980,13 +1253,13 @@ but there are no standard ways to extract nutriment from food</i><br>
 <td>-</td>
 <td></td>
 </tr>
-
+</tbody>
 </table>
 
 ## Other products
 
 <table class="sortable">
-
+<tbody>
 <tr>
 <th style="background-color=#cc7000;">Product</th>
 <th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
@@ -995,13 +1268,13 @@ but there are no standard ways to extract nutriment from food</i><br>
 <td><b>Eggs</b></td>
 <td>90</td>
 </tr>
-
+</tbody>
 </table>
 
 ## Ingredients
 
 <table class="sortable">
-
+<tbody>
 <tr>
 <th style="background-color=#cc7000;">Product</th>
 <th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
@@ -1010,12 +1283,13 @@ but there are no standard ways to extract nutriment from food</i><br>
 <td><b>Dough</b></td>
 <td>25</td>
 </tr>
-
+</tbody>
 </table>
 
 ## Dishes
 
 <table class="sortable">
+<tbody>
 <tr>
 <th style="background-color=#cc7000;">Product</th>
 <th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
@@ -1027,6 +1301,7 @@ but there are no standard ways to extract nutriment from food</i><br>
 <tr>
 <td><b>Boiled rice</b></td>
 </tr>
+</tbody>
 </table>
 
 ## Canned food
