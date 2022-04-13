@@ -548,17 +548,15 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 </tbody>
 </table>
 
-> <small>Any plant, except for wild ones and mushrooms, will die if it drinks all the water, or when a snowstorm or sandstorm occurs.</small>
+• Any plant, except for wild ones and mushrooms, will die if it drinks all the water, or when a snowstorm or sandstorm occurs.
 
-> <small>Grain can be fed to herbivores: deer, reindeer, elk, dik-diks, cows, goats, sheep, camels and ... mammoths and ... (drum roll) pachycephalosaurs (ba-dum-s-s!).</small>
+• Grain can be fed to herbivores: deer, reindeer, elk, dik-diks, cows, goats, sheep, camels and ... mammoths and ... (drum roll) pachycephalosaurs (ba-dum-s-s!).
 
-> <small>Seeds can be fed to granivorous: parrots, chickens, turkeys, geese, pelicans, gulls, crows, pigs, wild boars, monkeys, mice, rabbits, gorillas, gigantopithecus, mammoths, pachycephalosaurs. Oviparous will adds the amount of eggs from seed feeding, i.e. it mean that oviparous will not lay eggs if not feeded with seeds.</small>
+• Seeds can be fed to granivorous: parrots, chickens, turkeys, geese, pelicans, gulls, crows, pigs, wild boars, monkeys, mice, rabbits, gorillas, gigantopithecus, mammoths, pachycephalosaurs. 
 
-> <small>Oviparous can eat seeds from the floor on their own, but this will not add to the number of eggs (bug). Initially, each egg laying female has an egg count of 5. The maximum value of the egg counter is currently 5. If the egg counter drops to zero, then when feeding with seeds, the counter will not increase. This is a bug in the code.</small>
+• Oviparous will adds the amount of eggs from seed feeding, i.e. it mean that oviparous will not lay eggs if not feeded with seeds. More about an egg see below, in the egg related products section.
 
-> <small>At this moment, only two egg-laying birds have been implemented: turkeys and chickens. These birds are supposed to lay eggs every 120 seconds, but this is not happening due to a bug. If there is at least one conscious male in area 3 (not a 3x3 area, but a diamond-shaped area 7 wide and 7 high), and there are less than 6 birds in total in this area, not counting males, then a new egg will be fertilized and from it in 2000 seconds can hatch a chick, provided that on the whole map there are no more than 35 of them for turkeys and 50 for chickens.</small>
-
-> <small>To maximize the amount of fuel in a bloomery, furnace (not iron furnace), or oven, add items one at a time for the following stack items: leaves, dry dung.</small>
+• To maximize the amount of fuel in a bloomery, furnace (not iron furnace), or oven, add items one at a time for the following stack items: leaves, dry dung. <small>It some sort of bug.</small>
 
 ## Processed grown food products
 
@@ -639,6 +637,34 @@ but there are no standard ways to extract nutriment from food</i><br>
 <td>30</td>
 </tr>
 <tr>
+<td><img src="assets/images/food/cheesewheel.png"></td>
+<td><b>Cheese wheel</b> <small>(contains 10 nutriment and 10 protein) - <i>food (satisfaction +4)</i> <b>non vegetarian</b></small><br>
+• 40 milk will produce 1 cheese wheel (with 5 enzyme as catalyst)<br>
+• 5 enzyme will stay in liquid container, so you may use it again and again<br>
+• slice to make 5 cheese wedges<br>
+&nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i>
+*<i><small>marked as non vegetarian, but this is not vegan (it's not implemented in code)</small></i><br>
+**<i><small>it's must be with satisfaction +15 for correct slicing</small></i>
+</td>
+<td>70</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/cheesewedge.png"></td>
+<td><b>Cheese wedge</b> <small>(contains 2 nutriment and 2 protein) - <i>food (satisfaction +0.8 or +3 if pre-mapped)</i></small><br>
+*<i>wedge not marked as non vegetarian</i><br>
+**<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i><br>
+***<i><small>pre-mapped will be with satisfaction +3 (correct), sliced will be with satisfaction +0.8 (incorrect)</small></i>
+</td>
+<td>50</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/tofu.png"></td>
+<td><b>Tofu</b> <small>(contains 3 nutriment) - <i>food (satisfaction +2)</i></small><br>
+*<i>you cannot produce tofu, but it's present on some maps</i>
+</td>
+<td>25</td>
+</tr>
+<tr>
 <td><img src="assets/images/food/watermelonslice.png"></td>
 <td><b>Watermelon slice</b> <small>(contains 0.08333 nutriment) - <i>food (satisfaction +0.33333)</i></small><br>
 *<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
@@ -715,11 +741,27 @@ but there are no standard ways to extract nutriment from food</i><br>
 <td>20</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/tofu.png"></td>
-<td><b>Tofu</b> <small>(contains 3 nutriment) - <i>food (satisfaction +2)</i></small><br>
-*<i>you cannot produce tofu, but it's present on some maps</i>
+<td><img src="assets/images/food/picklejar.png"></td>
+<td><b>Pickle jar</b> <small>(contains 14 pickles) - <i>pickles storage</i></small><br>
+*<i>pickles in a jar will decay as in container (two times longer)</i><br>
+**<i>you cannot obtain pickle jar, but it's present on some maps</i>
 </td>
-<td>25</td>
+<td>-</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/pickle.png"></td>
+<td><b>Pickle</b> <small>(contains 1 nutriment) - <i>food (satisfaction +4)</i></small><br>
+• take them from pickle jar<br>
+</td>
+<td>250</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/pickleb.png"></td>
+<td><b>Pickle big</b> <small>(contains 5 nutriment) - <i>food (satisfaction +4)</i></small><br>
+*<i>you cannot obtain a big pickle, but it's present on some maps</i><br>
+**<i><small>it must have satisfaction +20</small></i>
+</td>
+<td>250</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/badrecipe.png"></td>
@@ -843,7 +885,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td><img src="assets/images/food/error.png"></td>
 <td><b>Jellied toast</b> <small>(contains 2 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot make a jellied toast, it's not present on maps, but it's defined in code</i><br>
-**<i><small>it doesn't have a defined correct sprite</small></i><br>
+**<i><small>it doesn't have a defined correct sprite</small></i>
 </td>
 <td>12</td>
 </tr>
@@ -853,7 +895,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 *<i>you cannot make a cherry jellied toast, it's not present on maps, but it's defined in code</i><br>
 **<i><small>it doesn't have a defined correct sprite</small></i><br>
 ***<i><small>it doesn't have a defined correct name</small></i><br>
-****<i><small>it should contain 1 nutriment and 2 cherry jelly, but there is a bug in the code</small></i><br>
+****<i><small>it should contain 1 nutriment and 2 cherry jelly, but there is a bug in the code</small></i>
 </td>
 <td>12</td>
 </tr>
@@ -885,6 +927,14 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>25</td>
 </tr>
 <tr>
+<td><img src="assets/images/food/bun.png"></td>
+<td><b>Bun</b> <small>(contains 4 nutriment) - <i>food (satisfaction +3)</i></small><br>
+• use a sausage on it to make a hot dog<br>
+*<i>you cannot bake a bun, but it's present on some maps</i>
+</td>
+<td>25</td>
+</tr>
+<tr>
 <td><img src="assets/images/food/spaghetti.png"></td>
 <td><b>Spaghetti</b> <small>(it will contains 1 nutriment if sliced from dough, but will contains 2.66667 nutriment and 0.333333 protein if sliced from dough slice due the bug in code) - <i>food (satisfaction -1 if sliced from dough slice, but +3 if sliced from dough)</i></small><br>
 • put in pot with water, wait when spaghetti boil and remove it from pot before it turn to stew to obtain boiled spaghetti<br>
@@ -903,6 +953,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <tr>
 <td><img src="assets/images/food/spaghettimeatballs.png"></td>
 <td><b>Spaghetti & meatballs</b> <small>(contains 4 nutriment and 4 protein) - <i>food (satisfaction +10)</i></small><br>
+<i><small>*don't marked as non vegetarian, and this is bug</small></i>
 </td>
 <td>11</td>
 </tr>
@@ -944,6 +995,13 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>-</td>
 </tr>
 <tr>
+<td><img src="assets/images/food/cracker.png"></td>
+<td><b>Cracker</b> <small>(contains 1 nutriment) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot bake a cracker, but it's present on some maps</i>
+</td>
+<td>80</td>
+</tr>
+<tr>
 <td><img src="assets/images/food/poppypretzel.png"></td>
 <td><b>Poppy pretzel</b> <small>(contains 5 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot bake a poppy pretzel, but it's present on some maps</i>
@@ -972,6 +1030,26 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 *<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
 </td>
 <td>17</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/creamcheesebread.png"></td>
+<td><b>Cream cheese bread</b> <small>(contains 5 nutriment and 15 protein) - <i>food (satisfaction 0)</i> <b>non vegetarian</b></small><br>
+• slice to make 5 cream cheese bread slices<br>
+&nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
+*<i>you cannot bake a cream cheese bread loaf, but its slices present on some maps</i><br>
+**<i><small>cream Cheese Bread - typo in code</small></i><br>
+***<i><small>marked as non vegetarian, but this is not vegan (it's not implemented in code)</small></i><br>
+</td>
+<td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/creamcheesebreadslice.png"></td>
+<td><b>Cream cheese bread slice</b> <small>(contains 1 nutriment and 3 protein) - <i>food (satisfaction 0)</i></small><br>
+*<i>slice not marked as non vegetarian</i><br>
+**<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i><br>
+***<i><small>cream Cheese Bread slice - typo in code</small></i>
+</td>
+<td>15</td>
 </tr>
 </tbody>
 </table>
@@ -1077,10 +1155,10 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <tr>
 <td><img src="assets/images/food/cheesecake.png"></td>
 <td><b>Cheesecake</b> <small>(contains 10 nutriment and 15 protein) - <i>food (satisfaction 0)</i></small><br>
-• slice to make 5 cheese cake slices<br>
+• slice to make 5 cheesecake slices<br>
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
-*<i>you cannot bake a cheesecake, but it's slices presents on some maps</i><br>
-*<i><small>cheese cake - typo in code</small></i><br>
+*<i>you cannot bake a cheesecake, but its slices presents on some maps</i><br>
+**<i><small>cheese cake - typo in code</small></i><br>
 </td>
 <td>15</td>
 </tr>
@@ -1089,6 +1167,118 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td><b>Cheesecake slice</b> <small>(contains 2 nutriment and 3 protein) - <i>food (satisfaction 0)</i></small><br>
 *<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i><br>
 **<i><small>cheese cake slice - typo in code</small></i><br>
+</td>
+<td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/plaincake.png"></td>
+<td><b>Vanilla cake</b> <small>(contains 20 nutriment) - <i>food (satisfaction 0)</i></small><br>
+• slice to make 5 vanilla cake slices<br>
+&nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
+*<i>you cannot bake a vanilla cake, but it's presents on some maps</i><br>
+</td>
+<td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/plaincake_slice.png"></td>
+<td><b>Vanilla cake slice</b> <small>(contains 4 nutriment) - <i>food (satisfaction 0)</i></small><br>
+*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i><br>
+</td>
+<td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/orangecake.png"></td>
+<td><b>Orange cake</b> <small>(contains 20 nutriment) - <i>food (satisfaction 0)</i></small><br>
+• slice to make 5 orange cake slices<br>
+&nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
+*<i>you cannot bake a orange cake, it's not presents on maps, but defined in code</i><br>
+</td>
+<td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/orangecake_slice.png"></td>
+<td><b>Orange cake slice</b> <small>(contains 4 nutriment) - <i>food (satisfaction 0)</i></small><br>
+*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i><br>
+</td>
+<td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/lemoncake.png"></td>
+<td><b>Lemon cake</b> <small>(contains 20 nutriment) - <i>food (satisfaction 0)</i></small><br>
+• slice to make 5 lemon cake slices<br>
+&nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
+*<i>you cannot bake a lemon cake, but it's presents on some maps</i><br>
+</td>
+<td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/lemoncake_slice.png"></td>
+<td><b>Lemon cake slice</b> <small>(contains 4 nutriment) - <i>food (satisfaction 0)</i></small><br>
+*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i><br>
+</td>
+<td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/limecake.png"></td>
+<td><b>Lime cake</b> <small>(contains 20 nutriment) - <i>food (satisfaction 0)</i></small><br>
+• slice to make 5 lime cake slices<br>
+&nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
+*<i>you cannot bake a lime cake, but it's presents on some maps</i><br>
+</td>
+<td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/limecake_slice.png"></td>
+<td><b>Lime cake slice</b> <small>(contains 4 nutriment) - <i>food (satisfaction 0)</i></small><br>
+*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i><br>
+</td>
+<td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/chocolatecake.png"></td>
+<td><b>Chocolate cake</b> <small>(contains 20 nutriment) - <i>food (satisfaction 0)</i></small><br>
+• slice to make 5 chocolate cake slices<br>
+&nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
+*<i>you cannot bake a chocolate cake, but it's presents on some maps</i><br>
+</td>
+<td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/chocolatecake_slice.png"></td>
+<td><b>Chocolate cake slice</b> <small>(contains 4 nutriment) - <i>food (satisfaction 0)</i></small><br>
+*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i><br>
+</td>
+<td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/applecake.png"></td>
+<td><b>Apple cake</b> <small>(contains 15 nutriment) - <i>food (satisfaction 0)</i></small><br>
+• slice to make 5 apple cake slices<br>
+&nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
+*<i>you cannot bake a apple cake, but it's presents on some maps</i><br>
+</td>
+<td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/applecake_slice.png"></td>
+<td><b>Apple cake slice</b> <small>(contains 3 nutriment) - <i>food (satisfaction 0)</i></small><br>
+*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i><br>
+</td>
+<td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/pumpkinpie.png"></td>
+<td><b>Pumpkin pie</b> <small>(contains 15 nutriment) - <i>food (satisfaction 0)</i></small><br>
+• slice to make 5 pumpkin pie slices<br>
+&nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
+*<i>you cannot bake a pumpkin pie, but it's presents on some maps</i><br>
+</td>
+<td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/pumpkinpie_slice.png"></td>
+<td><b>Pumpkin pie slice</b> <small>(contains 3 nutriment) - <i>food (satisfaction 0)</i></small><br>
+*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i><br>
 </td>
 <td>15</td>
 </tr>
@@ -1161,9 +1351,67 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 </tbody>
 </table>
 
-<br><br><table><tr><td>
-<img src="assets/images/icons/guides.png" height=128></td><td><i><b>after this point the page is under construction and may contain inaccuracies!!!</b></i></td>
-</tr></table>
+## Egg related products
+
+<table class="sortable">
+<tbody>
+<tr>
+<th width=52></th>
+<th style="background-color=#cc7000;">Product</th>
+<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
+</tr>
+<tr>
+<td><img src="assets/images/food/error.png"></td>
+<td><b>Egg box</b> <small>(contains 12 eggs) - <i>eggs storage</i></small><br>
+• can contain boiled eggs, if you place it inside<br>
+*<i>eggs in a box will decay as in container (two times longer)</i><br>
+**<i>you cannot obtain egg box, it's not present on maps, but defined in code</i><br>
+***<i><small>can't contain turkey eggs</small></i><br>
+****<i><small>sprite thats defined to it absent in icon file</small></i><br>
+</td>
+<td>-</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/egg.png"></td>
+<td><b>Egg</b> <small>(contains 2 nutriment) - <i>food (satisfaction +4)</i> <b>non vegetarian</b></small><br>
+• using egg on liquid container will transfer reagents to container <small>(2 nutriments)</small><br>
+*<i>tip: eggs for now is a way to make moonshine <small>(at least until nutriment reagent is corrected into egg yolk reagent in egg contains)</small><br>
+**<i>thrown eggs will break and leave behind a broken egg on the floor</i><br>
+***<i>you can throw eggs at humans</i><br>
+****<i><small>egg don't contains egg yolk</small></i>
+</td>
+<td>90</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/egg_turkey.png"></td>
+<td><b>Egg turkey</b> <small>(contains 2 nutriment) - <i>food (satisfaction +2)</i></small><br>
+• at the moment, everything is the same as the chicken egg, except for the satisfaction (+2 instead of +4) and the hatching of a turkey instead of a chick<br>
+</td>
+<td>90</td>
+</tr>
+</tbody>
+</table>
+
+• Oviparous can eat seeds from the floor on their own, but this will not add to the number of eggs <small>(bug)</small>. Initially, each egg laying female has an egg count of 5. The maximum value of the egg counter is currently 5. If the egg counter drops to zero, then when feeding with seeds, the counter will not increase. <small>This is a bug in the code.</small>
+
+• At this moment, only two egg-laying birds have been implemented: turkeys and chickens. These birds are supposed to lay eggs every 120 seconds<small>, but this is not happening due to a bug</small>.
+
+• If there is at least one conscious male in area 3 (not a 3x3 area, but a diamond-shaped area 7 wide and 7 high), and there are less than 6 birds in total in this area, not counting males, then a new egg will be fertilized and from it in 2000 seconds can hatch a chick <small>(if you do not pick it up, because of this, the growth process will may stop)</small>, provided that on the whole map there are no more than 35 of them for turkeys and 50 for chickens.
+
+
+
+
+
+<table>
+<tr>
+<td>
+<img src="assets/images/icons/guides.png" height=128>
+</td>
+<td>
+<i><b>after this point the page is under construction and may contain inaccuracies!!!</b></i>
+</td>
+</tr>
+</table>
 
 ## Meat products
 
