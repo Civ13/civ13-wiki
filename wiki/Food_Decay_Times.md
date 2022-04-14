@@ -2,8 +2,15 @@
 
 ## Grown products details
 
-> <small>All tables are sortable - click the headers.</small>
-
+<table>
+<tr>
+<td width=52><img src="assets/images/icons/character_s.png" width=32 height=32></td>
+<td>
+All tables are sortable - click the headers.
+</td>
+</tr>
+</table>
+<br>
 <table class="sortable">
 <tbody>
 <tr>
@@ -290,10 +297,10 @@
 <small><details><summary>show/hide corn oil reactions</summary>
 &nbsp; &nbsp; • 3 corn oil and 1 sulphuric acid will react to 3 glycerol<br>
 &nbsp; &nbsp; • 3 corn oil and 1 hydrochloric acid will react to 3 glycerol<br>
-<i>*1 glycerol with 1 saltpeter will react to 2 nitroglycerin<br>
-** 2 nitroglycerin can be filled to empty dynamite stick to make filled dynamite stick<br>
-*** attach rope to filled dynamite stick to make finished dynamite stick<br>
-**** empty dynamite stick is made from wood</i>
+*<i>1 glycerol with 1 saltpeter will react to 2 nitroglycerin</i><br>
+**<i>2 nitroglycerin can be filled to empty dynamite stick to make filled dynamite stick</i><br>
+***<i>attach rope to filled dynamite stick to make finished dynamite stick</i><br>
+****<i>empty dynamite stick is made from wood</i>
 </details></small>
 </td>
 <td>10</td>
@@ -302,8 +309,8 @@
 <td><img src="assets/images/food/juniper_berry.png"></td>
 <td><b>Juniper</b> <small>(contains 5 juniper nutriment and 1 nutriment) - <i>food (satisfaction 0)</i> - <b>tundra • taiga • temperate</b> - will grow at all seasons</small><br>
 • put in liquid container to make 6 juniper juice<br>
-<i>*juniper nutriment is a nutriment that has 2% nutriment factor compared to the common nutriment. Thus, 1 juniper berry is 1.1 times more nutritious than one potato.<br>
-**juniper juice is not a drink, but nutriment that has a 3% nutritional factor compared to regular nutriment. Thus, 6 juniper juice crushed into liquid container, when consumed, will provide 0.18 nutrients compared to one potato.</i>
+*<i>juniper nutriment is a nutriment that has 2% nutriment factor compared to the common nutriment. Thus, 1 juniper berry is 1.1 times more nutritious than one potato.</i><br>
+**<i>juniper juice is not a drink, but nutriment that has a 3% nutritional factor compared to regular nutriment. Thus, 6 juniper juice crushed into liquid container, when consumed, will provide 0.18 nutrients compared to one potato.</i><br>
 <small><details><summary>show/hide juniper juice reactions</summary>
 &nbsp; &nbsp; • 1 juniper juice and 3 sugar will react to 1 gin (with 5 enzyme as catalyst)
 </details></small>
@@ -324,18 +331,18 @@
 <td><img src="assets/images/food/chinchona_inhand.png"></td>
 <td><b>Chinchona</b> <small>(contains 10 quinine) - <i>food (satisfaction 0)</i> - <b>in wild only</b> - will regrow after harvesting (300 seconds)</small><br>
 • put in liquid container to make 10 quinine<br>
-<i>*has no seeds<br>
-**can be harvested from the wild or taken from pot with trowel<br><img src="assets/images/chinchona.png"><img src="assets/images/flora/chinchona_pot.png"><img src="assets/images/flora/chinchona_pot2.png"><img src="assets/images/tools/trowel.png"><br>
-***can be planted in a pot for later use (but it's more efficient to store quinine as a drink since it can't be grown but only collected in nature)<br>
-****quinine - a drink that treat malaria, quinine also relieves drowsiness and reduces body temperature to 36.9 degrees</i></td>
+*<i>has no seeds</i><br>
+**<i>can be harvested from the wild or taken from pot with trowel<br><img src="assets/images/chinchona.png"><img src="assets/images/flora/chinchona_pot.png"><img src="assets/images/flora/chinchona_pot2.png"><img src="assets/images/tools/trowel.png"></i><br>
+***<i>can be planted in a pot for later use (but it's more efficient to store quinine as a drink since it can't be grown but only collected in nature)</i><br>
+****<i>quinine - a drink that treat malaria, quinine also relieves drowsiness and reduces body temperature to 36.9 degrees</i></td>
 <td>70</td>
 </tr>
 <tr>
 <td><img src="assets/images/healing_herbs.png"></td>
 <td><b>Healing herbs</b> <small>(not a reagent container) - <i>stackable item</i> - <b>temperate • semi-arid • sea • jungle</b> - will grow at all seasons</small><br>
 • use them on wounds to disinfect, salving and heal brute damage
-<i><br><img src="assets/images/flora/junglebush6.png"><img src="assets/images/flora/junglebush1.png"><img src="assets/images/flora/junglebush16.png"> <img src="assets/images/tools/boneknife.png"> *can be collected from jungle bushes (small vegetation) with knife with 25% chance (new will re-grow after 300 seconds)<br><img src="assets/images/dirt_ploughed.png"><img src="assets/images/flora/herbs-harvest.png">has no seeds, just plant them in ploughed field<br>
-</i></td>
+<br><img src="assets/images/flora/junglebush6.png"><img src="assets/images/flora/junglebush1.png"><img src="assets/images/flora/junglebush16.png"> <img src="assets/images/tools/boneknife.png"> *<i>can be collected from jungle bushes (small vegetation) with knife with 25% chance (new will re-grow after 300 seconds)</i><br><img src="assets/images/dirt_ploughed.png"><img src="assets/images/flora/herbs-harvest.png">**<i>has no seeds, just plant them in ploughed field</i>
+</td>
 <td>-</td>
 </tr>
 <tr>
@@ -419,7 +426,7 @@
 <td><img src="assets/images/stacks/wood.png"></td>
 <td><b>Wooden plank</b> <small>(not a reagent container) - <i>stackable material</i> - <b>any biome</b> - not grow at winter</small><br>
 • wood is a multi-purpose crafting material, also may be used as fuel<br>
-<i>*can be obtained not only from logging, but also when grown from tree seeds</i>
+*<i>can be obtained not only from logging, but also when grown from tree seeds</i>
 </td>
 <td>-</td>
 </tr>
@@ -452,14 +459,14 @@ The effects <b>must</b> be <small>(but not, due errors in code)</small>:
 • <b>tasty</b> - sweet taste <small>(contains 1 nutriment) <b>+6 satisfaction</b></small><br>
 • <b>disgusting</b> - disguisting food taste <small>(contains 1 nutriment) <b>-6 satisfaction</b></small><br>
 </details><br>
-<i>*berries can be harvested from bushes in wild by hand with GRAB intent <small>(exclude red ones on some maps, because of error in map)</small></i><br>
+*<i>berries can be harvested from bushes in wild by hand with GRAB intent <small>(exclude red ones on some maps, because of error in map)</small></i><br>
 <img src="assets/images/flora/tintobush.png"><img src="assets/images/flora/azulbush.png"><img src="assets/images/flora/amarbush.png"><img src="assets/images/flora/majobush.png"><img src="assets/images/flora/narcobush.png"><img src="assets/images/flora/zelenyybush.png"><img src="assets/images/flora/marronbush.png"><img src="assets/images/flora/corcairghormbush.png"><br>
-<i>**new berries will regrow in 300 seconds</i><br>
-<i>***if you use a berry gatherer <img src="assets/images/tools/berriesgatherer.png">(made from wood), you will pick two berries at once</i><br>
-<i>****berries hase no seeds and can't be cultivated for now</i><br>
+**<i>new berries will regrow in 300 seconds</i><br>
+***<i>if you use a berry gatherer <img src="assets/images/tools/berriesgatherer.png">(made from wood), you will pick two berries at once</i><br>
+****<i>berries hase no seeds and can't be cultivated for now</i><br>
 <br>
 <details><summary><small>show/hide how to identify berries</small></summary>
-<i>This one works like this now due to bugs in the code.</i><br>
+<i><b>This one works like this now due to current bugs in the code.</b></i><br>
 Take a berry in your hand and use the smell verb. If it smell:<br>
 &nbsp; &nbsp; • <b>mushroom</b> - it's poison berries with <b>amatoxin</b><br>
 &nbsp; &nbsp; • <b>fruit and mushroom</b> - it's drug berries with <b>psilocybin</b><br>
@@ -501,17 +508,17 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 • 3 leaves are obtained by cutting down trees (2 from acacia, 6 from jungle tree)<br>
 • 3 leaves are obtained from a hand attack with the intent GRAB on an unpeeled tree branch<br>
 • each tree usually has 3 branches, they can be obtained one by one from the tree with a hand attack with the intent HARM on the tree<br>
-&nbsp; &nbsp; <i>*the new branch will re-grow 1200 seconds after breaking off the branch</i><br>
-&nbsp; &nbsp; <i>**branches from dead trees will be broken off from a tree without leaves</i><br>
+&nbsp; &nbsp; *<i>the new branch will re-grow 1200 seconds after breaking off the branch</i><br>
+&nbsp; &nbsp; **<i>branches from dead trees will be broken off from a tree without leaves</i><br>
 • for a gorillamens, 2 leaves are obtained when attacking with a hand with the intention of GRAB on a tree or some bushes<br>
-&nbsp; &nbsp; <i>*this will work not for all trees, but if it work gorillaman may try to pick also some bunches</i><br>
+&nbsp; &nbsp; *<i>this will work not for all trees, but if it work gorillaman may try to pick also some bunches</i><br>
 </details>
 • leaves are material for crafting clothes from leaves, thatch roofing and can be used as fuel<br>
-&nbsp; &nbsp; <i>*to craft gold laurel crown you must to hold 1 gold in your other hand, <small>but gold laurel crown will still be craftable without gold due to the error in code</small></i><br>
-&nbsp; &nbsp; &nbsp; &nbsp; <i>**<small>if you are holding gold in your other hand, when creating a gold laurel crown, gold will be used to craft</small></i><br>
+&nbsp; &nbsp; *<i>to craft gold laurel crown you must to hold 1 gold in your other hand, <small>but gold laurel crown will still be craftable without gold due to the error in code</small></i><br>
+&nbsp; &nbsp; &nbsp; &nbsp; **<i><small>if you are holding gold in your other hand, when creating a gold laurel crown, gold will be used to craft</small></i><br>
 • leaves of all types can be attached to <b>Mk2 Brodie Helmet</b> (twice) or to <b>Mk2 Brodie Helmet with netting</b> (once) - all stack will be used for that <small>(maybe it's a bug and will be fixed in future)</small><br>
-<i>*<small>due to the fact that it is a stackable material, the decay time counter is applied on each newly created stack, when merging/splitting the decay counters are not aligned to the average value</small></i><br>
-<i>**<small>gorillaman able to craft leaf salad from 6 leaves, but if gorilla recipes are loaded</small></i>
+*<i><small>due to the fact that it is a stackable material, the decay time counter is applied on each newly created stack, when merging/splitting the decay counters are not aligned to the average value</small></i><br>
+**<i><small>gorillaman able to craft leaf salad from 6 leaves, but if gorilla recipes are loaded</small></i>
 </td>
 <td>80</td>
 </tr>
@@ -522,11 +529,11 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 <td><b>Palm leaves</b> <small>(not a reagent container) - <i>stackable material</i> - <b>in wild only</b> - not cultivated</small><br>
 • 3 palm leaves are obtained by cutting down palms<br>
 • palm leaves are material for crafting clothes from palm leaves, palm leaf roofing and can be used as fuel<br>
-&nbsp; &nbsp; <i>*to craft leaf crown you must to hold 2 leather in your other hand, <small>but leaf crown will still be craftable without leather due to the error in code</small></i><br>
-&nbsp; &nbsp; &nbsp; &nbsp; <i>**<small>if you are holding leather in your other hand, when creating a leaf crown, leather will be used to craft</small></i><br>
+&nbsp; &nbsp; *<i>to craft leaf crown you must to hold 2 leather in your other hand, <small>but leaf crown will still be craftable without leather due to the error in code</small></i><br>
+&nbsp; &nbsp; &nbsp; &nbsp; **<i><small>if you are holding leather in your other hand, when creating a leaf crown, leather will be used to craft</small></i><br>
 • leaves of all types can be attached to <b>Mk2 Brodie Helmet</b> (twice) or to <b>Mk2 Brodie Helmet with netting</b> (once) - all stack will be used for that <small>(maybe it's a bug and will be fixed in future)</small><br>
-<i>*<small>due to the fact that it is a stackable material, the decay time counter is applied on each newly created stack, when merging/splitting the decay counters are not aligned to the average value</small></i><br>
-<i>**<small>gorillaman able to craft leaf salad from 6 palm leaves, but if gorilla recipes are loaded</small></i>
+*<i><small>due to the fact that it is a stackable material, the decay time counter is applied on each newly created stack, when merging/splitting the decay counters are not aligned to the average value</small></i><br>
+**<i><small>gorillaman able to craft leaf salad from 6 palm leaves, but if gorilla recipes are loaded</small></i>
 </td>
 <td>80</td>
 </tr>
@@ -537,26 +544,62 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 <td><b>Fern leaves</b> <small>(not a reagent container) - <i>stackable material</i> - <b>in wild only</b> - not cultivated</small><br>
 • 2 fern leaves are harvested by attacking with the intent to GRAB the jungle bushes (small vegetation) with any weapon except the knife <small>(empty hand attack is not included in the code, possibly a bug)</small>.  Bushes will not re-grow leaves <small>(maybe it's a bug and will be fixed in future)</small><br>
 • fern leaves are material for crafting clothes from fern leaves<br>
-&nbsp; &nbsp; <i>*to craft leaf crown you must to hold 2 leather in your other hand, <small>but leaf crown will still be craftable without leather due to the error in code</small></i><br>
-&nbsp; &nbsp; &nbsp; &nbsp; <i>**<small>if you are holding leather in your other hand, when creating a leaf crown, leather will be used to craft</small></i><br>
+&nbsp; &nbsp; *<i>to craft leaf crown you must to hold 2 leather in your other hand, <small>but leaf crown will still be craftable without leather due to the error in code</small></i><br>
+&nbsp; &nbsp; &nbsp; &nbsp; **<i><small>if you are holding leather in your other hand, when creating a leaf crown, leather will be used to craft</small></i><br>
 • leaves of all types can be attached to <b>Mk2 Brodie Helmet</b> (twice) or to <b>Mk2 Brodie Helmet with netting</b> (once) - all stack will be used for that <small>(maybe it's a bug and will be fixed in future)</small><br>
-<i>*<small>due to the fact that it is a stackable material, the decay time counter is applied on each newly created stack, when merging/splitting the decay counters are not aligned to the average value</small></i><br>
-<i>**<small>gorillaman able to craft leaf salad from 6 fern leaves, but if gorilla recipes are loaded</small></i>
+*<i><small>due to the fact that it is a stackable material, the decay time counter is applied on each newly created stack, when merging/splitting the decay counters are not aligned to the average value</small></i><br>
+**<i><small>gorillaman able to craft leaf salad from 6 fern leaves, but if gorilla recipes are loaded</small></i>
 </td>
 <td>80</td>
 </tr>
 </tbody>
 </table>
-
-• Any plant, except for wild ones and mushrooms, will die if it drinks all the water, or when a snowstorm or sandstorm occurs.
-
-• Grain can be fed to herbivores: deer, reindeer, elk, dik-diks, cows, goats, sheep, camels and ... mammoths and ... (drum roll) pachycephalosaurs (ba-dum-s-s!).
-
-• Seeds can be fed to granivorous: parrots, chickens, turkeys, geese, pelicans, gulls, crows, pigs, wild boars, monkeys, mice, rabbits, gorillas, gigantopithecus, mammoths, pachycephalosaurs. 
-
-• Oviparous will adds the amount of eggs from seed feeding, i.e. it mean that oviparous will not lay eggs if not feeded with seeds. More about an egg see below, in the egg related products section.
-
-• To maximize the amount of fuel in a bloomery, furnace (not iron furnace), or oven, add items one at a time for the following stack items: leaves, dry dung. <small>It some sort of bug.</small>
+<br>
+<table>
+<tr>
+<td width=40><img src="assets/images/icons/guides_s.png" width=32 height=32></td>
+<td>
+Any plant, except for wild ones and mushrooms, will die if it drinks all the water, or when a snowstorm or sandstorm occurs.
+</td>
+</tr>
+</table>
+<br>
+<table>
+<tr>
+<td width=40><img src="assets/images/icons/guides_s.png" width=32 height=32></td>
+<td>
+Grain can be fed to herbivores: deer, reindeer, elk, dik-diks, cows, goats, sheep, camels and ... mammoths and ... (drum roll) pachycephalosaurs (ba-dum-s-s!).
+</td>
+</tr>
+</table>
+<br>
+<table>
+<tr>
+<td width=40><img src="assets/images/icons/guides_s.png" width=32 height=32></td>
+<td>
+Seeds can be fed to granivorous: parrots, chickens, turkeys, geese, pelicans, gulls, crows, pigs, wild boars, monkeys, mice, rabbits, gorillas, gigantopithecus, mammoths, pachycephalosaurs.
+</td>
+</tr>
+</table>
+<br>
+<table>
+<tr>
+<td width=40><img src="assets/images/icons/guides_s.png" width=32 height=32></td>
+<td>
+Oviparous will adds the amount of eggs from seed feeding, i.e. it mean that oviparous will not lay eggs if not feeded with seeds. More about an egg see below, in the egg related products section.
+</td>
+</tr>
+</table>
+<br>
+<table>
+<tr>
+<td width=40><img src="assets/images/icons/guides_s.png" width=32 height=32></td>
+<td>
+To maximize the amount of fuel in a bloomery, furnace (not iron furnace), or oven, add items one at a time for the following stack items: leaves, dry dung. <small>It some sort of bug.</small>
+</td>
+</tr>
+</table>
+<br>
 
 ## Processed grown food products
 
@@ -695,7 +738,7 @@ but there are no standard ways to extract nutriment from food</i><br>
 <td><img src="assets/images/food/rpudding.png"></td>
 <td><b>Rice pudding</b> <small>(contains 4 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot bake rice pudding, but it's present on some maps</i><br>
-**<i>after eating, there will stay a bowl (not wooden) that can be used on a pot of stew to get <small>(due to a bug)</small> stew in a wooden bowl</i>
+**<i>after eating, there will stay a bowl (not wooden)</i>
 </td>
 <td>12</td>
 </tr>
@@ -729,7 +772,8 @@ but there are no standard ways to extract nutriment from food</i><br>
 <tr>
 <td><img src="assets/images/food/herbsalad.png"></td>
 <td><b>Tossed salad</b> <small>(contains 8 nutriment) - <i>food (satisfaction 0)</i></small><br>
-*<i>you cannot make a tossed salad, but it's present on some maps</i>
+*<i>you cannot make a tossed salad, but it's present on some maps</i><br>
+**<i>after eating, there will stay a bowl (not wooden)</i>
 </td>
 <td>16</td>
 </tr>
@@ -905,8 +949,8 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td><b>Flat dough</b> <small>(contains 2 nutriment and 1 protein) - <i>food (satisfaction -3)</i></small><br>
 • put in campfire, wood stove, stove, metal grill or oven to make flatbread<br>
 • slice to make 3 dough slices<br>
-&nbsp; &nbsp; *<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i>
-<i><small>*we really don't know where the protein comes from after flattening</small></i>
+&nbsp; &nbsp; *<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
+*<i><small>we really don't know where the protein comes from after flattening</small></i>
 </td>
 <td>25</td>
 </tr>
@@ -921,8 +965,8 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td><img src="assets/images/food/dough_slice.png"></td>
 <td><b>Dough slice</b> <small>(must contains 1 nutriment, but will contains 1.66667 nutriment and 0.333333 protein) - <i>food (satisfaction -1)</i></small><br>
 • slice to make 1 spaghetti<br>
-<i><small>*we still don't know where the protein comes from</small></i><br>
-&nbsp; &nbsp; <i><small>*seriously - this is a bug, in a dough slice there should be 1/3 of the reagents from the flat dough</small></i>
+*<i><small>we still don't know where the protein comes from</small></i><br>
+&nbsp; &nbsp; *<i><small>seriously - this is a bug, in a dough slice there should be 1/3 of the reagents from the flat dough</small></i>
 </td>
 <td>25</td>
 </tr>
@@ -933,6 +977,24 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 *<i>you cannot bake a bun, but it's present on some maps</i>
 </td>
 <td>25</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/hburger.png"></td>
+<td><b>Burger</b> <small>(contains 6 protein) - <i>food (satisfaction +6)</i></small><br>
+*<i>you cannot make a burger, it's not present on maps, but defined in code</i><br>
+**<i><small>it must contains another reagents, must be non vegetarian, but wrong defined</small></i>
+</td>
+<td>17</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/hotdog.png"></td>
+<td><b>Hot dog</b> <small>(contains 6 protein) - <i>food (satisfaction +6)</i></small><br>
+• use a sausage on bun to make a hot dog<br>
+*<i><small>it must contains another reagents, must be non vegetarian, but wrong defined</small></i><br>
+**<i><small>biten sausage may be used to make whole hot dog</small></i><br>
+***<i><small>hotdog - typo in code</small></i>
+</td>
+<td>17</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/spaghetti.png"></td>
@@ -953,7 +1015,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <tr>
 <td><img src="assets/images/food/spaghettimeatballs.png"></td>
 <td><b>Spaghetti & meatballs</b> <small>(contains 4 nutriment and 4 protein) - <i>food (satisfaction +10)</i></small><br>
-<i><small>*don't marked as non vegetarian, and this is bug</small></i>
+*<i><small>don't marked as non vegetarian, and this is bug</small></i>
 </td>
 <td>11</td>
 </tr>
@@ -962,7 +1024,8 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td><b>Spaghetti (pasta tomato)</b> <small>(contains 6 nutriment and 10 tomato juice) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot make a pasta tomato, but it's present on some maps</i><br>
 **<i><small>it doesn't have a defined correct name</small></i><br>
-***<i><small>it should contain 2 nutriment and 2 ketchup, but the definition is wrong in the code</small></i><br></td>
+***<i><small>it should contain 2 nutriment and 2 ketchup, but the definition is wrong in the code</small></i>
+</td>
 <td>12</td>
 </tr>
 <tr>
@@ -976,7 +1039,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td><img src="assets/images/food/ramen.png"></td>
 <td><b>Ramen</b> <small>(contains 6 nutriment, 4 protein and 30 water) - <i>food (satisfaction +9)</i></small><br>
 • put in pot with water, wait when noodles boil and remove it from pot before it turn to stew to obtain ramen<br>
-<i><small>*it's really overpowered (it's not a bug, it's a feature © maybe, but it's not certain™ )</small></i>
+*<i><small>it's really overpowered (it's not a bug, it's a feature © maybe, but it's not certain™ )</small></i>
 </td>
 <td>11</td>
 </tr>
@@ -1053,6 +1116,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 </tr>
 </tbody>
 </table>
+<br>
 
 ### Cakes, pies and sweet pastry
 
@@ -1158,7 +1222,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 • slice to make 5 cheesecake slices<br>
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
 *<i>you cannot bake a cheesecake, but its slices presents on some maps</i><br>
-**<i><small>cheese cake - typo in code</small></i><br>
+**<i><small>cheese cake - typo in code</small></i>
 </td>
 <td>15</td>
 </tr>
@@ -1166,7 +1230,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td><img src="assets/images/food/cheesecake_slice.png"></td>
 <td><b>Cheesecake slice</b> <small>(contains 2 nutriment and 3 protein) - <i>food (satisfaction 0)</i></small><br>
 *<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i><br>
-**<i><small>cheese cake slice - typo in code</small></i><br>
+**<i><small>cheese cake slice - typo in code</small></i>
 </td>
 <td>15</td>
 </tr>
@@ -1175,14 +1239,14 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td><b>Vanilla cake</b> <small>(contains 20 nutriment) - <i>food (satisfaction 0)</i></small><br>
 • slice to make 5 vanilla cake slices<br>
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
-*<i>you cannot bake a vanilla cake, but it's presents on some maps</i><br>
+*<i>you cannot bake a vanilla cake, but it's presents on some maps</i>
 </td>
 <td>15</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/plaincake_slice.png"></td>
 <td><b>Vanilla cake slice</b> <small>(contains 4 nutriment) - <i>food (satisfaction 0)</i></small><br>
-*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i><br>
+*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
 </td>
 <td>15</td>
 </tr>
@@ -1191,14 +1255,14 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td><b>Orange cake</b> <small>(contains 20 nutriment) - <i>food (satisfaction 0)</i></small><br>
 • slice to make 5 orange cake slices<br>
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
-*<i>you cannot bake a orange cake, it's not presents on maps, but defined in code</i><br>
+*<i>you cannot bake a orange cake, it's not presents on maps, but defined in code</i>
 </td>
 <td>15</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/orangecake_slice.png"></td>
 <td><b>Orange cake slice</b> <small>(contains 4 nutriment) - <i>food (satisfaction 0)</i></small><br>
-*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i><br>
+*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
 </td>
 <td>15</td>
 </tr>
@@ -1207,14 +1271,14 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td><b>Lemon cake</b> <small>(contains 20 nutriment) - <i>food (satisfaction 0)</i></small><br>
 • slice to make 5 lemon cake slices<br>
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
-*<i>you cannot bake a lemon cake, but it's presents on some maps</i><br>
+*<i>you cannot bake a lemon cake, but it's presents on some maps</i>
 </td>
 <td>15</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/lemoncake_slice.png"></td>
 <td><b>Lemon cake slice</b> <small>(contains 4 nutriment) - <i>food (satisfaction 0)</i></small><br>
-*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i><br>
+*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
 </td>
 <td>15</td>
 </tr>
@@ -1223,14 +1287,14 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td><b>Lime cake</b> <small>(contains 20 nutriment) - <i>food (satisfaction 0)</i></small><br>
 • slice to make 5 lime cake slices<br>
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
-*<i>you cannot bake a lime cake, but it's presents on some maps</i><br>
+*<i>you cannot bake a lime cake, but it's presents on some maps</i>
 </td>
 <td>15</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/limecake_slice.png"></td>
 <td><b>Lime cake slice</b> <small>(contains 4 nutriment) - <i>food (satisfaction 0)</i></small><br>
-*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i><br>
+*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
 </td>
 <td>15</td>
 </tr>
@@ -1239,14 +1303,14 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td><b>Chocolate cake</b> <small>(contains 20 nutriment) - <i>food (satisfaction 0)</i></small><br>
 • slice to make 5 chocolate cake slices<br>
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
-*<i>you cannot bake a chocolate cake, but it's presents on some maps</i><br>
+*<i>you cannot bake a chocolate cake, but it's presents on some maps</i>
 </td>
 <td>15</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/chocolatecake_slice.png"></td>
 <td><b>Chocolate cake slice</b> <small>(contains 4 nutriment) - <i>food (satisfaction 0)</i></small><br>
-*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i><br>
+*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
 </td>
 <td>15</td>
 </tr>
@@ -1255,14 +1319,14 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td><b>Apple cake</b> <small>(contains 15 nutriment) - <i>food (satisfaction 0)</i></small><br>
 • slice to make 5 apple cake slices<br>
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
-*<i>you cannot bake a apple cake, but it's presents on some maps</i><br>
+*<i>you cannot bake a apple cake, but it's presents on some maps</i>
 </td>
 <td>15</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/applecake_slice.png"></td>
 <td><b>Apple cake slice</b> <small>(contains 3 nutriment) - <i>food (satisfaction 0)</i></small><br>
-*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i><br>
+*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
 </td>
 <td>15</td>
 </tr>
@@ -1271,19 +1335,20 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td><b>Pumpkin pie</b> <small>(contains 15 nutriment) - <i>food (satisfaction 0)</i></small><br>
 • slice to make 5 pumpkin pie slices<br>
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
-*<i>you cannot bake a pumpkin pie, but it's presents on some maps</i><br>
+*<i>you cannot bake a pumpkin pie, but it's presents on some maps</i>
 </td>
 <td>15</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/pumpkinpie_slice.png"></td>
 <td><b>Pumpkin pie slice</b> <small>(contains 3 nutriment) - <i>food (satisfaction 0)</i></small><br>
-*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i><br>
+*<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
 </td>
 <td>15</td>
 </tr>
 </tbody>
 </table>
+<br>
 
 ### Pizza
 
@@ -1296,60 +1361,61 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 </tr>
 <tr>
 <td><img src="assets/images/food/pizza.png"></td>
-<td><b>Pizza</b> <small>(contains 2 parsley and 2 tomato juice) - <i>food (satisfaction 0)</i></small><br>
+<td><b>Pizza</b> <small>(contains 8 nutriment and 2 parsley) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot bake a pizza, but it's present on some maps</i><br>
-**<i><small>it should contain 8 nutriment, 2 parsley and 2 ketchup, but there is a bug in the code</small></i><br>
+**<i><small>it should contain 8 nutriment, 2 parsley and 2 ketchup, but defined non-existent reagent tomato (bug)</small></i><br>
 ***<i>cannot be sliced</i>
 </td>
 <td>15</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/pizzapepperoni.png"></td>
-<td><b>Pepperoni and cheese pizza</b> <small>(contains 2 tomato juice and 1 capsaicin) - <i>food (satisfaction 0)</i> <b>non vegetarian</b></small><br>
+<td><b>Pepperoni and cheese pizza</b> <small>(contains 2 parsley and 1 capsaicin oil) - <i>food (satisfaction 0)</i> <b>non vegetarian</b></small><br>
 *<i>you cannot bake a peperoni and cheese pizza, but it's present on some maps</i><br>
-**<i><small>it should contain 9 nutriment, 2 ketchup and 1 capsaicin, but there is a bug in the code</small></i><br>
+**<i><small>it should contain 9 nutriment, 2 ketchup and 1 capsaicin oil, but defined non-existent reagent tomato (bug) and other bugs in code make it wrong</small></i><br>
 ***<i>cannot be sliced</i>
 </td>
 <td>15</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/vegetablepizza.png"></td>
-<td><b>Spicy vegetable pizza</b> <small>(contains 2 celery and 2 tomato juice) - <i>food (satisfaction 0)</i></small><br>
+<td><b>Spicy vegetable pizza</b> <small>(contains 2 celery and 2 parsley) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot bake a spicy vegetable pizza, but it's present on some maps</i><br>
-**<i><small>it should contain 8 nutriment, 2 celery and 2 ketchup, but there is a bug in the code</small></i><br>
+**<i><small>it should contain 8 nutriment, 2 celery and 2 ketchup, but there is a bugs in the code</small></i><br>
 ***<i>cannot be sliced</i>
 </td>
 <td>15</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/meatpizza.png"></td>
-<td><b>Meatball pizza</b> <small>(contains 4 protein and 2 tomato juice) - <i>food (satisfaction 0)</i> <b>non vegetarian</b></small><br>
+<td><b>Meatball pizza</b> <small>(contains 4 protein and 2 parsley) - <i>food (satisfaction 0)</i> <b>non vegetarian</b></small><br>
 *<i>you cannot bake a meatball pizza, but it's present on some maps</i><br>
-**<i><small>it should contain 6 nutriment, 4 protein and 2 ketchup, but there is a bug in the code</small></i><br>
+**<i><small>it should contain 6 nutriment, 4 protein and 2 ketchup, but there is a bugs in the code</small></i><br>
 ***<i>cannot be sliced</i>
 </td>
 <td>15</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/pizzasauced.png"></td>
-<td><b>Plain pizza</b> <small>(contains 8 tomato juice) - <i>food (satisfaction 0)</i></small><br>
+<td><b>Plain pizza</b> <small>(contains 2 parsley) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot bake a plain pizza, it's not present on maps, but it's defined in code</i><br>
-**<i><small>it should contain 4 nutriment, and 8 ketchup, but there is a bug in the code</small></i><br>
+**<i><small>it should contain 4 nutriment, and 8 ketchup, but there is a bugs in the code</small></i><br>
 ***<i>cannot be sliced</i>
 </td>
 <td>15</td>
 </tr>
 <tr>
 <td><img src="assets/images/food/pizzacheesed.png"></td>
-<td><b>Cheese pizza</b> <small>(contains 2 tomato juice) - <i>food (satisfaction 0)</i></small><br>
+<td><b>Cheese pizza</b> <small>(contains 2 parsley) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot bake a cheese pizza, but it's present on some maps</i><br>
-**<i><small>it should contain 10 nutriment, and 2 ketchup, but there is a bug in the code</small></i><br>
+**<i><small>it should contain another reagents but there is a bugs in the code</small></i><br>
 ***<i>cannot be sliced</i>
 </td>
 <td>15</td>
 </tr>
 </tbody>
 </table>
+<br>
 
 ## Egg related products
 
@@ -1374,8 +1440,8 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <tr>
 <td><img src="assets/images/food/egg.png"></td>
 <td><b>Egg</b> <small>(contains 2 nutriment) - <i>food (satisfaction +4)</i> <b>non vegetarian</b></small><br>
-• using egg on liquid container will transfer reagents to container <small>(2 nutriments)</small><br>
-*<i>tip: eggs for now is a way to make moonshine <small>(at least until nutriment reagent is corrected into egg yolk reagent in egg contains)</small><br>
+• using egg on liquid container will transfer reagents to container <small>(2 nutriment)</small><br>
+*<i>tip: eggs for now is a way to make moonshine <small>(at least until nutriment reagent is corrected into egg yolk reagent in egg contains)</small></i><br>
 **<i>thrown eggs will break and leave behind a broken egg on the floor</i><br>
 ***<i>you can throw eggs at humans</i><br>
 ****<i><small>egg don't contains egg yolk</small></i>
@@ -1389,29 +1455,147 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 </td>
 <td>90</td>
 </tr>
+<tr>
+<td><img src="assets/images/food/egg.png"></td>
+<td><b>Boiled egg</b> <small>(contains 2 nutriment) - <i>food (satisfaction +5)</i> <b>non vegetarian</b></small><br>
+*<i>you cannot boil an egg, but it's present on some maps</i>
+</td>
+<td>12</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/friedegg.png"></td>
+<td><b>Fried egg</b> <small>(contains 2 nutriment, 1 table salt and 1 black pepper) - <i>food (satisfaction +8)</i> <b>non vegetarian</b></small><br>
+*<i>you cannot fry an egg, but it's present on some maps</i>
+</td>
+<td>12</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/omelette.png"></td>
+<td><b>Omelette Du Fromage</b> <small>(contains 6 nutriment) - <i>food (satisfaction +8)</i> <b>non vegetarian</b></small><br>
+*<i>you cannot bake an omelette, but it's present on some maps</i>
+</td>
+<td>12</td>
+</tr>
 </tbody>
 </table>
+<br>
 
-• Oviparous can eat seeds from the floor on their own, but this will not add to the number of eggs <small>(bug)</small>. Initially, each egg laying female has an egg count of 5. The maximum value of the egg counter is currently 5. If the egg counter drops to zero, then when feeding with seeds, the counter will not increase. <small>This is a bug in the code.</small>
+## Soups and stew
 
-• At this moment, only two egg-laying birds have been implemented: turkeys and chickens. These birds are supposed to lay eggs every 120 seconds<small>, but this is not happening due to a bug</small>.
-
-• If there is at least one conscious male in area 3 (not a 3x3 area, but a diamond-shaped area 7 wide and 7 high), and there are less than 6 birds in total in this area, not counting males, then a new egg will be fertilized and from it in 2000 seconds can hatch a chick <small>(if you do not pick it up, because of this, the growth process will may stop)</small>, provided that on the whole map there are no more than 35 of them for turkeys and 50 for chickens.
-
-
-
-
-
+<table class="sortable">
+<tbody>
+<tr>
+<th width=52></th>
+<th style="background-color=#cc7000;">Product</th>
+<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
+</tr>
+<tr>
+<td><img src="assets/images/food/snack_bowl.png"></td>
+<td><b>Bowl</b> <small>- <i>an item that remains after eating certain foods</i></small><br>
+• can be used on a pot of stew to get <small>(due to a bug)</small> stew in a wooden bowl<br>
+• cannot be crafted<br>
+*<i><small>food in a bowl used for composting or making stew won't return the bowl after being used due a bug</small></i>
+</td>
+<td>-</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/wood_bowl.png"></td>
+<td><b>Wood bowl</b> <small>- <i>an item that remains after eating stew or caldo verde</i></small><br>
+• can be used on a pot of stew to get stew in a wooden bowl<br>
+• can be crafted from wood<br>
+*<i><small>food in a bowl used for composting or making stew won't return the bowl after being used due a bug</small></i>
+</td>
+<td>-</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/stew.png"></td>
+<td><b>Stew</b> <small>(contains 10 nutriment and 14 water) - <i>food (satisfaction +4)</small></i><br>
+*<i>you cannot get a stew in this type of bowl from pot of stew, but it's variant is present on some maps</i><br>
+**<i>this won't fit in the pot for stewing as ingridient</i><br>
+***<i>after eating, there will stay a bowl (not wooden)</i><br>
+****<i><small>can be roasted due a bug</small></i><br>
+</td>
+<td>16</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/stew_wood.png"></td>
+<td><b>Stew <small>(in wooden bowl)</small></b> <small>(contains 10 nutriment and 14 water and ...) - <i>food (satisfaction +4)</small></i><br>
+• to obtain use bowl on a pot of stew (see the cooking in a pot section for details)<br>
+*<i>after eating, there will stay a wooden bowl</i><br>
+**<i><small>this may used on the pot for stewing as ingridient due a bug</small></i><br>
+***<i>pre-mapped will contains 10 nutriment and 14 water</i><br>
+****<i><small>will contains additional nutriment and protein when obtained from a pot of stew due a bug</small></i><br>
+*****<i><small>can be roasted due a bug</small></i><br>
+</td>
+<td>16</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/meatballsoup.png"></td>
+<td><b>Meatball soup</b> <small>(contains 8 proteins and 16 water) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot cook a meatball soup, but it's present on some maps</i><br>
+**<i>after eating, there will stay a bowl (not wooden)</i><br>
+***<i><small>it must be non vegetarian, but wrong defined</small></i>
+</td>
+<td>16</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/vegetablesoup.png"></td>
+<td><b>Vegetable soup</b> <small>(contains 8 nutriment and 16 water) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot cook a vegetable soup, but it's present on some maps</i><br>
+**<i>after eating, there will stay a bowl (not wooden)</i>
+</td>
+<td>20</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/tomatosoup.png"></td>
+<td><b>Tomato soup</b> <small>(contains 6 nutriment and 14 tomato juice) - <i>food (satisfaction +4)</i></small><br>
+*<i>you cannot cook a tomato soup, but it's present on some maps</i><br>
+**<i>after eating, there will stay a bowl (not wooden)</i>
+</td>
+<td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/mushroomsoup.png"></td>
+<td><b>Mushroom soup</b> <small>(contains 8 nutriment and 30 water) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot cook a mushroom soup, but it's present on some maps</i><br>
+**<i>after eating, there will stay a bowl (not wooden)</i>
+</td>
+<td>15</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/beetsoup.png"></td>
+<td><b>Borshch</b> <small>(contains 8 nutriment, 4 protein, 5 tomato juice, 5 imidazoline and 15 water) - <i>food (satisfaction 0)</i></small><br>
+*<i>you cannot cook a borshch, but it's present on some maps</i><br>
+**<i>after eating, there will stay a bowl (not wooden)</i><br>
+***<i><small>can be roasted due a bug</small></i><br>
+</td>
+<td>16</td>
+</tr>
+<tr>
+<td><img src="assets/images/food/caldoverde.png"></td>
+<td><b>Caldo verde</b> <small>(contains 4 nutriment, 4 protein and 15 water) - <i>food (satisfaction +6)</i></small><br>
+*<i>you cannot cook a caldo verde, but it's present on some maps</i><br>
+**<i>after eating, there will stay a wooden bowl</i><br>
+***<i><small>can be roasted due a bug</small></i><br>
+</td>
+<td>15</td>
+</tr>
+</tbody>
+</table>
+<br>
 <table>
+<tbody>
 <tr>
 <td>
-<img src="assets/images/icons/guides.png" height=128>
+<img src="assets/images/icons/guides.png" height=128 width=128>
 </td>
 <td>
 <i><b>after this point the page is under construction and may contain inaccuracies!!!</b></i>
 </td>
 </tr>
+</tbody>
 </table>
+<br>
 
 ## Meat products
 
@@ -1530,24 +1714,6 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <tr>
 <td><b>Dough</b></td>
 <td>25</td>
-</tr>
-</tbody>
-</table>
-
-## Dishes
-
-<table class="sortable">
-<tbody>
-<tr>
-<th style="background-color=#cc7000;">Product</th>
-<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
-</tr>
-<tr>
-<td><b>Stew</b></td>
-<td>16</td>
-</tr>
-<tr>
-<td><b>Boiled rice</b></td>
 </tr>
 </tbody>
 </table>
