@@ -632,7 +632,6 @@ To maximize the amount of fuel in a bloomery, furnace (not iron furnace), or ove
 </td>
 </tr>
 </table>
-<br>
 </details>
 <br>
 
@@ -1518,6 +1517,17 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>12</td>
 </tr>
 </table>
+<br>
+<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00">
+<tr>
+<td width=36 style="padding: 3px; margin: 0px; border: 0px">
+<img src="assets/images/icons/guides_s.png" width=32 height=32>
+</td>
+<td style="padding: 0px; padding-right: 8px; margin: 0px; border: 0px">
+At this moment, only two egg-laying birds have been implemented: chickens and turkeys. These birds are supposed to lay eggs every 250 (or 120 for turkeys) seconds<small>, but this is not happening due to a bug</small>. If there is at least one conscious male in range of 3 (not a 3x3 area, but a diamond-shaped area 7 wide and 7 high), and there are less than 6 birds in total in this area, not counting males, then a new egg will be fertile and from it in 1600 (or 2000 for turkeys) seconds can hatch a chick, provided that on the whole map there are no more than 35 of them for turkeys and 50 for chickens. If you pick up a fertilized egg or put it in a container, you can disrupt the growth process, in which case the chick will not hatch.
+</td>
+</tr>
+</table>
 </details>
 <br>
 
@@ -1621,17 +1631,6 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 ***<i><small>can be roasted due a bug</small></i><br>
 </td>
 <td>15</td>
-</tr>
-</table>
-<br>
-<table>
-<tr>
-<td>
-<img src="assets/images/icons/guides.png" height=128 width=128>
-</td>
-<td>
-<i><b>after this point the page is under construction and may contain inaccuracies!!!</b></i>
-</td>
 </tr>
 </table>
 </details>
@@ -3126,6 +3125,17 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
 </tr>
 </table>
 
+<table>
+<tr>
+<td>
+<img src="assets/images/icons/guides.png" height=128 width=128>
+</td>
+<td>
+<i><b>after this point the page is under construction and may contain inaccuracies!!!</b></i>
+</td>
+</tr>
+</table>
+<br>
 
 ## Meat products
 
