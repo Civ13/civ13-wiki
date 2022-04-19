@@ -1,35 +1,54 @@
 # Food Decay Times
 
-## Grown products details
-
-<table>
+<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00">
 <tr>
-<td width=52><img src="assets/images/icons/character_s.png" width=32 height=32></td>
-<td>
-All tables are sortable - click the headers.
+<td width=36 style="padding-top: 5px; padding-bottom: 0px; padding-left: 3px; padding-right: 3px; margin: 0px; border-bottom: 0px; border-top: 0px; ">
+<img src="../assets/images/icons/character_s.png" width=32 height=32>
+</td>
+<td style="padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 8px; margin: 0px; border-bottom: 0px; border-top: 0px; vertical-align: middle">
+Most tables are sortable - click the headers.
 </td>
 </tr>
 </table>
 <br>
+
+## Grown products details
+
+<details>
+<summary>show/hide grown products details</summary>
 <table class="sortable">
-<tbody>
 <tr>
-<th width=52></th>
-<th style="background-color=#cc7000;">Product</th>
-<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
+<th width=52>
+</th>
+<th>
+Product
+</th>
+<th width=64>
+Decay (minutes)
+</th>
 </tr>
 <tr>
-<td><img src="assets/images/food/tea_leaves_dried.png"></td>
-<td><b>Tea leaves</b> <small>(contains 10 tea) - <i>condiment</i> - <b>jungle • savanna • sea • semi-arid</b> - will grow at all seasons</small><br>
-• just transfer it to liquid container to drink<br>
-<small><details><summary>show/hide tea reactions</summary>
-&nbsp; &nbsp; • tea and 1 ice will react to 3 iced tea
-</details></small>
+<td>
+<img src="../assets/images/food/tea_leaves_dried.png">
 </td>
-<td>-</td>
+<td>
+<b>Tea leaves</b> <small>(contains 10 tea) - <i>condiment</i> - <b>jungle • savanna • sea • semi-arid</b> - will grow at all seasons</small><br>
+• just transfer it to liquid container to drink<br>
+<small>
+<details>
+<summary>show/hide tea reactions</summary>
+&nbsp; &nbsp; • tea and 1 ice will react to 3 iced tea
+</details>
+</small>
+</td>
+<td>
+-
+</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/coffee.png"></td>
+<td>
+<img src="../assets/images/food/coffee.png">
+</td>
 <td><b>Coffee</b> <small>(contains 15 coffee) - <i>food (satisfaction +8)</i> - <b>jungle • savanna • desert • semi-arid</b> - will grow at all seasons</small><br>
 • put in liquid container to make 15 coffee<br>
 <small><details><summary>show/hide coffee reactions</summary>
@@ -42,7 +61,7 @@ All tables are sortable - click the headers.
 <td>180</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/sugar.png"></td>
+<td><img src="../assets/images/food/sugar.png"></td>
 <td><b>Sugarcane sugar</b> <small>(contains 30 sugar) - <i>condiment</i> - <b>jungle • savanna • sea</b> - will grow at all seasons</small><br>
 <small><details><summary>show/hide sugar reactions</summary>
 &nbsp; &nbsp; • 1 sugar, 1 tramadol and 1 water will react to 3 paracetamol<br>
@@ -61,7 +80,7 @@ All tables are sortable - click the headers.
 <td>-</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/grapes.png"></td>
+<td><img src="../assets/images/food/grapes.png"></td>
 <td><b>Grapes bunch</b> <small>(contains 1 nutriment) - <i>food (satisfaction +4)</i> - <b>temperate • desert • sea • semi-arid</b> - not grow at winter season</small><br>
 • put in liquid container to make 5 grape juice<br>
 <small><details><summary>show/hide grape juice reactions</summary>
@@ -71,7 +90,7 @@ All tables are sortable - click the headers.
 <td>12</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/olives.png"></td>
+<td><img src="../assets/images/food/olives.png"></td>
 <td><b>Olives bunch</b> <small>(contains 1 nutriment) - <i>food (satisfaction 0)</i> - <b>temperate • desert • sea • semi-arid</b> - will grow at all seasons</small><br>
 • put in liquid container to make 6 olive oil<br>
 <small><details><summary>show/hide olive oil using</summary>
@@ -88,74 +107,74 @@ All tables are sortable - click the headers.
 <td>20</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/mushrooms.png"></td>
+<td><img src="../assets/images/food/mushrooms.png"></td>
 <td><b>Mushrooms</b> <small>(contains 1 nutriment) - <i>food (satisfaction +4)</i> - <b>any biome and underground too</b> - will grow at all seasons</small><br>
 <i>*no need to water</i></td>
 <td>30</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/mushrooms.png"></td>
+<td><img src="../assets/images/food/mushrooms.png"></td>
 <td><b>Psilocybin mushroom</b> <small>(contains 30 THC and 1 nutriment) - <i>food (satisfaction +10)</i> - <b>any biome and underground too</b> - will grow at all seasons</small><br>
 <i>*no need to water</i></td>
 <td>35</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/banana.png"></td>
+<td><img src="../assets/images/food/banana.png"></td>
 <td><b>Banana</b> <small>(contains 1 nutriment) - <i>food (satisfaction +6)</i> - <b>jungle • savanna</b> - will grow at all seasons</small></td>
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/apricot.png"></td>
+<td><img src="../assets/images/food/apricot.png"></td>
 <td><b>Apricot</b> <small>(contains 1 nutriment) - <i>food (satisfaction +6)</i> - <b>jungle • temperate • desert • savanna</b> - will grow at all seasons</small></td>
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/cherry.png"></td>
+<td><img src="../assets/images/food/cherry.png"></td>
 <td><b>Cherry</b> <small>(contains 1 nutriment) - <i>food (satisfaction +6)</i> - <b>jungle • temperate • desert • savanna</b> - will grow at all seasons</small></td>
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/sapote.png"></td>
+<td><img src="../assets/images/food/sapote.png"></td>
 <td><b>Sapote</b> <small>(contains 1 nutriment and 2 sapote juice) - <i>food (satisfaction 0)</i> - <b>jungle • temperate</b> - will grow at all seasons</small><br>
 • put in liquid container to make 4 sapote juice
 </td>
 <td>60</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/sapodilla.png"></td>
+<td><img src="../assets/images/food/sapodilla.png"></td>
 <td><b>Sapodilla</b> <small>(contains 1 nutriment and 5 sapodilla juice) - <i>food (satisfaction 0)</i> - <b>jungle • sea</b> - will grow at all seasons</small><br>
 • put in liquid container to make 10 sapodilla juice</td>
 <td>60</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/watermelon.png"></td>
+<td><img src="../assets/images/food/watermelon.png"></td>
 <td><b>Watermelon</b> <small>(contains 1 nutriment) - <i>food (satisfaction +4)</i> - <b>desert • semiarid • jungle</b> - will grow at summer, spring and wet season</small><br>
 • slice to make 12 watermelon slices</td>
 <td>20</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/pumpkin.png"></td>
+<td><img src="../assets/images/food/pumpkin.png"></td>
 <td><b>Pumpkin</b> <small>(contains 1 nutriment) - <i>food (satisfaction +4)</i> - <b>temperate • taiga • tundra</b> - will grow at all seasons</small><br>
 • slice to make 12 pumpkin slices</td>
 <td>100</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/lemon.png"></td>
+<td><img src="../assets/images/food/lemon.png"></td>
 <td><b>Lemon</b> <small>(contains 1 nutriment) - <i>food (satisfaction +1)</i> - <b>temperate • desert • sea • semi-arid • jungle</b> - will grow at all seasons</small></td>
 <td>100</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/lime.png"></td>
+<td><img src="../assets/images/food/lime.png"></td>
 <td><b>Lime</b> <small>(contains 1 nutriment) - <i>food (satisfaction +1)</i> - <b>temperate • desert • sea • semi-arid • jungle</b> - will grow at all seasons</small></td>
 <td>100</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/orange.png"></td>
+<td><img src="../assets/images/food/orange.png"></td>
 <td><b>Orange</b> <small>(contains 1 nutriment) - <i>food (satisfaction +3)</i> - <b>temperate • desert • sea • semi-arid • jungle</b> - will grow at all seasons</small></td>
 <td>100</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/apple_green.png"></td>
+<td><img src="../assets/images/food/apple_green.png"></td>
 <td><b>Apple</b> <small>(contains 1 nutriment) - <i>food (satisfaction +3)</i> - <b>temperate • tundra • taiga • sea • semiarid</b> - will grow at all seasons</small><br>
 • put in liquid container to make 10 apple juice
 <small><details><summary>show/hide apple juice reactions</summary>
@@ -165,12 +184,12 @@ All tables are sortable - click the headers.
 <td>50</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/coconut.png"></td>
+<td><img src="../assets/images/food/coconut.png"></td>
 <td><b>Coconut</b> <small>(contains 15 water and 1 nutriment) - <i>food (satisfaction +3)</i> - <b>sea • jungle</b> - will grow at all seasons</small></td>
 <td>150</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/wheat.png"></td>
+<td><img src="../assets/images/food/wheat.png"></td>
 <td><b>Wheat</b> <small>(contains 1 nutriment) - <i>food (satisfaction -2)</i> - <b>temperate • tundra • taiga • sea • desert • semi-arid</b> - not grow at winter and dry season</small><br>
 • mill to make wheat flour<br>
 • you can feed this to different animals (see below)<br>
@@ -179,7 +198,7 @@ All tables are sortable - click the headers.
 <td>5000</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/rice.png"></td>
+<td><img src="../assets/images/food/rice.png"></td>
 <td><b>Rice stalk</b> <small>(contains 1 nutriment) - <i>food (satisfaction -2)</i> - <b>jungle • savanna • sea</b> - will grow at all seasons</small><br>
 • mill to make rice<br>
 • you can feed this to different animals (see below)<br>
@@ -192,7 +211,7 @@ All tables are sortable - click the headers.
 <td>-</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/oat.png"></td>
+<td><img src="../assets/images/food/oat.png"></td>
 <td><b>Oat</b> <small>(contains 1 nutriment) - <i>food (satisfaction -2)</i> - <b>temperate • tundra • taiga • sea</b> - not grow at winter and dry season</small><br>
 • mill to make oat flour<br>
 • you can feed this to different animals (see below)<br>
@@ -201,7 +220,7 @@ All tables are sortable - click the headers.
 <td>2000</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/barley.png"></td>
+<td><img src="../assets/images/food/barley.png"></td>
 <td><b>Barley</b> <small>(contains 1 nutriment) - <i>food (satisfaction -2)</i> - <b>semi-arid • temperate • taiga • sea</b> - not grow at winter and dry season</small><br>
 • mill to make barley flour<br>
 • you can feed this to different animals (see below)<br>
@@ -210,16 +229,16 @@ All tables are sortable - click the headers.
 <td>2000</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/tomato.png"></td>
+<td><img src="../assets/images/food/tomato.png"></td>
 <td><b>Tomato</b> <small>(contains 1 nutriment) - <i>food (satisfaction +3)</i> - <b>temperate • sea • semi-arid • desert • jungle • savanna</b> - not grow at fall and winter</small><br>
 <i>*You can throw tomatoes at humans.</i>
 </td>
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/potato.png"></td>
+<td><img src="../assets/images/food/potato.png"></td>
 <td><b>Potato</b> <small>(contains 1 nutriment) - <i>food (satisfaction -3)</i> - <b>temperate • taiga • semi-arid</b> - will grow at all seasons</small><br>
-• use knife<img src="assets/images/tools/boneknife.png">on it to make raw potato sticks <img src="assets/images/food/rawsticks.png"><br>
+• use knife<img src="../assets/images/tools/boneknife.png">on it to make raw potato sticks <img src="../assets/images/food/rawsticks.png"><br>
 • put in liquid container to make 5 potato juice<br>
 <i>*may be turned in a green potato if left on the floor</i><br>
 <small><details><summary>show/hide potato juice reactions</summary>
@@ -229,52 +248,52 @@ All tables are sortable - click the headers.
 <td>700</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/green_potato.png"></td>
+<td><img src="../assets/images/food/green_potato.png"></td>
 <td><b>Green potato</b> <small>(contains 10 solanine and 1 nutriment) - <i>food (satisfaction -3)</i> - <b>can't be grown</b></small><br>
 <i>*every 1 solanine give 5 toxin damage when in bloodstream</i>
 </td>
 <td>94</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/beans_brownred.png"></td>
+<td><img src="../assets/images/food/beans_brownred.png"></td>
 <td><b>Beans</b> <small>(contains 1 nutriment) - <i>food (satisfaction 0)</i> - <b>temperate • savanna • desert • sea • semi-arid • taiga</b> - will grow at all seasons</small></td>
 <td>1000</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/cabbage.png"></td>
+<td><img src="../assets/images/food/cabbage.png"></td>
 <td><b>Cabbage</b> <small>(contains 1 nutriment) - <i>food (satisfaction 0)</i> - <b>temperate • tundra • taiga • sea • semi-arid</b> - will grow at all seasons</small></td>
 <td>20</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/carrot.png"></td>
+<td><img src="../assets/images/food/carrot.png"></td>
 <td><b>Carrot</b> <small>(contains 1 nutriment) - <i>food (satisfaction 0)</i> - <b>any biome</b> - will grow at all seasons</small></td>
 <td>25</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/parsnip.png"></td>
+<td><img src="../assets/images/food/parsnip.png"></td>
 <td><b>Parsnip</b> <small>(contains 2 sugar and 1 nutriment) - <i>food (satisfaction 0)</i> - <b>temperate • semi-arid</b> - will grow at all seasons</small></td>
 <td>60</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/zucchini.png"></td>
+<td><img src="../assets/images/food/zucchini.png"></td>
 <td><b>Zucchini</b> <small>(contains 5 zucchini juice and 1 nutriment) - <i>food (satisfaction 0)</i> - <b>temperate • sea • jungle</b> - will grow at all seasons</small><br>
-<i>*zucchini juice - a drink that you will drink if you eat zucchini</i></br>
+<i>*zucchini juice - a drink that you will drink if you eat zucchini</i>
 </td>
 <td>60</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/celery_stalk.png"></td>
+<td><img src="../assets/images/food/celery_stalk.png"></td>
 <td><b>Celery</b> <small>(contains 8 celery juice and 1 nutriment) - <i>food (satisfaction 0)</i> - <b>temperate • semi-arid • sea • jungle</b> - will grow at all seasons</small></td>
 <td>60</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/parsley.png"></td>
+<td><img src="../assets/images/food/parsley.png"></td>
 <td><b>Parsley</b> <small>(contains 15 parsley nutriment and 1 nutriment) - <i>food (satisfaction +2)</i> - <b>temperate • semi-arid • sea</b> - will grow at all seasons</small><i><br>*parsley nutriment is a nutriment that has 4% nutriment factor compared to the common nutriment. Thus, 1 parsley is 1.6 times more nutritious than one potato.</i>
 </td>
 <td>90</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/paprika_pepper.png"></td>
+<td><img src="../assets/images/food/paprika_pepper.png"></td>
 <td><b>Red pepper</b> <small>(contains 1 nutriment and 8 capsaicin oil) - <i>food (satisfaction 0)</i> - <b>temperate • semi-arid • sea • desert</b> - will grow at all seasons</small>
 <small><details><summary>show/hide capsaicin oil reactions</summary>
 &nbsp; &nbsp; • 2 capsaicin oil will react to 1 condensed capsaicin (with 5 tungsten as catalyst)
@@ -283,17 +302,17 @@ All tables are sortable - click the headers.
 <td>60</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/liquorice_root.png"></td>
+<td><img src="../assets/images/food/liquorice_root.png"></td>
 <td><b>Liquorice</b> <small>(contains 1 nutriment and 8 liquorice) - <i>food (satisfaction 0)</i> - <b>temperate • semi-arid • sea • desert</b> - will grow at all seasons</small><br>
-<i>*liquorice - a drink that you will drink if you eat this root</i></br>
+<i>*liquorice - a drink that you will drink if you eat this root</i>
 </td>
 <td>-</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/corn.png"></td>
+<td><img src="../assets/images/food/corn.png"></td>
 <td><b>Corn</b> <small>(contains 1 nutriment) - <i>food (satisfaction +2)</i> - <b>temperate • jungle • savanna • desert • sea • semi-arid • taiga</b> - not grow at fall and winter</small><br>
 • put in liquid container to make 5 corn oil<br>
-• use it for make a cob pipe<br><img src="assets/images/cob_pipe.png"><br>
+• use it for make a cob pipe<br><img src="../assets/images/cob_pipe.png"><br>
 <small><details><summary>show/hide corn oil reactions</summary>
 &nbsp; &nbsp; • 3 corn oil and 1 sulphuric acid will react to 3 glycerol<br>
 &nbsp; &nbsp; • 3 corn oil and 1 hydrochloric acid will react to 3 glycerol<br>
@@ -306,7 +325,7 @@ All tables are sortable - click the headers.
 <td>10</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/juniper_berry.png"></td>
+<td><img src="../assets/images/food/juniper_berry.png"></td>
 <td><b>Juniper</b> <small>(contains 5 juniper nutriment and 1 nutriment) - <i>food (satisfaction 0)</i> - <b>tundra • taiga • temperate</b> - will grow at all seasons</small><br>
 • put in liquid container to make 6 juniper juice<br>
 *<i>juniper nutriment is a nutriment that has 2% nutriment factor compared to the common nutriment. Thus, 1 juniper berry is 1.1 times more nutritious than one potato.</i><br>
@@ -318,7 +337,7 @@ All tables are sortable - click the headers.
 <td>60</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/agave_leaf.png"></td>
+<td><img src="../assets/images/food/agave_leaf.png"></td>
 <td><b>Agave</b> <small>(contains 10 agave and 1 nutriment) - <i>food (satisfaction 0)</i> - <b>desert • semi-arid</b> - will grow at all seasons</small><br>
 • put in liquid container to make 10 agave (drink)
 <small><details><summary>show/hide agave reactions</summary>
@@ -328,32 +347,32 @@ All tables are sortable - click the headers.
 <td>60</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/chinchona_inhand.png"></td>
+<td><img src="../assets/images/food/chinchona_inhand.png"></td>
 <td><b>Chinchona</b> <small>(contains 10 quinine) - <i>food (satisfaction 0)</i> - <b>in wild only</b> - will regrow after harvesting (300 seconds)</small><br>
 • put in liquid container to make 10 quinine<br>
 *<i>has no seeds</i><br>
-**<i>can be harvested from the wild or taken from pot with trowel<br><img src="assets/images/chinchona.png"><img src="assets/images/flora/chinchona_pot.png"><img src="assets/images/flora/chinchona_pot2.png"><img src="assets/images/tools/trowel.png"></i><br>
+**<i>can be harvested from the wild or taken from pot with trowel<br><img src="../assets/images/chinchona.png"><img src="../assets/images/flora/chinchona_pot.png"><img src="../assets/images/flora/chinchona_pot2.png"><img src="../assets/images/tools/trowel.png"></i><br>
 ***<i>can be planted in a pot for later use (but it's more efficient to store quinine as a drink since it can't be grown but only collected in nature)</i><br>
 ****<i>quinine - a drink that treat malaria, quinine also relieves drowsiness and reduces body temperature to 36.9 degrees</i></td>
 <td>70</td>
 </tr>
 <tr>
-<td><img src="assets/images/healing_herbs.png"></td>
+<td><img src="../assets/images/healing_herbs.png"></td>
 <td><b>Healing herbs</b> <small>(not a reagent container) - <i>stackable item</i> - <b>temperate • semi-arid • sea • jungle</b> - will grow at all seasons</small><br>
 • use them on wounds to disinfect, salving and heal brute damage
-<br><img src="assets/images/flora/junglebush6.png"><img src="assets/images/flora/junglebush1.png"><img src="assets/images/flora/junglebush16.png"> <img src="assets/images/tools/boneknife.png"> *<i>can be collected from jungle bushes (small vegetation) with knife with 25% chance (new will re-grow after 300 seconds)</i><br><img src="assets/images/dirt_ploughed.png"><img src="assets/images/flora/herbs-harvest.png">**<i>has no seeds, just plant them in ploughed field</i>
+<br><img src="../assets/images/flora/junglebush6.png"><img src="../assets/images/flora/junglebush1.png"><img src="../assets/images/flora/junglebush16.png"> <img src="../assets/images/tools/boneknife.png"> *<i>can be collected from jungle bushes (small vegetation) with knife with 25% chance (new will re-grow after 300 seconds)</i><br><img src="../assets/images/dirt_ploughed.png"><img src="../assets/images/flora/herbs-harvest.png">**<i>has no seeds, just plant them in ploughed field</i>
 </td>
 <td>-</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/peyote.png"></td>
+<td><img src="../assets/images/food/peyote.png"></td>
 <td><b>Peyote</b> <small>(contains 5 peyote) - <i>food (satisfaction 0)</i> - <b>desert</b> - will grow at all seasons</small><br>
 • put in pipe to smoke or eat as is (5 peyote)<br>
 </td>
 <td>120</td>
 </tr>
 <tr>
-<td><img src="assets/images/stacks/poppy.png"></td>
+<td><img src="../assets/images/stacks/poppy.png"></td>
 <td><b>Poppy</b> <small>(not a reagent container) - <i>stackable material</i> - <b>jungle • savanna • desert</b> - will grow at all seasons</small><br>
 • craft an opium ball out of 3, that will contain 5 opium<br>
 &nbsp; &nbsp; • put opium ball in pipe to smoke or eat as is (5 opium)<br>
@@ -364,7 +383,7 @@ All tables are sortable - click the headers.
 <td>-</td>
 </tr>
 <tr>
-<td><img src="assets/images/stacks/tobacco_green.png"></td>
+<td><img src="../assets/images/stacks/tobacco_green.png"></td>
 <td><b>Tobacco fresh leaves</b> <small>(not a reagent container) - <i>stackable material</i> - <b>desert • jungle • savanna • semi-arid</b> - will grow at all seasons</small><br>
 • hang it on a dehydrator to dry it to dried tobacco leaves<br>
 • offer it to religious totem for 12 power each
@@ -372,7 +391,7 @@ All tables are sortable - click the headers.
 <td>-</td>
 </tr>
 <tr>
-<td><img src="assets/images/stacks/tobacco.png"></td>
+<td><img src="../assets/images/stacks/tobacco.png"></td>
 <td><b>Tobacco dried leaves</b> <small>(not a reagent container) - <i>stackable material</i> - <b>can't be grown</b></small><br>
 • put in pipe to smoke (15 nicotine)<br>
 • craft a cigar out of 3, that will contain 30 nicotine<br>
@@ -383,7 +402,7 @@ All tables are sortable - click the headers.
 <td>-</td>
 </tr>
 <tr>
-<td><img src="assets/images/stacks/coca.png"></td>
+<td><img src="../assets/images/stacks/coca.png"></td>
 <td><b>Coca leaves</b> <small>(not a reagent container) - <i>stackable material</i> - <b>jungle • savanna</b> - will grow at all seasons</small><br>
 • craft a pile of cocaine out of 10, that will contain 25 cocaine<br>
 • attack pile of cocaine by hand to make cocaine line with 5 cocaine<br>
@@ -394,7 +413,7 @@ All tables are sortable - click the headers.
 <td>-</td>
 </tr>
 <tr>
-<td><img src="assets/images/stacks/hemp.png"></td>
+<td><img src="../assets/images/stacks/hemp.png"></td>
 <td><b>Hemp</b> <small>(not a reagent container) - <i>stackable material</i> - <b>jungle • savanna • sea • semi-arid • desert</b> - not grow at winter</small><br>
 • craft a rope out of 1<br>
 • craft a joint out of 2, that will contain 30 THC<br>
@@ -403,7 +422,7 @@ All tables are sortable - click the headers.
 <td>-</td>
 </tr>
 <tr>
-<td><img src="assets/images/stacks/flax.png"></td>
+<td><img src="../assets/images/stacks/flax.png"></td>
 <td><b>Flax</b> <small>(not a reagent container) - <i>stackable material</i> - <b>temperate • taiga • tundra</b> - will grow at all seasons</small><br>
 • craft a rope out of 1<br>
 • put 2 to a retting trough to soak it to 1 retted fabric
@@ -411,7 +430,7 @@ All tables are sortable - click the headers.
 <td>-</td>
 </tr>
 <tr>
-<td><img src="assets/images/stacks/cotton.png"></td>
+<td><img src="../assets/images/stacks/cotton.png"></td>
 <td><b>Cotton pile</b> <small>(not a reagent container) - <i>stackable material</i> - <b>temperate • desert • sea • semi-arid</b> - not grow at fall and winter</small><br>
 • put in liquid container to make 1 purified cotton from each 1<br>
 • weave it on loom to make 1 cloth from each 1<br>
@@ -423,7 +442,7 @@ All tables are sortable - click the headers.
 <td>-</td>
 </tr>
 <tr>
-<td><img src="assets/images/stacks/wood.png"></td>
+<td><img src="../assets/images/stacks/wood.png"></td>
 <td><b>Wooden plank</b> <small>(not a reagent container) - <i>stackable material</i> - <b>any biome</b> - not grow at winter</small><br>
 • wood is a multi-purpose crafting material, also may be used as fuel<br>
 *<i>can be obtained not only from logging, but also when grown from tree seeds</i>
@@ -431,7 +450,7 @@ All tables are sortable - click the headers.
 <td>-</td>
 </tr>
 <tr>
-<td><img src="assets/images/stacks/bamboo.png"></td>
+<td><img src="../assets/images/stacks/bamboo.png"></td>
 <td><b>Bamboo bundle</b> <small>(not a reagent container) - <i>stackable material</i> - <b>jungle • sea</b> - not grow at dry season</small><br>
 • bamboo is another crafting material, also may be used as fuel
 </td>
@@ -439,14 +458,14 @@ All tables are sortable - click the headers.
 </tr>
 <tr>
 <td>
-<img src="assets/images/food/tintoberry.png"><br>
-<img src="assets/images/food/azulberry.png"><br>
-<img src="assets/images/food/amarberry.png"><br>
-<img src="assets/images/food/majoberry.png"><br>
-<img src="assets/images/food/narcoberry.png"><br>
-<img src="assets/images/food/zelenyyberry.png"><br>
-<img src="assets/images/food/marronberry.png"><br>
-<img src="assets/images/food/corcairghormberry.png">
+<img src="../assets/images/food/tintoberry.png"><br>
+<img src="../assets/images/food/azulberry.png"><br>
+<img src="../assets/images/food/amarberry.png"><br>
+<img src="../assets/images/food/majoberry.png"><br>
+<img src="../assets/images/food/narcoberry.png"><br>
+<img src="../assets/images/food/zelenyyberry.png"><br>
+<img src="../assets/images/food/marronberry.png"><br>
+<img src="../assets/images/food/corcairghormberry.png">
 </td>
 <td><b>Berries</b> <small>(may contain </small><b>random</b><small> reagents) - <i>food</i> - <b>in wild only</b> - will regrow after harvesting</small><br>
 All types of berries at the beginning of the round will receive random effects and reagents according to the effects. At the same time, the names remain, i.e. &#8243;narco&#8243; berries will not necessarily contain a &#8243;drug&#8243; effect.<br><br>
@@ -460,9 +479,9 @@ The effects <b>must</b> be <small>(but not, due errors in code)</small>:
 • <b>disgusting</b> - disguisting food taste <small>(contains 1 nutriment) <b>-6 satisfaction</b></small><br>
 </details><br>
 *<i>berries can be harvested from bushes in wild by hand with GRAB intent <small>(exclude red ones on some maps, because of error in map)</small></i><br>
-<img src="assets/images/flora/tintobush.png"><img src="assets/images/flora/azulbush.png"><img src="assets/images/flora/amarbush.png"><img src="assets/images/flora/majobush.png"><img src="assets/images/flora/narcobush.png"><img src="assets/images/flora/zelenyybush.png"><img src="assets/images/flora/marronbush.png"><img src="assets/images/flora/corcairghormbush.png"><br>
+<img src="../assets/images/flora/tintobush.png"><img src="../assets/images/flora/azulbush.png"><img src="../assets/images/flora/amarbush.png"><img src="../assets/images/flora/majobush.png"><img src="../assets/images/flora/narcobush.png"><img src="../assets/images/flora/zelenyybush.png"><img src="../assets/images/flora/marronbush.png"><img src="../assets/images/flora/corcairghormbush.png"><br>
 **<i>new berries will regrow in 300 seconds</i><br>
-***<i>if you use a berry gatherer <img src="assets/images/tools/berriesgatherer.png">(made from wood), you will pick two berries at once</i><br>
+***<i>if you use a berry gatherer <img src="../assets/images/tools/berriesgatherer.png">(made from wood), you will pick two berries at once</i><br>
 ****<i>berries hase no seeds and can't be cultivated for now</i><br>
 <br>
 <details><summary><small>show/hide how to identify berries</small></summary>
@@ -501,7 +520,7 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 </tr>
 <tr>
 <td>
-<img src="assets/images/stacks/leaves.png">
+<img src="../assets/images/stacks/leaves.png">
 </td>
 <td><b>Leaves</b> <small>(not a reagent container) - <i>stackable material</i> - <b>in wild only</b> - not cultivated</small><br>
 <details><summary><small>show/hide how to obtain leaves</small></summary>
@@ -524,7 +543,7 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 </tr>
 <tr>
 <td>
-<img src="assets/images/stacks/palm_leaves.png">
+<img src="../assets/images/stacks/palm_leaves.png">
 </td>
 <td><b>Palm leaves</b> <small>(not a reagent container) - <i>stackable material</i> - <b>in wild only</b> - not cultivated</small><br>
 • 3 palm leaves are obtained by cutting down palms<br>
@@ -539,7 +558,7 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 </tr>
 <tr>
 <td>
-<img src="assets/images/stacks/fern_leaves.png">
+<img src="../assets/images/stacks/fern_leaves.png">
 </td>
 <td><b>Fern leaves</b> <small>(not a reagent container) - <i>stackable material</i> - <b>in wild only</b> - not cultivated</small><br>
 • 2 fern leaves are harvested by attacking with the intent to GRAB the jungle bushes (small vegetation) with any weapon except the knife <small>(empty hand attack is not included in the code, possibly a bug)</small>.  Bushes will not re-grow leaves <small>(maybe it's a bug and will be fixed in future)</small><br>
@@ -552,12 +571,11 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 </td>
 <td>80</td>
 </tr>
-</tbody>
 </table>
 <br>
 <table>
 <tr>
-<td width=40><img src="assets/images/icons/guides_s.png" width=32 height=32></td>
+<td width=40><img src="../assets/images/icons/guides_s.png" width=32 height=32></td>
 <td>
 Any plant, except for wild ones and mushrooms, will die if it drinks all the water, or when a snowstorm or sandstorm occurs.
 </td>
@@ -566,7 +584,7 @@ Any plant, except for wild ones and mushrooms, will die if it drinks all the wat
 <br>
 <table>
 <tr>
-<td width=40><img src="assets/images/icons/guides_s.png" width=32 height=32></td>
+<td width=40><img src="../assets/images/icons/guides_s.png" width=32 height=32></td>
 <td>
 Grain can be fed to herbivores: deer, reindeer, elk, dik-diks, cows, goats, sheep, camels and ... mammoths and ... (drum roll) pachycephalosaurs (ba-dum-s-s!).
 </td>
@@ -575,7 +593,7 @@ Grain can be fed to herbivores: deer, reindeer, elk, dik-diks, cows, goats, shee
 <br>
 <table>
 <tr>
-<td width=40><img src="assets/images/icons/guides_s.png" width=32 height=32></td>
+<td width=40><img src="../assets/images/icons/guides_s.png" width=32 height=32></td>
 <td>
 Seeds can be fed to granivorous: parrots, chickens, turkeys, geese, pelicans, gulls, crows, pigs, wild boars, monkeys, mice, rabbits, gorillas, gigantopithecus, mammoths, pachycephalosaurs.
 </td>
@@ -584,7 +602,7 @@ Seeds can be fed to granivorous: parrots, chickens, turkeys, geese, pelicans, gu
 <br>
 <table>
 <tr>
-<td width=40><img src="assets/images/icons/guides_s.png" width=32 height=32></td>
+<td width=40><img src="../assets/images/icons/guides_s.png" width=32 height=32></td>
 <td>
 Oviparous will adds the amount of eggs from seed feeding, i.e. it mean that oviparous will not lay eggs if not feeded with seeds. More about an egg see below, in the egg related products section.
 </td>
@@ -593,25 +611,26 @@ Oviparous will adds the amount of eggs from seed feeding, i.e. it mean that ovip
 <br>
 <table>
 <tr>
-<td width=40><img src="assets/images/icons/guides_s.png" width=32 height=32></td>
+<td width=40><img src="../assets/images/icons/guides_s.png" width=32 height=32></td>
 <td>
 To maximize the amount of fuel in a bloomery, furnace (not iron furnace), or oven, add items one at a time for the following stack items: leaves, dry dung. <small>It some sort of bug.</small>
 </td>
 </tr>
 </table>
+</details>
 <br>
 
 ## Processed grown food products
 
+<details><summary>show/hide processed grown food products</summary>
 <table class="sortable">
-<tbody>
 <tr>
 <th width=52></th>
-<th style="background-color=#cc7000;">Product</th>
-<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
+<th>Product</th>
+<th width=64>Decay (minutes)</th>
 </tr>
 <tr>
-<td><img src="assets/images/food/flour.png"></td>
+<td><img src="../assets/images/food/flour.png"></td>
 <td><b>Small flour sack</b> <small>(contains 10 flour) - <i>condiment</i></small><br>
 • use small flour sack with 5 flour and with 5 water in off-hand liquid container to make dough<br>
 • use small flour sack with 5 flour on chicken breast to make crumbed chicken breast<br>
@@ -628,7 +647,7 @@ To maximize the amount of fuel in a bloomery, furnace (not iron furnace), or ove
 <td>1000</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/flour.png"></td>
+<td><img src="../assets/images/food/flour.png"></td>
 <td><b>Small barley flour sack</b> <small>(contains 10 barley flour) - <i>condiment</i></small><br>
 • use small barley flour sack with 5 barley flour and with 5 water in off-hand liquid container to make dough<br>
 • put in empty fermentation starter jar for yeast<br>
@@ -640,7 +659,7 @@ To maximize the amount of fuel in a bloomery, furnace (not iron furnace), or ove
 <td>1000</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/flour.png"></td>
+<td><img src="../assets/images/food/flour.png"></td>
 <td><b>Small oat flour sack</b> <small>(contains 10 oat flour) - <i>condiment</i></small><br>
 • use small oat flour sack with 5 barley flour and with 5 water in off-hand liquid container to make dough<br>
 • put in empty fermentation starter jar for yeast<br>
@@ -648,7 +667,7 @@ To maximize the amount of fuel in a bloomery, furnace (not iron furnace), or ove
 <td>1000</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/enzyme.png"></td>
+<td><img src="../assets/images/food/enzyme.png"></td>
 <td><b>Yeast</b> <small>(contains 50 enzyme) - <i>condiment</i></small><br>
 • put any grain (slower) or any flour (faster) or yeast (fastest) into a fermentation starter jar, wait for the fermentation to finish, then use a fermentation starter jar to get the yeast<br>
 • don't remove last yeast from jar, and they a will grown more, up to 5 portions <small>(it's not a bug, it's a feature © maybe, but it's not certain™ )</small><br>
@@ -680,7 +699,7 @@ but there are no standard ways to extract nutriment from food</i><br>
 <td>30</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/cheesewheel.png"></td>
+<td><img src="../assets/images/food/cheesewheel.png"></td>
 <td><b>Cheese wheel</b> <small>(contains 10 nutriment and 10 protein) - <i>food (satisfaction +4)</i> <b>non vegetarian</b></small><br>
 • 40 milk will produce 1 cheese wheel (with 5 enzyme as catalyst)<br>
 • 5 enzyme will stay in liquid container, so you may use it again and again<br>
@@ -692,7 +711,7 @@ but there are no standard ways to extract nutriment from food</i><br>
 <td>70</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/cheesewedge.png"></td>
+<td><img src="../assets/images/food/cheesewedge.png"></td>
 <td><b>Cheese wedge</b> <small>(contains 2 nutriment and 2 protein) - <i>food (satisfaction +0.8 or +3 if pre-mapped)</i></small><br>
 *<i>wedge not marked as non vegetarian</i><br>
 **<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i><br>
@@ -701,41 +720,41 @@ but there are no standard ways to extract nutriment from food</i><br>
 <td>50</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/tofu.png"></td>
+<td><img src="../assets/images/food/tofu.png"></td>
 <td><b>Tofu</b> <small>(contains 3 nutriment) - <i>food (satisfaction +2)</i></small><br>
 *<i>you cannot produce tofu, but it's present on some maps</i>
 </td>
 <td>25</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/watermelonslice.png"></td>
+<td><img src="../assets/images/food/watermelonslice.png"></td>
 <td><b>Watermelon slice</b> <small>(contains 0.08333 nutriment) - <i>food (satisfaction +0.33333)</i></small><br>
 *<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
 </td>
 <td>18</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/pumpkinslice.png"></td>
+<td><img src="../assets/images/food/pumpkinslice.png"></td>
 <td><b>Pumpkin slice</b> <small>(contains 0.08333 nutriment) - <i>food (satisfaction +0.33333)</i></small><br>
 *<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
 </td>
 <td>20</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/ricepile.png"></td>
+<td><img src="../assets/images/food/ricepile.png"></td>
 <td><b>Rice</b> <small>(contains 2 nutriment) - <i>food (satisfaction +3)</i></small><br>
 • put in pot with water, wait when rice boil and remove it from pot before it turn to stew to obtain boiled rice
 </td>
 <td>600</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/boiledrice.png"></td>
+<td><img src="../assets/images/food/boiledrice.png"></td>
 <td><b>Rice boiled</b> <small>(contains 3 nutriment) - <i>food (satisfaction +5)</i></small>
 </td>
 <td>12</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/rpudding.png"></td>
+<td><img src="../assets/images/food/rpudding.png"></td>
 <td><b>Rice pudding</b> <small>(contains 4 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot bake rice pudding, but it's present on some maps</i><br>
 **<i>after eating, there will stay a bowl (not wooden)</i>
@@ -743,34 +762,34 @@ but there are no standard ways to extract nutriment from food</i><br>
 <td>12</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/rawsticks.png"></td>
+<td><img src="../assets/images/food/rawsticks.png"></td>
 <td><b>Potato raw sticks</b> <small>(contains 3 nutriment) - <i>food (satisfaction -2)</i></small><br>
 • put in campfire, wood stove, stove, metal grill or oven to make fries
 </td>
 <td>27</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/fries.png"></td>
+<td><img src="../assets/images/food/fries.png"></td>
 <td><b>Potato fries</b> <small>(contains 4 nutriment) - <i>food (satisfaction +8)</i></small>
 </td>
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/loadedbakedpotato.png"></td>
+<td><img src="../assets/images/food/loadedbakedpotato.png"></td>
 <td><b>Loaded baked potato</b> <small>(contains 6 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot bake loaded baked potato, but it's present on some maps</i>
 </td>
 <td>12</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/leafsalad.png"></td>
+<td><img src="../assets/images/food/leafsalad.png"></td>
 <td><b>Leaf salad</b> <small>(contains 3 nutriment) - <i>food (satisfaction +2)</i></small><br>
 <i>*can be created by gorrilaman from 6 leaves of any type<small>, but if gorilla recipes loaded</small></i>
 </td>
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/herbsalad.png"></td>
+<td><img src="../assets/images/food/herbsalad.png"></td>
 <td><b>Tossed salad</b> <small>(contains 8 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot make a tossed salad, but it's present on some maps</i><br>
 **<i>after eating, there will stay a bowl (not wooden)</i>
@@ -778,14 +797,14 @@ but there are no standard ways to extract nutriment from food</i><br>
 <td>16</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/mint.png"></td>
+<td><img src="../assets/images/food/mint.png"></td>
 <td><b>Mint</b> <small>(contains 1 mint) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot produce mint, but it's present on some maps</i>
 </td>
 <td>20</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/picklejar.png"></td>
+<td><img src="../assets/images/food/picklejar.png"></td>
 <td><b>Pickle jar</b> <small>(contains 14 pickles) - <i>pickles storage</i></small><br>
 *<i>pickles in a jar will decay as in container (two times longer)</i><br>
 **<i>you cannot obtain pickle jar, but it's present on some maps</i>
@@ -793,14 +812,14 @@ but there are no standard ways to extract nutriment from food</i><br>
 <td>-</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/pickle.png"></td>
+<td><img src="../assets/images/food/pickle.png"></td>
 <td><b>Pickle</b> <small>(contains 1 nutriment) - <i>food (satisfaction +4)</i></small><br>
 • take them from pickle jar<br>
 </td>
 <td>250</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/pickleb.png"></td>
+<td><img src="../assets/images/food/pickleb.png"></td>
 <td><b>Pickle big</b> <small>(contains 5 nutriment) - <i>food (satisfaction +4)</i></small><br>
 *<i>you cannot obtain a big pickle, but it's present on some maps</i><br>
 **<i><small>it must have satisfaction +20</small></i>
@@ -808,7 +827,7 @@ but there are no standard ways to extract nutriment from food</i><br>
 <td>250</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/badrecipe.png"></td>
+<td><img src="../assets/images/food/badrecipe.png"></td>
 <td><b>Burned mess</b> <small>(contains 1 toxin and 3 carbon) - <i>food (satisfaction -8)</i></small> <b>disgusting</b><br>
 You can obtain this if you roast on campfire, wood stove, stove, metal grill or oven:<br>
 &nbsp; • food that already roasted<br>
@@ -820,21 +839,24 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 </td>
 <td>18</td>
 </tr>
-</tbody>
 </table>
+</details>
 <br>
 
 ## Pastries and pasta products
 
+### General pastries and pasta products 
+
+<details>
+<summary>show/hide general pastries and pasta products</summary>
 <table class="sortable">
-<tbody>
 <tr>
 <th width=52></th>
-<th style="background-color=#cc7000;">Product</th>
-<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
+<th>Product</th>
+<th width=64>Decay (minutes)</th>
 </tr>
 <tr>
-<td><img src="assets/images/food/dough.png"></td>
+<td><img src="../assets/images/food/dough.png"></td>
 <td><b>Dough</b> <small>(contains 3 nutriment) - <i>food (satisfaction -4)</i></small><br>
 • put in campfire, wood stove, stove, metal grill or oven to make bread<br>
 • use rolling pin to make flat dough<br>
@@ -844,7 +866,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>25</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/bread.png"></td>
+<td><img src="../assets/images/food/bread.png"></td>
 <td><b>Bread</b> <small>(contains 6 nutriment) - <i>food (satisfaction +4)</i></small><br>
 • slice to make 5 bread slices<br>
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i>
@@ -852,7 +874,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>22</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/baguette.png"></td>
+<td><img src="../assets/images/food/baguette.png"></td>
 <td><b>Baguette</b> <small>(contains 6 nutriment) - <i>food (satisfaction +4)</i></small><br>
 • slice to make 5 bread slices<br>
 &nbsp; &nbsp; *<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
@@ -861,7 +883,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>22</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/breadslice.png"></td>
+<td><img src="../assets/images/food/breadslice.png"></td>
 <td><b>Bread slice</b> <small>(contains 1.2 nutriment) - <i>food (satisfaction +0.8)</i></small><br>
 • use food or a shard on it to start making a sandwich (or expand its limit)<br>
 *<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
@@ -869,14 +891,14 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>17</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/twobread.png"></td>
+<td><img src="../assets/images/food/twobread.png"></td>
 <td><b>Two bread</b> <small>(contains 2 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot make this, it's not present on maps, but it's defined in code</i><br>
 </td>
 <td>12</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/abs_sandwich.png"></td>
+<td><img src="../assets/images/food/abs_sandwich.png"></td>
 <td><b>Sandwich</b> <small>(contains all you put in) - <i>food (satisfaction +7)</i></small><br>
 • use food on it to add ingredient (all reagents will transfer to it)<br>
 • use shard on it to add 5 brute damage after biting into this sandwich (more shards don't give more damage)<br>
@@ -889,35 +911,35 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/sandwich.png"></td>
+<td><img src="../assets/images/food/sandwich.png"></td>
 <td><b>Sandwich</b> <small>(contains 3 nutriment and 3 protein) - <i>food (satisfaction +8)</i></small><br>
 *<i>you cannot make this sandwich, but it's present on some maps</i>
 </td>
 <td>18</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/sandwichtoasted.png"></td>
+<td><img src="../assets/images/food/sandwichtoasted.png"></td>
 <td><b>Sandwich toasted</b> <small>(contains 3 nutriment, 3 protein and 2 carbon) - <i>food (satisfaction +8)</i></small><br>
 *<i>you cannot make this sandwich, but it's present on some maps</i>
 </td>
 <td>18</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/sandwichtoasted.png"></td>
+<td><img src="../assets/images/food/sandwichtoasted.png"></td>
 <td><b>Sandwich grilled cheese</b> <small>(contains 3 nutriment and 4 protein) - <i>food (satisfaction +8)</i></small><br>
 *<i>you cannot make this sandwich, but it's present on some maps</i>
 </td>
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/jellysandwich.png"></td>
+<td><img src="../assets/images/food/jellysandwich.png"></td>
 <td><b>Sandwich with jelly</b> <small>(contains 2 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot make this sandwich, but it's present on some maps</i>
 </td>
 <td>12</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/jellysandwich.png"></td>
+<td><img src="../assets/images/food/jellysandwich.png"></td>
 <td><b>Sandwich with cherry jelly</b> <small>(contains 2 nutriment and 1 cherry jelly) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot make this sandwich, it's not present on maps, but it's defined in code</i><br>
 **<i><small>it doesn't have a defined correct name</small></i><br>
@@ -926,7 +948,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>12</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/error.png"></td>
+<td><img src="../assets/images/food/error.png"></td>
 <td><b>Jellied toast</b> <small>(contains 2 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot make a jellied toast, it's not present on maps, but it's defined in code</i><br>
 **<i><small>it doesn't have a defined correct sprite</small></i>
@@ -934,7 +956,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>12</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/error.png"></td>
+<td><img src="../assets/images/food/error.png"></td>
 <td><b>Cherry jellied toast</b> <small>(contains 2 nutriment and 1 cherry jelly) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot make a cherry jellied toast, it's not present on maps, but it's defined in code</i><br>
 **<i><small>it doesn't have a defined correct sprite</small></i><br>
@@ -944,7 +966,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>12</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/dough_flat.png">
+<td><img src="../assets/images/food/dough_flat.png">
 </td>
 <td><b>Flat dough</b> <small>(contains 2 nutriment and 1 protein) - <i>food (satisfaction -3)</i></small><br>
 • put in campfire, wood stove, stove, metal grill or oven to make flatbread<br>
@@ -955,14 +977,14 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>25</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/flatbread.png">
+<td><img src="../assets/images/food/flatbread.png">
 </td>
 <td><b>Flatbread</b> <small>(contains 3 nutriment) - <i>food (satisfaction +4)</i></small><br>
 </td>
 <td>25</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/dough_slice.png"></td>
+<td><img src="../assets/images/food/dough_slice.png"></td>
 <td><b>Dough slice</b> <small>(must contains 1 nutriment, but will contains 1.66667 nutriment and 0.333333 protein) - <i>food (satisfaction -1)</i></small><br>
 • slice to make 1 spaghetti<br>
 *<i><small>we still don't know where the protein comes from</small></i><br>
@@ -971,7 +993,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>25</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/bun.png"></td>
+<td><img src="../assets/images/food/bun.png"></td>
 <td><b>Bun</b> <small>(contains 4 nutriment) - <i>food (satisfaction +3)</i></small><br>
 • use a sausage on it to make a hot dog<br>
 *<i>you cannot bake a bun, but it's present on some maps</i>
@@ -979,7 +1001,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>25</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/hburger.png"></td>
+<td><img src="../assets/images/food/hburger.png"></td>
 <td><b>Burger</b> <small>(contains 6 protein) - <i>food (satisfaction +6)</i></small><br>
 *<i>you cannot make a burger, it's not present on maps, but defined in code</i><br>
 **<i><small>it must contains another reagents, must be non vegetarian, but wrong defined</small></i>
@@ -987,7 +1009,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>17</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/hotdog.png"></td>
+<td><img src="../assets/images/food/hotdog.png"></td>
 <td><b>Hot dog</b> <small>(contains 6 protein) - <i>food (satisfaction +6)</i></small><br>
 • use a sausage on bun to make a hot dog<br>
 *<i><small>it must contains another reagents, must be non vegetarian, but wrong defined</small></i><br>
@@ -997,7 +1019,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>17</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/spaghetti.png"></td>
+<td><img src="../assets/images/food/spaghetti.png"></td>
 <td><b>Spaghetti</b> <small>(it will contains 1 nutriment if sliced from dough, but will contains 2.66667 nutriment and 0.333333 protein if sliced from dough slice due the bug in code) - <i>food (satisfaction -1 if sliced from dough slice, but +3 if sliced from dough)</i></small><br>
 • put in pot with water, wait when spaghetti boil and remove it from pot before it turn to stew to obtain boiled spaghetti<br>
 • use something sharp to make 1-2 noodles <small>(incorrect mechanics instead of using slicing mechanics)</small><br>
@@ -1006,21 +1028,21 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>60</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/spaghettiboiled.png"></td>
+<td><img src="../assets/images/food/spaghettiboiled.png"></td>
 <td><b>Spaghetti boiled</b> <small>(contains 2 nutriment) - <i>food (satisfaction +5)</i></small><br>
 • use meatball on it to make spaghetti & meatballs<br>
 </td>
 <td>14</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/spaghettimeatballs.png"></td>
+<td><img src="../assets/images/food/spaghettimeatballs.png"></td>
 <td><b>Spaghetti & meatballs</b> <small>(contains 4 nutriment and 4 protein) - <i>food (satisfaction +10)</i></small><br>
 *<i><small>don't marked as non vegetarian, and this is bug</small></i>
 </td>
 <td>11</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/pastatomato.png"></td>
+<td><img src="../assets/images/food/pastatomato.png"></td>
 <td><b>Spaghetti (pasta tomato)</b> <small>(contains 6 nutriment and 10 tomato juice) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot make a pasta tomato, but it's present on some maps</i><br>
 **<i><small>it doesn't have a defined correct name</small></i><br>
@@ -1029,14 +1051,14 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>12</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/noodles.png"></td>
+<td><img src="../assets/images/food/noodles.png"></td>
 <td><b>Noodles</b> <small>(contains 1 nutriment) - <i>food (satisfaction +3)</i></small><br>
 • put in pot with water, wait when noodles boil and remove it from pot before it turn to stew to obtain ramen<br>
 </td>
 <td>60</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/ramen.png"></td>
+<td><img src="../assets/images/food/ramen.png"></td>
 <td><b>Ramen</b> <small>(contains 6 nutriment, 4 protein and 30 water) - <i>food (satisfaction +9)</i></small><br>
 • put in pot with water, wait when noodles boil and remove it from pot before it turn to stew to obtain ramen<br>
 *<i><small>it's really overpowered (it's not a bug, it's a feature © maybe, but it's not certain™ )</small></i>
@@ -1044,42 +1066,42 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>11</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/gyro.png"></td>
+<td><img src="../assets/images/food/gyro.png"></td>
 <td><b>Gyro</b> <small>(contains 6 nutriment) - <i>food (satisfaction +10)</i></small><br>
 *<i>you cannot make a gyro, but it's present on some maps</i>
 </td>
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/hardtack.png"></td>
+<td><img src="../assets/images/food/hardtack.png"></td>
 <td><b>Hardtack</b> <small>(contains 2 nutriment) - <i>food (satisfaction +1)</i></small><br>
 *<i>you cannot bake a hardtack, but it's present on some maps</i>
 </td>
 <td>-</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/cracker.png"></td>
+<td><img src="../assets/images/food/cracker.png"></td>
 <td><b>Cracker</b> <small>(contains 1 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot bake a cracker, but it's present on some maps</i>
 </td>
 <td>80</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/poppypretzel.png"></td>
+<td><img src="../assets/images/food/poppypretzel.png"></td>
 <td><b>Poppy pretzel</b> <small>(contains 5 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot bake a poppy pretzel, but it's present on some maps</i>
 </td>
 <td>35</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/meatpie.png"></td>
+<td><img src="../assets/images/food/meatpie.png"></td>
 <td><b>Meat-pie</b> <small>(contains 10 protein) - <i>food (satisfaction 0)</i> <b>non vegetarian</b></small><br>
 *<i>you cannot bake a meat-pie, but it's present on some maps</i><br>
 </td>
 <td>20</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/meatbread.png"></td>
+<td><img src="../assets/images/food/meatbread.png"></td>
 <td><b>Meatbread loaf</b> <small>(contains 10 nutriment and 20 protein) - <i>food (satisfaction 0)</i> <b>non vegetarian</b></small><br>
 • slice to make 5 meatbread slices<br>
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
@@ -1088,14 +1110,14 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>17</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/meatbreadslice.png"></td>
+<td><img src="../assets/images/food/meatbreadslice.png"></td>
 <td><b>Meatbread slice</b> <small>(contains 2 nutriment and 4 protein) - <i>food (satisfaction 0)</i> <b>non vegetarian</b></small><br>
 *<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
 </td>
 <td>17</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/creamcheesebread.png"></td>
+<td><img src="../assets/images/food/creamcheesebread.png"></td>
 <td><b>Cream cheese bread</b> <small>(contains 5 nutriment and 15 protein) - <i>food (satisfaction 0)</i> <b>non vegetarian</b></small><br>
 • slice to make 5 cream cheese bread slices<br>
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
@@ -1106,7 +1128,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/creamcheesebreadslice.png"></td>
+<td><img src="../assets/images/food/creamcheesebreadslice.png"></td>
 <td><b>Cream cheese bread slice</b> <small>(contains 1 nutriment and 3 protein) - <i>food (satisfaction 0)</i></small><br>
 *<i>slice not marked as non vegetarian</i><br>
 **<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i><br>
@@ -1114,21 +1136,22 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 </td>
 <td>15</td>
 </tr>
-</tbody>
 </table>
+</details>
 <br>
 
 ### Cakes, pies and sweet pastry
 
+<details>
+<summary>show/hide cakes, pies and sweet pastry</summary>
 <table class="sortable">
-<tbody>
 <tr>
 <th width=52></th>
-<th style="background-color=#cc7000;">Product</th>
-<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
+<th>Product</th>
+<th width=64>Decay (minutes)</th>
 </tr>
 <tr>
-<td><img src="assets/images/food/bananabread.png"></td>
+<td><img src="../assets/images/food/bananabread.png"></td>
 <td><b>Banana-nut bread</b> <small>(contains 10 nutriment and 20 banana juice) - <i>food (satisfaction 0)</i></small><br>
 • slice to make 5 banana-nut bread slices<br>
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
@@ -1137,63 +1160,63 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>17</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/bananabreadslice.png"></td>
+<td><img src="../assets/images/food/bananabreadslice.png"></td>
 <td><b>Banana-nut bread slice </b> <small>(contains 2 nutriment and 4 banana juice) - <i>food (satisfaction 0)</i></small><br>
 *<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
 </td>
 <td>17</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/cookie.png"></td>
+<td><img src="../assets/images/food/cookie.png"></td>
 <td><b>Cookie</b> <small>(contains 5 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot bake a cookie, but it's present on some maps</i>
 </td>
 <td>45</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/muffin.png"></td>
+<td><img src="../assets/images/food/muffin.png"></td>
 <td><b>Muffin</b> <small>(contains 6 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot bake a muffin, but it's present on some maps</i><br>
 </td>
 <td>25</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/waffles.png"></td>
+<td><img src="../assets/images/food/waffles.png"></td>
 <td><b>Waffles</b> <small>(contains 6 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot bake a waffles, but it's present on some maps</i><br>
 </td>
 <td>18</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/sweetroll.png"></td>
+<td><img src="../assets/images/food/sweetroll.png"></td>
 <td><b>Sweet roll</b> <small>(contains 4 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot bake a sweet roll, but it's present on some maps</i>
 </td>
 <td>18</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/applepie.png"></td>
+<td><img src="../assets/images/food/applepie.png"></td>
 <td><b>Apple pie</b> <small>(contains 4 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot bake an apple pie, but it's present on some maps</i><br>
 </td>
 <td>18</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/cherrypie.png"></td>
+<td><img src="../assets/images/food/cherrypie.png"></td>
 <td><b>Cherry pie</b> <small>(contains 4 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot bake a cherry pie, but it's present on some maps</i><br>
 </td>
 <td>18</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/gappletart.png"></td>
+<td><img src="../assets/images/food/gappletart.png"></td>
 <td><b>Golden apple streusel tart</b> <small>(contains 8 nutriment and 5 gold) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot bake a golden apple streusel tart, but it's present on some maps</i><br>
 </td>
 <td>16</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/plaincake.png"></td>
+<td><img src="../assets/images/food/plaincake.png"></td>
 <td><b>Tofu-pie</b> <small>(contains 10 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot bake a tofu-pie, but it's present on some maps</i><br>
 **<i>cannot be sliced</i>
@@ -1201,7 +1224,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>25</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/carrotcake.png"></td>
+<td><img src="../assets/images/food/carrotcake.png"></td>
 <td><b>Carrot cake</b> <small>(contains 25 nutriment and 10 imidazoline) - <i>food (satisfaction 0)</i></small><br>
 • slice to make 5 carrot cake slices<br>
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
@@ -1210,14 +1233,14 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>17</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/carrotcake_slice.png"></td>
+<td><img src="../assets/images/food/carrotcake_slice.png"></td>
 <td><b>Carrot cake slice</b> <small>(contains 5 nutriment and 2 imidazoline) - <i>food (satisfaction 0)</i></small><br>
 *<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
 </td>
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/cheesecake.png"></td>
+<td><img src="../assets/images/food/cheesecake.png"></td>
 <td><b>Cheesecake</b> <small>(contains 10 nutriment and 15 protein) - <i>food (satisfaction 0)</i></small><br>
 • slice to make 5 cheesecake slices<br>
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
@@ -1227,7 +1250,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/cheesecake_slice.png"></td>
+<td><img src="../assets/images/food/cheesecake_slice.png"></td>
 <td><b>Cheesecake slice</b> <small>(contains 2 nutriment and 3 protein) - <i>food (satisfaction 0)</i></small><br>
 *<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i><br>
 **<i><small>cheese cake slice - typo in code</small></i>
@@ -1235,7 +1258,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/plaincake.png"></td>
+<td><img src="../assets/images/food/plaincake.png"></td>
 <td><b>Vanilla cake</b> <small>(contains 20 nutriment) - <i>food (satisfaction 0)</i></small><br>
 • slice to make 5 vanilla cake slices<br>
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
@@ -1244,14 +1267,14 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/plaincake_slice.png"></td>
+<td><img src="../assets/images/food/plaincake_slice.png"></td>
 <td><b>Vanilla cake slice</b> <small>(contains 4 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
 </td>
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/orangecake.png"></td>
+<td><img src="../assets/images/food/orangecake.png"></td>
 <td><b>Orange cake</b> <small>(contains 20 nutriment) - <i>food (satisfaction 0)</i></small><br>
 • slice to make 5 orange cake slices<br>
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
@@ -1260,14 +1283,14 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/orangecake_slice.png"></td>
+<td><img src="../assets/images/food/orangecake_slice.png"></td>
 <td><b>Orange cake slice</b> <small>(contains 4 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
 </td>
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/lemoncake.png"></td>
+<td><img src="../assets/images/food/lemoncake.png"></td>
 <td><b>Lemon cake</b> <small>(contains 20 nutriment) - <i>food (satisfaction 0)</i></small><br>
 • slice to make 5 lemon cake slices<br>
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
@@ -1276,14 +1299,14 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/lemoncake_slice.png"></td>
+<td><img src="../assets/images/food/lemoncake_slice.png"></td>
 <td><b>Lemon cake slice</b> <small>(contains 4 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
 </td>
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/limecake.png"></td>
+<td><img src="../assets/images/food/limecake.png"></td>
 <td><b>Lime cake</b> <small>(contains 20 nutriment) - <i>food (satisfaction 0)</i></small><br>
 • slice to make 5 lime cake slices<br>
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
@@ -1292,14 +1315,14 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/limecake_slice.png"></td>
+<td><img src="../assets/images/food/limecake_slice.png"></td>
 <td><b>Lime cake slice</b> <small>(contains 4 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
 </td>
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/chocolatecake.png"></td>
+<td><img src="../assets/images/food/chocolatecake.png"></td>
 <td><b>Chocolate cake</b> <small>(contains 20 nutriment) - <i>food (satisfaction 0)</i></small><br>
 • slice to make 5 chocolate cake slices<br>
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
@@ -1308,14 +1331,14 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/chocolatecake_slice.png"></td>
+<td><img src="../assets/images/food/chocolatecake_slice.png"></td>
 <td><b>Chocolate cake slice</b> <small>(contains 4 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
 </td>
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/applecake.png"></td>
+<td><img src="../assets/images/food/applecake.png"></td>
 <td><b>Apple cake</b> <small>(contains 15 nutriment) - <i>food (satisfaction 0)</i></small><br>
 • slice to make 5 apple cake slices<br>
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
@@ -1324,14 +1347,14 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/applecake_slice.png"></td>
+<td><img src="../assets/images/food/applecake_slice.png"></td>
 <td><b>Apple cake slice</b> <small>(contains 3 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
 </td>
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/pumpkinpie.png"></td>
+<td><img src="../assets/images/food/pumpkinpie.png"></td>
 <td><b>Pumpkin pie</b> <small>(contains 15 nutriment) - <i>food (satisfaction 0)</i></small><br>
 • slice to make 5 pumpkin pie slices<br>
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
@@ -1340,27 +1363,28 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/pumpkinpie_slice.png"></td>
+<td><img src="../assets/images/food/pumpkinpie_slice.png"></td>
 <td><b>Pumpkin pie slice</b> <small>(contains 3 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i><small>pre-mapped will not contain any reagents inside due to a bug in the code.</small></i>
 </td>
 <td>15</td>
 </tr>
-</tbody>
 </table>
+</details>
 <br>
 
 ### Pizza
 
+<details>
+<summary>show/hide pizza</summary>
 <table class="sortable">
-<tbody>
 <tr>
 <th width=52></th>
-<th style="background-color=#cc7000;">Product</th>
-<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
+<th>Product</th>
+<th width=64>Decay (minutes)</th>
 </tr>
 <tr>
-<td><img src="assets/images/food/pizza.png"></td>
+<td><img src="../assets/images/food/pizza.png"></td>
 <td><b>Pizza</b> <small>(contains 8 nutriment and 2 parsley) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot bake a pizza, but it's present on some maps</i><br>
 **<i><small>it should contain 8 nutriment, 2 parsley and 2 ketchup, but defined non-existent reagent tomato (bug)</small></i><br>
@@ -1369,7 +1393,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/pizzapepperoni.png"></td>
+<td><img src="../assets/images/food/pizzapepperoni.png"></td>
 <td><b>Pepperoni and cheese pizza</b> <small>(contains 2 parsley and 1 capsaicin oil) - <i>food (satisfaction 0)</i> <b>non vegetarian</b></small><br>
 *<i>you cannot bake a peperoni and cheese pizza, but it's present on some maps</i><br>
 **<i><small>it should contain 9 nutriment, 2 ketchup and 1 capsaicin oil, but defined non-existent reagent tomato (bug) and other bugs in code make it wrong</small></i><br>
@@ -1378,7 +1402,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/vegetablepizza.png"></td>
+<td><img src="../assets/images/food/vegetablepizza.png"></td>
 <td><b>Spicy vegetable pizza</b> <small>(contains 2 celery and 2 parsley) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot bake a spicy vegetable pizza, but it's present on some maps</i><br>
 **<i><small>it should contain 8 nutriment, 2 celery and 2 ketchup, but there is a bugs in the code</small></i><br>
@@ -1387,7 +1411,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/meatpizza.png"></td>
+<td><img src="../assets/images/food/meatpizza.png"></td>
 <td><b>Meatball pizza</b> <small>(contains 4 protein and 2 parsley) - <i>food (satisfaction 0)</i> <b>non vegetarian</b></small><br>
 *<i>you cannot bake a meatball pizza, but it's present on some maps</i><br>
 **<i><small>it should contain 6 nutriment, 4 protein and 2 ketchup, but there is a bugs in the code</small></i><br>
@@ -1396,7 +1420,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/pizzasauced.png"></td>
+<td><img src="../assets/images/food/pizzasauced.png"></td>
 <td><b>Plain pizza</b> <small>(contains 2 parsley) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot bake a plain pizza, it's not present on maps, but it's defined in code</i><br>
 **<i><small>it should contain 4 nutriment, and 8 ketchup, but there is a bugs in the code</small></i><br>
@@ -1405,7 +1429,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/pizzacheesed.png"></td>
+<td><img src="../assets/images/food/pizzacheesed.png"></td>
 <td><b>Cheese pizza</b> <small>(contains 2 parsley) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot bake a cheese pizza, but it's present on some maps</i><br>
 **<i><small>it should contain another reagents but there is a bugs in the code</small></i><br>
@@ -1413,21 +1437,22 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 </td>
 <td>15</td>
 </tr>
-</tbody>
 </table>
+</details>
 <br>
 
 ## Egg related products
 
+<details>
+<summary>show/hide egg related products</summary>
 <table class="sortable">
-<tbody>
 <tr>
 <th width=52></th>
-<th style="background-color=#cc7000;">Product</th>
-<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
+<th>Product</th>
+<th width=64>Decay (minutes)</th>
 </tr>
 <tr>
-<td><img src="assets/images/food/error.png"></td>
+<td><img src="../assets/images/food/error.png"></td>
 <td><b>Egg box</b> <small>(contains 12 eggs) - <i>eggs storage</i></small><br>
 • can contain boiled eggs, if you place it inside<br>
 *<i>eggs in a box will decay as in container (two times longer)</i><br>
@@ -1438,7 +1463,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>-</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/egg.png"></td>
+<td><img src="../assets/images/food/egg.png"></td>
 <td><b>Egg</b> <small>(contains 2 nutriment) - <i>food (satisfaction +4)</i> <b>non vegetarian</b></small><br>
 • using egg on liquid container will transfer reagents to container <small>(2 nutriment)</small><br>
 *<i>tip: eggs for now is a way to make moonshine <small>(at least until nutriment reagent is corrected into egg yolk reagent in egg contains)</small></i><br>
@@ -1449,48 +1474,49 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>90</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/egg_turkey.png"></td>
+<td><img src="../assets/images/food/egg_turkey.png"></td>
 <td><b>Egg turkey</b> <small>(contains 2 nutriment) - <i>food (satisfaction +2)</i></small><br>
 • at the moment, everything is the same as the chicken egg, except for the satisfaction (+2 instead of +4) and the hatching of a turkey instead of a chick<br>
 </td>
 <td>90</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/egg.png"></td>
+<td><img src="../assets/images/food/egg.png"></td>
 <td><b>Boiled egg</b> <small>(contains 2 nutriment) - <i>food (satisfaction +5)</i> <b>non vegetarian</b></small><br>
 *<i>you cannot boil an egg, but it's present on some maps</i>
 </td>
 <td>12</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/friedegg.png"></td>
+<td><img src="../assets/images/food/friedegg.png"></td>
 <td><b>Fried egg</b> <small>(contains 2 nutriment, 1 table salt and 1 black pepper) - <i>food (satisfaction +8)</i> <b>non vegetarian</b></small><br>
 *<i>you cannot fry an egg, but it's present on some maps</i>
 </td>
 <td>12</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/omelette.png"></td>
+<td><img src="../assets/images/food/omelette.png"></td>
 <td><b>Omelette Du Fromage</b> <small>(contains 6 nutriment) - <i>food (satisfaction +8)</i> <b>non vegetarian</b></small><br>
 *<i>you cannot bake an omelette, but it's present on some maps</i>
 </td>
 <td>12</td>
 </tr>
-</tbody>
 </table>
+</details>
 <br>
 
 ## Soups and stew
 
+<details>
+<summary>show/hide soups and stew</summary>
 <table class="sortable">
-<tbody>
 <tr>
 <th width=52></th>
-<th style="background-color=#cc7000;">Product</th>
-<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
+<th>Product</th>
+<th width=64>Decay (minutes)</th>
 </tr>
 <tr>
-<td><img src="assets/images/food/snack_bowl.png"></td>
+<td><img src="../assets/images/food/snack_bowl.png"></td>
 <td><b>Bowl</b> <small>- <i>an item that remains after eating certain foods</i></small><br>
 • can be used on a pot of stew to get <small>(due to a bug)</small> stew in a wooden bowl<br>
 • cannot be crafted<br>
@@ -1499,7 +1525,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>-</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/wood_bowl.png"></td>
+<td><img src="../assets/images/food/wood_bowl.png"></td>
 <td><b>Wood bowl</b> <small>- <i>an item that remains after eating stew or caldo verde</i></small><br>
 • can be used on a pot of stew to get stew in a wooden bowl<br>
 • can be crafted from wood<br>
@@ -1508,8 +1534,8 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>-</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/stew.png"></td>
-<td><b>Stew</b> <small>(contains 10 nutriment and 14 water) - <i>food (satisfaction +4)</small></i><br>
+<td><img src="../assets/images/food/stew.png"></td>
+<td><b>Stew</b> <small>(contains 10 nutriment and 14 water) - <i>food (satisfaction +4)</i></small><br>
 *<i>you cannot get a stew in this type of bowl from pot of stew, but it's variant is present on some maps</i><br>
 **<i>this won't fit in the pot for stewing as ingridient</i><br>
 ***<i>after eating, there will stay a bowl (not wooden)</i><br>
@@ -1518,8 +1544,8 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>16</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/stew_wood.png"></td>
-<td><b>Stew <small>(in wooden bowl)</small></b> <small>(contains 10 nutriment and 14 water and ...) - <i>food (satisfaction +4)</small></i><br>
+<td><img src="../assets/images/food/stew_wood.png"></td>
+<td><b>Stew <small>(in wooden bowl)</small></b> <small>(contains 10 nutriment and 14 water and ...) - <i>food (satisfaction +4)</i></small><br>
 • to obtain use bowl on a pot of stew (see the cooking in a pot section for details)<br>
 *<i>after eating, there will stay a wooden bowl</i><br>
 **<i><small>this may used on the pot for stewing as ingridient due a bug</small></i><br>
@@ -1530,7 +1556,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>16</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/meatballsoup.png"></td>
+<td><img src="../assets/images/food/meatballsoup.png"></td>
 <td><b>Meatball soup</b> <small>(contains 8 proteins and 16 water) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot cook a meatball soup, but it's present on some maps</i><br>
 **<i>after eating, there will stay a bowl (not wooden)</i><br>
@@ -1539,7 +1565,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>16</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/vegetablesoup.png"></td>
+<td><img src="../assets/images/food/vegetablesoup.png"></td>
 <td><b>Vegetable soup</b> <small>(contains 8 nutriment and 16 water) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot cook a vegetable soup, but it's present on some maps</i><br>
 **<i>after eating, there will stay a bowl (not wooden)</i>
@@ -1547,7 +1573,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>20</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/tomatosoup.png"></td>
+<td><img src="../assets/images/food/tomatosoup.png"></td>
 <td><b>Tomato soup</b> <small>(contains 6 nutriment and 14 tomato juice) - <i>food (satisfaction +4)</i></small><br>
 *<i>you cannot cook a tomato soup, but it's present on some maps</i><br>
 **<i>after eating, there will stay a bowl (not wooden)</i>
@@ -1555,7 +1581,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/mushroomsoup.png"></td>
+<td><img src="../assets/images/food/mushroomsoup.png"></td>
 <td><b>Mushroom soup</b> <small>(contains 8 nutriment and 30 water) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot cook a mushroom soup, but it's present on some maps</i><br>
 **<i>after eating, there will stay a bowl (not wooden)</i>
@@ -1563,7 +1589,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>15</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/beetsoup.png"></td>
+<td><img src="../assets/images/food/beetsoup.png"></td>
 <td><b>Borshch</b> <small>(contains 8 nutriment, 4 protein, 5 tomato juice, 5 imidazoline and 15 water) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot cook a borshch, but it's present on some maps</i><br>
 **<i>after eating, there will stay a bowl (not wooden)</i><br>
@@ -1572,7 +1598,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>16</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/caldoverde.png"></td>
+<td><img src="../assets/images/food/caldoverde.png"></td>
 <td><b>Caldo verde</b> <small>(contains 4 nutriment, 4 protein and 15 water) - <i>food (satisfaction +6)</i></small><br>
 *<i>you cannot cook a caldo verde, but it's present on some maps</i><br>
 **<i>after eating, there will stay a wooden bowl</i><br>
@@ -1580,153 +1606,1633 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 </td>
 <td>15</td>
 </tr>
-</tbody>
 </table>
 <br>
 <table>
-<tbody>
 <tr>
 <td>
-<img src="assets/images/icons/guides.png" height=128 width=128>
+<img src="../assets/images/icons/guides.png" height=128 width=128>
 </td>
 <td>
 <i><b>after this point the page is under construction and may contain inaccuracies!!!</b></i>
 </td>
 </tr>
-</tbody>
+</table>
+</details>
+<br>
+
+## Butchering results
+
+<table style="padding: 0px; margin: 0px">
+<tr>
+<td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+Select harm
+</td>
+<td width=36 style="padding-left: 4px; padding-right: 4px; padding-top: 0px; padding-bottom: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+<img src="../assets/images/icons/i_harm.png" width=32 height=32>
+</td>
+<td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+or grab
+</td>
+<td width=36 style="padding-left: 4px; padding-right: 4px; padding-top: 0px; padding-bottom: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+<img src="../assets/images/icons/i_grab.png" width=32 height=32>
+</td>
+<td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+intent, take an any sharp weapon
+</td>
+<td width=36 style="padding-left: 4px; padding-right: 4px; padding-top: 0px; padding-bottom: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+<img src="../assets/images/tools/boneknife.png" width=32 height=32>
+</td>
+<td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+of any kind and use it on dead animal.
+</td>
+</tr>
+</table>
+<table style="padding: 0px; margin: 0px">
+<tr>
+<td width=36 style="padding-left: 0px; padding-right: 4px; padding-top: 0px; padding-bottom: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+<img src="../assets/images/icons/i_harm.png" width=32 height=32>
+</td>
+<td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+Harm intent used mostly for butchering. Butchering will continue for 3 seconds. It's will produce extra meat and extra fat for most animals <small>(maybe it's a bug)</small>.
+</td>
+</tr>
+</table>
+<table style="padding: 0px; margin: 0px">
+<tr>
+<td width=36 style="padding-left: 0px; padding-right: 4px; padding-top: 0px; padding-bottom: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+<img src="../assets/images/icons/i_grab.png" width=32 height=32>
+</td>
+<td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+Grab intent is mostly used for skinning. Skinning will continue for 10 seconds. <small>It doesn't matter what size the skinned mob was, but you will always get 1 meatsteak (not meat), and the value of the variable "amount" will be assigned, which means nothing for this type of item. And this is either unrealized mechanics or a bug. Also, you will never get leather when skinning, and this is also most likely a bug. Last but not least bug, if you get pelts or other products during the skinning process, you will not get a medical skill boost.</small>
+</td>
+</tr>
+</table>
+<table style="padding: 0px; margin: 0px">
+<tr height=36>
+<td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+Usually you get an increase in medical skill for butchering or skinning. See the hidden tables below for detailed results of this process.
+</td>
+</tr>
+</table>
+<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00">
+<tr>
+<td width=36 style="padding-top: 5px; padding-bottom: 0px; padding-left: 3px; padding-right: 3px; margin: 0px; border-bottom: 0px; border-top: 0px; ">
+<img src="../assets/images/icons/character_s.png" width=32 height=32>
+</td>
+<td style="padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 8px; margin: 0px; border-bottom: 0px; border-top: 0px; vertical-align: middle">
+In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, it's a bug.</small>
+</td>
+</tr>
 </table>
 <br>
+
+### Frogs, lizards and snakes
+
+<details><summary>show/hide butchering results of frogs, lizard and snakes</summary>
+<table>
+<tr>
+<th width=100%>
+<b>Butchering results</b>
+</th>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/animals/frog_poisonous-dead.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Poisonous frog</b> <small>medical skill +0.3 at harm or +0.33333334 at grab</small>
+    </td>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 poisonous frog meat.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 poisonous frog meatsteak <small>(it's differs from poisonous frog meat)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/animals/frog-dead.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Frog</b> <small>medical skill +0.33333334</small>
+    </td>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 frog meat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 frog fat <small>(it's a bug, must be x1)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 frog meatsteak;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/animals/beelzebufo-dead.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Beelzebufo</b> <small>medical skill +0.33333334</small>
+    </td>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 beelzebufo meat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 beelzebufo fat <small>(it's a bug, must be x1)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 beelzebufo meatsteak;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/animals/lizard-dead.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Lizard</b> <small>medical skill +0.33333334</small>
+    </td>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 lizard meat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 lizard fat <small>(it's a bug, must be x1)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 lizard meatsteak;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/food/error.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Ianthasaurus</b> <small>medical skill +0.33333334 - <i>has no sprite, but defined in code</i></small> 
+    </td>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 ianthasaurus meat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 ianthasaurus fat <small>(it's a bug, must be x1)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 ianthasaurus meatsteak;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/animals/tiktaalik-dead.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Tiktaalik</b> <small>medical skill +0.33333334</small>
+    </td>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 tiktaalik meat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 tiktaalik fat <small>(it's a bug, must be x1)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 tiktaalik meatsteak;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/animals/ichthyostega-dead.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Ichthyostega</b> <small>medical skill +0.33333334</small>
+    </td>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 ichthyostega meat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 ichthyostega fat <small>(it's a bug, must be x1)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 ichthyostega meatsteak;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/animals/snake-dead.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Snake</b> <small>medical skill +1</small>
+    </td>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 snake meat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 snake fat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/leather.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 snake leather;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 snake bone.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 snake meatsteak;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 snake bone <small>(it's a bug, must be x1)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/animals/cobra-dead.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Cobra</b> <small>medical skill +1</small>
+    </td>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 cobra meat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 cobra fat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/leather.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 cobra leather;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 cobra bone.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 cobra meatsteak;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 cobra bone <small>(it's a bug, must be x1)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=70 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/animals/boa-dead.png" width=64 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Boa constrictor</b> <small>medical skill +1.3333334</small>
+    </td>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 boa constrictor meat <small>(it's a bug, must be x2)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 boa constrictor fat <small>(it's a bug, must be x2)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/leather.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 boa constrictor leather;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 boa constrictor bone.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 boa constrictor meatsteak <small>(it's a bug, must be x2)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x4 boa constrictor bone <small>(it's a bug, must be x2)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/animals/python-dead.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Python</b> <small>medical skill +1.3333334</small>
+    </td>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 python meat <small>(it's a bug, must be x2)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 python fat <small>(it's a bug, must be x2)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/leather.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 python leather;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 python bone.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 python meatsteak <small>(it's a bug, must be x2)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x4 python bone <small>(it's a bug, must be x2)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+</table>
+</details>
+<br>
+
+### Dinosaurs and archosaurs
+
+<table>
+<tr>
+<th width=100%>
+<b>Butchering results</b>
+</th>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/animals/compsognathus-dead.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Compsognathus</b> <small>medical skill +1 on harm intent, but 0 on grab intent due a bug</small>
+    </td>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 compsognathus meat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 compsognathus fat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/leather.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 compsognathus leather;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 compsognathus bone.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 compsognathus meatsteak;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/lizardpelt.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 lizard pelts;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 compsognathus bone <small>(it's a bug, must be x1)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=70 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/animals/pachycephalosaurus-dead.png" width=64 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Pachycephalosaurus</b> as <b><font color=gray>pachy</font></b> <small>medical skill +1.3333334 on harm intent, but 0 on grab intent due a bug<br><i><font color=red>presents two times in code as</font></i> <b><font color=gray>dinosaur/pachycephalosaurus</font></b> <i><font color=red>and as</font></i> <b><font color=gray>pachy</font></b></small> 
+    </td>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 pachycephalosaurus meat <small>(it's a bug, must be x2)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 pachycephalosaurus fat <small>(it's a bug, must be x2)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/leather.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 pachycephalosaurus leather;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 pachycephalosaurus bone.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 pachycephalosaurus meatsteak <small>(it's a bug, must be x2)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/lizardpelt.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 lizard pelts <small>(all the rest math says it should be x2, but here x3)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x4 pachycephalosaurus bone <small>(it's a bug, must be x2)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=70 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/animals/pachycephalosaurus-dead.png" width=64 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Pachycephalosaurus</b> as <b><font color=gray>pachycephalosaurus</font></b> <small>medical skill +1.6666666<br><i><font color=red>presents two times in code as</font></i> <b><font color=gray>dinosaur/pachycephalosaurus</font></b> <i><font color=red>and as</font></i> <b><font color=gray>pachy</font></b></small> 
+    </td>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x4 pachycephalosaurus meat <small>(it's a bug, must be x3)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x4 pachycephalosaurus fat <small>(it's a bug, must be x3)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/leather.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 pachycephalosaurus leather;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 pachycephalosaurus bone.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 pachycephalosaurus meatsteak <small>(it's a bug, must be x3)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x5 pachycephalosaurus bone <small>(it's a bug, must be x3)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=70 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/animals/alligator-dead.png" width=64 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Alligator</b> <small>medical skill +1.6666666 on harm intent, but 0 on grab intent due a bug</small>
+    </td>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x4 alligator meat <small>(it's a bug, must be x3)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/leather.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 alligator leather;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 alligator bone.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 alligator meatsteak <small>(it's a bug, must be x3)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/alligatorpelt.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 alligator pelts;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x5 alligator bone <small>(it's a bug, must be x3)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=70 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/animals/velociraptor-dead.png" width=64 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Velociraptor</b> <small>medical skill +1.6666666 on harm intent, but 0 on grab intent due a bug</small>
+    </td>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x4 velociraptor meat <small>(it's a bug, must be x3)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x4 velociraptor fat <small>(it's a bug, must be x3)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/leather.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 velociraptor leather;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 velociraptor bone.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 velociraptor meatsteak <small>(it's a bug, must be x3)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/lizardpelt.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 lizard pelts;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x5 velociraptor bone <small>(it's a bug, must be x3)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=70 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/animals/dimetrodon-dead.png" width=64 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Dimetrodon</b> <small>medical skill +1.6666666</small>
+    </td>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x4 dimetrodon meat <small>(it's a bug, must be x3)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x4 dimetrodon fat <small>(it's a bug, must be x3)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/leather.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 dimetrodon leather;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 dimetrodon bone.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 dimetrodon meatsteak <small>(it's a bug, must be x3)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x5 dimetrodon bone <small>(it's a bug, must be x3)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=132 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/animals/trex-dead.png" width=128 height=96>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Tyrannosaurus rex</b> <small>medical skill +2.6666667 on harm intent, but 0 on grab intent due a bug</small>
+    </td>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x7 tyrannosaurus rex meat <small>(it's a bug, must be x6)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x7 tyrannosaurus rex fat <small>(it's a bug, must be x6)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/leather.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x6 tyrannosaurus rex leather;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x6 tyrannosaurus rex bone.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="../assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 tyrannosaurus rex meatsteak <small>(it's a bug, must be x6)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/lizardpelt.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x10 lizard pelts <small>(all the rest math says it should be x6, but here x10)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="../assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x8 tyrannosaurus rex bone <small>(it's a bug, must be x6)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+</table>
+
 
 ## Meat products
 
 <table class="sortable">
-<tbody>
 <tr>
 <th width=52></th>
-<th style="background-color=#cc7000;">Product</th>
-<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
-<th width=64 style="background-color=#cc7000;">Rots (minutes)</th>
+<th>Product</th>
+<th width=64>Decay (minutes)</th>
+<th width=64>Rots (minutes)</th>
 <th width=52></th>
 </tr>
 <tr>
-<td><img src="assets/images/food/meat.png"></td>
+<td><img src="../assets/images/food/meat.png"></td>
 <td><b>Raw meat</b><br>*<i>use knife for slice to cutlets</i></td>
 <td>15</td>
 <td>8</td>
-<td><img src="assets/images/food/rottenmeat.png"></td>
+<td><img src="../assets/images/food/rottenmeat.png"></td>
 </tr>
 <tr>
-<td><img src="assets/images/food/meat_roasted.png"></td>
+<td><img src="../assets/images/food/meat_roasted.png"></td>
 <td><b>Roasted meat</b><br>*<i>it's all the same meat, but without cholera and food poisoning, more nutritious and tastes better</i></td>
 <td>*</td>
 <td>*</td>
-<td><img src="assets/images/food/rottenmeat_roasted.png"></td>
+<td><img src="../assets/images/food/rottenmeat_roasted.png"></td>
 </tr>
 <tr>
-<td><img src="assets/images/food/rawcutlet.png"></td>
+<td><img src="../assets/images/food/rawcutlet.png"></td>
 <td><b>Raw cutlet</b><br>*<i>use with container with flour in off-hand to make raw schnitzel</i></td>
 <td>15</td>
 <td>8</td>
-<td><img src="assets/images/food/rottencutlet.png"></td>
+<td><img src="../assets/images/food/rottencutlet.png"></td>
 </tr>
 <tr>
-<td><img src="assets/images/food/driedmeat.png"></td>
+<td><img src="../assets/images/food/driedmeat.png"></td>
 <td><b>Dried meat</b></td>
 <td>250</td>
 <td>-</td>
 <td></td>
 </tr>
-</tbody>
 </table>
 
 ## Seafood
 
 <table class="sortable">
-<tbody>
 <tr>
 <th width=52></th>
-<th style="background-color=#cc7000;">Product</th>
-<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
-<th width=64 style="background-color=#cc7000;">Rots (minutes)</th>
+<th>Product</th>
+<th width=64>Decay (minutes)</th>
+<th width=64>Rots (minutes)</th>
 <th width=52></th>
 </tr>
 <tr>
-<td><img src="assets/images/food/rawfish.png"><br><img src="assets/images/food/salmon.png"><br><img src="assets/images/food/cod.png"></td>
+<td><img src="../assets/images/food/rawfish.png"><br><img src="../assets/images/food/salmon.png"><br><img src="../assets/images/food/cod.png"></td>
 <td><b>Raw fish</b><i><br>*use knife for slice to fillets<br>**cod will slice to fish fillets</i></td>
 <td>15</td>
 <td>8</td>
-<td><img src="assets/images/food/rottenfish.png"><br><img src="assets/images/food/rottenfish.png"><br><img src="assets/images/food/rotten_cod.png"></td>
+<td><img src="../assets/images/food/rottenfish.png"><br><img src="../assets/images/food/rottenfish.png"><br><img src="../assets/images/food/rotten_cod.png"></td>
 </tr>
 <tr>
-<td><img src="assets/images/food/fishfillet.png"></td>
+<td><img src="../assets/images/food/fishfillet.png"></td>
 <td><b>Raw fish fillet</b></td>
 <td>12</td>
 <td>7</td>
-<td><img src="assets/images/food/rottenfillet.png"></td>
+<td><img src="../assets/images/food/rottenfillet.png"></td>
 </tr>
 <tr>
-<td><img src="assets/images/food/salmonfillet.png"></td>
+<td><img src="../assets/images/food/salmonfillet.png"></td>
 <td><b>Raw salmon fillet</b></td>
 <td>12</td>
 <td>7</td>
-<td><img src="assets/images/food/rottensalmonfillet.png"></td>
+<td><img src="../assets/images/food/rottensalmonfillet.png"></td>
 </tr>
 <tr>
-<td><img src="assets/images/food/driedfish.png"></td>
+<td><img src="../assets/images/food/driedfish.png"></td>
 <td><b>Dried fish</b></td>
 <td>180</td>
 <td>-</td>
 <td></td>
 </tr>
 <tr>
-<td><img src="assets/images/food/driedsalmon.png"></td>
+<td><img src="../assets/images/food/driedsalmon.png"></td>
 <td><b>Dried salmon</b></td>
 <td>200</td>
 <td>-</td>
 <td></td>
 </tr>
-</tbody>
 </table>
 
 ## Other products
 
 <table class="sortable">
-<tbody>
 <tr>
-<th style="background-color=#cc7000;">Product</th>
-<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
+<th>Product</th>
+<th width=64>Decay (minutes)</th>
 </tr>
 <tr>
 <td><b>Eggs</b></td>
 <td>90</td>
 </tr>
-</tbody>
 </table>
 
 ## Ingredients
 
 <table class="sortable">
-<tbody>
 <tr>
-<th style="background-color=#cc7000;">Product</th>
-<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
+<th>Product</th>
+<th width=64>Decay (minutes)</th>
 </tr>
 <tr>
 <td><b>Dough</b></td>
 <td>25</td>
 </tr>
-</tbody>
 </table>
 
 ## Canned food
 
 Any food product can be preserved in cans for long-term (infinite if sealed) storage. Canned food loses half satisfaction (or will be 1.5 times worse with negative satisfaction).<br><br>
 There are 3 types of tin cans:<br>
-<img src="assets/images/tin_can_small.png">can fit 3 food and fits in pocket,<br>
-<img src="assets/images/tin_can.png">can fit 5 food,<br>
-<img src="assets/images/tin_can_large.png">can fit 10 food.<br>
-After filling it with food cans must be sealed at canner<img src="assets/images/canner.png">.<br>
-<img src="assets/images/tools/boneknife.png">Cans can be opened with a knife. Attack the tin can with an empty hand to take the previously canned food.<br>
+<img src="../assets/images/tin_can_small.png">can fit 3 food and fits in pocket,<br>
+<img src="../assets/images/tin_can.png">can fit 5 food,<br>
+<img src="../assets/images/tin_can_large.png">can fit 10 food.<br>
+After filling it with food cans must be sealed at canner<img src="../assets/images/canner.png">.<br>
+<img src="../assets/images/tools/boneknife.png">Cans can be opened with a knife. Attack the tin can with an empty hand to take the previously canned food.<br>
 
 <small>Every time you put food in a tin can, it will lose satisfaction. Thus, putting food in a tin can and then taking it out and repeating it several times will result food item with very little satisfaction or terrible negative satisfaction.</small>
 
