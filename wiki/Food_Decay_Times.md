@@ -1,6 +1,6 @@
 # Food Decay Times
 
-<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00; width: 320px">
+<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00">
 <tr>
 <td width=36 style="padding: 3px; margin: 0px; border: 0px">
 <img src="assets/images/icons/character_s.png" width=32 height=32>
@@ -1643,23 +1643,25 @@ At this moment, only two egg-laying birds have been implemented: chickens and tu
 <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
 Select harm
 </td>
-<td width=36 style="padding-left: 4px; padding-right: 4px; padding-top: 0px; padding-bottom: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+<td width=42 style="padding-left: 4px; padding-right: 4px; padding-top: 0px; padding-bottom: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
 <img src="assets/images/icons/i_harm.png" width=32 height=32>
 </td>
 <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
 or grab
 </td>
-<td width=36 style="padding-left: 4px; padding-right: 4px; padding-top: 0px; padding-bottom: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+<td width=42 style="padding-left: 4px; padding-right: 4px; padding-top: 0px; padding-bottom: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
 <img src="assets/images/icons/i_grab.png" width=32 height=32>
 </td>
 <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
 intent, take an any sharp weapon
 </td>
-<td width=36 style="padding-left: 4px; padding-right: 4px; padding-top: 0px; padding-bottom: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+<td width=42 style="padding-left: 4px; padding-right: 4px; padding-top: 0px; padding-bottom: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
 <img src="assets/images/tools/boneknife.png" width=32 height=32>
 </td>
 <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
 of any kind and use it on dead animal.
+</td>
+<td>
 </td>
 </tr>
 </table>
@@ -1690,12 +1692,13 @@ Usually you get an increase in medical skill for butchering or skinning. See the
 </td>
 </tr>
 </table>
+
 <table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00">
 <tr>
-<td width=36 style="padding-top: 5px; padding-bottom: 0px; padding-left: 3px; padding-right: 3px; margin: 0px; border-bottom: 0px; border-top: 0px; ">
+<td width=36 style="padding: 3px; margin: 0px; border: 0px">
 <img src="assets/images/icons/character_s.png" width=32 height=32>
 </td>
-<td style="padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 8px; margin: 0px; border-bottom: 0px; border-top: 0px; vertical-align: middle">
+<td style="padding: 0px; padding-right: 8px; margin: 0px; border: 0px">
 In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, it's a bug.</small>
 </td>
 </tr>
