@@ -1,35 +1,54 @@
 # Food Decay Times
 
-## Grown products details
-
-<table>
+<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00; width: unset">
 <tr>
-<td width=52><img src="assets/images/icons/character_s.png" width=32 height=32></td>
-<td>
-All tables are sortable - click the headers.
+<td width=36 style="padding: 3px; margin: 0px; border: 0px">
+<img src="assets/images/icons/character_s.png" width=32 height=32>
+</td>
+<td style="padding: 0px; padding-right: 8px; margin: 0px; border: 0px">
+Most tables are sortable - click the headers.
 </td>
 </tr>
 </table>
 <br>
+
+## Grown products details
+
+<details>
+<summary>show/hide grown products details</summary>
 <table class="sortable">
-<tbody>
 <tr>
-<th width=52></th>
-<th style="background-color=#cc7000;">Product</th>
-<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
+<th width=52>
+</th>
+<th>
+Product
+</th>
+<th width=64>
+Decay (minutes)
+</th>
 </tr>
 <tr>
-<td><img src="assets/images/food/tea_leaves_dried.png"></td>
-<td><b>Tea leaves</b> <small>(contains 10 tea) - <i>condiment</i> - <b>jungle • savanna • sea • semi-arid</b> - will grow at all seasons</small><br>
-• just transfer it to liquid container to drink<br>
-<small><details><summary>show/hide tea reactions</summary>
-&nbsp; &nbsp; • tea and 1 ice will react to 3 iced tea
-</details></small>
+<td>
+<img src="assets/images/food/tea_leaves_dried.png">
 </td>
-<td>-</td>
+<td>
+<b>Tea leaves</b> <small>(contains 10 tea) - <i>condiment</i> - <b>jungle • savanna • sea • semi-arid</b> - will grow at all seasons</small><br>
+• just transfer it to liquid container to drink<br>
+<small>
+<details>
+<summary>show/hide tea reactions</summary>
+&nbsp; &nbsp; • tea and 1 ice will react to 3 iced tea
+</details>
+</small>
+</td>
+<td>
+-
+</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/coffee.png"></td>
+<td>
+<img src="assets/images/food/coffee.png">
+</td>
 <td><b>Coffee</b> <small>(contains 15 coffee) - <i>food (satisfaction +8)</i> - <b>jungle • savanna • desert • semi-arid</b> - will grow at all seasons</small><br>
 • put in liquid container to make 15 coffee<br>
 <small><details><summary>show/hide coffee reactions</summary>
@@ -258,7 +277,7 @@ All tables are sortable - click the headers.
 <tr>
 <td><img src="assets/images/food/zucchini.png"></td>
 <td><b>Zucchini</b> <small>(contains 5 zucchini juice and 1 nutriment) - <i>food (satisfaction 0)</i> - <b>temperate • sea • jungle</b> - will grow at all seasons</small><br>
-<i>*zucchini juice - a drink that you will drink if you eat zucchini</i></br>
+<i>*zucchini juice - a drink that you will drink if you eat zucchini</i>
 </td>
 <td>60</td>
 </tr>
@@ -285,7 +304,7 @@ All tables are sortable - click the headers.
 <tr>
 <td><img src="assets/images/food/liquorice_root.png"></td>
 <td><b>Liquorice</b> <small>(contains 1 nutriment and 8 liquorice) - <i>food (satisfaction 0)</i> - <b>temperate • semi-arid • sea • desert</b> - will grow at all seasons</small><br>
-<i>*liquorice - a drink that you will drink if you eat this root</i></br>
+<i>*liquorice - a drink that you will drink if you eat this root</i>
 </td>
 <td>-</td>
 </tr>
@@ -552,63 +571,78 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 </td>
 <td>80</td>
 </tr>
-</tbody>
 </table>
 <br>
-<table>
+
+<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00">
 <tr>
-<td width=40><img src="assets/images/icons/guides_s.png" width=32 height=32></td>
-<td>
+<td width=36 style="padding: 3px; margin: 0px; border: 0px">
+<img src="assets/images/icons/guides_s.png" width=32 height=32>
+</td>
+<td style="padding: 0px; padding-right: 8px; margin: 0px; border: 0px">
 Any plant, except for wild ones and mushrooms, will die if it drinks all the water, or when a snowstorm or sandstorm occurs.
 </td>
 </tr>
 </table>
 <br>
-<table>
+
+<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00">
 <tr>
-<td width=40><img src="assets/images/icons/guides_s.png" width=32 height=32></td>
-<td>
+<td width=36 style="padding: 3px; margin: 0px; border: 0px">
+<img src="assets/images/icons/guides_s.png" width=32 height=32>
+</td>
+<td style="padding: 0px; padding-right: 8px; margin: 0px; border: 0px">
 Grain can be fed to herbivores: deer, reindeer, elk, dik-diks, cows, goats, sheep, camels and ... mammoths and ... (drum roll) pachycephalosaurs (ba-dum-s-s!).
 </td>
 </tr>
 </table>
 <br>
-<table>
+
+<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00">
 <tr>
-<td width=40><img src="assets/images/icons/guides_s.png" width=32 height=32></td>
-<td>
+<td width=36 style="padding: 3px; margin: 0px; border: 0px">
+<img src="assets/images/icons/guides_s.png" width=32 height=32>
+</td>
+<td style="padding: 0px; padding-right: 8px; margin: 0px; border: 0px">
 Seeds can be fed to granivorous: parrots, chickens, turkeys, geese, pelicans, gulls, crows, pigs, wild boars, monkeys, mice, rabbits, gorillas, gigantopithecus, mammoths, pachycephalosaurs.
 </td>
 </tr>
 </table>
 <br>
-<table>
+
+<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00">
 <tr>
-<td width=40><img src="assets/images/icons/guides_s.png" width=32 height=32></td>
-<td>
+<td width=36 style="padding: 3px; margin: 0px; border: 0px">
+<img src="assets/images/icons/guides_s.png" width=32 height=32>
+</td>
+<td style="padding: 0px; padding-right: 8px; margin: 0px; border: 0px">
 Oviparous will adds the amount of eggs from seed feeding, i.e. it mean that oviparous will not lay eggs if not feeded with seeds. More about an egg see below, in the egg related products section.
 </td>
 </tr>
 </table>
 <br>
-<table>
+
+<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00">
 <tr>
-<td width=40><img src="assets/images/icons/guides_s.png" width=32 height=32></td>
-<td>
+<td width=36 style="padding: 3px; margin: 0px; border: 0px">
+<img src="assets/images/icons/guides_s.png" width=32 height=32>
+</td>
+<td style="padding: 0px; padding-right: 8px; margin: 0px; border: 0px">
 To maximize the amount of fuel in a bloomery, furnace (not iron furnace), or oven, add items one at a time for the following stack items: leaves, dry dung. <small>It some sort of bug.</small>
 </td>
 </tr>
 </table>
+</details>
 <br>
 
 ## Processed grown food products
 
+<details><summary>show/hide processed grown food products</summary>
 <table class="sortable">
-<tbody>
 <tr>
 <th width=52></th>
-<th style="background-color=#cc7000;">Product</th>
-<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
+<th>Product</th>
+<th width=64>Decay (minutes)</th>
 </tr>
 <tr>
 <td><img src="assets/images/food/flour.png"></td>
@@ -820,18 +854,21 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 </td>
 <td>18</td>
 </tr>
-</tbody>
 </table>
+</details>
 <br>
 
 ## Pastries and pasta products
 
+### General pastries and pasta products 
+
+<details>
+<summary>show/hide general pastries and pasta products</summary>
 <table class="sortable">
-<tbody>
 <tr>
 <th width=52></th>
-<th style="background-color=#cc7000;">Product</th>
-<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
+<th>Product</th>
+<th width=64>Decay (minutes)</th>
 </tr>
 <tr>
 <td><img src="assets/images/food/dough.png"></td>
@@ -1114,18 +1151,19 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 </td>
 <td>15</td>
 </tr>
-</tbody>
 </table>
+</details>
 <br>
 
 ### Cakes, pies and sweet pastry
 
+<details>
+<summary>show/hide cakes, pies and sweet pastry</summary>
 <table class="sortable">
-<tbody>
 <tr>
 <th width=52></th>
-<th style="background-color=#cc7000;">Product</th>
-<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
+<th>Product</th>
+<th width=64>Decay (minutes)</th>
 </tr>
 <tr>
 <td><img src="assets/images/food/bananabread.png"></td>
@@ -1346,18 +1384,19 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 </td>
 <td>15</td>
 </tr>
-</tbody>
 </table>
+</details>
 <br>
 
 ### Pizza
 
+<details>
+<summary>show/hide pizza</summary>
 <table class="sortable">
-<tbody>
 <tr>
 <th width=52></th>
-<th style="background-color=#cc7000;">Product</th>
-<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
+<th>Product</th>
+<th width=64>Decay (minutes)</th>
 </tr>
 <tr>
 <td><img src="assets/images/food/pizza.png"></td>
@@ -1413,18 +1452,19 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 </td>
 <td>15</td>
 </tr>
-</tbody>
 </table>
+</details>
 <br>
 
 ## Egg related products
 
+<details>
+<summary>show/hide egg related products</summary>
 <table class="sortable">
-<tbody>
 <tr>
 <th width=52></th>
-<th style="background-color=#cc7000;">Product</th>
-<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
+<th>Product</th>
+<th width=64>Decay (minutes)</th>
 </tr>
 <tr>
 <td><img src="assets/images/food/error.png"></td>
@@ -1476,18 +1516,30 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 </td>
 <td>12</td>
 </tr>
-</tbody>
 </table>
+<br>
+<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00">
+<tr>
+<td width=36 style="padding: 3px; margin: 0px; border: 0px">
+<img src="assets/images/icons/guides_s.png" width=32 height=32>
+</td>
+<td style="padding: 0px; padding-right: 8px; margin: 0px; border: 0px">
+At this moment, only two egg-laying birds have been implemented: chickens and turkeys. These birds are supposed to lay eggs every 250 (or 120 for turkeys) seconds<small>, but this is not happening due to a bug</small>. If there is at least one conscious male in range of 3 (not a 3x3 area, but a diamond-shaped area 7 wide and 7 high), and there are less than 6 birds in total in this area, not counting males, then a new egg will be fertile and from it in 1600 (or 2000 for turkeys) seconds can hatch a chick, provided that on the whole map there are no more than 35 of them for turkeys and 50 for chickens. If you pick up a fertilized egg or put it in a container, you can disrupt the growth process, in which case the chick will not hatch.
+</td>
+</tr>
+</table>
+</details>
 <br>
 
 ## Soups and stew
 
+<details>
+<summary>show/hide soups and stew</summary>
 <table class="sortable">
-<tbody>
 <tr>
 <th width=52></th>
-<th style="background-color=#cc7000;">Product</th>
-<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
+<th>Product</th>
+<th width=64>Decay (minutes)</th>
 </tr>
 <tr>
 <td><img src="assets/images/food/snack_bowl.png"></td>
@@ -1509,7 +1561,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 </tr>
 <tr>
 <td><img src="assets/images/food/stew.png"></td>
-<td><b>Stew</b> <small>(contains 10 nutriment and 14 water) - <i>food (satisfaction +4)</small></i><br>
+<td><b>Stew</b> <small>(contains 10 nutriment and 14 water) - <i>food (satisfaction +4)</i></small><br>
 *<i>you cannot get a stew in this type of bowl from pot of stew, but it's variant is present on some maps</i><br>
 **<i>this won't fit in the pot for stewing as ingridient</i><br>
 ***<i>after eating, there will stay a bowl (not wooden)</i><br>
@@ -1519,7 +1571,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 </tr>
 <tr>
 <td><img src="assets/images/food/stew_wood.png"></td>
-<td><b>Stew <small>(in wooden bowl)</small></b> <small>(contains 10 nutriment and 14 water and ...) - <i>food (satisfaction +4)</small></i><br>
+<td><b>Stew <small>(in wooden bowl)</small></b> <small>(contains 10 nutriment and 14 water and ...) - <i>food (satisfaction +4)</i></small><br>
 • to obtain use bowl on a pot of stew (see the cooking in a pot section for details)<br>
 *<i>after eating, there will stay a wooden bowl</i><br>
 **<i><small>this may used on the pot for stewing as ingridient due a bug</small></i><br>
@@ -1580,11 +1632,1526 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 </td>
 <td>15</td>
 </tr>
-</tbody>
+</table>
+</details>
+<br>
+
+## Butchering results
+
+<table style="padding: 0px; margin: 0px; width: unset">
+<tr>
+<td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+Select harm
+</td>
+<td width=42 style="padding-left: 4px; padding-right: 4px; padding-top: 0px; padding-bottom: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+<img src="assets/images/icons/i_harm.png" width=32 height=32>
+</td>
+<td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+or grab
+</td>
+<td width=42 style="padding-left: 4px; padding-right: 4px; padding-top: 0px; padding-bottom: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+<img src="assets/images/icons/i_grab.png" width=32 height=32>
+</td>
+<td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+intent, take an any sharp weapon
+</td>
+<td width=42 style="padding-left: 4px; padding-right: 4px; padding-top: 0px; padding-bottom: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+<img src="assets/images/tools/boneknife.png" width=32 height=32>
+</td>
+<td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+of any kind and use it on dead animal to start butchering or skinning process.
+</td>
+<td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px; width: *">
+</td>
+</tr>
+</table>
+<table style="padding: 0px; margin: 0px">
+<tr>
+<td width=36 style="padding-left: 0px; padding-right: 4px; padding-top: 0px; padding-bottom: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+<img src="assets/images/icons/i_harm.png" width=32 height=32>
+</td>
+<td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+Harm intent used mostly for butchering. Butchering will continue for 3 seconds. It's will produce extra meat and extra fat for most animals <small>(maybe it's a bug)</small>.
+</td>
+</tr>
+</table>
+<table style="padding: 0px; margin: 0px">
+<tr>
+<td width=36 style="padding-left: 0px; padding-right: 4px; padding-top: 0px; padding-bottom: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+<img src="assets/images/icons/i_grab.png" width=32 height=32>
+</td>
+<td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+Grab intent is mostly used for skinning. Skinning will continue for 10 seconds. <small>It doesn't matter what size the skinned mob was, but you will always get 1 meatsteak (not meat), and the value of the variable "amount" will be assigned, which means nothing for this type of item. And this is either unrealized mechanics or a bug. Also, you will never get leather when skinning, and this is also most likely a bug. Last but not least bug, if you get pelts or other products during the skinning process, you will not get a medical skill boost.</small>
+</td>
+</tr>
+</table>
+<table style="padding: 0px; margin: 0px">
+<tr height=36>
+<td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+Usually you get an increase in medical skill for butchering or skinning. See the hidden tables below for detailed results of this process.
+</td>
+</tr>
+</table>
+
+<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00; width: unset">
+<tr>
+<td width=36 style="padding: 3px; margin: 0px; border: 0px">
+<img src="assets/images/icons/character_s.png" width=32 height=32>
+</td>
+<td style="padding: 0px; padding-right: 8px; margin: 0px; border: 0px">
+In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, it's a bug.</small>
+</td>
+</tr>
 </table>
 <br>
+
+### Frogs, lizards and snakes
+
+<details><summary>show/hide butchering results of frogs, lizard and snakes</summary>
+
 <table>
-<tbody>
+<tr>
+<th>
+<b>Butchering results</b>
+</th>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/frog_poisonous-dead.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Poisonous frog</b> <small>medical skill +0.3 at harm or +0.33333334 at grab</small>
+    </td>
+    </tr>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
+    <img src="assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 poisonous frog meat.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 poisonous frog meatsteak <small>(it's differs from poisonous frog meat)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/frog-dead.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Frog</b> <small>medical skill +0.33333334</small>
+    </td>
+    </tr>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
+    <img src="assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 frog meat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 frog fat <small>(it's a bug, must be x1)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 frog meatsteak;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/beelzebufo-dead.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Beelzebufo</b> <small>medical skill +0.33333334</small>
+    </td>
+    </tr>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
+    <img src="assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 beelzebufo meat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 beelzebufo fat <small>(it's a bug, must be x1)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 beelzebufo meatsteak;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/lizard-dead.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Lizard</b> <small>medical skill +0.33333334</small>
+    </td>
+    </tr>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
+    <img src="assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 lizard meat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 lizard fat <small>(it's a bug, must be x1)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 lizard meatsteak;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/food/error.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Ianthasaurus</b> <small>medical skill +0.33333334 - <i>has no sprite, but defined in code</i></small> 
+    </td>
+    </tr>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
+    <img src="assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 ianthasaurus meat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 ianthasaurus fat <small>(it's a bug, must be x1)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 ianthasaurus meatsteak;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/tiktaalik-dead.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Tiktaalik</b> <small>medical skill +0.33333334</small>
+    </td>
+    </tr>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
+    <img src="assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 tiktaalik meat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 tiktaalik fat <small>(it's a bug, must be x1)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 tiktaalik meatsteak;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/ichthyostega-dead.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Ichthyostega</b> <small>medical skill +0.33333334</small>
+    </td>
+    </tr>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
+    <img src="assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 ichthyostega meat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 ichthyostega fat <small>(it's a bug, must be x1)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 ichthyostega meatsteak;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/snake-dead.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Snake</b> <small>medical skill +1</small>
+    </td>
+    </tr>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
+    <img src="assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 snake meat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 snake fat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/leather.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 snake leather;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 snake bone.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 snake meatsteak;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 snake bone <small>(it's a bug, must be x1)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/cobra-dead.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Cobra</b> <small>medical skill +1</small>
+    </td>
+    </tr>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
+    <img src="assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 cobra meat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 cobra fat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/leather.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 cobra leather;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 cobra bone.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 cobra meatsteak;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 cobra bone <small>(it's a bug, must be x1)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=70 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/boa-dead.png" width=64 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Boa constrictor</b> <small>medical skill +1.3333334</small>
+    </td>
+    </tr>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
+    <img src="assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 boa constrictor meat <small>(it's a bug, must be x2)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 boa constrictor fat <small>(it's a bug, must be x2)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/leather.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 boa constrictor leather;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 boa constrictor bone.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 boa constrictor meatsteak <small>(it's a bug, must be x2)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x4 boa constrictor bone <small>(it's a bug, must be x2)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/python-dead.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Python</b> <small>medical skill +1.3333334</small>
+    </td>
+    </tr>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
+    <img src="assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 python meat <small>(it's a bug, must be x2)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 python fat <small>(it's a bug, must be x2)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/leather.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 python leather;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 python bone.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 python meatsteak <small>(it's a bug, must be x2)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x4 python bone <small>(it's a bug, must be x2)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+</table>
+</details>
+<br>
+
+### Dinosaurs and archosaurs
+
+<details><summary>show/hide butchering results of dinosaurs and archosaurs</summary>
+
+<table>
+<tr>
+<th>
+<b>Butchering results</b>
+</th>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/compsognathus-dead.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Compsognathus</b> <small>medical skill +1 on harm intent, but 0 on grab intent due a bug</small>
+    </td>
+    </tr>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
+    <img src="assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 compsognathus meat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 compsognathus fat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/leather.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 compsognathus leather;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 compsognathus bone.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 compsognathus meatsteak;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/lizardpelt.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 lizard pelts;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 compsognathus bone <small>(it's a bug, must be x1)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=70 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/pachycephalosaurus-dead.png" width=64 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Pachycephalosaurus</b> as <b><font color=gray>pachy</font></b> <small>medical skill +1.3333334 on harm intent, but 0 on grab intent due a bug<br><i><font color=red>presents two times in code as</font></i> <b><font color=gray>dinosaur/pachycephalosaurus</font></b> <i><font color=red>and as</font></i> <b><font color=gray>pachy</font></b></small> 
+    </td>
+    </tr>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
+    <img src="assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 pachycephalosaurus meat <small>(it's a bug, must be x2)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 pachycephalosaurus fat <small>(it's a bug, must be x2)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/leather.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 pachycephalosaurus leather;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 pachycephalosaurus bone.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 pachycephalosaurus meatsteak <small>(it's a bug, must be x2)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/lizardpelt.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 lizard pelts <small>(all the rest math says it should be x2, but here x3)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x4 pachycephalosaurus bone <small>(it's a bug, must be x2)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=70 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/pachycephalosaurus-dead.png" width=64 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Pachycephalosaurus</b> as <b><font color=gray>pachycephalosaurus</font></b> <small>medical skill +1.6666666<br><i><font color=red>presents two times in code as</font></i> <b><font color=gray>dinosaur/pachycephalosaurus</font></b> <i><font color=red>and as</font></i> <b><font color=gray>pachy</font></b></small> 
+    </td>
+    </tr>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
+    <img src="assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x4 pachycephalosaurus meat <small>(it's a bug, must be x3)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x4 pachycephalosaurus fat <small>(it's a bug, must be x3)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/leather.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 pachycephalosaurus leather;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 pachycephalosaurus bone.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 pachycephalosaurus meatsteak <small>(it's a bug, must be x3)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x5 pachycephalosaurus bone <small>(it's a bug, must be x3)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=70 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/alligator-dead.png" width=64 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Alligator</b> <small>medical skill +1.6666666 on harm intent, but 0 on grab intent due a bug</small>
+    </td>
+    </tr>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
+    <img src="assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x4 alligator meat <small>(it's a bug, must be x3)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/leather.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 alligator leather;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 alligator bone.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 alligator meatsteak <small>(it's a bug, must be x3)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/alligatorpelt.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 alligator pelts;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x5 alligator bone <small>(it's a bug, must be x3)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=70 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/velociraptor-dead.png" width=64 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Velociraptor</b> <small>medical skill +1.6666666 on harm intent, but 0 on grab intent due a bug</small>
+    </td>
+    </tr>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
+    <img src="assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x4 velociraptor meat <small>(it's a bug, must be x3)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x4 velociraptor fat <small>(it's a bug, must be x3)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/leather.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 velociraptor leather;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 velociraptor bone.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 velociraptor meatsteak <small>(it's a bug, must be x3)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/lizardpelt.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 lizard pelts;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x5 velociraptor bone <small>(it's a bug, must be x3)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=70 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/dimetrodon-dead.png" width=64 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Dimetrodon</b> <small>medical skill +1.6666666</small>
+    </td>
+    </tr>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
+    <img src="assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x4 dimetrodon meat <small>(it's a bug, must be x3)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x4 dimetrodon fat <small>(it's a bug, must be x3)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/leather.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 dimetrodon leather;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 dimetrodon bone.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 dimetrodon meatsteak <small>(it's a bug, must be x3)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x5 dimetrodon bone <small>(it's a bug, must be x3)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=132 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/trex-dead.png" width=128 height=96>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Tyrannosaurus rex</b> <small>medical skill +2.6666667 on harm intent, but 0 on grab intent due a bug</small>
+    </td>
+    </tr>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
+    <img src="assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x7 tyrannosaurus rex meat <small>(it's a bug, must be x6)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x7 tyrannosaurus rex fat <small>(it's a bug, must be x6)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/leather.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x6 tyrannosaurus rex leather;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x6 tyrannosaurus rex bone.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 tyrannosaurus rex meatsteak <small>(it's a bug, must be x6)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/lizardpelt.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x10 lizard pelts <small>(all the rest math says it should be x6, but here x10)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x8 tyrannosaurus rex bone <small>(it's a bug, must be x6)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+</table>
+</details>
+<br>
+
+<table>
 <tr>
 <td>
 <img src="assets/images/icons/guides.png" height=128 width=128>
@@ -1593,19 +3160,17 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <i><b>after this point the page is under construction and may contain inaccuracies!!!</b></i>
 </td>
 </tr>
-</tbody>
 </table>
 <br>
 
 ## Meat products
 
 <table class="sortable">
-<tbody>
 <tr>
 <th width=52></th>
-<th style="background-color=#cc7000;">Product</th>
-<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
-<th width=64 style="background-color=#cc7000;">Rots (minutes)</th>
+<th>Product</th>
+<th width=64>Decay (minutes)</th>
+<th width=64>Rots (minutes)</th>
 <th width=52></th>
 </tr>
 <tr>
@@ -1636,18 +3201,16 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>-</td>
 <td></td>
 </tr>
-</tbody>
 </table>
 
 ## Seafood
 
 <table class="sortable">
-<tbody>
 <tr>
 <th width=52></th>
-<th style="background-color=#cc7000;">Product</th>
-<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
-<th width=64 style="background-color=#cc7000;">Rots (minutes)</th>
+<th>Product</th>
+<th width=64>Decay (minutes)</th>
+<th width=64>Rots (minutes)</th>
 <th width=52></th>
 </tr>
 <tr>
@@ -1685,37 +3248,32 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>-</td>
 <td></td>
 </tr>
-</tbody>
 </table>
 
 ## Other products
 
 <table class="sortable">
-<tbody>
 <tr>
-<th style="background-color=#cc7000;">Product</th>
-<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
+<th>Product</th>
+<th width=64>Decay (minutes)</th>
 </tr>
 <tr>
 <td><b>Eggs</b></td>
 <td>90</td>
 </tr>
-</tbody>
 </table>
 
 ## Ingredients
 
 <table class="sortable">
-<tbody>
 <tr>
-<th style="background-color=#cc7000;">Product</th>
-<th width=64 style="background-color=#cc7000;">Decay (minutes)</th>
+<th>Product</th>
+<th width=64>Decay (minutes)</th>
 </tr>
 <tr>
 <td><b>Dough</b></td>
 <td>25</td>
 </tr>
-</tbody>
 </table>
 
 ## Canned food
