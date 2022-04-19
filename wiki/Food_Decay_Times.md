@@ -1729,10 +1729,10 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=36 style="padding: 0px; padding-bottom: 2px; margin: 0px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
-    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
@@ -1786,10 +1786,10 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=36 style="padding: 0px; padding-bottom: 2px; margin: 0px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
-    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
@@ -1851,10 +1851,10 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=36 style="padding: 0px; padding-bottom: 2px; margin: 0px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
-    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
@@ -1916,10 +1916,10 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=36 style="padding: 0px; padding-bottom: 2px; margin: 0px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
-    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
@@ -1981,10 +1981,10 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=36 style="padding: 0px; padding-bottom: 2px; margin: 0px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
-    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
@@ -2046,10 +2046,10 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=36 style="padding: 0px; padding-bottom: 2px; margin: 0px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
-    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
@@ -2111,10 +2111,10 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=36 style="padding: 0px; padding-bottom: 2px; margin: 0px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
-    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
@@ -2176,10 +2176,10 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=36 style="padding: 0px; padding-bottom: 2px; margin: 0px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
-    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
@@ -2265,10 +2265,10 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=36 style="padding: 0px; padding-bottom: 2px; margin: 0px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
-    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
@@ -2354,10 +2354,10 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=36 style="padding: 0px; padding-bottom: 2px; margin: 0px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
-    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
@@ -2443,10 +2443,10 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=36 style="padding: 0px; padding-bottom: 2px; margin: 0px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
-    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
@@ -2544,10 +2544,10 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=36 style="padding: 0px; padding-bottom: 2px; margin: 0px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
-    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
@@ -2633,10 +2633,10 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=36 style="padding: 0px; padding-bottom: 2px; margin: 0px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
-    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
@@ -2722,10 +2722,10 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=36 style="padding: 0px; padding-bottom: 2px; margin: 0px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
-    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
@@ -2811,10 +2811,10 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=36 style="padding: 0px; padding-bottom: 2px; margin: 0px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
-    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
@@ -2892,10 +2892,10 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=36 style="padding: 0px; padding-bottom: 2px; margin: 0px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
-    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
@@ -2981,10 +2981,10 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=36 style="padding: 0px; padding-bottom: 2px; margin: 0px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
-    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
@@ -3070,10 +3070,10 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=36 style="padding: 0px; padding-bottom: 2px; margin: 0px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
-    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
