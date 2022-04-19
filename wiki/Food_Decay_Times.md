@@ -1,6 +1,6 @@
 # Food Decay Times
 
-<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00; width: *">
+<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00; width: 320px">
 <tr>
 <td width=36 style="padding: 3px; margin: 0px; border: 0px">
 <img src="assets/images/icons/character_s.png" width=32 height=32>
@@ -573,50 +573,66 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 </tr>
 </table>
 <br>
-<table>
+
+<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00">
 <tr>
-<td width=40><img src="assets/images/icons/guides_s.png" width=32 height=32></td>
-<td>
+<td width=36 style="padding: 3px; margin: 0px; border: 0px">
+<img src="assets/images/icons/guides_s.png" width=32 height=32>
+</td>
+<td style="padding: 0px; padding-right: 8px; margin: 0px; border: 0px">
 Any plant, except for wild ones and mushrooms, will die if it drinks all the water, or when a snowstorm or sandstorm occurs.
 </td>
 </tr>
 </table>
 <br>
-<table>
+
+<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00">
 <tr>
-<td width=40><img src="assets/images/icons/guides_s.png" width=32 height=32></td>
-<td>
+<td width=36 style="padding: 3px; margin: 0px; border: 0px">
+<img src="assets/images/icons/guides_s.png" width=32 height=32>
+</td>
+<td style="padding: 0px; padding-right: 8px; margin: 0px; border: 0px">
 Grain can be fed to herbivores: deer, reindeer, elk, dik-diks, cows, goats, sheep, camels and ... mammoths and ... (drum roll) pachycephalosaurs (ba-dum-s-s!).
 </td>
 </tr>
 </table>
 <br>
-<table>
+
+<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00">
 <tr>
-<td width=40><img src="assets/images/icons/guides_s.png" width=32 height=32></td>
-<td>
+<td width=36 style="padding: 3px; margin: 0px; border: 0px">
+<img src="assets/images/icons/guides_s.png" width=32 height=32>
+</td>
+<td style="padding: 0px; padding-right: 8px; margin: 0px; border: 0px">
 Seeds can be fed to granivorous: parrots, chickens, turkeys, geese, pelicans, gulls, crows, pigs, wild boars, monkeys, mice, rabbits, gorillas, gigantopithecus, mammoths, pachycephalosaurs.
 </td>
 </tr>
 </table>
 <br>
-<table>
+
+<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00">
 <tr>
-<td width=40><img src="assets/images/icons/guides_s.png" width=32 height=32></td>
-<td>
+<td width=36 style="padding: 3px; margin: 0px; border: 0px">
+<img src="assets/images/icons/guides_s.png" width=32 height=32>
+</td>
+<td style="padding: 0px; padding-right: 8px; margin: 0px; border: 0px">
 Oviparous will adds the amount of eggs from seed feeding, i.e. it mean that oviparous will not lay eggs if not feeded with seeds. More about an egg see below, in the egg related products section.
 </td>
 </tr>
 </table>
 <br>
-<table>
+
+<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00">
 <tr>
-<td width=40><img src="assets/images/icons/guides_s.png" width=32 height=32></td>
-<td>
+<td width=36 style="padding: 3px; margin: 0px; border: 0px">
+<img src="assets/images/icons/guides_s.png" width=32 height=32>
+</td>
+<td style="padding: 0px; padding-right: 8px; margin: 0px; border: 0px">
 To maximize the amount of fuel in a bloomery, furnace (not iron furnace), or oven, add items one at a time for the following stack items: leaves, dry dung. <small>It some sort of bug.</small>
 </td>
 </tr>
 </table>
+<br>
 </details>
 <br>
 
