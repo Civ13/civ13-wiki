@@ -1725,6 +1725,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <b>Poisonous frog</b> <small>medical skill +0.3 at harm or +0.33333334 at grab</small>
     </td>
+    </tr>
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
@@ -1781,6 +1782,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <b>Frog</b> <small>medical skill +0.33333334</small>
     </td>
+    </tr>
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
@@ -1845,6 +1847,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <b>Beelzebufo</b> <small>medical skill +0.33333334</small>
     </td>
+    </tr>
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
@@ -1909,6 +1912,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <b>Lizard</b> <small>medical skill +0.33333334</small>
     </td>
+    </tr>
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
@@ -1973,6 +1977,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <b>Ianthasaurus</b> <small>medical skill +0.33333334 - <i>has no sprite, but defined in code</i></small> 
     </td>
+    </tr>
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
@@ -2037,6 +2042,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <b>Tiktaalik</b> <small>medical skill +0.33333334</small>
     </td>
+    </tr>
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
@@ -2101,6 +2107,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <b>Ichthyostega</b> <small>medical skill +0.33333334</small>
     </td>
+    </tr>
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
@@ -2165,6 +2172,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <b>Snake</b> <small>medical skill +1</small>
     </td>
+    </tr>
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
@@ -2253,6 +2261,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <b>Cobra</b> <small>medical skill +1</small>
     </td>
+    </tr>
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
@@ -2341,6 +2350,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <b>Boa constrictor</b> <small>medical skill +1.3333334</small>
     </td>
+    </tr>
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
@@ -2429,6 +2439,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <b>Python</b> <small>medical skill +1.3333334</small>
     </td>
+    </tr>
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
@@ -2515,7 +2526,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
 
 <table>
 <tr>
-<th width=100%>
+<th>
 <b>Butchering results</b>
 </th>
 </tr>
@@ -2529,6 +2540,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <b>Compsognathus</b> <small>medical skill +1 on harm intent, but 0 on grab intent due a bug</small>
     </td>
+    </tr>
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
@@ -2617,6 +2629,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <b>Pachycephalosaurus</b> as <b><font color=gray>pachy</font></b> <small>medical skill +1.3333334 on harm intent, but 0 on grab intent due a bug<br><i><font color=red>presents two times in code as</font></i> <b><font color=gray>dinosaur/pachycephalosaurus</font></b> <i><font color=red>and as</font></i> <b><font color=gray>pachy</font></b></small> 
     </td>
+    </tr>
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
@@ -2705,6 +2718,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <b>Pachycephalosaurus</b> as <b><font color=gray>pachycephalosaurus</font></b> <small>medical skill +1.6666666<br><i><font color=red>presents two times in code as</font></i> <b><font color=gray>dinosaur/pachycephalosaurus</font></b> <i><font color=red>and as</font></i> <b><font color=gray>pachy</font></b></small> 
     </td>
+    </tr>
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
@@ -2793,6 +2807,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <b>Alligator</b> <small>medical skill +1.6666666 on harm intent, but 0 on grab intent due a bug</small>
     </td>
+    </tr>
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
@@ -2873,6 +2888,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <b>Velociraptor</b> <small>medical skill +1.6666666 on harm intent, but 0 on grab intent due a bug</small>
     </td>
+    </tr>
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
@@ -2961,6 +2977,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <b>Dimetrodon</b> <small>medical skill +1.6666666</small>
     </td>
+    </tr>
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
@@ -3049,6 +3066,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <b>Tyrannosaurus rex</b> <small>medical skill +2.6666667 on harm intent, but 0 on grab intent due a bug</small>
     </td>
+    </tr>
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
@@ -3128,7 +3146,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
 </td>
 </tr>
 </table>
-
+<br>
 <table>
 <tr>
 <td>
