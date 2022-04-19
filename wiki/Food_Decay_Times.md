@@ -1,11 +1,11 @@
 # Food Decay Times
 
-<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00">
+<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00; width: *">
 <tr>
-<td width=36 style="padding-top: 5px; padding-bottom: 0px; padding-left: 3px; padding-right: 3px; margin: 0px; border-bottom: 0px; border-top: 0px; ">
+<td width=36 style="padding: 3px; margin: 0px; border: 0px">
 <img src="assets/images/icons/character_s.png" width=32 height=32>
 </td>
-<td style="padding-top: 0px; padding-bottom: 0px; padding-left: 0px; padding-right: 8px; margin: 0px; border-bottom: 0px; border-top: 0px; vertical-align: middle">
+<td style="padding: 0px; padding-right: 8px; margin: 0px; border: 0px">
 Most tables are sortable - click the headers.
 </td>
 </tr>
