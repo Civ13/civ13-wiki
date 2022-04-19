@@ -1,6 +1,6 @@
 # Food Decay Times
 
-<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00">
+<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00; width: unset">
 <tr>
 <td width=36 style="padding: 3px; margin: 0px; border: 0px">
 <img src="assets/images/icons/character_s.png" width=32 height=32>
@@ -1638,7 +1638,7 @@ At this moment, only two egg-laying birds have been implemented: chickens and tu
 
 ## Butchering results
 
-<table style="padding: 0px; margin: 0px">
+<table style="padding: 0px; margin: 0px; width: unset">
 <tr>
 <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
 Select harm
@@ -1659,9 +1659,9 @@ intent, take an any sharp weapon
 <img src="assets/images/tools/boneknife.png" width=32 height=32>
 </td>
 <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-of any kind and use it on dead animal.
+of any kind and use it on dead animal to start butchering or skinning process.
 </td>
-<td>
+<td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px; width: *">
 </td>
 </tr>
 </table>
@@ -1693,7 +1693,7 @@ Usually you get an increase in medical skill for butchering or skinning. See the
 </tr>
 </table>
 
-<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00">
+<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00; width: unset">
 <tr>
 <td width=36 style="padding: 3px; margin: 0px; border: 0px">
 <img src="assets/images/icons/character_s.png" width=32 height=32>
@@ -1708,9 +1708,10 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
 ### Frogs, lizards and snakes
 
 <details><summary>show/hide butchering results of frogs, lizard and snakes</summary>
+
 <table>
 <tr>
-<th width=100%>
+<th>
 <b>Butchering results</b>
 </th>
 </tr>
