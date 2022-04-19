@@ -1707,7 +1707,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
 
 ### Frogs, lizards and snakes
 
-<#details#><#summary#>show/hide butchering results of frogs, lizard and snakes<#/summary#>
+<details><summary>show/hide butchering results of frogs, lizard and snakes</summary>
 
 <table>
 <tr>
@@ -1729,7 +1729,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
     <td style="padding: 0px; margin: 0px; border-top: 0px">
@@ -1786,7 +1786,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
     <td style="padding: 0px; margin: 0px; border-top: 0px">
@@ -1851,7 +1851,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
     <td style="padding: 0px; margin: 0px; border-top: 0px">
@@ -1916,7 +1916,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
     <td style="padding: 0px; margin: 0px; border-top: 0px">
@@ -1981,7 +1981,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
     <td style="padding: 0px; margin: 0px; border-top: 0px">
@@ -2046,7 +2046,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
     <td style="padding: 0px; margin: 0px; border-top: 0px">
@@ -2111,7 +2111,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
     <td style="padding: 0px; margin: 0px; border-top: 0px">
@@ -2176,7 +2176,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
     <td style="padding: 0px; margin: 0px; border-top: 0px">
@@ -2265,7 +2265,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
     <td style="padding: 0px; margin: 0px; border-top: 0px">
@@ -2354,7 +2354,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
     <td style="padding: 0px; margin: 0px; border-top: 0px">
@@ -2443,7 +2443,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
     <td style="padding: 0px; margin: 0px; border-top: 0px">
@@ -2519,10 +2519,12 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
 </td>
 </tr>
 </table>
-<#/details#>
+</details>
 <br>
 
 ### Dinosaurs and archosaurs
+
+<details><summary>show/hide butchering results of dinosaurs and archosaurs</summary>
 
 <table>
 <tr>
@@ -2544,7 +2546,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
     <td style="padding: 0px; margin: 0px; border-top: 0px">
@@ -2633,7 +2635,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
     <td style="padding: 0px; margin: 0px; border-top: 0px">
@@ -2722,7 +2724,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
     <td style="padding: 0px; margin: 0px; border-top: 0px">
@@ -2811,7 +2813,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
     <td style="padding: 0px; margin: 0px; border-top: 0px">
@@ -2892,7 +2894,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
     <td style="padding: 0px; margin: 0px; border-top: 0px">
@@ -2981,7 +2983,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
     <td style="padding: 0px; margin: 0px; border-top: 0px">
@@ -3070,7 +3072,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=48 style="padding: 0px; padding-bottom: 2px; margin: 0px; margin-left: 8px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
     <img src="assets/images/icons/i_harm.png" width=32 height=32>
     </td>
     <td style="padding: 0px; margin: 0px; border-top: 0px">
@@ -3146,7 +3148,9 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
 </td>
 </tr>
 </table>
+</details>
 <br>
+
 <table>
 <tr>
 <td>
