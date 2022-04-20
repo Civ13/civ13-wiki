@@ -963,7 +963,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>12</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/error.png"></td>
+<td><img src="assets/images/icons/error.png"></td>
 <td><b>Jellied toast</b> <small>(contains 2 nutriment) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot make a jellied toast, it's not present on maps, but it's defined in code</i><br>
 **<i><small>it doesn't have a defined correct sprite</small></i>
@@ -971,7 +971,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <td>12</td>
 </tr>
 <tr>
-<td><img src="assets/images/food/error.png"></td>
+<td><img src="assets/images/icons/error.png"></td>
 <td><b>Cherry jellied toast</b> <small>(contains 2 nutriment and 1 cherry jelly) - <i>food (satisfaction 0)</i></small><br>
 *<i>you cannot make a cherry jellied toast, it's not present on maps, but it's defined in code</i><br>
 **<i><small>it doesn't have a defined correct sprite</small></i><br>
@@ -1467,7 +1467,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 <th width=64>Decay (minutes)</th>
 </tr>
 <tr>
-<td><img src="assets/images/food/error.png"></td>
+<td><img src="assets/images/icons/error.png"></td>
 <td><b>Egg box</b> <small>(contains 12 eggs) - <i>eggs storage</i></small><br>
 • can contain boiled eggs, if you place it inside<br>
 *<i>eggs in a box will decay as in container (two times longer)</i><br>
@@ -1704,6 +1704,28 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
 </tr>
 </table>
 <br>
+<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00">
+<tr>
+<td width=36 style="padding: 3px; margin: 0px; border: 0px">
+<img src="assets/images/icons/guides_s.png" width=32 height=32>
+</td>
+<td style="padding: 0px; padding-right: 8px; margin: 0px; border: 0px">
+The names of all meat (or meatsteaks), fat, leather and bones will include the name of the butchered animal. In fact, they will all be the same with the same properties, with the exception of only some types of meat, which will be highlighted in the tables with a separate name. 
+</td>
+</tr>
+</table>
+<br>
+<table style="background-color: #504030; padding: 0px; margin: 0px; color: #bbbb00">
+<tr>
+<td width=36 style="padding: 3px; margin: 0px; border: 0px">
+<img src="assets/images/icons/guides_s.png" width=32 height=32>
+</td>
+<td style="padding: 0px; padding-right: 8px; margin: 0px; border: 0px">
+Leather and bones can be stacked and given the name of the used item on the stack, but the dropped item will be merged with the previous stack and given its name.
+</td>
+</tr>
+</table>
+<br>
 
 ### Frogs, lizards and snakes
 
@@ -1739,14 +1761,14 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x1 poisonous frog meat.
+        x1 <font color=gold>poisonous frog meat</font>.
         </td>
         </tr>
         </table>
     </td>
     </tr>
     <tr>
-    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td width=36 style="padding: 0px; padding-left: 10px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
@@ -1755,12 +1777,12 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x1 poisonous frog meatsteak <small>(it's differs from poisonous frog meat)</small>;
+        x1 meatsteak <small>(it's differs from poisonous frog meat)</small>;
         </td>
         </tr>
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        <img src="assets/images/food/error.png" width=32 height=32>
+        <img src="assets/images/icons/error.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         you won't get leather <small>(due a bug)</small>.
@@ -1796,7 +1818,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x2 frog meat <small>(it's a bug, must be x1)</small>;
+        x2 meat <small>(it's a bug, must be x1)</small>;
         </td>
         </tr>
         <tr>
@@ -1804,14 +1826,14 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/animalfat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x2 frog fat <small>(it's a bug, must be x1)</small>.
+        x2 fat <small>(it's a bug, must be x1)</small>.
         </td>
         </tr>
         </table>
     </td>
     </tr>
     <tr>
-    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td width=36 style="padding: 0px; padding-left: 10px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
@@ -1820,12 +1842,12 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x1 frog meatsteak;
+        x1 meatsteak;
         </td>
         </tr>
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        <img src="assets/images/food/error.png" width=32 height=32>
+        <img src="assets/images/icons/error.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         you won't get leather <small>(due a bug)</small>.
@@ -1861,7 +1883,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x2 beelzebufo meat <small>(it's a bug, must be x1)</small>;
+        x2 meat <small>(it's a bug, must be x1)</small>;
         </td>
         </tr>
         <tr>
@@ -1869,14 +1891,14 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/animalfat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x2 beelzebufo fat <small>(it's a bug, must be x1)</small>.
+        x2 fat <small>(it's a bug, must be x1)</small>.
         </td>
         </tr>
         </table>
     </td>
     </tr>
     <tr>
-    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td width=36 style="padding: 0px; padding-left: 10px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
@@ -1885,12 +1907,12 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x1 beelzebufo meatsteak;
+        x1 meatsteak;
         </td>
         </tr>
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        <img src="assets/images/food/error.png" width=32 height=32>
+        <img src="assets/images/icons/error.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         you won't get leather <small>(due a bug)</small>.
@@ -1926,7 +1948,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x2 lizard meat <small>(it's a bug, must be x1)</small>;
+        x2 meat <small>(it's a bug, must be x1)</small>;
         </td>
         </tr>
         <tr>
@@ -1934,14 +1956,14 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/animalfat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x2 lizard fat <small>(it's a bug, must be x1)</small>.
+        x2 fat <small>(it's a bug, must be x1)</small>.
         </td>
         </tr>
         </table>
     </td>
     </tr>
     <tr>
-    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td width=36 style="padding: 0px; padding-left: 10px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
@@ -1950,12 +1972,12 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x1 lizard meatsteak;
+        x1 meatsteak;
         </td>
         </tr>
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        <img src="assets/images/food/error.png" width=32 height=32>
+        <img src="assets/images/icons/error.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         you won't get leather <small>(due a bug)</small>.
@@ -1972,7 +1994,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
     <table style="padding: 0px; margin: 0px">
     <tr>
     <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-    <img src="assets/images/food/error.png" width=32 height=32>
+    <img src="assets/images/icons/error.png" width=32 height=32>
     </td>
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <b>Ianthasaurus</b> <small>medical skill +0.33333334 - <i>has no sprite, but defined in code</i></small> 
@@ -1991,7 +2013,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x2 ianthasaurus meat <small>(it's a bug, must be x1)</small>;
+        x2 meat <small>(it's a bug, must be x1)</small>;
         </td>
         </tr>
         <tr>
@@ -1999,14 +2021,14 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/animalfat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x2 ianthasaurus fat <small>(it's a bug, must be x1)</small>.
+        x2 fat <small>(it's a bug, must be x1)</small>.
         </td>
         </tr>
         </table>
     </td>
     </tr>
     <tr>
-    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td width=36 style="padding: 0px; padding-left: 10px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
@@ -2015,12 +2037,12 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x1 ianthasaurus meatsteak;
+        x1 meatsteak;
         </td>
         </tr>
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        <img src="assets/images/food/error.png" width=32 height=32>
+        <img src="assets/images/icons/error.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         you won't get leather <small>(due a bug)</small>.
@@ -2056,7 +2078,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x2 tiktaalik meat <small>(it's a bug, must be x1)</small>;
+        x2 meat <small>(it's a bug, must be x1)</small>;
         </td>
         </tr>
         <tr>
@@ -2064,14 +2086,14 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/animalfat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x2 tiktaalik fat <small>(it's a bug, must be x1)</small>.
+        x2 fat <small>(it's a bug, must be x1)</small>.
         </td>
         </tr>
         </table>
     </td>
     </tr>
     <tr>
-    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td width=36 style="padding: 0px; padding-left: 10px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
@@ -2080,12 +2102,12 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x1 tiktaalik meatsteak;
+        x1 meatsteak;
         </td>
         </tr>
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        <img src="assets/images/food/error.png" width=32 height=32>
+        <img src="assets/images/icons/error.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         you won't get leather <small>(due a bug)</small>.
@@ -2121,7 +2143,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x2 ichthyostega meat <small>(it's a bug, must be x1)</small>;
+        x2 meat <small>(it's a bug, must be x1)</small>;
         </td>
         </tr>
         <tr>
@@ -2129,14 +2151,14 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/animalfat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x2 ichthyostega fat <small>(it's a bug, must be x1)</small>.
+        x2 fat <small>(it's a bug, must be x1)</small>.
         </td>
         </tr>
         </table>
     </td>
     </tr>
     <tr>
-    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td width=36 style="padding: 0px; padding-left: 10px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
@@ -2145,12 +2167,12 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x1 ichthyostega meatsteak;
+        x1 meatsteak;
         </td>
         </tr>
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        <img src="assets/images/food/error.png" width=32 height=32>
+        <img src="assets/images/icons/error.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         you won't get leather <small>(due a bug)</small>.
@@ -2186,7 +2208,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x2 snake meat <small>(it's a bug, must be x1)</small>;
+        x2 meat <small>(it's a bug, must be x1)</small>;
         </td>
         </tr>
         <tr>
@@ -2194,7 +2216,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/animalfat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x2 snake fat <small>(it's a bug, must be x1)</small>;
+        x2 fat <small>(it's a bug, must be x1)</small>;
         </td>
         </tr>
         <tr>
@@ -2202,7 +2224,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/leather.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x1 snake leather;
+        x1 leather;
         </td>
         </tr>
         <tr>
@@ -2210,14 +2232,14 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/bone.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x1 snake bone.
+        x1 bone.
         </td>
         </tr>
         </table>
     </td>
     </tr>
     <tr>
-    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td width=36 style="padding: 0px; padding-left: 10px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
@@ -2226,12 +2248,12 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x1 snake meatsteak;
+        x1 meatsteak;
         </td>
         </tr>
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        <img src="assets/images/food/error.png" width=32 height=32>
+        <img src="assets/images/icons/error.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         you won't get leather <small>(due a bug)</small>
@@ -2242,7 +2264,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/bone.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x3 snake bone <small>(it's a bug, must be x1)</small>.
+        x3 bone <small>(it's a bug, must be x1)</small>.
         </td>
         </tr>
         </table>
@@ -2275,7 +2297,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x2 cobra meat <small>(it's a bug, must be x1)</small>;
+        x2 meat <small>(it's a bug, must be x1)</small>;
         </td>
         </tr>
         <tr>
@@ -2283,7 +2305,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/animalfat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x2 cobra fat <small>(it's a bug, must be x1)</small>;
+        x2 fat <small>(it's a bug, must be x1)</small>;
         </td>
         </tr>
         <tr>
@@ -2291,7 +2313,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/leather.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x1 cobra leather;
+        x1 leather;
         </td>
         </tr>
         <tr>
@@ -2299,14 +2321,14 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/bone.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x1 cobra bone.
+        x1 bone.
         </td>
         </tr>
         </table>
     </td>
     </tr>
     <tr>
-    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td width=36 style="padding: 0px; padding-left: 10px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
@@ -2315,12 +2337,12 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x1 cobra meatsteak;
+        x1 meatsteak;
         </td>
         </tr>
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        <img src="assets/images/food/error.png" width=32 height=32>
+        <img src="assets/images/icons/error.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         you won't get leather <small>(due a bug)</small>
@@ -2331,7 +2353,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/bone.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x3 cobra bone <small>(it's a bug, must be x1)</small>.
+        x3 bone <small>(it's a bug, must be x1)</small>.
         </td>
         </tr>
         </table>
@@ -2364,7 +2386,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x3 boa constrictor meat <small>(it's a bug, must be x2)</small>;
+        x3 meat <small>(it's a bug, must be x2)</small>;
         </td>
         </tr>
         <tr>
@@ -2372,7 +2394,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/animalfat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x3 boa constrictor fat <small>(it's a bug, must be x2)</small>;
+        x3 fat <small>(it's a bug, must be x2)</small>;
         </td>
         </tr>
         <tr>
@@ -2380,7 +2402,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/leather.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x2 boa constrictor leather;
+        x2 leather;
         </td>
         </tr>
         <tr>
@@ -2388,14 +2410,14 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/bone.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x2 boa constrictor bone.
+        x2 bone.
         </td>
         </tr>
         </table>
     </td>
     </tr>
     <tr>
-    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td width=36 style="padding: 0px; padding-left: 10px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
@@ -2404,12 +2426,12 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x1 boa constrictor meatsteak <small>(it's a bug, must be x2)</small>;
+        x1 meatsteak <small>(it's a bug, must be x2)</small>;
         </td>
         </tr>
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        <img src="assets/images/food/error.png" width=32 height=32>
+        <img src="assets/images/icons/error.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         you won't get leather <small>(due a bug)</small>
@@ -2420,7 +2442,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/bone.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x4 boa constrictor bone <small>(it's a bug, must be x2)</small>.
+        x4 bone <small>(it's a bug, must be x2)</small>.
         </td>
         </tr>
         </table>
@@ -2453,7 +2475,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x3 python meat <small>(it's a bug, must be x2)</small>;
+        x3 meat <small>(it's a bug, must be x2)</small>;
         </td>
         </tr>
         <tr>
@@ -2461,7 +2483,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/animalfat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x3 python fat <small>(it's a bug, must be x2)</small>;
+        x3 fat <small>(it's a bug, must be x2)</small>;
         </td>
         </tr>
         <tr>
@@ -2469,7 +2491,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/leather.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x2 python leather;
+        x2 leather;
         </td>
         </tr>
         <tr>
@@ -2477,14 +2499,14 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/bone.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x2 python bone.
+        x2 bone.
         </td>
         </tr>
         </table>
     </td>
     </tr>
     <tr>
-    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td width=36 style="padding: 0px; padding-left: 10px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
@@ -2493,12 +2515,12 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x1 python meatsteak <small>(it's a bug, must be x2)</small>;
+        x1 meatsteak <small>(it's a bug, must be x2)</small>;
         </td>
         </tr>
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        <img src="assets/images/food/error.png" width=32 height=32>
+        <img src="assets/images/icons/error.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         you won't get leather <small>(due a bug)</small>
@@ -2509,7 +2531,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/bone.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x4 python bone <small>(it's a bug, must be x2)</small>.
+        x4 bone <small>(it's a bug, must be x2)</small>.
         </td>
         </tr>
         </table>
@@ -2556,7 +2578,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x2 compsognathus meat <small>(it's a bug, must be x1)</small>;
+        x2 meat <small>(it's a bug, must be x1)</small>;
         </td>
         </tr>
         <tr>
@@ -2564,7 +2586,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/animalfat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x2 compsognathus fat <small>(it's a bug, must be x1)</small>;
+        x2 fat <small>(it's a bug, must be x1)</small>;
         </td>
         </tr>
         <tr>
@@ -2572,7 +2594,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/leather.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x1 compsognathus leather;
+        x1 leather;
         </td>
         </tr>
         <tr>
@@ -2580,14 +2602,14 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/bone.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x1 compsognathus bone.
+        x1 bone.
         </td>
         </tr>
         </table>
     </td>
     </tr>
     <tr>
-    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td width=36 style="padding: 0px; padding-left: 10px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
@@ -2596,7 +2618,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x1 compsognathus meatsteak;
+        x1 meatsteak;
         </td>
         </tr>
         <tr>
@@ -2612,7 +2634,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/bone.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x3 compsognathus bone <small>(it's a bug, must be x1)</small>.
+        x3 bone <small>(it's a bug, must be x1)</small>.
         </td>
         </tr>
         </table>
@@ -2645,7 +2667,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x3 pachycephalosaurus meat <small>(it's a bug, must be x2)</small>;
+        x3 meat <small>(it's a bug, must be x2)</small>;
         </td>
         </tr>
         <tr>
@@ -2653,7 +2675,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/animalfat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x3 pachycephalosaurus fat <small>(it's a bug, must be x2)</small>;
+        x3 fat <small>(it's a bug, must be x2)</small>;
         </td>
         </tr>
         <tr>
@@ -2661,7 +2683,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/leather.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x2 pachycephalosaurus leather;
+        x2 leather;
         </td>
         </tr>
         <tr>
@@ -2669,14 +2691,14 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/bone.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x2 pachycephalosaurus bone.
+        x2 bone.
         </td>
         </tr>
         </table>
     </td>
     </tr>
     <tr>
-    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td width=36 style="padding: 0px; padding-left: 10px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
@@ -2685,7 +2707,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x1 pachycephalosaurus meatsteak <small>(it's a bug, must be x2)</small>;
+        x1 meatsteak <small>(it's a bug, must be x2)</small>;
         </td>
         </tr>
         <tr>
@@ -2693,7 +2715,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/lizardpelt.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x3 lizard pelts <small>(all the rest math says it should be x2, but here x3)</small>;
+        x3 pelts <small>(all the rest math says it should be x2, but here x3)</small>;
         </td>
         </tr>
         <tr>
@@ -2701,7 +2723,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/bone.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x4 pachycephalosaurus bone <small>(it's a bug, must be x2)</small>.
+        x4 bone <small>(it's a bug, must be x2)</small>.
         </td>
         </tr>
         </table>
@@ -2734,7 +2756,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x4 pachycephalosaurus meat <small>(it's a bug, must be x3)</small>;
+        x4 meat <small>(it's a bug, must be x3)</small>;
         </td>
         </tr>
         <tr>
@@ -2742,7 +2764,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/animalfat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x4 pachycephalosaurus fat <small>(it's a bug, must be x3)</small>;
+        x4 fat <small>(it's a bug, must be x3)</small>;
         </td>
         </tr>
         <tr>
@@ -2750,7 +2772,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/leather.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x3 pachycephalosaurus leather;
+        x3 leather;
         </td>
         </tr>
         <tr>
@@ -2758,14 +2780,14 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/bone.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x3 pachycephalosaurus bone.
+        x3 bone.
         </td>
         </tr>
         </table>
     </td>
     </tr>
     <tr>
-    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td width=36 style="padding: 0px; padding-left: 10px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
@@ -2774,12 +2796,12 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x1 pachycephalosaurus meatsteak <small>(it's a bug, must be x3)</small>;
+        x1 meatsteak <small>(it's a bug, must be x3)</small>;
         </td>
         </tr>
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        <img src="assets/images/food/error.png" width=32 height=32>
+        <img src="assets/images/icons/error.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         you won't get leather <small>(due a bug)</small>
@@ -2790,7 +2812,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/bone.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x5 pachycephalosaurus bone <small>(it's a bug, must be x3)</small>.
+        x5 bone <small>(it's a bug, must be x3)</small>.
         </td>
         </tr>
         </table>
@@ -2823,7 +2845,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x4 alligator meat <small>(it's a bug, must be x3)</small>;
+        x4 meat <small>(it's a bug, must be x3)</small>;
         </td>
         </tr>
         <tr>
@@ -2831,7 +2853,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/leather.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x3 alligator leather;
+        x3 leather;
         </td>
         </tr>
         <tr>
@@ -2839,14 +2861,14 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/bone.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x3 alligator bone.
+        x3 bone.
         </td>
         </tr>
         </table>
     </td>
     </tr>
     <tr>
-    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td width=36 style="padding: 0px; padding-left: 10px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
@@ -2855,7 +2877,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x1 alligator meatsteak <small>(it's a bug, must be x3)</small>;
+        x1 meatsteak <small>(it's a bug, must be x3)</small>;
         </td>
         </tr>
         <tr>
@@ -2871,7 +2893,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/bone.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x5 alligator bone <small>(it's a bug, must be x3)</small>.
+        x5 bone <small>(it's a bug, must be x3)</small>.
         </td>
         </tr>
         </table>
@@ -2904,7 +2926,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x4 velociraptor meat <small>(it's a bug, must be x3)</small>;
+        x4 meat <small>(it's a bug, must be x3)</small>;
         </td>
         </tr>
         <tr>
@@ -2912,7 +2934,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/animalfat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x4 velociraptor fat <small>(it's a bug, must be x3)</small>;
+        x4 fat <small>(it's a bug, must be x3)</small>;
         </td>
         </tr>
         <tr>
@@ -2920,7 +2942,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/leather.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x3 velociraptor leather;
+        x3 leather;
         </td>
         </tr>
         <tr>
@@ -2928,14 +2950,14 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/bone.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x3 velociraptor bone.
+        x3 bone.
         </td>
         </tr>
         </table>
     </td>
     </tr>
     <tr>
-    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td width=36 style="padding: 0px; padding-left: 10px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
@@ -2944,7 +2966,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x1 velociraptor meatsteak <small>(it's a bug, must be x3)</small>;
+        x1 meatsteak <small>(it's a bug, must be x3)</small>;
         </td>
         </tr>
         <tr>
@@ -2960,7 +2982,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/bone.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x5 velociraptor bone <small>(it's a bug, must be x3)</small>.
+        x5 bone <small>(it's a bug, must be x3)</small>.
         </td>
         </tr>
         </table>
@@ -2993,7 +3015,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x4 dimetrodon meat <small>(it's a bug, must be x3)</small>;
+        x4 meat <small>(it's a bug, must be x3)</small>;
         </td>
         </tr>
         <tr>
@@ -3001,7 +3023,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/animalfat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x4 dimetrodon fat <small>(it's a bug, must be x3)</small>;
+        x4 fat <small>(it's a bug, must be x3)</small>;
         </td>
         </tr>
         <tr>
@@ -3009,7 +3031,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/leather.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x3 dimetrodon leather;
+        x3 leather;
         </td>
         </tr>
         <tr>
@@ -3017,14 +3039,14 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/bone.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x3 dimetrodon bone.
+        x3 bone.
         </td>
         </tr>
         </table>
     </td>
     </tr>
     <tr>
-    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td width=36 style="padding: 0px; padding-left: 10px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
@@ -3033,12 +3055,12 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x1 dimetrodon meatsteak <small>(it's a bug, must be x3)</small>;
+        x1 meatsteak <small>(it's a bug, must be x3)</small>;
         </td>
         </tr>
         <tr>
         <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        <img src="assets/images/food/error.png" width=32 height=32>
+        <img src="assets/images/icons/error.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         you won't get leather <small>(due a bug)</small>
@@ -3049,7 +3071,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/bone.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x5 dimetrodon bone <small>(it's a bug, must be x3)</small>.
+        x5 bone <small>(it's a bug, must be x3)</small>.
         </td>
         </tr>
         </table>
@@ -3082,7 +3104,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x7 tyrannosaurus rex meat <small>(it's a bug, must be x6)</small>;
+        x7 meat <small>(it's a bug, must be x6)</small>;
         </td>
         </tr>
         <tr>
@@ -3090,7 +3112,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/animalfat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x7 tyrannosaurus rex fat <small>(it's a bug, must be x6)</small>;
+        x7 fat <small>(it's a bug, must be x6)</small>;
         </td>
         </tr>
         <tr>
@@ -3098,7 +3120,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/leather.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x6 tyrannosaurus rex leather;
+        x6 leather;
         </td>
         </tr>
         <tr>
@@ -3106,14 +3128,14 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/bone.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x6 tyrannosaurus rex bone.
+        x6 bone.
         </td>
         </tr>
         </table>
     </td>
     </tr>
     <tr>
-    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td width=36 style="padding: 0px; padding-left: 10px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
     <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
         <table style="padding: 0px; margin: 0px">
@@ -3122,7 +3144,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/food/meat.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x1 tyrannosaurus rex meatsteak <small>(it's a bug, must be x6)</small>;
+        x1 meatsteak <small>(it's a bug, must be x6)</small>;
         </td>
         </tr>
         <tr>
@@ -3138,7 +3160,7 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
         <img src="assets/images/stacks/bone.png" width=32 height=32>
         </td>
         <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
-        x8 tyrannosaurus rex bone <small>(it's a bug, must be x6)</small>.
+        x8 bone <small>(it's a bug, must be x6)</small>.
         </td>
         </tr>
         </table>
@@ -3150,6 +3172,457 @@ In most cases you will see exploding monkey. It's ok. <small>Or a bug. Oh, yes, 
 </table>
 </details>
 <br>
+
+### Mice, cats, dogs
+
+<details><summary>show/hide butchering results of mice, cats and dogs</summary>
+
+<table>
+<tr>
+<th>
+<b>Butchering results</b>
+</th>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/mouse-gray-dead.png" width=32 height=32></td>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/mouse-brown-dead.png" width=32 height=32></td>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/mouse-white-dead.png" width=32 height=32></td>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/mouse-black-dead.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Mouse</b> <small>medical skill +0.3 <i><font color=orange>unique animal that can only be butchered at any intent;</font> <font color=silver>there are mouse variations that are present in the code but not really needed</font></i></small>
+    </td>
+    </tr>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; padding-left: 10px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/icons/i_help.png" width=32 height=32><br>
+    <img src="assets/images/icons/i_disarm.png" width=32 height=32><br>
+    <img src="assets/images/icons/i_grab.png" width=32 height=32><br>
+    <img src="assets/images/icons/i_harm.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 <font color=gold>mouse meatsteak</font> <small>(or Tom meatsteak in some cases due a bug)</small>;<br>
+        *<i>it's unique meatsteak type, see details below at meat products section</i>
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/cat-2-dead.png" width=32 height=32></td>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/cat-salem-dead.png" width=32 height=32></td>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/cat-runtime-dead.png" width=32 height=32></td>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/cat-kitten-dead.png" width=32 height=32></td>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/cat-unused-dead.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Cat</b> <small>medical skill +1 on harm intent, but 0 on grab intent due a bug <i><font color=silver>there are cat variations that are present in the code but not really needed</font></i></small><br>*<i>the names of meat, skin and bones may be different, but in essence they will be the same (this also works for a kitten)</i>
+    </td>
+    </tr>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
+    <img src="assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 meat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 fat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/leather.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 leather;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 bone.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; padding-left: 10px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 meatsteak;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/catpelt.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 cat pelts <small>(all the rest math says it should be x1, but here x2)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 bone <small>(it's a bug, must be x1)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/dog-beagle-dead.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Beagle</b> <small>medical skill +1 <i><font color=red>two variants of beagle in code</font></i></small>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/dog-beagle-dead.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Wild beagle</b> <small><i><font color=gray>typo in name Wild Beagle</font></i></small>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/dog-pug-dead.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Wild pug</b> <small><i><font color=gray>typo in name Wild Pug</font></i></small>
+    </td>
+    </tr>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
+    <img src="assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 meat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 fat <small>(it's a bug, must be x1)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/leather.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 leather;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 bone.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; padding-left: 10px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 meatsteak;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/icons/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 bone <small>(it's a bug, must be x1)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/dog-samoyed-dead.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Dog</b> <small>medical skill +1.3333334 <i><font color=orange>it's looks like samoyed, but not samoyed</font></i></small>
+    </td>
+    </tr>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
+    <img src="assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 meat <small>(it's a bug, must be x2)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 fat <small>(it's a bug, must be x2)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/leather.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 leather;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 bone.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; padding-left: 10px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 meatsteak <small>(it's a bug, must be x2)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/icons/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x4 bone <small>(it's a bug, must be x2)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/dog-corgi-dead.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Animal</b> <small>medical skill +1.3333334 <i><font color=orange>it's a dog - corgi, but named as animal due a weak code</font></i></small>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/dog-german_shepherd-dead.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Wild german shepherd</b> <small><i><font color=gray>typo in name Wild German Shepherd</font></i></small>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/animals/dog-samoyed-dead.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Wild samoyed</b> or <b>Samoyed guard dog</b> <small><i><font color=gray>typo in name Wild Samoyed</font></i></small>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/icons/error.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <b>Wild wolf</b> <small><i><font color=red>has no sprite;</font> <font color=orange>different wolves in the code, for example, this one can be tamed (but invisible due an error);</font> <font color=gray>typo in name Wild Wolf</font></i></small>
+    </td>
+    </tr>
+    </table>
+    <table style="padding: 0px; margin: 0px">
+    <tr>
+    <td width=48 style="padding: 0px; padding-bottom: 2px; padding-left: 10px; margin: 0px; border-top: 0px; border-bottom: 0px">
+    <img src="assets/images/icons/i_harm.png" width=32 height=32>
+    </td>
+    <td style="padding: 0px; margin: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 meat <small>(it's a bug, must be x2)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/animalfat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x3 fat <small>(it's a bug, must be x2)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/leather.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 leather;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x2 bone.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    <tr>
+    <td width=36 style="padding: 0px; padding-left: 10px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <img src="assets/images/icons/i_grab.png" width=32 height=32></td>
+    <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <table style="padding: 0px; margin: 0px">
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/food/meat.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x1 meatsteak <small>(it's a bug, must be x2)</small>;
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/icons/error.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        you won't get leather <small>(due a bug)</small>
+        </td>
+        </tr>
+        <tr>
+        <td width=36 style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        <img src="assets/images/stacks/bone.png" width=32 height=32>
+        </td>
+        <td style="padding: 0px; margin: 0px; border-bottom: 0px; border-top: 0px">
+        x4 bone <small>(it's a bug, must be x2)</small>.
+        </td>
+        </tr>
+        </table>
+    </td>
+    </tr>
+    </table>
+</td>
+</tr>
+</table>
+</details>
+<br>
+
 
 <table>
 <tr>
