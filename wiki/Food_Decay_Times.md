@@ -3202,7 +3202,7 @@ Leather and bones can be stacked and given the name of the used item on the stac
     </table>
     <table style="padding: 0px; margin: 0px">
     <tr>
-    <td width=36 style="padding: 0px; padding-left: 10px; margin: 0px; border-bottom: 0px; border-top: 0px">
+    <td width=48 style="padding: 0px; padding-left: 10px; margin: 0px; border-bottom: 0px; border-top: 0px">
     <img src="assets/images/icons/i_help.png" width=32 height=32><br>
     <img src="assets/images/icons/i_disarm.png" width=32 height=32><br>
     <img src="assets/images/icons/i_grab.png" width=32 height=32><br>
