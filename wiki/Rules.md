@@ -11,8 +11,8 @@
   - It is against the rules to speak about Out-Of-Character (OOC) topics
     Inside-Character (IC) and vice-versa on purpose. Failing to do so will be considered metagaming.
   - Do not abuse mentorhelp/adminhelp: 
-		- Use mentorhelp for questions regarding gameplay.
-		- Use adminhelp for questions regarding bugs/rules.
+       - Use mentorhelp for questions regarding gameplay.
+       - Use adminhelp for questions regarding bugs/rules.
     If there are no admins online, ping admins or mentors in the Discord
     server for help.
   - Once a round ends (<i>the Restart/Epoch vote goes through</i>), you may go
@@ -50,8 +50,8 @@
     You should use emote verbs and you can do “drawings” on paper (EX:
     writing *A drawing of two stick figures crossing spears*))
   - Killing yourself to play a different team/race/role:
-		If you don't want to play the said team/race/role you can kill yourself and stay dead/observe for the rest of the round, otherwise play with what you're given. 
-		In TDM, if you chose a wrong role by accident, use ahelp in order to not waste a role.
+           - If you don't want to play the said team/race/role you can kill yourself and stay dead/observe for the rest of the round, otherwise play with what you're given. 
+           - In TDM, if you chose a wrong role by accident, use ahelp in order to not waste a role.
 
 ## Civilization/RP Server:
 
