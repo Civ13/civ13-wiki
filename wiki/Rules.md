@@ -1,6 +1,6 @@
 ## Server Rules
 
-### General Etiquette:
+### General Rules:
 
   - This server is <b>medium/high-roleplay</b> (MRP/HRP) server, good communication along with other associated
     skills are necessary!
@@ -49,9 +49,8 @@
   - Bypassing in-game language barriers (Such as using LOOC or a paper to communicate.
     You should use emote verbs and you can do “drawings” on paper (EX:
     writing *A drawing of two stick figures crossing spears*))
-  - Killing yourself to play a different team/race/role:
-           - If you don't want to play the said team/race/role you can kill yourself and stay dead/observe for the rest of the round, otherwise play with what you're given. 
-           - In TDM, if you chose a wrong role by accident, use ahelp in order to not waste a role.
+  - Killing yourself to play a different team/race/role: If you don't want to play the said team/race/role you can kill yourself and stay dead/observe for the rest of the round, otherwise play with what you're given. 
+    In TDM, if you chose a wrong role by accident, use ahelp in order to not waste a role for the other players.
 
 ## Civilization/RP Server:
 
@@ -230,14 +229,14 @@ neon hair colors, realistic colors for their ethnicities only.
 
 #### German
 
-  - no grey hair
+  - No grey hair
   - keep hair short
   - facial hair short, no beards beyond something like a goatee
   - skin color must be between 30-45
 
 #### Russian
 
-  - no grey hair
+  - No grey hair
   - Keep hair shorter side, no long hair beyond the shoulders
   - Facial hair can be beards, but no big beards (No dwarf beards etc.)
   - skin color must be between 30-45
@@ -255,7 +254,7 @@ neon hair colors, realistic colors for their ethnicities only.
   - Facial Hair must be short such as a mustache or none at all
   - Skin color between 20-45
 
-#### Arabian
+#### Arabic
 
   - Short hair, Black or dark brown
   - Facial hair can be long such as a long beard
