@@ -1,24 +1,24 @@
 ## Server Rules
 
-### General Etiquette:
+### General Rules:
 
-  - This server is medium/high-roleplay server, good communication
+  - This server is <b>medium/high-roleplay</b> (MRP/HRP) server, good communication along with other associated
     skills are necessary!
-  - Speak proper lingo for the current epoch of your team/the server
-    (Don’t be using net speak in any era other than modern, no caveman
-    or gladiator ran around saying LOL.)
-  - It is against the rules to speak about Out-Of-Character topics
-    Inside-Character and viceversa on purpose.
-  - Do not abuse mentorhelp/adminhelp, use mentorhelp for questions
-    regarding gameplay and adminhelp for questions regarding bugs/rules.
+  - English is the language of the server and players must speak it in all communication channels (IC and OOC), a good understanding of English is also required.
+  - Speak with the proper lingo/vocabulary for the current epoch of your team/ the server
+    (<i>Don’t be using "netspeak" in any era other than modern, no caveman
+    or gladiator ran around saying: "LOL".</i>)
+  - It is against the rules to speak about Out-Of-Character (OOC) topics
+    Inside-Character (IC) and vice-versa on purpose. Failing to do so will be considered metagaming.
+  - Do not abuse mentorhelp/adminhelp: 
+       - Use mentorhelp for questions regarding gameplay.
+       - Use adminhelp for questions regarding bugs/rules.
     If there are no admins online, ping admins or mentors in the Discord
     server for help.
-  - Once a round ends (The restart/epoch vote goes through), you may go
-    around killing and griefing as you please.
-  - You must not be toxic or too agitated in OOC or Dead-chat. As much
-    as it sucks losing your character, it is part of the game.
-  - This server's primary language is English, please use English when
-    communicating in game.
+  - Once a round ends (<i>the Restart/Epoch vote goes through</i>), you may go
+    around killing and griefing as you please. This is called "End of Round Grief" (EORG).
+  - You must not be toxic or too agitated in OOC communication channels (Dead-chat included).
+  - Losing your character is part of the game: do not get mad about it.
   - Ban evading is strictly prohibited.
   - When able to be applied, discord rules also are carried into the
     game, such as keeping things to the right channels, no spam, etc.
@@ -31,7 +31,7 @@
 
 ### Prohibited Behaviors:
 
-  - Erotic Roleplay (also known as ERP, it’s gross).
+  - Erotic Roleplay (ERP) or any type of lewdness: it’s gross.
   - Griefing (Destroying, hurting, stealing, etc. without
     escalation/valid purpose.)
   - Metagaming (Using external chats/knowledge to aid yourself in-game.)
@@ -39,20 +39,18 @@
     reporting it. Clipping through walls, etc.)
   - Hacking (You really shouldn’t waste time trying to hack a really bad
     game engine.)
-  - Obscene Names (Pick something RP friendly, and avoid copying other
+  - Obscene names (Pick something RP-friendly, and avoid copying other
     players names too.)
-  - Spamming any form of chat (This includes OOC and LOOC)
+  - Spamming in any IC and OOC communication channel.
   - Adminhelping/Mentorhelping sentence fragments. (Explain your
     situation throughoully, not just “Help”)
-  - Being “Toxic” (You have a right to be angry, just don’t take it out
+  - Toxicity (You have a right to be angry, but don’t take it out
     on others.)
-  - Bypassing language barriers (Such as using LOOC, or typing on paper.
+  - Bypassing in-game language barriers (Such as using LOOC or a paper to communicate.
     You should use emote verbs and you can do “drawings” on paper (EX:
     writing *A drawing of two stick figures crossing spears*))
-  - Killing yourself to play a different culture/race, if you don't
-    wanna play that race you can kill yourself and stay dead the rest of
-    the round, otherwise play with what you're given. In TDM, if you
-    chose a wrong role, ahelp first so you're not wasting a role.
+  - Killing yourself to play a different team/race/role: If you don't want to play the said team/race/role you can kill yourself and stay dead/observe for the rest of the round, otherwise play with what you're given. 
+    In TDM, if you chose a wrong role by accident, use ahelp in order to not waste a role for the other players.
 
 ## Civilization/RP Server:
 
@@ -231,14 +229,14 @@ neon hair colors, realistic colors for their ethnicities only.
 
 #### German
 
-  - no grey hair
+  - No grey hair
   - keep hair short
   - facial hair short, no beards beyond something like a goatee
   - skin color must be between 30-45
 
 #### Russian
 
-  - no grey hair
+  - No grey hair
   - Keep hair shorter side, no long hair beyond the shoulders
   - Facial hair can be beards, but no big beards (No dwarf beards etc.)
   - skin color must be between 30-45
@@ -256,7 +254,7 @@ neon hair colors, realistic colors for their ethnicities only.
   - Facial Hair must be short such as a mustache or none at all
   - Skin color between 20-45
 
-#### Arabian
+#### Arabic
 
   - Short hair, Black or dark brown
   - Facial hair can be long such as a long beard
