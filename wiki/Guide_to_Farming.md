@@ -68,7 +68,7 @@ To farm, you will require some basic tools.
 
 ## Farming
 
-Just plough a plot of land, surround said plot of land with trenches
+Just plough a plot of land by yourself or by attaching the plough to a cow or bull for quicker soil disruption, surround said plot of land with trenches with a trench shovel (Cant be walked over easily) or with irrigation channels with a basic shovel (can be walked over easily)
 filled with fresh water or plough near a river, put some seeds in the
 ground and watch them grow! Well, it is a bit more nuanced.
 
