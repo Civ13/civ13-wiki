@@ -1,6 +1,6 @@
 ## Server Rules
 
-### General Etiquette:
+### General Rules:
 
   - This server is a <b>Medium/High-Roleplay</b> (MRP/HRP) server, good communication along with other associated
     skills are necessary! Character has to be maintained at all times.
