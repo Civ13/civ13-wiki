@@ -2,57 +2,61 @@
 
 ### General Rules:
 
-  - This server is <b>medium/high-roleplay</b> (MRP/HRP) server, good communication along with other associated
-    skills are necessary!
-  - English is the language of the server and players must speak it in all communication channels (IC and OOC), a good understanding of English is also required.
-  - Speak with the proper lingo/vocabulary for the current epoch of your team/ the server
-    (<i>Don’t be using "netspeak" in any era other than modern, no caveman
+  - This server is a <b>Medium/High-Roleplay</b> (MRP/HRP) server, good communication along with other associated
+    skills are necessary! Character has to be maintained at all times.
+  - English is the language of the server and players must speak it in all communication channels (IC and OOC), at all times. A good understanding of English is therefore also required.
+  - Speak with the proper lingo/vocabulary of the current epoch you're playing.
+    (<i>Do not be using "netspeak" in any era other than Modern: no caveman
     or gladiator ran around saying: "LOL".</i>)
   - It is against the rules to speak about Out-Of-Character (OOC) topics
-    Inside-Character (IC) and vice-versa on purpose. Failing to do so will be considered metagaming.
-  - Do not abuse mentorhelp/adminhelp: 
-       - Use mentorhelp for questions regarding gameplay.
-       - Use adminhelp for questions regarding bugs/rules.
-    If there are no admins online, ping admins or mentors in the Discord
-    server for help.
-  - Once a round ends (<i>the Restart/Epoch vote goes through</i>), you may go
-    around killing and griefing as you please. This is called "End of Round Grief" (EORG).
-  - You must not be toxic or too agitated in OOC communication channels (Dead-chat included).
-  - Losing your character is part of the game: do not get mad about it.
+    Inside-Character (IC) and vice-versa on purpose. Failing to do so will be considered metagaming and may be punishable.
+  - Do not abuse mentorhelp/adminhelp:
+		<br>
+        <b>→</b> Use mentorhelp for questions regarding gameplay.
+		<br>
+        <b>→</b> Use adminhelp for questions regarding bugs/rules.
+		<br>
+If there are no admins online, you may ping admins or mentors on the Discord server for assistance.
+  - Once a round ends (<i>i.e. the Epoch vote finishes</i>), griefing and random killing is tolerated. 
+    This is called "End of Round Grief" (EORG) and it's allowed ONLY when the round has ended.
+  - You must not be toxic or too agitated in any OOC communication channels (Dead-chat and mentor/adminhelp included). 
+  - Losing is part of the game: do not get mad about losing your character.
   - Ban evading is strictly prohibited.
   - When able to be applied, discord rules also are carried into the
     game, such as keeping things to the right channels, no spam, etc.
   - **Every user must have common sense to identify and apply the rules
     to their behavior correctly so as to avoid breaking the rules and to
     discern wrong-doers from players who follow the rules.**
-  - Sharing exploits of any kind or sharing information that could lead to griefing is against the rules. 
-    You will be warned first if you do it again it will result in a
-    permanent ban from the server. If you find a exploit please inform staff privately.
+  - Sharing and/or using exploits/bugs of any kind as well as sharing any kind of information 
+    that could lead to griefing is prohibited. This includes abusing incomplete game mechanics.
+    You will be warned first and, if you persist, a permanent ban from the server will be applied. 
+	If you find an exploit please inform staff privately.
+	
+<center><strong>What staff say is law, so if when they ask you to stop, you must stop.</strong></center>
+<br>
 
 ### Prohibited Behaviors:
 
-  - Erotic Roleplay (ERP) or any type of lewdness: it’s gross.
-  - Griefing (Destroying, hurting, stealing, etc. without
-    escalation/valid purpose.)
-  - Metagaming (Using external chats/knowledge to aid yourself in-game.)
-  - Exploiting Glitches (EX: Using a duplication glitch instead of
-    reporting it. Clipping through walls, etc.)
-  - Hacking (You really shouldn’t waste time trying to hack a really bad
-    game engine.)
+  - Erotic Roleplay (ERP) or any type of lewdness. The server has a zero tolerance policy towards the matter.
+  - Griefing: destroying, hurting, killing, stealing, etc. without any proper
+    escalation and/or valid purpose.)
+  - Metagaming: using external chats or knowledge to aid yourself in-game.)
+  - Exploiting glitches/bugs/incomplete mechanics (ex: using a duplication glitch or clipping through walls, without reporting it to the staff.)
+  - Hacking (You really shouldn’t waste time trying to hack a really bad game engine.)
   - Obscene names (Pick something RP-friendly, and avoid copying other
     players names too.)
   - Spamming in any IC and OOC communication channel.
-  - Adminhelping/Mentorhelping sentence fragments. (Explain your
-    situation throughoully, not just “Help”)
-  - Toxicity (You have a right to be angry, but don’t take it out
-    on others.)
+  - Adminhelping/Mentorhelping sentence fragments. Explain your situation fully through and in a calm manner.
+  - Toxicity towards other players and/or the staff team. 
   - Bypassing in-game language barriers (Such as using LOOC or a paper to communicate.
     You should use emote verbs and you can do “drawings” on paper (EX:
     writing *A drawing of two stick figures crossing spears*))
-  - Killing yourself to play a different team/race/role: If you don't want to play the said team/race/role you can kill yourself and stay dead/observe for the rest of the round, otherwise play with what you're given. 
-    In TDM, if you chose a wrong role by accident, use ahelp in order to not waste a role for the other players.
+  - Killing yourself to play a different culture/race, if you don't
+    wanna play that race you can kill yourself and stay dead the rest of
+    the round, otherwise play with what you're given. In TDM, if you
+    chose a wrong role, ahelp first so you're not wasting a role.
 
-## Civilization/RP Server:
+## "Nomads" Server:
 
 ### Additional Rules:
 
@@ -183,6 +187,8 @@ fighting, not civilians or shopkeepers.
   - You must value your life, admins will often be disabling respawn to
     make it so. Act like you actually would to your wounds and
     situation. Don't lose and arm and state "Tis but a scratch!"
+<br>
+
 ## Occupation Rules
 
   - SS can shoot anyone with a gun held in their hands on sight. SS can shoot confirmed UPA on sight (UPA in a UPA uniform).
@@ -200,43 +206,41 @@ fighting, not civilians or shopkeepers.
 
 ### Additional Rules:
 
-  - No teamkilling (If someone is disobeying a higher-ups orders, they
+  - No teamkilling (if someone is disobeying a higher-up orders, they
     may be executed by the officer or arrested).
-  - Wearing an enemy uniform is allowed, but you can be teamkilled for
-    it.
+  - Wearing an enemy uniform is allowed, but you can be teamkilled for it.
   - You may commit warcrimes (Killing medics or people who have
     surrendered, however if someone is trying to capture a surrendered
     individual, or do some RP with a medic/prisoner, don’t attack them.)
-  - No stealing from your teammates (Don’t take your friends boots, or
+  - Do not steal from your teammates (Don’t take your friends boots, or
     break into your commanders office just to get something.)
-  - Don’t waste your teams resources, or do things to inconvenience them
-    purposefully (This is
-  - counted as griefing).
-  - Even though there's less “RP” in TDM, stick to character (Running
-    around naked is not something a soldier would do.)
+  - Do not waste your team's resources and/or do things to inconvenience them
+    on purpose (This is counted as griefing).
+  - Even though there's "less" RP in TDM modes, you must stick to character at all times
+   (Running around naked and screaming non-sense is not something a soldier would do.)
   - Spawncamping is prohibited, unless the map has the goal to capture
     the enemy HQ where the enemy spawn.
 
 ## RP Standards
 
-The TDM server is an MRP server, meaning you need to stick to acting as
-your role would. Don't say things they wouldn't say, do things they
-wouldn't do, etc. Appearance and gender are also taken into account.
-Each faction has it's own restrictions/guidelines for appearance you are
-to follow.**All hair and eye colors should remain darker variants to
-spare people's poor retinas, and really light hair looks bad.** Also no
-neon hair colors, realistic colors for their ethnicities only.
+The TDM server is mostly a MRP server, with a few HRP modes, where RP standards are more demanding.
+You must stick to character at all times, according to their background: 
+Don't say things they wouldn't say, do things they wouldn't do, etc. 
+Appearance and gender are also taken into account.
+Each faction has its own restrictions/guidelines for appearance that you are
+to follow. Non-realistic hairstyles or hair colors (ex: neon ponytails for a WW2 soldier) are not permitted.
+Appearance has to be in accordance with the character's ethnicity.
 
 #### German
 
-  - No grey hair
+  - no grey hair
   - keep hair short
   - facial hair short, no beards beyond something like a goatee
   - skin color must be between 30-45
 
 #### Russian
 
-  - No grey hair
+  - no grey hair
   - Keep hair shorter side, no long hair beyond the shoulders
   - Facial hair can be beards, but no big beards (No dwarf beards etc.)
   - skin color must be between 30-45
@@ -254,7 +258,7 @@ neon hair colors, realistic colors for their ethnicities only.
   - Facial Hair must be short such as a mustache or none at all
   - Skin color between 20-45
 
-#### Arabic
+#### Arabian
 
   - Short hair, Black or dark brown
   - Facial hair can be long such as a long beard
@@ -280,5 +284,3 @@ The following content is not allowed to be posted:
   - Pornography
   - Illicit links and files
   - Excessive Violence
-
-<b>**What staff say is law, so if they ask you to stop, stop.**</b>
