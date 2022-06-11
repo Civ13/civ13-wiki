@@ -29,7 +29,7 @@ As a guard, you're equipped with necessary tools to ~~beat the shit out of priso
 
 ## In your belt, you'll find:
  - **Whistle** to alarm other guards and prisoners. 
- - **Handcuffs** for ~~kinky stuffs~~ detaining prisoners.
+ - **Handcuffs** for detaining prisoners.
  - **Binocular** which is useful for people who's assigned to watchtowers.
  - **Baton** that immediately put prisoners to the ground once they took a hit or two. 
  
@@ -68,7 +68,7 @@ Note: *You gotta love these batons since they will be your bestfriend until your
 - They should hand over the mining bag, have the resources sold to the vendor in the minecart room, then give them 60% of the calculated rubbles as well as their ID back.
 - If there is a missing equipment in the lockers then inform your higher ups to immediately do an immediate inspection of their cells, their clothes and everywhere in the prison.
 - Role Call is a must that every prisoner is required to attend, otherwise they are valid to face severe consequences. (You may beat them up, steal half of their rubbles but never all of their rubbles.)
-- Miners should be **payed** to keep them happy, these can be used to buy stuff in your departments (Food and Medical Supplies is likely to be bought by prisoners or Shanks/Knifes to be used.)
+- Miners should be **paid** to keep them happy, these can be used to buy stuff in your departments (Food and Medical Supplies is likely to be bought by prisoners or Shanks/Knifes to be used.)
 
 ---
 
@@ -76,40 +76,39 @@ Note: *You gotta love these batons since they will be your bestfriend until your
 
 ### Before Cafeteria
 - There should be a representative of each faction to man the cafeteria.
-- IF the said representative of faction starts asking for "Payment", you are expected for a cut. Otherwise, disallow it since it always turn bloodbath afterward.
+- If the representative of a faction starts asking for "payment", you are expected to provide a cut. Otherwise, disallow it since it always turn bloodbath afterward.
 - Prisoners are allowed to skip cafeteria but never to be served until next cafeteria time.
 
 ### While Cafeteria
-- You can do nothing but observe, let the prisoners have their daily dose of beating eachother until someone dies then, only then you are allowed to intervene.
+- Guards can do nothing but observe. Let the prisoners have their daily dose of beating eachother until someone dies. Then, and **ONLY** then, are you allowed to intervene.
 
 ### After Cafeteria
-- Force every prisoners to properly clean up, fix the stool and place the plate back to the counter.
-- OPTIONAL: IF SOMEONE SHITS ON THE FLOOR, KILL THEM WITHOUT PREJUDICE OR BETTER YET LET EVERYBODY BEAT HIM TO DEATH.
-- OPTIONAL: IF THEIR NAME IS SIROBAR ON DISCORD, KILL THEM. THEY ARE BAD GULAG PLAYER - HumbleServant
+- Force every prisoners to properly clean up, fix their stools, and place their plates back on the counter.
+- OPTIONAL: If someone shits on the floor you may either kill them or let the other prisoners beat them to death.
 
 ---
 
 # Prisoner's Guide to Gulag
-*Your goal is not to escape, kill guards or kill fellow prisoners even if they are from different gang/team but instead Focus on getting more money. You're still free to kill fellow prisoner without ooc admin intervention but where's the fun in that?*
+*Your goal is not to escape, kill guards, or kill fellow prisoners, even if they are from a different gang/team, but instead focus on getting more money. You're still free to kill fellow prisoner without ooc admin intervention, but where's the fun in that?*
 
-**Your goal is to gather as much rubble as possible.**
+**Your goal is to gather as many rubbles as possible.**
 
-And there's plenty of ways to earn this.
+There's plenty of ways to earn them:
 
 1. Mining 
- - Mining is easy but the price of your hard work is easily manipulated by the guards on duty but regardless You should be payed and if they didn't, Ask the admin what should be your next step on dealing with this particular guard.
+ - Mining is easy but the price of your hard work is easily manipulated by the guards on duty. Regardless, prisoners are expected to be paid. If the guards don't pay, ask the admins what should be your next step on dealing with this particular guard.
 
 2. Underground Fight Club 
- - What goes in the fight club stays in the fight club. Make sure to not kill any your opponent and stay humble and honorable. Surrendered opponent shouldn't be killed otherwise, this gives the guard of the fight club a reason to shoot you on sight and observers shouldn't intervene.
+ - What goes on in the fight club stays in the fight club. Make sure to not kill any of your opponents and stay humble and honorable. Surrendered opponent shouldn't be killed, this gives the guard of the fight club a reason to shoot you on sight. Observers shouldn't intervene.
 
-3.Services 
- - Theres alot of services you can offer to the prisoners, one of these are **medical services**, **'beat-a-prisoner'** services and lastly, **Cafeteria services**.
+3. Services 
+ - There's a lot of services that can be offered to prisoners. Some of these include **medical services**, **'beat-a-prisoner'** services, and lastly **cafeteria services**.
  
  *Note: Mind you that these services can be protected by the prison guards if they are paid well.*
 
 This is for the prisoners only.
 Remember, the best way to enjoy the round is acting accordingly and appropriately to the setting.
 
-Oh and **Escape is not advised nor is it wise thing to do.**
+**Escape is not advised nor is it a wise thing to do.**
 
 ---

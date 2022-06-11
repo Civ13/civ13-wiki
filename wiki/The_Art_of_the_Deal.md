@@ -153,7 +153,8 @@ desktop.
 | Blue    | indigon crystals    | GBSA-1994 chip  |
 
 ### Vehicles
-
+**Do not drive a vehicle without knowing how, make sure you drive on the right side of the road**
+https://civ13.github.io/civ13-wiki/Guide_to_Tanks#driving
 Vehicles can be bought at the **car dealership** in the center. Be aware
 that driving cars stolen from other companies will get you a warrant!
 
@@ -282,6 +283,8 @@ should be kept in the **Evidence Room**.
 
 #### Rules
 
+**Escalation is required** for any non-company member to kill or harm another non-company member. Meaning companies can only not escalate between other companies, but must escalate when killing or harming paramedics or other roles (Police are exempt from escalation while enforcing the law).
+
 The police has the right to stop and search any person or vehicle, with
 or without suspicion, including setting up road blocks to search all
 traffic coming through. Company's properties are exempt from this rule,
@@ -294,6 +297,7 @@ A police officer may use **lethal force** if the suspect:
   - attempts to fire at, run over, or physically harm a police officer;
   - is armed and refuses to disarm, or be disarmed, upon request by an
     officer.
+  - is armed and is about to discharge their firearm at another person. (judged within reason, try not to rely on this one)
 
 A police officer may **arrest** a suspect if they:
 

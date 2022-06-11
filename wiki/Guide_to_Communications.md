@@ -18,15 +18,21 @@
 <td><p>Will only work with <strong>2</strong> tiles inbetween each pole. <strong>Cannot be diagonal.</strong> Be extremely careful building as it cannnot be deconstructed and only destroyed with a catapult or canon/explosives.
   
 
+
 <strong>Building a good telegraph line:</strong><details>
   <summary>Click to expand!</summary>
 
-- First setup the telegraph in the desired location. Typically the corner of a building.
-- Build the utiliy pole adjacent to the telegraph on the otherside of the wall.
-- Use spare materials to map out your utility pole line.
-- Create the telegraph at the other end.
-- Build your new building around it.
-- Construct the telegraph lines and make sure to place a telegraph printer next to each of the telegraphs. (Make sure to load paper into it.)
+
+<ul>
+<li>First setup the telegraph in the desired location. Typically the corner of a building.</li>
+<li>Build the utiliy pole adjacent to the telegraph on the otherside of the wall.</li>
+<li>Use spare materials to map out your utility pole line.</li>
+<li>Create the telegraph at the other end.</li>
+<li>Build your new building around it.</li>
+<li>Construct the telegraph lines and make sure to place a telegraph printer next to each of the telegraphs. (Make sure to load paper into it.)</li>
+</ul>
+
+
 </details></p></td>
 </tr>
 <tr>
