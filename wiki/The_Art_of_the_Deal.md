@@ -124,18 +124,12 @@ Each company has a factory area that can be used to produce electronic
 **components**. They need a specific **precursor crystal** to produce
 their faction-specific component, that must be acquired from other
 company - They will also be able to order a precursor needed for another
-company to manufacture their proprietary component. *The necessary
-precursors will be randomized each round.*
+company to manufacture their proprietary component.
 
 To produce, use the crystals on the loader part of the machine and wait
 about **1 minute**.
 
-Example: **Yellow company** needs the **red precursor** to manufacture
-the **yellow chip** this round. Only the **Red company** can order the
-red precursor, so they will have to deal with them. Then they can sell
-the chip to any company who needs it to fulfill a deal, as deals will
-always require third party chips (**Yellow** will never get an order for
-yellow chips)
+Example: **Red** needs *Yellow chips*, so **red** buys *yellow precursor crystals* and makes a deal with the **yellows**, trade precursor and cash for chips. The **Yellow** then takes the *yellow precursor* and manufactures *yellow chips.*
 
 The company will receive e-mails with orders for components regularly,
 so be sure to check the desktop computer. Each order will feature a
