@@ -2,7 +2,7 @@
 
 **Introduction**
 
-It is the midst of war when the soviets captured you from the battlefield as you surrendered or were forcibly taken away from your homeland.
+It is the midst of war when the Soviets captured you from the battlefield as you surrendered or were forcibly taken away from your homeland.
 You were taken to a distant location in the middle of nowhere, in siberia, and you can't recall your journey as you almost froze to death 
 in the cargo train wagon. The camp is guarded by heavily armed personnel from the nkvd and there's barely any settlements to be seen in the distance, nor signs of 
 human life. Only a dim light above the barbed fence can be seen through the thick layer of fog and frost. As you look closer, there's a sign 
