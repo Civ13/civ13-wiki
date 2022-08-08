@@ -57,7 +57,7 @@ As a guard, you're equipped with the necessary tools to bring order and discipli
 - A well-fed inmate will have better performance and compliance than a malnourished one. Do not let cannibalism be an option for the prisoners.
 
 **A dead prisoner is a liability for the Motherland.**
- - Prevent fights, do inspections, confiscate contraband, treat injured/sick inmates. This is the minimum you can do to prevent death in the camp. However, keep a rational use of equipment. Do not waste too much medical equipment on a dying prisoner.
+- Prevent fights, do inspections, confiscate contraband, treat injured/sick inmates. This is the minimum you can do to prevent death in the camp. However, keep a rational use of equipment. Do not waste too much medical equipment on a dying prisoner.
 
 ---
 
