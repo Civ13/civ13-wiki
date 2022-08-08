@@ -82,9 +82,8 @@ If there are no admins online, you may ping admins or mentors on the Discord ser
     surrender and don’t act like some macho-super-warrior (unless it
     fits you icly). You shouldn’t treat death as something to shrug
     off.)
-  - IN CASE OF PERSISTENCE: You may not break into a offline players
-    base/home, this goes for faction bases as well. You may however pick
-    up loose items on the ground, or enter unlocked or opened areas.
+  - You may break into a offline players base/home, as well as faction bases.
+    It is the player's responsability to ensure the safety of their property and belongings.
 
 ### Escalation:
 
