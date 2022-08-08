@@ -27,7 +27,7 @@ For each ore exported there's an amount of rubles given, which can be used to pa
 
 As a guard, you're equipped with the necessary tools to bring order and discipline among the prisoners.
 
-## In your belt, you'll find:
+**In your belt, you'll find:**
 
  - A **whistle** to alarm other guards and prisoners. 
  - A pair of **handcuffs** for detaining prisoners.
@@ -37,7 +37,7 @@ As a guard, you're equipped with the necessary tools to bring order and discipli
  
  Additional equipment such as flashlights can be found in the tool shed (south of the Guard Medical Area). More advanced equipment can be distributed by supervisors and/or the camp commander. Do not hesitate to stock up on xylil bromide grenades as they are an effective method to subdue prisoners.
  
- **All firearms must remain OUTSIDE of the prison area! Failure to follow this protocol as a guard is a valid reason for a demotion/discharge/execution."
+**All firearms must remain OUTSIDE of the prison area! Failure to follow this protocol as a guard is a valid reason for a demotion/discharge/execution.**
 
 ### Now that you are equipped and ready, here are the things you can do as guard to ensure safety and enforce forced labor amongst the prisoners:
 
