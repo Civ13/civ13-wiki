@@ -58,7 +58,7 @@ As a guard, you're equipped with the necessary tools to bring order and discipli
 
 **A dead prisoner is a liability for the Motherland.**
  - Prevent fights, do inspections, confiscate contraband, treat injured/sick inmates. This is the minimum you can do to prevent death in the camp. However, keep a rational use of equipment. Do not waste too much medical equipment on a dying prisoner.
- 
+
 ---
 
 ## Mining Protocols
