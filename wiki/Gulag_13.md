@@ -57,7 +57,8 @@ As a guard, you're equipped with the necessary tools to bring order and discipli
 - A well-fed inmate will have better performance and compliance than a malnourished one. Do not let cannibalism be an option for the prisoners.
 
 **A dead prisoner is a liability for the Motherland.**
- - Prevent fights, do inspections, confiscate contraband, treat injured/sick inmates. This is the minimum you can do to prevent death in the camp. However, keep a rational use of equipment. Do not waste too much medical equipment on a dying prisoner.
+- Prevent fights, do inspections, confiscate contraband, treat injured/sick inmates. This is the minimum you can do to prevent death in the camp. However, keep a rational use of equipment. Do not waste too much medical equipment on a dying prisoner.
+
 ---
 
 ## Mining Protocols
@@ -111,4 +112,5 @@ Remember, the best way to enjoy the round is acting accordingly and appropriatel
 
 Collaborators are a whitelisted role, they must keep their role secret from the other prisoners. Guards are to protect their identity as well and should reward them for useful information.
 Other prisoners may be agressive towards them, especially for snitching out. However, killing them should be avoided.
+
 ---
