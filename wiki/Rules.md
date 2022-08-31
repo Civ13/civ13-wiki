@@ -2,21 +2,23 @@
 
 ### General Rules:
 
-  - This server is a <b>Medium/High-Roleplay</b> (MRP/HRP) server, good communication along with other associated
-    skills are necessary! Character has to be maintained at all times.
-  - English is the language of the server and players must speak it in all communication channels (IC and OOC), at all times. A good understanding of English is therefore also required.
-  - Speak with the proper lingo/vocabulary of the current epoch you're playing.
-    (<i>Do not be using "netspeak" in any era other than Modern: no caveman
-    or gladiator ran around saying: "LOL".</i>)
+  - This server is intended to be a <b>Medium/High-Roleplay</b> (MRP/HRP) server, good communication along with other associated
+    skills are necessary! Character has to be maintained at all times and actions are to be realistic (or at least the closest to reality).
+    Low-Roleplay (LRP) (i.e. using memes ICly, "netspeak", powergaming, unrealistic actions, disregarding the setting of the game) is severily 
+    discouraged and may be punishable, especially during HRP gamemodes.
+  - English is the language of the server and players must speak it in all communication channels (IC and OOC), at all times. 
+    A good understanding of English is therefore also required.
+  - As stated earlier, you must speak with the proper lingo/vocabulary of the current epoch and setting you're playing.
+    (<i>Do not be using "netspeak" like "LOL", "OMG", "brb", "g2g", etc.).</i>)
   - It is against the rules to speak about Out-Of-Character (OOC) topics
     Inside-Character (IC) and vice-versa on purpose. Failing to do so will be considered metagaming and may be punishable.
   - Do not abuse mentorhelp/adminhelp:
 		<br>
         <b>→</b> Use mentorhelp for questions regarding gameplay.
 		<br>
-        <b>→</b> Use adminhelp for questions regarding bugs/rules.
+        <b>→</b> Use adminhelp for questions regarding bugs/rules/assistance in case of a problem.
 		<br>
-If there are no admins online, you may ping admins or mentors on the Discord server for assistance.
+    If there are no admins online, you may ping admins or mentors on the Discord server for assistance.
   - Once a round ends (<i>i.e. the Epoch vote finishes</i>), griefing and random killing is tolerated. 
     This is called "End of Round Grief" (EORG) and it's allowed ONLY when the round has ended.
   - You must not be toxic or too agitated in any OOC communication channels (Dead-chat and mentor/adminhelp included). 
@@ -28,33 +30,39 @@ If there are no admins online, you may ping admins or mentors on the Discord ser
     to their behavior correctly so as to avoid breaking the rules and to
     discern wrong-doers from players who follow the rules.**
   - Sharing and/or using exploits/bugs of any kind as well as sharing any kind of information 
-    that could lead to griefing is prohibited. This includes abusing incomplete game mechanics.
-    You will be warned first and, if you persist, a permanent ban from the server will be applied. 
-	If you find an exploit please inform staff privately.
+    that could lead to griefing is prohibited. This includes also abusing incomplete game mechanics, using unintended features 
+    to gain an unfair advantage for yourself or your team.
+    You will be warned first and, if you persist, a permanent ban from the server will be applied.<br>
+    <b>If you find an exploit please inform staff privately in a timely manner.</b><br><br>
 	
-<center><strong>What staff say is law, so if when they ask you to stop, you must stop.</strong></center>
+<center><strong><font size = 3>What staff say is law, so if when they ask you to stop, you must stop.</font></strong></center>
 <br>
 
 ### Prohibited Behaviors:
 
   - Erotic Roleplay (ERP) or any type of lewdness. The server has a zero tolerance policy towards the matter.
   - Griefing: destroying, hurting, killing, stealing, etc. without any proper
-    escalation and/or valid purpose.)
-  - Metagaming: using external chats or knowledge to aid yourself in-game.)
-  - Exploiting glitches/bugs/incomplete mechanics (ex: using a duplication glitch or clipping through walls, without reporting it to the staff.)
+    escalation and/or valid purpose.
+  - Metagaming: using external chats or knowledge to aid yourself in-game.
+  - Racism and Discrimination: Those behaviors may only be tolerated IC and ONLY IF they are <b>strongly justified by the 
+    gamemode setting</b> (i.e. appropriate era and environment). However, such behaviors are absolutely not acceptable in OOC communications.
+    An auto-bot is in place to prevent the usage of common racial/discriminatory slurs in OOC communications. 
+    Failure to follow this rule will most likely result in a permanent ban from the servers.
+  - Exploiting glitches/bugs/incomplete mechanics (ex: using a duplication glitch or clipping through walls, 
+    without reporting it to the staff.)
   - Hacking (You really shouldn’t waste time trying to hack a really bad game engine.)
   - Obscene names (Pick something RP-friendly, and avoid copying other
     players names too.)
-  - Spamming in any IC and OOC communication channel.
+  - Spamming in any IC or OOC communication channel.
   - Adminhelping/Mentorhelping sentence fragments. Explain your situation fully through and in a calm manner.
-  - Toxicity towards other players and/or the staff team. 
+  - Toxicity towards other players and/or the staff team. This includes disrepectful behaviour.
   - Bypassing in-game language barriers (Such as using LOOC or a paper to communicate.
-    You should use emote verbs and you can do “drawings” on paper (EX:
-    writing *A drawing of two stick figures crossing spears*))
-  - Killing yourself to play a different culture/race, if you don't
-    wanna play that race you can kill yourself and stay dead the rest of
-    the round, otherwise play with what you're given. In TDM, if you
-    chose a wrong role, ahelp first so you're not wasting a role.
+    You should use emote verbs and you may do “drawings” on a paper (ex:
+    you may write the following: *A drawing of two stick figures crossing spears*)
+  - Killing yourself to play a different culture/race.<br>
+    If you don't want to play a certain race/culture, you may kill yourself BUT must stay 
+    dead the rest of the round, otherwise you have to play with what you're given. 
+    In TDM, if you chose a wrong role, ahelp first so you're not wasting a role.
 
 ## "Nomads" Server:
 
@@ -87,9 +95,10 @@ If there are no admins online, you may ping admins or mentors on the Discord ser
 
 ### Escalation:
 
-Because server is MRP/HRP, this means you must “escalate” conflicts.
-Escalation is the act of using RP to build up tensions.
-Usable of emote verbs and the “me” verb are strongly encouraged for
+Because the server is considered MRP/HRP, it means you must “escalate” conflicts.
+Escalation is the act of using RP to build up tension before engaging in a conflict.
+Verbal communication should take plaace
+Usage of emote verbs and the “me” verb are strongly encouraged for
 escalating when you cannot communicate verbally.
 For example, if you want to rob someone, escalation should look
 something like this:
@@ -155,37 +164,31 @@ leave, or else you must die!”)
 
 On non-nomads maps, you must play the role you join as (For example, if
 you join as a blacksmith, you open up a shop.)
-When there are multiple teams, this does not mean you are enemies,
-however some maps do have two rival factions, which is generally stated.
-(EX: Colonists do not attack natives randomly.)
-When teams do have a dispute, people with combat roles should be
+When there are multiple teams/factions, their relationships are considered neutral 
+unless it is stated otherwise (ex: Colonists do not attack Natives randomly).
+When teams do have a dispute, people with combat roles should be the ones
 fighting, not civilians or shopkeepers.
 
 ## GULAG Rules
 
-  - No rioting until after 30 minutes and you've made a plan. Not 1 guy
-    ungas a guard and 20 join in. Those 20 should already be apart of
-    the plan and know it's going to happen.
-  - Guards can't kill prisoners without **good reason** and should
-    always try to keep them alive, a dead prisoner can't work.
-  - Guards shouldn't have any riot gear before 30 minutes, and after
-    only when they've been given a reason.
-  - Prisoners should always escape with a well thought plan, not wing
-    it.
-  - Prisoners can kill eachother with escalation and IC reason, a guard
-    just needs IC reason.
+  - No rioting until 30 minutes have passed in-game and you've made a plan with other prisoners.
+    An single prisoner may not randomly attack a guard and have the other prisoners join in 
+    if it's not part of an elaborate plan by the prisoners.
+  - Guards can't kill prisoners without a **valid reason** and should
+    always try to keep them alive (a dead prisoner is one less worker).
+    This implies that lethal force should only be used as a last resort. 
+    As a guard on sniper duty, you should aim for non vital parts of the body.
+  - Guards shouldn't use any riot gear before 30 minutes mark. They also should only use it in necessity.
+  - Prisoners should always escape with a well thought out plan,.
+  - Prisoners may only kill each other with proper escalation and a **valid reason**.
   - Guards can't shoot first rather than baton them, they need to try
     and apprehend them (void in the case of riots)
-  - Prisoners are against eachother mostly based on faction, but in the
-    end you're all comrades in gulag.
-  - Prisoners are to do their job, if it's not open such as the mine,
-    don't break in, wait till a guard opens it etc. Play cards or
-    something while you wait.
-  - Guards can beat and apprehend anyone who crossed the borderline. The
-    snipers can shoot, but should aim to wound, not kill.
-  - You must value your life, admins will often be disabling respawn to
-    make it so. Act like you actually would to your wounds and
-    situation. Don't lose and arm and state "Tis but a scratch!"
+  - Prisoners are competing against each other in three diferrent factions, but in the
+    end they are all sharing the same fate of being in captivity.
+  - Prisoners are to do their assigned job. If a facility isn't open, don't break in, wait until a guard opens it.
+  - Guards can beat and apprehend anyone who crossed the borderline (yello hazard lines on the ground)
+  - You must value your life (respawns may often be disabled in order to do so). 
+    Act your wounds realistcally: don't lose and arm and state "It's just a scratch!"
 <br>
 
 ## Occupation Rules
@@ -270,6 +273,9 @@ Appearance has to be in accordance with the character's ethnicity.
   - Skin color must be from 55-95
 
 ## Discord Rules
+
+  <i>The following list is non-exhaustive, for more detailed information regarding the Discord server rules, please refer to the #information channel 
+  on it.</i>
 
   - Keep topics to their appropriate channels as much as possible.
   - Do not spam.
