@@ -123,18 +123,21 @@ Reading an **active disk**:
 Each company has a factory area that can be used to produce electronic
 **components**. They need a specific **precursor crystal** to produce
 their faction-specific component, that must be acquired from other
-company - They will also be able to order a precursor needed for another
+companies - They will also be able to order a precursor needed for another
 company to manufacture their proprietary component.
 
 To produce, use the crystals on the loader part of the machine and wait
 about **1 minute**.
 
-Example: **Red** needs *Yellow chips*, so **red** buys *yellow precursor crystals* and makes a deal with the **yellows**, trade precursor and cash for chips. The **Yellow** then takes the *yellow precursor* and manufactures *yellow chips.*
+Example: **Red** needs *Yellow chips*, so **Red** buys *yellow precursor crystals* and makes 
+a deal with **Yellow**, they trade the precursor and cash for chips. **Yellow** then takes the 
+*yellow precursor* and manufactures *yellow chips.* 
+**Yellow** then gives back the *yellow chips* to **Red** (or not).
 
 The company will receive e-mails with orders for components regularly,
 so be sure to check the desktop computer. Each order will feature a
-**postbox location** where the products are to be delivered. The payment
-will be delivered to the safe at the HQ.
+**postbox location** where the products are to be delivered in the correct amount. 
+The payment will be delivered directly to the safe at the company's HQ.
 
 **Precursors** can be ordered from the *E-LEKTRA* marketplace on each
 desktop.
@@ -142,28 +145,28 @@ desktop.
 | Company | Precursor Needed    | Chip Produced   |
 | ------- | ------------------- | --------------- |
 | Red     | crimsonite crystals | RDKV S-445 chip |
-| Green   | verdine crystals    | McGT S5R1 chip  |
+| Green   | verdine crystals    | KOGM S5R1 chip  |
 | Yellow  | galdonium crystals  | GS-IC-M3 chip   |
 | Blue    | indigon crystals    | GBSA-1994 chip  |
 
 ### Vehicles
-**Do not drive a vehicle without knowing how, make sure you drive on the right side of the road**
+**Do not drive a vehicle without knowing how, make sure you drive on the right side of the road!**
 https://civ13.github.io/civ13-wiki/Guide_to_Tanks#driving
-Vehicles can be bought at the **car dealership** in the center. Be aware
-that driving cars stolen from other companies will get you a warrant!
+Vehicles can be bought at the **car dealership** in the center. 
+Be aware that driving stolen cars will get you a warrant!
 
 ### Guns
 
 There are two ways of acquiring guns - legal and illegal.
 
-To get them **legally**, go to the Police Station with **100 dollars**
-and use the terminal at the reception. You will need to have a clean
-record. Then you can go to the gun shop at the center and buy them.
+To get them **legally**: go to the Police Station with **100 dollars**
+and use the terminal at the reception. You need to have the money in your hands when ordering it.
+You will need to have a clean police record. Then you can go to the gun store and buy them.
 
-To get them **ilegally**, you will need to either buy them from another
+To get them **illegally**, you will need to either buy them from another
 company, get someone to buy them for you, or find a black market vendor.
 Be aware that unregistered **guns with their numbers filed out are
-illegal to possess even if you have a gun permit.**
+illegal to possess even when you have a gun permit.**
 
 ### Citizen's Arrest
 
@@ -273,25 +276,33 @@ company's points and give the police reason to search the HQ!
 The police get points for arresting company members and bringing them to
 jail at the police station. They will lose points for every officer
 killed. Apprehended disks and money also count towards the score, and
-should be kept in the **Evidence Room**.
+are to be kept in the **Evidence Room** in order to take effect.
+Crystals and chips are legal and are not considered contraband.
 
 #### Rules
 
-**Escalation is required** for any non-company member to kill or harm another non-company member. Meaning companies can only not escalate between other companies, but must escalate when killing or harming paramedics or other roles (Police are exempt from escalation while enforcing the law).
+**Escalation is required** for any non-company member to kill or harm another non-company member. 
+Company members may only not escalate against other companies, 
+but must escalate when killing or harming any other roles (paramedics, doctors, police officers, judge, etc).
+Police officers are exempt from escalation while enforcing the law.
 
-The police has the right to stop and search any person or vehicle, with
-or without suspicion, including setting up road blocks to search all
-traffic coming through. Company's properties are exempt from this rule,
-as *a search can only be conducted if there is a warrant*, which only
-happens if a member of the company has harmed a police officer.
+The police has the right to stop and search any person with **reasonable suspicion** or **solid evidence** of a crime. 
+A police dog indicating contraband on a person in a public area is valid grounds for a search. 
+Vehicles **may be searched at all times without probable cause**, 
+including setting up road blocks to search all traffic coming through. 
+Company's properties are exempt from this rule, as *a search can only be conducted if there is a search warrant*, 
+issued either automatically when a company harms or kills a police officer, or by a Judge.
+
+Police officers must prioritize **non-lethal force at all times**.
 
 A police officer may use **lethal force** if the suspect:
 
   - is discharging a firearm towards another person;
+  - is attempting to run over another person;
   - attempts to fire at, run over, or physically harm a police officer;
   - is armed and refuses to disarm, or be disarmed, upon request by an
-    officer.
-  - is armed and is about to discharge their firearm at another person. (judged within reason, try not to rely on this one)
+    officer;
+  - is armed and is about to discharge their firearm at another person. (Judged within reason and the circumstances, do not rely on this rule.)
 
 A police officer may **arrest** a suspect if they:
 
@@ -300,13 +311,14 @@ A police officer may **arrest** a suspect if they:
   - are in possession of a disk of any company, even their own;
   - are trespassing another company's property, as confirmed by a member
     of that company;
-  - are trespassing inside the police station restricted area (anything
-    after the reception);
-  - are in possession of police equipment, including armor, firearms,
-    and radios;
+  - are trespassing inside the police station's restricted area (anything after a warning stripe mark);
+  - are trespassing inside a restricted area to the public in a government building;
+  - are in possession of police equipment, such as police armor, police firearms, police keys
+    and police radios;
+  - are in possession of stolen goods;
   - have a pending arrest warrant;
-  - are resisting or refusing being searched by an officer. This also
-    applies to vehicles. For properties, a warrant is needed.
+  - are resisting or refusing being searched by an officer in a public space. This also
+    applies to vehicles. For company properties, a search warrant is needed.
 
 The following items can be **confiscated, without an arrest being
 necessary**:
@@ -315,11 +327,19 @@ necessary**:
     stolen by the owner;
   - possession of more than 500$ in cash.
 
-Suspects may be **bailed from Jail** for a fee of **500$**, to be
-delivered in cash at the station.
+When in custody, suspects have the right to have access to food and medical aid.
+A suspect in custody may request legal representation from a legitimate attorney
+(for the moment, a "Legitimate Businessman") and consult with them, within reason and if security measures permit it. 
+Privacy for that matter is not guaranteed and is at the discretion of the police.
+If, and only if, the attorney is interfering with police work, they may be arrested for Obstruction of Justice.
 
-Breaking the above rules will give penalties to the score, at the
-discretion of an admin.
+Suspects have the right to be **bailed from Jail** for non-violent crimes for a fee of **500$**.
+This sum is to be delivered in cash at the station and is to be stored in the **Evidence room**.
+As for violent crimes, a suspect may be released, after serving some time, 
+on the Sheriff's responsability or on a court order from the Judge (or from an admin request).
+
+Breaking the above rules will give penalties to the score, and at the
+discretion of an admin, may include job-bans.
 
 **Score Values:**
 
