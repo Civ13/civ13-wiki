@@ -1,12 +1,18 @@
 # Guide to Chemistry
 
-Here you can find all the possible chemical reactions.
+## Basic Elements
+
+If you have fancied yourself a chem dispencer but have no idea how it works, then this is the place for you!
+
+All basic elemets can be extracted from underground rock with an extraction kit (which can be made with 14 iron ingots).
+An execption to this is are the elements Hydrogen and Oxygen which you need to get by distilling water in a laboratory distiller
+
+
+## Chemical Recipes List
 
 **To look for specific recipes, use the "Find in page" command - Ctrl-F.**
 
 Exported on 7 December 2021.
-
-## Chemical Reactions List
 
 | Result                  | Ingredients                                             | Catalysts    | Inhibitors    | Produced Amount | ID                       |
 | ----------------------- | ------------------------------------------------------- | ------------ | ------------- | --------------- | ------------------------ |
