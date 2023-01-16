@@ -363,7 +363,7 @@ holding a hammer in the other hand.
 
 - **Uranium is radioactive!** It will slowly irradiate everything in the vicinity if left out in the open.
 
-- The ore yielded from excavation is random, but there is a different chance for each ore depending on the epoch and biome. Some ores are noticeably rarer than others. Among the rarest ores are diamonds, coal, saltpeter, sulfur and uranium. Lead, mercury and platinum are also somewhat uncommon.
+- The ore yielded from excavation is random, but there is a different chance for each ore depending on the epoch and biome. Some ores are noticeably rarer than others. Among the rarest ores are diamonds, coal, saltpeter and sulfur and uranium. Lead somewhat uncommon. Mercury and platinum currently unobtainable.
 
 - **Marble** can be turned into **Stone**: 2 marble > 1 stone (use "reclaim stone" in the marble crafting menu).
 
