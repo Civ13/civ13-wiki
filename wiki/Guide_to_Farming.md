@@ -165,8 +165,8 @@ Every time you make a ploughed field and plant seeds you gain more
 insight into the business of agriculture. When your farming skill
 reaches 1.6, examining a plant will, in general terms, tell you whether
 it has enough water. At 2.2, you will be able to determine the exact
-water level of a plant.
-At 1.3 or higher skill, you can accurately tell the nutrition level of the soil and plants.
+water level and nutrition of a plant.
+At 1.3 or higher skill, you will be able to tell when a plant is sufficiently well nourished to give extra crops.
 
 ### Biomes and seasons
 
