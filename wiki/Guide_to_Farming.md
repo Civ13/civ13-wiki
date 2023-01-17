@@ -141,6 +141,7 @@ Considering a soil with 0 nutrition, it would take from 2.5 to 1.25 hours for it
 Many kinds of animals leave manure on the ground, which could be used to
 fertilize a field. This is one way to restore nutrition to your soil.
 You can use manure, fertilizer, or dung to nourish it.
+By fertilizing the soil, you will automatically fertilize all the soil in 3x3, around the soil that you have fertilized.
 
 Manure: 10 points of nutrition,
 Dung: 20 nutrition points,
