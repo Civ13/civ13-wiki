@@ -124,6 +124,7 @@ When it is 0:
 - "The soil looks dead and plants would hardly grow."
 
 ### Impact of soil nutrition on plant growth
+Plants have various stages of growth. And to grow from one stage to the next, soil nutrition will be very important.
 When soil nutrition is,
 - above 80: Guaranteed growth.
 - greater than or equal to 40: Growth probability equal to soil fertility.
