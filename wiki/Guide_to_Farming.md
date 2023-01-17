@@ -113,15 +113,15 @@ The maximum soil nutrition is 150.
 
 **To examine the soil, stand close to it and examine it.**
 When it is at or above 130:
-- "The soil looks very alive and the plants will grow very easily."
+"The soil looks very alive and the plants will grow very easily."
 When it is at or above 80:
-- "The soil looks alive, plants would grow very well."
+"The soil looks alive, plants would grow very well."
 When it is above or equal to 25:
-- "The soil seems half dead and the plants would not develop as well as they should."
+"The soil seems half dead and the plants would not develop as well as they should."
 When it is greater than 0 and less than 25:
-- "The soil looks pretty dead and the plants would have a tough time growing."
+"The soil looks pretty dead and the plants would have a tough time growing."
 When it is 0:
-- "The soil looks dead and plants would hardly grow."
+"The soil looks dead and plants would hardly grow."
 
 ### Impact of soil nutrition on plant growth
 Plants have various stages of growth. And to grow from one stage to the next, soil nutrition will be very important.
