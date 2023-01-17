@@ -105,14 +105,50 @@ There are a few ways to provide the crops with water:
   - Pray for the eternal rain. Rain will water the fields (at the rate
     of 15 per minute), but may create other inconveniences.
 
+### Soil Nutrition
+The soil, as in real life, has its level of nutrition. The plants that you plant in the soil will consume its nutrition little by little, until it reaches zero.
+If you let the soil rest, without farm plants, it will recover little by little.
+At the beginning of each round, every plot of soil will have maximum nutrition.
+The maximum soil nutrition is 150.
+
+**To examine the soil, stand close to it and examine it.**
+When it is at or above 130:
+- "The soil looks very alive and the plants will grow very easily."
+When it is at or above 80:
+- "The soil looks alive, plants would grow very well."
+When it is above or equal to 25:
+- "The soil seems half dead and the plants would not develop as well as they should."
+When it is greater than 0 and less than 25:
+- "The soil looks pretty dead and the plants would have a tough time growing."
+When it is 0:
+- "The soil looks dead and plants would hardly grow."
+
+### Impact of soil nutrition on plant growth
+Plants have various stages of growth. And to grow from one stage to the next, soil nutrition will be very important.
+When soil nutrition is,
+- above 80: Guaranteed growth.
+- greater than or equal to 40: Growth probability equal to soil fertility.
+- greater than 0 and less than 40: 40% growth probability.
+- equal to zero: 20% chance of growth.
+
+### Soil recovery
+You can let a plot of land rest, with no farm plants on it, and it will recover every 20 minutes.
+After the time has passed, the soil will receive 20 to 40 nutrition points automatically.
+Considering a soil with 0 nutrition, it would take from 2.5 to 1.25 hours for it to fully regenerate.
+
 ### Fertilizing
 
 Many kinds of animals leave manure on the ground, which could be used to
-fertilize a ploughed field. **Fertilizing one tile will affect all
-adjacent tiles or nine tiles in total.** Plants that grow on the
-fertilized soil produce twice as much harvest.
+fertilize a field. This is one way to restore nutrition to your soil.
+You can use manure, fertilizer, or dung to nourish it.
+
+Manure: 10 points of nutrition,
+Dung: 20 nutrition points,
+Fertilizer: 60 nutrition points.
 
 The **compost bin** (10 wood, "economy and production" section) also turns food scraps, plant matter (seeds, some plants) and something unpleasant else into fertilizer. Just place it in the bin and wait for a while. Fertilizer could also be used to refuel ovens etc.
+
+When the soil health is above 80 points, out of a maximum of 150, you can harvest up to two extra products, out of the normal harvest product.
 
 ### Severe weather
 
