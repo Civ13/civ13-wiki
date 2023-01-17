@@ -106,7 +106,7 @@ There are a few ways to provide the crops with water:
     of 15 per minute), but may create other inconveniences.
 
 ### Soil Nutrition
-The soil, as in real life, has its level of health and nutrition. The plants that you plant in the soil will consume its nutrition little by little, until it reaches zero.
+The soil, as in real life, has its level of nutrition. The plants that you plant in the soil will consume its nutrition little by little, until it reaches zero.
 If you let the soil rest, without farm plants, it will recover little by little.
 At the beginning of each round, every plot of soil will have maximum nutrition.
 The maximum soil nutrition is 150.
