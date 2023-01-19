@@ -113,15 +113,15 @@ The maximum soil nutrition is 150.
 
 **To examine the soil, stand close to it and examine it.**
 When it is at or above 130:
-- "The soil looks very alive and the plants will grow very easily."
+"The soil looks very alive and the plants will grow very easily."
 When it is at or above 80:
-- "The soil looks alive, plants would grow very well."
+"The soil looks alive, plants would grow very well."
 When it is above or equal to 25:
-- "The soil seems half dead and the plants would not develop as well as they should."
+"The soil seems half dead and the plants would not develop as well as they should."
 When it is greater than 0 and less than 25:
-- "The soil looks pretty dead and the plants would have a tough time growing."
+"The soil looks pretty dead and the plants would have a tough time growing."
 When it is 0:
-- "The soil looks dead and plants would hardly grow."
+"The soil looks dead and plants would hardly grow."
 
 ### Impact of soil nutrition on plant growth
 Plants have various stages of growth. And to grow from one stage to the next, soil nutrition will be very important.
@@ -141,6 +141,7 @@ Considering a soil with 0 nutrition, it would take from 2.5 to 1.25 hours for it
 Many kinds of animals leave manure on the ground, which could be used to
 fertilize a field. This is one way to restore nutrition to your soil.
 You can use manure, fertilizer, or dung to nourish it.
+By fertilizing the soil, you will automatically fertilize all the soil in 3x3, around the soil that you have fertilized.
 
 Manure: 10 points of nutrition,
 Dung: 20 nutrition points,
@@ -164,7 +165,8 @@ Every time you make a ploughed field and plant seeds you gain more
 insight into the business of agriculture. When your farming skill
 reaches 1.6, examining a plant will, in general terms, tell you whether
 it has enough water. At 2.2, you will be able to determine the exact
-water level of a plant.
+water level and nutrition of a plant.
+At 1.3 or higher skill, you will be able to tell when a plant is sufficiently well nourished to give extra crops.
 
 ### Biomes and seasons
 
