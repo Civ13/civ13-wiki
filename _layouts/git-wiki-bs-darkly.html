@@ -1,68 +1,45 @@
-{% comment %}
-#
-# This layout uses bootstrap with darkly theme
-#
-{% endcomment %}
+{% comment %} # # This layout uses bootstrap with darkly theme # {% endcomment %} {% assign version = "2.8.1" %} {%
+capture lchar %}{{page.url | slice: -1, 1}}{% endcapture %} {% capture url %} {% if lchar == "/"
+%}{{page.url}}index.html{% else %}{{ page.url | default: 'index.html' }}{% endif%} {% endcapture %}
 
-{% assign version = "2.6.1" %}
-{% capture lchar %}{{page.url | slice: -1, 1}}{% endcapture %}
-{% capture url %}
-{% if lchar == "/" %}{{page.url}}index.html{% else %}{{ page.url | default: 'index.html' }}{% endif%}
-{% endcapture %}
-
-<!doctype html>
+<!DOCTYPE html>
 <html>
+	<head>
+		{% if site.inc_before_head %} {% include {{ site.inc_before_head }} %} {% endif %} {% include
+		git-wiki/sections/head/meta.html %} {% include git-wiki/sections/head/scripts.html %}
 
-<head>
-    {% if site.inc_before_head %}
-    {% include {{ site.inc_before_head }} %}
-    {% endif %}
+		<link href="assets/css/git-wiki-dark-style.css" rel="stylesheet" type="text/css" />
 
-    {% include git-wiki/sections/head/meta.html %}
-    {% include git-wiki/sections/head/scripts.html %}
+		{% if site.inc_after_head %} {% include {{ site.inc_after_head }} %} {% endif %}
+	</head>
+	<header>{% include git-wiki/sections/header/header.html %}</header>
+	<body>
+		<div class="row wrapper">
+			<div class="float-container git-wiki-page">
+				{% if site.inc_before_content %} {% include {{ site.inc_before_content }} %} {% endif %}
+				<div class="float-child-1 w3-hide-small">
+					<div class="float-child-1-scroll">{% include git-wiki/components/toc/toc.html %}</div>
+				</div>
+				<div class="float-child-2" id="git-wiki-content">{{ content }}</div>
 
-    <link href="assets/css/git-wiki-dark-style.css" rel="stylesheet" type="text/css">
+				{% if site.inc_after_content %} {% include {{ site.inc_after_content }} %} {% endif %}
+			</div>
+			{% if site.inc_before_footer %} {% include {{ site.inc_before_footer }} %} {% endif %}
 
-    {% if site.inc_after_head %}
-    {% include {{ site.inc_after_head }} %}
-    {% endif %}
-</head>
-<header>
-    {% include git-wiki/sections/header/header.html %}
-</header>
-<body>
-    <div class="row wrapper">
-        <div class="float-container git-wiki-page">
-            {% if site.inc_before_content %}
-            {% include {{ site.inc_before_content }} %}
-            {% endif %}
-            <div class="float-child-1 w3-hide-small">
-                <div class="float-child-1-scroll">
-                    {% include git-wiki/components/toc/toc.html %}
-                </div>
-            </div>
-            <div class="float-child-2" id="git-wiki-content">
-                {{ content }}
-            </div>
+			<div class="git-wiki-copyrights">
+				<hr style="background-color:#FFFFFF;height: 3px; margin:5px;" />
+				<p>
+					Maintained by the
+					<a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> team&nbsp;&nbsp;—&nbsp;<a
+						href="{{ site.github.repository_url }}"
+						>(Source Code)</a
+					><br />Hosted on GitHub Pages &mdash; Powered by
+					<a href="https://github.com/Drassil/git-wiki-theme">Git-Wiki v{{version }}</a>
+				</p>
+			</div>
 
-            {% if site.inc_after_content %}
-            {% include {{ site.inc_after_content }} %}
-            {% endif %}
-        </div>
-        {% if site.inc_before_footer %}
-        {% include {{ site.inc_before_footer }} %}
-        {% endif %}
-    
-        <div class="git-wiki-copyrights">
-            <hr style="background-color:#FFFFFF;height: 3px; margin:5px;">
-            <p>Maintained by the <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> team&nbsp;&nbsp;—&nbsp;<a href="{{ site.github.repository_url }}">(Source Code)</a><br>Hosted on GitHub Pages &mdash; Powered by <a href="https://github.com/Drassil/git-wiki-theme">Git-Wiki v{{version }}</a></p>
-        </div>
-    
-        {% if site.inc_after_footer %}
-        {% include {{ site.inc_after_footer }} %}
-        {% endif %}
-    </div>
-    {% include git-wiki/sections/tail/tail.html %}
-</body>
-
+			{% if site.inc_after_footer %} {% include {{ site.inc_after_footer }} %} {% endif %}
+		</div>
+		{% include git-wiki/sections/tail/tail.html %}
+	</body>
 </html>

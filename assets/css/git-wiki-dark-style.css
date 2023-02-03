@@ -683,3 +683,8 @@ ol {
   width: 128px;
   height: 148px;
 }
+
+/* https://darkmodejs.learn.uno/#debug */
+.darkmode-layer, .darkmode-toggle {
+  z-index: 500;
+}

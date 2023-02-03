@@ -13,7 +13,7 @@ var jsondata=[
         "tags"     : "{{ page.tags | join: ', ' }}",
         "url"      : "{{ site.baseurl }}{{ page.url }}",
         "date"     : "{{ page.date }}",
-        "content"  : "{{ page.content | strip_html | strip_newlines | remove: '"' }}"
+        "content"  : {{ page.content | jsonify }}
      {% endif %}
    } {% unless forloop.last %},{% endunless %}
   {% endfor %}
