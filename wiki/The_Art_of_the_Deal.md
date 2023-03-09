@@ -1,21 +1,24 @@
 # The Art of the Deal
+
 Welcome to **The Art of the Deal**, a game mode where you will need to
 plan, negotiate, bribe, and backstab if you wish to become the winning
-faction. This game mode has specific mechanics that you need to
-familiarize with before playing, so read below - this article is not
-very long.
+faction. This game mode has specific mechanics and rules that you need to
+familiarize with before playing, so read below - this article is not exhaustive,
+it only takes a few minutes. 
+**Not knowing the rules because you haven't read them before playing 
+isn't a valid excuse if you're caught breaking them.**
 
 ## The Factions
 
 There are four companies in the game mode:
 
-  - **Goldstein Solutions**, known as the *yellow team*, with its base
+  - **Goldstein Solutions**, known as the *yellow team*, with its base being
     on the **North-West** part of the map. Phone number: **4444**
-  - **Kogama Kraftsmen**, known as the *green team*, with its base on
+  - **Kogama Kraftsmen**, known as the *green team*, with its base being on
     the **South-West** part of the map. Phone number: **3333**
-  - **Giovanni Blu**, known as the *blue team*, with its base on the
+  - **Giovanni Blu Stocks**, known as the *blue team*, with its base being on the
     **North-East** part of the map. Phone number: **2222**
-  - **Rednikov Industries**, known as the *red team*, with its base on
+  - **Rednikov Industries**, known as the *red team*, with its base being on
     the **South-East** part of the map. Phone number: **1111**
 
 In some rounds, **the Police** might be active. The Police station is
@@ -69,18 +72,21 @@ be drawn on. Players also spawn with a **portable map**.
 ### Radios and Phones
 
 Each person spawns with a single-frequency **radio** tuned to that
-factions frequency. It can be used to securely talk with fellow company
-members.
+factions frequency. It can be used to securely talk with their fellow faction
+members. You will need another faction's radio to listen to their frequency.
 
 **Company Telephones** can be used to contact 911 or other companies.
 The numbers are pre-stored in the address book of the static phones at
 the HQ.
 
+CEO have a personal cellular phone at their disposal.
+
 ### Computers
 
 Each base has computers that can be used to access the black market
-(DEEPNET), and to send e-mails to other companies. Each company has a
-general e-mail, as below, but each member also has a personal e-mail.
+(DEEPNET), the E-LEKTRA store and to send e-mails to other companies. 
+Each company has a general e-mail, as described below, 
+but each member also has a personal e-mail.
 When you login you can see all the personal and global e-mails.
 
 | Company             | HQ Phone | Global E-mail     |
@@ -92,12 +98,12 @@ When you login you can see all the personal and global e-mails.
 
 ### Disks
 
-Each company starts with several **real** and **fake** disks. *Only the
-company who produced the disk can check if it is real or not by
-examining the disk.*
+Each company starts with several **real** and **fake** disks. 
+*Only the company who produced the disk can check if it is real or not by
+examining the disk!*
 
-Disks also have active and inactive states - to activate a disk, you
-need to put it next to another faction's disk, for example, during an
+Disks also have active and inactive states. To activate a disk, you
+need to touch it with another faction's disk, for example, during an
 exchange. Disks can only be activated once. You can check if a disk is
 active by examining it.
 
@@ -118,10 +124,10 @@ Reading an **active disk**:
 | Real  | Both give 400$ & 400 pts  | Real gives 200$ & 200 pts |
 | Fake  | Real gives 200$ & 200 pts | Both lose 200 pts         |
 
-### Manufacturing
+### Manufacturing chips (components)
 
 Each company has a factory area that can be used to produce electronic
-**components**. They need a specific **precursor crystal** to produce
+**components (chips)**. They need a specific **precursor crystal** to produce
 their faction-specific component, that must be acquired from other
 companies - They will also be able to order a precursor needed for another
 company to manufacture their proprietary component.
@@ -139,7 +145,7 @@ so be sure to check the desktop computer. Each order will feature a
 **postbox location** where the products are to be delivered in the correct amount. 
 The payment will be delivered directly to the safe at the company's HQ.
 
-**Precursors** can be ordered from the *E-LEKTRA* marketplace on each
+**Precursors (crystals)** can be ordered from the *E-LEKTRA* marketplace on each
 desktop.
 
 | Company | Precursor Needed    | Chip Produced   |
@@ -171,7 +177,7 @@ illegal to possess even when you have a gun permit.**
 ### Citizen's Arrest
 
 You can arrest a member of another company who has a pending warrant.
-Bring him handcuffed/roped to the station and use the terminal in the
+Bring him handcuffed/roped to the station and use the terminal near the
 reception. You will get paid **100 dollars**.
 
 ## The Police
@@ -210,8 +216,7 @@ clear them and give the Police points, so they can be released.
 
 #### Garage
 
-The Police Department has 2 starting police interceptors across the
-street.
+The Police Department has 2 starting police interceptors below the police station.
 
 #### The Map
 
@@ -247,7 +252,7 @@ followed by the code, for example, **";10-4"** for affirmative.
 
 As a police officer, you can go undercover by switching into civilian
 clothes (available at the armory) and **toggling the undercover mode
-under the IC tab**. Make sure to bring your badge, tough.
+under the IC tab**. Make sure to bring your badge in case you get detained.
 
 ## Objectives and Rules
 
@@ -273,27 +278,27 @@ company's points and give the police reason to search the HQ!
 
 ### Police
 
-The police get points for arresting company members and bringing them to
-jail at the police station. They will lose points for every officer
-killed. Apprehended disks and money also count towards the score, and
+The police get points for arresting company members after bringing them to
+jail at the police station, after processing their warrant. 
+They will lose points for every officer killed. 
+Apprehended disks and money also count towards the score, and
 are to be kept in the **Evidence Room** in order to take effect.
 Crystals and chips are legal and are not considered contraband.
 
 #### Rules
 
-**Escalation is required** for any non-company member to kill or harm another non-company member. 
-Company members may only not escalate against other companies, 
-but must escalate when killing or harming any other roles (paramedics, doctors, police officers, judge, etc).
-Police officers are exempt from escalation while enforcing the law.
+**Escalation is required for any role when they are attacking another role with the exception of
+Police Officers when they are enforcing the law, only.** Paramedics, Doctors, Nurses may only defend themselves and are to rely on the protection of the Police.
 
-The police has the right to stop and search any person with **reasonable suspicion** or **solid evidence** of a crime. 
+The police has the right to stop and search any person with **reasonable suspicion** and/or **solid evidence** of a crime. 
 A police dog indicating contraband on a person in a public area is valid grounds for a search. 
 Vehicles **may be searched at all times without probable cause**, 
 including setting up road blocks to search all traffic coming through. 
 Company's properties are exempt from this rule, as *a search can only be conducted if there is a search warrant*, 
 issued either automatically when a company harms or kills a police officer, or by a Judge.
 
-Police officers must prioritize **non-lethal force at all times**.
+Police officers must prioritize **non-lethal force at all times**. 
+Fleeing suspects may not be shot if they aren't hostile.
 
 A police officer may use **lethal force** if the suspect:
 
@@ -339,7 +344,7 @@ As for violent crimes, a suspect may be released, after serving some time,
 on the Sheriff's responsability or on a court order from the Judge (or from an admin request).
 
 Breaking the above rules will give penalties to the score, and at the
-discretion of an admin, may include job-bans.
+discretion of an admin, may include job-bans, up to a playing ban.
 
 **Score Values:**
 
@@ -364,6 +369,4 @@ rest of the team gets away.
 
 The Green team contacts the Police in order to bail out their member:
 They offer 350$. The Police accept and both schedule a meeting to
-deliver the money. However, the green team takes advantage of the
-situation while the police station is left practically unguarded and
-launches an assault to free their team member.
+deliver the money.
