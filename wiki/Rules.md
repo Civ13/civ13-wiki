@@ -203,6 +203,7 @@ fighting, not civilians or shopkeepers.
   - If you join as a certain civilian job, you're to do that job. If you find it boring then ahelp to be changed and don't choose it again.
   - SS can be slightly brutal to civilians for RP purposes, but <b>aren't to inflict lethal wounds or ruin others' rounds intentionally</b>.
   - No one can mindlessly grief and break into things. Even the SS or UPA.
+  - UPA need to <b>escalate</b> to kill polish civilians for their objective.
 
 ## TDM Server:
 
