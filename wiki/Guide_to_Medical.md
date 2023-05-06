@@ -257,65 +257,45 @@ learn how to keep people from ending up sick and useless.
 ## Surgery
 
 Besides the usual instruments (Scalpel, Hemostat, Retractor, Bone
-Setter, Bone Saw, Cautery) there are some improvised alternatives,
-although they are not as effective...
+Setter, Bone Saw, Cautery) some alternative tools can be used, at the cost
+of decreased effectiveness or success.
 
 **Scalpel** 
-- Knife, Bone Knife, Glass Shard
+Alternatives: Knife, Bone Knife, Glass Shard
 
 **Hemostat** 
-- Rope. For organ removal, Fork or Bone Knife
+Alternatives: Rope, Torch
 
 **Retractor** 
-- Crowbar, Wood Handle
+Alternatives: Crowbar, Wood Handle, Fork
 
 **Bone Setter** 
-- Wrench, Hammer
+Alternatives: Wrench, Hammer
 
 **Bone Saw** 
-- Hatchet, Bone Knife
+Alternatives: Hatchet, Tribal Hatchet, Bone Knife
+Alternatives for Amputation: + Battle Axe, + Machete
 
 **Cautery** 
-- Cigar, Torch
-
-### Circumcision
-
-Circumcision Knife 
-- On Naked Individual
+Alternatives: Cigar, Torch
 
 ### Internal Bleeding
 
-Scalpel 
-- Retractor 
-- Hemostat 
-- Cautery
+- Usual procedure: Scalpel > Retractor > Hemostat > Cautery
 
-Rudimentary/emergency: Knife 
-- Wood handle 
-- Hemp rope 
-- Wood torch
+- Alternative (example): Knife > Wood handle > Rope/Cable coil > Torch
 
 ### Broken Bones
 
-- Scalpel 
-- Retractor 
-- Bone Setter 
-- Cautery
+- Usual procedure: Scalpel > Retractor > Hemostat > Bone Setter > Cautery
 
-Rudimentary/emergency: Knife 
-- Wood handle 
-- Wood hammer 
-- Wood torch
+- Alternative (example): Knife > Wood handle > Wood hammer > Torch
 
 ### Damaged Organs
 
-- Scalpel 
-- Bandage/Trauma-Kit(same result) 
-- Cautery
+- Usual procedure: Scalpel > Retractor > Hemostat > Bone Saw > Retractor > Trauma kit/Bandages > Retractor > Cautery
 
-Rudimentary/emergency: Knife 
-- Bandage 
-- Wood torch
+- Alternative (example): Knife > Wood handle > Rope > Hatchet > Wood Handle > Healing Herbs > Wood Handle > Torch
 
 ### Amputation
 
@@ -349,3 +329,7 @@ Rudimentary/emergency: Knife
 - Hemp rope 
 - Hemp rope
 - Wood torch
+
+### Circumcision
+
+Use a Circumsion Knife on a naked individual.
