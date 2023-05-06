@@ -295,7 +295,7 @@ Alternatives: Cigar, Torch
 
 - Usual procedure: Scalpel > Retractor > Hemostat > Bone Saw > Retractor > Trauma kit/Bandages > Retractor > Cautery
 
-- Alternative: Knife > Wood handle >
+- Alternative (example): Knife > Wood handle > Rope > Hatchet > Wood Handle > Healing Herbs > Wood Handle > Torch
 
 ### Amputation
 
