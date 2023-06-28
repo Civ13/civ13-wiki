@@ -281,7 +281,7 @@ Alternatives: Cigar, Torch
 
 ### Internal Bleeding
 
-- Usual procedure: Scalpel > Retractor > Hemostat > Cautery
+- Usual procedure: Scalpel > Retractor > Hemostat > Bonesaw > Retractor> Trauma Kit/Bandages > Retractor > Cautery
 
 - Alternative (example): Knife > Wood handle > Rope/Cable coil > Torch
 
@@ -304,16 +304,24 @@ on the head or limbs, for obvious reasons.
 
 ### Shrapnel removal
 
-- Scalpel 
-- Bandage/Trauma-Kit 
-- Hemostat 
+- Scalpel
+- Retractor
+- Hemostat
+- Bonesaw
+- Retractor
+- Hemostat
+- Retractor
 - Cautery
 
 ### Organ removal
 
 - Scalpel 
-- Scalpel 
-- Hemostat 
+- Retractor
+- Hemostat
+- Bonesaw
+- Retractor
+- Scalpel
+- Retractor
 - Cautery
 
 ### Tendons
