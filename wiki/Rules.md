@@ -223,7 +223,7 @@ fighting, not civilians or shopkeepers.
    (Running around naked and screaming non-sense is not something a soldier would do.)
   - Spawncamping is prohibited, unless the map has the goal to capture
     the enemy HQ where the enemy spawn.
-
+<!---
 ## RP Standards
 
 The TDM server is mostly a MRP server, with a few HRP modes, where RP standards are more demanding.
@@ -272,7 +272,7 @@ Appearance has to be in accordance with the character's ethnicity.
   - Short to long length hair, black hair or really dark brown
   - Facial hair can be long such as a beard, but not too long
   - Skin color must be from 55-95
-
+--->
 ## Discord Rules
 
   <i>The following list is non-exhaustive, for more detailed information regarding the Discord server rules, please refer to the #information channel 
