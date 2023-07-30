@@ -8,7 +8,7 @@ together.
 ## The Roles
 
   - **The Commander**: The commander of the tank is the role requiring
-    the most responsibility. You're the one calling the shots(quite
+    the most responsibility. You're the one calling the shots (quite
     literally). Your job is to calculate the distance between you and
     enemy and inform your gunner about the meter and the left right
     sway. You also have to organize the tank crew, tell driver where to
@@ -18,20 +18,20 @@ together.
     down, you will now calculate the distance of anything between you,
     by clicking on it. After sitting, you will also be avaible to use
     the telescope of the tank. This way, you can see afar, and thus be
-    able to calculate the longer distances. (Thats the whole purpose)
+    able to calculate the longer distances. (That's the whole purpose)
 
   - **The Loader**: Your job is the easiest one. You will wait for the
     commander to tell you what shell type to load, and you will simply
-    take the said shell from the rack or floor(depending on your unga
+    take the said shell from the rack or floor (depending on your unga
     level) and will insert it into the turret. To achieve that, get
     behind the turret of the tank. Click on the rack behind you, then
     click on the shell. After taking the shell into your hand, click on
     the turret of the tank. Congratulations, you loaded the
-    cannon.(Probably got the wrong type anyways.)
+    cannon. (Probably got the wrong type anyways.)
 
   - **The Gunner**: As a gunner, your job is to enter the parameters
-    commander told you, and wait for his order to fire. To accomplish
-    that, you must get to the side of the turret(preferably, you can
+    commander told you. Depending on the type of tank you might have to load the gun yourself using the autoloader (In your firing panel there is a button to load a shell). After that wait for his order to fire. To accomplish
+    that, you must get to the side of the turret (preferably, you can
     buckle yourself down to the Gunners Seat) and left click on the
     turret. You will now access a menu, telling you what shell is
     loaded, what is the firing distance in meters, what is the
@@ -39,7 +39,7 @@ together.
     parameter, you must click on the meter or left right sway button,
     then type down the numbers your commander gave you. After doing
     that, you must left click on the fire button and wait a couple of
-    seconds to fire. Congratulations, you fired the turret.(Probably
+    seconds to fire. Congratulations, you fired the turret. (Probably
     missed though)
 
   - **The Machine-Gunner**; You are expected to operate the machine gun
