@@ -121,8 +121,8 @@ Reading an **active disk**:
 |       |                           |                           |
 | ----- | ------------------------- | ------------------------- |
 | A↓ B→ | Real                      | Fake                      |
-| Real  | Both give 400$ & 400 pts  | Real gives 200$ & 200 pts |
-| Fake  | Real gives 200$ & 200 pts | Both lose 200 pts         |
+| Real  | Both give $200 & 200 pts  | Real gives $500 & 500 pts |
+| Fake  | Real gives $500 & 500 pts | Both lose 400 pts         |
 
 ### Manufacturing chips (components)
 
