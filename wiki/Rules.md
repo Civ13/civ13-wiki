@@ -73,10 +73,10 @@
   - You can steal from anyone, anywhere, but being caught stealing makes
     you able to be killed.
   - You may not name yourself after real figures, or name your faction
-    after a real faction (Can’t name yourself hitler, and you may not
+    after a real faction, unless it's a generic term for a nation-state (Can’t name yourself hitler, and you may not
     name your faction something like “The 3rd Reich”, be original.
     Mis-spelled and tongue-in-cheek names also counts, such as “Ayedulf
-    Hutler”.)
+    Hutler”. However, you may name your faction "Germany" or "England")
   - Actions in game are to be validated by a logic reason, for example;
     A war/conflict must be legitimized by the attackers either lacking
     enough of “X”/desiring more of “X” due to religious, economic or
