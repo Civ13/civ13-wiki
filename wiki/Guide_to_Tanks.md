@@ -181,4 +181,4 @@ through.
 
 For possibly better explanation with a moving visual aid, take a gander at this poor quality video.
 
-![video](assets/video/tank_maneuvering.mp4)
+![video](../assets/video/tank_maneuvering.mp4)
