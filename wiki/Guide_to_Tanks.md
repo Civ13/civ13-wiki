@@ -177,3 +177,8 @@ going through a place they assumed enemy drivers were too stupid to get
 through.
 
 ![image](https://media.discordapp.net/attachments/485954244437082112/714301162244800532/tank_through.png?width=144&height=405)
+
+
+For possibly better explanation with a moving visual aid, take a gander at this poor quality video.
+
+![video](assets/video/tank_maneuvering.mp4)
