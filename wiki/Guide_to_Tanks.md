@@ -181,7 +181,7 @@ through.
 
 For possibly better explanation with a moving visual aid, take a gander at this poor quality video.
 
-<video width="1920" height="1080" controls>
+<video width="1280" height="720" controls>
   <source src="assets/videos/tank_maneuvering.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
