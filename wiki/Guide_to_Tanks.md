@@ -55,15 +55,13 @@ together.
   - **The Driver**: You are expected to drive/rotate the tank. Your job
     is more complex compared to the other roles, but do not let that
     scare you off. In order to start the tank, you must first sit on the
-    driver's seat. After sitting and having the wheels selected in your
-    hand, you can start the engine by pressing Z, and you can accelerate
-    it by pressing Z again. To decelerate or to shut the engine, you
+    driver's seat. After sitting (Buckle yourself by dragging your sprite into the Driver's seat or use the hotkey B) and having the Driver Wheel in your
+    hand, you can start the engine by pressing Z, you must wait for the engine to fully start (Once the engine visibly starts to vibrate) and you can accelerate
+    it by pressing Z again. To decelerate or to kill the engine, you
     must press the "C" key. To turn the tank left, you must press "A".
     To turn the tank to right, you must press "D". In order to shift to
-    reverse you must press the button "S", but to do so, you must go at
-    1st gear, or while the engine is shut off. To be able to move
-    forward again, you must press the key "W" at 1st gear or while the
-    engine is shut. Keep practicing to master your
+    reverse you must press the button "S", but to do so, you must be halted. To be able to move
+    forward again, you must press the key "W" to shift into forward. Keep practicing to master your
     blitzkrieg/encirclement skills.(You will probably run over your own
     soldiers)
 
@@ -77,16 +75,13 @@ advised to drive jeeps first to get used to the driving system.
 damage your tank.
 * You can insta gib/kill any infantry if you run over them.
 * It is advised to face directly towards the enemy. It will make
-shooting it a lot easier.
-* Your loader can not load the turret if you are moving. Let him load
-by shutting the engine or not accelerating.
+shooting it a lot easier. Most tanks have their heaviest armour on the front.
+* Your loader can not load the turret if you are moving. Let him load the gun
+by halting the tank.
 * If you run over non-deployed anti-tank mines/anti-tank grenades, they
 will still explode and damage your tank.
 * You can not rotate your tank on its own axis if it is standing still.
 The tank must be moving in order rotate it.
-* Rotating your tank rapidly causes your tank to become a jigsaw
-puzzle, it is advised not to.(It's a bug and you'll be vulnerable to gun
-fire if it happens)
 * Keep reading the chatlog for your commander's instructions.
 * Rotating the tank at same time when right next to another tank causes
 a rare tank meeting to happen.(It is a bug and it completely ruins both
