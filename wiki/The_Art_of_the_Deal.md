@@ -193,9 +193,8 @@ which laws can be enforced.
 #### Main Room
 
 This is where the team members spawn. Players should take some time
-before the grace wall ends to plan their strategy. There is a wall map
-that can be used to check which ares to go to, and a 911 terminal where
-you can receive calls from the factions.
+before the grace wall ends to plan their strategy. Each member spawns with a map
+that can be used to check which areas to go to.
 
 #### Armory
 
@@ -204,7 +203,7 @@ members of the force. Other factions can't access the lockers.
 
 #### Evidence Room
 
-This is where the Police should keep apprehended money, guns, and disks.
+This is where the Police should keep apprehended money, unlicensed guns, and disks.
 They will count towards the score as long as they're there.
 
 #### Jail
@@ -216,7 +215,7 @@ clear them and give the Police points, so they can be released.
 
 #### Garage
 
-The Police Department has 2 starting police interceptors below the police station.
+The Police Department has two starting police interceptors below the police station, this zone is not available to the public and anyone trespassing should be detained and booked.
 
 #### The Map
 
@@ -300,51 +299,48 @@ issued either automatically when a company harms or kills a police officer, or b
 Police officers must prioritize **non-lethal force at all times**. 
 Fleeing suspects may not be shot if they aren't hostile.
 
-A police officer may use **lethal force** if the suspect:
-
   - is discharging a firearm towards another person;
   - is attempting to run over another person;
   - attempts to fire at, run over, or physically harm a police officer;
-  - is armed and refuses to disarm, or be disarmed, upon request by an
-    officer;
-  - is armed and is about to discharge their firearm at another person. (Judged within reason and the circumstances, do not rely on this rule.)
+  - is armed with firearms, explosives, knives, or other dangerous weapons and refuses to disarm, or be disarmed, upon request by an officer;
+  - is armed and is about to discharge their firearm or use any dangerous weapon at another person. (Judged within reason and the circumstances.)
+  - is actively engaged in a violent assault on another person, posing an immediate threat to that person's life.
+  - is involved in a hostage situation where the life of an innocent person is in imminent danger.
+  - is found to be in possession of a deadly weapon, and there is an immediate threat to the safety of others.
+  - is part of an ongoing and violent criminal activity that requires police intervention to protect the public.
+  - refuses to comply with lawful police orders and poses a significant risk to the safety of officers or the public. 
 
-A police officer may **arrest** a suspect if they:
+A police officer has the authority to **arrest** a suspect if they:
 
-  - are openly carrying firearms, explosives, silencers, or are found to
-    be in possession of them while being searched;
-  - are in possession of a disk of any company, even their own;
-  - are trespassing another company's property, as confirmed by a member
-    of that company;
-  - are trespassing inside the police station's restricted area (anything after a warning stripe mark);
-  - are trespassing inside a restricted area to the public in a government building;
-  - are in possession of police equipment, such as police armor, police firearms, police keys
-    and police radios;
-  - are in possession of stolen goods;
-  - have a pending arrest warrant;
-  - are resisting or refusing being searched by an officer in a public space. This also
-    applies to vehicles. For company properties, a search warrant is needed.
+  - are openly carrying offensive weapons without a license, such as firearms, explosives, or silencers, or are discovered to be in possession of them while being searched;
+  - are in possession of a disk of any company, even their own regardless of state (active or not);
+  - are trespassing on the property of another company, as certified by a member of that company;
+  - are trespassing within the restricted area of the police station (anything after a warning stripe mark);
+  - are trespassing inside a publically prohibited area of a government building;
+  - have police equipment such as police armor, police weapons, and police keys, as well as police radios;
+  - have stolen things on their person;
+  - having an active arrest warrant; or were previously fleeing from police.
 
-The following items can be **confiscated, without an arrest being
-necessary**:
+Should a suspect flee from law enforcement and enter their workplace, entrance may be forced; otherwise, a search warrant is required.
 
-  - a vehicle being driven by a member of another faction, if claimed as
-    stolen by the owner;
+The following items **may** be **confiscated, without an arrest being necessary**:
+
+  - a vehicle being driven by a member of another faction, if claimed as stolen by the owner;
   - possession of more than 500$ in cash.
+  - any offensive weapons, including firearms, explosives, or silencers found in the possession of an individual, with or without an arrest.
+  - any equipment or items associated with illicit activities, as determined by a police officer, including but not limited to shovels, knives, clawhammers.
 
-When in custody, suspects have the right to have access to food and medical aid.
-A suspect in custody may request legal representation from a legitimate attorney
-(for the moment, a "Legitimate Businessman") and consult with them, within reason and if security measures permit it. 
-Privacy for that matter is not guaranteed and is at the discretion of the police.
-If, and only if, the attorney is interfering with police work, they may be arrested for Obstruction of Justice.
+Suspects in confinement have the right to food and medical care while in custody.
+Within reason and if security measures allow it, a suspect in confinement may request legal representation from a genuine attorney (for the time being, a "Legitimate Businessman") and confer with them. 
+In that regard, privacy is not guaranteed and is at the discretion of the police.
+Only if the attorney interferes with police work will they be prosecuted for Obstruction of Justice.
 
-Suspects have the right to be **bailed from Jail** for non-violent crimes for a fee of **500$**.
-This sum is to be delivered in cash at the station and is to be stored in the **Evidence room**.
-As for violent crimes, a suspect may be released, after serving some time, 
-on the Sheriff's responsability or on a court order from the Judge (or from an admin request).
+Suspects can be **bailed out of jail** for nonviolent crimes for a fee of **500$** or a reasonable amount set by the sheriff.
+This amount is to be paid in cash at the station and stored in the **Evidence room**.
+In the case of violent crimes, a suspect may be released after some time on the Sheriff's responsibility or on a court order from the Judge (or on an administrative request).
 
-Breaking the above rules will give penalties to the score, and at the
-discretion of an admin, may include job-bans, up to a playing ban.
+Breaking the above rules will result in penalty points and, at the discretion of an admin, job bans up to and including a playing ban.
+
 
 **Score Values:**
 
