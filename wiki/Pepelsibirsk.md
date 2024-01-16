@@ -16,11 +16,13 @@ This system can be implemented on a smaller scale in Pepelsibirsk, using the Cit
 This is similar to the historical system, but without the ban on factionalism and competitive elections within the Soviets. This is similar to the system initially implemented at the start of the October Revolution, and can be considered a form of semi-direct democracy.
 
 ### Anarchism
-Another socialist system, anarchism in this guide is represented as a more decentralized form of Soviet Democracy. The state is minimal, with all decisions made democratically by the Soviets. Civil liberties are absolute, and legal punishments are minimized as much as possible. The power of the Supreme Soviet is reduced to only military and diplomatic affairs. Economically, money is either abolished or reduced in importance, and all businesses are operated as community-run cooperatives - the factory worker runs the factory.
+Another socialist system, anarchism in this guide is represented as a more decentralized form of Soviet Democracy. The state is minimal, with all decisions made democratically by the Soviets. Civil liberties are absolute, and legal punishments are minimized as much as possible. The power of the Supreme Soviet is reduced to only military and diplomatic affairs. Economically, money is either abolished or reduced in importance, and all businesses are operated as community-run cooperatives - the factory worker runs the factory, the farmer runs the farm, and the soldier runs the brigade. Even in the army, soldiers are expected to elect their officer.
 
 ### Parliamentary Republic
+In a parliamentary republic, an elected parliament runs the state, typically with a Chancellor or Prime Minister chosen to be the head of government (and de-facto head of state). It is a non-socialist system of government, and does not make use of workplace democracy, typically preferring simple multi-party elections.
 
 ### Directorial Republic
+In a directorial republic, multiple people serve as Head of State and sometimes Head of Government, typically operating alongside an elected parliament, though not always. This system can be combined with either socialist or non-socialist systems; historically, the Soviet Union used a similar system of "Collective Leadership" in which multiple people had near-equal power in the CPSU, particularly during the Brezhnev era.
 
 ### Presidential Republic
 
