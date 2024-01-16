@@ -46,5 +46,5 @@ The following buildings/compounds/factories may need managers assigned at the st
 - Just south of the city Soviet is located a hospital, well-equipped to deal with the injuries naturally caused whilst preserving the legacy of October.
 - In the center of the map is a warehouse, equipped with the latest advances in *☭Soviet Superscience☭*, allowing you to easily view its complete contents. Use this to assist in resource allocation and planning.
 - In the northeast of the map is a large mine and steel mill, which can be used to extract minerals and clay for both domestic use and export.
-- 
-- 
+- In the southwest of the map is a car factory, well equipped for the mass production of vehicles.
+- In the northwest is a huge collective farm. It requires a large labor force to plow, but its theoretical capacity is enormous compared to the city's population.
