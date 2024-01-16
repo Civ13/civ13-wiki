@@ -8,13 +8,15 @@ This map has special mechanics and is designed for a specific type of realistic 
 *These are just RP suggestions - feel free to come up with your own system of government. Note, however, that the following wiki is written with the historical system in mind.*
 
 ### Historical
-Historically, the Soviet government operated using a theoretically "bottom-up" system, in which local Soviets (councils) elected by industrial, agricultural, and military personnel sent delegates to regional Soviets, eventually going all the way up to the Supreme Soviet of the Soviet Union, or, earlier, the Congress of Soviets. Candidates in these elections were always approved by the Communist Party of the Soviet Union, and elections were not competitive - you could merely vote for or against a candidate, the latter only being successful in isolated cases.
+Historically, the Soviet government operated using a theoretically "bottom-up" system, in which local Soviets (councils) elected by industrial, agricultural, and military personnel sent delegates to regional Soviets, eventually going all the way up to the Supreme Soviet of the Soviet Union, or, earlier, the Congress of Soviets. Candidates in these elections were required approval by the Communist Party of the Soviet Union, and elections were not competitive - you could merely vote for or against a candidate, the latter only being successful in isolated cases. Factionalism was banned (theoretically an emergency measure enacted in 1921, but this ban on factions remained until 1989) and Soviets were always expected to vote unanimously, resulting in minimal diversity of opinion and the Soviets being reduced to a de-facto rubber stamp for the bureaucratized CPSU.
 
 This system can be implemented on a smaller scale in Pepelsibirsk, using the City Soviet as a stand-in for the Supreme Soviet, with the city's ruler being Chairman of the Communist Party of Pepelsibirsk (or whatever you choose to call it).
 
-### Soviet Republic
+### Soviet Democracy
+This is similar to the historical system, but without the ban on factionalism and competitive elections within the Soviets. This is similar to the system initially implemented at the start of the October Revolution, and can be considered a form of semi-direct democracy.
 
 ### Anarchism
+Another socialist system, anarchism in this guide is represented as a more decentralized form of Soviet Democracy. The state is minimal, with all decisions made democratically by the Soviets. Civil liberties are absolute, and legal punishments are minimized as much as possible. The power of the Supreme Soviet is reduced to only military and diplomatic affairs. Economically, money is either abolished or reduced in importance, and all businesses are operated as community-run cooperatives - the factory worker runs the factory.
 
 ### Parliamentary Republic
 
