@@ -22,7 +22,7 @@ Another socialist system, anarchism in this guide is represented as a more decen
 In a parliamentary republic, an elected parliament runs the state, typically with a Chancellor or Prime Minister chosen to be the head of government (and de-facto head of state). It is a non-socialist system of government, and does not make use of workplace democracy, typically preferring simple multi-party elections.
 
 ### Directorial Republic
-In a directorial republic, multiple people serve as Head of State and sometimes Head of Government, typically operating alongside an elected parliament, though not always. This system can be combined with either socialist or non-socialist systems; historically, the Soviet Union used a similar system of "Collective Leadership" in which multiple people had near-equal power in the CPSU, particularly during the Brezhnev era.
+In a directorial republic, multiple people serve as Head of State and sometimes Head of Government, typically operating alongside an elected parliament, though not always. This system can be combined with either socialist or non-socialist systems; historically, the Soviet Union used a similar system of "Collective Leadership" in which multiple people had near-equal power in the CPSU, particularly during the Brezhnev era. Switzerland uses this system as well, as did the Roman Republic and the French Directory and Consulate.
 
 ### Presidential Republic
 
