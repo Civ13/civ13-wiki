@@ -25,8 +25,21 @@ In a parliamentary republic, an elected parliament runs the state, typically wit
 In a directorial republic, multiple people serve as Head of State and sometimes Head of Government, typically operating alongside an elected parliament, though not always. This system can be combined with either socialist or non-socialist systems; historically, the Soviet Union used a similar system of "Collective Leadership" in which multiple people had near-equal power in the CPSU, particularly during the Brezhnev era. Switzerland uses this system as well, as did the Roman Republic and the French Directory and Consulate.
 
 ### Presidential Republic
+In a Presidential Republic, the government is dominated by the executive officer, typically titled President, who serves as both Head of Government and Head of State. Radical republicans in the 18th and 19th centuries tended to institute these.
 
 # Ministries
+You will want at the very least a Ministry of Internal Affairs, a Ministry of Economic Planning, and a Ministry of Defense.
+
+### Ministry of Internal Affairs
+This ministry handles internal law & order, and contains both the intelligence services (KGB) and law enforcement (Militsiya). You will need them to make sure the laws are followed and efficiency is maintained.
+
+### Ministry of Economic Planning
+This ministry handles both distribution of resources and imports/exports. Insufficient staffing here will lead to supply shortages and mismanagement. It also handles pricing, assigning workers, and wages.
+
+In a market system, substitute this with the Ministry of Economics, a drastically reduced ministry with its purview limited to imports and exports.
+
+### Ministry of Defense
+This ministry handles the city's defense and internal security against armed revolutionaries, as well as the protection of military arsenals. It can additionally serve as a reserve force for the Ministry of Internal Affairs.
 
 The following buildings/compounds/factories may need managers assigned at the start of the game:
 - In the far east of the map, there is a combined prison/police station. This may be effectively used to suppress and contain *hardened criminals*.
