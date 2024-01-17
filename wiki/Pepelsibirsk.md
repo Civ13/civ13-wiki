@@ -66,4 +66,15 @@ The wastes of the eastern RSFSR have proven to be very lucrative for the People'
 What little remains of the Soviet central government. They are willing to tolerate your de-facto independence as long as you provide a steady source of revenue. They will periodically send traders. If relations with them are low, they will constantly bomb the city and stop sending traders. If relations are high, they will protect you against Pepelsibirsk-1's raids and Chinese airstrikes.
 
 ### The United States of the Pacific
-Following the collapse of the United States, the governments of California, Nevada, Oregon, Arizona, Utah, Idaho, and Washington State formed a federation for mutual protection and economic benefit. They are willing to sell you very advanced technology at high prices, and will periodically send traders. Trading with these Americans will reduce relations with the Chinese and Soviet Union.
+Following the collapse of the United States, the governments of California, Nevada, Oregon, Arizona, Utah, Idaho, and Washington State formed a federation for mutual protection and economic benefit. They are willing to sell you very advanced technology at high prices, and will periodically send traders. Trading with these Americans will reduce relations with the Chinese and Soviet Union. If relations are low, they will permanently stop sending traders.
+
+### Managing Relations
+Diplomatic relations are naturally raised via trading, and lowered by scams and hostility.
+
+Purchasing items from a trader or buying/selling imports/exports will increase relations by 0.1 per ruble spent or earned.
+
+You can kill visiting traders to make them drop valuable items and money. This will immediately reduce relations by 20.
+
+You can scam Pepelsibirsk-1 and Narodnyygorod out of their money by choosing not to pay for imported goods. This will reduce relations by 15 per crate.
+
+Relations go from 0 to 100, anything below 25 counting as hostile and anything above 75 counting as friendly.
