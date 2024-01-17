@@ -136,6 +136,10 @@ Achieving certain things in Pepelsibirsk will grant you achievements, visible by
   
 - Stakhanovite: Have maximum strength.
 - Udarnik: Have maximum strength, maximum crafting, and maximum farming skills.
+- Guards Rifleman: Have maximum rifle skills.
+- Knight: Have maximum sword skills.
+- Time Traveler: Have maximum bow skills.
+- Dissident: Have maximum philosophy skills.
 
 ---
 
@@ -144,4 +148,4 @@ Achieving certain things in Pepelsibirsk will grant you achievements, visible by
 - Anti-Revisionist: Bring relations with China up to 100 and bring relations with the Soviet Union down to 0.
 - Anti-Stalinist: Bring relations with the Soviet Union up to 100 and relations with China down to 0.
 - Fascist: Bring relations with everybody down to 0.
-- Tito: Bring relations with everybody up to 100.
+- Titoist: Bring relations with everybody up to 100.
