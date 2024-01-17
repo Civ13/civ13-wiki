@@ -149,3 +149,10 @@ Achieving certain things in Pepelsibirsk will grant you achievements, visible by
 - Anti-Stalinist: Bring relations with the Soviet Union up to 100 and relations with China down to 0.
 - Fascist: Bring relations with everybody down to 0.
 - Titoist: Bring relations with everybody up to 100.
+
+---
+
+- People's Front of Judea: Kill somebody in a faction containing the word "People's" as a member of a faction containing the word "Soviet".
+- Judean People's Front: Kill somebody in a faction containing the word "Soviet" as a member of a faction containing the word "People's".
+- Judean Popular People's Front: Kill somebody in a faction containing the word "Democratic" as a member of a faction containing the word "People's".
+- Popular Front of Judea: Kill somebody in a faction containing the word "Socialist" as a member of a faction containing the word "Democratic".
