@@ -164,10 +164,11 @@ Police should enforce the written laws of their faction. A court is present near
 
 ### Historical Laws
 These are historical laws taken from the [Criminal Code of the Russian SFSR.](https://en.wikisource.org/wiki/Criminal_Code_of_the_Russian_Soviet_Federative_Socialist_Republic_(1960))
+One in-game season = 3 months.
 
 ---
 
-- "Anti-Soviet agitation and propaganda", punishable by anything between 6 months (2 seasons) of imprisonment, to the death penalty, depending on the severity of the offense.
+- "Anti-Soviet agitation and propaganda", punishable by anything between 6 months of imprisonment, to the death penalty, depending on the severity of the offense.
 - "Private entrepreneurial activity and activity as a commercial middlemen", punishable by up to 5 years imprisonment and confiscation or property.
 - "Using threats or violence toward an official or public worker", punishable by up to 6 months imprisonment.
 - "Willful appropriation of the title or authority of an official", punishable by up to 3 years imprisonment.
