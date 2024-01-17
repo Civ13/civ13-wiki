@@ -49,6 +49,8 @@ The following buildings/compounds/factories may need managers assigned at the st
 - In the northeast of the map is a large mine and steel mill, which can be used to extract minerals and clay for both domestic use and export.
 - In the southwest of the map is a car factory, well equipped for the mass production of vehicles.
 - In the northwest is a huge collective farm. It requires a large labor force to plow, but its theoretical capacity is enormous compared to the city's population.
+- In the far south is a power plant, capable of powering the city. It must be wired to the buildings to provide power.
+- West of the power plant is the local newspaper.
 
 # Trade & Diplomacy
 There are other settlements and powers which can be traded with. You must maintain your relations with these settlements to maintain your economy.
@@ -156,3 +158,9 @@ Achieving certain things in Pepelsibirsk will grant you achievements, visible by
 - Judean People's Front: Kill somebody in a faction containing the word "Soviet" as a member of a faction containing the word "People's".
 - Judean Popular People's Front: Kill somebody in a faction containing the word "Democratic" as a member of a faction containing the word "People's".
 - Popular Front of Judea: Kill somebody in a faction containing the word "Socialist" as a member of a faction containing the word "Democratic".
+
+# Law Enforcement
+Police should enforce the written laws of their faction. A court is present near the police station and library, which can readily host legal proceedings.
+
+### Historical Laws
+- Anti-Soviet agitation and propaganda: "propaganda and agitation that called to overturn or undermining of the Soviet regime", punishable by between 6 months (2 seasons) of imprisonment, to the death penalty.
