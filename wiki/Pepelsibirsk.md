@@ -163,4 +163,24 @@ Achieving certain things in Pepelsibirsk will grant you achievements, visible by
 Police should enforce the written laws of their faction. A court is present near the police station and library, which can readily host legal proceedings.
 
 ### Historical Laws
-- Anti-Soviet agitation and propaganda: "propaganda and agitation that called to overturn or undermining of the Soviet regime", punishable by between 6 months (2 seasons) of imprisonment, to the death penalty.
+- "Anti-Soviet agitation and propaganda", punishable by anything between 6 months (2 seasons) of imprisonment, to the death penalty, depending on the severity of the offense.
+- "The appropriation of state or public property by means of theft, robbery, assault, embezzlement, or fraud", punishable by 3-15 years of imprisonment.
+- "The willful destruction or damaging of state or public property", punishable by either 1 year of imprisonment (10 years in the case of arson) or a fine of 1000 rubles.
+- "Premeditated homicide", punishable by up to 10 years imprisonment, increased to the death penalty in the case of recidivism, "venal motives", or hooliganism.
+- "The premeditated infliction of serious bodily injury", punishable by up to 8 years imprisonment.
+- "The premeditated infliction of slight bodily injury, or battery", punishable by up to 1 year imprisonment.
+- "Obstructing the execution of an electoral law", punishable by up to 2 years imprisonment, or 1 year of corrective labour.
+- "Theft" against a private individual, punishable by between 2 and 10 years imprisonment depending on the criminal record of the offender.
+- "Private entrepreneurial activity and activity as a commercial middlemen", punishable by up to 5 years imprisonment and confiscation or property.
+- "The abuse of authority or of official position", punishable by up to 8 years imprisonment.
+- "The taking of bribes", punishable by up to 5 years imprisonment.
+- "The giving of a bribe", punishable by up to 3 years imprisonment, or 1 year of corrective labour.
+- "Escape from place of confinement or from guards", punishable by up to 10 years imprisonment or corrective labour.
+- "Resisting a representative of established government or of society who is performing his duty to keep public order", punishable by up to 3 years imprisonment, 1 year of corrective labour, or a fine not exceeding 600 rubles.
+- "Contumely toward a representative of established government or a representative of society who is performing his duty to keep public order", punishable by up to 1 year of corrective labour or a fine not exceeding 500 rubles.
+- "Using threats or violence toward an official or public worker", punishable by up to 6 months imprisonment.
+- "Willful appropriation of the title or authority of an official", punishable by up to 3 years imprisonment.
+- "Unauthorized appropriation of Land and unauthorized construction", punishable by a fine of up to 1000 rubles and 6 months of corrective labour.
+- "Hooliganism", punishable by up to 1 year imprisonment or the same time in corrective labour, or a fine not exceeding 500 rubles.
+- "Illegal carrying, custody, manufacture, or sale of weapons or explosives", punishable by up to 2 years imprisonment.
+- "The manufacture or sale of poisonous or narcotic substances", punishable by up to 1 year imprisonment.
