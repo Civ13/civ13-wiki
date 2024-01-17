@@ -54,27 +54,44 @@ The following buildings/compounds/factories may need managers assigned at the st
 There are other settlements and powers which can be traded with. You must maintain your relations with these settlements to maintain your economy.
 
 ### Pepelsibirsk-1
-Unrelated to Pepelsibirsk itself, this is a military settlement. You may purchase weapons from it. If relations with it are low, it will send raiders to attack Pepelsibirsk.
+Unrelated to Pepelsibirsk itself, this is a military settlement. You may purchase weapons from it. 
+- If relations with it are low, it will send raiders to attack Pepelsibirsk.
+- If relations with it are high, it will offer you 10% better prices.  
 
 ### Narodnyygorod
-A small town located near Pepelsibirsk, containing a port. It is somewhat wealthy, but maintains a defensive military posture. If relations with it are low, it will embargo you. This is your only source of rubles.
+A small town located near Pepelsibirsk, containing a port. It is somewhat wealthy, but maintains a defensive military posture. 
+- If relations with it are low, it will embargo you.
+- If relations with it are high, it will offer 10% better prices.
+  
+This is your only source of rubles.
 
 ### The Chinese
-The wastes of the eastern RSFSR have proven to be very lucrative for the People's Republic of China. They will send traders periodically. If relations with them are low, they will constantly bomb the city and stop sending traders. If relations are high, they will provide small amounts of "humanitarian aid" with every trading party.
+The wastes of the eastern RSFSR have proven to be very lucrative for the People's Republic of China.
+- If relations with them are low, they will constantly bomb the city and stop sending traders. 
+- If relations are high, they will provide small amounts of "humanitarian aid" with every trading party.
+  
+They will periodically send traders.
 
 ### The Soviet Union
-What little remains of the Soviet central government. They are willing to tolerate your de-facto independence as long as you provide a steady source of revenue. They will periodically send traders. If relations with them are low, they will constantly bomb the city and stop sending traders. If relations are high, they will protect you against Pepelsibirsk-1's raids and Chinese airstrikes.
+What little remains of the Soviet central government. They are willing to tolerate your de-facto independence as long as you provide a steady source of revenue.
+- If relations with them are low, they will constantly bomb the city and stop sending traders. 
+- If relations with them are high, they will protect you against Pepelsibirsk-1's raids and Chinese airstrikes.
+
+They will periodically send traders.
 
 ### The United States of the Pacific
-Following the collapse of the United States, the governments of California, Nevada, Oregon, Arizona, Utah, Idaho, and Washington State formed a federation for mutual protection and economic benefit. They are willing to sell you very advanced technology at high prices, and will periodically send traders. Trading with these Americans will reduce relations with the Chinese and Soviet Union. If relations are low, they will permanently stop sending traders.
+Following the collapse of the United States, the governments of California, Nevada, Oregon, Arizona, Utah, Idaho, and Washington State formed a federation for mutual protection and economic benefit. They are willing to sell you very advanced technology at high prices.
+- If relations are low, they will permanently stop sending traders. 
+- If relations are high, they will allow you to purchase SAM sites.
+- Trading with these Americans will reduce relations with the Chinese and Soviet Union by 0.05 per ruble.
+
+They will periodically send traders.
 
 ### Managing Relations
 Diplomatic relations are naturally raised via trading, and lowered by scams and hostility.
 
-Purchasing items from a trader or buying/selling imports/exports will increase relations by 0.1 per ruble spent or earned.
-
-You can kill visiting traders to make them drop valuable items and money. This will immediately reduce relations by 20.
-
-You can scam Pepelsibirsk-1 and Narodnyygorod out of their money by choosing not to pay for imported goods. This will reduce relations by 15 per crate.
+- Purchasing items from a trader or buying/selling imports/exports will increase relations by 0.1 per ruble spent or earned.
+- You can kill visiting traders to make them drop valuable items and money. This will immediately reduce relations by 20.
+- You can scam Pepelsibirsk-1 and Narodnyygorod out of their money by choosing not to pay for imported goods. This will reduce relations by 15 per crate.
 
 Relations go from 0 to 100, anything below 25 counting as hostile and anything above 75 counting as friendly.
