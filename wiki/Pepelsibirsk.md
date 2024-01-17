@@ -65,7 +65,7 @@ A small town located near Pepelsibirsk, containing a port. It is somewhat wealth
   
 This is your only source of rubles.
 
-### The Chinese
+### The People's Republic of China
 The wastes of the eastern RSFSR have proven to be very lucrative for the People's Republic of China.
 - If relations with them are low, they will constantly bomb the city and stop sending traders. 
 - If relations are high, they will provide small amounts of "humanitarian aid" with every trading party.
@@ -95,3 +95,18 @@ Diplomatic relations are naturally raised via trading, and lowered by scams and 
 - You can scam Pepelsibirsk-1 and Narodnyygorod out of their money by choosing not to pay for imported goods. This will reduce relations by 15 per crate.
 
 Relations go from 0 to 100, anything below 25 counting as hostile and anything above 75 counting as friendly.
+
+# Books and Reading
+In the library located to the far east of the city - near the prison - there are numerous books you can read and copy.
+### Approved Catalogue (1976)
+- The Communist Manifesto, the founding book of international Marxism.
+- Das Kapital, an enormous, thick tome of densely-packed Marxist economic theory.
+- The State and Revolution, a book by Vladimir Lenin against social democracy.
+- The Three Sources and Three Component Parts of Marxism, an article by Vladimir Lenin on how Marxism was inevitable.
+
+### Samizdat
+- The Wealth of Nations, a foundational text on capitalism, and the second most cited text in economics written prior to 1950, right behind Das Kapital.
+- Progress and Poverty, the book which sparked the progressivist movement. One of the most influential - yet unknown - books in human history.
+- The (Orthodox) Bible (restricted access, only legally available to the Church, whose activities are under strict watch).
+- The Constitution of 3 May 1791, the liberal constitution of the Polish-Lithuanian Commonwealth.
+- Nasha Revoliutsiia, a book by Leon Trotsky about the October Revolution.
