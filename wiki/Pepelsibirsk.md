@@ -115,19 +115,29 @@ In the library located to the far east of the city - near the prison - there are
 # Achievements
 Achieving certain things in Pepelsibirsk will grant you achievements, visible by examining your starting passport.
 
+---
+
 - Citizen of Pepelsibirsk: Join a faction.
 - [REDACTED]: Starve to death.
+
+---
   
 - NEPman: Start a company and make at least 10 gold in profit.
 - Capitalist: Start a company and make at least 100 gold in profit.
 - Oligarch: Start a company and make at least 1000 gold in profit.
 - Enemy of the People: Be killed as the founder of a company that has made at least 100 gold in profit.
+
+---
   
 - General Secretary: Lead a faction that has the words "Soviet", "People's", "Union", "Socialist", or "Democratic" in its name.
 - Yeltsin: Have your liver fail from excessive drinking as the leader of a faction that does not include any socialist words in its name, but includes the words "Republic" or "Federation".
+
+---
   
 - Stakhanovite: Have maximum strength.
 - Udarnik: Have maximum strength, maximum crafting, and maximum farming skills.
+
+---
 
 - Anti-Communist: Bring relations with the Soviet Union and China down to 0.
 - Anti-Capitalist: Bring relations with the United States of the Pacific down to 0.
