@@ -317,12 +317,26 @@ Support for a ceremonial monarch who does not wield executive power under normal
 Support for moderate reformism while keeping the basic political form of society intact. Like conservatism, it can be mixed with any ideology.
 
 # Decrees
-Here are is a set of pre-made decrees/laws to enact should you choose to do so.
+Here are is a set of pre-made decrees/laws to enact should you choose to do so. They are designed for historical communist parties.
 
-### Prohibition on Factions
+### Decree on the Prohibition of Factions
+1. Due to current circumstances, unity within the Party must be maintained.
+2. Factionalism within the Party may pose a danger to the proletarian dictatorship.
+3. The Central Committee of the Communist Party henceforth declares all factions within the Party to be dissolved.
+4. Legitimate criticisms of the Party's actions/policies must be delivered without delay, in the most precise form possible, to the relevant authorities.
+5. Failure to follow this decree will result in immediate expulsion from the Party and all relevant administrative offices.
 
-### Martial Law
+### Decree on Martial Law
+1. All civil liberties are suspended.
+2. Activity by the Ministry of Internal Affairs is to be suspended and all duties and personnel transfered to the Ministry of Defense.
+3. Discretionary power with regards to law enforcement and legal sentencing is granted to the Ministry of Defense.
+4. Failure to follow subsequent instructions by the State or state organs will result in legal punishment.
+5. This state of affairs will continue until the restoration of order as determined by the State.
 
-### Unlimited authority granted to the Ministry of Internal Affairs
+### Decree on Internal Security
+1. The Ministry of Internal Affairs and its personnel are henceforth granted legal immunity to prosecution, subject to removal by the Central Committee on an individual basis.
+2. The Ministry of Internal Affairs is granted discretionary authority with regards to law enforcement and legal sentencing for the purpose of defending the proletarian dictatorship.
+3. The Ministry of Internal Affairs may preemptively revoke the civil liberties of specific individuals suspected of anti-Soviet agitation.
+4. This decree is valid until further notice.
 
 ### 
