@@ -209,3 +209,34 @@ One in-game season = 3 months.
 
 It is recommended to copy/paste these into your faction's criminal code, adjusting as necessary for your government. When modifying it, be clear as to the crime and punishment, but not overly specific. A good criminal code is readily accessible to the public.
 
+# Economic Planning
+
+Make use of [Soviet-type economic planning](https://en.wikipedia.org/wiki/Soviet-type_economic_planning) and [material-balance planning](https://en.wikipedia.org/wiki/Material_balance_planning), with a centralized ministry of economic planning preparing short-term and long-term economic plans, giving orders to various industries, and directing labour, all the while keeping a strict watch on the city's material stockpiles.
+
+# Phonebook
+Most important buildings have a telephone.
+
+### Government and Ministries
+
+- Local Leadership: 1111
+- Military Command: 1112
+- KGB: 1113
+- Economic Planning Ministry: 1114
+- Miscellaneous Ministry (unused): 1115
+- City Soviet: 1116
+
+### Services and Outreach
+
+- Lead Editor: 2221
+- Warehouse: 2222
+- Hospital (non-emergency): 2223
+- Police (non-emergency): 2224
+- Court: 2225
+
+### Factories, Farms, Infrastructure, and Mines
+  
+- Car Factory: 3331
+- Pepelsibirsk Power Plant: 3332
+- Collective Farm: 3333
+- Steel Mill: 3334
+- Mine: 3335
