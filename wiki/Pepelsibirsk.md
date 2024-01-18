@@ -242,3 +242,61 @@ Most important buildings have a telephone.
 - Collective Farm: 3333
 - Steel Mill: 3334
 - Mine: 3335
+
+# Ideologies
+A short list of real-world ideologies to RP with, for those unfamiliar with politics. Each category is placed in order from right-wing to left-wing, and the ideologies within each category is also ordered from the most right-wing to the most left-wing.
+
+## Socialist Ideologies
+
+### Social Democracy
+
+### Menshevism
+
+### Right-Communism
+
+### Stalinism
+
+### Left-Communism
+
+### Anarchism (Left)
+
+## Liberal Ideologies
+
+### Anarchism (Right)
+
+### Market Liberalism
+
+### Liberal Conservatism
+
+### Classical Liberalism
+
+### Social Liberalism
+
+### Radicalism
+
+## Conservative-Reactionary Ideologies
+
+### Fascism
+
+### Monarchism (Absolute/Semi-Constitutional)
+
+### Paternalism
+
+### Conservatism
+
+### Consitutional Monarchism
+
+### Moderatism
+
+
+
+# Decrees
+Here are is a set of pre-made decrees/laws to enact should you choose to do so.
+
+### Prohibition on Factions
+
+### Martial Law
+
+### Unlimited authority granted to the Ministry of Internal Affairs
+
+### 
