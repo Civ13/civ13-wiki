@@ -231,7 +231,9 @@ Most important buildings have a telephone.
 - Warehouse: 2222
 - Hospital (non-emergency): 2223
 - Police (non-emergency): 2224
-- Court: 2225
+- Fire Department (non-emergency): 2225
+- Court: 2226
+- Emergency Services: 911
 
 ### Factories, Farms, Infrastructure, and Mines
   
