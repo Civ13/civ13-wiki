@@ -247,6 +247,7 @@ Most important buildings have a telephone.
 A short list of real-world ideologies to RP with, for those unfamiliar with politics. Each category is placed in order from left-wing to right-wing, and the ideologies within each category are ordered from the most right-wing to most left-wing.
 
 ## Socialist Ideologies
+Socialism is defined as the philosophical belief in the concept of classes and class struggle in the Marxist tradition, or otherwise radical egalitarianism.
 
 ### Social Democracy
 Social Democrats believe in western-style liberal democracy and capitalism, but believe in regulation and a strong welfare state to ensure good living conditions for the working class. Traditionally, they also believe that these reforms will eventually produce an egalitarian and socialist society.
@@ -272,34 +273,48 @@ The politics of Leon Trotsky and the originator of most Marxist-Leninist policie
 Anarcho-Communism. No Gods, no Masters! Often accused of being contradictory, but influential nonetheless. It supports worker cooperatives, the abolition of money and its replacement by mutual aid, the complete abolition of the state and its monopoly on violence, and local communes using a form of direct democracy for voluntary governance.
 
 ## Liberal Ideologies
+Liberalism is the form of politics promoted during the Enlightenment, focused on a combination of a capitalist economic structure with support for civil liberties, the rule of law, and representative democracy. The most influential form of politics in the geopolitical west.
 
 ### Anarchism (Right)
+Anarcho-Capitalism. The belief in the abolition of the state and its replacement by a society built on pure capitalism, free trade, and non-aggression.
 
 ### Market Liberalism
+Market Liberals believe in free trade and laissez-faire capitalism. Most are in favour of liberal democracy, although some (e.g. Pinochet) have been authoritarian or even dictatorial.
 
 ### Liberal Conservatism
+Liberal Conservatives combine the economic beliefs of market liberals with conservative politics and support for democracy. They are the typical centrist conservatives of the era. Examples of liberal conservatives include Margaret Thatcher and Ronald Reagan.
 
 ### Classical Liberalism
+The liberals of the Enlightenment. They combine support for human rights and democracy with laissez-faire economic policy.
 
 ### Social Liberalism
+Social Liberals are nearly identical to Social Democrats, except renouncing socialist politics and support for a socialist society.
 
 ### Radicalism
+Radical Republicans, supporting the abolition of monarchy, religion, aristocracy, and all tyranny. They are civic egalitarians and oftentimes sympathetic to socialists. They first emerged during the French Revolution, came back with a vengeance in 1848, and have been slowly dying ever since. Highly internationalist in nature.
 
 ## Conservative-Reactionary Ideologies
+The first half of this category focuses on ideologies which prioritize social conservatism and reactionary politics, rejecting the Enlightenment, liberalism, and egalitarianism.
+
+The latter half of this category has more in common with liberals, but is typically highly opposed to socialist egalitarianism and social policies.
 
 ### Fascism
+The combination of revolutionary nationalism, reactionary social policy, populism, and paternalistic welfare. Ironically, they tend to have a lot in common with more authoritarian socialists, and are primarily separated by social policies and the philosophies which back them. Examples include Mussolini's Italy, Peron's Argentina, Hitler's Germany, and Franco's Spain.
 
 ### Monarchism (Absolute/Semi-Constitutional)
+Support for a hereditary monarchy holding non-ceremonial absolute or executive power. Typically associated with reactionary social policy.
 
 ### Paternalism
+Support for an authoritarian state which acts as a paternal figure over the population, regulating their behaviour but also ensuring no one goes hungry. One example of a paternalist is Otto von Bismarck.
 
 ### Conservatism
+Support for things to stay the way they are. This can be mixed with virtually any ideology.
 
 ### Consitutional Monarchism
+Support for a ceremonial monarch who does not wield executive power under normal circumstances. Not necessarily illiberal, but technically reactionary if in a republic.
 
 ### Moderatism
-
-
+Support for moderate reformism while keeping the basic political form of society intact. Like conservatism, it can be mixed with any ideology.
 
 # Decrees
 Here are is a set of pre-made decrees/laws to enact should you choose to do so.
