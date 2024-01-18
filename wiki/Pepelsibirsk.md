@@ -244,21 +244,32 @@ Most important buildings have a telephone.
 - Mine: 3335
 
 # Ideologies
-A short list of real-world ideologies to RP with, for those unfamiliar with politics. Each category is placed in order from right-wing to left-wing, and the ideologies within each category is also ordered from the most right-wing to the most left-wing.
+A short list of real-world ideologies to RP with, for those unfamiliar with politics. Each category is placed in order from left-wing to right-wing, and the ideologies within each category are ordered from the most right-wing to most left-wing.
 
 ## Socialist Ideologies
 
 ### Social Democracy
+Social Democrats believe in western-style liberal democracy and capitalism, but believe in regulation and a strong welfare state to ensure good living conditions for the working class. Traditionally, they also believe that these reforms will eventually produce an egalitarian and socialist society.
 
 ### Menshevism
+Similar to Social Democrats, but with the additional beliefs in workplace democracy (Soviets/Councils) and philosophical anti-capitalism (although they still support a market system).
 
 ### Right-Communism
+The politics of Deng Xiaoping and Nikolai Bukharin. Combines the belief in workplace democracy and a single-party state with a "socialist market economy", claiming that true communism can only be achieved after a lengthy period of capitalism.
 
-### Stalinism
+### Marxism-Leninism
+The official ideology of the Soviet Union. Closer to left-communism than right-communism, supporting a single-party state and a fully state-planned economy. Traditionally opposed to a cult of personality and in favour of collective leadership, although the Stalinist faction (previously dominant) within it prefers a strong leader acting as a de-facto dictator.
+
+The main distinguishing factors of it is support for "Socialism in One Country" (disavowing world revolution) and a large top-heavy bureaucracy.
+
+The politics of Mao Zedong are typically placed somewhere in-between Left-Communism and Marxism-Leninism - it is referred to as Maoism, and is a more agrarian and anti-bureaucratic branch of Stalinism.
 
 ### Left-Communism
+The politics of Leon Trotsky and the originator of most Marxist-Leninist policies. It is distinguished from Marxism-Leninism by a fervent belief in the necessity of world revolution and opposition to an unelected bureaucracy.
 
 ### Anarchism (Left)
+
+Anarcho-Communism. No Gods, no Masters! Often accused of being contradictory, but influential nonetheless. It supports worker cooperatives, the abolition of money and its replacement by mutual aid, the complete abolition of the state and its monopoly on violence, and local communes using a form of direct democracy for voluntary governance.
 
 ## Liberal Ideologies
 
