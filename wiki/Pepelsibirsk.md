@@ -325,13 +325,14 @@ Here are is a set of pre-made decrees/laws to enact should you choose to do so. 
 3. The Central Committee of the Communist Party henceforth declares all factions within the Party to be dissolved.
 4. Legitimate criticisms of the Party's actions/policies must be delivered without delay, in the most precise form possible, to the relevant authorities.
 5. Failure to follow this decree will result in immediate expulsion from the Party and all relevant administrative offices.
+6. This decree is valid until further notice.
 
 ### Decree on Martial Law
 1. All civil liberties are suspended.
 2. Activity by the Ministry of Internal Affairs is to be suspended and all duties and personnel transfered to the Ministry of Defense.
 3. Discretionary power with regards to law enforcement and legal sentencing is granted to the Ministry of Defense.
 4. Failure to follow subsequent instructions by the State or state organs will result in legal punishment.
-5. This state of affairs will continue until the restoration of order as determined by the State.
+5. This decree is valid until further notice.
 
 ### Decree on Internal Security
 1. The Ministry of Internal Affairs and its personnel are henceforth granted legal immunity to prosecution, subject to removal by the Central Committee on an individual basis.
@@ -339,4 +340,17 @@ Here are is a set of pre-made decrees/laws to enact should you choose to do so. 
 3. The Ministry of Internal Affairs may preemptively revoke the civil liberties of specific individuals suspected of anti-Soviet agitation.
 4. This decree is valid until further notice.
 
-### 
+### Decree on Soviet Elections
+1. In accordance with the principle of workplace democracy, delegates to the Supreme Soviet are to be elected in every farm, factory, and barracks, using a universal and secret vote.
+2. Delegates to the Supreme Soviet must be members of the Communist Party, and approved by the Supreme Soviet.
+3. Only one candidate may stand in each election; they may be approved or rejected by the electorate. If they are rejected twice, a new candidate will be chosen by the Supreme Soviet.
+4. Elections are to be held immediately after the dissolution of the Supreme Soviet by the Chairman of the Supreme Soviet.
+5. This decree is valid until further notice.
+
+### Decree on Party Unity
+1. In accordance with the principle of democratic centralism, failure to maintain party discipline in voting is considered anti-Soviet agitation.
+2. All voting on measures in the Supreme Soviet is to be conducted in public and announced immediately to the public.
+3. Constructive internal debate within the party is permitted and encouraged.
+4. Once the party line on a particular subject has been decided by consensus, further discussion of the subject is prohibited.
+5. All members of the Party must work towards the implementation of party policy, without complaint or dissent.
+6. This decree is valid until further notice.
