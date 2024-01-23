@@ -419,8 +419,26 @@ All candidates for election to the Supreme Soviet must be a citizen of the Pepel
 **Article 17**  
 Those who lose eligibility to be a candidate for election to the Supreme Soviet shall lose their seat in the Supreme Soviet.
 
-**Article 18**
+**Article 18**  
 The following organizations may approve candidates for election to the Supreme Soviet:
 - The Communist Party of Pepelsibirsk
 - The Red Army
 - The United Industrial-Agricultural Workers Union
+
+**Article 19**  
+All industrial and agricultural workers in the Pepelsibirsk SSR are automatically members of the United Industrial-Agricultural Workers Union, whose leader is appointed by the Supreme Soviet.
+
+**Article 20**  
+There are four ministries:
+- The Ministry of Defence, charged with commanding the Red Army.
+- The Ministry of Internal Affairs, charged with maintaining public order.
+- The Ministry of Economic Planning, charged with planning and managing the economy.
+- The Ministry of State, charged with keeping order within the government itself. The Minister of State acts as Head of State.
+
+The ministers of these ministries are appointed by the Supreme Soviet from its own membership, and are automatically members of the Presidium of the Supreme Soviet.
+
+**Article 21**  
+The Chairman of the Supreme Soviet is elected from the membership of the Supreme Soviet, and serves as head of government. They are automatically a member of the Presidium of the Supreme Soviet. The Chairman is subject to the confidence of the Supreme Soviet, and may be removed by a majority vote.
+
+**Article 22**  
+Elections are mandatory after the vacancy of a majority of the seats in the Supreme Soviet. Elections may additionally called by decision of the Supreme Soviet, or its Chairman.
