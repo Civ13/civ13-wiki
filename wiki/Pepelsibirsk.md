@@ -354,3 +354,73 @@ Here are is a set of pre-made decrees/laws to enact should you choose to do so. 
 4. Once the party line on a particular subject has been decided by consensus, further discussion of the subject is prohibited.
 5. All members of the Party must work towards the implementation of party policy, without complaint or dissent.
 6. This decree is valid until further notice.
+
+# Premade Constitutions
+These constitutions are provided to aid in the establishment of new factions.
+
+### Constitution of the Pepelsibirsk Soviet Socialist Republic
+
+**Article 1**  
+The Pepelsibirsk Soviet Socialist Republic, henceforth referred to as the Pepelsibirsk SSR, is a socialist state, founded on the ideology of Marxism-Leninism, and the advancement of the working class.
+
+**Article 2**  
+All power in the Pepelsibirsk SSR is held by the people, expressed through their elected People's Deputies in the Supreme Soviet.
+
+**Article 3**  
+The Communist Party of Pepelsibirsk holds a leading role in guiding and developing the Pepelsibirsk SSR. It is the voice of the people's will.
+
+**Article 4**  
+The official ideology of the Communist Party of Pepelsibirsk is Marxism-Leninism.
+
+**Article 5**  
+Trade unions, labour organizations, and worker cooperatives shall work to benefit the advancement of the people of the Pepelsibirsk SSR.
+
+**Article 6**  
+The Pepelsibirsk SSR operates on the principle of Soviet democracy and Democratic Centralism. Workers shall elect delegates to the Supreme Soviet, as directed by the Communist Party of Pepelsibirsk.
+
+**Article 7**  
+The economy of the Pepelsibirsk SSR operates on the principle of socialist economic planning, in which all economic activity is managed by the State for the benefit of the working class.
+
+**Article 8**   
+Private ownership of the means of production is illegal and banned. No one has the right to use their personal property in a selfish or greedy manner. Personal property used in such a manner is forfeit.
+
+**Article 9**  
+Personal property includes clothing, food (within a reasonable quantity for personal consumption), money, and simple consumer goods. The right to own and cherish one's personal property is protected by the State. Personal property shall not be used in contradiction to Article 8.
+
+**Article 10**  
+The Armed Forces of the Pepelsibirsk SSR, henceforth referred to as the Red Army, is formed for the protection of the working class, our achievements, and our rights.
+
+**Article 11**  
+All citizens of the Pepelsibirsk SSR are eligible for conscription into the Red Army.
+
+**Article 12**  
+The Supreme Soviet is to elect the Presidium of the Supreme Soviet, which operates in-between sessions of the Supreme Soviet and holds all powers of the Supreme Soviet except for the power to make constitutional amendments.
+
+**Article 13**  
+Citizenship in the Pepelsibirsk SSR is granted to all working residents of the city of Pepelsibirsk.
+
+**Article 14**  
+All citizens of the Pepelsibirsk SSR have the right to:
+- Vote, using a secret ballot, for delegates to the Supreme Soviet.
+- Work, for the benefit of society.
+- Expression, of all personal beliefs, excluding those against the constitutional order.
+- Housing, in a building assigned by the State.
+- Healthcare, free of any charge.
+- Security, including protection from crime and anti-constitutional expressions.
+- Education, including full literacy, and knowledge about the socialist system.
+- Act in a manner in accordance with civil society and this Constitution.
+
+**Article 15**  
+It is the duty of every citizen to perform labour beneficial to society. Evasion of this labour is considered social parasitism and will be punished according to the law.
+
+**Article 16**  
+All candidates for election to the Supreme Soviet must be a citizen of the Pepelsibirsk SSR, at least 18 years of age, and free of mental illness.
+
+**Article 17**  
+Those who lose eligibility to be a candidate for election to the Supreme Soviet shall lose their seat in the Supreme Soviet.
+
+**Article 18**
+The following organizations may approve candidates for election to the Supreme Soviet:
+- The Communist Party of Pepelsibirsk
+- The Red Army
+- The United Industrial-Agricultural Workers Union
