@@ -224,6 +224,7 @@ Most important buildings have a telephone.
 - Economic Planning Ministry: 1114
 - Miscellaneous Ministry (unused): 1115
 - City Soviet: 1116
+- Financial Services: 1117
 
 ### Services and Outreach
 
