@@ -243,6 +243,7 @@ Most important buildings have a telephone.
 - Collective Farm: 3333
 - Steel Mill: 3334
 - Mine: 3335
+- Research and Development Laboratory: 3336
 
 # Ideologies
 A short list of real-world ideologies to RP with, for those unfamiliar with politics. Each category is placed in order from left-wing to right-wing, and the ideologies within each category are ordered from the most right-wing to most left-wing.
