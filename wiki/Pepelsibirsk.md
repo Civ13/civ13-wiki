@@ -4,7 +4,7 @@ The year is 1976. The Soviet central government has collapsed following a limite
 
 This map has special mechanics and is designed for a specific type of realistic roleplay, so I would highly recommend reading (or better yet - keeping on-hand) the following guide. It is useful for prospective rulers, government ministers, tyrants, rebels, criminals, businessmen, and even common citizens.
 
-#Special Mechanics
+# Special Mechanics
 Pepelsibirsk has several special mechanics to take into consideration.
 
 - Trading: You can buy and sell supplies with both itinerant traders and nearby settlements.
