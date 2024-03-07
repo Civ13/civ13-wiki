@@ -123,7 +123,7 @@ same for all directions.
 
 <u><b>Wood</b></u>
 
-Made with 7 wood logs. Being out of planks, this wall is more refined
+Made with 10 wood planks attached to a wall frame. Being out of planks, this wall is more refined
 than the log one.
 
 <table>
@@ -144,7 +144,7 @@ than the log one.
 
 <u><b>Wall frame</b></u>
 
-Made with 1 wood log. Used as a base to build various walls, windows,
+Made with 1 wooden plank. Used as a base to build various walls, windows,
 doors and doorways, such as medieval and shoji. More details below.
 
 <table>
@@ -172,17 +172,13 @@ doors and doorways, such as bamboo and oriental. More details below.
 
 <u><b>Medieval</b></u>
 
-Made with 6 wood logs. A timber frame wall that comes in several
-designs. To build, construct a wall frame first, then click it with wood
-logs and choose a design.
+Made with 6 clay. A timber frame wall that comes in several
+designs. To build, construct a wall frame first, then click it with clay and choose a design.
 
 <table>
 <tbody>
 <tr>
 <td><img src="assets/images/wall_medieval.png">&emsp;
-<img src="assets/images/wall_medieval_cross.png">&emsp;
-<img src="assets/images/wall_medieval_NE.png">&emsp;
-<img src="assets/images/wall_medieval_SE.png"></td>
 </tr>
 <tr>
 <td><b>All</b></td>
