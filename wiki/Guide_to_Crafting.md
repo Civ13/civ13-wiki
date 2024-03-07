@@ -200,6 +200,12 @@ There are two main ways to obtain
 Wood is also used to produce <b>lye</b>. Put a stack of wood on the ground (make sure there is no grass on it, or it will start a fire). Click the wood with a lit torch or a flashlight on Harm intent. Scoop the ash (1 ash per 1 wood) with a vessel like a barrel, a bucket, or a cooking pot. Put the ash into a cooking pot and cook it on an oven or a campfire (like boiling water). Every 5u of ash will produce 1u of lye.</td>
 </tr>
 <tr>
+<td width="5%"><img src="assets/images/plank.png"></td>
+<td><b>Wood Plank</b></td>
+<td>A visual representation of a wooden plank.<br>
+Planks are used for the majority of more complex wooden items and can be made from a primitive sawmill or made in bulk from more advanced sawmills.</td>
+</tr>
+<tr>
 <td><img src="assets/images/leaves.png"></td>
 <td><b>Leaves</b></td>
 <td>This is what you get when removing leaves from a branch. Used to make thatch roofing - click the leaves in your active hand, or press Ctrl-Z, or Z in the hotkeys mode. Can be used as fuel for campfires, ovens etc. Edible if you happen to be a gorilla.</td>

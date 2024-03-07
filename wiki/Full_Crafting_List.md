@@ -1521,81 +1521,31 @@ Exported on 7 December 2021 - [Commit 9126](https://github.com/Civ13/Civ13/commi
 
 | Item | Cost| Material | Category | Research Needed | Available Until |
 | -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
-| wooden cart | 40 | wood | logistics | Requires  20 Industrial research points. | Available until the Modern Age. |
-| bathtub | 50 | wood | hygiene | Requires  10 Industrial, 5 Medical research points. | Available until the Stone Age. |
-| wooden public bathtub | 100 | wood | hygiene | Requires  45 Industrial, 30 Medical research points. | Available until the Bronze Age. |
 | wooden knife | 2 | wood | none | Available from the start. | Available until the Modern Age. |
 | torch | 2 | wood | none | Available from the start. | Available until the Modern Age. |
-| mining cart | 10 | wood | trains | Requires  93 Industrial research points. | Available until the Modern Age. |
 | raft | 10 | wood | vehicle parts | Requires  22 Industrial research points. | Available until the Modern Age. |
-| carriage | 50 | wood | vehicle parts | Requires  22 Industrial research points. | Available until the Modern Age. |
 | communications pole | 2 | wood | none | Requires  100 Industrial research points. | Available until the Modern Age. |
-| outrigger boat frame | 22 | wood | vehicle parts | Requires  22 Industrial research points. | Available until the Modern Age. |
-| wood vehicle frame | 2 | wood | vehicle parts | Requires  126 Industrial research points. | Available until the Modern Age. |
-| wood ship frame | 4 | wood | vehicle parts | Requires  41 Industrial research points. | Available until the Modern Age. |
-| ship rudder axis (2500 weight) | 45 | wood | vehicle parts | Requires  55 Industrial research points. | Available until the Modern Age. |
-| light ship rudder axis (1200 weight) | 25 | wood | vehicle parts | Requires  41 Industrial research points. | Available until the Modern Age. |
-| ship rudder control | 10 | wood | vehicle parts | Requires  41 Industrial research points. | Available until the Modern Age. |
-| ship mast | 15 | wood | vehicle parts | Requires  41 Industrial research points. | Available until the Modern Age. |
-| research desk | 8 | wood | economy & production | Available from the start. | Available until the Modern Age. |
 | altar of chad | 8 | wood | economy & production | Available from the start. | Available until the Modern Age. |
 | tanning rack | 8 | wood | economy & production | Requires  16 Industrial research points. | Available until the Modern Age. |
-| salting container | 6 | wood | economy & production | Requires  18 Medical research points. | Available until the Modern Age. |
 | small mill | 4 | wood | economy & production | Requires  19 Industrial research points. | Available until the Modern Age. |
 | dehydrator | 5 | wood | economy & production | Requires  4 Industrial research points. | Available until the Modern Age. |
-| loom | 8 | wood | economy & production | Requires  19 Industrial research points. | Available until the Modern Age. |
-| retting trough | 8 | wood | economy & production | Requires  19 Industrial research points. | Available until the Modern Age. |
-| compost bin | 10 | wood | economy & production | Requires  35 Industrial research points. | Available until the Modern Age. |
-| oil well | 40 | wood | economy & production | Requires  105 Industrial research points. | Available until the Modern Age. |
-| oil deposit | 6 | wood | economy & production | Requires  105 Industrial research points. | Available until the Modern Age. |
-| gunsmithing bench | 13 | wood | economy & production | Requires  118 Industrial research points. | Available until the Modern Age. |
-| ethanol distillery | 15 | wood | economy & production | Requires  45 Industrial research points. | Available until the Modern Age. |
-| market stall | 25 | wood | economy & production | Requires  24 Industrial research points. | Available until the Modern Age. |
-| supply stall | 25 | wood | economy & production | Requires  24 Industrial research points. | Available until the Modern Age. |
-| stock market | 25 | wood | economy & production | Requires  24 Industrial research points. | Available until the Modern Age. |
 | roof support | 2 | wood | construction | Available from the start. | Available until the Modern Age. |
 | mine support | 2 | wood | construction | Available from the start. | Available until the Modern Age. |
 | nordic roof support | 2 | wood | construction | Requires  47 Industrial research points. | Available until the Modern Age. |
-| wood roof builder | 1 | wood | construction | Available from the start. | Available until the Modern Age. |
-| wall frame | 1 | wood | construction | Requires  35 Industrial research points. | Available until the Modern Age. |
-| door | 5 | wood | construction | Requires  18 Industrial research points. | Available until the Modern Age. |
-| large wood double doors | 5 | wood | construction | Requires  18 Industrial research points. | Available until the Modern Age. |
 | aztec door | 5 | wood | construction | Requires  35 Industrial research points. | Available until the Modern Age. |
 | rustic door | 4 | wood | construction | Requires  18 Industrial research points. | Available until the Modern Age. |
 | nordic door | 5 | wood | construction | Requires  35 Industrial research points. | Available until the Modern Age. |
-| wooden privacy door | 10 | wood | construction | Requires  47 Industrial research points. | Available until the Modern Age. |
-| wooden house door | 5 | wood | construction | Requires  82 Industrial research points. | Available until the Modern Age. |
-| floor cover | 2 | wood | construction | Available from the start. | Available until the Modern Age. |
 | thatch floor | 0.75 | wood | construction | Available from the start. | Available until the Modern Age. |
 | split thatch floor | 0.75 | wood | construction | Available from the start. | Available until the Modern Age. |
-| wood floor | 1 | wood | construction | Requires  18 Industrial research points. | Available until the Modern Age. |
-| wood stairs | 2 | wood | construction | Requires  18 Industrial research points. | Available until the Modern Age. |
-| fancy wood floor | 1.5 | wood | construction | Requires  42 Industrial research points. | Available until the Modern Age. |
-| window | 5 | wood | construction | Requires  18 Industrial research points. | Available until the Modern Age. |
 | straw wall | 4 | wood | construction | Available from the start. | Available until the Modern Age. |
 | log wall | 6 | wood | construction | Requires  25 Industrial research points. | Available until the Modern Age. |
 | log wall corner | 6 | wood | construction | Requires  25 Industrial research points. | Available until the Modern Age. |
-| wood wall | 7 | wood | construction | Requires  35 Industrial research points. | Available until the Modern Age. |
 | nordic wall | 8 | wood | construction | Requires  35 Industrial research points. | Available until the Modern Age. |
 | aztec wall | 8 | wood | construction | Requires  35 Industrial research points. | Available until the Modern Age. |
 | custom rustic sign | 2.5 | wood | construction | Available from the start. | Available until the Modern Age. |
-| custom wood sign | 3 | wood | construction | Requires  25 Industrial research points. | Available until the Modern Age. |
-| custom metallic sign | 4 | wood | construction | Requires  35 Industrial research points. | Available until the Modern Age. |
-| custom golden sign | 6 | wood | construction | Requires  35 Industrial research points. | Available until the Modern Age. |
-| signpost | 4 | wood | construction | Available from the start. | Available until the Modern Age. |
-| wood jail bars | 8 | wood | construction | Requires  55 Industrial research points. | Available until the Modern Age. |
-| locked wood jail door | 12 | wood | construction | Requires  55 Industrial research points. | Available until the Modern Age. |
-| horizontal wood barrier | 5 | wood | barricades | Available from the start. | Available until the Modern Age. |
-| vertical wood barrier | 5 | wood | barricades | Available from the start. | Available until the Modern Age. |
 | wood palisade | 6 | wood | barricades | Available from the start. | Available until the Modern Age. |
 | primitive wood fence | 3 | wood | barricades | Requires  10 Industrial research points. | Available until the Middle Ages. |
 | primitive wood fence door | 3 | wood | barricades | Requires  10 Industrial research points. | Available until the Middle Ages. |
-| picket wood fence | 3 | wood | barricades | Requires  30 Industrial research points. | Available until the Modern Age. |
-| picket wood fence door | 3 | wood | barricades | Requires  30 Industrial research points. | Available until the Modern Age. |
-| wood structure | 5 | wood | barricades | Available from the start. | Available until the Modern Age. |
-| outhouse | 35 | wood | hygiene | Requires  45 Medical research points. | Available until the Modern Age. |
-| male outhouse | 35 | wood | hygiene | Requires  45 Medical research points. | Available until the Modern Age. |
-| female outhouse | 35 | wood | hygiene | Requires  45 Medical research points. | Available until the Modern Age. |
 | empty dynamite stick | 1 | wood | weapons | Requires  92 Military research points. | Available until the Modern Age. |
 | punji sticks trap | 4 | wood | weapons | Available from the start. | Available until the Modern Age. |
 | quarterstaff | 2 | wood | weapons | Available from the start. | Available until the Modern Age. |
@@ -1612,59 +1562,19 @@ Exported on 7 December 2021 - [Commit 9126](https://github.com/Civ13/Civ13/commi
 | primitive bow | 8 | wood | weapons | Requires  14 Military research points. | Available until the Middle Ages. |
 | shortbow | 8 | wood | weapons | Requires  30 Military research points. | Available until the Cold War. |
 | longbow | 12 | wood | weapons | Requires  35 Military research points. | Available until the Cold War. |
-| crossbow | 12 | wood | weapons | Requires  45 Military research points. | Available until the Modern Age. |
-| compound bow | 8 | wood | weapons | Requires  175 Military research points. | Available until the Modern Age. |
 | blow gun | 8 | wood | weapons | Requires  9 Industrial, 14 Military, 12 Medical research points. | Available until the Early Modern Age. |
 | arrow shaft (x3) | 1 | wood | weapons | Requires  14 Military research points. | Available until the Modern Age. |
-| bolt shaft (x3) | 1 | wood | weapons | Requires  45 Military research points. | Available until the Modern Age. |
 | hammer | 5 | wood | tools | Available from the start. | Available until the Modern Age. |
-| wood handle | 1 | wood | tools | Available from the start. | Available until the Modern Age. |
-| wood cane | 2 | wood | tools | Available from the start. | Available until the Modern Age. |
-| plough | 4 | wood | tools | Available from the start. | Available until the Modern Age. |
 | berries gatherer | 4 | wood | tools | Available from the start. | Available until the Modern Age. |
-| fishing pole | 3 | wood | tools | Available from the start. | Available until the Modern Age. |
-| mop | 2 | wood | tools | Requires  22 Industrial research points. | Available until the Modern Age. |
-| rollingpin | 1 | wood | tools | Requires  22 Industrial research points. | Available until the Modern Age. |
-| bucket | 2 | wood | tools | Available from the start. | Available until the Modern Age. |
 | produce basket | 5 | wood | tools | Available from the start. | Available until the Modern Age. |
-| fishing cage | 12 | wood | tools | Requires  12 Industrial, 12 Medical research points. | Available until the Modern Age. |
-| wearable sign | 2.5 | wood | tools | Available from the start. | Available until the Modern Age. |
-| ballot box | 8 | wood | furniture | Requires  25 Industrial research points. | Available until the Modern Age. |
 | table | 4 | wood | furniture | Available from the start. | Available until the Modern Age. |
-| wood pole | 2 | wood | furniture | Available from the start. | Available until the Modern Age. |
-| bed | 4 | wood | furniture | Available from the start. | Available until the Modern Age. |
-| wood crate | 5 | wood | furniture | Available from the start. | Available until the Modern Age. |
-| bookcase | 6 | wood | furniture | Requires  14 Industrial research points. | Available until the Modern Age. |
-| chair | 4 | wood | furniture | Requires  14 Industrial research points. | Available until the Modern Age. |
-| wood chest | 7 | wood | furniture | Requires  14 Industrial research points. | Available until the Modern Age. |
 | practice dummy | 8 | wood | furniture | Requires  18 Industrial research points. | Available until the Modern Age. |
 | practice target | 6 | wood | furniture | Requires  18 Industrial research points. | Available until the Modern Age. |
-| large barrel | 16 | wood | furniture | Requires  19 Industrial research points. | Available until the Modern Age. |
-| wood mailbox | 3 | wood | furniture | Requires  40 Industrial research points. | Available until the Modern Age. |
-| padded chair | 6 | wood | furniture | Requires  40 Industrial research points. | Available until the Modern Age. |
-| wing backed chair | 6 | wood | furniture | Requires  40 Industrial research points. | Available until the Modern Age. |
-| coffin | 4 | wood | furniture | Requires  41 Industrial research points. | Available until the Modern Age. |
-| wardrobe | 5 | wood | furniture | Requires  41 Industrial research points. | Available until the Modern Age. |
-| cabinet | 4 | wood | furniture | Requires  41 Industrial research points. | Available until the Modern Age. |
-| grandfather clock | 9 | wood | furniture | Requires  42 Industrial research points. | Available until the Modern Age. |
-| wooden rifle rack | 8 | wood | storage | Requires  75 Military research points. | Available until the Modern Age. |
-| poker table | 7 | wood | furniture | Requires  95 Industrial research points. | Available until the Modern Age. |
-| modern table | 7 | wood | furniture | Requires  95 Industrial research points. | Available until the Modern Age. |
-| fancy table | 7 | wood | furniture | Requires  95 Industrial research points. | Available until the Modern Age. |
-| coatrack | 3 | wood | furniture | Requires  95 Industrial research points. | Available until the Modern Age. |
-| shell rack | 6 | wood | furniture | Requires  80 Industrial, 105 Military research points. | Available until the Modern Age. |
-| large crate | 8 | wood | furniture | Requires  95 Industrial research points. | Available until the Modern Age. |
-| military crate | 5 | wood | furniture | Requires  105 Industrial research points. | Available until the Modern Age. |
-| standing clock | 6 | wood | furniture | Requires  110 Industrial research points. | Available until the Modern Age. |
-| wood altar | 20 | wood | religious & decoration | Available from the start. | Available until the Modern Age. |
 | decorative wood mask | 2 | wood | religious & decoration | Available from the start. | Available until the Middle Ages. |
 | impaled skull | 2 | wood | religious & decoration | Available from the start. | Available until the Modern Age. |
 | tiki statue | 10 | wood | religious & decoration | Available from the start. | Available until the Modern Age. |
 | small tiki statue | 8 | wood | religious & decoration | Available from the start. | Available until the Modern Age. |
 | wood totem pole | 10 | wood | religious & decoration | Available from the start. | Available until the Middle Ages. |
-| cross | 4 | wood | religious & decoration | Requires  47 Industrial research points. | Available until the Modern Age. |
-| small cross | 2 | wood | religious & decoration | Requires  47 Industrial research points. | Available until the Modern Age. |
-| monumental crucero cross | 45 | wood | religious & decoration | Requires  32 Industrial research points. | Available until the Modern Age. |
 | sandals | 1 | wood | shoes & clothing | Available from the start. | Available until the Modern Age. |
 | geta sandals | 1 | wood | shoes & clothing | Requires  24 Industrial, 38 Medical research points. | Available until the Modern Age. |
 | expressive wearable wood mask | 3 | wood | shoes & clothing | Available from the start. | Available until the Middle Ages. |
@@ -1675,70 +1585,166 @@ Exported on 7 December 2021 - [Commit 9126](https://github.com/Civ13/Civ13/commi
 | tiki torch | 5 | wood | kitchen | Available from the start. | Available until the Modern Age. |
 | wood bowl | 1 | wood | kitchen | Available from the start. | Available until the Modern Age. |
 | wood pipe | 2 | wood | kitchen | Requires  19 Industrial research points. | Available until the Modern Age. |
-| barrel | 5 | wood | kitchen | Requires  19 Industrial research points. | Available until the Modern Age. |
-| cutting board | 5 | wood | kitchen | Requires  20 Industrial research points. | Available until the Modern Age. |
-| paper cup | 1 | wood | kitchen | Requires  105 Industrial research points. | Available until the Modern Age. |
-| gong | 5 | wood | entertainment & other | Requires  26 Industrial research points. | Available until the Modern Age. |
-| gong mallet | 3 | wood | entertainment & other | Requires  26 Industrial research points. | Available until the Modern Age. |
-| bell stand | 3 | wood | entertainment & other | Requires  40 Industrial research points. | Available until the Modern Age. |
-| cigar case | 2 | wood | entertainment & other | Requires  65 Industrial research points. | Available until the Modern Age. |
-| deck of cards | 2 | wood | entertainment & other | Requires  65 Industrial research points. | Available until the Modern Age. |
-| matches (x10) | 2 | wood | entertainment & other | Requires  67 Industrial research points. | Available until the Modern Age. |
-| piano | 18 | wood | entertainment & other | Requires  45 Industrial research points. | Available until the Modern Age. |
-| violin | 10 | wood | entertainment & other | Requires  50 Industrial research points. | Available until the Modern Age. |
-| research kit | 10 | wood | paper & printing | Available from the start. | Available until the Modern Age. |
-| scientific literature | 4 | wood | paper & printing | Available from the start. | Available until the Modern Age. |
-| language book | 10 | wood | paper & printing | Available from the start. | Available until the Modern Age. |
-| holy book | 15 | wood | paper & printing | Available from the start. | Available until the Modern Age. |
-| visa (empty) | 1 | wood | paper & printing | Requires  19 Industrial research points. | Available until the Modern Age. |
-| passport | 3 | wood | paper & printing | Requires  19 Industrial research points. | Available until the Modern Age. |
-| pen | 1 | wood | paper & printing | Requires  19 Industrial research points. | Available until the Modern Age. |
-| paper sheet | 1 | wood | paper & printing | Requires  19 Industrial research points. | Available until the Modern Age. |
-| official faction paper | 1 | wood | paper & printing | Requires  19 Industrial research points. | Available until the Modern Age. |
-| envelope | 2 | wood | paper & printing | Requires  40 Industrial research points. | Available until the Modern Age. |
-| envelope seal stamp | 1 | wood | paper & printing | Requires  40 Industrial research points. | Available until the Modern Age. |
-| wax seal stamp | 1 | wood | paper & printing | Requires  40 Industrial research points. | Available until the Modern Age. |
-| book | 4 | wood | paper & printing | Requires  45 Industrial research points. | Available until the Modern Age. |
-| grey folder | 1 | wood | paper & printing | Requires  120 Industrial research points. | Available until the Modern Age. |
-| yellow folder | 1 | wood | paper & printing | Requires  120 Industrial research points. | Available until the Modern Age. |
-| red folder | 1 | wood | paper & printing | Requires  120 Industrial research points. | Available until the Modern Age. |
-| photo album | 5 | wood | paper & printing | Requires  95 Industrial research points. | Available until the Modern Age. |
-| religious poster | 1 | wood | paper & printing | Requires  19 Industrial research points. | Available until the Modern Age. |
-| military propaganda poster (flag) | 1 | wood | paper & printing | Requires  19 Industrial research points. | Available until the Modern Age. |
-| military propaganda poster (armed) | 1 | wood | paper & printing | Requires  19 Industrial research points. | Available until the Modern Age. |
-| work propaganda poster | 1 | wood | paper & printing | Requires  19 Industrial research points. | Available until the Modern Age. |
-| leader propaganda poster | 1 | wood | paper & printing | Requires  19 Industrial research points. | Available until the Modern Age. |
-| notice board | 12 | wood | paper & printing | Requires  50 Industrial research points. | Available until the Modern Age. |
-| printing press | 12 | wood | paper & printing | Requires  52 Industrial research points. | Available until the Modern Age. |
-| clipboard | 5 | wood | paper & printing | Requires  125 Industrial research points. | Available until the Modern Age. |
-| large blue stamp | 1 | wood | paper & printing | Requires  103 Industrial research points. | Available until the Modern Age. |
-| DENIED stamp | 1 | wood | paper & printing | Requires  103 Industrial research points. | Available until the Modern Age. |
-| APPROVED stamp | 1 | wood | paper & printing | Requires  103 Industrial research points. | Available until the Modern Age. |
-| silly stamp | 1 | wood | paper & printing | Requires  103 Industrial research points. | Available until the Modern Age. |
-| red stamp | 1 | wood | paper & printing | Requires  103 Industrial research points. | Available until the Modern Age. |
-| blue stamp | 1 | wood | paper & printing | Requires  103 Industrial research points. | Available until the Modern Age. |
-| dark red stamp | 1 | wood | paper & printing | Requires  103 Industrial research points. | Available until the Modern Age. |
-| yellow stamp | 1 | wood | paper & printing | Requires  103 Industrial research points. | Available until the Modern Age. |
-| catapult | 50 | wood | siege weapons | Requires  24 Industrial, 33 Military research points. | Available until the Industrial Age. |
 | siege ladder | 8 | wood | siege weapons | Requires  24 Industrial, 33 Military research points. | Available until the Modern Age. |
 | wooden foot | 3 | wood | medical | Requires  18 Medical research points. | Available until the Modern Age. |
 | wooden pegleg | 5 | wood | medical | Requires  18 Medical research points. | Available until the Modern Age. |
-| doctor handbook | 12 | wood | medical | Requires  33 Industrial, 48 Medical research points. | Available until the Modern Age. |
-| stormy sea | 3 | wood | paintings | Requires  65 Industrial research points. | Available until the Modern Age. |
-| city street | 3 | wood | paintings | Requires  65 Industrial research points. | Available until the Modern Age. |
-| sea sunset | 3 | wood | paintings | Requires  65 Industrial research points. | Available until the Modern Age. |
-| valley | 3 | wood | paintings | Requires  65 Industrial research points. | Available until the Modern Age. |
-| still life | 3 | wood | paintings | Requires  65 Industrial research points. | Available until the Modern Age. |
-| bird and blossom | 3 | wood | paintings | Requires  65 Industrial research points. | Available until the Modern Age. |
-| pine on the shore | 3 | wood | paintings | Requires  65 Industrial research points. | Available until the Modern Age. |
-| temple by the river | 3 | wood | paintings | Requires  65 Industrial research points. | Available until the Modern Age. |
-| desert camp | 3 | wood | paintings | Requires  65 Industrial research points. | Available until the Modern Age. |
-| barque at sea | 3 | wood | paintings | Requires  65 Industrial research points. | Available until the Modern Age. |
-| gallows | 3 | wood | punishments | Requires  15 Military research points. | Available until the Modern Age. |
-| greek cross | 10 | wood | punishments | Requires  20 Military research points. | Available until the Modern Age. |
-| tau cross | 10 | wood | punishments | Requires  20 Military research points. | Available until the Modern Age. |
-| pillory | 8 | wood | punishments | Requires  32 Military research points. | Available until the Modern Age. |
+| primitive sawmill | 28 | wood | economy & production | Requires  15 Industrial research points. | Available until the Modern Age. |
 
+## woodplank
+| Item | Cost| Material | Category | Research Needed | Available Until |
+| -------- | ---- | ---------- | -------- | ------------------------- | ------------------------------- |
+| wooden cart | 40 | woodplank | logistics | Requires  20 Industrial research points. | Available until the Modern Age. |
+| bathtub | 50 | woodplank | hygiene | Requires  10 Industrial, 5 Medical research points. | Available until the Stone Age. |
+| wooden public bathtub | 100 | woodplank | hygiene | Requires  45 Industrial, 30 Medical research points. | Available until the Bronze Age. |
+| mining cart | 10 | woodplank | trains | Requires  93 Industrial research points. | Available until the Modern Age. |
+| carriage | 50 | woodplank | vehicle parts | Requires  22 Industrial research points. | Available until the Modern Age. |
+| outrigger boat frame | 22 | woodplank | vehicle parts | Requires  22 Industrial research points. | Available until the Modern Age. |
+| wood vehicle frame | 2 | woodplank | vehicle parts | Requires  126 Industrial research points. | Available until the Modern Age. |
+| wood ship frame | 4 | woodplank | vehicle parts | Requires  41 Industrial research points. | Available until the Modern Age. |
+| ship rudder axis (2500 weight) | 45 | woodplank | vehicle parts | Requires  55 Industrial research points. | Available until the Modern Age. |
+| light ship rudder axis (1200 weight) | 25 | woodplank | vehicle parts | Requires  41 Industrial research points. | Available until the Modern Age. |
+| ship rudder control | 10 | woodplank | vehicle parts | Requires  41 Industrial research points. | Available until the Modern Age. |
+| ship mast | 15 | woodplank | vehicle parts | Requires  41 Industrial research points. | Available until the Modern Age. |
+| research desk | 8 | woodplank | economy & production | Available from the start. | Available until the Modern Age. |
+| salting container | 6 | woodplank | economy & production | Requires  18 Medical research points. | Available until the Modern Age. |
+| small mill | 4 | woodplank | economy & production | Requires  19 Industrial research points. | Available until the Modern Age. |
+| loom | 8 | woodplank | economy & production | Requires  19 Industrial research points. | Available until the Modern Age. |
+| retting trough | 8 | woodplank | economy & production | Requires  19 Industrial research points. | Available until the Modern Age. |
+| compost bin | 10 | woodplank | economy & production | Requires  35 Industrial research points. | Available until the Modern Age. |
+| oil well | 40 | woodplank | economy & production | Requires  105 Industrial research points. | Available until the Modern Age. |
+| oil deposit | 6 | woodplank | economy & production | Requires  105 Industrial research points. | Available until the Modern Age. |
+| gunsmithing bench | 13 | woodplank | economy & production | Requires  118 Industrial research points. | Available until the Modern Age. |
+| ethanol distillery | 15 | woodplank | economy & production | Requires  45 Industrial research points. | Available until the Modern Age. |
+| large sawmill | 100 | woodplank | economy & production | Requires  45 Industrial research points. | Available until the Modern Age. |
+| powered sawmill | 200 | woodplank | economy & production | Requires  100 Industrial research points. | Available until the Modern Age. |
+| market stall | 25 | woodplank | economy & production | Requires  24 Industrial research points. | Available until the Modern Age. |
+| supply stall | 25 | woodplank | economy & production | Requires  24 Industrial research points. | Available until the Modern Age. |
+| stock market | 25 | woodplank | economy & production | Requires  24 Industrial research points. | Available until the Modern Age. |
+| wall frame | 1 | woodplank | construction | Requires  35 Industrial research points. | Available until the Modern Age. |
+| wood roof builder | 1 | woodplank | construction | Available from the start. | Available until the Modern Age. |
+| door | 5 | woodplank | construction | Requires  18 Industrial research points. | Available until the Modern Age. |
+| large wood double doors | 5 | woodplank | construction | Requires  18 Industrial research points. | Available until the Modern Age. |
+| wooden privacy door | 10 | woodplank | construction | Requires  47 Industrial research points. | Available until the Modern Age. |
+| wooden house door | 5 | woodplank | construction | Requires  82 Industrial research points. | Available until the Modern Age. |
+| floor cover | 2 | woodplank | construction | Available from the start. | Available until the Modern Age. |
+| wood floor | 1 | woodplank | construction | Requires  18 Industrial research points. | Available until the Modern Age. |
+| wood stairs | 2 | woodplank | construction | Requires  18 Industrial research points. | Available until the Modern Age. |
+| fancy wood floor | 1.5 | woodplank | construction | Requires  42 Industrial research points. | Available until the Modern Age. |
+| window | 5 | woodplank | construction | Requires  18 Industrial research points. | Available until the Modern Age. |
+| custom wood sign | 3 | woodplank | construction | Requires  25 Industrial research points. | Available until the Modern Age. |
+| custom metallic sign | 4 | woodplank | construction | Requires  35 Industrial research points. | Available until the Modern Age. |
+| custom golden sign | 6 | woodplank | construction | Requires  35 Industrial research points. | Available until the Modern Age. |
+| signpost | 4 | woodplank | construction | Available from the start. | Available until the Modern Age. |
+| wood jail bars | 8 | woodplank | construction | Requires  55 Industrial research points. | Available until the Modern Age. |
+| locked wood jail door | 12 | woodplank | construction | Requires  55 Industrial research points. | Available until the Modern Age. |
+| horizontal wood barrier | 5 | woodplank | barricades | Available from the start. | Available until the Modern Age. |
+| vertical wood barrier | 5 | woodplank | barricades | Available from the start. | Available until the Modern Age. |
+| picket wood fence | 3 | woodplank | barricades | Requires  30 Industrial research points. | Available until the Modern Age. |
+| picket wood fence door | 3 | woodplank | barricades | Requires  30 Industrial research points. | Available until the Modern Age. |
+| wood structure | 5 | woodplank | barricades | Available from the start. | Available until the Modern Age. |
+| outhouse | 35 | woodplank | hygiene | Requires  45 Medical research points. | Available until the Modern Age. |
+| male outhouse | 35 | woodplank | hygiene | Requires  45 Medical research points. | Available until the Modern Age. |
+| female outhouse | 35 | woodplank | hygiene | Requires  45 Medical research points. | Available until the Modern Age. |
+| crossbow | 12 | woodplank | weapons | Requires  45 Military research points. | Available until the Modern Age. |
+| compound bow | 8 | woodplank | weapons | Requires  175 Military research points. | Available until the Modern Age. |
+| bolt shaft (x3) | 1 | woodplank | weapons | Requires  45 Military research points. | Available until the Modern Age. |
+| wood handle | 1 | woodplank | tools | Available from the start. | Available until the Modern Age. |
+| wood cane | 2 | woodplank | tools | Available from the start. | Available until the Modern Age. |
+| plough | 4 | woodplank | tools | Available from the start. | Available until the Modern Age. |
+| fishing pole | 3 | woodplank | tools | Available from the start. | Available until the Modern Age. |
+| mop | 2 | woodplank | tools | Requires  22 Industrial research points. | Available until the Modern Age. |
+| rollingpin | 1 | woodplank | tools | Requires  22 Industrial research points. | Available until the Modern Age. |
+| bucket | 2 | woodplank | tools | Available from the start. | Available until the Modern Age. |
+| fishing cage | 12 | woodplank | tools | Requires  12 Industrial, 12 Medical research points. | Available until the Modern Age. |
+| wearable sign | 2.5 | woodplank | tools | Available from the start. | Available until the Modern Age. |
+| ballot box | 8 | woodplank | furniture | Requires  25 Industrial research points. | Available until the Modern Age. |
+| wood pole | 2 | woodplank | furniture | Available from the start. | Available until the Modern Age. |
+| bed | 4 | woodplank | furniture | Available from the start. | Available until the Modern Age. |
+| wood crate | 5 | woodplank | furniture | Available from the start. | Available until the Modern Age. |
+| bookcase | 6 | woodplank | furniture | Requires  14 Industrial research points. | Available until the Modern Age. |
+| chair | 4 | woodplank | furniture | Requires  14 Industrial research points. | Available until the Modern Age. |
+| wood chest | 7 | woodplank | furniture | Requires  14 Industrial research points. | Available until the Modern Age. |
+| large barrel | 16 | woodplank | furniture | Requires  19 Industrial research points. | Available until the Modern Age. |
+| wood mailbox | 3 | woodplank | furniture | Requires  40 Industrial research points. | Available until the Modern Age. |
+| padded chair | 6 | woodplank | furniture | Requires  40 Industrial research points. | Available until the Modern Age. |
+| wing backed chair | 6 | woodplank | furniture | Requires  40 Industrial research points. | Available until the Modern Age. |
+| coffin | 4 | woodplank | furniture | Requires  41 Industrial research points. | Available until the Modern Age. |
+| wardrobe | 5 | woodplank | furniture | Requires  41 Industrial research points. | Available until the Modern Age. |
+| cabinet | 4 | woodplank | furniture | Requires  41 Industrial research points. | Available until the Modern Age. |
+| grandfather clock | 9 | woodplank | furniture | Requires  42 Industrial research points. | Available until the Modern Age. |
+| wooden rifle rack | 8 | woodplank | storage | Requires  75 Military research points. | Available until the Modern Age. |
+| poker table | 7 | woodplank | furniture | Requires  95 Industrial research points. | Available until the Modern Age. |
+| modern table | 7 | woodplank | furniture | Requires  95 Industrial research points. | Available until the Modern Age. |
+| fancy table | 7 | woodplank | furniture | Requires  95 Industrial research points. | Available until the Modern Age. |
+| coatrack | 3 | woodplank | furniture | Requires  95 Industrial research points. | Available until the Modern Age. |
+| shell rack | 6 | woodplank | furniture | Requires  80 Industrial, 105 Military research points. | Available until the Modern Age. |
+| large crate | 8 | woodplank | furniture | Requires  95 Industrial research points. | Available until the Modern Age. |
+| military crate | 5 | woodplank | furniture | Requires  105 Industrial research points. | Available until the Modern Age. |
+| standing clock | 6 | woodplank | furniture | Requires  110 Industrial research points. | Available until the Modern Age. |
+| wood altar | 20 | woodplank | religious & decoration | Available from the start. | Available until the Modern Age. |
+| cross | 4 | woodplank | religious & decoration | Requires  47 Industrial research points. | Available until the Modern Age. |
+| small cross | 2 | woodplank | religious & decoration | Requires  47 Industrial research points. | Available until the Modern Age. |
+| monumental crucero cross | 45 | woodplank | religious & decoration | Requires  32 Industrial research points. | Available until the Modern Age. |
+| barrel | 5 | woodplank | kitchen | Requires  19 Industrial research points. | Available until the Modern Age. |
+| cutting board | 5 | woodplank | kitchen | Requires  20 Industrial research points. | Available until the Modern Age. |
+| paper cup | 1 | woodplank | kitchen | Requires  105 Industrial research points. | Available until the Modern Age. |
+| gong | 5 | woodplank | entertainment & other | Requires  26 Industrial research points. | Available until the Modern Age. |
+| gong mallet | 3 | woodplank | entertainment & other | Requires  26 Industrial research points. | Available until the Modern Age. |
+| bell stand | 3 | woodplank | entertainment & other | Requires  40 Industrial research points. | Available until the Modern Age. |
+| cigar case | 2 | woodplank | entertainment & other | Requires  65 Industrial research points. | Available until the Modern Age. |
+| deck of cards | 2 | woodplank | entertainment & other | Requires  65 Industrial research points. | Available until the Modern Age. |
+| matches (x10) | 2 | woodplank | entertainment & other | Requires  67 Industrial research points. | Available until the Modern Age. |
+| piano | 18 | woodplank | entertainment & other | Requires  45 Industrial research points. | Available until the Modern Age. |
+| violin | 10 | woodplank | entertainment & other | Requires  50 Industrial research points. | Available until the Modern Age. |
+| research kit | 10 | woodplank | paper & printing | Available from the start. | Available until the Modern Age. |
+| scientific literature | 4 | woodplank | paper & printing | Available from the start. | Available until the Modern Age. |
+| language book | 10 | woodplank | paper & printing | Available from the start. | Available until the Modern Age. |
+| holy book | 15 | woodplank | paper & printing | Available from the start. | Available until the Modern Age. |
+| visa (empty) | 1 | woodplank | paper & printing | Requires  19 Industrial research points. | Available until the Modern Age. |
+| passport | 3 | woodplank | paper & printing | Requires  19 Industrial research points. | Available until the Modern Age. |
+| pen | 1 | woodplank | paper & printing | Requires  19 Industrial research points. | Available until the Modern Age. |
+| paper sheet | 1 | woodplank | paper & printing | Requires  19 Industrial research points. | Available until the Modern Age. |
+| official faction paper | 1 | woodplank | paper & printing | Requires  19 Industrial research points. | Available until the Modern Age. |
+| envelope | 2 | woodplank | paper & printing | Requires  40 Industrial research points. | Available until the Modern Age. |
+| envelope seal stamp | 1 | woodplank | paper & printing | Requires  40 Industrial research points. | Available until the Modern Age. |
+| wax seal stamp | 1 | woodplank | paper & printing | Requires  40 Industrial research points. | Available until the Modern Age. |
+| book | 4 | woodplank | paper & printing | Requires  45 Industrial research points. | Available until the Modern Age. |
+| grey folder | 1 | woodplank | paper & printing | Requires  120 Industrial research points. | Available until the Modern Age. |
+| yellow folder | 1 | woodplank | paper & printing | Requires  120 Industrial research points. | Available until the Modern Age. |
+| red folder | 1 | woodplank | paper & printing | Requires  120 Industrial research points. | Available until the Modern Age. |
+| photo album | 5 | woodplank | paper & printing | Requires  95 Industrial research points. | Available until the Modern Age. |
+| religious poster | 1 | woodplank | paper & printing | Requires  19 Industrial research points. | Available until the Modern Age. |
+| military propaganda poster (flag) | 1 | woodplank | paper & printing | Requires  19 Industrial research points. | Available until the Modern Age. |
+| military propaganda poster (armed) | 1 | woodplank | paper & printing | Requires  19 Industrial research points. | Available until the Modern Age. |
+| work propaganda poster | 1 | woodplank | paper & printing | Requires  19 Industrial research points. | Available until the Modern Age. |
+| leader propaganda poster | 1 | woodplank | paper & printing | Requires  19 Industrial research points. | Available until the Modern Age. |
+| notice board | 12 | woodplank | paper & printing | Requires  50 Industrial research points. | Available until the Modern Age. |
+| printing press | 12 | woodplank | paper & printing | Requires  52 Industrial research points. | Available until the Modern Age. |
+| clipboard | 5 | woodplank | paper & printing | Requires  125 Industrial research points. | Available until the Modern Age. |
+| large blue stamp | 1 | woodplank | paper & printing | Requires  103 Industrial research points. | Available until the Modern Age. |
+| DENIED stamp | 1 | woodplank | paper & printing | Requires  103 Industrial research points. | Available until the Modern Age. |
+| APPROVED stamp | 1 | woodplank | paper & printing | Requires  103 Industrial research points. | Available until the Modern Age. |
+| silly stamp | 1 | woodplank | paper & printing | Requires  103 Industrial research points. | Available until the Modern Age. |
+| red stamp | 1 | woodplank | paper & printing | Requires  103 Industrial research points. | Available until the Modern Age. |
+| blue stamp | 1 | woodplank | paper & printing | Requires  103 Industrial research points. | Available until the Modern Age. |
+| dark red stamp | 1 | woodplank | paper & printing | Requires  103 Industrial research points. | Available until the Modern Age. |
+| yellow stamp | 1 | woodplank | paper & printing | Requires  103 Industrial research points. | Available until the Modern Age. |
+| catapult | 50 | woodplank | siege weapons | Requires  24 Industrial, 33 Military research points. | Available until the Industrial Age. |
+| doctor handbook | 12 | woodplank | medical | Requires  33 Industrial, 48 Medical research points. | Available until the Modern Age. |
+| stormy sea | 3 | woodplank | paintings | Requires  65 Industrial research points. | Available until the Modern Age. |
+| city street | 3 | woodplank | paintings | Requires  65 Industrial research points. | Available until the Modern Age. |
+| sea sunset | 3 | woodplank | paintings | Requires  65 Industrial research points. | Available until the Modern Age. |
+| valley | 3 | woodplank | paintings | Requires  65 Industrial research points. | Available until the Modern Age. |
+| still life | 3 | woodplank | paintings | Requires  65 Industrial research points. | Available until the Modern Age. |
+| bird and blossom | 3 | woodplank | paintings | Requires  65 Industrial research points. | Available until the Modern Age. |
+| pine on the shore | 3 | woodplank | paintings | Requires  65 Industrial research points. | Available until the Modern Age. |
+| temple by the river | 3 | woodplank | paintings | Requires  65 Industrial research points. | Available until the Modern Age. |
+| desert camp | 3 | woodplank | paintings | Requires  65 Industrial research points. | Available until the Modern Age. |
+| barque at sea | 3 | woodplank | paintings | Requires  65 Industrial research points. | Available until the Modern Age. |
+| gallows | 3 | woodplank | punishments | Requires  15 Military research points. | Available until the Modern Age. |
+| greek cross | 10 | woodplank | punishments | Requires  20 Military research points. | Available until the Modern Age. |
+| tau cross | 10 | woodplank | punishments | Requires  20 Military research points. | Available until the Modern Age. |
+| pillory | 8 | woodplank | punishments | Requires  32 Military research points. | Available until the Modern Age. |
 
 ## woolcloth
 
