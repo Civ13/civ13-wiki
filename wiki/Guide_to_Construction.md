@@ -179,9 +179,10 @@ designs. To build, construct a wall frame first, then click it with clay and cho
 <tbody>
 <tr>
 <td><img src="assets/images/wall_medieval.png">&emsp;
+</td>
 </tr>
 <tr>
-<td><b>All</b></td>
+<td><b>Adaptive</b></td>
 </tr>
 </tbody>
 </table>
