@@ -1499,7 +1499,7 @@ Exported on 26 March 2024 - [Commit 15876](https://github.com/Civ13/Civ13/commit
 | wooden foot                   | 3    | wood     | medical                | Requires 18 Medical research points.                            | Available until the Modern Age.       |
 | wooden pegleg                 | 5    | wood     | medical                | Requires 18 Medical research points.                            | Available until the Modern Age.       |
 
-## woodsoft
+## woodplank
 
 | Item                                 | Cost | Material | Category               | Research Needed                                       | Available Until                     |
 | ------------------------------------ | ---- | -------- | ---------------------- | ----------------------------------------------------- | ----------------------------------- |
