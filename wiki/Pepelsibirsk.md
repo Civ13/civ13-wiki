@@ -455,3 +455,42 @@ The Chairman of the Supreme Soviet is elected from the membership of the Supreme
 
 **Article 22**  
 Elections are mandatory after the vacancy of a majority of the seats in the Supreme Soviet. Elections may additionally called by decision of the Supreme Soviet, or its Chairman.
+
+### Constitution of the Republic of Pepelsibirsk
+
+**Article 1**  
+The Republic of Pepelsibirsk, henceforth referred to as Pepelsibirsk, is a republic founded on the principle of popular sovereignty.
+
+**Article 2**  
+All power in Pepelsibirsk is held by the people, expressed through popular elections for President.
+
+**Article 3**  
+The Armed Forces of Pepelsibirsk, henceforth referred to as the Army, is formed for the protection of the state and its people.
+
+**Article 4**  
+All citizens of Pepelsibirsk are eligible for conscription into the Army.
+
+**Article 5**  
+Citizenship in Pepelsibirsk is granted to all working residents of the city of Pepelsibirsk.
+
+**Article 6**  
+All citizens of the Pepelsibirsk SSR have the right to:
+- Vote, using a secret ballot, for the President.
+- Expression, of all personal beliefs.
+- Housing, in a building assigned by the State.
+- Security, including protection from crime.
+- Education, including full literacy.
+
+**Article 7**  
+All candidates for election to the position of President must be a citizen of Pepelsibirsk at least 18 years of age.
+
+**Article 8**  
+There are three ministries:
+- The Ministry of Defence, charged with commanding the Army.
+- The Ministry of Internal Affairs, charged with maintaining public order.
+- The Ministry of Economics, charged with managing the economy.
+
+The ministers of these ministries are appointed by the President.
+
+**Article 9** 
+Elections are to be called every 10 years, or upon the order of the President.
