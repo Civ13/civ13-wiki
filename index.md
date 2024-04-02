@@ -89,6 +89,8 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 
 <img src="assets/images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="The_Art_of_the_Deal">Art of the Deal</a><br>
 
+<img src="assets/images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="Pepelsibirsk">Pepelsibirsk</a><br>
+
 <img src="assets/images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="Wasteland">Wasteland</a><br>
 
 <img src="assets/images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Alleyway">Alleyway</a><br>
