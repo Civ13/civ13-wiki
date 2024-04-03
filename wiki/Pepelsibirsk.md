@@ -123,7 +123,7 @@ In the library located to the far east of the city - near the prison - there are
 - The Conquest of Bread, a major book on anarcho-communist political theory.
 
 # Achievements
-Achieving certain things in Pepelsibirsk will grant you achievements, visible by examining your starting passport.
+~~Achieving certain things in Pepelsibirsk will grant you achievements, visible by examining your starting passport.~~ This feature is planned for the future and is not included in the current version of the map.
 
 ---
 
