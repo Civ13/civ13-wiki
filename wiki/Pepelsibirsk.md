@@ -7,13 +7,10 @@ This map has special mechanics and is designed for a specific type of realistic 
 # Special Mechanics
 Pepelsibirsk has several special mechanics to take into consideration.
 
-- Trading: You can buy and sell supplies with both itinerant traders and nearby settlements.
+- Trading: You can buy and sell supplies with both traveling merchants and nearby settlements.
 - Diplomacy: Tied directly into the trading system. Having low relations with other settlements and trader factions will prevent trading and cause... unwanted side-effects.
 - Time: Time actually advances. One season = 1 quarter = 3 months = 1/4th of a year. You can use this to calculate realistic term lengths for political offices, as well as prison sentences and rent. The current date appears as the "Epoch" on the sidebar.
-- Personal documents: These appear on your character at game-start and generate a background for your character to assist with roleplay. They can also store notes by writing on them with a pen, and display your achievements.
-- Achievements: Certain things - easy or hard - will generate achievements, displayed on your personal documents. These persist across rounds.
-- Ordering vehicles: You can order vehicles from other factions using rubles, ranging from a civilian car to a T-72. These are, of course, extremely expensive.
-- Ordering airstrikes: You can buy laser designators for an Su-25 from one of the neighbouring settlements.
+- Personal documents: These appear on your character at game-start and generate a background for your character to assist with roleplay. They can also store notes by writing on them with a pen.
 
 # Politics
 *These are just RP suggestions - feel free to come up with your own system of government. Note, however, that the following wiki is written with the historical system in mind.*
