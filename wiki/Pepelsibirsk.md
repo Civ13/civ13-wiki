@@ -95,7 +95,7 @@ They will periodically send traders.
 Diplomatic relations are naturally raised via trading, and lowered by scams and hostility.
 
 - Purchasing items from a trader or buying/selling imports/exports will increase relations by 0.02 per ruble spent or earned.
-- You can kill visiting traders to make them drop valuable items and money. This will immediately reduce relations by between 10 and 25.
+- You can kill visiting traders to make them drop valuable items. This will immediately reduce relations by between 10 and 25.
 - You can scam Pepelsibirsk-1 and Narodnyygorod out of their money by choosing not to pay for imported goods. This will reduce relations by 0.08 per cost of the crate in rubles.
 
 Relations go from 0 to 100, anything below 25 counting as hostile.
