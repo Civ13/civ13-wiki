@@ -12,6 +12,9 @@ Pepelsibirsk has several special mechanics to take into consideration.
 - Time: Time actually advances. One season = 1 quarter = 3 months = 1/4th of a year. You can use this to calculate realistic term lengths for political offices, as well as prison sentences and rent. The current date appears as the "Epoch" on the sidebar.
 - Personal documents: These appear on your character at game-start and generate a background for your character to assist with roleplay. They can also store notes by writing on them with a pen.
 
+# Map
+<img src="assets/images/pepelsibirsk.png">
+
 # Politics
 *These are just RP suggestions - feel free to come up with your own system of government. Note, however, that the following wiki is written with the historical system in mind.*
 
@@ -152,7 +155,7 @@ It is recommended to copy/paste these into your faction's criminal code, adjusti
 <details>
 <summary><b>HTML</b></summary>
 
-```html
+`
 [H3]Criminal Code of Pepelsibirsk[/H3]
 
 [small]
@@ -195,7 +198,7 @@ It is recommended to copy/paste these into your faction's criminal code, adjusti
 - "Illegal carrying, custody, manufacture, or sale of weapons or explosives", punishable by up to 2 years imprisonment.
 - "The manufacture or sale of poisonous or narcotic substances", punishable by up to 1 year imprisonment.
 [/small]
-```
+`
 </details>
 
 # Economic Planning
@@ -321,7 +324,7 @@ Here are is a set of pre-made decrees/laws to enact should you choose to do so. 
 <details>
 <summary><b>HTML</b></summary>
 
-```html
+`
 [H3]Decree on the Prohibition of Factions[/H3]
 
 [small]
@@ -333,7 +336,7 @@ Here are is a set of pre-made decrees/laws to enact should you choose to do so. 
 6. This decree is valid until further notice.
 [/small]
 
-```
+`
 </details>
 
 ### Decree on Martial Law
@@ -346,7 +349,7 @@ Here are is a set of pre-made decrees/laws to enact should you choose to do so. 
 <details>
 <summary><b>HTML</b></summary>
 
-```html
+`
 [H3]Decree on Martial Law[/H3]
 
 [small]
@@ -357,7 +360,7 @@ Here are is a set of pre-made decrees/laws to enact should you choose to do so. 
 5. This decree is valid until further notice.
 [/small]
 
-```
+`
 </details>
 
 ### Decree on Internal Security
@@ -369,7 +372,7 @@ Here are is a set of pre-made decrees/laws to enact should you choose to do so. 
 <details>
 <summary><b>HTML</b></summary>
 
-```html
+`
 [H3]Decree on Internal Security[/H3]
 
 [small]
@@ -379,7 +382,7 @@ Here are is a set of pre-made decrees/laws to enact should you choose to do so. 
 4. This decree is valid until further notice.
 [/small]
 
-```
+`
 </details>
 
 ### Decree on Soviet Elections
@@ -392,7 +395,7 @@ Here are is a set of pre-made decrees/laws to enact should you choose to do so. 
 <details>
 <summary><b>HTML</b></summary>
 
-```html
+`
 [H3]Decree on Soviet Elections[/H3]
 
 [small]
@@ -403,7 +406,7 @@ Here are is a set of pre-made decrees/laws to enact should you choose to do so. 
 5. This decree is valid until further notice.
 [/small]
 
-```
+`
 </details>
 
 ### Decree on Party Unity
@@ -417,7 +420,7 @@ Here are is a set of pre-made decrees/laws to enact should you choose to do so. 
 <details>
 <summary><b>HTML</b></summary>
 
-```html
+`
 [H3]Decree on Party Unity[/H3]
 
 [small]
@@ -429,7 +432,7 @@ Here are is a set of pre-made decrees/laws to enact should you choose to do so. 
 6. This decree is valid until further notice.
 [/small]
 
-```
+`
 </details>
 
 # Premade Constitutions
@@ -523,7 +526,7 @@ Elections are mandatory after the vacancy of a majority of the seats in the Supr
 <details>
 <summary><b>HTML</b></summary>
 
-```html
+`
 [H3]Constitution of the Pepelsibirsk Soviet Socialist Republic[/H3]
 
 [b]Article 1[/b]
@@ -609,7 +612,7 @@ The ministers of these ministries are appointed by the Supreme Soviet from its o
 [b]Article 22[/b]
 [small]Elections are mandatory after the vacancy of a majority of the seats in the Supreme Soviet. Elections may additionally called by decision of the Supreme Soviet, or its Chairman.[/small]
 
-```
+`
 </details>
 
 ### Constitution of the Republic of Pepelsibirsk
@@ -654,7 +657,7 @@ Elections are to be called every 10 years, or upon the order of the President.
 <details>
 <summary><b>HTML</b></summary>
 
-```html
+`
 [H3]Constitution of the Republic of Pepelsibirsk[/H3]
 
 [b]Article 1[/b]
@@ -693,5 +696,12 @@ The ministers of these ministries are appointed by the President.[/small]
 
 [b]Article 9[/b]
 [small]Elections are to be called every 10 years, or upon the order of the President.[/small]
-```
+`
 </details>
+
+# Lore
+<img src="assets/images/pepelsibirsk_map_new.png">
+
+A map of the world as known to Pepelsibirsk in early 1976. The greyer a part of the map, the less those areas are under a recognizable centralized authority - though these areas are not typically lawless, instead ruled by roving gangs of bandits demanding protection money, small city-states, local councils, military forces engaged in brutal fighting, and disorganized rebels or guerillas fighting against central authority. Flags represent areas that are controlled as a central or federal government, whereas coats of arms represent governments that are highly decentralized and have no clear borders, claimed or unclaimed.
+
+Major conflicts include the recent civil war between the Turkestan Federal Republic and the Turkestan SFSR, the Japanese Civil War between communists and loyalists to the Yamato dynasty, and the Second Chinese Civil War, which began mere days ago after the launch and spectacular success of Project 'National Glory' by the Republic of China/Taiwan.
