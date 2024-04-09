@@ -13,7 +13,7 @@ Pepelsibirsk has several special mechanics to take into consideration.
 - Personal documents: These appear on your character at game-start and generate a background for your character to assist with roleplay. They can also store notes by writing on them with a pen.
 
 # Map
-<img src="assets/images/pepelsibirsk.png">
+<img src="assets/images/Pepelsibirsk.png">
 
 # Politics
 *These are just RP suggestions - feel free to come up with your own system of government. Note, however, that the following wiki is written with the historical system in mind.*
