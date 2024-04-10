@@ -1,5 +1,5 @@
 # The City of Pepelsibirsk
-Welcome to Pepelsibirsk, a humble city in the northern Urals. The weather is cold and drab - certainly no tropical resort!  
+Welcome to Pepelsibirsk, a humble city in the northern Urals. The weather is cold and drab - certainly no tropical resort!
 The year is 1976. The Soviet central government has collapsed following a limited nuclear exchange with the United States. The city must govern itself, trading with neighbouring settlements and remaining military installations to guarantee its continued survival and security.
 
 This map has special mechanics and is designed for a specific type of realistic roleplay, so I would highly recommend reading (or better yet - keeping on-hand) the following guide. It is useful for prospective rulers, government ministers, tyrants, rebels, criminals, businessmen, and even common citizens.
@@ -117,9 +117,9 @@ One in-game season = 3 months.
 - "Using threats or violence toward an official or public worker", punishable by up to 6 months imprisonment.
 - "Willful appropriation of the title or authority of an official", punishable by up to 3 years imprisonment.
 - "Obstructing the execution of an electoral law", punishable by up to 2 years imprisonment, or 1 year of corrective labour.
-  
+
 ---
-  
+
 - "The appropriation of state or public property by means of theft, robbery, assault, embezzlement, or fraud", punishable by 3-15 years of imprisonment.
 - "The willful destruction or damaging of state or public property", punishable by either 1 year of imprisonment (10 years in the case of arson) or a fine of 1000 rubles.
 - "Theft" against a private individual, punishable by between 2 and 10 years imprisonment depending on the criminal record of the offender.
@@ -132,14 +132,14 @@ One in-game season = 3 months.
 - "Hooliganism", punishable by up to 1 year imprisonment or the same time in corrective labour, or a fine not exceeding 500 rubles.
 
 ---
-  
+
 - "The abuse of authority or of official position", punishable by up to 8 years imprisonment.
 - "The taking of bribes", punishable by up to 5 years imprisonment.
 - "The giving of a bribe", punishable by up to 3 years imprisonment, or 1 year of corrective labour.
 - "Unauthorized appropriation of Land and unauthorized construction", punishable by a fine of up to 1000 rubles and 6 months of corrective labour.
 
 ---
-  
+
 - "Escape from place of confinement or from guards", punishable by up to 10 years imprisonment or corrective labour.
 - "Resisting a representative of established government or of society who is performing his duty to keep public order", punishable by up to 3 years imprisonment, 1 year of corrective labour, or a fine not exceeding 600 rubles.
 - "Contumely toward a representative of established government or a representative of society who is performing his duty to keep public order", punishable by up to 1 year of corrective labour or a fine not exceeding 500 rubles.
@@ -155,50 +155,50 @@ It is recommended to copy/paste these into your faction's criminal code, adjusti
 <details>
 <summary><b>HTML</b></summary>
 
-`
-[H3]Criminal Code of Pepelsibirsk[/H3]
+
+[H3]Criminal Code of Pepelsibirsk[/H3]<br>
 
 [small]
----
+---<br>
 
-- "Anti-Soviet agitation and propaganda", punishable by anything between 6 months of imprisonment, to the death penalty, depending on the severity of the offense.
-- "Private entrepreneurial activity and activity as a commercial middlemen", punishable by up to 5 years imprisonment and confiscation or property.
-- "Using threats or violence toward an official or public worker", punishable by up to 6 months imprisonment.
-- "Willful appropriation of the title or authority of an official", punishable by up to 3 years imprisonment.
-- "Obstructing the execution of an electoral law", punishable by up to 2 years imprisonment, or 1 year of corrective labour.
-  
----
+- "Anti-Soviet agitation and propaganda", punishable by anything between 6 months of imprisonment, to the death penalty, depending on the severity of the offense.<br>
+- "Private entrepreneurial activity and activity as a commercial middlemen", punishable by up to 5 years imprisonment and confiscation or property.<br>
+- "Using threats or violence toward an official or public worker", punishable by up to 6 months imprisonment.<br>
+- "Willful appropriation of the title or authority of an official", punishable by up to 3 years imprisonment.<br>
+- "Obstructing the execution of an electoral law", punishable by up to 2 years imprisonment, or 1 year of corrective labour.<br>
 
-- "The appropriation of state or public property by means of theft, robbery, assault, embezzlement, or fraud", punishable by 3-15 years of imprisonment.
-- "The willful destruction or damaging of state or public property", punishable by either 1 year of imprisonment (10 years in the case of arson) or a fine of 1000 rubles.
-- "Theft" against a private individual, punishable by between 2 and 10 years imprisonment depending on the criminal record of the offender.
+---<br>
 
----
+- "The appropriation of state or public property by means of theft, robbery, assault, embezzlement, or fraud", punishable by 3-15 years of imprisonment.<br>
+- "The willful destruction or damaging of state or public property", punishable by either 1 year of imprisonment (10 years in the case of arson) or a fine of 1000 rubles.<br>
+- "Theft" against a private individual, punishable by between 2 and 10 years imprisonment depending on the criminal record of the offender.<br>
 
-- "Premeditated homicide", punishable by up to 10 years imprisonment, increased to the death penalty in the case of recidivism, "venal motives", or hooliganism.
-- "The premeditated infliction of serious bodily injury", punishable by up to 8 years imprisonment.
-- "The premeditated infliction of slight bodily injury, or battery", punishable by up to 1 year imprisonment.
-- "Hooliganism", punishable by up to 1 year imprisonment or the same time in corrective labour, or a fine not exceeding 500 rubles.
+---<br>
 
----
-  
-- "The abuse of authority or of official position", punishable by up to 8 years imprisonment.
-- "The taking of bribes", punishable by up to 5 years imprisonment.
-- "The giving of a bribe", punishable by up to 3 years imprisonment, or 1 year of corrective labour.
-- "Unauthorized appropriation of Land and unauthorized construction", punishable by a fine of up to 1000 rubles and 6 months of corrective labour.
+- "Premeditated homicide", punishable by up to 10 years imprisonment, increased to the death penalty in the case of recidivism, "venal motives", or hooliganism.<br>
+- "The premeditated infliction of serious bodily injury", punishable by up to 8 years imprisonment.<br>
+- "The premeditated infliction of slight bodily injury, or battery", punishable by up to 1 year imprisonment.<br>
+- "Hooliganism", punishable by up to 1 year imprisonment or the same time in corrective labour, or a fine not exceeding 500 rubles.<br>
 
----
-  
-- "Escape from place of confinement or from guards", punishable by up to 10 years imprisonment or corrective labour.
-- "Resisting a representative of established government or of society who is performing his duty to keep public order", punishable by up to 3 years imprisonment, 1 year of corrective labour, or a fine not exceeding 600 rubles.
-- "Contumely toward a representative of established government or a representative of society who is performing his duty to keep public order", punishable by up to 1 year of corrective labour or a fine not exceeding 500 rubles.
+---<br>
 
----
+- "The abuse of authority or of official position", punishable by up to 8 years imprisonment.<br>
+- "The taking of bribes", punishable by up to 5 years imprisonment.<br>
+- "The giving of a bribe", punishable by up to 3 years imprisonment, or 1 year of corrective labour.<br>
+- "Unauthorized appropriation of Land and unauthorized construction", punishable by a fine of up to 1000 rubles and 6 months of corrective labour.<br>
 
-- "Illegal carrying, custody, manufacture, or sale of weapons or explosives", punishable by up to 2 years imprisonment.
-- "The manufacture or sale of poisonous or narcotic substances", punishable by up to 1 year imprisonment.
-[/small]
-`
+---<br>
+
+- "Escape from place of confinement or from guards", punishable by up to 10 years imprisonment or corrective labour.<br>
+- "Resisting a representative of established government or of society who is performing his duty to keep public order", punishable by up to 3 years imprisonment, 1 year of corrective labour, or a fine not exceeding 600 rubles.<br>
+- "Contumely toward a representative of established government or a representative of society who is performing his duty to keep public order", punishable by up to 1 year of corrective labour or a fine not exceeding 500 rubles.<br>
+
+---<br>
+
+- "Illegal carrying, custody, manufacture, or sale of weapons or explosives", punishable by up to 2 years imprisonment.<br>
+- "The manufacture or sale of poisonous or narcotic substances", punishable by up to 1 year imprisonment.<br>
+[/small]<br>
+
 </details>
 
 # Economic Planning
@@ -229,7 +229,7 @@ Most important buildings have a telephone.
 - Emergency Services: 911
 
 ### Factories, Farms, Infrastructure, and Mines
-  
+
 - Car Factory: 3331
 - Pepelsibirsk Power Plant: 3332
 - Collective Farm: 3333
@@ -324,19 +324,19 @@ Here are is a set of pre-made decrees/laws to enact should you choose to do so. 
 <details>
 <summary><b>HTML</b></summary>
 
-`
-[H3]Decree on the Prohibition of Factions[/H3]
 
-[small]
-1. Due to current circumstances, unity within the Party must be maintained.
-2. Factionalism within the Party may pose a danger to the proletarian dictatorship.
-3. The Central Committee of the Communist Party henceforth declares all factions within the Party to be dissolved.
-4. Legitimate criticisms of the Party's actions/policies must be delivered without delay, in the most precise form possible, to the relevant authorities.
-5. Failure to follow this decree will result in immediate expulsion from the Party and all relevant administrative offices.
-6. This decree is valid until further notice.
-[/small]
+[H3]Decree on the Prohibition of Factions[/H3]<br>
 
-`
+[small]<br>
+1. Due to current circumstances, unity within the Party must be maintained.<br>
+2. Factionalism within the Party may pose a danger to the proletarian dictatorship.<br>
+3. The Central Committee of the Communist Party henceforth declares all factions within the Party to be dissolved.<br>
+4. Legitimate criticisms of the Party's actions/policies must be delivered without delay, in the most precise form possible, to the relevant authorities.<br>
+5. Failure to follow this decree will result in immediate expulsion from the Party and all relevant administrative offices.<br>
+6. This decree is valid until further notice.<br>
+[/small]<br>
+
+
 </details>
 
 ### Decree on Martial Law
@@ -349,18 +349,18 @@ Here are is a set of pre-made decrees/laws to enact should you choose to do so. 
 <details>
 <summary><b>HTML</b></summary>
 
-`
-[H3]Decree on Martial Law[/H3]
 
-[small]
-1. All civil liberties are suspended.
-2. Activity by the Ministry of Internal Affairs is to be suspended and all duties and personnel transferred to the Ministry of Defense.
-3. Discretionary power with regards to law enforcement and legal sentencing is granted to the Ministry of Defense.
-4. Failure to follow subsequent instructions by the State or state organs will result in legal punishment.
-5. This decree is valid until further notice.
-[/small]
+[H3]Decree on Martial Law[/H3]<br>
 
-`
+[small]<br>
+1. All civil liberties are suspended.<br>
+2. Activity by the Ministry of Internal Affairs is to be suspended and all duties and personnel transferred to the Ministry of Defense.<br>
+3. Discretionary power with regards to law enforcement and legal sentencing is granted to the Ministry of Defense.<br>
+4. Failure to follow subsequent instructions by the State or state organs will result in legal punishment.<br>
+5. This decree is valid until further notice.<br>
+[/small]<br>
+
+
 </details>
 
 ### Decree on Internal Security
@@ -372,17 +372,16 @@ Here are is a set of pre-made decrees/laws to enact should you choose to do so. 
 <details>
 <summary><b>HTML</b></summary>
 
-`
-[H3]Decree on Internal Security[/H3]
 
-[small]
-1. The Ministry of Internal Affairs and its personnel are henceforth granted legal immunity to prosecution, subject to removal by the Central Committee on an individual basis.
-2. The Ministry of Internal Affairs is granted discretionary authority with regards to law enforcement and legal sentencing for the purpose of defending the proletarian dictatorship.
-3. The Ministry of Internal Affairs may preemptively revoke the civil liberties of specific individuals suspected of anti-Soviet agitation.
-4. This decree is valid until further notice.
-[/small]
+[H3]Decree on Internal Security[/H3]<br>
 
-`
+[small]<br>
+1. The Ministry of Internal Affairs and its personnel are henceforth granted legal immunity to prosecution, subject to removal by the Central Committee on an individual basis.<br>
+2. The Ministry of Internal Affairs is granted discretionary authority with regards to law enforcement and legal sentencing for the purpose of defending the proletarian dictatorship.<br>
+3. The Ministry of Internal Affairs may preemptively revoke the civil liberties of specific individuals suspected of anti-Soviet agitation.<br>
+4. This decree is valid until further notice.<br>
+[/small]<br>
+
 </details>
 
 ### Decree on Soviet Elections
@@ -395,18 +394,18 @@ Here are is a set of pre-made decrees/laws to enact should you choose to do so. 
 <details>
 <summary><b>HTML</b></summary>
 
-`
-[H3]Decree on Soviet Elections[/H3]
 
-[small]
-1. In accordance with the principle of workplace democracy, delegates to the Supreme Soviet are to be elected in every farm, factory, and barracks, using a universal and secret vote.
-2. Delegates to the Supreme Soviet must be members of the Communist Party, and approved by the Supreme Soviet.
-3. Only one candidate may stand in each election; they may be approved or rejected by the electorate. If they are rejected twice, a new candidate will be chosen by the Supreme Soviet.
-4. Elections are to be held immediately after the dissolution of the Supreme Soviet by the Chairman of the Supreme Soviet.
-5. This decree is valid until further notice.
-[/small]
+[H3]Decree on Soviet Elections[/H3]<br>
 
-`
+[small]<br>
+1. In accordance with the principle of workplace democracy, delegates to the Supreme Soviet are to be elected in every farm, factory, and barracks, using a universal and secret vote.<br>
+2. Delegates to the Supreme Soviet must be members of the Communist Party, and approved by the Supreme Soviet.<br>
+3. Only one candidate may stand in each election; they may be approved or rejected by the electorate. If they are rejected twice, a new candidate will be chosen by the Supreme Soviet.<br>
+4. Elections are to be held immediately after the dissolution of the Supreme Soviet by the Chairman of the Supreme Soviet.<br>
+5. This decree is valid until further notice.<br>
+[/small]<br>
+
+
 </details>
 
 ### Decree on Party Unity
@@ -420,19 +419,19 @@ Here are is a set of pre-made decrees/laws to enact should you choose to do so. 
 <details>
 <summary><b>HTML</b></summary>
 
-`
-[H3]Decree on Party Unity[/H3]
 
-[small]
-1. In accordance with the principle of democratic centralism, failure to maintain party discipline in voting is considered anti-Soviet agitation.
-2. All voting on measures in the Supreme Soviet is to be conducted in public and announced immediately to the public.
-3. Constructive internal debate within the party is permitted and encouraged.
-4. Once the party line on a particular subject has been decided by consensus, further discussion of the subject is prohibited.
-5. All members of the Party must work towards the implementation of party policy, without complaint or dissent.
-6. This decree is valid until further notice.
-[/small]
+[H3]Decree on Party Unity[/H3]<br>
 
-`
+[small]<br>
+1. In accordance with the principle of democratic centralism, failure to maintain party discipline in voting is considered anti-Soviet agitation.<br>
+2. All voting on measures in the Supreme Soviet is to be conducted in public and announced immediately to the public.<br>
+3. Constructive internal debate within the party is permitted and encouraged.<br>
+4. Once the party line on a particular subject has been decided by consensus, further discussion of the subject is prohibited.<br>
+5. All members of the Party must work towards the implementation of party policy, without complaint or dissent.<br>
+6. This decree is valid until further notice.<br>
+[/small]<br>
+
+
 </details>
 
 # Premade Constitutions
@@ -526,93 +525,93 @@ Elections are mandatory after the vacancy of a majority of the seats in the Supr
 <details>
 <summary><b>HTML</b></summary>
 
-`
-[H3]Constitution of the Pepelsibirsk Soviet Socialist Republic[/H3]
 
-[b]Article 1[/b]
-[small]The Pepelsibirsk Soviet Socialist Republic, henceforth referred to as the Pepelsibirsk SSR, is a socialist state, founded on the ideology of Marxism-Leninism, and the advancement of the working class.[/small]
+[H3]Constitution of the Pepelsibirsk Soviet Socialist Republic[/H3]<br>
 
-[b]Article 2[/b]
-[small]All power in the Pepelsibirsk SSR is held by the people, expressed through their elected People's Deputies in the Supreme Soviet.[/small]
+[b]Article 1[/b]<br>
+[small]The Pepelsibirsk Soviet Socialist Republic, henceforth referred to as the Pepelsibirsk SSR, is a socialist state, founded on the ideology of Marxism-Leninism, and the advancement of the working class.[/small]<br>
 
-[b]Article 3[/b]
-[small]The Communist Party of Pepelsibirsk holds a leading role in guiding and developing the Pepelsibirsk SSR. It is the voice of the people's will.[/small]
+[b]Article 2[/b]<br>
+[small]All power in the Pepelsibirsk SSR is held by the people, expressed through their elected People's Deputies in the Supreme Soviet.[/small]<br>
 
-[b]Article 4[/b]
-[small]The official ideology of the Communist Party of Pepelsibirsk is Marxism-Leninism.[/small]
+[b]Article 3[/b]<br>
+[small]The Communist Party of Pepelsibirsk holds a leading role in guiding and developing the Pepelsibirsk SSR. It is the voice of the people's will.[/small]<br>
 
-[b]Article 5[/b]
-[small]Trade unions, labour organizations, and worker cooperatives shall work to benefit the advancement of the people of the Pepelsibirsk SSR.[/small]
+[b]Article 4[/b]<br>
+[small]The official ideology of the Communist Party of Pepelsibirsk is Marxism-Leninism.[/small]<br>
 
-[b]Article 6[/b]
-[small]The Pepelsibirsk SSR operates on the principle of Soviet democracy and Democratic Centralism. Workers shall elect delegates to the Supreme Soviet, as directed by the Communist Party of Pepelsibirsk.[/small]
+[b]Article 5[/b]<br>
+[small]Trade unions, labour organizations, and worker cooperatives shall work to benefit the advancement of the people of the Pepelsibirsk SSR.[/small]<br>
 
-[b]Article 7[/b]
-[small]The economy of the Pepelsibirsk SSR operates on the principle of socialist economic planning, in which all economic activity is managed by the State for the benefit of the working class.[/small]
+[b]Article 6[/b]<br>
+[small]The Pepelsibirsk SSR operates on the principle of Soviet democracy and Democratic Centralism. Workers shall elect delegates to the Supreme Soviet, as directed by the Communist Party of Pepelsibirsk.[/small]<br>
 
-[b]Article 8[/b]
-[small]Private ownership of the means of production is illegal and banned. No one has the right to use their personal property in a selfish or greedy manner. Personal property used in such a manner is forfeit.[/small]
+[b]Article 7[/b]<br>
+[small]The economy of the Pepelsibirsk SSR operates on the principle of socialist economic planning, in which all economic activity is managed by the State for the benefit of the working class.[/small]<br>
 
-[b]Article 9[/b]
-[small]Personal property includes clothing, food (within a reasonable quantity for personal consumption), money, and simple consumer goods. The right to own and cherish one's personal property is protected by the State. Personal property shall not be used in contradiction to Article 8.[/small]
+[b]Article 8[/b]<br>
+[small]Private ownership of the means of production is illegal and banned. No one has the right to use their personal property in a selfish or greedy manner. Personal property used in such a manner is forfeit.[/small]<br>
 
-[b]Article 10[/b]
-[small]The Armed Forces of the Pepelsibirsk SSR, henceforth referred to as the Red Army, is formed for the protection of the working class, our achievements, and our rights.[/small]
+[b]Article 9[/b]<br>
+[small]Personal property includes clothing, food (within a reasonable quantity for personal consumption), money, and simple consumer goods. The right to own and cherish one's personal property is protected by the State. Personal property shall not be used in contradiction to Article 8.[/small]<br>
 
-[b]Article 11[/b]
-[small]All citizens of the Pepelsibirsk SSR are eligible for conscription into the Red Army.[/small]
+[b]Article 10[/b]<br>
+[small]The Armed Forces of the Pepelsibirsk SSR, henceforth referred to as the Red Army, is formed for the protection of the working class, our achievements, and our rights.[/small]<br>
 
-[b]Article 12[/b]
-[small]The Supreme Soviet is to elect the Presidium of the Supreme Soviet, which operates in-between sessions of the Supreme Soviet and holds all powers of the Supreme Soviet except for the power to make constitutional amendments.[/small]
+[b]Article 11[/b]<br>
+[small]All citizens of the Pepelsibirsk SSR are eligible for conscription into the Red Army.[/small]<br>
 
-[b]Article 13[/b]
-[small]Citizenship in the Pepelsibirsk SSR is granted to all working residents of the city of Pepelsibirsk.[/small]
+[b]Article 12[/b]<br>
+[small]The Supreme Soviet is to elect the Presidium of the Supreme Soviet, which operates in-between sessions of the Supreme Soviet and holds all powers of the Supreme Soviet except for the power to make constitutional amendments.[/small]<br>
 
-[b]Article 14[/b]
-[small]All citizens of the Pepelsibirsk SSR have the right to:
-- Vote, using a secret ballot, for delegates to the Supreme Soviet.
-- Work, for the benefit of society.
-- Expression, of all personal beliefs, excluding those against the constitutional order.
-- Housing, in a building assigned by the State.
-- Healthcare, free of any charge.
-- Security, including protection from crime and anti-constitutional expressions.
-- Education, including full literacy, and knowledge about the socialist system.
-- Act in a manner in accordance with civil society and this Constitution.[/small]
+[b]Article 13[/b]<br>
+[small]Citizenship in the Pepelsibirsk SSR is granted to all working residents of the city of Pepelsibirsk.[/small]<br>
 
-[b]Article 15[/b]
-[small]It is the duty of every citizen to perform labour beneficial to society. Evasion of this labour is considered social parasitism and will be punished according to the law.[/small]
+[b]Article 14[/b]<br>
+[small]All citizens of the Pepelsibirsk SSR have the right to:<br>
+- Vote, using a secret ballot, for delegates to the Supreme Soviet.<br>
+- Work, for the benefit of society.<br>
+- Expression, of all personal beliefs, excluding those against the constitutional order.<br>
+- Housing, in a building assigned by the State.<br>
+- Healthcare, free of any charge.<br>
+- Security, including protection from crime and anti-constitutional expressions.<br>
+- Education, including full literacy, and knowledge about the socialist system.<br>
+- Act in a manner in accordance with civil society and this Constitution.[/small]<br>
 
-[b]Article 16[/b]
-[small]All candidates for election to the Supreme Soviet must be a citizen of the Pepelsibirsk SSR, at least 18 years of age, and free of mental illness.[/small]
+[b]Article 15[/b]<br>
+[small]It is the duty of every citizen to perform labour beneficial to society. Evasion of this labour is considered social parasitism and will be punished according to the law.[/small]<br>
 
-[b]Article 17[/b]
-[small]Those who lose eligibility to be a candidate for election to the Supreme Soviet shall lose their seat in the Supreme Soviet.[/small]
+[b]Article 16[/b]<br>
+[small]All candidates for election to the Supreme Soviet must be a citizen of the Pepelsibirsk SSR, at least 18 years of age, and free of mental illness.[/small]<br>
 
-[b]Article 18[/b]
-[small]The following organizations may approve candidates for election to the Supreme Soviet:
-- The Communist Party of Pepelsibirsk
-- The Red Army
-- The United Industrial-Agricultural Workers Union[/small]
+[b]Article 17[/b]<br>
+[small]Those who lose eligibility to be a candidate for election to the Supreme Soviet shall lose their seat in the Supreme Soviet.[/small]<br>
 
-[b]Article 19[/b]
-[small]All industrial and agricultural workers in the Pepelsibirsk SSR are automatically members of the United Industrial-Agricultural Workers Union, whose leader is appointed by the Supreme Soviet.[/small]
+[b]Article 18[/b]<br>
+[small]The following organizations may approve candidates for election to the Supreme Soviet:<br>
+- The Communist Party of Pepelsibirsk<br>
+- The Red Army<br>
+- The United Industrial-Agricultural Workers Union[/small]<br>
 
-[b]Article 20[/b]
-[small]There are four ministries:
-- The Ministry of Defence, charged with commanding the Red Army.
-- The Ministry of Internal Affairs, charged with maintaining public order.
-- The Ministry of Economic Planning, charged with planning and managing the economy.
-- The Ministry of State, charged with keeping order within the government itself. The Minister of State acts as Head of State.
+[b]Article 19[/b]<br>
+[small]All industrial and agricultural workers in the Pepelsibirsk SSR are automatically members of the United Industrial-Agricultural Workers Union, whose leader is appointed by the Supreme Soviet.[/small]<br>
 
-The ministers of these ministries are appointed by the Supreme Soviet from its own membership, and are automatically members of the Presidium of the Supreme Soviet.[/small]
+[b]Article 20[/b]<br>
+[small]There are four ministries:<br>
+- The Ministry of Defence, charged with commanding the Red Army.<br>
+- The Ministry of Internal Affairs, charged with maintaining public order.<br>
+- The Ministry of Economic Planning, charged with planning and managing the economy.<br>
+- The Ministry of State, charged with keeping order within the government itself. The Minister of State acts as Head of State.<br>
 
-[b]Article 21[/b]
-[small]The Chairman of the Supreme Soviet is elected from the membership of the Supreme Soviet, and serves as head of government. They are automatically a member of the Presidium of the Supreme Soviet. The Chairman is subject to the confidence of the Supreme Soviet, and may be removed by a majority vote.[/small]
+The ministers of these ministries are appointed by the Supreme Soviet from its own membership, and are automatically members of the Presidium of the Supreme Soviet.[/small]<br>
 
-[b]Article 22[/b]
-[small]Elections are mandatory after the vacancy of a majority of the seats in the Supreme Soviet. Elections may additionally called by decision of the Supreme Soviet, or its Chairman.[/small]
+[b]Article 21[/b]<br>
+[small]The Chairman of the Supreme Soviet is elected from the membership of the Supreme Soviet, and serves as head of government. They are automatically a member of the Presidium of the Supreme Soviet. The Chairman is subject to the confidence of the Supreme Soviet, and may be removed by a majority vote.[/small]<br>
 
-`
+[b]Article 22[/b]<br>
+[small]Elections are mandatory after the vacancy of a majority of the seats in the Supreme Soviet. Elections may additionally called by decision of the Supreme Soviet, or its Chairman.[/small]<br>
+
+
 </details>
 
 ### Constitution of the Republic of Pepelsibirsk
@@ -657,46 +656,46 @@ Elections are to be called every 10 years, or upon the order of the President.
 <details>
 <summary><b>HTML</b></summary>
 
-`
-[H3]Constitution of the Republic of Pepelsibirsk[/H3]
 
-[b]Article 1[/b]
-[small]The Republic of Pepelsibirsk, henceforth referred to as Pepelsibirsk, is a republic founded on the principle of popular sovereignty.[/small]
+[H3]Constitution of the Republic of Pepelsibirsk[/H3]<br>
 
-[b]Article 2[/b]
-[small]All power in Pepelsibirsk is held by the people, expressed through popular elections for President.[/small]
+[b]Article 1[/b]<br>
+[small]The Republic of Pepelsibirsk, henceforth referred to as Pepelsibirsk, is a republic founded on the principle of popular sovereignty.[/small]<br>
 
-[b]Article 3[/b]
-[small]The Armed Forces of Pepelsibirsk, henceforth referred to as the Army, is formed for the protection of the state and its people.[/small]
+[b]Article 2[/b]<br>
+[small]All power in Pepelsibirsk is held by the people, expressed through popular elections for President.[/small]<br>
 
-[b]Article 4[/b]
-[small]All citizens of Pepelsibirsk are eligible for conscription into the Army.[/small]
+[b]Article 3[/b]<br>
+[small]The Armed Forces of Pepelsibirsk, henceforth referred to as the Army, is formed for the protection of the state and its people.[/small]<br>
 
-[b]Article 5[/b]
-[small]Citizenship in Pepelsibirsk is granted to all working residents of the city of Pepelsibirsk.[/small]
+[b]Article 4[/b]<br>
+[small]All citizens of Pepelsibirsk are eligible for conscription into the Army.[/small]<br>
 
-[b]Article 6[/b]
-[small]All citizens of the Pepelsibirsk SSR have the right to:
-- Vote, using a secret ballot, for the President.
-- Expression, of all personal beliefs.
-- Housing, in a building assigned by the State.
-- Security, including protection from crime.
-- Education, including full literacy.[/small]
+[b]Article 5[/b]<br>
+[small]Citizenship in Pepelsibirsk is granted to all working residents of the city of Pepelsibirsk.[/small]<br>
 
-[b]Article 7[/b]
-[small]All candidates for election to the position of President must be a citizen of Pepelsibirsk at least 18 years of age.[/small]
+[b]Article 6[/b]<br>
+[small]All citizens of the Pepelsibirsk SSR have the right to:<br>
+- Vote, using a secret ballot, for the President.<br>
+- Expression, of all personal beliefs.<br>
+- Housing, in a building assigned by the State.<br>
+- Security, including protection from crime.<br>
+- Education, including full literacy.[/small]<br>
 
-[b]Article 8[/b]
-[small]There are three ministries:
-- The Ministry of Defence, charged with commanding the Army.
-- The Ministry of Internal Affairs, charged with maintaining public order.
-- The Ministry of Economics, charged with managing the economy.
+[b]Article 7[/b]<br>
+[small]All candidates for election to the position of President must be a citizen of Pepelsibirsk at least 18 years of age.[/small]<br>
 
-The ministers of these ministries are appointed by the President.[/small]
+[b]Article 8[/b]<br>
+[small]There are three ministries:<br>
+- The Ministry of Defence, charged with commanding the Army.<br>
+- The Ministry of Internal Affairs, charged with maintaining public order.<br>
+- The Ministry of Economics, charged with managing the economy.<br>
 
-[b]Article 9[/b]
-[small]Elections are to be called every 10 years, or upon the order of the President.[/small]
-`
+The ministers of these ministries are appointed by the President.[/small]<br>
+
+[b]Article 9[/b]<br>
+[small]Elections are to be called every 10 years, or upon the order of the President.[/small]<br>
+
 </details>
 
 # Lore
