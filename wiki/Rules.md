@@ -169,8 +169,8 @@ unless it is stated otherwise (ex: Colonists do not attack Natives randomly).
 When teams do have a dispute, people with combat roles should be the ones
 fighting, not civilians or shopkeepers.
 
-### Persistance and Semi-Pers
-On nomads when the mode is set to semi-pers (this can be checked through the discord by asking or seeing that the restart vote has been disabled in game,) you may not raid bases/dwellings or go to war with factions that are offline. A good way to tell is if you hear or see someone inside the settlement you want to raid, or you can ask any staff that are on if the owners are online. This does not apply to publicly accessable buildings (non-locking doors, open areas with no gates or locked doors you have to pass through to get in.) 
+### Persistence and Semi-Pers
+On nomads when the mode is set to semi-pers (this can be checked through the discord by asking or seeing that the restart vote has been disabled in game,) you may not raid bases/dwellings or go to war with factions that are offline. A good way to tell is if you hear or see someone inside the settlement you want to raid, or you can ask any staff that are on if the owners are online. This does not apply to publicly accessable buildings (non-locking doors, open areas with no gates or locked doors you have to pass through to get in.) If an area is relatively easy that anyone could get in (breaking a glass window which when broken removes the obstacle, or hopping a fence into someone's backyard.) then you can access it.
 
 ## GULAG Rules
 
