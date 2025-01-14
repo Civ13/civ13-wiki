@@ -18,7 +18,6 @@
 		<br>
         <b>→</b> Use adminhelp for questions regarding bugs/rules/assistance in case of a problem.
 		<br>
-    If there are no admins online, you may ping admins or mentors on the Discord server for assistance.
   - Once a round ends (<i>i.e. the Epoch vote finishes</i>), griefing and random killing is tolerated. 
     This is called "End of Round Grief" (EORG) and it's allowed ONLY when the round has ended.
   - You must not be toxic or too agitated in any OOC communication channels (Dead-chat and mentor/adminhelp included). 
