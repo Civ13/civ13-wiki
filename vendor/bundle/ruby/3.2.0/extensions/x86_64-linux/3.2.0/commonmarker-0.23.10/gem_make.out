@@ -1,0 +1,65 @@
+current directory: /home/runner/workspace/vendor/bundle/ruby/3.2.0/gems/commonmarker-0.23.10/ext/commonmarker
+/nix/store/2bpi29al123830q6p1z86rrf5j25pxdw-ruby-3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/runner/workspace/vendor/bundle/ruby/3.2.0/gems/commonmarker-0.23.10/ext/commonmarker
+make DESTDIR\= sitearchdir\=./.gem.20260509-7695-t270xl sitelibdir\=./.gem.20260509-7695-t270xl clean
+
+current directory: /home/runner/workspace/vendor/bundle/ruby/3.2.0/gems/commonmarker-0.23.10/ext/commonmarker
+make DESTDIR\= sitearchdir\=./.gem.20260509-7695-t270xl sitelibdir\=./.gem.20260509-7695-t270xl
+compiling arena.c
+compiling autolink.c
+compiling blocks.c
+compiling buffer.c
+compiling cmark.c
+compiling cmark_ctype.c
+compiling commonmark.c
+compiling commonmarker.c
+In file included from houdini.h:9,
+                 from commonmarker.c:3:
+config.h:8:9: warning: "HAVE_STDBOOL_H" redefined
+    8 | #define HAVE_STDBOOL_H
+      |         ^~~~~~~~~~~~~~
+In file included from /nix/store/2bpi29al123830q6p1z86rrf5j25pxdw-ruby-3.2.2/include/ruby-3.2.0/ruby/internal/config.h:22,
+                 from /nix/store/2bpi29al123830q6p1z86rrf5j25pxdw-ruby-3.2.2/include/ruby-3.2.0/ruby/ruby.h:15,
+                 from /nix/store/2bpi29al123830q6p1z86rrf5j25pxdw-ruby-3.2.2/include/ruby-3.2.0/ruby.h:38,
+                 from commonmarker.h:9,
+                 from commonmarker.c:1:
+/nix/store/2bpi29al123830q6p1z86rrf5j25pxdw-ruby-3.2.2/include/ruby-3.2.0/x86_64-linux/ruby/config.h:44:9: note: this is the location of the previous definition
+   44 | #define HAVE_STDBOOL_H 1
+      |         ^~~~~~~~~~~~~~
+compiling core-extensions.c
+compiling ext_scanners.c
+compiling footnotes.c
+compiling houdini_href_e.c
+compiling houdini_html_e.c
+compiling houdini_html_u.c
+compiling html.c
+compiling inlines.c
+compiling iterator.c
+compiling latex.c
+compiling linked_list.c
+compiling man.c
+compiling map.c
+compiling node.c
+compiling plaintext.c
+compiling plugin.c
+compiling references.c
+compiling registry.c
+compiling render.c
+compiling scanners.c
+compiling strikethrough.c
+compiling syntax_extension.c
+compiling table.c
+compiling tagfilter.c
+compiling tasklist.c
+compiling utf8.c
+compiling xml.c
+linking shared-object commonmarker/commonmarker.so
+
+current directory: /home/runner/workspace/vendor/bundle/ruby/3.2.0/gems/commonmarker-0.23.10/ext/commonmarker
+make DESTDIR\= sitearchdir\=./.gem.20260509-7695-t270xl sitelibdir\=./.gem.20260509-7695-t270xl install
+install -c -p -m 755 commonmarker.so ./.gem.20260509-7695-t270xl/commonmarker
+
+current directory: /home/runner/workspace/vendor/bundle/ruby/3.2.0/gems/commonmarker-0.23.10/ext/commonmarker
+make DESTDIR\= sitearchdir\=./.gem.20260509-7695-t270xl sitelibdir\=./.gem.20260509-7695-t270xl clean

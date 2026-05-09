@@ -1,0 +1,19 @@
+current directory: /home/runner/workspace/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/nix/store/2bpi29al123830q6p1z86rrf5j25pxdw-ruby-3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/runner/workspace/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20260509-6226-mna1g3 sitelibdir\=./.gem.20260509-6226-mna1g3 clean
+
+current directory: /home/runner/workspace/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20260509-6226-mna1g3 sitelibdir\=./.gem.20260509-6226-mna1g3
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/runner/workspace/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20260509-6226-mna1g3 sitelibdir\=./.gem.20260509-6226-mna1g3 install
+install -c -p -m 755 ruby_http_parser.so ./.gem.20260509-6226-mna1g3
+
+current directory: /home/runner/workspace/vendor/bundle/ruby/3.2.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20260509-6226-mna1g3 sitelibdir\=./.gem.20260509-6226-mna1g3 clean
