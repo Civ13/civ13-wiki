@@ -2,9 +2,9 @@
 
 **You can check what pages need fixing/content on the [github Issues section](https://github.com/Civ13/civ13-wiki/issues).**
 
-Since this wiki is hosted on *github pages* using static Jekyll pages, it works slighly different from a regularly hosted wiki.
+Since this wiki is hosted on *github pages* using static Jekyll pages, it works slightly different from a regularly hosted wiki.
 
-However, don't worry! It is simpler than it seems. You do **not** need to download the code (altough you can if you want to edit it locally). Follow the steps below:
+However, don't worry! It is simpler than it seems. You do **not** need to download the code (although you can if you want to edit it locally). Follow the steps below:
 
 **1) If you do not have one yet, register for a *Github Account* [here](https://github.com/join).**
 

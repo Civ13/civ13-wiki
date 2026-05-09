@@ -138,7 +138,7 @@
 <td>
 <img src="assets/images/Sarissa.png">
 </td>
-<td>The sarissa was a spear used in Ancient times by multiple greek states in phalanx formations, it's lenght is around 4 to 6 metres.</td>
+<td>The sarissa was a spear used in Ancient times by multiple greek states in phalanx formations, its length is around 4 to 6 metres.</td>
 <td>313 B.C. - 1013 A.D.</td>
 <td>Yes</td>
 <td></td>
@@ -188,7 +188,7 @@
 <td>
 <img src="assets/images/Roman_shield.png">
 </td>
-<td>The standard Roman shield also refered to as the "Scutum", used by the Roman Army. This shield is known for being used to perform the [Testudo Formation](https://en.wikipedia.org/wiki/Testudo_formation)</td>
+<td>The standard Roman shield also referred to as the "Scutum", used by the Roman Army. This shield is known for being used to perform the [Testudo Formation](https://en.wikipedia.org/wiki/Testudo_formation)</td>
 <td>313 B.C. - 2020 A.D.</td>
 <td>Yes</td>
 <td></td>
@@ -504,7 +504,7 @@
 <td>
 <img src="assets/images/Spadroon.png">
 </td>
-<td>A spadroon is a light sword with a straight edged blade, enabling both cut and thrust attacks. Used primarly in the army and the navy.</td>
+<td>A spadroon is a light sword with a straight edged blade, enabling both cut and thrust attacks. Used primarily in the army and the navy.</td>
 <td>1713 A.D.- 1713 A.D.</td>
 <td>Yes</td>
 <td></td>
@@ -534,7 +534,7 @@
 <td>
 <img src="assets/images/Handcannon.png">
 </td>
-<td>The true sucessor to the firelance.</td>
+<td>The true successor to the firelance.</td>
 <td>1713 A.D. - 1850 A.D.</td>
 <td>Yes</td>
 <td>Stonebullet</td>

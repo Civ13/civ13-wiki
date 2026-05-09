@@ -9,7 +9,7 @@ What is a human being, if not a sum of their physical abilities and mental facul
 
 ## Character tab
 
-Go the Character tab on the right panel. There you will see various info about your character, including: 
+Go to the Character tab on the right panel. There you will see various info about your character, including: 
 
 - stamina level;
 - civilization and religion to which you belong, if any; 
@@ -49,7 +49,7 @@ There may be more than one ethnicity on a given map, and each ethnicity speaks i
 
 **You can learn a new language by listening to it being spoken by others** (first option, takes about 20-30 minutes of continuous listening in total; learning progress is saved). Some languages, for example, German and Dutch, have a degree of mutual similarity, so that a speaker of one language have some initial grasp of the other and can learn it faster. 
 
-As you learn a new language, your will start understanding more and more of it.
+As you learn a new language, you will start understanding more and more of it.
 
 **Another option is reading a suitable language book.**  You can write one if you know at least two languages and have 1.35 of the philosophy skill. 
 

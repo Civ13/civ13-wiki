@@ -15,7 +15,7 @@
 <td>
 <img src="assets/images/ea.png">
 </td>
-<td><p>Will only work with <strong>2</strong> tiles inbetween each pole. <strong>Cannot be diagonal.</strong> Be extremely careful building as it cannnot be deconstructed and only destroyed with a catapult or canon/explosives.
+<td><p>Will only work with <strong>2</strong> tiles in between each pole. <strong>Cannot be diagonal.</strong> Be extremely careful building as it cannot be deconstructed and only destroyed with a catapult or canon/explosives.
   
 
 
@@ -25,7 +25,7 @@
 
 <ul>
 <li>First setup the telegraph in the desired location. Typically the corner of a building.</li>
-<li>Build the utiliy pole adjacent to the telegraph on the otherside of the wall.</li>
+<li>Build the utility pole adjacent to the telegraph on the otherside of the wall.</li>
 <li>Use spare materials to map out your utility pole line.</li>
 <li>Create the telegraph at the other end.</li>
 <li>Build your new building around it.</li>
@@ -47,7 +47,7 @@
 
 ## Devices
 
-- **Screaming:** the best form of getting help, but its better if your a
+- **Screaming:** the best form of getting help, but it's better if you're a
 woman.
 
 - **Bone horn:** blow it to signal a charge or an enemy invasion.
@@ -78,8 +78,8 @@ calls, it has a set frequency which you can change at any time.
 - **Mobile Radio backpack:** requires no power and takes up the backpack slot.
 
 - **Mobile phone:** must be within 50 tiles of a mobile tower to work. Shift
-click the phone in hand in order to see watch your phone number
+click the phone in hand in order to see what your phone number
 currently is. Does not require power only a signal.
 
-- **Walkie Talkie:** small version of a radio and can be place in a pocket or
-coinpouch slot.
+- **Walkie Talkie:** small version of a radio and can be placed in a pocket or
+coin pouch slot.

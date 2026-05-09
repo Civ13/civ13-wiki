@@ -34,7 +34,7 @@ To farm, you will require some basic tools.
 <td>
 <b>Trench shovel</b>
 </td>
-<td>A trench shovel is made out of iron ingots and a wooden handle. A trench shovel, as the name suggests, digs trenches. To dig a trench, simply click a dirt tile twice. If you dig a trench next to water tiles, the trench will get flooded, providing crops wtih water and serving as an extra barrier.</td>
+<td>A trench shovel is made out of iron ingots and a wooden handle. A trench shovel, as the name suggests, digs trenches. To dig a trench, simply click a dirt tile twice. If you dig a trench next to water tiles, the trench will get flooded, providing crops with water and serving as an extra barrier.</td>
 </tr>
 <tr>
 <td>
@@ -43,7 +43,7 @@ To farm, you will require some basic tools.
 <td>
 <b>Shovel</b>
 </td>
-<td>Made with either 2 bone pieces or a <b><a href="Guide_to_Metallurgy#molds">cast shovel head</a></b>, plus a wooden handle. Used to dig irrigation channels that water crops and do not hinder your movement, unlike flooded trenches. TO dig an irrigation channel, hold a shovel in the active hand and click it, or press Ctrl-Z or Z in the hotkeys mode, then choose the respective option.</td>
+<td>Made with either 2 bone pieces or a <b><a href="Guide_to_Metallurgy#molds">cast shovel head</a></b>, plus a wooden handle. Used to dig irrigation channels that water crops and do not hinder your movement, unlike flooded trenches. To dig an irrigation channel, hold a shovel in the active hand and click it, or press Ctrl-Z or Z in the hotkeys mode, then choose the respective option.</td>
 </tr>
 <tr>
 <td>
@@ -68,7 +68,7 @@ To farm, you will require some basic tools.
 
 ## Farming
 
-Just plough a plot of land by yourself or by attaching the plough to a cow or bull for quicker soil disruption, surround said plot of land with trenches with a trench shovel (Cant be walked over easily) or with irrigation channels with a basic shovel (can be walked over easily)
+Just plough a plot of land by yourself or by attaching the plough to a cow or bull for quicker soil disruption, surround said plot of land with trenches with a trench shovel (Can't be walked over easily) or with irrigation channels with a basic shovel (can be walked over easily)
 filled with fresh water or plough near a river, put some seeds in the
 ground and watch them grow! Well, it is a bit more nuanced.
 

@@ -1,6 +1,6 @@
 # Karak
 
-This map is based around the crusades, their are two factions, both of
+This map is based around the crusades, there are two factions, both of
 them are religious zealots wishing to either defend or attack the
 **Karak Castle**.
 
@@ -17,10 +17,10 @@ them are religious zealots wishing to either defend or attack the
 
 ## Arab Roles
 
-| Role                   | Image                                                                                            | Description                                                                                         | Diffuculty |
+| Role                   | Image                                                                                            | Description                                                                                         | Difficulty |
 | ---------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- | ---------- |
 | Emir (Lord)            | <img src="assets/images/Arab_Lord.png">     | Command your army in reclaiming the castle of Karak from the Invaders, you may need to strategize.  | Very Hard  |
-| Mamluk (Heavy Infanty) | <img src="https://media.discordapp.net/attachments/464159913342402560/540084572063399946/Arab_Dude.png">   | Protect the Lord, You are a slave who has been placed in the army by your lord, do not disobey him. | Hard       |
+| Mamluk (Heavy Infantry) | <img src="https://media.discordapp.net/attachments/464159913342402560/540084572063399946/Arab_Dude.png">   | Protect the Lord, You are a slave who has been placed in the army by your lord, do not disobey him. | Hard       |
 | Sayaf (Swordsman)      | <img src="https://media.discordapp.net/attachments/464159913342402560/540084644217880595/Arab_Dude_2.png"> | Kill Infidels, listen to your Lord's orders.                                                        | Medium     |
 | Alraamith (Spearmen)   | <img src="https://media.discordapp.net/attachments/464159913342402560/540084711532265492/Arab_dude_3.png"> | Kill Infidels, listen to your Lord.                                                                 | Medium     |
 | Rami Alsiham (Archer)  | <img src="https://media.discordapp.net/attachments/464159913342402560/540084753718706187/Arab_dude_4.png"> | Arm the Catapults, Kill Infidels with Catapults, don't let them get inside the base.                | Easy       |
@@ -28,11 +28,11 @@ them are religious zealots wishing to either defend or attack the
 
 ## French Roles
 
-| Role                                       | Image | Description                                                                                                                                                 | Diffuculty |
+| Role                                       | Image | Description                                                                                                                                                 | Difficulty |
 | ------------------------------------------ | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | Grand Master (Crusader Leader)             |       | Command your fellow Christians in order to prevent the Caliphate from taking Jerusalem back, die with honor.                                                | Very Hard  |
 | Templar Knight (Crusader Noble Knight)     |       | Protect the Castle and organize your underlings into groups.                                                                                                | Hard       |
-| Crusader Sergeant (Crusader Heavy Infanty) |       | Watch out for the Arabic barbarians, If they get in, you are the first part of the defense. Use bows and oil pots to kill filthy Arabians trying to get in. | Medium     |
+| Crusader Sergeant (Crusader Heavy Infantry) |       | Watch out for the Arabic barbarians, If they get in, you are the first part of the defense. Use bows and oil pots to kill filthy Arabians trying to get in. | Medium     |
 | Crusader Squire (Crusader Light Infanty)   |       | You are the subordinate to the sergeants, follow your sergeant's orders whenever they are issued.                                                           | Medium     |
 | Templar Priest (Priest)                    |       | Treat the wounded Crusaders while the siege carries on.                                                                                                     | Easy       |
 

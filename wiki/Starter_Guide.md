@@ -32,7 +32,7 @@ You will need some basic things to survive. At the very start you will most like
 The same mechanic for opening crafting menu applies to all materials.
 Activate in hand to open the crafting menu.
 
-Also, now introducting **Mining 101**.
+Also, now introducing **Mining 101**.
 
 Ores are valuable crafting materials which you mine out of the rock.
 

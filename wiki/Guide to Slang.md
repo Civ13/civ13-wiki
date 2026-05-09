@@ -11,7 +11,7 @@ Table of contents
     8. [1984 AD](#subparagraph8)
 
 # Guide to Slang <a name="Introduction"></a>
-Throughout history slang has evolved and changed with the rise and fall of nations, city states and civlisations. The below section is an addendum to help further embellish your roleplaying at different epochs.
+Throughout history slang has evolved and changed with the rise and fall of nations, city states and civilisations. The below section is an addendum to help further embellish your roleplaying at different epochs.
 
 
 # Epochs <a name="paragraph1"></a>
@@ -30,7 +30,7 @@ Epochs are used to describe an event that begins a new period or development. An
 <li>War between Rome and Tibur <strong>361–354 BC</strong>.</li>
 <li> First Samnite War <strong>343 to 341 BC</strong>.</li>
 <li> The Latin War <strong>340 to 338 BC</strong>.</li>
-<li> King Philip II of Macedon is assasinated in <strong>336 BC</strong>.</li>
+<li> King Philip II of Macedon is assassinated in <strong>336 BC</strong>.</li>
 <li> Alexander III of Macedon assumed the throne of Macedon <strong>336 BC</strong>.</li>
 <li> King of kings of the Achaemenid Empire, Darius III dies <strong>330 BC</strong>.</li>
 <li> King Alexander III of Macedon dies in the city of Babylon <strong>323 BC</strong>.</li>
@@ -92,7 +92,7 @@ Epochs are used to describe an event that begins a new period or development. An
 
 <tr>
 <td>Borough</td>
-<td> Town with the right of self governmenance granted by royal charter.</td>
+<td> Town with the right of self governance granted by royal charter.</td>
 </tr>
 
 <tr>
@@ -265,7 +265,7 @@ Epochs are used to describe an event that begins a new period or development. An
 <summary>Click to expand!</summary>
 <table><tbody><tr><td>
 <ul>
-<li>The Restoration of the Stuart monarchy, King Charles II returns frome exile <strong>1660 AD</strong>.</li>
+<li>The Restoration of the Stuart monarchy, King Charles II returns from exile <strong>1660 AD</strong>.</li>
 <li>The Second Anglo-Dutch War <strong>1665 to 1667 AD</strong>.</li>
 <li>The Great Fire of London <strong>1666 AD</strong>.</li>
 <li>Russo-Turkish War <strong>1676 to 1681 AD</strong>.</li>

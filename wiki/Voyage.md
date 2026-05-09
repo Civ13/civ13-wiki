@@ -8,7 +8,7 @@ Avast! Set sail on the high seas of adventure aboard the Good Ship; a two masted
 
 The **Captain** is responsible for plotting the ship's course.
 
-The **Boatswain** is the Head of Personel of the ship. He can use the Officer tab to assign jobs to regular sailors (but not officers). He can use the *Crew Log Book* to check the active crew members and respective jobs.
+The **Boatswain** is the Head of Personnel of the ship. He can use the Officer tab to assign jobs to regular sailors (but not officers). He can use the *Crew Log Book* to check the active crew members and respective jobs.
 
 The **Quartermaster** is Head of Logistics. He is responsible for ensuring the ship's stocks are kept at a decent level. He can use the *Log Book* to check the current stocks stored below deck.
 

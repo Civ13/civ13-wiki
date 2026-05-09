@@ -68,11 +68,11 @@ As a guard, you're equipped with the necessary tools to bring order and discipli
 - Take note of who goes in and out of the mining facility by taking their ID before they go downwards, then hand it back over as soon as they are finished mining.
 - Make sure no one tries to escape by performing regular checks in the mine. Bring at least two other guards with you and have a gas grenade ready (do not forget to put on your gasmask!).
 - Ores can be melted into ingots, make sure no one tries to make a weapon out of it. If they do, confiscate and punish the perpetrator accordingly.
-- Collected ores are to be put in the mining cart which has to be pushed into the hangar for exports. Place the ore stack on the export book to recieve points and money.
+- Collected ores are to be put in the mining cart which has to be pushed into the hangar for exports. Place the ore stack on the export book to receive points and money.
 
 ### After Mining
 - One by one, prisoners should hand over ALL of their mining equipment to be put back in the lockers and be FULLY searched for anything that they may have taken out of the mines.
-- Once a prisoner is clear, they should **recieve a payment** for their work. Money recieved from the ore exports has to be used for this. However, do not overpay a prisoner.
+- Once a prisoner is clear, they should **receive a payment** for their work. Money received from the ore exports has to be used for this. However, do not overpay a prisoner.
 - Do not forget to hand back over the inmate's ID.
 - If there is some missing equipment in the lockers then inform your higher-ups so they can perform an immediate inspection of the prisoner area.
 
@@ -84,7 +84,7 @@ As a guard, you're equipped with the necessary tools to bring order and discipli
 - **ONLY kitchen staff** may be in the kitchen area, delimited by a warning strip on the floor. 
 - Cannibalism should be immediately punished and food containing human meat must be disposed in order to avoid sickness.
 - The cafeteria should remain clean at all times, you do not want fecal matter or bacteria in the food.
-- It is possible to ask for money for the distributed food, however it's severly discouraged. Guards who are doing this may be caught by the higher-ups and be demoted/discharged for corruption.
+- It is possible to ask for money for the distributed food, however it's severely discouraged. Guards who are doing this may be caught by the higher-ups and be demoted/discharged for corruption.
 
 ---
 
@@ -111,6 +111,6 @@ Remember, the best way to enjoy the round is acting accordingly and appropriatel
 **Escape is not advised nor is it a wise thing to do as you're in the middle of nowhere, far from civilization...**
 
 Collaborators are a whitelisted role, they must keep their role secret from the other prisoners. Guards are to protect their identity as well and should reward them for useful information.
-Other prisoners may be agressive towards them, especially for snitching out. However, killing them should be avoided.
+Other prisoners may be aggressive towards them, especially for snitching out. However, killing them should be avoided.
 
 ---

@@ -28,7 +28,7 @@ non-IC means.
 6.  ) No Obscene nicknames. Examples include naming yourself nigger
     while playing a Carib. Reference names such as Jack Sparrow and
     Black Beard, as well as other historic names and references, are
-    allowed as long as your not overly obnoxious with it.
+    allowed as long as you're not overly obnoxious with it.
 7.  ) Non player-targeted offenses and racism are allowed. Keep the chat
     clear from drama and do not troll or induce chaos. This will get you
     muted from OOC at best and banned at worst. Racism and offenses are
@@ -41,7 +41,7 @@ non-IC means.
     with their choice make a complaint on the discord and quote this
     section of the rules.
 9.  ) Killing of SSD players will not be tolerated. You may loot them,
-    but thats it. Under no circumstances are you to kill SSD players.
+    but that's it. Under no circumstances are you to kill SSD players.
 10. ) Being a toxic nuisance to staff and disrespecting staff multiple
     times even after being warned to stop can result in a ban.
 11. ) You cannot kill yourself and respawn to get to whatever region you
@@ -103,7 +103,7 @@ When playing as a faction on a map, keep in mind these facts:
     extreme cases (desertion, constant refusal to carry on orders even
     after being punished, being a traitor/aiding the enemy)
 3.  ) Pirates are valid targets at all times, but restraint is
-    encouraged unless they are overtly agressive.
+    encouraged unless they are overtly aggressive.
 4.  ) Natives should be avoided and treated with caution. We don't want
     to start a war with the tribes.
 5.  ) Surrendering enemies should be taken prisoner if possible,
@@ -124,7 +124,7 @@ and murdering people for the smallest things.
 
 1.  ) No starting wars or conflicts with other civilizations, colonies,
     etc. Unless provoked with something really good. This means 2 guys
-    fighting shouldn't start a war, thats a small conflict.
+    fighting shouldn't start a war, that's a small conflict.
 2.  ) You cannot begin wars or assaults through war until an
     announcement is made by an admin. If there are no admins on, then
     you cannot KOS the faction/tribe. You then have to show up and RP it
@@ -169,7 +169,7 @@ and murdering people for the smallest things.
     reason, or even corrupt government officials.
 10. ) Revolutions shouldn't happen unless well organized, and have at
     least tried to gain more members. Otherwise its just one guy
-    greifing the Town guards.
+    griefing the Town guards.
 11. ) Speak at the current epoch/era. This means you don't say things
     like "bro" and "sis" at 313 B.C. It's too modern. No netspeak, type
     out the full words, and no internet memery.

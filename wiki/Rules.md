@@ -4,7 +4,7 @@
 
   - This server is intended to be a <b>Medium/High-Roleplay</b> (MRP/HRP) server, good communication along with other associated
     skills are necessary! Character has to be maintained at all times and actions are to be realistic (or at least the closest to reality).
-    Low-Roleplay (LRP) (i.e. using memes ICly, "netspeak", powergaming, unrealistic actions, disregarding the setting of the game) is severily 
+    Low-Roleplay (LRP) (i.e. using memes ICly, "netspeak", powergaming, unrealistic actions, disregarding the setting of the game) is severely 
     discouraged and may be punishable, especially during HRP gamemodes.
   - English is the language of the server and players must speak it in all communication channels (IC and OOC), at all times. 
     A good understanding of English is therefore also required.
@@ -13,11 +13,11 @@
   - It is against the rules to speak about Out-Of-Character (OOC) topics
     Inside-Character (IC) and vice-versa on purpose. Failing to do so will be considered metagaming and may be punishable.
   - Do not abuse mentorhelp/adminhelp:
-		<br>
+                <br>
         <b>→</b> Use mentorhelp for questions regarding gameplay.
-		<br>
+                <br>
         <b>→</b> Use adminhelp for questions regarding bugs/rules/assistance in case of a problem.
-		<br>
+                <br>
   - Once a round ends (<i>i.e. the Epoch vote finishes</i>), griefing and random killing is tolerated. 
     This is called "End of Round Grief" (EORG) and it's allowed ONLY when the round has ended.
   - You must not be toxic or too agitated in any OOC communication channels (Dead-chat and mentor/adminhelp included). 
@@ -33,7 +33,7 @@
     to gain an unfair advantage for yourself or your team.
     You will be warned first and, if you persist, a permanent ban from the server will be applied.<br>
     <b>If you find an exploit please inform staff privately in a timely manner.</b><br><br>
-	
+        
 <center><strong><font size = 3>What staff say is law, so if when they ask you to stop, you must stop.</font></strong></center>
 <br>
 
@@ -54,7 +54,7 @@
     players names too.)
   - Spamming in any IC or OOC communication channel.
   - Adminhelping/Mentorhelping sentence fragments. Explain your situation fully through and in a calm manner.
-  - Toxicity towards other players and/or the staff team. This includes disrepectful behaviour.
+  - Toxicity towards other players and/or the staff team. This includes disrespectful behaviour.
   - Bypassing in-game language barriers (Such as using LOOC or a paper to communicate.
     You should use emote verbs and you may do “drawings” on a paper (ex:
     you may write the following: *A drawing of two stick figures crossing spears*)
@@ -90,13 +90,13 @@
     fits you icly). You shouldn’t treat death as something to shrug
     off.)
   - You may break into a offline players base/home, as well as faction bases.
-    It is the player's responsability to ensure the safety of their property and belongings.
+    It is the player's responsibility to ensure the safety of their property and belongings.
 
 ### Escalation:
 
 Because the server is considered MRP/HRP, it means you must “escalate” conflicts.
 Escalation is the act of using RP to build up tension before engaging in a conflict.
-Verbal communication should take plaace
+Verbal communication should take place.
 Usage of emote verbs and the “me” verb are strongly encouraged for
 escalating when you cannot communicate verbally.
 For example, if you want to rob someone, escalation should look
@@ -137,11 +137,11 @@ be attacked.**
 #### Language Barrier
 
 If you don't share a mutual language, you still need to properly
-escalate and convey your intent. Rather than screaming and tryng to push
+escalate and convey your intent. Rather than screaming and trying to push
 them down and punch them like a monkey with no brain, try using *me and
 describing things. Like if you wanted someone to leave, "Points to
 (person you want to leave) and points away from the settlement with an
-angry expression and hand by his sword". Theres better ways to
+angry expression and hand by his sword". There's better ways to
 communicate than trying to be a monkey bashing his fists against his
 chest and flinging shit at people.
 
@@ -174,7 +174,7 @@ On nomads when the mode is set to semi-pers (this can be checked through the dis
 ## GULAG Rules
 
   - No rioting until 30 minutes have passed in-game and you've made a plan with other prisoners.
-    An single prisoner may not randomly attack a guard and have the other prisoners join in 
+    A single prisoner may not randomly attack a guard and have the other prisoners join in 
     if it's not part of an elaborate plan by the prisoners.
   - Guards can't kill prisoners without a **valid reason** and should
     always try to keep them alive (a dead prisoner is one less worker).
@@ -185,12 +185,12 @@ On nomads when the mode is set to semi-pers (this can be checked through the dis
   - Prisoners may only kill each other with proper escalation and a **valid reason**.
   - Guards can't shoot first rather than baton them, they need to try
     and apprehend them (void in the case of riots)
-  - Prisoners are competing against each other in three diferrent factions, but in the
+  - Prisoners are competing against each other in three different factions, but in the
     end they are all sharing the same fate of being in captivity.
   - Prisoners are to do their assigned job. If a facility isn't open, don't break in, wait until a guard opens it.
   - Guards can beat and apprehend anyone who crossed the borderline (yello hazard lines on the ground)
   - You must value your life (respawns may often be disabled in order to do so). 
-    Act your wounds realistcally: don't lose and arm and state "It's just a scratch!"
+    Act your wounds realistically: don't lose an arm and state "It's just a scratch!"
 <br>
 
 ## Occupation Rules
@@ -200,8 +200,8 @@ On nomads when the mode is set to semi-pers (this can be checked through the dis
   - SS should try getting civilians to work while trying to capture <b>UPA alive</b>. Dead is acceptable too, but not as good for points.
   - Civilians <b>can't harm</b> SS without <b>good IC reason AND escalation.</b>
   - UPA can kill SS on sight and worldlessly, its their objective.
-  - SS have a jail area. If a civie is being bad, arrest them, or send the axuillary police to arrest them.
-  - The <b>Auxillary Police</b> are an <i>extension</i> of the SS, <b>they abide by the same rules</b>.
+  - SS have a jail area. If a civie is being bad, arrest them, or send the auxiliary police to arrest them.
+  - The <b>Auxiliary Police</b> are an <i>extension</i> of the SS, <b>they abide by the same rules</b>.
   - If you join as a certain civilian job, you're to do that job. If you find it boring then ahelp to be changed and don't choose it again.
   - SS can be slightly brutal to civilians for RP purposes, but <b>aren't to inflict lethal wounds or ruin others' rounds intentionally</b>.
   - No one can mindlessly grief and break into things. Even the SS or UPA.

@@ -84,7 +84,7 @@ Work smart, not hard!
 
 #### General
 
-* To **Create** a faction, open the **Faction tab** and click **Create a faction**. Choose a name for it, as well as symbols and colours for you faction's banner.
+* To **Create** a faction, open the **Faction tab** and click **Create a faction**. Choose a name for it, as well as symbols and colours for your faction's banner.
 * To join a faction, you must be **Recruited** by a faction member who has **recruitment permissions**.
 * You can leave a faction by clicking **Abandon** on the **Faction tab**. Take note, that **you will not be able to rejoin the same faction for 24 hours!**
 * Creating a faction makes you the default **Leader**.
@@ -205,7 +205,7 @@ levels, check **[Full Crafting List](Full_Crafting_List "wikilink")**.
 - 22: rolling pin, mop, drinking glass, small bottle
 - 24: diamond hatchet and spear **(requires 30 points in Military too)**
 - 25: anvil
-- 25: comfy chair **(requires 25 poins in Health too)**
+- 25: comfy chair **(requires 25 points in Health too)**
 - 26: furnace
 - 27: iron tools, spear and shield **(requires 16 points in Military too)**
 - 28: lanterns, doors, keys, coffins
@@ -259,7 +259,7 @@ levels, check **[Full Crafting List](Full_Crafting_List "wikilink")**.
 - 38: medieval clothing
 - 43: burn kit
 - 44: splints **(requires 35 points in Industrial too)**
-- 48: doctor handbook **(requires 33 poins in Industrial too)**
+- 48: doctor handbook **(requires 33 points in Industrial too)**
 - 51: operating table **(requires 25 points in Industrial too)**
 - 52: 1713's hats
 - 55: retractor, bone saw, scalpel, bone setter. **(requires 35 points in Industrial too)**

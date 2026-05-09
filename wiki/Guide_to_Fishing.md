@@ -1,6 +1,6 @@
 # Guide to Fishing
 
-Feeding a large population could be challenging, especially when there is a lack of arable land, wild game is nearing exctinction and ancestors ate all the poultry and livestock long ago. Despair not, though, for there remains a sizeable source of food to tap - seas and rivers, whose unsuspecting inhabitants are in for a big surprise.
+Feeding a large population could be challenging, especially when there is a lack of arable land, wild game is nearing extinction and ancestors ate all the poultry and livestock long ago. Despair not, though, for there remains a sizeable source of food to tap - seas and rivers, whose unsuspecting inhabitants are in for a big surprise.
 
 Remember to check the **[Guide to Cooking](Guide_to_Cooking)** once you come home loaded with seafood.
 

@@ -2,7 +2,7 @@
 
 Here is a guide to the few human races and species we have in the game
 currently, you might like to read them to understand them. All of these
-species must follow the rules there are no exceptions.
+species must follow the rules; there are no exceptions.
 
 <table class="table">
 
@@ -34,7 +34,7 @@ species must follow the rules there are no exceptions.
 
 <tr><th><img width="64" height="64" alt="Orc.png" src="assets/images/2iW6cry.png">Orcs</th>
 
-<td>Greenskined Humanoids the majority are very backward in their cultural understandings and it is usually rare to find them not following their primal instincts, They are extremely warlike and will occasionally act more savagely, as an optimistic species their kind will eat about anything but their own waste material. They are very resistant to radiation. WAAAGH!</td>
+<td>Greenskinned Humanoids the majority are very backward in their cultural understandings and it is usually rare to find them not following their primal instincts, They are extremely warlike and will occasionally act more savagely, as an optimistic species their kind will eat about anything but their own waste material. They are very resistant to radiation. WAAAGH!</td>
 
 </tr>
 

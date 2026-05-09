@@ -304,7 +304,7 @@ Support for an authoritarian state which acts as a paternal figure over the popu
 ### Conservatism
 Support for things to stay the way they are or to act according to ideological or social tradition. This can be mixed with virtually any ideology.
 
-### Consitutional Monarchism
+### Constitutional Monarchism
 Support for a ceremonial monarch who does not wield executive power under normal circumstances. Not necessarily illiberal, but technically reactionary if in a republic.
 
 ### Moderatism
@@ -341,7 +341,7 @@ Here are is a set of pre-made decrees/laws to enact should you choose to do so. 
 
 ### Decree on Martial Law
 1. All civil liberties are suspended.
-2. Activity by the Ministry of Internal Affairs is to be suspended and all duties and personnel transfered to the Ministry of Defense.
+2. Activity by the Ministry of Internal Affairs is to be suspended and all duties and personnel transferred to the Ministry of Defense.
 3. Discretionary power with regards to law enforcement and legal sentencing is granted to the Ministry of Defense.
 4. Failure to follow subsequent instructions by the State or state organs will result in legal punishment.
 5. This decree is valid until further notice.

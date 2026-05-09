@@ -2,7 +2,7 @@
 The 1945 epoch now has tanks! (Yay)
 
 There are 5 roles for the crew of the tank. In order to be effective,
-all roles most communicate with each other, organize and work
+all roles must communicate with each other, organize and work
 together.
 
 ## The Roles
@@ -16,7 +16,7 @@ together.
     machine-gunner to fire. To calculate the distance of the enemy, you
     have to buckle yourself down to the commander's seat. Once you sit
     down, you will now calculate the distance of anything between you,
-    by clicking on it. After sitting, you will also be avaible to use
+    by clicking on it. After sitting, you will also be available to use
     the telescope of the tank. This way, you can see afar, and thus be
     able to calculate the longer distances. (That's the whole purpose)
 
@@ -124,7 +124,7 @@ armored coffin becomes a moving pillbox if you use it well enough.
 
 #### Example
 
-Lets say we're on Nanjing. We'll also go over the 5x5 area of turning.
+Let's say we're on Nanjing. We'll also go over the 5x5 area of turning.
 Tanks have 4 Directions they can be facing, and a different position in
 their 5x5 area for each. (Note: tracks were disabled on the directional
 example to allow for stationary turning)
@@ -159,7 +159,7 @@ don't have free movement to make a left turn to fit in.
 ![image](https://media.discordapp.net/attachments/485954244437082112/714300361728458762/tank_alley.png)
 
 now, because we've a wall blocking us, we can't just make a left turn,
-it'll have us running into the wall north of us. Thats no good. So
+it'll have us running into the wall north of us. That's no good. So
 instead, because facing south makes the tank on the east side of the 5x5
 area, we can make a right turn and reverse to get in. So first set up
 against the wall. Once you've made it onto that tile turn right before

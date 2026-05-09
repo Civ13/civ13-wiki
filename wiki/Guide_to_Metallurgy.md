@@ -79,7 +79,7 @@ Molds are made with **[Clay](Full_Crafting_List#clay)** (to make clay, fill a co
 <tr>
 <td><img src="assets/images/mold_spearhead_full.png"></td>
 <td><b>Spearhead</b></td>
-<td>Made with 1.5 clay. Add a wooden hanle to a spearhead to make a spear.</td>
+<td>Made with 1.5 clay. Add a wooden handle to a spearhead to make a spear.</td>
 </tr>
 <tr>
 <td><img src="assets/images/mold_arrowhead_full.png"></td>

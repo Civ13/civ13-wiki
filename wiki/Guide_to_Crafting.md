@@ -428,7 +428,7 @@ And do not forget the ore collector!
 
 ### Petroleum
 
-There is nothing like burning some dead, millons of years old
+There is nothing like burning some dead, millions of years old
 microorganisms for your own comfort or processing them for shiny
 plastics, so let's start drilling!
 

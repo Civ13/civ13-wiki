@@ -39,7 +39,7 @@ domesticating animals.
 <td>
 <img src="assets/images/cow.png">
 </td>
-<td>Highly valuable as they give milk, which doesn't need to be purified or pastured at all. They can also breed in a 5x5 cage.</td>
+<td>Highly valuable as they give milk, which doesn't need to be purified or pasteurized at all. They can also breed in a 5x5 cage.</td>
 </tr>
 <tr>
 <td>Horse</td>
@@ -119,7 +119,7 @@ Pigs, Sheep, Goats and turkey's can breed for now)**
 <td>
 <img src="assets/images/panther.png">
 </td>
-<td>The assasins of the jungle, hunt with caution.</td>
+<td>The assassins of the jungle, hunt with caution.</td>
 </tr>
 <tr>
 <td>Jaguar</td>

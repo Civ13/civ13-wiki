@@ -3,7 +3,7 @@
 
 ### Rules
 
-Welcome to civ 13 Please take a moment to [read the server
+Welcome to Civ 13. Please take a moment to [read the server
 rules](Rules "wikilink")
 
 ### Joining the Server

@@ -35,7 +35,7 @@ Exported on 7 December 2021.
 | Sodium Chloride |  1u. sodium 1u. hclacid | none | none | 2 | sodiumchloride |
 | Aspirin |  5u. carbon 4u. water 2u. oxygen | none | none | 5 | aspirin |
 | Calcium carbonate |  1u. carbon 1u. calcium 3u. oxygen | none | none | 2 | calcium carbonate |
-| Carbon dioxyde |  1u. carbon 2u. oxygen | none | none | 2 | carbon_dioxyde |
+| Carbon dioxide |  1u. carbon 2u. oxygen | none | none | 2 | carbon_dioxide |
 | Sulphuric acid |  1u. sulfur 1u. oxygen 1u. hydrogen | none | none | 2 | sacid |
 | Saline Glucose solution |  1u. sodiumchloride 1u. water 1u. sugar | none | none | 2 | saline_glucose |
 | Aqua regia |  1u. nitric_acid 3u. clorhydric_acid | none | none | 2 | aqua_regia |

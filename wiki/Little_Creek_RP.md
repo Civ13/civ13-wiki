@@ -41,8 +41,8 @@ the round*
   - 1\. If the law has done nothing to you or your companions, then you
     should not try to fight the law.
 
-82\. The Bank should always allow the Deputies into the vault to make
-sure it's maintained (Bankers should keep and eye on the vault as well,
+2\. The Bank should always allow the Deputies into the vault to make
+sure it's maintained (Bankers should keep an eye on the vault as well,
 while keeping the doors locked at all times)
 
   - 3.You can assist either side depending on if you roleplayed with

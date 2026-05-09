@@ -72,7 +72,7 @@ be drawn on. Players also spawn with a **portable map**.
 ### Radios and Phones
 
 Each person spawns with a single-frequency **radio** tuned to that
-factions frequency. It can be used to securely talk with their fellow faction
+faction's frequency. It can be used to securely talk with their fellow faction
 members. You will need another faction's radio to listen to their frequency.
 
 **Company Telephones** can be used to contact 911 or other companies.
@@ -316,7 +316,7 @@ A police officer has the authority to **arrest** a suspect if they:
   - are in possession of a disk of any company, even their own regardless of state (active or not);
   - are trespassing on the property of another company, as certified by a member of that company;
   - are trespassing within the restricted area of the police station (anything after a warning stripe mark);
-  - are trespassing inside a publically prohibited area of a government building;
+  - are trespassing inside a publicly prohibited area of a government building;
   - have police equipment such as police armor, police weapons, and police keys, as well as police radios;
   - have stolen things on their person;
   - having an active arrest warrant; or were previously fleeing from police.
