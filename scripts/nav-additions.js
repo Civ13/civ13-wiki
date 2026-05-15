@@ -45,7 +45,7 @@ window.addEventListener('load', function() {
     /* Get next sibling of active list element
        then check if it has a nested ol
        if so, this implies our current active element has nested subpages */
-    var nextListEl = active.parentElement.nextElementSibling;
+    var nextListEl = active ? active.parentElement.nextElementSibling : null;
     var footer = document.getElementById("subpage-footer");
     footer.style.display = "none";
     if (nextListEl != null)
