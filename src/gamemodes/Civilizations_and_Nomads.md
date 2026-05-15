@@ -15,7 +15,7 @@ A map may have one or more ethnicities, each speaking its own language initially
 
 There is no predetermined goal.
 
-What will each civilization desire? Military power? World domination? Scholars with advanced technology? Mass resource output and production? Commerce and trade? Raiding? Itâ€™s up to you or your leaders to decide!
+What will each civilization desire? Military power? World domination? Scholars with advanced technology? Mass resource output and production? Commerce and trade? Raiding? It's up to you or your leaders to decide!
 
 ## What is RP Map mode?
 
