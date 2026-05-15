@@ -1,0 +1,142 @@
+/* Custom styles for SS14 docs */
+
+/* allow wider content since no navvybar buttons */
+:root, .light, .rust, .coal, .navy, .ayu {
+    --content-max-width: 850px;
+    
+    /* Old site colors */
+    --bg: rgb(46,46,46) !important;
+    --fg: #aaaaaa !important;
+    --links: #00bc8c !important;
+    
+    --sidebar-bg: rgb(46,46,46) !important;
+    --sidebar-fg: #aaaaaa !important;
+    --sidebar-active: #00bc8c !important;
+    --sidebar-active-bg: #444 !important;
+    
+    --menu-bar-bg: rgb(46,46,46) !important;
+    --inline-code-color: #bbbbbb !important;
+    --quote-bg: #333 !important;
+    --quote-border: #00bc8c !important;
+}
+
+a {
+    color: #00bc8c;
+}
+
+/* title text on top of every page */
+.menu-title {
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.menu-title a {
+    color: #00bc8c !important;
+    text-decoration: none;
+}
+
+@media only screen and (min-width: 1366px) {
+    .content>main {
+        /* navbar button was basically a margin left but dont have that no more so */
+        margin-left: 200px;
+    }
+} 
+
+/*   Mostly stolen from the Rhai book (rhai.rs) theme */
+.part-title {
+    font-size: 150%;
+    font-variant-caps: small-caps;
+    color: #d1d1d1;
+}
+
+/* lets get a little more compact */
+.chapter li.chapter-item {
+    margin-top: 0.45em;
+}
+
+.chapter>.chapter-item {
+    padding-left: 10px;
+}
+
+.chapter>.chapter-item:first-child {
+    font-weight: bold;
+    font-size: 200%;
+    font-variant-caps: small-caps;
+    padding-left: 0px;
+}
+
+/* bigger buttons for discoverability */ 
+.right-buttons > a > i {
+    font-size: 200%;
+}
+
+.left-buttons > button > i {
+    font-size: 200%;
+}
+
+/* Red links (missing pages) */
+.red-link {
+    color: #e74c3c !important;
+    text-decoration: underline dashed;
+}
+
+/* Table styles from old site */
+table {
+    border-color: #555;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    color: #868686;
+    text-align: left;
+    padding: 5px 10px;
+}
+
+td {
+    padding: 5px 10px;
+    border-bottom: 1px solid #444;
+    border-top: 1px solid #444;
+}
+
+/* Specific highlighting for the maps table on the index page */
+.maps-table tr:nth-child(even) {
+    background-color: transparent !important;
+}
+
+.maps-table tr:nth-child(2),
+.maps-table tr:nth-child(5),
+.maps-table tr:nth-child(8) {
+    background-color: #2e2e2e !important;
+}
+
+/* Heading colors */
+h1, h2, h3, h4, h5 {
+    color: rgb(209,209,209);
+    clear: both;
+}
+
+main h2, h3 {
+    margin-top: 1.25em;
+    border-bottom: 1px solid #444;
+    padding-bottom: 5px;
+}
+
+main h1 {
+    border-bottom: 3px solid #444;
+    padding-bottom: 7px;
+}
+
+.navy code {
+    background: #0f0f12 !important;
+}
+.mainmenu-line {
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #666666;
+    display: inline-block;
+    align-content: center;
+    text-align: center;
+    width: 128px;
+    height: 148px;
+}
