@@ -1,6 +1,6 @@
 // Un-active everything when you click it
 Array.prototype.forEach.call(document.getElementsByClassName("pagetoc")[0].children, function(el) {
-    el.addEventHandler("click", function() {
+    el.addEventListener("click", function() {
         Array.prototype.forEach.call(document.getElementsByClassName("pagetoc")[0].children, function(el) {
             el.classList.remove("active");
         });
