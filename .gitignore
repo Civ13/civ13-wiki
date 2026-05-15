@@ -4,3 +4,15 @@ _site/
 .jekyll-metadata
 workspace.code-workspace
 civ13-wiki.code-workspace
+
+# Wiki stuff
+book
+.idea/
+
+# editor files
+.*~
+*.swp
+
+# VSCodium files
+.vscode/
+*.code-workspace

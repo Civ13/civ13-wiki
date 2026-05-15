@@ -2,6 +2,6 @@ If you want to send a pull request to our project and the **github editor** is n
 
 1. Fork or copy this repository.
 
-2. Clone on your local environment and run your git-wiki installation following [this guide](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)
+2. Clone on your local environment and run `./mdbook.exe build --open` and the browser should open with the compiled wiki. For development, you can use `./mdbook.exe watch --open` to automatically build and update the browser when you make changes.
 
 3. Do your changes, push on your fork and create a Pull Request for us.
