@@ -102,6 +102,17 @@ main h3 {
     background: #0f0f12 !important;
 }
 
+.mainmenu-line {
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #666666;
+    display: inline-block;
+    align-content: center;
+    text-align: center;
+    width: 128px;
+    height: 148px;
+}
+
 /* Red links (missing pages) */
 .red-link {
     color: #e74c3c !important;

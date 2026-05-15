@@ -42,7 +42,7 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 
 <li class="mainmenu-line"> <a href="guides/Guide_to_Construction.md" title="Construction"><img src="images/icons/architecture.png" width="100" height="100" ></a><br><a href="guides/Guide_to_Construction.md" title="Guide to Construction"><b>Construction</b></a> </li>
 
-<li class="mainmenu-line"> <a href="guides/Guide_to_Communications.md" title="Communications"><img src="images/icons/talk.png" width="100" height="100" ></a><br><a href="guides/Guide_to_Communications.md" title="Guide to Communications"><b>Communications</b></a> </li>
+<li class="mainmenu-line"> <a href="guides/Guide_to_Communications.md" title="Communication"><img src="images/icons/talk.png" width="100" height="100" ></a><br><a href="guides/Guide_to_Communications.md" title="Guide to Communications"><b>Communication</b></a> </li>
 
 <li class="mainmenu-line"> <a href="guides/Guide_to_Farming.md" title="Guide to Farming"><img src="images/icons/farming.png" width="100" height="100" ></a><br><a href="guides/Guide_to_Farming.md" title="Guide to Farming"><b>Farming</b></a> </li>
 

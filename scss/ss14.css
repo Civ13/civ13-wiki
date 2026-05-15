@@ -114,3 +114,13 @@ main h1 {
 .navy code {
     background: #0f0f12 !important;
 }
+.mainmenu-line {
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid #666666;
+    display: inline-block;
+    align-content: center;
+    text-align: center;
+    width: 128px;
+    height: 148px;
+}
