@@ -24,7 +24,7 @@ additional-css = ['theme/compiled/ss14.css']
 default-theme = "navy"
 preferred-dark-theme = "navy"
 
-git-repository-url = "https://github.com/civ13/civ1-wiki"
+git-repository-url = "https://github.com/civ13/civ13-wiki"
 edit-url-template = "https://github.com/civ13/civ13-wiki/blob/master/{path}"
 
 mathjax-support = true
