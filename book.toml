@@ -1,0 +1,46 @@
+[book]
+authors = ["Civilization 13 Team"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Civilization 13 Wiki"
+description = "Guides and information regarding Civ13, a historic strategy game based on SS13."
+create-missing = true
+
+[preprocessor.admonish]
+assets_version = "3.0.1" # do not edit: managed by `mdbook-admonish install`
+command = "mdbook-admonish"
+
+[preprocessor.emojicodes]
+
+[preprocessor.template]
+before = ["admonish","emojicodes"] # templates can include these so we run this first
+
+[preprocessor.embedify]
+
+[output.html]
+additional-js = ['scripts/nav-additions.js']
+additional-css = ['theme/compiled/ss14.css']
+default-theme = "navy"
+preferred-dark-theme = "navy"
+
+git-repository-url = "https://github.com/civ13/civ13"
+edit-url-template = "https://github.com/civ13/civ13-wiki/blob/master/{path}"
+
+mathjax-support = true
+smart-punctuation = true
+no-section-label = true
+
+[output.html.print]
+enable = false
+
+[output.html.fold]
+enable = true
+level = 1
+
+[output.html.playground]
+runnable = false # sorry we arent rustpilled :(
+
+[output.linkcheck]
+traverse-parent-directories = true
+warning-policy = "ignore" # false-positives like hell with absolute links & latex, so.. cant do

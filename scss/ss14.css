@@ -1,0 +1,81 @@
+/* Custom styles for SS14 docs
+
+
+/* allow wider content since no navvybar buttons */
+:root {
+    --content-max-width: 850px;
+    --sidebar-active: #e23229;
+}
+
+/* title text on top of every page */
+.menu-title {
+    color: #e23229;
+}
+
+@media only screen and (min-width: 1366px) {
+    .content>main {
+        /* navbar button was basically a margin left but dont have that no more so */
+        margin-left: 200px;
+    }
+} 
+
+/*   Mostly stolen from the Rhai book (rhai.rs) theme */
+.part-title {
+    font-size: 150%;
+    font-variant-caps: small-caps;
+}
+
+/* lets get a little more compact */
+.chapter li.chapter-item {
+    margin-top: 0.45em;
+}
+
+.chapter>.chapter-item {
+    padding-left: 10px;
+}
+
+.chapter>.chapter-item:first-child {
+    font-weight: bold;
+    font-size: 200%;
+    font-variant-caps: small-caps;
+    padding-left: 0px;
+}
+
+/* bigger buttons for discoverability */ 
+.right-buttons > a > i {
+    font-size: 200%;
+}
+
+.left-buttons > button > i {
+    font-size: 200%;
+}
+
+td>ol,
+td>ul {
+    margin: 0;
+    padding: 0;
+    padding-left: inherit;
+}
+
+main h2, h3 {
+    margin-top: 1.25em;
+    border-bottom: 1px solid var(--sidebar-spacer);
+    padding-bottom: 5px;
+}
+
+main h1 {
+    border-bottom: 3px solid var(--sidebar-spacer);
+    padding-bottom: 7px;
+}
+
+main>section,
+main>pre,
+main h1,
+main h2,
+main h3 {
+    clear: both;
+}
+
+.navy code {
+    background: #0f0f12 !important;
+}
