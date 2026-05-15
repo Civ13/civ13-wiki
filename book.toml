@@ -25,7 +25,7 @@ default-theme = "navy"
 preferred-dark-theme = "navy"
 
 git-repository-url = "https://github.com/civ13/civ13-wiki"
-edit-url-template = "https://github.com/civ13/civ13-wiki/blob/master/{path}"
+edit-url-template = "https://github.com/civ13/civ13-wiki/blob/master/src/{path}"
 
 mathjax-support = true
 smart-punctuation = true
