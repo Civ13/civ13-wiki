@@ -26,8 +26,13 @@ a {
 
 /* title text on top of every page */
 .menu-title {
-    color: #00bc8c;
     cursor: pointer;
+    font-weight: bold;
+}
+
+.menu-title a {
+    color: #00bc8c !important;
+    text-decoration: none;
 }
 
 @media only screen and (min-width: 1366px) {
@@ -92,6 +97,17 @@ td {
     padding: 5px 10px;
     border-bottom: 1px solid #444;
     border-top: 1px solid #444;
+}
+
+/* Specific highlighting for the maps table on the index page */
+.maps-table tr:nth-child(even) {
+    background-color: transparent !important;
+}
+
+.maps-table tr:nth-child(2),
+.maps-table tr:nth-child(5),
+.maps-table tr:nth-child(8) {
+    background-color: #2e2e2e !important;
 }
 
 /* Heading colors */

@@ -1,4 +1,4 @@
-## What is this?
+﻿## What is this?
 
 Civilization 13 (formerly 1713) is a free game based on Space Station 13 code and using the BYOND platform, which features several epochs of human history. (hence the name).
 
@@ -70,7 +70,7 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 <div style="box-shadow: 0 0 .3em #999; border-radius: .2em; margin: 1em 0 2em 0; padding: 1px;">
 <div style="background: #962424; border-radius: .2em; color: #FFF; padding: .4em .8em .5em;"><img src="images/icons/maps.png" width="23" height="23" > &nbsp; <b>Maps</b></div>
 <div style="padding: 1em;"><div style="overflow:auto;">
-<table style="align-content:center;">
+<table class="maps-table" style="align-content:center;">
 <tbody><tr>
 <th style="align-content:center;"><img src="images/icons/politician.png" width="64" height="64" ></th>
 <th style="align-content:center;"><img src="images/icons/classical_architecture.png" width="64" height="64" ></th>
@@ -82,15 +82,15 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 <tr>
 <td style="vertical-align: top;">
 
-<img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="Nomads_Maps.md">Nomads Maps</a><br>
+<img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="maps/Nomads_Maps.md">Nomads Maps</a><br>
 
 <img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="gamemodes/The_Art_of_the_Deal.md">Art of the Deal</a><br>
 
 <img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="maps/Pepelsibirsk.md">Pepelsibirsk</a><br>
 
-<img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="Wasteland.md">Wasteland</a><br>
+<img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="maps/Wasteland.md">Wasteland</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Alleyway.md">Alleyway</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Alleyway.md">Alleyway</a><br>
 
 <img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="maps/Tribes.md">Tribes</a><br>
 </td>
@@ -98,11 +98,11 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 
 <img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Gladiators.md">Gladiators</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Heraclea.md">Heraclea</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Heraclea.md">Heraclea</a><br>
 
 <img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Siege.md">Siege</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Teutoburg.md">Teutoburg</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Teutoburg.md">Teutoburg</a><br>
 
 
 </td>
@@ -114,9 +114,9 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 
 <img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Sammirhayeed.md">Sammir Hayeed</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Battleroyale.md#Medieval">Battleroyale (Medieval)</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Battleroyale.md#Medieval">Battleroyale (Medieval)</a><br>
 
-<img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="Bohemia.md">Bohemia</a><br>
+<img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="maps/Bohemia.md">Bohemia</a><br>
 
 </td>
 </tr>
@@ -134,7 +134,7 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 
 <img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="maps/Colony.md">Colony</a><br>
 
-<img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="Four_Colonies.md">Four Colonies</a><br>
+<img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="maps/Four_Colonies.md">Four Colonies</a><br>
 
 <img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="maps/Hunt.md">Hunt</a><br>
 
@@ -142,15 +142,15 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 
 <img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Island.md">Island</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Isla_Robusta.md">Isla Robusta</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Isla_Robusta.md">Isla Robusta</a><br>
 
 <img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Supply_Raid.md">Supply Raid</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Fields.md">Fields</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Fields.md">Fields</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Recife.md">Recife</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Recife.md">Recife</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Battleroyale.md#Imperial">Battleroyale (Imperial)</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Battleroyale.md#Imperial">Battleroyale (Imperial)</a><br>
 
 </td>
 <td style="vertical-align: top;">
@@ -159,23 +159,23 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 
 <img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Little_Creek_TDM.md">Little Creek (TDM)</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Missionary_Ridge.md">Missionary Ridge</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Missionary_Ridge.md">Missionary Ridge</a><br>
 
-<img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="Pioneers.md">Pioneers</a><br>
+<img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="maps/Pioneers.md">Pioneers</a><br>
 </td>
 <td style="vertical-align: top;">
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Ypres.md">Ypres</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Ypres.md">Ypres</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Hill_203.md">Hill 203</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Hill_203.md">Hill 203</a><br>
 
 <img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Tsaritsyn.md">Tsaritsyn</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Port_Arthur.md">Port Arthur</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Port_Arthur.md">Port Arthur</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Santo_Tomas.md">Santo Tomas</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Santo_Tomas.md">Santo Tomas</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Coloocan.md">Coloocan</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Coloocan.md">Coloocan</a><br>
 </td>
 </tr>
 <tr>
@@ -192,35 +192,35 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 
 <img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="maps/Gulag_13.md">Gulag 13</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Reichstag.md">Reichstag</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Reichstag.md">Reichstag</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Intramuros.md">Intramuros</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Intramuros.md">Intramuros</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Iwo_Jima.md">Iwo Jima</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Iwo_Jima.md">Iwo Jima</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Khalkyn_Gol.md">Khalkyn Gol</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Khalkyn_Gol.md">Khalkyn Gol</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Kursk.md">Kursk</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Kursk.md">Kursk</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Nanjing.md">Nanjing</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Nanjing.md">Nanjing</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Omaha.md">Omaha</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Omaha.md">Omaha</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Rizal_Stadium.md">Rizal Stadium</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Rizal_Stadium.md">Rizal Stadium</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Stalingrad.md">Stalingrad</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Stalingrad.md">Stalingrad</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Stalingrad.md#Smallingrad">Smallingrad</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Stalingrad.md#Smallingrad">Smallingrad</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Wake Island.md">Wake Island</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Wake_Island.md">Wake Island</a><br>
 </td>
 <td style="vertical-align: top;">
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Compound.md">Compound</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Compound.md">Compound</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Road_to_Dak_To.md">Road to Dak To</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Road_to_Dak_To.md">Road to Dak To</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Retreat.md">Retreat</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Retreat.md">Retreat</a><br>
 
 </td>
 <td style="vertical-align: top;">
@@ -231,7 +231,7 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 
 <img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Hostages.md">Hostages</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="Battleroyale.md#Modern">Battleroyale (Modern)</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Battleroyale.md#Modern">Battleroyale (Modern)</a><br>
 </td>
 </tr>
 </tbody></table>
@@ -242,3 +242,5 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 [Contributing to this Wiki](Contributing_to_the_Wiki.md)
 
 [Games](Games.md) (similar games and inspirations)
+
+

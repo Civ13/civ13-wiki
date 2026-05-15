@@ -1,4 +1,4 @@
-# Civilizations and Nomads
+﻿# Civilizations and Nomads
 
 ***"I'm cold and starving, [WHAT DO I
 DO?](../Starter_Guide.md)"***
@@ -15,7 +15,7 @@ A map may have one or more ethnicities, each speaking its own language initially
 
 There is no predetermined goal.
 
-What will each civilization desire? Military power? World domination? Scholars with advanced technology? Mass resource output and production? Commerce and trade? Raiding? It’s up to you or your leaders to decide!
+What will each civilization desire? Military power? World domination? Scholars with advanced technology? Mass resource output and production? Commerce and trade? Raiding? Itâ€™s up to you or your leaders to decide!
 
 ## What is RP Map mode?
 
@@ -275,15 +275,15 @@ levels, check **[Full Crafting List](../Full_Crafting_List.md)**.
 - 145: NBC suits and hoods
 
 #### Blacksmithing
-- From 313 B.C.: Iron Xiphos, Iron Gladius. Ancient armors and helmets
-- From 1013: Steel small sword, steel spadroon. Iron small sword, spadroon and longsword. Medieval armors and helmets
-- From 1713: Steel Swords. Iron swords. Flintlock Muskets.
-- From 1873: Lever-Action Rifles, Single-Action Revolvers.
+- FromÂ 313Â B.C.:Â IronÂ Xiphos,Â IronÂ Gladius.Â AncientÂ armorsÂ andÂ helmets
+- FromÂ 1013:Â SteelÂ smallÂ sword,Â steelÂ spadroon.Â IronÂ smallÂ sword,Â spadroonÂ andÂ longsword.Â MedievalÂ armorsÂ andÂ helmets
+- FromÂ 1713:Â SteelÂ Swords.Â IronÂ swords.Â FlintlockÂ Muskets.
+- FromÂ 1873:Â Lever-ActionÂ Rifles,Â Single-ActionÂ Revolvers.
 
 #### Gunsmithing
-- From 1903: Bolt Actions, Revolvers, Small semi-auto guns (pistols)
-- From 1943: Full-Auto Guns, Semi-Auto Rifles
-- From 1969: Selective-Fire Guns
+- FromÂ 1903:Â BoltÂ Actions,Â Revolvers,Â SmallÂ semi-autoÂ gunsÂ (pistols)
+- FromÂ 1943:Â Full-AutoÂ Guns,Â Semi-AutoÂ Rifles
+- FromÂ 1969:Â Selective-FireÂ Guns
 
 ## Environments
 
@@ -369,4 +369,5 @@ Seasons:
 * Wet Season: Heavy rains and the arable land along the rivers is flooded.
 
 ## Nomads maps
-See **[Nomads Maps](../Nomads_Maps.md)**.
+See **[Nomads Maps](../maps/Nomads_Maps.md)**.
+

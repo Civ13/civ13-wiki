@@ -36,7 +36,9 @@ window.addEventListener('load', function() {
 
     /* Scroll the page index on the left to the current active page */
     var active = document.querySelector(".chapter li a.active");
-    active.scrollIntoView({ behavior: "instant", block: "center", inline: "nearest" });
+    if (active) {
+        active.scrollIntoView({ behavior: "instant", block: "center", inline: "nearest" });
+    }
 
     /* Populate subpage footer */
 

@@ -7,9 +7,6 @@
         {{#if is_print }}
         <meta name="robots" content="noindex">
         {{/if}}
-        {{#if base_url}}
-        <base href="{{ base_url }}">
-        {{/if}}
 
 
         <!-- Custom HTML head -->
@@ -18,7 +15,7 @@
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
         <meta name="description" content="{{ description }}"/>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
-        <meta name="theme-color" content="#e23229">
+        <meta name="theme-color" content="#00bc8c">
         <meta property="og:title" content="{{ title }}"/>
         <meta property="og:description" content="{{ description }}"/>
         <meta property="og:type" content="website"/>
@@ -95,7 +92,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                {{#toc}}{{/toc}}
+                {{{ toc }}}
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle">
                 <div class="sidebar-resize-indicator"></div>
@@ -129,7 +126,7 @@
                         {{/if}}
                     </div>
 
-                    <h1 class="menu-title">{{ book_title }}</h1>
+                    <h1 class="menu-title"><a href="{{ path_to_root }}index.html">{{ book_title }}</a></h1>
 
                     <div class="right-buttons">
                         {{#if print_enable}}
@@ -285,6 +282,15 @@
         <script src="{{ path_to_root }}clipboard.min.js" type="text/javascript" charset="utf-8"></script>
         <script src="{{ path_to_root }}highlight.js" type="text/javascript" charset="utf-8"></script>
         <script src="{{ path_to_root }}book.js" type="text/javascript" charset="utf-8"></script>
+        <script type="text/javascript">
+            /* Fix sidebar links if they are not relative */
+            Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                var href = link.getAttribute('href');
+                if (href && !href.startsWith('http') && !href.startsWith('#') && !href.startsWith('../') && !href.startsWith('./')) {
+                    link.href = path_to_root + href;
+                }
+            });
+        </script>
 
         <!-- Custom JS scripts -->
         {{#each additional_js}}

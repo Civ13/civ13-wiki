@@ -28,7 +28,13 @@ a {
 
 /* title text on top of every page */
 .menu-title {
-    color: #00bc8c;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.menu-title a {
+    color: #00bc8c !important;
+    text-decoration: none;
 }
 
 @media only screen and (min-width: 1366px) {
@@ -136,6 +142,17 @@ td {
     padding: 5px 10px;
     border-bottom: 1px solid #444;
     border-top: 1px solid #444;
+}
+
+/* Specific highlighting for the maps table on the index page */
+.maps-table tr:nth-child(even) {
+    background-color: transparent !important;
+}
+
+.maps-table tr:nth-child(2),
+.maps-table tr:nth-child(5),
+.maps-table tr:nth-child(8) {
+    background-color: #2e2e2e !important;
 }
 
 :root {
@@ -291,7 +308,6 @@ details[open].admonition > summary.admonition-title::after {
     mask-repeat: no-repeat;
     -webkit-mask-repeat: no-repeat;
     mask-size: contain;
-    -webkit-mask-repeat: no-repeat;
 }
 
 :is(.admonition):is(.admonish-abstract, .admonish-summary, .admonish-tldr) {
@@ -309,7 +325,6 @@ details[open].admonition > summary.admonition-title::after {
     mask-repeat: no-repeat;
     -webkit-mask-repeat: no-repeat;
     mask-size: contain;
-    -webkit-mask-repeat: no-repeat;
 }
 
 :is(.admonition):is(.admonish-info, .admonish-todo) {
@@ -327,7 +342,6 @@ details[open].admonition > summary.admonition-title::after {
     mask-repeat: no-repeat;
     -webkit-mask-repeat: no-repeat;
     mask-size: contain;
-    -webkit-mask-repeat: no-repeat;
 }
 
 :is(.admonition):is(.admonish-tip, .admonish-hint, .admonish-important) {
@@ -345,7 +359,6 @@ details[open].admonition > summary.admonition-title::after {
     mask-repeat: no-repeat;
     -webkit-mask-repeat: no-repeat;
     mask-size: contain;
-    -webkit-mask-repeat: no-repeat;
 }
 
 :is(.admonition):is(.admonish-success, .admonish-check, .admonish-done) {
@@ -363,7 +376,6 @@ details[open].admonition > summary.admonition-title::after {
     mask-repeat: no-repeat;
     -webkit-mask-repeat: no-repeat;
     mask-size: contain;
-    -webkit-mask-repeat: no-repeat;
 }
 
 :is(.admonition):is(.admonish-question, .admonish-help, .admonish-faq) {
@@ -381,7 +393,6 @@ details[open].admonition > summary.admonition-title::after {
     mask-repeat: no-repeat;
     -webkit-mask-repeat: no-repeat;
     mask-size: contain;
-    -webkit-mask-repeat: no-repeat;
 }
 
 :is(.admonition):is(.admonish-warning, .admonish-caution, .admonish-attention) {
@@ -400,7 +411,6 @@ details[open].admonition > summary.admonition-title::after {
     mask-repeat: no-repeat;
     -webkit-mask-repeat: no-repeat;
     mask-size: contain;
-    -webkit-mask-repeat: no-repeat;
 }
 
 :is(.admonition):is(.admonish-failure, .admonish-fail, .admonish-missing) {
@@ -418,7 +428,6 @@ details[open].admonition > summary.admonition-title::after {
     mask-repeat: no-repeat;
     -webkit-mask-repeat: no-repeat;
     mask-size: contain;
-    -webkit-mask-repeat: no-repeat;
 }
 
 :is(.admonition):is(.admonish-danger, .admonish-error) {
@@ -436,7 +445,6 @@ details[open].admonition > summary.admonition-title::after {
     mask-repeat: no-repeat;
     -webkit-mask-repeat: no-repeat;
     mask-size: contain;
-    -webkit-mask-repeat: no-repeat;
 }
 
 :is(.admonition):is(.admonish-bug) {
@@ -454,7 +462,6 @@ details[open].admonition > summary.admonition-title::after {
     mask-repeat: no-repeat;
     -webkit-mask-repeat: no-repeat;
     mask-size: contain;
-    -webkit-mask-repeat: no-repeat;
 }
 
 :is(.admonition):is(.admonish-example) {
@@ -472,7 +479,6 @@ details[open].admonition > summary.admonition-title::after {
     mask-repeat: no-repeat;
     -webkit-mask-repeat: no-repeat;
     mask-size: contain;
-    -webkit-mask-repeat: no-repeat;
 }
 
 :is(.admonition):is(.admonish-quote, .admonish-cite) {
@@ -490,7 +496,6 @@ details[open].admonition > summary.admonition-title::after {
     mask-repeat: no-repeat;
     -webkit-mask-repeat: no-repeat;
     mask-size: contain;
-    -webkit-mask-repeat: no-repeat;
 }
 
 .navy :is(.admonition) {
@@ -519,7 +524,7 @@ details[open].admonition > summary.admonition-title::after {
     }
 }
 @media only screen and (min-width: 1366px) {
-    main {
+    .content > main {
         position: relative;
     }
     .sidetoc {
