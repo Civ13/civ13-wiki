@@ -3,14 +3,32 @@
 
 
 /* allow wider content since no navvybar buttons */
-:root {
+:root, .light, .rust, .coal, .navy, .ayu {
     --content-max-width: 850px;
-    --sidebar-active: #e23229;
+    
+    /* Old site colors */
+    --bg: rgb(46,46,46) !important;
+    --fg: #aaaaaa !important;
+    --links: #00bc8c !important;
+    
+    --sidebar-bg: rgb(46,46,46) !important;
+    --sidebar-fg: #aaaaaa !important;
+    --sidebar-active: #00bc8c !important;
+    --sidebar-active-bg: #444 !important;
+    
+    --menu-bar-bg: rgb(46,46,46) !important;
+    --inline-code-color: #bbbbbb !important;
+    --quote-bg: #333 !important;
+    --quote-border: #00bc8c !important;
+}
+
+a {
+    color: #00bc8c;
 }
 
 /* title text on top of every page */
 .menu-title {
-    color: #e23229;
+    color: #00bc8c;
 }
 
 @media only screen and (min-width: 1366px) {
@@ -23,6 +41,7 @@
 .part-title {
     font-size: 150%;
     font-variant-caps: small-caps;
+    color: rgb(209,209,209);
 }
 
 /* lets get a little more compact */
@@ -60,13 +79,15 @@ td > ul {
 main h2,
 h3 {
     margin-top: 1.25em;
-    border-bottom: 1px solid var(--sidebar-spacer);
+    border-bottom: 1px solid #444;
     padding-bottom: 5px;
+    color: rgb(209,209,209);
 }
 
 main h1 {
-    border-bottom: 3px solid var(--sidebar-spacer);
+    border-bottom: 3px solid #444;
     padding-bottom: 7px;
+    color: rgb(209,209,209);
 }
 
 main > section,
@@ -79,6 +100,31 @@ main h3 {
 
 .navy code {
     background: #0f0f12 !important;
+}
+
+/* Red links (missing pages) */
+.red-link {
+    color: #e74c3c !important;
+    text-decoration: underline dashed;
+}
+
+/* Table styles from old site */
+table {
+    border-color: #555;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    color: #868686;
+    text-align: left;
+    padding: 5px 10px;
+}
+
+td {
+    padding: 5px 10px;
+    border-bottom: 1px solid #444;
+    border-top: 1px solid #444;
 }
 
 :root {

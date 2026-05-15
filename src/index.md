@@ -1,6 +1,3 @@
----
-title: main page
----
 ## What is this?
 
 Civilization 13 (formerly 1713) is a free game based on Space Station 13 code and using the BYOND platform, which features several epochs of human history. (hence the name).
