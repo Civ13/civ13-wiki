@@ -13,7 +13,7 @@ Pepelsibirsk has several special mechanics to take into consideration.
 - Personal documents: These appear on your character at game-start and generate a background for your character to assist with roleplay. They can also store notes by writing on them with a pen.
 
 # Map
-<img src="images/Pepelsibirsk.png">
+<img src="../images/Pepelsibirsk.png">
 
 # Politics
 *These are just RP suggestions - feel free to come up with your own system of government. Note, however, that the following wiki is written with the historical system in mind.*
@@ -699,7 +699,7 @@ The ministers of these ministries are appointed by the President.[/small]<br>
 </details>
 
 # Lore
-<img src="images/pepelsibirsk_map_new.png">
+<img src="../images/pepelsibirsk_map_new.png">
 
 A map of the world as known to Pepelsibirsk in early 1976. The greyer a part of the map, the less those areas are under a recognizable centralized authority - though these areas are not typically lawless, instead ruled by roving gangs of bandits demanding protection money, small city-states, local councils, military forces engaged in brutal fighting, and disorganized rebels or guerillas fighting against central authority. Flags represent areas that are controlled as a central or federal government, whereas coats of arms represent governments that are highly decentralized and have no clear borders, claimed or unclaimed.
 

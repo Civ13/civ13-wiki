@@ -1,4 +1,4 @@
-﻿# Civilizations and Nomads
+# Civilizations and Nomads
 
 ***"I'm cold and starving, [WHAT DO I
 DO?](../Starter_Guide.md)"***
@@ -295,7 +295,7 @@ There are seasons of the year, effects of which are different in every biome. So
 
 On large maps with multiple biomes each biome has its own list of plants that could be grown there. Many plants also grow only in certain seasons. See the **[Guide to Farming](../guides/Guide_to_Farming.md)**.
 
-To determine the biome you are in, read the descriptions below and look at your surroundings. Looking at the map of **[Pangea](https://civ13.github.io/civ13-wiki/images/map_pangea.png)** that has almost every biome may also help. From top to bottom: Tundra, Taiga (roughly the southern half of the snowed area, before the northern mountains), Temperate, Semi-Arid, Desert, Savanna, Jungle. The one biome missing is Sea.
+To determine the biome you are in, read the descriptions below and look at your surroundings. Looking at the map of **[Pangea](../images/map_pangea.png)** that has almost every biome may also help. From top to bottom: Tundra, Taiga (roughly the southern half of the snowed area, before the northern mountains), Temperate, Semi-Arid, Desert, Savanna, Jungle. The one biome missing is Sea.
 
 ### Biomes and seasons
 

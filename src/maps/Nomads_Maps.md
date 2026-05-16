@@ -2,7 +2,7 @@
 
 ## Temperate
 
-<img src="images/map_temperate.png">
+<img src="../images/map_temperate.png">
 
 This is the classic map, using the same map as the Civilizations map.
 
@@ -16,7 +16,7 @@ This is the classic map, using the same map as the Civilizations map.
 
 ## Desert
 
-<img src="images/map_desert.png">
+<img src="../images/map_desert.png">
 
   - In this map, the whole area is a desert with some sparse water
     sources and farming plots.
@@ -28,7 +28,7 @@ This is the classic map, using the same map as the Civilizations map.
 
 ## Jungle
 
-<img src="images/map_jungle.png">
+<img src="../images/map_jungle.png">
 
 A dense tropical rainforest. You can only farm on the floodplains and during the dry
 season. Wildlife is deadly here\! Stay away from panthers, mosquitoes
@@ -37,7 +37,7 @@ without a bridge is considered unsafe - piranhas are abundant.
 
 ## Divide (Jungle-Desert)
 
-<img src="images/map_divide.png">
+<img src="../images/map_divide.png">
 
 Jungle biome on West side, Desert biome on East side, separated by
 mineable mountains and a small patch of clear land filled with
@@ -45,17 +45,17 @@ alligators.
 
 ## Ice Age
 
-<img src="images/map_ice_age.png">
+<img src="../images/map_ice_age.png">
 
 Snow plains with frozen rivers and lakes. Rock is more abundant than wood. You may encounter wolves, deer, bears, penguins, goats, mammoths, and dogs. Summer lasts only 1/4 of the year, the rest is winter.
 
 ## Continental
 
-<img src="images/map_continents_two.png">
+<img src="../images/map_continents_two.png">
 
 ## Pangea
 
-<img src="images/map_pangea.png">
+<img src="../images/map_pangea.png">
 
 A combined map with no oceans dividing the biomes, excluding mountain ranges.
 
@@ -65,13 +65,13 @@ Tundra, Taiga, Temperate, Semi-Arid, Desert, Savannah, and Jungle
 
 ## New World
 
-<img src="images/map_new_world.png">
+<img src="../images/map_new_world.png">
 
 Everyone starts on the eastern continent. Crossing to the western islands requires something better than a simple raft.
 
 ## Mediterranean
 
-<img src="images/map_mediterranean.png">
+<img src="../images/map_mediterranean.png">
 
 ## Island
 
@@ -81,7 +81,7 @@ A small island for 10-15 players, divided by a lava region, jungle/part swamp, a
 
 ## Europe
 
-<img src="images/map_europe.png">
+<img src="../images/map_europe.png">
 
 A map based off of the European continent, it has a northern region covered in snow based off of Scandinavia and northern Russia..
 
@@ -93,7 +93,7 @@ Section of Nomads_World project (1/4)
 
 ## Africa
 
-<img src="images/map_africa.png">
+<img src="../images/map_africa.png">
 
 Based off of all of Africa: Desert, Savannah, Jungle, Savannah.
 
