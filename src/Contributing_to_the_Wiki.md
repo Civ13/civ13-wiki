@@ -44,27 +44,6 @@ If you prefer to edit the files locally, and/or want to experiment with the webs
 
 2. Using your preferred git client, download your fork (If you have no idea of what I'm talking about, use [GitHub Desktop](https://desktop.github.com/)).
 
-3. You will need **Ruby** and **Jekyll** installed. If you do not have it yet, follow Jekyll's guide [here](https://jekyllrb.com/docs/installation/#guides).
+3. Open the command line on whatever operating system you are using (***Terminal*** on Linux and MacOS, ***cmd*** or ***PowerShell*** on Windows), navigate to the civ13-wiki/ folder and run `./mdbook.exe build --open`. This will compile the wiki and open the browser to display it.
 
-4. Open the command line on whatever operating system you are using (***Terminal*** on Linux and MacOS, ***cmd*** or ***PowerShell*** on Windows), navigate to the civ13-wiki/ folder and run `bundle install` to update all the Ruby requirements.
-
-5. You can now compile and run your local build! Run `bundle exec jekyll serve` and wait for it to compile. Then you can view the website by opening your browser and navigating to [http://localhost:4000](http://localhost:4000).
-
-## Features 
-
-* Improvements in the **cooperative** aspect: forks, pull-requests and roles.
-* You can **customize your wiki** as you want with style sheets and even changing the layout. (see customization section below) 
-* **No databases!** Only static files that can be downloaded in a few seconds.
-* **Blazing fast** and free thankfully to Github/Gitlab Pages and Jekyll Server Side Generation process!
-* **Markdown and html** mixed together!
-* **Multiple free search engines!** on a static site!
-* **History, revision comparison** and everything you need from a wiki platform.
-* You can **edit your pages** with the standard git editor, prose.io (integrated) or any kind of editor you prefer.
-* Non-existent wiki page links are "[red](https://en.wikipedia.org/wiki/Wikipedia:Red_link)", you can **click on them to automatically create a new page**!
-* External links get the right icon automatically.
-* **Component system with hooks** that allows you to totally customize your wiki UI. ([see customization documentation here](http://www.drassil.org/git-wiki/customize)) 
-* Some **nice internal themes** to change your entire wiki UI with 1 simple configuration. ([see customization documentation here](http://www.drassil.org/git-wiki/customize))
-* Automatic generated **TOC**
-* You can download the entire wiki for **offline** usage and even navigate directly using a markdown reader.
-
-Instructions and full documentation: [http://drassil.github.io/git-wiki](http://drassil.github.io/git-wiki)
+4. To help with editing, you can run `./mdbook.exe watch --open`, and when viewing it on the browser it will refresh every time you make an edit to the files.
