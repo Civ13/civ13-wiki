@@ -19,7 +19,9 @@
     --quote-bg: #333 !important;
     --quote-border: #00bc8c !important;
 }
-
+img.pixelated {
+  image-rendering: pixelated;
+}
 a {
     color: #00bc8c;
 }
