@@ -109,7 +109,7 @@ If loot in the middle of a storm seems to "step" away from you as you walk towar
 You cannot shoot a Boreas. You must use fire (torches or fire-based weapons) to kill it. Since it ignores you, you can safely attack it, but you must do so quickly before it drains your colony's fuel and leaves you to freeze.
 </td></tr></table>
 
-<h2 id="echofiend">Echofiend (The Sound-Tracker)</h2>
+<h2 id="echofiend">Echofiend</h2>
 <table><tr><td width="40%" style="vertical-align: top;">
 <div style="text-align: center;"><img class="pixelated" src="images/entities/echofiend.png" width="128" height="128"></div><br>
 <blockquote>“The Lightseeker wants your eyes; the Echofiend wants your voice.”</blockquote>
