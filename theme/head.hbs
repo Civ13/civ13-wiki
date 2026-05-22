@@ -1,0 +1,217 @@
+<!-- Load fflate decompression library -->
+<script type="importmap">
+  {
+    "imports": {
+      "fflate": "https://cdn.jsdelivr.net/npm/fflate@0.8.2/+esm"
+    }
+  }
+</script>
+
+<!-- The Civ13 DMI Sprite Web Component -->
+<script type="module">
+    import { inflateSync } from 'fflate';
+
+    const metadataCache = {};
+    const imageCache = {};
+
+    const DIR_MAP = {
+        "1": 0, "south": 0,
+        "2": 1, "north": 1,
+        "4": 2, "east": 2,
+        "8": 3, "west": 3,
+        "5": 4, "southeast": 4,
+        "6": 5, "southwest": 5,
+        "9": 6, "northeast": 6,
+        "10": 7, "northwest": 7
+    };
+
+    class DmiSprite extends HTMLElement {
+        constructor() {
+            super();
+            this.attachShadow({ mode: 'open' });
+            this.canvas = document.createElement('canvas');
+            this.ctx = this.canvas.getContext('2d');
+            this.shadowRoot.appendChild(this.canvas);
+            this.animationFrameId = null;
+            this.currentFrame = 0;
+
+            const style = document.createElement('style');
+            style.textContent = `canvas { image-rendering: pixelated; display: inline-block; }`;
+            this.shadowRoot.appendChild(style);
+        }
+
+        static get observedAttributes() {
+            return ['src', 'state', 'dir', 'animated', 'scale'];
+        }
+
+        attributeChangedCallback() {
+            this.loadAndRender();
+        }
+
+        disconnectedCallback() {
+            this.stopAnimation();
+        }
+
+        stopAnimation() {
+            if (this.animationFrameId) {
+                clearTimeout(this.animationFrameId);
+                this.animationFrameId = null;
+            }
+        }
+
+        async loadAndRender() {
+            this.stopAnimation();
+
+            const src = this.getAttribute('src');
+            const stateName = this.getAttribute('state') || "";
+            const dirAttr = (this.getAttribute('dir') || "south").toLowerCase();
+            const animated = this.getAttribute('animated') === "true";
+            const scale = parseInt(this.getAttribute('scale')) || 1;
+
+            if (!src) return;
+
+            try {
+                if (!metadataCache[src]) {
+                    metadataCache[src] = this.parseDmiMetadata(src);
+                }
+                const metadata = await metadataCache[src];
+                if (!metadata) return;
+
+                const img = await this.loadImage(src);
+
+                let startFrameIndex = 0;
+                let targetState = null;
+
+                for (const s of metadata.states) {
+                    if (s.name === stateName) {
+                        targetState = s;
+                        break;
+                    }
+                    startFrameIndex += s.dirs * s.frames;
+                }
+
+                if (!targetState) return;
+
+                const tileWidth = metadata.width;
+                const tileHeight = metadata.height;
+                const cols = Math.floor(img.width / tileWidth);
+
+                this.canvas.width = tileWidth * scale;
+                this.canvas.height = tileHeight * scale;
+                this.ctx.imageSmoothingEnabled = false;
+
+                const dirIndex = DIR_MAP[dirAttr] !== undefined ? DIR_MAP[dirAttr] : 0;
+                const finalDir = dirIndex < targetState.dirs ? dirIndex : 0;
+
+                const renderFrame = () => {
+                    const localFrameIndex = (this.currentFrame * targetState.dirs) + finalDir;
+                    const globalFrameIndex = startFrameIndex + localFrameIndex;
+
+                    const col = globalFrameIndex % cols;
+                    const row = Math.floor(globalFrameIndex / cols);
+
+                    const sx = col * tileWidth;
+                    const sy = row * tileHeight;
+
+                    this.ctx.clearRect(0, 0, this.canvas.width, this.canvas.height);
+                    this.ctx.drawImage(
+                        img,
+                        sx, sy, tileWidth, tileHeight,
+                        0, 0, this.canvas.width, this.canvas.height
+                    );
+
+                    if (animated && targetState.frames > 1) {
+                        const delay = (targetState.delay && targetState.delay[this.currentFrame]) ? targetState.delay[this.currentFrame] * 100 : 200;
+                        this.currentFrame = (this.currentFrame + 1) % targetState.frames;
+                        this.animationFrameId = setTimeout(renderFrame, delay);
+                    }
+                };
+
+                this.currentFrame = 0;
+                renderFrame();
+
+            } catch (err) {
+                console.error("Failed to render DMI Sprite:", err);
+            }
+        }
+
+        loadImage(url) {
+            if (imageCache[url]) return imageCache[url];
+            imageCache[url] = new Promise((resolve, reject) => {
+                const img = new Image();
+                img.crossOrigin = "anonymous";
+                img.onload = () => resolve(img);
+                img.onerror = reject;
+                img.src = url;
+            });
+            return imageCache[url];
+        }
+
+        async parseDmiMetadata(url) {
+            let response;
+            try {
+                response = await fetch(url);
+            } catch (fetchErr) {
+                // fetch() is blocked when the page is opened via file:// (browser security).
+                // Host the wiki through a local server (e.g. `mdbook serve`) to enable sprites.
+                console.warn('dmi-sprite: fetch blocked (file:// origin). Serve the wiki via a local HTTP server to display sprites.', fetchErr);
+                return null;
+            }
+            const arrayBuffer = await response.arrayBuffer();
+            const view = new DataView(arrayBuffer);
+            let offset = 8;
+
+            while (offset < arrayBuffer.byteLength) {
+                const length = view.getUint32(offset);
+                const chunkType = String.fromCharCode(
+                    view.getUint8(offset + 4), view.getUint8(offset + 5),
+                    view.getUint8(offset + 6), view.getUint8(offset + 7)
+                );
+
+                if (chunkType === 'zTXt') {
+                    const data = new Uint8Array(arrayBuffer, offset + 8, length);
+                    let keyword = "";
+                    let i = 0;
+                    while (data[i] !== 0) {
+                        keyword += String.fromCharCode(data[i]);
+                        i++;
+                    }
+
+                    if (keyword === "Description") {
+                        const compressedData = data.slice(i + 2);
+                        const decompressed = inflateSync(compressedData);
+                        const metadataString = new TextDecoder("utf-8").decode(decompressed);
+                        return this.parseDmiText(metadataString);
+                    }
+                }
+                offset += 12 + length;
+            }
+            return null;
+        }
+
+        parseDmiText(text) {
+            const lines = text.split('\n');
+            const result = { states: [], width: 32, height: 32 };
+            let currentState = null;
+
+            for (let line of lines) {
+                line = line.trim();
+                if (line.startsWith('width =')) result.width = parseInt(line.split('=')[1]);
+                if (line.startsWith('height =')) result.height = parseInt(line.split('=')[1]);
+
+                if (line.startsWith('state = "')) {
+                    const name = line.match(/"([^"]+)"/)[1];
+                    currentState = { name: name, dirs: 1, frames: 1, delay: [] };
+                    result.states.push(currentState);
+                } else if (currentState) {
+                    if (line.startsWith('dirs =')) currentState.dirs = parseInt(line.split('=')[1]);
+                    if (line.startsWith('frames =')) currentState.frames = parseInt(line.split('=')[1]);
+                    if (line.startsWith('delay =')) currentState.delay = line.split('=')[1].trim().split(',').map(Number);
+                }
+            }
+            return result;
+        }
+    }
+
+    customElements.define('dmi-sprite', DmiSprite);
+</script>

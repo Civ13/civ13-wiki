@@ -1,5 +1,7 @@
 # Lights Out
 
+<dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/lobby/lights_out.dmi" state="lights_out" dir="south" animated="true" scale="1"></dmi-sprite>
+
 ## Overview
 A hostile, pitch-black jungle survival scenario where players must reach an extraction zone to escape.
 

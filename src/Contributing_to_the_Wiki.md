@@ -47,3 +47,53 @@ If you prefer to edit the files locally, and/or want to experiment with the webs
 3. Open the command line on whatever operating system you are using (***Terminal*** on Linux and MacOS, ***cmd*** or ***PowerShell*** on Windows), navigate to the civ13-wiki/ folder and run `./mdbook.exe build --open`. This will compile the wiki and open the browser to display it.
 
 4. To help with editing, you can run `./mdbook.exe watch --open`, and when viewing it on the browser it will refresh every time you make an edit to the files.
+
+## DMI Sprites (`<dmi-sprite>`)
+
+The wiki supports rendering sprites directly from `.dmi` files (the icon format used by BYOND/SS13) using a custom HTML element.
+
+```admonish note
+Sprites are fetched over HTTP and will only display when the wiki is served via a web server (e.g. `./mdbook.exe serve`, or the live GitHub Pages site). They **will not** appear when opening an `.html` file directly from the filesystem (`file://`), due to browser security restrictions on cross-origin fetching.
+```
+
+### Basic syntax
+
+```html
+<dmi-sprite src="URL_TO_FILE.dmi" state="state_name"></dmi-sprite>
+```
+
+### Attributes
+
+| Attribute  | Required | Default | Description                                                                                                                                                                                                                     |
+| ---------- | -------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `src`      | ✅ Yes    | —       | Full URL to the `.dmi` file. Use raw GitHub URLs, e.g. `https://raw.githubusercontent.com/civ13/civ13/master/icons/...`                                                                                                         |
+| `state`    | ✅ Yes    | `""`    | The icon state name inside the DMI to display (case-sensitive, must match exactly).                                                                                                                                             |
+| `dir`      | No       | `south` | Direction to display. Accepts: `south`, `north`, `east`, `west`, `southeast`, `southwest`, `northeast`, `northwest` (or their BYOND numeric codes `1`, `2`, `4`, `8`, etc.). Falls back to `south` if the state has fewer dirs. |
+| `animated` | No       | `false` | Set to `"true"` to play the animation if the state has multiple frames.                                                                                                                                                         |
+| `scale`    | No       | `1`     | Integer pixel scale multiplier. Use `2` or `3` for a larger display (e.g. a 32×32 sprite becomes 64×64 or 96×96).                                                                                                               |
+
+### Examples
+
+**Static sprite (south-facing, default size):**
+```html
+<dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/items.dmi" state="knife"></dmi-sprite>
+```
+
+**Animated sprite, scaled up 2×:**
+```html
+<dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/mob/human.dmi" state="human" dir="south" animated="true" scale="2"></dmi-sprite>
+```
+
+**Centred in a paragraph (wrap in a `<div>` or `<p>`):**
+```html
+<div style="text-align: center;">
+  <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/lobby/lights_out.dmi" state="lights_out" animated="true" scale="2"></dmi-sprite>
+</div>
+```
+
+### Tips
+
+- The `src` must be a **raw** GitHub URL (starting with `https://raw.githubusercontent.com/`), not a regular GitHub page URL.
+- State names are **case-sensitive** and must match the name as it appears inside the `.dmi` file exactly.
+- If nothing appears, check that the state name is correct and that you are viewing the page through a server (not via `file://`).
+- You can mix `<dmi-sprite>` with regular markdown or HTML — it is an inline element by default.

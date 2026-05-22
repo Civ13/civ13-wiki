@@ -5,3 +5,5 @@ If you want to send a pull request to our project and the **github editor** is n
 2. Clone on your local environment and run `./mdbook.exe build --open` and the browser should open with the compiled wiki. For development, you can use `./mdbook.exe watch --open` to automatically build and update the browser when you make changes.
 
 3. Do your changes, push on your fork and create a Pull Request for us.
+
+For more in depth information, check the wiki page in `src/Contributing_to_the_Wiki.md`
