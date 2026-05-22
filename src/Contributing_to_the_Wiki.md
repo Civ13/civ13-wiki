@@ -18,9 +18,7 @@ However, don't worry! It is simpler than it seems. You do **not** need to downlo
 
 **4) Your fork of the wiki is now live! You can now open the wiki using the link shown there. It will look similar to https://**YOURUSERNAME**.github.io/civ13-wiki**
 
-**5) You're all set! Just edit by either creating a new page, or selecting *edit* on the top right menu, like the image below:**
-
-![image](images/edit_menu.PNG)
+**5) You're all set! Just edit by either creating a new page, or selecting *edit* on the top right menu.**
 
 **6) The wiki pages are written in markdown and have the *.md* extension - for more information on the markdown language and how to type in bold, italic, and so on, check [this page](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). They are located in the wiki/ folder. If you add any images, put them in images/. You can also use HTML on the pages if you need to, but its the best practice to keep to markdown unless its something you need html for (i.e., sortable tables).**
 
