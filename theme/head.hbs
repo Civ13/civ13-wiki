@@ -1,44 +1,3 @@
-<!-- Patch book.js theme setter to prevent null reference errors -->
-<script type="text/javascript">
-    // Wrap set_theme to handle null reference errors gracefully
-    window.addEventListener('DOMContentLoaded', function() {
-        if (typeof window.set_theme === 'function') {
-            var originalSetTheme = window.set_theme;
-            window.set_theme = function(theme) {
-                try {
-                    var themes = document.querySelectorAll('input[name="theme"]');
-                    if (themes && themes.length > 0) {
-                        themes.forEach(function(el) {
-                            if (el) {
-                                el.checked = (el.value === theme);
-                                if (themes.length > 1 && el.disabled !== undefined) {
-                                    el.disabled = (el.value !== theme);
-                                }
-                            }
-                        });
-                    }
-                    if (theme && typeof localStorage !== 'undefined') {
-                        localStorage.setItem('mdbook-theme', theme);
-                    }
-                } catch (e) {
-                    console.warn('Error setting theme:', e);
-                }
-            };
-        }
-    });
-    
-    // Also wrap any global theme initialization to catch errors
-    var originalConsoleError = console.error;
-    console.error = function() {
-        var args = Array.prototype.slice.call(arguments);
-        if (args[0] && typeof args[0] === 'string' && args[0].includes('Cannot set properties of null')) {
-            console.warn('Suppressed theme error (no elements to set):', args[0]);
-            return;
-        }
-        originalConsoleError.apply(console, args);
-    };
-</script>
-
 <!-- Load fflate decompression library -->
 <script type="importmap">
   {
@@ -204,49 +163,61 @@
 
             while (offset + 8 <= arrayBuffer.byteLength) {
                 if (offset + 8 > arrayBuffer.byteLength) break;
-                const length = view.getUint32(offset);
+                
+                let length;
+                try {
+                    length = view.getUint32(offset);
+                } catch (e) {
+                    break;
+                }
+                
                 if (offset + 12 + length > arrayBuffer.byteLength) break;
                 
-                const chunkType = String.fromCharCode(
-                    view.getUint8(offset + 4), view.getUint8(offset + 5),
-                    view.getUint8(offset + 6), view.getUint8(offset + 7)
-                );
+                let chunkType;
+                try {
+                    chunkType = String.fromCharCode(
+                        view.getUint8(offset + 4), view.getUint8(offset + 5),
+                        view.getUint8(offset + 6), view.getUint8(offset + 7)
+                    );
+                } catch (e) {
+                    offset += 12 + length;
+                    continue;
+                }
 
                 if (chunkType === 'zTXt') {
-                    const data = new Uint8Array(arrayBuffer, offset + 8, length);
-                    let keyword = "";
-                    let i = 0;
-                    while (i < length && data[i] !== 0) {
-                        keyword += String.fromCharCode(data[i]);
-                        i++;
-                    }
+                    try {
+                        const data = new Uint8Array(arrayBuffer, offset + 8, length);
+                        let keyword = "";
+                        let i = 0;
+                        while (i < length && data[i] !== 0) {
+                            keyword += String.fromCharCode(data[i]);
+                            i++;
+                        }
 
-                    if (keyword === "Description" && i + 1 < length) {
-                        // Skip compression method byte (should be 0 for deflate)
-                        const compressionMethod = data[i + 1];
-                        if (compressionMethod !== 0) {
-                            console.warn('DMI metadata uses unsupported compression method:', compressionMethod);
-                            return null;
-                        }
-                        
-                        const compressedData = data.slice(i + 2);
-                        if (compressedData.length > 4) {  // Minimum valid deflate data size
-                            try {
-                                const decompressed = inflateSync(compressedData);
-                                if (decompressed && decompressed.length > 0) {
-                                    const metadataString = new TextDecoder("utf-8").decode(decompressed);
-                                    if (metadataString && metadataString.length > 0) {
-                                        return this.parseDmiText(metadataString);
-                                    }
-                                }
-                            } catch (err) {
-                                console.warn("DMI metadata may be corrupted, skipping:", err.message);
-                                return null;
+                        if (keyword === "Description" && i + 1 < length) {
+                            const compressionMethod = data[i + 1];
+                            if (compressionMethod !== 0) {
+                                offset += 12 + length;
+                                continue;
                             }
-                        } else {
-                            console.warn("DMI metadata chunk too small:", compressedData.length);
-                            return null;
+                            
+                            const compressedData = data.slice(i + 2);
+                            if (compressedData.length > 2) {
+                                try {
+                                    const decompressed = inflateSync(compressedData);
+                                    if (decompressed && decompressed.length > 0) {
+                                        const metadataString = new TextDecoder("utf-8").decode(decompressed);
+                                        if (metadataString && metadataString.length > 0) {
+                                            return this.parseDmiText(metadataString);
+                                        }
+                                    }
+                                } catch (err) {
+                                    // Silently skip corrupted metadata and continue searching
+                                }
+                            }
                         }
+                    } catch (chunkErr) {
+                        // Skip malformed chunk
                     }
                 }
                 offset += 12 + length;
