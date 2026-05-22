@@ -1,17 +1,19 @@
 # Civilizations and Nomads
 
+```admonish quote
 ***"I'm cold and starving, [WHAT DO I
 DO?](../Starter_Guide.md)"***
 
 *- A confused player*
+```
 
 ## What is Civilizations and Nomads mode?
 
 In Nomads, everyone spawns without any predetermined roles or **[Factions](#factions)**. The **[map](#nomads-maps)** is a complete wilderness, ready to be explored and settled. There are no prebuilt structures, except for occasional ancient ruins.
 
-You can stay factionless (a nomad), create your own faction or join an existing one. Only members of a faction can research new technologies and accumulate research points.
+You can stay factionless (a nomad), create your own faction, or join an existing one. Only members of a faction can research new technologies and accumulate research points.
 
-A map may have one or more ethnicities, each speaking its own language initially incomprehensible to a speaker of a different language. On certain maps you can choose who you spawn as, while on other maps it is random.
+A map may have one or more ethnicities, each speaking its own language initially incomprehensible to a speaker of a different language. On certain maps you can choose who you spawn as; on other maps it is random.
 
 There is no predetermined goal.
 
@@ -53,31 +55,20 @@ starting a faction.
 
 The benefits of joining or assembling a faction:
 
-  - You gain access to that factions research levels, which equates to
-    craft.](#the-research-milestones)
-  - More opportunity to roleplay in a manner you want to. From becoming
-    a towns blacksmith, simple farmer, village idiot, to village
-    chieftain, diplomat, emperor, or anything you want to try and make
-    happen.
-  - Depending on the faction, you might have access to shared resources
-    and facilities.
-  - Safety in numbers. Raiders will think twice before attacking a city,
-    whereas a loner is an easy target for burglars, thieves, pillagers,
-    and robbers.
+- You gain access to that faction's research levels, which equates to craft. See **[The Research Milestones](#the-research-milestones)**.
+- More opportunity to roleplay in a manner you want. From becoming a town's blacksmith, simple farmer, village idiot, to village chieftain, diplomat, emperor, or anything you want to try and make happen.
+- Depending on the faction, you might have access to shared resources and facilities.
+- Safety in numbers. Raiders will think twice before attacking a city, whereas a loner is an easy target for burglars, thieves, pillagers, and robbers.
 
 ### Factions
 
-Factions are basically "teams". Everyone in the same faction shares the
-same research points, and everyone in the faction contributes to
-everyone else when they perform research.
+Factions are basically "teams." Everyone in the same faction shares the same research points, and everyone in the faction contributes to everyone else when they perform research.
 
-But that also means that lazy people can take advantage of your
-technology and resources and not contribute a thing...
+But that also means that lazy people can take advantage of your technology and resources and not contribute a thing.
 
-A small tight-knit group of workers that contribute is often better off
-than a large group of slackers that just consume.
+A small, tight-knit group of contributors is often better off than a large group of slackers that just consume.
 
-Pick your members wisely\! Or cunningly use them to your advantage...
+Pick your members wisely. Or cunningly use them to your advantage.
 
 Work smart, not hard!
 
@@ -118,28 +109,26 @@ big group of unga dunga cavemen armed with bows and arrows.
 
 There are currently 4 (more like 4.5) modes of research.
 
-Research mode is voted at the lobby, before the game begins.
+Research mode is voted at the lobby before the game begins.
 
-Remember, **you need to create or join a faction to save research
-points**\!
+```admonish note
+Remember, you need to create or join a faction to save research points.
+```
 
 ### Classic Research
 
-The original research method! And the most tedious...
+The original research method! And the most tedious.
 
 Use a **Research Kit** on Scientific Literature, Scientific Rock Slate,
 Scientific Books, or Bookcases.
 
 You can make those with the following materials: **wood, bamboo, stone, sandstone and marble**.
 
-The points you get depend on how advanced the person who wrote the
-literature was, and what is the subject of their writing.
+The points you get depend on how advanced the person who wrote the literature was, and what the subject of their writing is.
 
-**TIP:** If you are struggling with your own research, progressing
-slowly, it might be a good idea to see if any neighboring factions will
-let you study their bookcases\! Buy, trade, and negotiate access to them
-to boost your research. Or fight them, rob them... Get creative\!
-(*within the rules*)
+```admonish tip
+If you are struggling with your own research, it might be a good idea to see if any neighboring factions will let you study their bookcases. Buy, trade, and negotiate access to them to boost your research. Or fight them, rob them... get creative (within the rules).
+```
 
 ### Auto Research
 
@@ -174,7 +163,11 @@ ERP.
 
 ### Chad Mode+
 
-Just like Chad Mode, but with research! To do chad research, build an **Altar of Chad**. Slam living or dead people on it, and you get a bunch of research points - it's that easy! Living are worth 12, dead - 8.
+Just like Chad Mode, but with research! To do chad research, build an **Altar of Chad**. Slam living or dead people on it, and you get a bunch of research points — it's that easy! Living are worth 12, dead are worth 8.
+
+```admonish danger
+Chad Mode+ can be chaotic and dangerous; the game may become very unpredictable.
+```
 
 **If a faction member is sacrificed to advance a certain category of research, that faction loses all their research points in that category!**
 
@@ -233,7 +226,7 @@ levels, check **[Full Crafting List](../Full_Crafting_List.md)**.
 - 15: leather armor
 - 21: bronze chest plate **(requires 34 points in Industrial too)**, wood sarissa, wood dory
 - 32: mechanical trap
-- 33: catapult, catapult projectiles, siege ladder *(requires 24 points in Industrial too)
+- 33: catapult, catapult projectiles, siege ladder *(requires 24 points in Industrial too)*
 - 34: copper small sword **(requires 18 points in Industrial too)**, bronze small sword **(requires 27 points in Industrial too)**
 - 39: pike, halberd **(requires 33 points in Industrial too)**
 - 42: copper spadroon **(requires 18 points in Industrial too)**, bronze spadroon **(requires 27 points in Industrial too)**
@@ -275,15 +268,15 @@ levels, check **[Full Crafting List](../Full_Crafting_List.md)**.
 - 145: NBC suits and hoods
 
 #### Blacksmithing
-- FromÂ 313Â B.C.:Â IronÂ Xiphos,Â IronÂ Gladius.Â AncientÂ armorsÂ andÂ helmets
-- FromÂ 1013:Â SteelÂ smallÂ sword,Â steelÂ spadroon.Â IronÂ smallÂ sword,Â spadroonÂ andÂ longsword.Â MedievalÂ armorsÂ andÂ helmets
-- FromÂ 1713:Â SteelÂ Swords.Â IronÂ swords.Â FlintlockÂ Muskets.
-- FromÂ 1873:Â Lever-ActionÂ Rifles,Â Single-ActionÂ Revolvers.
+- From 313 B.C.: Iron Xiphos, Iron Gladius, ancient armors and helmets
+- From 1013: Steel small sword, steel spadroon, Iron small sword, spadroon and longsword, medieval armors and helmets
+- From 1713: Steel swords, Iron swords, Flintlock Muskets
+- From 1873: Lever-Action Rifles, Single-Action Revolvers
 
 #### Gunsmithing
-- FromÂ 1903:Â BoltÂ Actions,Â Revolvers,Â SmallÂ semi-autoÂ gunsÂ (pistols)
-- FromÂ 1943:Â Full-AutoÂ Guns,Â Semi-AutoÂ Rifles
-- FromÂ 1969:Â Selective-FireÂ Guns
+- From 1903: Bolt Actions, Revolvers, Small semi-auto guns (pistols)
+- From 1943: Full-Auto Guns, Semi-Auto Rifles
+- From 1969: Selective-Fire Guns
 
 ## Environments
 
@@ -306,11 +299,8 @@ To determine the biome you are in, read the descriptions below and look at your 
 
 Seasons:
 
-* Summer: Amene temperatures, some snow melts, revealing dirt, and crops can grow. No
-  chance of snowfall or blizzard. Wild animals respawn.
-* Winter: Icy temperatures requiring coat, high chance of snowfall,
-  chance of deadly blizzard. Crops stop growing, snow covers all land.
-  Have a shelter ready or you probably won't survive until summer.
+- Summer: Mild temperatures, some snow melts, revealing dirt, and crops can grow. No chance of snowfall or blizzard. Wild animals respawn.
+- Winter: Icy temperatures that require a coat, a high chance of snowfall, and a chance of deadly blizzard. Crops stop growing and snow covers all land. Have a shelter ready or you probably won't survive until summer.
 
 #### Taiga
 
@@ -322,7 +312,7 @@ Plenty of trees and grassy meadows ("wild grass" tiles).
 
 Seasons:
 
-  - Spring: Amene temperatures, a little leftover snow from the winter.
+  - Spring: Mild temperatures, a little leftover snow from the winter.
     Sparse rains cause mud slowdowns. Snow starts melting.
   - Summer: Hot temperatures, no rain. Chance of heat-waves that
     evaporate all puddles. All snow melts. Wild animals respawn at a
