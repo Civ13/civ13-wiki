@@ -1,31 +1,39 @@
 <!-- Disable book.js theme functionality before it loads -->
 <script type="text/javascript">
-    // Create dummy theme elements so book.js doesn't crash trying to access them
-    var dummyThemeContainer = document.createElement('div');
-    dummyThemeContainer.style.display = 'none';
+    // Wrap set_theme to catch and suppress all errors
+    var originalSetTheme = window.set_theme || function() {};
+    window.set_theme = function(theme) {
+        try {
+            // Try to find and set theme inputs
+            var inputs = document.querySelectorAll('input[name="theme"]');
+            if (inputs && inputs.length > 0) {
+                inputs.forEach(function(input) {
+                    if (input) {
+                        try {
+                            input.checked = (input.value === theme);
+                            if (input.disabled !== undefined) {
+                                input.disabled = (input.value !== theme);
+                            }
+                        } catch (e) {}
+                    }
+                });
+            }
+        } catch (e) {
+            // Silently ignore any errors
+        }
+        // Always try to store in localStorage
+        try {
+            if (theme) localStorage.setItem('mdbook-theme', theme);
+        } catch (e) {}
+    };
     
-    var themes = ['navy', 'ayu', 'coal', 'light'];
-    themes.forEach(function(theme) {
-        var input = document.createElement('input');
-        input.type = 'radio';
-        input.name = 'theme';
-        input.value = theme;
-        input.checked = (theme === 'navy');
-        dummyThemeContainer.appendChild(input);
-    });
-    
-    // Append to document when ready
-    if (document.currentScript) {
-        document.currentScript.parentNode.insertBefore(dummyThemeContainer, document.currentScript);
-    } else {
-        document.addEventListener('DOMContentLoaded', function() {
-            document.body.appendChild(dummyThemeContainer);
-        });
-    }
-    
-    // Override theme functions as no-ops
-    window.set_theme = function() {};
-    window.get_theme = function() { return 'navy'; };
+    window.get_theme = function() {
+        try {
+            return localStorage.getItem('mdbook-theme') || 'navy';
+        } catch (e) {
+            return 'navy';
+        }
+    };
 </script>
 
 <!-- Load fflate decompression library -->
@@ -39,7 +47,7 @@
 
 <!-- The Civ13 DMI Sprite Web Component -->
 <script type="module">
-    import { inflateSync } from 'fflate';
+    import { decompressSync } from 'fflate';
 
     const metadataCache = {};
     const imageCache = {};
@@ -98,14 +106,20 @@
             const animated = this.getAttribute('animated') === "true";
             const scale = parseInt(this.getAttribute('scale')) || 1;
 
-            if (!src) return;
+            if (!src) {
+                console.warn('DMI: No src attribute');
+                return;
+            }
 
             try {
                 if (!metadataCache[src]) {
                     metadataCache[src] = this.parseDmiMetadata(src);
                 }
                 const metadata = await metadataCache[src];
-                if (!metadata) return;
+                if (!metadata) {
+                    console.warn('DMI: Failed to load metadata');
+                    return;
+                }
 
                 const img = await this.loadImage(src);
 
@@ -120,7 +134,10 @@
                     startFrameIndex += s.dirs * s.frames;
                 }
 
-                if (!targetState) return;
+                if (!targetState) {
+                    console.warn('DMI: State not found:', stateName, 'available:', metadata.states.map(s => s.name));
+                    return;
+                }
 
                 const tileWidth = metadata.width;
                 const tileHeight = metadata.height;
@@ -234,7 +251,7 @@
                             const compressedData = data.slice(i + 2);
                             if (compressedData.length > 2) {
                                 try {
-                                    const decompressed = inflateSync(compressedData);
+                                    const decompressed = decompressSync(compressedData);
                                     if (decompressed && decompressed.length > 0) {
                                         const metadataString = new TextDecoder("utf-8").decode(decompressed);
                                         if (metadataString && metadataString.length > 0) {
@@ -242,7 +259,7 @@
                                         }
                                     }
                                 } catch (err) {
-                                    // Silently skip corrupted metadata and continue searching
+                                    console.warn('DMI metadata decompress failed:', err.message);
                                 }
                             }
                         }

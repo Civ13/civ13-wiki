@@ -5,19 +5,17 @@
 ## Overview
 A hostile, pitch-black jungle survival scenario where players must reach an extraction zone to escape.
 
-**Duration:** ~20+ minutes (initial 20-minute grace period before boundary crossing)  
 **Objective:** Reach the extraction zone and survive for 30 seconds within it  
 **Difficulty:** High
+**Minimum Players:** 3-4
 
 ---
 
 ## Starting Equipment
 
-- **Helmet** (Modern MK6)
-- **Uniform** (US Light Modern)
-- **Kevlar Armor** (Black)
+- **Kevlar Armor** and **Helmet**
 - **Walkie-Talkie** (Faction radio)
-- **Flashlight** (Modern Dark Night variant)
+- **Flashlight** (Low intensity dark red)
 - **M9 Beretta Pistol** (loaded)
 - **Backpack** containing:
   - 2x M9 Beretta magazines
@@ -30,20 +28,11 @@ A hostile, pitch-black jungle survival scenario where players must reach an extr
 
 ### Extraction Zone
 - **Location:** Randomly selected from 3 possible zones
-- **Duration Needed:** 30 seconds of uninterrupted presence
-- **Who Counts:** Only conscious humans count toward escape
-- **Reset:** If a human leaves the zone, the 30-second timer resets
-- **Victory:** Occurs when a conscious human remains in the zone for the full duration
-
-### Grace Period
-- First 20 minutes: Cannot leave the playable area
-- After 20 minutes: Boundary walls dissolve and full map access is available
-
----
+- **Victory:** Occurs when a conscious human remains in the zone for the full duration (30 seconds)
 
 ## Hostile Creatures
 
-### Lightseeker ⚡
+### Lightseeker
 <div style="text-align: center;"><img class="pixelated" src="../images/entities/lightseeker.png" width="128" height="128" alt="Lightseeker"></div>
 
 **The Light Hunter**
@@ -57,9 +46,9 @@ A hostile, pitch-black jungle survival scenario where players must reach an extr
   - Extinguish all nearby light sources to avoid detection
   - Fight in darkness to gain advantage
 
-**Stats:** 55 HP | 2 tile/turn movement | 8-16 damage | Range 9 tiles
+**Stats:** 55 HP | 5 tiles/second movement | 8-16 damage
 
-### Echofiend 🎵
+### Echofiend
 <div style="text-align: center;"><img class="pixelated" src="../images/entities/echofiend.png" width="128" height="128" alt="Echofiend"></div>
 
 **The Sound Reactor**
@@ -73,9 +62,9 @@ A hostile, pitch-black jungle survival scenario where players must reach an extr
   - Once it detects you, it will pursue aggressively
   - Can be outrun but will chase up to 6 tiles away
 
-**Stats:** 120 HP | 3 tile/turn movement | 15-25 damage
+**Stats:** 120 HP | 3 tiles/second movement | 15-25 damage
 
-### Phosphor Beetle 🟢
+### Phosphor Beetle
 <div style="text-align: center;"><img class="pixelated" src="../images/entities/phosphor_beetle.png" width="128" height="128" alt="Phosphor Beetle"></div>
 
 **The Toxic Scarab**
@@ -89,9 +78,9 @@ A hostile, pitch-black jungle survival scenario where players must reach an extr
   - The dye effect attracts other hunters
   - Kill quickly or avoid engagement
 
-**Stats:** 40 HP | 2 tile/turn movement | 2-5 damage | Explodes on contact
+**Stats:** 40 HP | 5 tiles/second movement | 2-5 damage | Explodes on contact
 
-### Canopy Strangler 🌿
+### Canopy Strangler
 <div style="text-align: center;"><img class="pixelated" src="../images/entities/vine_strangler.png" width="128" height="128" alt="Canopy Strangler"></div>
 
 **The Ambush Vine**
@@ -106,7 +95,7 @@ A hostile, pitch-black jungle survival scenario where players must reach an extr
   - The strangler deals continuous damage while choking
   - Walk with caution through dense jungle areas
 
-**Stats:** 80 HP | Anchored/stationary | 5 OXY + 5 BRUTE per tick to victim
+**Stats:** 80 HP | Anchored/stationary | 5-10 Oxy/Brute damage
 
 ---
 
@@ -124,8 +113,7 @@ A hostile, pitch-black jungle survival scenario where players must reach an extr
 
 ## Winning Strategy
 
-1. Survive the first 20 minutes in the initial spawning area
-2. Coordinate a team push toward the extraction zone after grace period ends
-3. Cover fire and watch for creatures while team members enter the zone
-4. Keep 30+ seconds of continuous presence without leaving the zone
-5. Escape successfully—celebration optional but recommended
+1. Coordinate a team push toward the extraction zone after grace period ends
+2. Cover fire and watch for creatures while team members enter the zone
+3. Keep 30+ seconds of continuous presence without leaving the zone
+4. Escape successfully. Celebration optional but recommended
