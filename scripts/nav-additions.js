@@ -76,31 +76,41 @@ window.addEventListener("load", () => {
 	if (elements.length < 2) return;
 
 	Array.prototype.forEach.call(elements, (el) => {
-		var link = document.createElement("a");
+		try {
+			var link = document.createElement("a");
 
-		// Indent shows hierarchy
-		var indent = "";
-		switch (el.parentElement.tagName) {
-			case "H2":
-				indent = "20px";
-				break;
-			case "H3":
-				indent = "40px";
-				break;
-			case "H4":
-				indent = "60px";
-				break;
-			case "H5":
-				indent = "80px";
-				break;
-			default:
-				break;
+			// Indent shows hierarchy
+			var indent = "";
+			if (el.parentElement && el.parentElement.tagName) {
+				switch (el.parentElement.tagName) {
+					case "H2":
+						indent = "20px";
+						break;
+					case "H3":
+						indent = "40px";
+						break;
+					case "H4":
+						indent = "60px";
+						break;
+					case "H5":
+						indent = "80px";
+						break;
+					default:
+						break;
+				}
+			}
+
+			if (el.text !== undefined && el.href !== undefined) {
+				link.appendChild(document.createTextNode(el.text));
+				link.style.paddingLeft = indent;
+				link.href = el.href;
+				if (pagetoc) {
+					pagetoc.appendChild(link);
+				}
+			}
+		} catch (e) {
+			console.warn("Error creating pagetoc link:", e);
 		}
-
-		link.appendChild(document.createTextNode(el.text));
-		link.style.paddingLeft = indent;
-		link.href = el.href;
-		pagetoc.appendChild(link);
 	});
 	updateFunction.call();
 });

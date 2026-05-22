@@ -2,49 +2,91 @@
 
 **You can check what pages need fixing/content on the [github Issues section](https://github.com/Civ13/civ13-wiki/issues).**
 
-Since this wiki is hosted on *github pages* using static Jekyll pages, it works slightly different from a regularly hosted wiki.
+This wiki is hosted on *GitHub Pages* using [mdBook](https://rust-lang.github.io/mdBook/), a modern static site generator. 
 
 However, don't worry! It is simpler than it seems. You do **not** need to download the code (although you can if you want to edit it locally). Follow the steps below:
 
-**1) If you do not have one yet, register for a *Github Account* [here](https://github.com/join).**
+**1) If you do not have one yet, register for a *GitHub Account* [here](https://github.com/join).**
 
 **2) Fork the wiki by going to the main project page [here](https://github.com/Civ13/civ13-wiki) and pressing the *Fork* button on the top right.**
 
 ![image](images/fork.PNG)
 
-**3) Go to your fork of the wiki (will be something like *YOURUSERNAME*.github.com/civ13-wiki), open settings, and scroll down to *GitHub Pages*. Make sure it looks similar to the screenshot below by activating Github Pages:**
+**3) Your fork is now ready to contribute to! You can edit pages directly on GitHub using the web editor.**
 
-![image](images/github_pages.PNG)
+**4) When you feel that your changes are good enough, open a pull request to the main repository. To do this, go to your fork and click *Pull Requests* → *New Pull Request*, then follow the prompts.**
 
-**4) Your fork of the wiki is now live! You can now open the wiki using the link shown there. It will look similar to https://**YOURUSERNAME**.github.io/civ13-wiki**
+**5) Make sure you regularly sync your fork with the main repository to stay up to date! On your fork page, click *Sync fork* and select *Update branch* to pull in the latest changes.**
 
-**5) You're all set! Just edit by either creating a new page, or selecting *edit* on the top right menu.**
+## Editing on GitHub (No Download Required)
 
-**6) The wiki pages are written in markdown and have the *.md* extension - for more information on the markdown language and how to type in bold, italic, and so on, check [this page](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). They are located in the wiki/ folder. If you add any images, put them in images/. You can also use HTML on the pages if you need to, but its the best practice to keep to markdown unless its something you need html for (i.e., sortable tables).**
+The simplest way to contribute is to edit directly on GitHub:
 
-**7) When you feel that your changes are good enough, just open a pull request to the main repository (the one you forked), and if accepted, it will be displayed on the page! To open a pull request, go to the master branch (our github page) and click *Pull Requests* then *New Pull Request*.**
+1. Navigate to the file you want to edit in the `src/` folder
+2. Click the **Edit** (pencil icon) button in the top right
+3. Make your changes in the markdown editor
+4. Scroll down, write a commit message describing your changes, and click **Commit changes**
+5. Create a pull request with your changes
+6. A maintainer will review and merge if approved
 
-**8) Make sure you regularly update your repository to keep it up to date! You can do this using pull requests from master. Open your fork page on github and click *Pull Request* as per the image below:**
+**Wiki pages are written in markdown** (`.md` files) — learn more about markdown syntax [here](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-![image](images/pull_request.PNG)
+## Local Development (Download & Edit)
 
-Or in your fork page on github click on *Fetch Upstream*, it will update your fork to have all the merged pull requests of the Civ-13 master.
+If you prefer to edit the files locally, test changes, or experiment with the website layout:
+
+### Prerequisites
+
+- **Windows**: mdBook is prepackaged as `mdbook.exe` in this repository (no installation needed!)
+- **macOS/Linux**: Install [Rust](https://rustup.rs/) then run `cargo install mdbook`
+
+### Setup
+
+1. Fork and clone the repository to your computer
+
+2. Using your preferred git client (or [GitHub Desktop](https://desktop.github.com/)), clone your fork
+
+3. Navigate to the `civ13-wiki/` folder in your terminal/command prompt
+
+### Building & Serving
+
+**Windows (Using Prepackaged mdbook.exe):**
+```powershell
+# Build and open in browser
+.\mdbook.exe build --open
+
+# For development with live reloading
+.\mdbook.exe serve
+```
+
+**macOS/Linux:**
+```bash
+# Build and open in browser
+mdbook build --open
+
+# For development with live reloading
+mdbook serve
+```
+
+The wiki will be served at `http://localhost:3000`. When using `mdbook serve`, the page automatically refreshes whenever you save changes to markdown files.
+
+### File Organization
+
+- `src/` — All markdown source files (the content you edit)
+- `src/SUMMARY.md` — Wiki table of contents and navigation structure
+- `images/` — Images and sprites used in pages
+- `book/` — Compiled output (generated automatically, do not edit)
+- `theme/` — mdBook theme customization
+
+### Adding Images
+
+When adding images to wiki pages:
+
+1. Upload your image to the `images/` folder (or appropriate subfolder like `images/entities/`, `images/food/`, etc.)
+2. Reference it in markdown using: `![description](images/your-image.png)`
+3. Make sure the filename is **unique** to avoid conflicts with existing images
 
 ## Images
-
-While you can link external images using either markdown or html tags, we recommend that you upload them to **images/** and link them from there. Make sure they have a unique name as to not replace current images!
-
-## Downloading the code
-
-If you prefer to edit the files locally, and/or want to experiment with the website layout, follow the steps below:
-
-1. If you haven't, follow the steps **1** and **2** on the list above.
-
-2. Using your preferred git client, download your fork (If you have no idea of what I'm talking about, use [GitHub Desktop](https://desktop.github.com/)).
-
-3. Open the command line on whatever operating system you are using (***Terminal*** on Linux and MacOS, ***cmd*** or ***PowerShell*** on Windows), navigate to the civ13-wiki/ folder and run `./mdbook.exe build --open`. This will compile the wiki and open the browser to display it.
-
-4. To help with editing, you can run `./mdbook.exe watch --open`, and when viewing it on the browser it will refresh every time you make an edit to the files.
 
 ## DMI Sprites (`<dmi-sprite>`)
 
