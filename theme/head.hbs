@@ -1,3 +1,33 @@
+<!-- Disable book.js theme functionality before it loads -->
+<script type="text/javascript">
+    // Create dummy theme elements so book.js doesn't crash trying to access them
+    var dummyThemeContainer = document.createElement('div');
+    dummyThemeContainer.style.display = 'none';
+    
+    var themes = ['navy', 'ayu', 'coal', 'light'];
+    themes.forEach(function(theme) {
+        var input = document.createElement('input');
+        input.type = 'radio';
+        input.name = 'theme';
+        input.value = theme;
+        input.checked = (theme === 'navy');
+        dummyThemeContainer.appendChild(input);
+    });
+    
+    // Append to document when ready
+    if (document.currentScript) {
+        document.currentScript.parentNode.insertBefore(dummyThemeContainer, document.currentScript);
+    } else {
+        document.addEventListener('DOMContentLoaded', function() {
+            document.body.appendChild(dummyThemeContainer);
+        });
+    }
+    
+    // Override theme functions as no-ops
+    window.set_theme = function() {};
+    window.get_theme = function() { return 'navy'; };
+</script>
+
 <!-- Load fflate decompression library -->
 <script type="importmap">
   {
@@ -232,20 +262,44 @@
 
             for (let line of lines) {
                 line = line.trim();
-                if (line.startsWith('width =')) result.width = parseInt(line.split('=')[1]);
-                if (line.startsWith('height =')) result.height = parseInt(line.split('=')[1]);
+                try {
+                    if (line.startsWith('width =')) {
+                        const val = parseInt(line.split('=')[1].trim());
+                        if (!isNaN(val)) result.width = val;
+                    }
+                    if (line.startsWith('height =')) {
+                        const val = parseInt(line.split('=')[1].trim());
+                        if (!isNaN(val)) result.height = val;
+                    }
 
-                if (line.startsWith('state = "')) {
-                    const name = line.match(/"([^"]+)"/)[1];
-                    currentState = { name: name, dirs: 1, frames: 1, delay: [] };
-                    result.states.push(currentState);
-                } else if (currentState) {
-                    if (line.startsWith('dirs =')) currentState.dirs = parseInt(line.split('=')[1]);
-                    if (line.startsWith('frames =')) currentState.frames = parseInt(line.split('=')[1]);
-                    if (line.startsWith('delay =')) currentState.delay = line.split('=')[1].trim().split(',').map(Number);
+                    if (line.startsWith('state = "')) {
+                        const match = line.match(/"([^"]+)"/);
+                        if (match && match[1]) {
+                            currentState = { name: match[1], dirs: 1, frames: 1, delay: [] };
+                            result.states.push(currentState);
+                        }
+                    } else if (currentState) {
+                        if (line.startsWith('dirs =')) {
+                            const val = parseInt(line.split('=')[1].trim());
+                            if (!isNaN(val)) currentState.dirs = val;
+                        }
+                        if (line.startsWith('frames =')) {
+                            const val = parseInt(line.split('=')[1].trim());
+                            if (!isNaN(val)) currentState.frames = val;
+                        }
+                        if (line.startsWith('delay =')) {
+                            const delays = line.split('=')[1].trim().split(',').map(s => {
+                                const n = Number(s.trim());
+                                return isNaN(n) ? 0 : n;
+                            });
+                            currentState.delay = delays;
+                        }
+                    }
+                } catch (e) {
+                    // Skip malformed lines
                 }
             }
-            return result;
+            return result.states.length > 0 ? result : null;
         }
     }
 
