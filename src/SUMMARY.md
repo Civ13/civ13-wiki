@@ -34,6 +34,7 @@
 - [Art of the Deal](gamemodes/The_Art_of_the_Deal.md)
 - [Football](gamemodes/Football.md)
 - [Voyage](gamemodes/Voyage.md)
+- [Wizard Boy](gamemodes/wizard_boy.md)
 
 # Maps & Scenarios
 - [Maps Overview](maps_overview.md)
