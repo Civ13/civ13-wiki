@@ -1,5 +1,9 @@
 # Wizard Boy (Llanboarwart)
 
+```admonish info
+This gamemode is a work in progress.
+```
+
 <img src="../images/wizard_boy.png" style="display: block;margin: auto;max-height:400px"></img>
 
 ```admonish quote
