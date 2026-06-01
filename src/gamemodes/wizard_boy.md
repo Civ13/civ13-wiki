@@ -16,13 +16,13 @@ This gamemode is a work in progress.
 
 Dust off your plastic glasses, tape up your wands, and prepare your magic sticks! We are taking you straight to the wettest, draftiest, most tragically underfunded school in the British Isles: **Llanboarwart Academy of Magical Education (L.A.M.E.)!** 
 
-Forget those fancy, high-budget Scottish castles; you are not posh enough to be accepted into them anyway. We are heading to the rain-slicked Welsh valleys for a low-budget wizarding adventure. Will you represent the brave, rowdy rugby players of **Rubywyrm**, the sneaky, leek-scented **Mintysnek**, the permanently depressed bookworms of **Slatepie**, or the friendly sheep-farmers of **Mustardweasel**? Grab your flying mop and prepare to defend your house in a high-stakes match of **Mop Ball**!
+Forget those fancy, high-budget Scottish castles; you are not posh enough to be accepted into them anyway. We are heading to the rain-slicked Wales for a low-budget wizarding adventure in the valley of *Cwm-Tlawd*. Will you represent the brave, rowdy rugby players of **Rubywyrm**, the sneaky, leek-scented **Mintysnek**, the permanently depressed bookworms of **Slatepie**, or the friendly sheep-farmers of **Mustardweasel**? Grab your flying mop and prepare to defend your house in a high-stakes match of **Mop Ball**!
 
 Take on the role of **Barry Hatter**, **Don Measly**, or **Harmonica Ranger** as you dodge the wrath of the greasy Professor Snip, avoid the screaming clutches of the Shrieking Shrub, and try not to turn your roommate into a wooden barrel. Master a *(legally-distinct)* grimoire of physics-based combat magic, from the simple *Zappus!* spark and the defensive *Blockum!* shield, to the devastating, highly forbidden *Deadum!* green laser.
 
 ---
 
-## 🛡️ The Four Houses of Llanboarwart
+## The Four Houses of Llanboarwart
 
 Upon arrival at the academy, players are sorted in-game into one of four distinct, highly competitive houses:
 
@@ -70,15 +70,14 @@ At **Llanboarwart Academy of Magical Education (L.A.M.E.)**, your academic stand
 
 These classifications are for students who have either failed entirely, have no magical aptitude, or have been stripped of their student rights due to misconduct.
 
-### 📝 Tier 0: The I.D.I.O.T. Certificate
+### Tier 0: The I.D.I.O.T. Certificate
 *(Inept & Deficient Individual’s Ordinary Test)*
 *   **Skill Level Required:** 0 (and failing)
 *   **The Lore:** The absolute lowest legal designation at the Academy. Players with this certificate are deemed medically and magically incompetent.
 *   **Permitted Spells:** **NONE.** 
     *   *System Restraints:* Legally barred from holding a wand. If an I.D.I.O.T. attempts to pick up a wand, it has a 50% chance to backfire, instantly shocking them for 10 brute damage and forcing them to drop it.
-*   **Starting Inventory:** One standard wooden mop, a galvanized metal bucket, and a cheap paper certificate stating they are allowed to clean floors but must not be left unsupervised around crayons and open flames.
 
-### 🗃️ Disciplinary Tier: The L.O.S.E.R. Status
+### Disciplinary Tier: The L.O.S.E.R. Status
 *(Llanboarwart Outcast & Sub-standard Educational Reject)*
 *   **Skill Level Range:** Any (Locked upon receiving the status)
 *   **The Lore:** A punitive status applied to players who violate school laws (e.g., casting dark magic, attacking teachers, or dropping their House Points below -100). 
@@ -86,7 +85,7 @@ These classifications are for students who have either failed entirely, have no 
     *   `Blockum!` (10) — *For self-defense only.*
     *   `Cleanum!` (Utility) — *To perform community service.*
     *   *System Restraints:* All offensive, force, and elemental spells are instantly locked out.
-*   **Social Restrictions:** Stripped of their house robes and forced to wear a generic grey sackcloth. Completely banned from the student shop and the Great Hall during feast times.
+*   **Social Restrictions:** Stripped of their house robes and forced to wear a generic pink robe. Considered fair game to use spells against.
 
 ---
 
@@ -94,70 +93,66 @@ These classifications are for students who have either failed entirely, have no 
 
 This is the standard progression for students residing in **Rubywyrm**, **Mintysnek**, **Slatepie**, and **Mustardweasel**.
 
-### 🦴 Tier 1: The U.N.G.A. Bracket
+### Tier 1: The U.N.G.A. Bracket
 *(Underperforming Numpty General Assessment)*
 *   **Skill Level Range:** 1 – 9
 *   **The Lore:** Designed for students who are better suited for physical labor in the coal mines or playing brute defense on the Mop Ball pitch.
-*   **Maximum Juice Pool:** 15
 *   **Permitted Spells:** 
     *   `Zappus!` (1) — *The basic spark.*
-    *   `Lightus!` (5) — *The flashlight charm (will immediately deplete their entire Juice pool).*
+    *   `Lightus!` (5) — *The flashlight charm.*
 
+🚫 Not allowed to use spells outside of the school's premises.
 
-### 🪨 Tier 2: The C.O.A.L. License (Novice)
-*(Cwm-Pimple Ordinary Amateur License)*
+### Tier 2: The C.O.A.L. License (Novice)
+*(Cwm-Tlawd Ordinary Amateur License)*
 *   **Skill Level Range:** 10 – 19
-*   **The Lore:** The bare minimum license required to carry a wand in the Cwm-Pimple valley without being arrested by the local constabulary. It focuses on basic self-defense and petty utility.
-*   **Permitted Spells:**
+*   **The Lore:** The bare minimum license required to carry a wand in the Cwm-Tlawd valley without being arrested by the local constabulary. It focuses on basic self-defense and petty utility.
+*   **Permitted Spells:** *All Tier 1 spells, plus:*
     *   `Blockum!` (10) — *Reactive shield bubble.*
     *   `Dropus!` (15) — *Standard disarming beam.*
     *   `Stinkaeum!` (20) — *Standard biological hex.*
 
-### 🧱 Tier 3: The S.L.A.T.E. License (Apprentice)
-*(Standard License to Alter Terrain & Elements)*
+### Tier 3: The G.E.M. License (Apprentice)
+*(Gravity & Elemental Manipulation)*
 *   **Skill Level Range:** 20 – 49
 *   **The Lore:** Granted to mid-years who have proven they won't accidentally collapse the school's slate roofs. This license unlocks the physical manipulation of objects and the surrounding environment.
-*   **Permitted Spells:** *All Tier 2 spells, plus:*
+*   **Permitted Spells:** *All Tier 1 & 2 spells, plus:*
     *   `Pushum!` (30) — *The physical, invisible shove.*
     *   `Pullus!` (30) — *Target/item retrieval.*
     *   `Wallus!` (35) — *Summons a physical wooden barricade.*
     *   `Floatus!` (40) — *Removes gravity and friction from a target.*
 
-### 🏛️ Tier 4: The B.A.S.E.D. Degree (Expert)
+### Tier 4: The B.A.S.E.D. Degree (Expert)
 *(Boarwart Advanced Sorcery & Experimental Deeds)*
 *   **Skill Level Range:** 50 – 84
 *   **The Lore:** Students who achieve this rank are considered "extremely based" by their peers, though the faculty considers them highly unstable. These spells allow for heavy elemental destruction and high-speed movement.
-*   **Permitted Spells:** *All Tier 2 & 3 spells, plus:*
+*   **Permitted Spells:** *All Tier 1, 2 & 3 spells, plus:*
     *   `Freezeum!` (50) — *Freezes a target inside a solid block of ice.*
     *   `Blinkae!` (55) — *Short-range line-of-sight teleportation.*
-    *   `Burnus!` (55) — *Fire-starting cone of flame.*
+    *   <span style="color:red">`Burnus!`</span> (55) — *Fire-starting cone of flame.*
     *   `Barrelus!` (65) — *Transfigures a target into an explosive wooden barrel.*
-    *   `Sliceum!` (70) — *An invisible slashing beam that causes bleeding.*
+    *   <span style="color:red">`Sliceum!`</span> (70) — *An invisible slashing beam that causes bleeding.*
 
-### 👑 Tier 5: The C.H.A.D. Status (Master)
+### Tier 5: The C.H.A.D. Status (Master)
 *(Classified High-level Arcane Destruction)*
 *   **Skill Level Range:** 85 – 100
 *   **The Lore:** The absolute peak of magical education. You must be an absolute "gigachad" to cast these spells without your wand exploding or your head caving in from the sheer Juice cost.
-*   **Permitted Spells:** *All Tier 2, 3, & 4 spells, plus:*
+*   **Permitted Spells:** *All Tier 1, 2, 3, & 4 spells, plus:*
     *   `Fixae!` (75) — *Advanced healing and structural repair.*
-    *   `Explodus!` (80) — *Heavy explosive concussive bolt.*
-    *   `Painum!` (85) — *The excruciating torture curse (strictly illegal).*
-    *   `Deadum!` (100) — *The unblockable, instant-death green laser (strictly illegal).*
-*   **The Legal Risk:** Casting `Painum!` or `Deadum!` on school grounds (or in front of a **Surveillant** NPC/Player) will instantly flag the caster, lower their House Points by 200, and permanently demote them to **L.O.S.E.R.** status.
+    *   <span style="color:red">`Explodus!`</span> (80) — *Heavy explosive concussive bolt.*
+    *   <span style="color:red">`Painum!`</span> (85) — *The excruciating torture curse (strictly illegal).*
+    *   <span style="color:red">`Deadum!`</span> (100) — *The unblockable, instant-death green laser (strictly illegal).*
+*   **The Legal Risk:** Casting <span style="color:red">`Painum!`</span> or <span style="color:red">`Deadum!`</span> on school grounds (or in front of a **Surveillant** NPC/Player) will instantly flag the caster, lower their House Points by 200, and permanently demote them to **L.O.S.E.R.** status.
 
 ---
 
-## Mop Ball
+## 🧙‍♂️ The Grimoire (Spells & Mechanics)
 
-The primary athletic event of the Academy. Forget high-budget flying brooms; the school board has provided standard-issue **Master-Sweep Mops**. 
+Spells are cast using the **100-Point "Juice" (Mana) Pool**, which regenerates at **5 points per second (50 ds)**.
 
-Players must fly around the pitch, attempting to scrub the air, dodge incoming bludger-like objects, and throw a golden ball through the opposing team's rusty, elevated buckets. Doing so requires high coordination and ensures that the arena's floor-tiles are kept completely clean by the end of the match.
-
----
-
-## The Grimoire (Spells & Mechanics)
-
-Spells are cast using the **100-Point "Juice" (Mana) Pool**, which regenerates at **5 points per second (50 ds)**. Casting a spell without enough Juice will consume your physical **Stamina** instead, potentially knocking you unconscious!
+```admonish danger
+Spells marked in red are **illegal** to use against non-hostile mobs and will result on your demotion to L.O.S.E.R. status.
+```
 
 | Spell Name | Description | Cast Time | Juice Cost | Min Skill | Mechanical Effect |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -172,17 +167,17 @@ Spells are cast using the **100-Point "Juice" (Mana) Pool**, which regenerates a
 | **Floatus!** | Removes the burden of gravity. | 20 ds (2.0s) | 35 | 40 | Applies "zero-friction" for 10 seconds; targets slide infinitely. |
 | **Freezeum!** | Encases target in ice. | 25 ds (2.5s) | 35 | 50 | Instantly paralyzes the target and drops their body temperature. |
 | **Blinkae!** | Teleports the caster to a nearby clicked location. | 20 ds (2.0s) | 30 | 55 | Teleports the caster to the clicked tile, up to 7 tiles away, if the path is clear. |
-| **Burnus!** | A reckless fire bolt. | 20 ds (2.0s) | 40 | 55 | Shoots a bolt of flame; applies 2 fire stacks and ignites targets. |
+| <span style="color:red">**Burnus!**</span> | A reckless fire bolt. | 20 ds (2.0s) | 40 | 55 | Shoots a bolt of flame; applies 2 fire stacks and ignites targets. |
 | **Barrelus!** | Polymorphs target. | 35 ds (3.5s) | 65 | 65 | Turns target into a wooden barrel for a short duration. |
-| **Sliceum!** | Invisible cutting strike. | 30 ds (3.0s) | 50 | 70 | Instantly deals 15 brute and forces the target to bleed. |
+| <span style="color:red">**Sliceum!**</span> | Invisible cutting strike. | 30 ds (3.0s) | 50 | 70 | Instantly deals 15 brute and forces the target to bleed. |
 | **Fixae!** | A powerful healing spell that rejuvenates the target. | 40 ds (4.0s) | 80 | 75 | Heals 50 Brute/Burn, 25 Tox/Oxy, and removes stun/weaken on target. |
-| **Explodus!** | Heavy explosive blast. | 45 ds (4.5s) | 60 | 80 | Fires a slow projectile; creates a destructive 3x3 explosion. |
-| **Painum!** | Torture curse. | 50 ds (5.0s) | 85 | 85 | Inflicts massive stamina/halloss damage over 10 seconds. |
-| **Deadum!** | The green delete laser. | 80 ds (8.0s) | 100 | 100 | Slow, loud charge. Instantly gibs the target. |
+| <span style="color:red">**Explodus!**</span> | Heavy explosive blast. | 45 ds (4.5s) | 60 | 80 | Fires a slow projectile; creates a destructive 3x3 explosion. |
+| <span style="color:red">**Painum!**</span> | Torture curse. | 50 ds (5.0s) | 85 | 85 | Inflicts massive stamina/halloss damage over 10 seconds. |
+| <span style="color:red">**Deadum!**</span> | The green delete laser. | 80 ds (8.0s) | 100 | 100 | Slow, loud charge. Instantly gibs the target. |
 
 ---
 
-## Contraband & Restoration Items
+## 🎁 Contraband & Restoration Items
 
 ```admonish note
 This section is a work in progress.
