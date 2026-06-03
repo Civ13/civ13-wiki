@@ -157,31 +157,73 @@ Spells marked in red are **illegal** to use against non-hostile mobs and will re
 | Spell Name | Description | Cast Time | Juice Cost | Min Skill | Mechanical Effect |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Zappus!** | Standard light spark. | 5 ds (0.5s) | 5 | 1 | Fires a fast, low-damage kinetic projectile (5 brute). |
-| **Blockum!** | A protective shield. | 2 ds (0.2s) | 15 | 10 | Grants 100% projectile block/reflect for 3 seconds. |
-| **Lightus!** | Emits a temporary magical light from the caster. | 5 ds (0.5s) | 15 | 5 | Grants the caster a temporary light source (range 5) for 10 seconds. |
-| **Dropus!** | The disarming beam. | 10 ds (1.0s) | 15 | 15 | Forces the target to drop the item in their active hand. |
-| **Stinkaeum!** | Standard biological hex. | 10 ds (1.0s) | 15 | 20 | Makes the target urinate and defecate. |
-| **Pushum!** | A rude, invisible shove. | 12 ds (1.2s) | 20 | 30 | Throws target 3 tiles away; deals up to 30 brute if they hit a wall. |
-| **Pullus!** | Pulls targets or items. | 15 ds (1.5s) | 20 | 30 | Forces 3 steps toward caster; deals damage if slammed into objects. |
-| **Wallus!** | Summons a sturdy wooden barricade at the target location. | 20 ds (2.0s) | 30 | 35 | Spawns a magical barricade at the target tile if it's empty. |
-| **Floatus!** | Removes the burden of gravity. | 20 ds (2.0s) | 35 | 40 | Applies "zero-friction" for 10 seconds; targets slide infinitely. |
-| **Freezeum!** | Encases target in ice. | 25 ds (2.5s) | 35 | 50 | Instantly paralyzes the target and drops their body temperature. |
-| **Blinkae!** | Teleports the caster to a nearby clicked location. | 20 ds (2.0s) | 30 | 55 | Teleports the caster to the clicked tile, up to 7 tiles away, if the path is clear. |
-| <span style="color:red">**Burnus!**</span> | A reckless fire bolt. | 20 ds (2.0s) | 40 | 55 | Shoots a bolt of flame; applies 2 fire stacks and ignites targets. |
-| **Barrelus!** | Polymorphs target. | 35 ds (3.5s) | 65 | 65 | Turns target into a wooden barrel for a short duration. |
-| <span style="color:red">**Sliceum!**</span> | Invisible cutting strike. | 30 ds (3.0s) | 50 | 70 | Instantly deals 15 brute and forces the target to bleed. |
-| **Fixae!** | A powerful healing spell that rejuvenates the target. | 40 ds (4.0s) | 80 | 75 | Heals 50 Brute/Burn, 25 Tox/Oxy, and removes stun/weaken on target. |
-| <span style="color:red">**Explodus!**</span> | Heavy explosive blast. | 45 ds (4.5s) | 60 | 80 | Fires a slow projectile; creates a destructive 3x3 explosion. |
-| <span style="color:red">**Painum!**</span> | Torture curse. | 50 ds (5.0s) | 85 | 85 | Inflicts massive stamina/halloss damage over 10 seconds. |
-| <span style="color:red">**Deadum!**</span> | The green delete laser. | 80 ds (8.0s) | 100 | 100 | Slow, loud charge. Instantly gibs the target. |
+| **Blockum!** | A protective shield. | 0 ds | 15 | 10 | Creates a magic denial bubble around the caster. |
+| **Lightus!** | Emits a temporary magical light from the caster. | 0 ds | 15 | 5 | Grants a temporary light source for the caster. |
+| **Dropus!** | The disarming beam. | 5 ds (0.5s) | 15 | 15 | Forces the target to drop their held item. |
+| **Stinkaeum!** | Standard biological hex. | 5 ds (0.5s) | 15 | 20 | Makes the target urinate and defecate. |
+| **Pushum!** | A rude, invisible shove. | 7 ds (0.7s) | 20 | 30 | Pushes the target away, dealing impact damage if they hit a wall. |
+| **Pullus!** | Pulls targets or items. | 7 ds (0.7s) | 20 | 30 | Pulls the target toward the caster, causing slam damage on obstacles. |
+| **Wallus!** | Summons a sturdy wooden barricade at the target location. | 15 ds (1.5s) | 30 | 35 | Creates a magical barrier at the target tile if it is empty. |
+| **Floatus!** | Removes the burden of gravity. | 12 ds (1.2s) | 35 | 40 | Applies near-zero friction and makes the target float. |
+| **Freezeum!** | Encases target in ice. | 15 ds (1.5s) | 35 | 50 | Freezes and paralyzes the target. |
+| **Blinkae!** | Teleports the caster to a nearby clicked location. | 15 ds (1.5s) | 30 | 55 | Teleports the caster to a nearby tile, if the path is clear. |
+| <span style="color:red">**Burnus!**</span> | A reckless fire bolt. | 15 ds (1.5s) | 40 | 55 | Fires a flame bolt that ignites and burns targets. |
+| **Barrelus!** | Polymorphs target. | 15 ds (1.5s) | 25 | 65 | Turns the target into a wooden barrel for a short time. |
+| <span style="color:red">**Sliceum!**</span> | Invisible cutting strike. | 20 ds (2.0s) | 40 | 70 | Deals a sharp strike and inflicts bleeding. |
+| **Fixae!** | A powerful healing spell that rejuvenates the target. | 15 ds (1.5s) | 50 | 75 | Heals brute/burn and restores health, removing some negative effects. |
+| <span style="color:red">**Explodus!**</span> | Heavy explosive blast. | 30 ds (3.0s) | 60 | 80 | Launches a projectile that detonates in an area effect. |
+| <span style="color:red">**Painum!**</span> | Torture curse. | 30 ds (3.0s) | 85 | 85 | Inflicts heavy pain and damage over time. |
+| <span style="color:red">**Deadum!**</span> | The green delete laser. | 50 ds (5.0s) | 100 | 100 | Charges and instantly gibbs the target on hit. |
+
+---
+
+## 🪄 Wand Parts, Effects & Assembly
+
+Wands in *Wizard Boy* are modular. A functioning wand is assembled at a **wand assembly bench** from:
+
+* **One wood chassis**
+* **One core engine**
+* **One length selection**
+
+### Wand assembly process
+
+1. Grab a wand part and click the **wand assembly bench** to place it.
+2. Place one wood chassis and one core on the bench.
+3. Choose the desired length: **Stubby**, **Standard**, **Overcomp**, or **Telescopic**.
+4. Click **Assemble Wand** once both parts are present.
+5. If needed, use **Eject** to remove and swap parts before assembling.
+
+> The bench requires one wand chassis and one wand core to assemble a wand.
+
+### Wood chassis effects
+
+* **Pine wood** – baseline; no modifier, but a small chance to splinter on overcast.
+* **MDF board** – -10% juice cost, but the wand can swell when wet and become unreliable.
+* **Balsa wood** – -40% cast time, +20% juice cost, no melee force, and the wand will snap if used as a melee weapon.
+* **Snooker cue** – +20% cast time, but grants strong melee force.
+* **Fibreglass** – -25% cast time, and the wand lashes the caster on overcast.
+* **Driftwood** – -20% elemental juice cost and emits a passive stink.
+
+### Core engine effects
+
+* **Badger hair** – combat spells are 20% faster; defensive spells cost 50% more.
+* **Pigeon feather** – movement spells cast near-instantly; low-HP panic can trigger an auto-blink.
+* **Copper wire** – -25% all juice costs, but overcasting can become lethal.
+* **Pocket lint** – randomizes juice cost each cast.
+* **Asbestos fibre** – fireproof while held, but applies passive toxin damage.
+* **Fox fur** – silent casts with no sound/VFX, at the cost of +2 seconds of cast delay.
+
+### Length effects
+
+* **Stubby** – tiny and fast-draw, but -2 tile range.
+* **Standard** – balanced baseline.
+* **Overcomp** – +3 tile range, -15% projectile spell juice cost, and the wand is too large for belt/pocket.
+* **Telescopic** – collapsible; collapsed acts like Stubby, extended acts like Overcomp, and it has a chance to collapse on cast.
 
 ---
 
 ## 🎁 Contraband & Restoration Items
 
-```admonish note
-This section is a work in progress.
-```
 Because you cannot simply wait in corners to regenerate your Juice in the middle of a duel, look for these items scattered around the school grounds:
 
 *   **Choco-Toads:** Eating one instantly restores **50 Juice**.
