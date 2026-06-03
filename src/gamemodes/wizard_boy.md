@@ -220,6 +220,12 @@ Wands in *Wizard Boy* are modular. A functioning wand is assembled at a **wand a
 * **Snooker cue** – +20% cast time, but grants strong melee force.
 * **Fibreglass** – -25% cast time, and the wand lashes the caster on overcast.
 * **Driftwood** – -20% elemental juice cost and emits a passive stink.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="pine_wood"></dmi-sprite> **Pine wood** – baseline; no modifier, but a small chance to splinter on overcast.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="mdf_board"></dmi-sprite> **MDF fibreboard** – -10% juice cost, but the wand can swell when wet and become unreliable.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="balsa_wood"></dmi-sprite> **Balsa wood** – -40% cast time, +20% juice cost, no melee force, and the wand will snap if used as a melee weapon.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="snooker_cue"></dmi-sprite> **Snooker cue** – +20% cast time, but grants strong melee force.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="fibreglass"></dmi-sprite> **Fibreglass** – -25% cast time, and the wand lashes the caster on overcast.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="driftwood"></dmi-sprite> **Driftwood** – -20% elemental juice cost and emits a passive stink.
 
 ### Core engine effects
 
@@ -229,6 +235,12 @@ Wands in *Wizard Boy* are modular. A functioning wand is assembled at a **wand a
 * **Pocket lint** – randomizes juice cost each cast.
 * **Asbestos fibre** – fireproof while held, but applies passive toxin damage.
 * **Fox fur** – silent casts with no sound/VFX, at the cost of +2 seconds of cast delay.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="badger_hair"></dmi-sprite> **Badger hair** – combat spells are 20% faster; defensive spells cost 50% more.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="pigeon_feather"></dmi-sprite> **Pigeon feather** – movement spells cast near-instantly; low-HP panic can trigger an auto-blink.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="copper_wire"></dmi-sprite> **Copper wire** – -25% all juice costs, but overcasting can become lethal.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="pocket_lint"></dmi-sprite> **Pocket lint** – randomizes juice cost each cast.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="asbestos"></dmi-sprite> **Asbestos fibre** – fireproof while held, but applies passive toxin damage.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="fox_fur"></dmi-sprite> **Fox fur** – silent casts with no sound/VFX, at the cost of +2 seconds of cast delay.
 
 ### Length effects
 
