@@ -1,7 +1,7 @@
-# Wizard Boy (Llanboarwart)
+# Wizard Boy (Llanboarwart Academy of Magical Education)
 
-```admonish info
-This gamemode is a work in progress.
+```admonish tip
+This is the full guide to the gamemode. For a quick start guide for those with short attention spans, visit **[the quickstart guide](wizard_boy_quickstart.md)**.
 ```
 
 <img src="../images/wizard_boy.png" style="display: block;margin: auto;max-height:400px"></img>
@@ -75,7 +75,10 @@ These classifications are for students who have either failed entirely, have no 
 *   **Skill Level Required:** 0 (and failing)
 *   **The Lore:** The absolute lowest legal designation at the Academy. Players with this certificate are deemed medically and magically incompetent.
 *   **Permitted Spells:** **NONE.** 
-    *   *System Restraints:* Legally barred from holding a wand. If an I.D.I.O.T. attempts to pick up a wand, it has a 50% chance to backfire, instantly shocking them for 10 brute damage and forcing them to drop it.
+    *   *System Restraints:* Legally barred from holding a wand. Cannot cast spells.
+
+❌ Not allowed to use wands.
+❌ Not allowed to drive flying mops.
 
 ### Disciplinary Tier: The L.O.S.E.R. Status
 *(Llanboarwart Outcast & Sub-standard Educational Reject)*
@@ -87,40 +90,49 @@ These classifications are for students who have either failed entirely, have no 
     *   *System Restraints:* All offensive, force, and elemental spells are instantly locked out.
 *   **Social Restrictions:** Stripped of their house robes and forced to wear a generic pink robe. Considered fair game to use spells against.
 
+❌ Not allowed to drive flying mops.
+
 ---
 
 ## 📖 The L.A.M.E. Magic Curriculum
 
 This is the standard progression for students residing in **Rubywyrm**, **Mintysnek**, **Slatepie**, and **Mustardweasel**.
 
-### Tier 1: The U.N.G.A. Bracket
+### Tier 1: The U.N.G.A. Licence (Novice)
 *(Underperforming Numpty General Assessment)*
 *   **Skill Level Range:** 1 – 9
 *   **The Lore:** Designed for students who are better suited for physical labor in the coal mines or playing brute defense on the Mop Ball pitch.
 *   **Permitted Spells:** 
     *   `Zappus!` (1) — *The basic spark.*
     *   `Lightus!` (5) — *The flashlight charm.*
-
-🚫 Not allowed to use spells outside of the school's premises.
-
-### Tier 2: The C.O.A.L. License (Novice)
-*(Cwm-Tlawd Ordinary Amateur License)*
-*   **Skill Level Range:** 10 – 19
-*   **The Lore:** The bare minimum license required to carry a wand in the Cwm-Tlawd valley without being arrested by the local constabulary. It focuses on basic self-defense and petty utility.
-*   **Permitted Spells:** *All Tier 1 spells, plus:*
     *   `Blockum!` (10) — *Reactive shield bubble.*
+
+❌ Not allowed to use spells outside of the school's premises.
+❌ Not allowed to drive flying mops.
+
+### Tier 2: The C.O.A.L. Licence (Apprentice)
+*(Cwm-Tlawd Ordinary Amateur Licence)*
+*   **Skill Level Range:** 10 – 19
+*   **The Lore:** The bare minimum licence required to carry a wand in the Cwm-Tlawd valley without being arrested by the local constabulary. It focuses on basic self-defense and petty utility.
+*   **Permitted Spells:** *All Tier 1 spells, plus:*
     *   `Dropus!` (15) — *Standard disarming beam.*
     *   `Stinkaeum!` (20) — *Standard biological hex.*
 
-### Tier 3: The G.E.M. License (Apprentice)
+✅ Allowed to use spells outside of the school's premises.
+❌ Not allowed to drive flying mops.
+
+### Tier 3: The G.E.M. Licence (Experienced)
 *(Gravity & Elemental Manipulation)*
 *   **Skill Level Range:** 20 – 49
-*   **The Lore:** Granted to mid-years who have proven they won't accidentally collapse the school's slate roofs. This license unlocks the physical manipulation of objects and the surrounding environment.
+*   **The Lore:** Granted to mid-years who have proven they won't accidentally collapse the school's slate roofs. This licence unlocks the physical manipulation of objects and the surrounding environment, and the use of flying mops.
 *   **Permitted Spells:** *All Tier 1 & 2 spells, plus:*
     *   `Pushum!` (30) — *The physical, invisible shove.*
     *   `Pullus!` (30) — *Target/item retrieval.*
     *   `Wallus!` (35) — *Summons a physical wooden barricade.*
     *   `Floatus!` (40) — *Removes gravity and friction from a target.*
+
+✅ Allowed to use spells outside of the school's premises.
+✅ Allowed to drive flying mops.
 
 ### Tier 4: The B.A.S.E.D. Degree (Expert)
 *(Boarwart Advanced Sorcery & Experimental Deeds)*
@@ -133,6 +145,9 @@ This is the standard progression for students residing in **Rubywyrm**, **Mintys
     *   `Barrelus!` (65) — *Transfigures a target into an explosive wooden barrel.*
     *   <span style="color:red">`Sliceum!`</span> (70) — *An invisible slashing beam that causes bleeding.*
 
+✅ Allowed to use spells outside of the school's premises.
+✅ Allowed to drive flying mops.
+
 ### Tier 5: The C.H.A.D. Status (Master)
 *(Classified High-level Arcane Destruction)*
 *   **Skill Level Range:** 85 – 100
@@ -142,7 +157,9 @@ This is the standard progression for students residing in **Rubywyrm**, **Mintys
     *   <span style="color:red">`Explodus!`</span> (80) — *Heavy explosive concussive bolt.*
     *   <span style="color:red">`Painum!`</span> (85) — *The excruciating torture curse (strictly illegal).*
     *   <span style="color:red">`Deadum!`</span> (100) — *The unblockable, instant-death green laser (strictly illegal).*
-*   **The Legal Risk:** Casting <span style="color:red">`Painum!`</span> or <span style="color:red">`Deadum!`</span> on school grounds (or in front of a **Surveillant** NPC/Player) will instantly flag the caster, lower their House Points by 200, and permanently demote them to **L.O.S.E.R.** status.
+
+✅ Allowed to use spells outside of the school's premises.
+✅ Allowed to drive flying mops.
 
 ---
 

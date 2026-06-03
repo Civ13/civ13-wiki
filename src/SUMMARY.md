@@ -35,6 +35,7 @@
 - [Football](gamemodes/Football.md)
 - [Voyage](gamemodes/Voyage.md)
 - [Wizard Boy](gamemodes/wizard_boy.md)
+    - [Wizard Boy Quickstart Guide](gamemodes/wizard_boy_quickstart.md)
 
 # Maps & Scenarios
 - [Maps Overview](maps_overview.md)
