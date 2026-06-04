@@ -15,6 +15,8 @@ Pepelsibirsk has several special mechanics to take into consideration.
 # Map
 <img src="../images/Pepelsibirsk.png">
 
+_Everything past this point consists of suggestions and additional info about the map._
+
 # Politics
 *These are just RP suggestions - feel free to come up with your own system of government. Note, however, that the following wiki is written with the historical system in mind.*
 
@@ -68,11 +70,11 @@ There are other settlements and powers which can be traded with. You must mainta
 
 ### Pepelsibirsk-1
 Unrelated to Pepelsibirsk itself, this is a military settlement. You may purchase weapons from it. 
-- If relations with them are low, they will refuse to sell you things.
+- If relations with them are low, they will refuse to sell you things, and will periodically launch invasions.
 
 ### Narodnyygorod
 A small town located near Pepelsibirsk, containing a port. It is somewhat wealthy, but maintains a defensive military posture. 
-- If relations with it are low, they will refuse to trade with you.
+- If relations with them are low, they will refuse to trade with you.
 
 They are your only source of rubles.
 
@@ -99,7 +101,7 @@ Diplomatic relations are naturally raised via trading, and lowered by scams and 
 
 - Purchasing items from a trader or buying/selling imports/exports will increase relations by 0.02 per ruble spent or earned.
 - You can kill visiting traders to make them drop valuable items. This will immediately reduce relations by between 10 and 25.
-- You can scam Pepelsibirsk-1 and Narodnyygorod out of their money by choosing not to pay for imported goods. This will reduce relations by 0.08 per cost of the crate in rubles.
+- You can scam Pepelsibirsk-1 and Narodnyygorod out of their money by choosing not to pay for imported goods. This will reduce relations by 0.08 per ruble.
 
 Relations go from 0 to 100, anything below 25 counting as hostile.
 
@@ -246,24 +248,23 @@ Socialism is defined as the philosophical belief in the concept of classes and c
 ### Social Democracy
 Social Democrats believe in western-style liberal democracy and capitalism, but believe in regulation and a strong welfare state to ensure good living conditions for the working class. Traditionally, they also believe that these reforms will eventually produce an egalitarian and socialist society.
 
-### Menshevism
-Similar to Social Democrats, but with the additional beliefs in workplace democracy (Soviets/Councils) and philosophical anti-capitalism (although they still support a market system).
+### Center-Marxism
+Similar to Social Democrats, Center-Marxists believe in a middle road between revolutionary socialism and reformist socialism (i.e. Social Democracy). What exactly Center-Marxism _is_ manifests differently from party to party. Examples include the historical German SPD during the interwar era, and the Mensheviks.
 
 ### Right-Communism
 The politics of Deng Xiaoping and Nikolai Bukharin. Combines the belief in workplace democracy and a single-party state with a "socialist market economy", claiming that true communism can only be achieved after a lengthy period of capitalism.
 
 ### Marxism-Leninism
-The official ideology of the Soviet Union. Closer to left-communism than right-communism, supporting a single-party state and a fully state-planned economy. Traditionally opposed to a cult of personality and in favour of collective leadership, although the Stalinist faction (previously dominant) within it prefers a strong leader acting as a de-facto dictator.
+As the official ideology of the Soviet Union, Marxism-Leninism supports a single-party state and a fully state-planned economy. It is traditionally opposed to a cult of personality and in favour of collective leadership, although the Stalinist faction (previously dominant) within it prefers a strong leader acting as a de-facto dictator.
 
-The main distinguishing factors of it is support for "Socialism in One Country" (disavowing world revolution) and a large top-heavy bureaucracy.
+The main distinguishing factors of it is support for "Socialism in One Country" (disavowing immediate world revolution) and a large, top-heavy bureaucracy.
 
-The politics of Mao Zedong are typically placed somewhere in-between Left-Communism and Marxism-Leninism - it is referred to as Maoism, and is a more agrarian and anti-bureaucratic branch of Stalinism.
+The politics of Mao Zedong, or Maoism, is a more agrarian and anti-bureaucratic branch of Stalinism.
 
 ### Left-Communism
-The politics of Leon Trotsky and the originator of most Marxist-Leninist policies. It is distinguished from Marxism-Leninism by a fervent belief in the necessity of world revolution and opposition to an unelected bureaucracy.
+Left-communism differs from party to party, but it usually manifests as a critique of Marxism-Leninism from a theoretical perspective, advocating for fierce internationalism and a rejection of participation in liberal-democratic parliaments. It is typically also anti-Stalinist, and varies in authoritarianism.
 
 ### Anarchism (Left)
-
 Anarcho-Communism. No Gods, no Masters! Often accused of being contradictory, but influential nonetheless. It supports worker cooperatives, the abolition of money and its replacement by mutual aid, the complete abolition of the state and its monopoly on violence, and local communes using a form of direct democracy for voluntary governance.
 
 ## Liberal Ideologies
@@ -293,7 +294,7 @@ The first half of this category focuses on ideologies which prioritize social co
 The latter half of this category has more in common with liberals, but is typically highly opposed to socialist egalitarianism and social policies.
 
 ### Fascism
-The combination of revolutionary nationalism, reactionary social policy, populism, and paternalistic welfare. Ironically, they tend to have a lot in common with more authoritarian socialists, and are primarily separated by social policies and the philosophies which back them. Examples include Mussolini's Italy, Peron's Argentina, Hitler's Germany, and Franco's Spain.
+Fascism is a combination of revolutionary nationalism, reactionary social policy, populism, corporatism, and paternalistic welfare. It is not truly reactionary, but is nevertheless situated on the far-right. Examples include Mussolini's Italy, Hitler's Germany, and Franco's Spain.
 
 ### Monarchism (Absolute/Semi-Constitutional)
 Support for a hereditary monarchy holding non-ceremonial absolute or executive power. Typically associated with reactionary social policy.
@@ -703,4 +704,4 @@ The ministers of these ministries are appointed by the President.[/small]<br>
 
 A map of the world as known to Pepelsibirsk in early 1976. The greyer a part of the map, the less those areas are under a recognizable centralized authority - though these areas are not typically lawless, instead ruled by roving gangs of bandits demanding protection money, small city-states, local councils, military forces engaged in brutal fighting, and disorganized rebels or guerillas fighting against central authority. Flags represent areas that are controlled as a central or federal government, whereas coats of arms represent governments that are highly decentralized and have no clear borders, claimed or unclaimed.
 
-Major conflicts include the recent civil war between the Turkestan Federal Republic and the Turkestan SFSR, the Japanese Civil War between communists and loyalists to the Yamato dynasty, and the Second Chinese Civil War, which began mere days ago after the launch and spectacular success of Project 'National Glory' by the Republic of China/Taiwan.
+Major conflicts include the recent civil war between the Central Asian Federal Republic and the Turkestan SFSR, the Japanese Civil War between communists and loyalists to the Yamato dynasty, and the Second Chinese Civil War, which began mere days ago after the launch and spectacular success of Project 'National Glory' by the Republic of China/Taiwan.
