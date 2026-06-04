@@ -77,6 +77,7 @@ These classifications are for students who have either failed entirely, have no 
 *   **Permitted Spells:** **NONE.** 
 
 ❌ Not allowed to use wands.
+
 ❌ Not allowed to drive flying mops.
 
 ### Disciplinary Tier: The L.O.S.E.R. Status
@@ -107,6 +108,7 @@ This is the standard progression for students residing in **Rubywyrm**, **Mintys
     *   `Blockum!` (10) — *Reactive shield bubble.*
 
 ❌ Not allowed to use spells outside of the school's premises.
+
 ❌ Not allowed to drive flying mops.
 
 ### Tier 2: The C.O.A.L. Licence (Apprentice)
@@ -118,6 +120,7 @@ This is the standard progression for students residing in **Rubywyrm**, **Mintys
     *   `Stinkaeum!` (20) — *Standard biological hex.*
 
 ✅ Allowed to use spells outside of the school's premises.
+
 ❌ Not allowed to drive flying mops.
 
 ### Tier 3: The G.E.M. Licence (Experienced)
@@ -131,6 +134,7 @@ This is the standard progression for students residing in **Rubywyrm**, **Mintys
     *   `Floatus!` (40) — *Removes gravity and friction from a target.*
 
 ✅ Allowed to use spells outside of the school's premises.
+
 ✅ Allowed to drive flying mops.
 
 ### Tier 4: The B.A.S.E.D. Degree (Expert)
@@ -145,6 +149,7 @@ This is the standard progression for students residing in **Rubywyrm**, **Mintys
     *   <span style="color:red">`Sliceum!`</span> (70) — *An invisible slashing beam that causes bleeding.*
 
 ✅ Allowed to use spells outside of the school's premises.
+
 ✅ Allowed to drive flying mops.
 
 ### Tier 5: The C.H.A.D. Status (Master)
@@ -158,6 +163,7 @@ This is the standard progression for students residing in **Rubywyrm**, **Mintys
     *   <span style="color:red">`Deadum!`</span> (100) — *The unblockable, instant-death green laser (strictly illegal).*
 
 ✅ Allowed to use spells outside of the school's premises.
+
 ✅ Allowed to drive flying mops.
 
 ---
@@ -213,33 +219,21 @@ Wands in *Wizard Boy* are modular. A functioning wand is assembled at a **wand a
 
 ### Wood chassis effects
 
-* **Pine wood** – baseline; no modifier, but a small chance to splinter on overcast.
-* **MDF board** – -10% juice cost, but the wand can swell when wet and become unreliable.
-* **Balsa wood** – -40% cast time, +20% juice cost, no melee force, and the wand will snap if used as a melee weapon.
-* **Snooker cue** – +20% cast time, but grants strong melee force.
-* **Fibreglass** – -25% cast time, and the wand lashes the caster on overcast.
-* **Driftwood** – -20% elemental juice cost and emits a passive stink.
-* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="pine_wood"></dmi-sprite> **Pine wood** – baseline; no modifier, but a small chance to splinter on overcast.
-* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="mdf_board"></dmi-sprite> **MDF fibreboard** – -10% juice cost, but the wand can swell when wet and become unreliable.
-* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="balsa_wood"></dmi-sprite> **Balsa wood** – -40% cast time, +20% juice cost, no melee force, and the wand will snap if used as a melee weapon.
-* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="snooker_cue"></dmi-sprite> **Snooker cue** – +20% cast time, but grants strong melee force.
-* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="fibreglass"></dmi-sprite> **Fibreglass** – -25% cast time, and the wand lashes the caster on overcast.
-* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="driftwood"></dmi-sprite> **Driftwood** – -20% elemental juice cost and emits a passive stink.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="pine_wood" dir="south" scale="2"></dmi-sprite> **Pine wood** – baseline; no modifier, but a small chance to splinter on overcast.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="mdf_board" dir="south" scale="2"></dmi-sprite> **MDF fibreboard** – -10% juice cost, but the wand can swell when wet and become unreliable.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="balsa_wood" dir="south" scale="2"></dmi-sprite> **Balsa wood** – -40% cast time, +20% juice cost, no melee force, and the wand will snap if used as a melee weapon.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="snooker_cue" dir="south" scale="2"></dmi-sprite> **Snooker cue** – +20% cast time, but grants strong melee force.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="fibreglass" dir="south" scale="2"></dmi-sprite> **Fibreglass** – -25% cast time, and the wand lashes the caster on overcast.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="driftwood" dir="south" scale="2"></dmi-sprite> **Driftwood** – -20% elemental juice cost and emits a passive stink.
 
 ### Core engine effects
 
-* **Badger hair** – combat spells are 20% faster; defensive spells cost 50% more.
-* **Pigeon feather** – movement spells cast near-instantly; low-HP panic can trigger an auto-blink.
-* **Copper wire** – -25% all juice costs, but overcasting can become lethal.
-* **Pocket lint** – randomizes juice cost each cast.
-* **Asbestos fibre** – fireproof while held, but applies passive toxin damage.
-* **Fox fur** – silent casts with no sound/VFX, at the cost of +2 seconds of cast delay.
-* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="badger_hair"></dmi-sprite> **Badger hair** – combat spells are 20% faster; defensive spells cost 50% more.
-* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="pigeon_feather"></dmi-sprite> **Pigeon feather** – movement spells cast near-instantly; low-HP panic can trigger an auto-blink.
-* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="copper_wire"></dmi-sprite> **Copper wire** – -25% all juice costs, but overcasting can become lethal.
-* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="pocket_lint"></dmi-sprite> **Pocket lint** – randomizes juice cost each cast.
-* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="asbestos"></dmi-sprite> **Asbestos fibre** – fireproof while held, but applies passive toxin damage.
-* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="fox_fur"></dmi-sprite> **Fox fur** – silent casts with no sound/VFX, at the cost of +2 seconds of cast delay.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="badger_hair" dir="south" scale="2"></dmi-sprite> **Badger hair** – combat spells are 20% faster; defensive spells cost 50% more.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="pigeon_feather" dir="south" scale="2"></dmi-sprite> **Pigeon feather** – movement spells cast near-instantly; low-HP panic can trigger an auto-blink.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="copper_wire" dir="south" scale="2"></dmi-sprite> **Copper wire** – -25% all juice costs, but overcasting can become lethal.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="pocket_lint" dir="south" scale="2"></dmi-sprite> **Pocket lint** – randomizes juice cost each cast.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="asbestos" dir="south" scale="2"></dmi-sprite> **Asbestos fibre** – fireproof while held, but applies passive toxin damage.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="fox_fur" dir="south" scale="2"></dmi-sprite> **Fox fur** – silent casts with no sound/VFX, at the cost of +2 seconds of cast delay.
 
 ### Length effects
 
