@@ -15,7 +15,7 @@ Pepelsibirsk has several special mechanics to take into consideration.
 # Map
 <img src="../images/Pepelsibirsk.png">
 
-_Everything past this point are suggestions and additional info about the map._
+_Everything past this point consists of suggestions and additional info about the map._
 
 # Politics
 *These are just RP suggestions - feel free to come up with your own system of government. Note, however, that the following wiki is written with the historical system in mind.*
