@@ -255,14 +255,14 @@ Similar to Social Democrats, Center-Marxists believe in a middle-road between re
 The politics of Deng Xiaoping and Nikolai Bukharin. Combines the belief in workplace democracy and a single-party state with a "socialist market economy", claiming that true communism can only be achieved after a lengthy period of capitalism.
 
 ### Marxism-Leninism
-The official ideology of the Soviet Union. Supports a single-party state and a fully state-planned economy. Traditionally opposed to a cult of personality and in favour of collective leadership, although the Stalinist faction (previously dominant) within it prefers a strong leader acting as a de-facto dictator.
+As the official ideology of the Soviet Union, Marxism-Leninism supports a single-party state and a fully state-planned economy. It is traditionally opposed to a cult of personality and in favour of collective leadership, although the Stalinist faction (previously dominant) within it prefers a strong leader acting as a de-facto dictator.
 
-The main distinguishing factors of it is support for "Socialism in One Country" (disavowing world revolution) and a large top-heavy bureaucracy.
+The main distinguishing factors of it is support for "Socialism in One Country" (disavowing immediate world revolution) and a large, top-heavy bureaucracy.
 
-The politics of Mao Zedong are typically placed somewhere in-between Left-Communism and Marxism-Leninism - it is referred to as Maoism, and is a more agrarian and anti-bureaucratic branch of Stalinism.
+The politics of Mao Zedong, or Maoism, is a more agrarian and anti-bureaucratic branch of Stalinism.
 
 ### Left-Communism
-Left-communism differs from party to party, but it usually manifests as a critique of Marxism-Leninism from a theoretical perspective, advocating for fierce internationalism and a rejection of participation in liberal-democratic parliaments. Typically also anti-Stalinist, and varying in authoritarianism.
+Left-communism differs from party to party, but it usually manifests as a critique of Marxism-Leninism from a theoretical perspective, advocating for fierce internationalism and a rejection of participation in liberal-democratic parliaments. It is typically also anti-Stalinist, and varies in authoritarianism.
 
 ### Anarchism (Left)
 Anarcho-Communism. No Gods, no Masters! Often accused of being contradictory, but influential nonetheless. It supports worker cooperatives, the abolition of money and its replacement by mutual aid, the complete abolition of the state and its monopoly on violence, and local communes using a form of direct democracy for voluntary governance.
@@ -294,7 +294,7 @@ The first half of this category focuses on ideologies which prioritize social co
 The latter half of this category has more in common with liberals, but is typically highly opposed to socialist egalitarianism and social policies.
 
 ### Fascism
-The combination of revolutionary nationalism, reactionary social policy, populism, corporatism, and paternalistic welfare. They are not truly reactionary, but are nevertheless situated on the far-right. Examples include Mussolini's Italy, Hitler's Germany, and Franco's Spain.
+Fascism is a combination of revolutionary nationalism, reactionary social policy, populism, corporatism, and paternalistic welfare. It is not truly reactionary, but is nevertheless situated on the far-right. Examples include Mussolini's Italy, Hitler's Germany, and Franco's Spain.
 
 ### Monarchism (Absolute/Semi-Constitutional)
 Support for a hereditary monarchy holding non-ceremonial absolute or executive power. Typically associated with reactionary social policy.
