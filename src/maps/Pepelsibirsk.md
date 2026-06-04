@@ -15,7 +15,7 @@ Pepelsibirsk has several special mechanics to take into consideration.
 # Map
 <img src="../images/Pepelsibirsk.png">
 
-_Everything past this point are suggestions and additional info about the map._
+_Everything past this point consists of suggestions and additional info about the map._
 
 # Politics
 *These are just RP suggestions - feel free to come up with your own system of government. Note, however, that the following wiki is written with the historical system in mind.*
@@ -249,7 +249,7 @@ Socialism is defined as the philosophical belief in the concept of classes and c
 Social Democrats believe in western-style liberal democracy and capitalism, but believe in regulation and a strong welfare state to ensure good living conditions for the working class. Traditionally, they also believe that these reforms will eventually produce an egalitarian and socialist society.
 
 ### Center-Marxism
-Similar to Social Democrats, Center-Marxists believe in a middle-road between revolutionary socialism and reformist socialism (i.e. Social Democracy). What exactly Center-Marxism _is_ manifests differently from party-to-party. Examples include the historical German SPD during the interwar era, and the Mensheviks.
+Similar to Social Democrats, Center-Marxists believe in a middle road between revolutionary socialism and reformist socialism (i.e. Social Democracy). What exactly Center-Marxism _is_ manifests differently from party to party. Examples include the historical German SPD during the interwar era, and the Mensheviks.
 
 ### Right-Communism
 The politics of Deng Xiaoping and Nikolai Bukharin. Combines the belief in workplace democracy and a single-party state with a "socialist market economy", claiming that true communism can only be achieved after a lengthy period of capitalism.
