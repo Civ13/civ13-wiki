@@ -10,6 +10,8 @@ This is the short quickstart guide for new players. For the full wiki page, visi
 
 Welcome to **Llanboarwart Academy of Magical Education (L.A.M.E.)**, the wettest, draftiest, and most tragically underfunded wizarding school in the Welsh valleys!
 
+<img src="../images/wiz/llanboarwart.png" style="display: block;margin: auto;max-height:400px"></img
+
 Upon entering the game, your first task is to get sorted into one of the four legendary, highly competitive houses by interacting with **The Placing Fedora**:
 
 *   🔴 **Rubywyrm**: Athletic rugby players who are brave, hotheaded, and prefer resolving disputes with their fists.

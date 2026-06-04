@@ -75,7 +75,6 @@ These classifications are for students who have either failed entirely, have no 
 *   **Skill Level Required:** 0 (and failing)
 *   **The Lore:** The absolute lowest legal designation at the Academy. Players with this certificate are deemed medically and magically incompetent.
 *   **Permitted Spells:** **NONE.** 
-    *   *System Restraints:* Legally barred from holding a wand. Cannot cast spells.
 
 ❌ Not allowed to use wands.
 ❌ Not allowed to drive flying mops.
@@ -100,7 +99,7 @@ This is the standard progression for students residing in **Rubywyrm**, **Mintys
 
 ### Tier 1: The U.N.G.A. Licence (Novice)
 *(Underperforming Numpty General Assessment)*
-*   **Skill Level Range:** 1 – 9
+*   **To Qualify:** You will need to assemble a wand. Look around the Cwm-Tlawd valley for parts, then visit the workshop.
 *   **The Lore:** Designed for students who are better suited for physical labor in the coal mines or playing brute defense on the Mop Ball pitch.
 *   **Permitted Spells:** 
     *   `Zappus!` (1) — *The basic spark.*
@@ -112,7 +111,7 @@ This is the standard progression for students residing in **Rubywyrm**, **Mintys
 
 ### Tier 2: The C.O.A.L. Licence (Apprentice)
 *(Cwm-Tlawd Ordinary Amateur Licence)*
-*   **Skill Level Range:** 10 – 19
+*   **To Qualify:** You will need to brew the **Welsh Instant Darkness** potion and bring it to Professor Snip in the Main Hall.
 *   **The Lore:** The bare minimum licence required to carry a wand in the Cwm-Tlawd valley without being arrested by the local constabulary. It focuses on basic self-defense and petty utility.
 *   **Permitted Spells:** *All Tier 1 spells, plus:*
     *   `Dropus!` (15) — *Standard disarming beam.*
@@ -123,7 +122,7 @@ This is the standard progression for students residing in **Rubywyrm**, **Mintys
 
 ### Tier 3: The G.E.M. Licence (Experienced)
 *(Gravity & Elemental Manipulation)*
-*   **Skill Level Range:** 20 – 49
+*   **To Qualify:** You will need to pass the G.E.M. assessment in Classroom 1, defending yourself against the animated target.
 *   **The Lore:** Granted to mid-years who have proven they won't accidentally collapse the school's slate roofs. This licence unlocks the physical manipulation of objects and the surrounding environment, and the use of flying mops.
 *   **Permitted Spells:** *All Tier 1 & 2 spells, plus:*
     *   `Pushum!` (30) — *The physical, invisible shove.*
@@ -136,7 +135,7 @@ This is the standard progression for students residing in **Rubywyrm**, **Mintys
 
 ### Tier 4: The B.A.S.E.D. Degree (Expert)
 *(Boarwart Advanced Sorcery & Experimental Deeds)*
-*   **Skill Level Range:** 50 – 84
+*   **To Qualify:** You will need to defeat one hostile wizard (like a moldy man).
 *   **The Lore:** Students who achieve this rank are considered "extremely based" by their peers, though the faculty considers them highly unstable. These spells allow for heavy elemental destruction and high-speed movement.
 *   **Permitted Spells:** *All Tier 1, 2 & 3 spells, plus:*
     *   `Freezeum!` (50) — *Freezes a target inside a solid block of ice.*
@@ -150,7 +149,7 @@ This is the standard progression for students residing in **Rubywyrm**, **Mintys
 
 ### Tier 5: The C.H.A.D. Status (Master)
 *(Classified High-level Arcane Destruction)*
-*   **Skill Level Range:** 85 – 100
+*   **To Qualify:** You will need to defeat another student in the Arena.
 *   **The Lore:** The absolute peak of magical education. You must be an absolute "gigachad" to cast these spells without your wand exploding or your head caving in from the sheer Juice cost.
 *   **Permitted Spells:** *All Tier 1, 2, 3, & 4 spells, plus:*
     *   `Fixae!` (75) — *Advanced healing and structural repair.*
