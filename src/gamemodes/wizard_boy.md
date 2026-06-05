@@ -273,7 +273,7 @@ The bench requires one wand chassis and one wand core to assemble a wand.
 
 ## 🔥 Teleporting Fireplaces
 
-<dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/kitchen.dmi" state="wall_fireplace2" dir="south" scale="2" animated="true"></dmi-sprite> Magical fireplaces enable you to quickly teleport around the map. Clicking a fireplace will teleport you to its linked destination, or even prompt you to choose one of available destinations. You need to have at least the **G.E.M. licence** to be able to use fireplaces.
+<dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/kitchen.dmi" state="wall_fireplace2" dir="south" scale="2"></dmi-sprite> Magical fireplaces enable you to quickly teleport around the map. Clicking a fireplace will teleport you to its linked destination, or even prompt you to choose one of available destinations. You need to have at least the **G.E.M. licence** to be able to use fireplaces.
 
 The fireplaces on the Main Hall let you travel to dangerous zones in order to fight Moldy Men and find rare items - make sure to bring backup!
 
