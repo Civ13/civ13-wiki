@@ -259,6 +259,7 @@ The bench requires one wand chassis and one wand core to assemble a wand.
 ---
 * <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="fox_fur" dir="south" scale="2"></dmi-sprite> **Fox fur** – silent casts with no sound/VFX, at the cost of +2 seconds of cast delay.
 * **Rarity:** Rare. Found in the dark forest.
+
 ---
 
 ### Length effects
@@ -267,6 +268,14 @@ The bench requires one wand chassis and one wand core to assemble a wand.
 * **Standard** – balanced baseline.
 * **Overcomp** – +3 tile range, -15% projectile spell juice cost, and the wand is too large for belt/pocket.
 * **Telescopic** – collapsible; collapsed acts like Stubby, extended acts like Overcomp, and it has a chance to collapse on cast.
+
+---
+
+## 🔥 Teleporting Fireplaces
+
+<dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/kitchen.dmi" state="wall_fireplace2" dir="south" scale="2" animated="true"></dmi-sprite> Magical fireplaces enable you to quickly teleport around the map. Clicking a fireplace will teleport you to its linked destination, or even prompt you to choose one of available destinations. You need to have at least the **G.E.M. licence** to be able to use fireplaces.
+
+The fireplaces on the Main Hall let you travel to dangerous zones in order to fight Moldy Men and find rare items - make sure to bring backup!
 
 ---
 
