@@ -215,25 +215,51 @@ Wands in *Wizard Boy* are modular. A functioning wand is assembled at a **wand a
 4. Click **Assemble Wand** once both parts are present.
 5. If needed, use **Eject** to remove and swap parts before assembling.
 
-> The bench requires one wand chassis and one wand core to assemble a wand.
+```admonish note
+The bench requires one wand chassis and one wand core to assemble a wand.
+```
 
 ### Wood chassis effects
 
 * <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="pine_wood" dir="south" scale="2"></dmi-sprite> **Pine wood** – baseline; no modifier, but a small chance to splinter on overcast.
+* **Rarity:** Common. Grab branches from trees and clear them.
+---
 * <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="mdf_board" dir="south" scale="2"></dmi-sprite> **MDF fibreboard** – -10% juice cost, but the wand can swell when wet and become unreliable.
+* **Rarity:** Common. Found in villager's houses and from broken wood furniture.
+---
 * <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="balsa_wood" dir="south" scale="2"></dmi-sprite> **Balsa wood** – -40% cast time, +20% juice cost, no melee force, and the wand will snap if used as a melee weapon.
+* **Rarity:** Uncommon. Found in shops and people's houses.
+---
 * <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="snooker_cue" dir="south" scale="2"></dmi-sprite> **Snooker cue** – +20% cast time, but grants strong melee force.
+* **Rarity:** Uncommon. Found in pubs and game rooms.
+---
 * <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="fibreglass" dir="south" scale="2"></dmi-sprite> **Fibreglass** – -25% cast time, and the wand lashes the caster on overcast.
+* **Rarity:** Uncommon. Found in factories and warehouses.
+---
 * <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="driftwood" dir="south" scale="2"></dmi-sprite> **Driftwood** – -20% elemental juice cost and emits a passive stink.
+* **Rarity:** Uncommon. Found in beaches and riversides.
+---
 
 ### Core engine effects
 
 * <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="badger_hair" dir="south" scale="2"></dmi-sprite> **Badger hair** – combat spells are 20% faster; defensive spells cost 50% more.
+* **Rarity:** Rare. Found in the dark forest.
+---
 * <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="pigeon_feather" dir="south" scale="2"></dmi-sprite> **Pigeon feather** – movement spells cast near-instantly; low-HP panic can trigger an auto-blink.
+* **Rarity:** Common. Found around pigeons and built areas.
+---
 * <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="copper_wire" dir="south" scale="2"></dmi-sprite> **Copper wire** – -25% all juice costs, but overcasting can become lethal.
+* **Rarity:** Uncommon. Found in people's houses and broken machinery.
+---
 * <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="pocket_lint" dir="south" scale="2"></dmi-sprite> **Pocket lint** – randomizes juice cost each cast.
+* **Rarity:** Common. Found in common rooms and wherever people congregate.
+---
 * <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="asbestos" dir="south" scale="2"></dmi-sprite> **Asbestos fibre** – fireproof while held, but applies passive toxin damage.
+* **Rarity:** Uncommon. Found in old buildings.
+---
 * <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="fox_fur" dir="south" scale="2"></dmi-sprite> **Fox fur** – silent casts with no sound/VFX, at the cost of +2 seconds of cast delay.
+* **Rarity:** Rare. Found in the dark forest.
+---
 
 ### Length effects
 
