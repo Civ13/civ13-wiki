@@ -47,6 +47,10 @@ The moment you assemble your first wand, you are automatically promoted to quali
 *   🎉 You are awarded your house robe, wizard hat, and round glasses!
 *   🪄 You are now permitted to carry a wand and cast Novice spells (`Zappus!`, `Lightus!`, and `Blockum!`).
 
+```admonish tip
+Around the school's bookshelves there are useful books with guidance and tips on this gamemode. Give them a read!
+```
+
 ---
 
 ## Casting Spells
