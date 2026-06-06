@@ -236,29 +236,60 @@ The bench requires one wand chassis and one wand core to assemble a wand.
 * <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="fibreglass" dir="south" scale="2"></dmi-sprite> **Fibreglass** – -25% cast time, and the wand lashes the caster on overcast.
 * **Rarity:** Uncommon. Found in factories and warehouses.
 ---
-* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="driftwood" dir="south" scale="2"></dmi-sprite> **Driftwood** – -20% elemental juice cost and emits a passive stink.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="driftwood" dir="south" scale="2"></dmi-sprite> **Driftwood** – -20% elemental juice cost and emits a passive stink that lowers mood.
 * **Rarity:** Uncommon. Found in beaches and riversides.
+---
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="stale_chip" dir="south" scale="2"></dmi-sprite> **Stale Chip** – Healing spells (`Fixae!`) cast 30% faster. Gradually crumbles from non-healing casts (20% chance per cast to lose its speed bonus).
+* **Rarity:** Rare. Can be found by the school canteen/kitchen.
+---
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="shrieking_shrub" dir="south" scale="2"></dmi-sprite> **Shrieking Shrub Root** – -20% cast time; projectile spells deal +50% damage. Every cast triggers an ear-splitting shriek, inflicting agony on all nearby mobs (including allies).
+* **Rarity:** Premium / Quest only. Obtained from defeating Shrieking Shrubs.
+---
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="truncheon" dir="south" scale="2"></dmi-sprite> **C.A.P. Truncheon** – Good melee damage. Completely immune to `Dropus!` disarming. +20% cast time.
+* **Rarity:** Premium / Quest only. Obtained from Ministry C.A.P. officers or the police station.
+
 ---
 
 ### Core engine effects
 
-* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="badger_hair" dir="south" scale="2"></dmi-sprite> **Badger hair** – combat spells are 20% faster; defensive spells cost 50% more.
-* **Rarity:** Rare. Found in the dark forest.
----
 * <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="pigeon_feather" dir="south" scale="2"></dmi-sprite> **Pigeon feather** – movement spells cast near-instantly; low-HP panic can trigger an auto-blink.
 * **Rarity:** Common. Found around pigeons and built areas.
----
-* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="copper_wire" dir="south" scale="2"></dmi-sprite> **Copper wire** – -25% all juice costs, but overcasting can become lethal.
-* **Rarity:** Uncommon. Found in people's houses and broken machinery.
 ---
 * <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="pocket_lint" dir="south" scale="2"></dmi-sprite> **Pocket lint** – randomizes juice cost each cast.
 * **Rarity:** Common. Found in common rooms and wherever people congregate.
 ---
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="rat_tail" dir="south" scale="2"></dmi-sprite> **Feral Rat Tail** – Projectile spells deal +15 bonus brute damage when hitting a target from behind (the target is facing away). When your own HP drops below 50%, misfire chance surges by 30%.
+* **Rarity:** Common. Found in hidden corners of the school or the sewers.
+---
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="copper_wire" dir="south" scale="2"></dmi-sprite> **Copper wire** – -25% all juice costs, but overcasting can become lethal.
+* **Rarity:** Uncommon. Found in people's houses and broken machinery.
+---
 * <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="asbestos" dir="south" scale="2"></dmi-sprite> **Asbestos fibre** – fireproof while held, but applies passive toxin damage.
 * **Rarity:** Uncommon. Found in old buildings.
 ---
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="sheep_wool" dir="south" scale="2"></dmi-sprite> **Damp Sheep Wool** – Defensive and structural spells (`Blockum!`, `Wallus!`) cast 20% faster and cost 25% less juice. Passive drizzle aura that interferes with nearby fire-based spells. Casting `Burnus!` superheats the wet wool, scorching your lungs with steam (coughing, stamina drain, minor burn damage).
+* **Rarity:** Uncommon. Found in the fields near sheep.
+---
 * <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="fox_fur" dir="south" scale="2"></dmi-sprite> **Fox fur** – silent casts with no sound/VFX, at the cost of +2 seconds of cast delay.
 * **Rarity:** Rare. Found in the dark forest.
+---
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="badger_hair" dir="south" scale="2"></dmi-sprite> **Badger hair** – combat spells are 20% faster; defensive spells cost 50% more.
+* **Rarity:** Rare. Found in the dark forest.
+---
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="chewing_gum" dir="south" scale="2"></dmi-sprite> **Used Chewing Gum** – Completely immune to `Dropus!` and physical disarming — the wand simply will not leave your hand. Manually unequipping or swapping hands takes a painful 3 seconds.
+* **Rarity:** Rare. Found in some of school's desks.
+---
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="magnetic_tape" dir="south" scale="2"></dmi-sprite> **Tangled Cassette Tape** – Every spell cast has a 15% chance to fire a second identical projectile for free. 5% chance to **Jumble** — the wand ignores your selected spell and fires a random one from your grimoire instead.
+* **Rarity:** Rare. Found in people's houses.
+---
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="spark_plug" dir="south" scale="2"></dmi-sprite> **Rusted Spark Plug** – Projectiles travel at double speed. Overcasting causes an immediate catastrophic backfire — shattering the bones in your hand (30 brute, fracture) and forcing a wand drop.
+* **Rarity:** Premium / Quest only. Obtained from old vehicles.
+---
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="golden_gnat" dir="south" scale="2"></dmi-sprite> **Golden Gnat Wing** – Casting time reduced to **20% of normal** (an effective 5× speed increase). Zero misfire. Juice drains extraordinarily fast from the rapid-fire potential; no overcast protection.
+* **Rarity:** Premium / Quest only. Obtained by catching a golden gnat (rare spawning creature).
+---
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="gloom_weave" dir="south" scale="2"></dmi-sprite> **Gloom-Weave Thread** – -50% juice cost on all spells. Projectile hits inflict **Frostbite** on targets (3-second movement slow, stamina drain). The permanent chill steadily leeches warmth from the caster's soul.
+* **Rarity:** Premium / Quest only. Obtained from the Gloom creatures in the school's haunted basement or from dark wizard vendors.
 
 ---
 
