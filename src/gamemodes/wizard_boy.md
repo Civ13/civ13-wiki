@@ -4,7 +4,7 @@
 This is the full guide to the gamemode. For a quick start guide for those with short attention spans, visit **[the quickstart guide](wizard_boy_quickstart.md)**.
 ```
 
-<img src="../images/wizard_boy.png" style="display: block;margin: auto;max-height:400px"></img>
+<img src="../images/wiz/wizard_boy.png" style="display: block;margin: auto;max-height:400px"></img>
 
 ```admonish quote
 *“You're a sorcerer, Barry!” - Hagrag*
@@ -304,7 +304,7 @@ The bench requires one wand chassis and one wand core to assemble a wand.
 
 ## 🔥 Teleporting Fireplaces
 
-<dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/kitchen.dmi" state="wall_fireplace2" dir="south" scale="2"></dmi-sprite> Magical fireplaces enable you to quickly teleport around the map. Clicking a fireplace will teleport you to its linked destination, or even prompt you to choose one of available destinations. You need to have at least the **G.E.M. licence** to be able to use fireplaces.
+<img src="../images/wiz/fireplace.png"></img> Magical fireplaces enable you to quickly teleport around the map. Clicking a fireplace will teleport you to its linked destination, or even prompt you to choose one of available destinations. You need to have at least the **G.E.M. licence** to be able to use fireplaces.
 
 The fireplaces on the Main Hall let you travel to dangerous zones in order to fight Moldy Men and find rare items - make sure to bring backup!
 
