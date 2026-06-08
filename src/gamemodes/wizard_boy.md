@@ -199,6 +199,14 @@ Spells marked in red are **illegal** to use against non-hostile mobs and will re
 
 ---
 
+### ⌨️ Spell Hotkeys (5-9)
+
+You can bind up to **5 spells** to your number keys **5, 6, 7, 8, and 9** for quick casting.
+
+To set them up, press **C** (the `secondary_attack_self()` key) while holding your wand. This will open a prompt asking you to choose which 5 spells from your grimoire you want to assign to those keys. Select your preferred spells and they'll be ready to cast at the tap of a number key.
+
+---
+
 ## 🪄 Wand Parts, Effects & Assembly
 
 Wands in *Wizard Boy* are modular. A functioning wand is assembled at a **wand assembly bench** from:
