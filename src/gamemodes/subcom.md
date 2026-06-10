@@ -17,7 +17,7 @@ The mode features:
 - **Weapons systems**: torpedoes with acoustic homing, fire control consoles
 - **Sensor suites**: passive and active sonar, surface radar
 - **Environmental simulation**: hull breaches, flooding, water accumulation, and atmospheric pressure
-- **NPC hostile contacts**: surface combatants, aircraft, and enemy submarines with AI state machines
+- **NPC hostile contacts**: surface combatants, aircraft, and enemy submarines with AI
 - **Mission objectives**: sink cargo ships, patrol sectors, escort allies, recon, rescue, and ambush
 - **Crew management**: track individual crew health, oxygen status, injuries, and assignments
 - **Single-player mode**: toggle via admin panel to allow ghosts to operate machinery
@@ -60,7 +60,7 @@ Manages the two nuclear reactors. Each reactor operates independently.
 Never pull control rods below 25% without sufficient primary pump speed. Heat will spiral out of control and cause a meltdown within seconds.
 ```
 
-**Power Output Formula**: `MW = secondary_pump_speed * (core_temp * 0.01)`. You need at least 5 MW total (combined) to run the nuclear turbines for full-speed propulsion (30 knots).
+**Power Output**: You need at least 5 MW total (combined from both reactors) to run the nuclear turbines for full-speed propulsion (30 knots).
 
 ### Auxiliary Systems Console
 
@@ -68,7 +68,7 @@ Controls environmental systems and battery power.
 
 | Control | Description |
 | :--- | :--- |
-| **O2 Generator** | Toggles electrolysis. Consumes 50 kW/tick. Generates oxygen across all compartments. |
+| **O2 Generator** | Toggles electrolysis. Generates oxygen across all compartments. |
 | **Battery** | Current charge / max capacity in kWh. Drains when running on electric power. |
 | **Ventilation** | Per-compartment vent controls. Open/close vents to equalize air between rooms. |
 | **Fire Suppression** | Activates fire suppression in a compartment. |
@@ -80,7 +80,7 @@ Surface detection system. **Only works when surfaced.**
 | Control | Description |
 | :--- | :--- |
 | **Power** | Toggle radar on/off (surface only). |
-| **Range** | Toggle between Short (20km) and Long (50km). Long range uses more power (50 kW vs 10 kW). |
+| **Range** | Toggle between Short (20km) and Long (50km). Long range uses more power. |
 | **Detected Contacts** | Shows surface contacts: name, range, bearing. |
 
 ### Sonar Console
@@ -90,12 +90,12 @@ Underwater detection system. Works at any depth.
 | Control | Description |
 | :--- | :--- |
 | **Power** | Toggle sonar on/off. |
-| **Mode** | Toggle between **Passive** (stealth, 5 kW, only detects submerged contacts) and **Active** (loud ping, 100 kW, detects all contacts but reveals your position). |
+| **Mode** | Toggle between **Passive** (stealth, only detects submerged contacts) and **Active** (loud ping, detects all contacts but reveals your position). |
 | **LOFAR Analysis** | Frequency analysis display. Shows propeller cavitation and engine harmonics. |
 | **Detected Contacts** | Shows submerged contacts: name, range, bearing, noise signature. |
 
 ```admonish warning
-Active sonar emits a loud ping (noise level 100) that hostile NPCs can detect from long range. Use passive sonar when trying to remain undetected.
+Active sonar emits a loud ping that hostile NPCs can detect from long range. Use passive sonar when trying to remain undetected.
 ```
 
 ### Weapons Control Station
@@ -119,7 +119,7 @@ Encrypted command communications. Receives mission objectives and displays missi
 | :--- | :--- |
 | **Transmission Log** | Shows all received messages with timestamps. |
 | **Mission Status** | Shows current objective type, target coordinates, and target integrity. |
-| **Fast Travel** | Engages 10x speed multiplier. Auto-disables when a hostile contact is within 50nm or if speed drops below 5 knots. |
+| **Fast Travel** | Engages 10x speed multiplier. Auto-disables when a hostile contact is nearby or if speed drops below 5 knots. |
 
 ---
 
@@ -129,8 +129,8 @@ When your submarine takes damage (torpedo hits, depth charges, crush depth), hul
 
 ### How Flooding Works
 
-1. **Hull Breach**: A damaged hull wall (`sub_hull`) loses integrity. When it hits 0, the wall is breached and water begins pouring in at 5 cm/tick.
-2. **Water Accumulation**: Deck tiles (`sub_deck`) accumulate water measured in centimeters (0 = dry, 200 = fully flooded).
+1. **Hull Breach**: A damaged hull wall loses integrity. When it fails, water begins pouring in.
+2. **Water Accumulation**: Deck tiles accumulate water measured in centimeters (0 = dry, 200 = fully flooded).
 3. **Water Spreading**: Water flows to adjacent tiles within the same compartment, equalizing depth.
 4. **Bulkhead Containment**: Internal bulkheads are watertight by default. If a bulkhead is destroyed, water flows through it to adjacent compartments.
 
@@ -140,17 +140,17 @@ When your submarine takes damage (torpedo hits, depth charges, crush depth), hul
 | :--- | :--- |
 | 0-29 cm | Thin film. No gameplay effect. |
 | 30-49 cm | Ankle-deep. Visual change. |
-| 50-99 cm | **Drowning risk begins**. Mobs take minor respiratory stress. |
-| 100-149 cm | **Waist deep**. Movement is difficult. Continuous losebreath buildup. |
-| 150-199 cm | **Chest deep**. Heavy brute damage (8/tick), severe drowning, CO2 buildup. |
+| 50-99 cm | **Drowning risk begins**. Minor respiratory stress. |
+| 100-149 cm | **Waist deep**. Movement is difficult. Continuous breathing difficulty. |
+| 150-199 cm | **Chest deep**. Heavy damage, severe drowning, CO2 buildup. |
 | 200 cm | **Fully flooded**. Tile is underwater. |
 
 ### Bilge Pumps
 
 Located in various compartments. Activate by clicking them.
 
-- **Standard Bilge Pump**: Drains 10 cm/tick from its tile + adjacent tiles. Uses 15 kW/tick. Range: 1 tile.
-- **Emergency Bilge Pump**: Drains 5 cm/tick, single tile only. Uses 8 kW/tick.
+- **Standard Bilge Pump**: Drains water from its tile and adjacent tiles. Uses 15 kW.
+- **Emergency Bilge Pump**: Drains water from a single tile only. Uses 8 kW.
 
 ```admonish note
 Bilge pumps require battery power. If your battery is dead, the pumps will not function. Prioritize keeping the diesel generators running if your reactors are offline.
@@ -158,7 +158,7 @@ Bilge pumps require battery power. If your battery is dead, the pumps will not f
 
 ### Hull Breach Sealant Sprayer
 
-An automated device that scans for breached hull walls and seals them with fast-curing polymer. Each use consumes one unit of sealant (100 units total). Requires 10 kW/tick to operate.
+An automated device that scans for breached hull walls and seals them with fast-curing polymer. Each use consumes one unit of sealant (100 units total). Requires power to operate.
 
 ---
 
@@ -166,18 +166,18 @@ An automated device that scans for breached hull walls and seals them with fast-
 
 Each compartment has independent atmospheric simulation:
 
-- **Oxygen (O2)**: Consumed by mobs breathing. Depleted O2 causes suffocation. Replenished by the O2 generator (electrolysis).
-- **Carbon Dioxide (CO2)**: Produced by mobs. Levels above 5.0 cause respiratory distress and CO2 poisoning.
-- **Pressure**: Calculated from gas moles and temperature. Normal = 1 atm (101.325 kPa).
+- **Oxygen (O2)**: Consumed by breathing. Depleted O2 causes suffocation. Replenished by the O2 generator.
+- **Carbon Dioxide (CO2)**: Produced by breathing. High levels cause respiratory distress and CO2 poisoning.
+- **Pressure**: Normal = 1 atm (101.325 kPa).
 
 ### Ventilation Ducts
 
-Link compartments together for air sharing. All ducts with the same **vent ID** form a network. Air gradually equalizes across the network.
+Link compartments together for air sharing. All ducts with the same vent ID form a network. Air gradually equalizes across the network.
 
 | Object | Function |
 | :--- | :--- |
 | **Ventilation Duct** | Passive air equalization. Click to open/close. |
-| **CO2 Scrubber** | Active CO2 removal (0.5 moles/tick). Optionally injects O2. Uses 25 kW/tick. |
+| **CO2 Scrubber** | Active CO2 removal. Optionally injects O2. Uses 25 kW. |
 
 ```admonish tip
 If a compartment is flooding, the water displaces oxygen. A fully flooded compartment will have almost no breathable air. Prioritize evacuation or O2 injection.
@@ -229,8 +229,8 @@ If a compartment is flooding, the water displaces oxygen. A fully flooded compar
 
 | Vessel | Type | Speed | Hull | Sensors | Notes |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Bulk Cargo Freighter** | Cargo | 15 kts | 500 | Sensor 15km | Large radar signature (2.0x). Common mission target. |
-| **Fleet Oil Tanker** | Tanker | 12 kts | 400 | Sensor 12km | Very large signature (2.5x). Catastrophic explosion on death. |
+| **Bulk Cargo Freighter** | Cargo | 15 kts | 500 | Sensor 15km | Large radar signature. Common mission target. |
+| **Fleet Oil Tanker** | Tanker | 12 kts | 400 | Sensor 12km | Very large signature. Catastrophic explosion on death. |
 
 ---
 
@@ -241,17 +241,17 @@ Hostile NPCs use a three-state AI with tactical movement:
 | State | Behavior |
 | :--- | :--- |
 | **PATROL** | Moves between random waypoints at patrol speed. Non-hostile until detection. |
-| **HUNT** | Triggered when the NPC detects the player (passive noise or active sonar ping). Moves toward the player's last known position at attack speed. |
-| **ATTACK** | When within weapon range, the NPC **circle-strafes** around the player while firing weapons on cooldown. Maintains a tight orbit (25 unit radius) to avoid torpedo lock. Reverts to HUNT if the player moves out of range. |
+| **HUNT** | Triggered when the NPC detects the player. Moves toward the player's last known position at attack speed. |
+| **ATTACK** | When within weapon range, the NPC **circle-strafes** around the player while firing weapons. Maintains a tight orbit to avoid torpedo lock. Reverts to HUNT if the player moves out of range. |
 
 **Detection Triggers**:
-- **Passive Sonar**: NPC detects you if your `noise_level` exceeds their `passive_sonar_threshold`. Noise increases with speed and active sonar use.
+- **Passive Sonar**: NPC detects you if your noise level exceeds their threshold. Noise increases with speed and active sonar use.
 - **Active Sonar Ping**: If you use active sonar within the NPC's sonar range, they instantly know your position.
 
 **Tactical Behavior**:
-- NPCs circle in a random direction (clockwise or counter-clockwise) at 8 degrees per tick
-- They fire one weapon per volley cycle with cooldown management
-- If you move beyond 40 units, they switch to HUNT to chase you
+- NPCs circle in a random direction around you while attacking
+- They fire one weapon at a time with cooldown management
+- If you move too far away, they switch to HUNT to chase you
 
 ```admonish tip
 Stay deep and slow to minimize your noise signature. A submarine running at 5 knots at 200m depth is extremely difficult to detect passively.
@@ -270,35 +270,20 @@ Each crew member is tracked with:
 | Stat | Description |
 | :--- | :--- |
 | **Health** | Current health percentage (0-100) |
-| **Total Damage** | Sum of brute, burn, toxin, and oxygen damage |
-| **Conscious** | FALSE if unconscious or dead |
-| **Injured** | TRUE if total damage exceeds 20 |
+| **Total Damage** | Sum of all damage types |
+| **Conscious** | Unconscious or dead |
+| **Injured** | Has significant damage |
 | **Oxygen Status** | "Nominal", "Low O2", "Suffocating", or "Drowning" |
-| **Compartment** | Current compartment ID (e.g., "Operations", "Reactor Room") |
+| **Compartment** | Current location (e.g., "Operations", "Reactor Room") |
 | **Assignment** | Job title (Captain, Officer, Crewman) |
-| **Role** | "captain", "officer", or "crew" |
+| **Role** | Command role (Captain, Officer, or Crew) |
 
-### Crew Query Procs
+### Crew Tracking
 
-The submarine datum provides these crew management functions:
-
-| Proc | Returns |
-| :--- | :--- |
-| `get_crew_count()` | Total number of tracked crew members |
-| `get_crew_by_role(role)` | List of crew members matching a role |
-| `get_injured_crew()` | List of crew members with damage > 20 |
-| `get_suffocating_crew()` | List of crew members with non-nominal oxygen |
-| `get_crew_in_compartment(id)` | List of crew in a specific compartment |
-| `get_crew_summary()` | Associative list: total, injured, suffocating, unconscious counts |
-
-### Crew Auto-Detection
-
-Crew are automatically added to the tracking list when:
-1. They are a `/mob/living/human` on the submarine's Z-level
-2. They are standing on a turf in `internal_turfs` (the submarine interior)
-3. They are not already tracked
-
-Dead crew members are automatically removed from tracking.
+The submarine automatically:
+- Detects crew members when they board
+- Updates their health, oxygen, and location status
+- Removes dead crew from tracking
 
 ---
 
@@ -310,37 +295,20 @@ Missions are relayed to you over the radio console. Complete objectives to earn 
 
 | Type | Objective | Completion | Failure |
 | :--- | :--- | :--- | :--- |
-| **SINK_CARGO** | Destroy a hostile cargo vessel at target coordinates | Sink the target vessel | Target escapes or 120 tick timeout |
-| **PATROL_AREA** | Navigate to and patrol a sector | Reach coordinates and survive 60 ticks | Take too much damage or 60 tick timeout |
-| **ESCORT** | Protect a friendly cargo vessel to waypoint | Cargo survives to destination | Cargo is destroyed |
-| **RECON** | Investigate coordinates and observe | Reach target and maintain position 30 ticks | Take damage or leave area |
-| **RESCUE** | Find and escort a damaged allied submarine | Escort sub to safe waters | Allied sub is destroyed |
-| **AMBUSH** | Set up and eliminate a hostile patrol group | Destroy all hostiles | Fail to eliminate all or 120 tick timeout |
+| **Sink Cargo** | Destroy a hostile cargo vessel at target coordinates | Sink the target vessel | Target escapes or time runs out |
+| **Patrol Area** | Navigate to and patrol a sector | Reach coordinates and survive | Take too much damage or time runs out |
+| **Escort** | Protect a friendly cargo vessel to waypoint | Cargo survives to destination | Cargo is destroyed |
+| **Recon** | Investigate coordinates and observe | Reach target and maintain position | Take damage or leave area |
+| **Rescue** | Find and escort a damaged allied submarine | Escort sub to safe waters | Allied sub is destroyed |
+| **Ambush** | Set up and eliminate a hostile patrol group | Destroy all hostiles | Fail to eliminate all or time runs out |
 
-### Mission Weighting
+### Mission Frequency
 
-Missions are randomly selected with these weights:
+Missions arrive periodically with a brief delay between objectives. Check your radio console regularly for new orders.
 
-| Type | Weight |
-| :--- | :--- |
-| SINK_CARGO | 30% |
-| PATROL_AREA | 25% |
-| ESCORT | 20% |
-| RECON | 15% |
-| AMBUSH | 8% |
-| RESCUE | 2% |
-
-### Mission Timing
-
-- **Delay Between Missions**: 150 ticks (approximately 2.5 minutes)
-- **Mission Timeout**: 120 ticks (approximately 2 minutes) for most types
-- **Completion Check**: Every tick while mission is active
-
-### Mission Scoring
-
-- **Completed**: +1 to `missions_completed` counter
-- **Failed**: +1 to `missions_failed` counter
-- **Mission Status**: Displayed in radio console and map metadata
+```admonish note
+Some mission types are rarer than others. Sink and patrol missions are most common, while rescue missions are extremely rare.
+```
 
 ---
 
@@ -359,7 +327,6 @@ Single-player mode allows ghosts to interact with submarine machinery, enabling 
 When enabled:
 - Ghosts can interact with all submarine consoles and physical machinery
 - Dead players can operate systems while observing
-- All machinery `can_use()` checks are bypassed for observers
 
 When disabled:
 - Only living players can interact with machinery
@@ -373,25 +340,25 @@ Single-player mode is intended for testing and solo gameplay. It can be toggled 
 
 ## Physical Machinery (Interior)
 
-These objects exist on the submarine's interior Z-level and can be interacted with directly.
+These objects exist on the submarine's interior and can be interacted with directly.
 
 | Object | Location | Interaction |
 | :--- | :--- | :--- |
 | **Reactor Core** | Reactor Room | Visual indicator of reactor status. Emits radiation if damaged. |
-| **Coolant Pump** | Reactor Room | Degrades with health. Damaged pumps reduce max RPM. |
+| **Coolant Pump** | Reactor Room | Degrades with damage. Damaged pumps reduce cooling efficiency. |
 | **Steam Turbine** | Engine Room | Caps max speed based on health. Makes noise at high speeds. |
 | **Diesel Engine** | Engine Room | Carbon buildup at low throttle. Overheats at high throttle. |
 | **Diesel Propulsion Motor** | Engine Room (diesel only) | Converts diesel power to thrust. Overheats and seizes if damaged. |
 | **Torpedo Tube** | Forward/Aft Torpedo Room | Load/unload torpedoes. Click with a torpedo item to load, crowbar to unload. |
-| **HTP Fuel Tank** | Torpedo Room | High-test peroxide storage. Volatile if damaged or heated. Explodes at 70 C. |
-| **Bunk Bed** | Crew Quarters | Rest area. No gameplay effect yet. |
+| **HTP Fuel Tank** | Torpedo Room | High-test peroxide storage. Volatile if damaged or heated. |
+| **Bunk Bed** | Crew Quarters | Rest area. |
 | **Galley** | Galley | Food processor. Produces nutritional rations when clicked. |
 | **Equipment Locker** | Various | Contains gas masks, welding tools, fire extinguishers, and basic tools. |
 | **Stern Plane** | External | Affects steering efficiency. Must be repaired while surfaced. |
-| **Bilge Pump** | Various Compartments | Drains water from tiles. Standard (10 cm/tick, 15 kW) or Emergency (5 cm/tick, 8 kW). |
-| **Hull Breach Sealant Sprayer** | Various Compartments | Seals breached hull walls. Uses sealant charges (100 total). Requires 10 kW. |
+| **Bilge Pump** | Various Compartments | Drains water from tiles. |
+| **Hull Breach Sealant Sprayer** | Various Compartments | Seals breached hull walls. |
 | **Ventilation Duct** | Various Compartments | Equalizes air between compartments. Click to open/close. |
-| **CO2 Scrubber** | Various Compartments | Removes CO2 (0.5 moles/tick), optionally injects O2. Uses 25 kW. |
+| **CO2 Scrubber** | Various Compartments | Removes CO2, optionally injects O2. |
 | **Ballast Control Valve** | Operations | Controls ballast tank flooding/venting for depth control. |
 
 ---
