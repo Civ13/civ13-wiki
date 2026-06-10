@@ -18,7 +18,9 @@ The mode features:
 - **Sensor suites**: passive and active sonar, surface radar
 - **Environmental simulation**: hull breaches, flooding, water accumulation, and atmospheric pressure
 - **NPC hostile contacts**: surface combatants, aircraft, and enemy submarines with AI state machines
-- **Mission objectives**: sink cargo ships, patrol sectors, and engage hostile fleets
+- **Mission objectives**: sink cargo ships, patrol sectors, escort allies, recon, rescue, and ambush
+- **Crew management**: track individual crew health, oxygen status, injuries, and assignments
+- **Single-player mode**: toggle via admin panel to allow ghosts to operate machinery
 
 ---
 
@@ -234,20 +236,137 @@ If a compartment is flooding, the water displaces oxygen. A fully flooded compar
 
 ## AI Behavior
 
-Hostile NPCs use a three-state AI:
+Hostile NPCs use a three-state AI with tactical movement:
 
 | State | Behavior |
 | :--- | :--- |
 | **PATROL** | Moves between random waypoints at patrol speed. Non-hostile until detection. |
-| **HUNT** | Triggered when the NPC detects the player (passive noise or active sonar ping). Moves toward the player's last known position at hunt speed. |
-| **ATTACK** | When within weapon range, the NPC stops and fires weapons on cooldown. Reverts to HUNT if the player moves out of range. |
+| **HUNT** | Triggered when the NPC detects the player (passive noise or active sonar ping). Moves toward the player's last known position at attack speed. |
+| **ATTACK** | When within weapon range, the NPC **circle-strafes** around the player while firing weapons on cooldown. Maintains a tight orbit (25 unit radius) to avoid torpedo lock. Reverts to HUNT if the player moves out of range. |
 
 **Detection Triggers**:
 - **Passive Sonar**: NPC detects you if your `noise_level` exceeds their `passive_sonar_threshold`. Noise increases with speed and active sonar use.
 - **Active Sonar Ping**: If you use active sonar within the NPC's sonar range, they instantly know your position.
 
+**Tactical Behavior**:
+- NPCs circle in a random direction (clockwise or counter-clockwise) at 8 degrees per tick
+- They fire one weapon per volley cycle with cooldown management
+- If you move beyond 40 units, they switch to HUNT to chase you
+
 ```admonish tip
 Stay deep and slow to minimize your noise signature. A submarine running at 5 knots at 200m depth is extremely difficult to detect passively.
+```
+
+---
+
+## Crew Management
+
+The submarine tracks individual crew members and their status. Crew are automatically detected when they board the submarine.
+
+### Crew Member Status
+
+Each crew member is tracked with:
+
+| Stat | Description |
+| :--- | :--- |
+| **Health** | Current health percentage (0-100) |
+| **Total Damage** | Sum of brute, burn, toxin, and oxygen damage |
+| **Conscious** | FALSE if unconscious or dead |
+| **Injured** | TRUE if total damage exceeds 20 |
+| **Oxygen Status** | "Nominal", "Low O2", "Suffocating", or "Drowning" |
+| **Compartment** | Current compartment ID (e.g., "Operations", "Reactor Room") |
+| **Assignment** | Job title (Captain, Officer, Crewman) |
+| **Role** | "captain", "officer", or "crew" |
+
+### Crew Query Procs
+
+The submarine datum provides these crew management functions:
+
+| Proc | Returns |
+| :--- | :--- |
+| `get_crew_count()` | Total number of tracked crew members |
+| `get_crew_by_role(role)` | List of crew members matching a role |
+| `get_injured_crew()` | List of crew members with damage > 20 |
+| `get_suffocating_crew()` | List of crew members with non-nominal oxygen |
+| `get_crew_in_compartment(id)` | List of crew in a specific compartment |
+| `get_crew_summary()` | Associative list: total, injured, suffocating, unconscious counts |
+
+### Crew Auto-Detection
+
+Crew are automatically added to the tracking list when:
+1. They are a `/mob/living/human` on the submarine's Z-level
+2. They are standing on a turf in `internal_turfs` (the submarine interior)
+3. They are not already tracked
+
+Dead crew members are automatically removed from tracking.
+
+---
+
+## Mission System
+
+Missions are relayed to you over the radio console. Complete objectives to earn mission points and progress through the game.
+
+### Mission Types
+
+| Type | Objective | Completion | Failure |
+| :--- | :--- | :--- | :--- |
+| **SINK_CARGO** | Destroy a hostile cargo vessel at target coordinates | Sink the target vessel | Target escapes or 120 tick timeout |
+| **PATROL_AREA** | Navigate to and patrol a sector | Reach coordinates and survive 60 ticks | Take too much damage or 60 tick timeout |
+| **ESCORT** | Protect a friendly cargo vessel to waypoint | Cargo survives to destination | Cargo is destroyed |
+| **RECON** | Investigate coordinates and observe | Reach target and maintain position 30 ticks | Take damage or leave area |
+| **RESCUE** | Find and escort a damaged allied submarine | Escort sub to safe waters | Allied sub is destroyed |
+| **AMBUSH** | Set up and eliminate a hostile patrol group | Destroy all hostiles | Fail to eliminate all or 120 tick timeout |
+
+### Mission Weighting
+
+Missions are randomly selected with these weights:
+
+| Type | Weight |
+| :--- | :--- |
+| SINK_CARGO | 30% |
+| PATROL_AREA | 25% |
+| ESCORT | 20% |
+| RECON | 15% |
+| AMBUSH | 8% |
+| RESCUE | 2% |
+
+### Mission Timing
+
+- **Delay Between Missions**: 150 ticks (approximately 2.5 minutes)
+- **Mission Timeout**: 120 ticks (approximately 2 minutes) for most types
+- **Completion Check**: Every tick while mission is active
+
+### Mission Scoring
+
+- **Completed**: +1 to `missions_completed` counter
+- **Failed**: +1 to `missions_failed` counter
+- **Mission Status**: Displayed in radio console and map metadata
+
+---
+
+## Single Player Mode
+
+Single-player mode allows ghosts to interact with submarine machinery, enabling solo play without other human crew.
+
+### How to Enable
+
+1. Open the **Server** tab in the game menu
+2. Select **"Toggle Single Player Mode"**
+3. Requires admin privileges
+
+### Effects
+
+When enabled:
+- Ghosts can interact with all submarine consoles and physical machinery
+- Dead players can operate systems while observing
+- All machinery `can_use()` checks are bypassed for observers
+
+When disabled:
+- Only living players can interact with machinery
+- Ghosts cannot operate systems
+
+```admonish note
+Single-player mode is intended for testing and solo gameplay. It can be toggled at any time by an administrator.
 ```
 
 ---
@@ -269,6 +388,11 @@ These objects exist on the submarine's interior Z-level and can be interacted wi
 | **Galley** | Galley | Food processor. Produces nutritional rations when clicked. |
 | **Equipment Locker** | Various | Contains gas masks, welding tools, fire extinguishers, and basic tools. |
 | **Stern Plane** | External | Affects steering efficiency. Must be repaired while surfaced. |
+| **Bilge Pump** | Various Compartments | Drains water from tiles. Standard (10 cm/tick, 15 kW) or Emergency (5 cm/tick, 8 kW). |
+| **Hull Breach Sealant Sprayer** | Various Compartments | Seals breached hull walls. Uses sealant charges (100 total). Requires 10 kW. |
+| **Ventilation Duct** | Various Compartments | Equalizes air between compartments. Click to open/close. |
+| **CO2 Scrubber** | Various Compartments | Removes CO2 (0.5 moles/tick), optionally injects O2. Uses 25 kW. |
+| **Ballast Control Valve** | Operations | Controls ballast tank flooding/venting for depth control. |
 
 ---
 
@@ -283,3 +407,9 @@ These objects exist on the submarine's interior Z-level and can be interacted wi
 | Need to fire torpedoes | Master Arm ON. Select target from sonar contacts. Load tube. Launch. |
 | Battery dead | Surface and engage diesel throttle to recharge. |
 | Crush depth warning | Increase target depth. Check ballast. Emergency blow if needed. |
+| Crew member injured | Check crew status via submarine console. Move to medical bay. |
+| Crew suffocating | Check oxygen status. Inject O2 into compartment or evacuate. |
+| Solo play needed | Toggle Single Player Mode in Server tab (admin only). |
+| NPC attacking | Go deep and slow. Use passive sonar. Avoid active sonar pings. |
+| Mission received | Check radio console for coordinates. Navigate to target area. |
+| Multiple hull breaches | Emergency blow to surface. Activate all bilge pumps. Seal breaches. |
