@@ -36,6 +36,7 @@
 - [Voyage](gamemodes/Voyage.md)
 - [Wizard Boy](gamemodes/wizard_boy.md)
     - [Wizard Boy Quickstart Guide](gamemodes/wizard_boy_quickstart.md)
+- [Subcom13](gamemodes/subcom.md)
 
 # Maps & Scenarios
 - [Maps Overview](maps_overview.md)
