@@ -37,7 +37,9 @@ The primary navigation console. Controls heading, speed, and depth.
 | **Target Heading** | Set in degrees (0-359). The sub turns toward this heading automatically. |
 | **Target Speed** | Set in knots. Your sub accelerates/decelerates toward this value. |
 | **Target Depth** | Pre-set depth buttons: Surface (0m), Periscope (15m), Deep (150m), Crash Dive (250m). |
-| **Emergency Blow Ballast** | Instantly vents all ballast tanks and surfaces the sub. |
+| **Visibility Status** | Shows "NOT VISIBLE", "PERISCOPE DEPTH", or "SURFACED" based on current depth. |
+| **Diesel Throttle** | Controls diesel engine output (visible when surfaced). Adjust in ±5/±10 increments. |
+| **Emergency Blow Ballast** | Vents all ballast tanks and sets target depth to surface. The sub rises at 1m/tick (25 seconds from max depth). |
 
 ```admonish tip
 Diesel-only submarines can only produce propulsion power when surfaced. Submerged, you run on battery at reduced speed (8 knots max).
@@ -54,7 +56,9 @@ Manages the two nuclear reactors. Each reactor operates independently.
 | **Secondary Pump** | Turbine steam flow (0-10 RPM). Determines power output in MW. |
 | **SCRAM** | Emergency shutdown. Inserts rods to 100% instantly. |
 
-**Reactor Meltdown**: If core temperature exceeds 1000 C, the reactor melts down. This causes radiation damage in the reactor room and permanently disables that reactor. There is no recovery from a meltdown.
+**Reactor Meltdown**: If core temperature exceeds 1000 C, the reactor melts down. This creates an explosion in the reactor room, a lethal radiation burst, and fire. The meltdown is permanent and disables that reactor. All crew on the submarine feel the screen shake.
+
+**Flooding Effects**: When the reactor room floods, coolant pump effectiveness degrades proportionally (100% at 0cm water, 0% at 100cm). Power output is also reduced. At 100cm water depth, both reactors are automatically SCRAMMED.
 
 ```admonish danger
 Never pull control rods below 25% without sufficient primary pump speed. Heat will spiral out of control and cause a meltdown within seconds.
@@ -80,7 +84,7 @@ Surface detection system. **Only works when surfaced.**
 | Control | Description |
 | :--- | :--- |
 | **Power** | Toggle radar on/off (surface only). |
-| **Range** | Toggle between Short (20km) and Long (50km). Long range uses more power. |
+| **Range** | Toggle between Short (25km) and Long (70km). Long range uses more power. |
 | **Detected Contacts** | Shows surface contacts: name, range, bearing. |
 
 ### Sonar Console
@@ -90,9 +94,10 @@ Underwater detection system. Works at any depth.
 | Control | Description |
 | :--- | :--- |
 | **Power** | Toggle sonar on/off. |
-| **Mode** | Toggle between **Passive** (stealth, only detects submerged contacts) and **Active** (loud ping, detects all contacts but reveals your position). |
-| **LOFAR Analysis** | Frequency analysis display. Shows propeller cavitation and engine harmonics. |
-| **Detected Contacts** | Shows submerged contacts: name, range, bearing, noise signature. |
+| **Mode** | Toggle between **Passive** (stealth, detects all contacts within 25km range) and **Active** (loud ping, extended range but reveals your position). |
+| **LOFAR Analysis** | Frequency analysis display. Shows three-tonal spectral display (propeller, engine, auxiliary frequencies) for vessel classification. |
+| **Bearing Sweep** | Rotating sweep display showing contact amplitude spikes at their bearings. |
+| **Detected Contacts** | Shows contacts: name, range, bearing, classification, and noise signature. TAG contacts for tactical map display. |
 
 ```admonish warning
 Active sonar emits a loud ping that hostile NPCs can detect from long range. Use passive sonar when trying to remain undetected.
@@ -109,7 +114,7 @@ Torpedo fire control system.
 | **Target Selection** | Select a detected contact as your target. Torpedoes home toward the selected target. |
 | **Launch** | Fires a torpedo from a loaded tube toward the selected target. |
 
-**Torpedo Stats**: 40 knots, 800 unit range, 150 base hull damage. Homing torpedoes track the target automatically.
+**Torpedo Stats**: 40 knots, 800 unit range, 250 base hull damage. Homing torpedoes track the target automatically. Different weapon types have different effects: torpedoes and missiles deal full hull damage, depth charges deal area damage across multiple hull sections, and naval guns deal 1/3 damage.
 
 ### Radio Console
 
@@ -120,6 +125,32 @@ Encrypted command communications. Receives mission objectives and displays missi
 | **Transmission Log** | Shows all received messages with timestamps. |
 | **Mission Status** | Shows current objective type, target coordinates, and target integrity. |
 | **Fast Travel** | Engages 10x speed multiplier. Auto-disables when a hostile contact is nearby or if speed drops below 5 knots. |
+
+### Compartment Status Panel
+
+Damage control console showing the status of all submarine compartments.
+
+| Control | Description |
+| :--- | :--- |
+| **Compartment List** | Shows water level, O2, CO2, and status (FLOODED/WET/DRY) for each compartment. |
+| **Crew Status** | Table of all crew: name, role, health, oxygen status, and current compartment. |
+| **EMERGENCY DRAIN** | Activates all bilge pumps simultaneously across the submarine. |
+| **O2 INJECT ALL** | Injects oxygen into all compartments at once. |
+| **SEAL BULKHEADS** | Attempts to seal all breached bulkheads. |
+
+### Tactical Map Display
+
+ASCII grid-based tactical map for situational awareness.
+
+| Control | Description |
+| :--- | :--- |
+| **Zoom In/Out** | Adjust display range from 2.5km to 200km. |
+| **Legend** | Color-coded contact types: player (white), tagged contacts (yellow), untagged (grey). |
+| **Tagged Contacts** | Contacts tagged via sonar or radar appear with name, range, and bearing labels. |
+
+```admonish tip
+Tag important contacts on sonar or radar first. They will then appear on your tactical map with full identification.
+```
 
 ---
 
@@ -132,18 +163,24 @@ When your submarine takes damage (torpedo hits, depth charges, crush depth), hul
 1. **Hull Breach**: A damaged hull wall loses integrity. When it fails, water begins pouring in.
 2. **Water Accumulation**: Deck tiles accumulate water measured in centimeters (0 = dry, 200 = fully flooded).
 3. **Water Spreading**: Water flows to adjacent tiles within the same compartment, equalizing depth.
-4. **Bulkhead Containment**: Internal bulkheads are watertight by default. If a bulkhead is destroyed, water flows through it to adjacent compartments.
+4. **Bulkhead Containment**: Internal bulkheads are watertight by default. If a bulkhead is destroyed, water flows through it to adjacent compartments at 10% of water depth per tick (max 3cm).
+5. **Blast Doors**: Open blast doors allow water to flow between compartments. Closed blast doors block water flow.
 
 ### Water Depth Effects
 
 | Depth | Effect |
 | :--- | :--- |
-| 0-29 cm | Thin film. No gameplay effect. |
-| 30-49 cm | Ankle-deep. Visual change. |
-| 50-99 cm | **Drowning risk begins**. Minor respiratory stress. |
-| 100-149 cm | **Waist deep**. Movement is difficult. Continuous breathing difficulty. |
+| 1-29 cm | Thin film. No gameplay effect. |
+| 30-99 cm | Water covers the deck. Minor sloshing. |
+| 100-149 cm | **Drowning begins**. Breathing difficulty, losebreath accumulates. |
 | 150-199 cm | **Chest deep**. Heavy damage, severe drowning, CO2 buildup. |
 | 200 cm | **Fully flooded**. Tile is underwater. |
+
+### Flooding Interactions
+
+- **Engine Room Flooding**: When water reaches 50cm in the engine room, diesel engines are forcibly shut down. Diesel throttle is forced to 0.
+- **Reactor Room Flooding**: Water degrades coolant pump effectiveness. At 100cm, both reactors are automatically SCRAMMED and power output drops to zero.
+- **Fire Extinguishing**: Water above 50cm automatically extinguishes fires on that tile.
 
 ### Bilge Pumps
 
@@ -182,6 +219,20 @@ Link compartments together for air sharing. All ducts with the same vent ID form
 ```admonish tip
 If a compartment is flooding, the water displaces oxygen. A fully flooded compartment will have almost no breathable air. Prioritize evacuation or O2 injection.
 ```
+
+---
+
+## Fire System
+
+Fires can start from explosions, reactor meltdowns, or admin commands. Fire spreads across deck tiles and damages crew.
+
+### Fire Mechanics
+
+- **Ignition**: Fires start on internal deck tiles. Each fire burns for a set duration.
+- **Spread**: Each tick, fire has a 5-8% chance of spreading to adjacent sub_deck turfs within the same compartment.
+- **Damage**: Mobs on burning tiles take 3-8 burn damage per tick (15% chance per tick).
+- **Smoke**: Random smoke effects spawn on burning tiles.
+- **Extinction**: Water above 50cm automatically extinguishes fires. Fires do not spread through watertight bulkheads or closed blast doors.
 
 ---
 
@@ -348,12 +399,12 @@ These objects exist on the submarine's interior and can be interacted with direc
 | **Coolant Pump** | Reactor Room | Degrades with damage. Damaged pumps reduce cooling efficiency. |
 | **Steam Turbine** | Engine Room | Caps max speed based on health. Makes noise at high speeds. |
 | **Diesel Engine** | Engine Room | Carbon buildup at low throttle. Overheats at high throttle. |
-| **Diesel Propulsion Motor** | Engine Room (diesel only) | Converts diesel power to thrust. Overheats and seizes if damaged. |
+| **Diesel Propulsion Motor** | Engine Room (diesel only) | Converts diesel power to thrust. Has motor temperature. Overheats above 80C, seizes if health reaches 0. |
 | **Torpedo Tube** | Forward/Aft Torpedo Room | Load/unload torpedoes. Click with a torpedo item to load, crowbar to unload. |
-| **HTP Fuel Tank** | Torpedo Room | High-test peroxide storage. Volatile if damaged or heated. |
+| **HTP Fuel Tank** | Torpedo Room | High-test peroxide storage. Volatile if damaged or heated. Explodes when destroyed (devastation 1, heavy 2, light 4). |
 | **Bunk Bed** | Crew Quarters | Rest area. |
 | **Galley** | Galley | Food processor. Produces nutritional rations when clicked. |
-| **Equipment Locker** | Various | Contains gas masks, welding tools, fire extinguishers, and basic tools. |
+| **Emergency Supply Vendor** | Various | Contains gas masks, NBC suits, geiger counters, fire extinguishers, and basic tools. |
 | **Stern Plane** | External | Affects steering efficiency. Must be repaired while surfaced. |
 | **Bilge Pump** | Various Compartments | Drains water from tiles. |
 | **Hull Breach Sealant Sprayer** | Various Compartments | Seals breached hull walls. |
@@ -367,16 +418,31 @@ These objects exist on the submarine's interior and can be interacted with direc
 
 | Situation | Action |
 | :--- | :--- |
-| Taking on water | Activate bilge pumps. Seal breaches with welder or sealant sprayer. |
+| Taking on water | Activate bilge pumps. Seal breaches with hull breach sealant sprayer. Close blast doors to contain flooding. |
 | Running out of air | Turn on O2 generator. Open ventilation ducts. |
 | Reactor overheating | Increase primary pump speed. Insert control rods. SCRAM if critical. |
+| Reactor room flooding | Water degrades pumps. Evacuate and seal bulkheads. Flooding at 100cm force-SCRAMS reactors. |
+| Engine room flooding | Diesel engines auto-shutdown at 50cm water. Surface and seal. |
+| Fire started | Fires spread to adjacent tiles. Flood the area (>50cm water extinguishes). Evacuate crew. |
 | Enemy detected on sonar | Go deep (150m+), reduce speed to 5 knots, go silent. |
 | Need to fire torpedoes | Master Arm ON. Select target from sonar contacts. Load tube. Launch. |
-| Battery dead | Surface and engage diesel throttle to recharge. |
+| Battery dead | Surface and engage diesel throttle to recharge. Lights go dark when battery is empty. |
 | Crush depth warning | Increase target depth. Check ballast. Emergency blow if needed. |
-| Crew member injured | Check crew status via submarine console. Move to medical bay. |
+| Crew member injured | Check crew status via compartment panel. Move to medical bay. |
 | Crew suffocating | Check oxygen status. Inject O2 into compartment or evacuate. |
 | Solo play needed | Toggle Single Player Mode in Server tab (admin only). |
 | NPC attacking | Go deep and slow. Use passive sonar. Avoid active sonar pings. |
 | Mission received | Check radio console for coordinates. Navigate to target area. |
 | Multiple hull breaches | Emergency blow to surface. Activate all bilge pumps. Seal breaches. |
+| Need situational awareness | Tag contacts on sonar/radar. Check tactical map display for overview. |
+| Compartment status | Use Compartment Status Panel to monitor water, O2, CO2 across all compartments. |
+
+---
+
+## Lighting
+
+The submarine has two types of interior lights:
+
+- **Normal lights** (`alwayson/sub`): Respond to submarine battery power. When battery is charged, lights are on. When battery is empty, all normal lights go dark.
+- **Emergency red lights** (`alwayson/red`): Always on regardless of power state. These serve as battle-station lighting and emergency illumination.
+- **Emergency strobes** (`alwayson/red/emergency`): Brighter red lights that blink on/off as emergency beacons. Used in critical areas.
