@@ -250,10 +250,10 @@ The bench requires one wand chassis and one wand core to assemble a wand.
 * <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="stale_chip" dir="south" scale="2"></dmi-sprite> **Stale Chip** – Healing spells (`Fixae!`) cast 30% faster. Gradually crumbles from non-healing casts (20% chance per cast to lose its speed bonus).
 * **Rarity:** Rare. Can be found by the school canteen/kitchen.
 ---
-* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="shrieking_shrub" dir="south" scale="2"></dmi-sprite> **Shrieking Shrub Root** – -20% cast time; projectile spells deal +50% damage. Every cast triggers an ear-splitting shriek, inflicting agony on all nearby mobs (including allies).
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="shrub_root" dir="south" scale="2"></dmi-sprite> **Shrieking Shrub Root** – -20% cast time; projectile spells deal +50% damage. Every cast triggers an ear-splitting shriek, inflicting agony on all nearby mobs (including allies).
 * **Rarity:** Premium / Quest only. Obtained from defeating Shrieking Shrubs.
 ---
-* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="truncheon" dir="south" scale="2"></dmi-sprite> **C.A.P. Truncheon** – Good melee damage. Completely immune to `Dropus!` disarming. +20% cast time.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="cap_truncheon" dir="south" scale="2"></dmi-sprite> **C.A.P. Truncheon** – Good melee damage. Completely immune to `Dropus!` disarming. +20% cast time.
 * **Rarity:** Premium / Quest only. Obtained from Ministry C.A.P. officers or the police station.
 
 ---
@@ -287,16 +287,16 @@ The bench requires one wand chassis and one wand core to assemble a wand.
 * <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="chewing_gum" dir="south" scale="2"></dmi-sprite> **Used Chewing Gum** – Completely immune to `Dropus!` and physical disarming — the wand simply will not leave your hand. Manually unequipping or swapping hands takes a painful 3 seconds.
 * **Rarity:** Rare. Found in some of school's desks.
 ---
-* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="magnetic_tape" dir="south" scale="2"></dmi-sprite> **Tangled Cassette Tape** – Every spell cast has a 15% chance to fire a second identical projectile for free. 5% chance to **Jumble** — the wand ignores your selected spell and fires a random one from your grimoire instead.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="cassette_tape" dir="south" scale="2"></dmi-sprite> **Tangled Cassette Tape** – Every spell cast has a 15% chance to fire a second identical projectile for free. 5% chance to **Jumble** — the wand ignores your selected spell and fires a random one from your grimoire instead.
 * **Rarity:** Rare. Found in people's houses.
 ---
 * <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="spark_plug" dir="south" scale="2"></dmi-sprite> **Rusted Spark Plug** – Projectiles travel at double speed. Overcasting causes an immediate catastrophic backfire — shattering the bones in your hand (30 brute, fracture) and forcing a wand drop.
 * **Rarity:** Premium / Quest only. Obtained from old vehicles.
 ---
-* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="golden_gnat" dir="south" scale="2"></dmi-sprite> **Golden Gnat Wing** – Casting time reduced to **20% of normal** (an effective 5× speed increase). Zero misfire. Juice drains extraordinarily fast from the rapid-fire potential; no overcast protection.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="gnat_wing" dir="south" scale="2"></dmi-sprite> **Golden Gnat Wing** – Casting time reduced to **20% of normal** (an effective 5× speed increase). Zero misfire. Juice drains extraordinarily fast from the rapid-fire potential; no overcast protection.
 * **Rarity:** Premium / Quest only. Obtained by catching a golden gnat (rare spawning creature).
 ---
-* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="gloom_weave" dir="south" scale="2"></dmi-sprite> **Gloom-Weave Thread** – -50% juice cost on all spells. Projectile hits inflict **Frostbite** on targets (3-second movement slow, stamina drain). The permanent chill steadily leeches warmth from the caster's soul.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="gloom_thread" dir="south" scale="2"></dmi-sprite> **Gloom-Weave Thread** – -50% juice cost on all spells. Projectile hits inflict **Frostbite** on targets (3-second movement slow, stamina drain). The permanent chill steadily leeches warmth from the caster's soul.
 * **Rarity:** Premium / Quest only. Obtained from the Gloom creatures in the school's haunted basement or from dark wizard vendors.
 
 ---
