@@ -142,11 +142,12 @@ This is the standard progression for students residing in **Rubywyrm**, **Mintys
 *   **To Qualify:** You will need to defeat one hostile wizard (like a moldy man).
 *   **The Lore:** Students who achieve this rank are considered "extremely based" by their peers, though the faculty considers them highly unstable. These spells allow for heavy elemental destruction and high-speed movement.
 *   **Permitted Spells:** *All Tier 1, 2 & 3 spells, plus:*
-    *   `Freezeum!` (50) — *Freezes a target inside a solid block of ice.*
+    *   `Freezum!` (50) — *Freezes a target inside a solid block of ice.*
     *   `Blinkae!` (55) — *Short-range line-of-sight teleportation.*
     *   <span style="color:red">`Burnus!`</span> (55) — *Fire-starting cone of flame.*
     *   `Barrelus!` (65) — *Transfigures a target into an explosive wooden barrel.*
     *   <span style="color:red">`Sliceum!`</span> (70) — *An invisible slashing beam that causes bleeding.*
+    *   `Fixae!` (70) — *Advanced healing and structural repair.*
 
 ✅ Allowed to use spells outside of the school's premises.
 
@@ -157,7 +158,6 @@ This is the standard progression for students residing in **Rubywyrm**, **Mintys
 *   **To Qualify:** You will need to defeat another student in the Arena.
 *   **The Lore:** The absolute peak of magical education. You must be an absolute "gigachad" to cast these spells without your wand exploding or your head caving in from the sheer Juice cost.
 *   **Permitted Spells:** *All Tier 1, 2, 3, & 4 spells, plus:*
-    *   `Fixae!` (75) — *Advanced healing and structural repair.*
     *   <span style="color:red">`Explodus!`</span> (80) — *Heavy explosive concussive bolt.*
     *   <span style="color:red">`Painum!`</span> (85) — *The excruciating torture curse (strictly illegal).*
     *   <span style="color:red">`Deadum!`</span> (100) — *The unblockable, instant-death green laser (strictly illegal).*
@@ -187,14 +187,14 @@ Spells marked in red are **illegal** to use against non-hostile mobs and will re
 | **Pullus!** | Pulls targets or items. | 7 ds (0.7s) | 20 | 30 | Pulls the target toward the caster, causing slam damage on obstacles. |
 | **Wallus!** | Summons a sturdy wooden barricade at the target location. | 15 ds (1.5s) | 30 | 35 | Creates a magical barrier at the target tile if it is empty. |
 | **Floatus!** | Removes the burden of gravity. | 12 ds (1.2s) | 35 | 40 | Applies near-zero friction and makes the target float. |
-| **Freezeum!** | Encases target in ice. | 15 ds (1.5s) | 35 | 50 | Freezes and paralyzes the target. |
+| **Freezum!** | Encases target in ice. | 15 ds (1.5s) | 35 | 50 | Freezes and paralyzes the target (5 burn, -120 temp). |
 | **Blinkae!** | Teleports the caster to a nearby clicked location. | 15 ds (1.5s) | 30 | 55 | Teleports the caster to a nearby tile, if the path is clear. |
 | <span style="color:red">**Burnus!**</span> | A reckless fire bolt. | 15 ds (1.5s) | 40 | 55 | Fires a flame bolt that ignites and burns targets. |
 | **Barrelus!** | Polymorphs target. | 15 ds (1.5s) | 25 | 65 | Turns the target into a wooden barrel for a short time. |
 | <span style="color:red">**Sliceum!**</span> | Invisible cutting strike. | 20 ds (2.0s) | 40 | 70 | Deals a sharp strike and inflicts bleeding. |
-| **Fixae!** | A powerful healing spell that rejuvenates the target. | 15 ds (1.5s) | 50 | 75 | Heals brute/burn and restores health, removing some negative effects. |
+| **Fixae!** | A powerful healing spell that rejuvenates the target. | 15 ds (1.5s) | 50 | 70 | Heals and fully revives the target. |
 | <span style="color:red">**Explodus!**</span> | Heavy explosive blast. | 30 ds (3.0s) | 60 | 80 | Launches a projectile that detonates in an area effect. |
-| <span style="color:red">**Painum!**</span> | Torture curse. | 30 ds (3.0s) | 85 | 85 | Inflicts heavy pain and damage over time. |
+| <span style="color:red">**Painum!**</span> | Torture curse. | 30 ds (3.0s) | 50 | 85 | Causes agony, stuns, and blurs vision. |
 | <span style="color:red">**Deadum!**</span> | The green delete laser. | 50 ds (5.0s) | 100 | 100 | Charges and instantly gibbs the target on hit. |
 
 ---
