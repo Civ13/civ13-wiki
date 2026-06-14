@@ -275,7 +275,7 @@ The bench requires one wand chassis and one wand core to assemble a wand.
 * <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="asbestos" dir="south" scale="2"></dmi-sprite> **Asbestos fibre** – fireproof while held, but applies passive toxin damage.
 * **Rarity:** Uncommon. Found in old buildings.
 ---
-* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="sheep_wool" dir="south" scale="2"></dmi-sprite> **Damp Sheep Wool** – Defensive and structural spells (`Blockum!`, `Wallus!`) cast 20% faster and cost 25% less juice. Passive drizzle aura that interferes with nearby fire-based spells. Casting `Burnus!` superheats the wet wool, scorching your lungs with steam (coughing, stamina drain, minor burn damage).
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="sheep_wool" dir="south" scale="2"></dmi-sprite> **Damp Sheep Wool** – Juice regenerates **30% faster** while the wand is held. Casting `Burnus!` or `Explodus!` superheats the wet wool, scorching your lungs with steam (coughing, stamina drain, minor burn damage).
 * **Rarity:** Uncommon. Found in the fields near sheep.
 ---
 * <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="fox_fur" dir="south" scale="2"></dmi-sprite> **Fox fur** – silent casts with no sound/VFX, at the cost of +2 seconds of cast delay.
@@ -290,10 +290,10 @@ The bench requires one wand chassis and one wand core to assemble a wand.
 * <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="cassette_tape" dir="south" scale="2"></dmi-sprite> **Tangled Cassette Tape** – Every spell cast has a 15% chance to fire a second identical projectile for free. 5% chance to **Jumble** — the wand ignores your selected spell and fires a random one from your grimoire instead.
 * **Rarity:** Rare. Found in people's houses.
 ---
-* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="spark_plug" dir="south" scale="2"></dmi-sprite> **Rusted Spark Plug** – Projectiles travel at double speed. Overcasting causes an immediate catastrophic backfire — shattering the bones in your hand (30 brute, fracture) and forcing a wand drop.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="spark_plug" dir="south" scale="2"></dmi-sprite> **Rusted Spark Plug** – All spells cost **30% less juice**. Overcasting causes an immediate catastrophic backfire — shattering the bones in your hand (30 brute, fracture) and forcing a wand drop.
 * **Rarity:** Premium / Quest only. Obtained from old vehicles.
 ---
-* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="gnat_wing" dir="south" scale="2"></dmi-sprite> **Golden Gnat Wing** – Casting time reduced to **20% of normal** (an effective 5× speed increase). Zero misfire. Juice drains extraordinarily fast from the rapid-fire potential; no overcast protection.
+* <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="gnat_wing" dir="south" scale="2"></dmi-sprite> **Golden Gnat Wing** – Casting time reduced to **50% of normal** (an effective 2× speed increase). Zero misfire. No overcast protection.
 * **Rarity:** Premium / Quest only. Obtained by catching a golden gnat (rare spawning creature).
 ---
 * <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/obj/magic_items.dmi" state="gloom_thread" dir="south" scale="2"></dmi-sprite> **Gloom-Weave Thread** – -50% juice cost on all spells. Projectile hits inflict **Frostbite** on targets (3-second movement slow, stamina drain). The permanent chill steadily leeches warmth from the caster's soul.
