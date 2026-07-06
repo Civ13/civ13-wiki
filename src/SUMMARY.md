@@ -28,6 +28,8 @@
     - [Religion](guides/Guide_to_Religion.md)
     - [Slang](guides/Guide_to_Slang.md)
     - [Races](guides/Guide_to_Races.md)
+    - [Research](guides/Guide_to_Research.md)
+
 
 # Gamemodes
 - [Civilizations & Nomads](gamemodes/Civilizations_and_Nomads.md)
