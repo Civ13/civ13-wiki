@@ -74,6 +74,7 @@ def metadata(title, description, canonical):
     values = {'description': description, 'og:title': title, 'og:description': description,
               'og:url': canonical, 'og:type': 'website', 'og:site_name': SITE,
               'og:image': IMAGE, 'og:image:alt': 'Civilization 13 banner',
+              'og:image:width': '450', 'og:image:height': '232',
               'twitter:card': 'summary_large_image', 'twitter:title': title,
               'twitter:description': description, 'twitter:image': IMAGE,
               'twitter:image:alt': 'Civilization 13 banner'}
