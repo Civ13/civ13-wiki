@@ -8,6 +8,12 @@ Rain and immersion make you wet, weakening clothing insulation and increasing co
 
 Complete coverage buys time but does not make you immune to cold. A dangerously cold body takes harm even when fully covered. Seek warmth before exposure becomes severe, and account for other injuries and hunger.
 
+## Daylight and weather transitions
+
+Day/night lighting and outdoor weather appearances update progressively across ticks to reduce interruptions. A visible transition may take longer to finish. If another update arrives during a transition, the latest pending request replaces the older target.
+
+Indoor and map-level lighting exclusions, climate and seasonal weather rules, radiation appearances, and Wasteland Night/Morning effects still apply. These appearance updates do not change season lengths or advance debris age.
+
 ## Abandoned debris
 
 Discarded rubbish and empty, unrecoverable spent casings become eligible to decay after **4 actual season changes** on maps with changing seasons. Examine them after **2 changes** to see the warning. Maps without an active seasonal cycle instead warn after **6 hours** and allow decay after **12 hours of running-server time**. Decay processing can take additional time after the threshold.
