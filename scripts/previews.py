@@ -92,6 +92,8 @@ def generate(root, base=BASE):
     for path in sorted(root.rglob('*.html')):
         relative = path.relative_to(root).as_posix()
         source = path.read_text(encoding='utf-8')
+        if path.name == 'toc.html':
+            continue
         if MARKER not in source:
             raise ValueError(f'Missing preview build marker: {relative}')
         # mdBook utility pages are deliberately not advertised as chapters.
