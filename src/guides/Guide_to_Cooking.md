@@ -1,5 +1,7 @@
 # Guide to Cooking
 
+For meat, offal and specialized stomachs, see [Harvesting dead animals](Guide_to_Ranching.md#harvesting-dead-animals). Offal uses existing meat preparation and decay handling; cook or preserve it as food. It cannot replace a surgical organ.
+
 ## Why cook?
 
 Cooking is useful for making meat and water safe to consume, as well as
@@ -481,4 +483,4 @@ Canning is a good way to preserve food for later consumption.
 * Fill cans with whatever food.
 * Seal cans with the canner, entering a brand name and selecting colours for the can's design.
 * When the time comes, open sealed cans with a knife, then click them with an empty hand to remove food.
-* Used cans could be recycled back into tin with the **[furnace](Guide_to_Crafting.md#furnace)**.
+* Used cans could be recycled back into tin with the **[furnace](Guide_to_Metallurgy.md#furnaces)**.

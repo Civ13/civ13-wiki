@@ -226,6 +226,8 @@ Almost every living being out there could contribute to the cause of
 Progress. Let's examine this more closely, leaving all the edible bits
 to the **[Guide to Cooking](Guide_to_Cooking.md)**.
 
+See [Harvesting dead animals](Guide_to_Ranching.md#harvesting-dead-animals) for timed butchering, species products and yields, and [Sinew and primitive tools](Guide_to_Ranching.md#sinew-and-primitive-tools) for rope binding and flint-axe assembly.
+
 <table>
 <tbody>
 <tr>
@@ -241,17 +243,17 @@ to the **[Guide to Cooking](Guide_to_Cooking.md)**.
 <tr>
 <td><img src="../images/leather.png"></td>
 <td><b><a href="../Full_Crafting_List.md#leather">Leather</a></b></td>
-<td>Used for clothing, military equipment, various bags etc. Obtained from many animals by skinning on Harm intent. Larger animals provide more leather.</td>
+<td>Used for clothing, military equipment and bags. Quick butchering on Harm intent gives leather from supported mammals, with yield based on size. Grab intent gives species pelts instead.</td>
 </tr>
 <tr>
 <td><img src="../images/bone.png"></td>
 <td><b><a href="Full_Crafting_List#bone">Bone</a></b></td>
-<td>Obtained by skinning the animal carcass regardless of the intent. A material for primitive tools and weapons.</td>
+<td>Supported mammals give bone through either harvesting intent, with yield based on size. A material for primitive tools and weapons.</td>
 </tr>
 <tr>
 <td><img src="../images/animal_fat.png"></td>
 <td><b>Animal fat</b></td>
-<td>Obtained by butchering the carcass of certain animals on Harm intent. Fat is dropped by pigs, cows, bison, buffaloes, camels, wolves, bears and mammoths: the larger the animal, the more fat. Animal fat is used to produce <b>lard</b>, which, in turn, is used to produce <b>fat oil</b>.<br>
+<td>Harvesting gives at most two fat portions where the animal's fat rules allow it, through either intent. Animal fat is used to produce <b>lard</b>, which, in turn, is used to produce <b>fat oil</b>.<br>
 To make <b>lard</b>, take animal fat and click any vessel like barrels, buckets or cooking pots with it. 1 animal fat = 10u of lard.<br>
 To make <b>fat oil</b>, put lard into a cooking pot (a copper one, for instance) and cook it on a campfire or an oven (like boiling water). Every 2u of lard will produce 1u of fat oil.<br>
 Fat oil and lard are used in <b><a href="Guide_to_Cooking.md">cooking</a></b> and <b><a href="../Miscellaneous_Crafting.md">manufacturing</a></b>. Fat oil can also be used as fuel for lanterns and the hot bulb engine.
