@@ -17,6 +17,8 @@ For questions or community help, join the [Civ13 Discord](https://discord.gg/hBE
 
 Plan production with the [chemistry workflow](guides/Guide_to_Chemistry.md) and [power and battery guide](guides/Guide_to_Power.md). Developers can search types and procedures in the [developer API reference](https://civ13.github.io/Civ13/); player instructions remain in this wiki.
 
+For local source inspection with developer tools or AI assistants, read [Civ13 MCP setup and usage](developers/Civ13_MCP.md).
+
 
 <hr>
 

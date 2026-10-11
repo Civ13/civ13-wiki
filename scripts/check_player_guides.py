@@ -5,7 +5,7 @@ from urllib.parse import unquote, urlsplit
 
 PAGES = ('index.md', 'New_Player_Guide.md', 'guides/Guide_to_Chemistry.md',
          'guides/Guide_to_Power.md', 'guides/Guide_to_Research.md',
-         'gamemodes/Civilizations_and_Nomads.md')
+         'gamemodes/Civilizations_and_Nomads.md', 'developers/Civ13_MCP.md')
 
 
 def check(root=Path('book/html')):

@@ -96,6 +96,7 @@
     - [Gulag 13](maps/Gulag_13.md)
 
 # Reference
+- [Civ13 MCP for Developers](developers/Civ13_MCP.md)
 - [Full Crafting List](Full_Crafting_List.md)
 - [Hotkeys](Hotkeys.md)
 - [Crafting Skill Requirements](Crafting_Skill_Level_Requirements.md)
