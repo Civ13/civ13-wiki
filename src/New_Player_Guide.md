@@ -26,7 +26,7 @@ Read the lobby's map and mode before choosing a role. In Nomads, start with the 
 
 Crafting depends on the active map's catalog, era, character skills and research mode. A recipe listed here may be unavailable on your map. For the tech-tree mode, read [Research](guides/Guide_to_Research.md); older modes have separate rules in [Civilizations and Nomads](gamemodes/Civilizations_and_Nomads.md#research).
 
-For later production, see [Chemistry](guides/Guide_to_Chemistry.md), [Power & Batteries](guides/Guide_to_Power.md), and [Crafting](guides/Guide_to_Crafting.md). These guides describe merged game mechanics; a running server may use an older version. Ask staff which version and round settings are active rather than assuming every documented feature is available.
+For later production, see [Chemistry](guides/Guide_to_Chemistry.md), [Power & Batteries](guides/Guide_to_Power.md), and [Crafting](guides/Guide_to_Crafting.md).
 
 ## TDM / Team Deathmatch Modes
 

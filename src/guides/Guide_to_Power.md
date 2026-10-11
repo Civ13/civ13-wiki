@@ -31,7 +31,3 @@ Cut its cable before unanchoring. Moving or disconnecting a battery turns it off
 - **Machine exceeds output:** one accumulator supplies at most 10 PU. The laboratory centrifuge requires 30 PU, so one battery cannot run it. Provide sufficient connected generation; stored capacity alone does not raise output.
 - **Cannot craft cables:** check the map catalog, era, skill and Electricity research. Battery availability does not bypass those gates.
 - **Engine will not run a vehicle:** inspect its accepted fuel and installation. The chemistry guide's [9:1 blend](Guide_to_Chemistry.md#engine-fuel) is accepted by internal engines that already accept gasoline; it does not add compatibility to diesel-only engines.
-
-## Source and version
-
-Checked against merged game revision [e48afe3](https://github.com/Civ13/Civ13/tree/e48afe3a84485de779b2076b80841c1119288930): [battery behavior](https://github.com/Civ13/Civ13/blob/e48afe3a84485de779b2076b80841c1119288930/code/modules/1713/machinery/batteries.dm), [global recipes](https://github.com/Civ13/Civ13/blob/e48afe3a84485de779b2076b80841c1119288930/config/crafting/material_recipes_global.txt), and [research gates](https://github.com/Civ13/Civ13/blob/e48afe3a84485de779b2076b80841c1119288930/code/modules/research_tree/research_node.dm). Running servers may use a different revision.

@@ -78,4 +78,4 @@ For AI-assisted work: discover schemas, search a narrow literal, read the releva
 
 ## Authoritative source
 
-Checked against merged revision [e48afe3](https://github.com/Civ13/Civ13/tree/e48afe3a84485de779b2076b80841c1119288930). Maintain setup and behavior against the versioned [MCP README](https://github.com/Civ13/Civ13/blob/e48afe3a84485de779b2076b80841c1119288930/tools/mcp/README.md), [configuration example](https://github.com/Civ13/Civ13/blob/e48afe3a84485de779b2076b80841c1119288930/tools/mcp/config.example.toml), and [server implementation](https://github.com/Civ13/Civ13/blob/e48afe3a84485de779b2076b80841c1119288930/tools/mcp/server.mjs). Recheck your checkout before relying on this tool list.
+Maintain setup and behavior against the [MCP README](https://github.com/Civ13/Civ13/blob/master/tools/mcp/README.md), [configuration example](https://github.com/Civ13/Civ13/blob/master/tools/mcp/config.example.toml), and [server implementation](https://github.com/Civ13/Civ13/blob/master/tools/mcp/server.mjs). Recheck your checkout before relying on this tool list.
