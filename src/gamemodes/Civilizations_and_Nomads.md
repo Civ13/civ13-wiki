@@ -100,6 +100,8 @@ Work smart, not hard!
 
 ## Research
 
+For rounds using the newer tech-tree mode, use the [Research guide](../guides/Guide_to_Research.md). The sections below describe legacy modes; their point-pool rules do not describe the tech tree. Always check the lobby's selected mode.
+
 Research is one of the most important aspects of Civilizations and
 Nomads. It is with it that your faction can unlock new craftables and
 better equipment\!

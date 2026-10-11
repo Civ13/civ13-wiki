@@ -21,6 +21,7 @@
     - [Medical](guides/Guide_to_Medical.md)
     - [Metallurgy](guides/Guide_to_Metallurgy.md)
     - [Paperwork](guides/Guide_to_Paperwork.md)
+    - [Power & Batteries](guides/Guide_to_Power.md)
     - [Races](guides/Guide_to_Races.md)
     - [Radiation](guides/Guide_to_Radiation.md)
     - [Ranching](guides/Guide_to_Ranching.md)
@@ -95,6 +96,7 @@
     - [Gulag 13](maps/Gulag_13.md)
 
 # Reference
+- [Civ13 MCP for Developers](developers/Civ13_MCP.md)
 - [Full Crafting List](Full_Crafting_List.md)
 - [Hotkeys](Hotkeys.md)
 - [Crafting Skill Requirements](Crafting_Skill_Level_Requirements.md)

@@ -940,6 +940,8 @@ electrical cables.
     cable (1 m - 1 tile). Stand in one place to make the cable in a
     single coil, which could be up to 50 m in length.
 
+    In tech-tree mode, colored cable recipes require **Electricity**. The active map catalog, era and character skills also apply. For commissioning, output limits and save behavior of cable batteries, see [Power & Batteries](Guide_to_Power.md).
+
 2. Lay the cable on the ground by clicking it in your active hand,
     pressing Ctrl-Z or Z in the hotkeys mode.
     
