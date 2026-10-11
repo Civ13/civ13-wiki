@@ -31,7 +31,10 @@ def check(root=Path('book/html')):
     power = (root / 'guides/Guide_to_Power.html').read_text(encoding='utf-8')
     assert all(term in chemistry for term in ('15-second', '9:1 blend', 'Fruit Protease', 'historical-chemical-reactions-export'))
     assert all(term in power for term in ('30 PU', '10 PU', 'stored chemical state', 'Electricity'))
-    assert 'Guide_to_Power.html' in (root / 'toc.html').read_text(encoding='utf-8')
+    # mdBook 0.4.x embeds navigation; newer local versions also emit toc.html.
+    navigation = root / ('toc.html' if (root / 'toc.html').is_file() else 'index.html')
+    nav_text = navigation.read_text(encoding='utf-8')
+    assert 'Guide_to_Power.html' in nav_text and 'developers/Civ13_MCP.html' in nav_text
     print(f'Checked {len(PAGES)} player pages and {links} local links including fragments')
 
 
