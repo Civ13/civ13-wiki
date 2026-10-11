@@ -54,13 +54,9 @@ The bench also selects calcium, wood-processing, polymer precursor and gasoline-
 
 Select **Engine fuel - 9:1 blend** with 9 gasoline and 1 purified ethanol to produce 10 units of Blended Engine Fuel. Internal engines that already accept gasoline accept this blend with the same consumption and power behavior. Diesel-only engines do not gain it, and it retains gasoline's toxicity and fire-contact behavior. See [engines and vehicles](Guide_to_Crafting.md#engines) for tank attachment and installation.
 
-## Source and version
+## Additional chemical reactions
 
-Verified against merged game revision [e48afe3](https://github.com/Civ13/Civ13/tree/e48afe3a84485de779b2076b80841c1119288930): [bench and burner](https://github.com/Civ13/Civ13/blob/e48afe3a84485de779b2076b80841c1119288930/code/modules/reagents/laboratory.dm), [gelatin and fuel](https://github.com/Civ13/Civ13/blob/e48afe3a84485de779b2076b80841c1119288930/code/modules/reagents/biochemistry.dm), and [player recipe paths](https://github.com/Civ13/Civ13/blob/e48afe3a84485de779b2076b80841c1119288930/docs/chemistry-recipes.md). This is merged-source guidance, not confirmation of the version running on any server. Developers can search the [API reference](https://civ13.github.io/Civ13/).
-
-## Historical chemical reactions export
-
-The table below was exported on **7 December 2021** and is incomplete for current chemistry. Use the workflows above and the active game's recipe menu for current selected reactions. This historical table is retained as a reference, not a complete current recipe catalog. **Ctrl-F** searches this page.
+This table does not list every bench recipe. Use the workflows above and the recipe menu for selected reactions. **Ctrl-F** searches this page.
 
 ## Chemical Reactions List
 
