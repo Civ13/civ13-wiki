@@ -5,7 +5,11 @@ from urllib.parse import unquote, urlsplit
 
 PAGES = ('index.md', 'New_Player_Guide.md', 'guides/Guide_to_Chemistry.md',
          'guides/Guide_to_Power.md', 'guides/Guide_to_Research.md',
-         'gamemodes/Civilizations_and_Nomads.md', 'developers/Civ13_MCP.md')
+         'gamemodes/Civilizations_and_Nomads.md', 'developers/Civ13_MCP.md',
+         'guides/Guide_to_Farming.md', 'guides/Guide_to_Medical.md',
+         'guides/Guide_to_Crafting.md', 'guides/Guide_to_Construction.md',
+         'guides/Guide_to_Resource_Extraction.md', 'guides/Guide_to_Survival.md',
+         'guides_overview.md', 'gamemodes/The_Art_of_the_Deal.md')
 
 
 def check(root=Path('book/html')):
@@ -35,6 +39,7 @@ def check(root=Path('book/html')):
     navigation = root / ('toc.html' if (root / 'toc.html').is_file() else 'index.html')
     nav_text = navigation.read_text(encoding='utf-8')
     assert 'Guide_to_Power.html' in nav_text and 'developers/Civ13_MCP.html' in nav_text
+    assert 'Guide_to_Resource_Extraction.html' in nav_text and 'Guide_to_Survival.html' in nav_text
     print(f'Checked {len(PAGES)} player pages and {links} local links including fragments')
 
 

@@ -5,6 +5,12 @@ power.
 
 ## Tools
 
+### Starting a farm
+
+In the default global catalog, **2 raw wood** makes a wooden knife. A Stone Age hatchet costs **2 stone** through baseline Basic Tools; use it to split **2 raw wood into 1 plank**. A starter research bench costs **8 planks**. At a tier-zero bench, **Basic Agriculture** has no prerequisite and costs **95 study ticks**, unlocking the **4-plank wooden plough**. Faction permissions, bench upgrades, map catalogs and skills still apply. Established factions do not gain this research merely because another faction advances the era.
+
+Use a knife on a small bush with **Help intent** for random seeds; the bush regrows its seed supply after **10 minutes**. Continental, Pangea, New World, Mediterranean, Gaia and Europe use biome seed catalogs when this forage route is present. Pangea also has placed seed stacks; check actual resources on your map. Healing herbs use jungle-bush forage or planting a herb stack, consuming one herb, rather than random herb seeds. Seeds still need suitable soil, biome and season.
+
 To farm, you will require some basic tools.
 
 <table>
@@ -87,8 +93,7 @@ more water than usual - additional 10 per minute.
 There are a few ways to provide the crops with water:
 
   - Plough land within two tiles of fresh water, which is any water,
-    except for the saltwater. The plants will have all the water they
-    need without any extra labor.
+    except for saltwater. Accepted freshwater within two tiles refills crops; empty channels do not water them. Mushrooms do not require watering.
     
   - Dig a flooded trench from the nearest fresh water to irrigate remote
     fields. For this a trench shovel is required, which becomes
@@ -97,18 +102,19 @@ There are a few ways to provide the crops with water:
     first one and so on. Farming fields should be within two tiles of
     the water channel as well. A trench could be removed by filling it with 2 piles of dirt.
     
-  - Dig an irrigation channel from the nearest fresh water, which could be done with any shovel. It functions just like flooded trenches, without the drawback of being a           barrier. An irrigation channel could be removed by filling it with 1 pile of dirt.
+  - Dig an irrigation channel from the nearest fresh water with a shovel. In tech-tree mode, **Irrigation** requires **Basic Agriculture**, a **tier-one bench** and **165 study ticks**. It is a specialist Agriculture node and is not automatically granted by reaching Modern. Channels function like flooded trenches without blocking movement; fill a channel with 1 dirt to remove it.
     
   - Water the plants manually. Bring the fresh water in buckets and
     barrels and splash it on the ploughed field (the ground, not the plant).
     
-  - Pray for the eternal rain. Rain will water the fields (at the rate
-    of 15 per minute), but may create other inconveniences.
+  - Rain adds **15 water per crop water check**, capped at the crop's capacity.
+
+Cardinally connected channels propagate flooding and salinity. Only flooded fresh channels or trenches irrigate; salty ones do not. Adding a fresh source does not clear existing salt, and removing a source does not drain water already present. Filled-in channels and ordinary floor do not supply phantom irrigation. Natural water is not consumed as a finite volume by this system.
 
 ### Soil Nutrition
 The soil, as in real life, has its level of nutrition. The plants that you plant in the soil will consume its nutrition little by little, until it reaches zero.
 If you let the soil rest, without farm plants, it will recover little by little.
-At the beginning of each round, every plot of soil will have maximum nutrition.
+World saves preserve soil nutrition rather than restoring depleted plots to maximum. Partial trench digging and filling progress also survives saves.
 The maximum soil nutrition is 150.
 
 **To examine the soil, stand close to it and examine it.**
@@ -167,6 +173,10 @@ reaches 1.6, examining a plant will, in general terms, tell you whether
 it has enough water. At 2.2, you will be able to determine the exact
 water level and nutrition of a plant.
 At 1.3 or higher skill, you will be able to tell when a plant is sufficiently well nourished to give extra crops.
+
+At 1.3, dead crops also advise uprooting before replanting. At 1.6, living crops give qualitative water and depleted-soil guidance; 2.2 reveals numerical water and nutrition. Mushrooms report their water exemption. Soil advice reflects the crop's last nutrition sample, so fertilizer appears in diagnostics after the next growth cycle.
+
+Harvest a ready crop, or uproot an unready or dead one, with a knife, hatchet, bayonet or scythe. This removes the plant; it is not a perennial harvest.
 
 ### Biomes and seasons
 

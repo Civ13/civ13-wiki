@@ -23,7 +23,7 @@ There are four companies in the game mode:
 
 In some rounds, **the Police** might be active. The Police station is
 near the center of the map - see [The Art of the Deal#The
-Police](#The_Police) for their specific
+Police](#the-police) for their specific
 mechanics.
 
 There are also **Paramedics**. They have a fully furnished hospital and
@@ -159,6 +159,8 @@ desktop.
 **Do not drive a vehicle without knowing how, make sure you drive on the right side of the road!**
 https://civ13.github.io/civ13-wiki/Guide_to_Tanks#driving
 Vehicles can be bought at the **car dealership** in the center. 
+
+With Automobiles and Electricity research, players can also manufacture the existing car layouts at an [automobile workshop](../guides/Guide_to_Crafting.md#automobile-workshop). Built cars need fuel and a clear assembly bay.
 Be aware that driving stolen cars will get you a warrant!
 
 ### Guns
@@ -183,7 +185,7 @@ reception. You will get paid **100 dollars**.
 ## The Police
 
 The police is in charge of making sure everyone follows the law. Check
-[The Art of the Deal#Rules](#Rules) for
+[The Art of the Deal#rules](#rules) for
 which laws can be enforced.
 
 ### The Station
@@ -220,7 +222,7 @@ The Police Department has two starting police interceptors below the police stat
 #### The Map
 
 See [The Art of the Deal#The
-Map](#The_Map).
+Map](#the-map).
 
 ### Radios
 
@@ -262,7 +264,7 @@ Each faction has different objectives that will count towards the score.
 Each company must acquire as much money as possible. Dead members will
 reduce the score. Money must be stored in the safe. To see how the disk
 conversion to money works, check [The Art of the
-Deal#Disks](#Disks). Attacking Police
+Deal#disks](#disks). Attacking Police
 Officers *should be avoided at all costs*, as it will reduce the
 company's points and give the police reason to search the HQ!
 
