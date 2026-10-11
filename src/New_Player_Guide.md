@@ -28,6 +28,8 @@ Crafting depends on the active map's catalog, era, character skills and research
 
 For later production, see [Chemistry](guides/Guide_to_Chemistry.md), [Power & Batteries](guides/Guide_to_Power.md), and [Crafting](guides/Guide_to_Crafting.md).
 
+Use [Farming](guides/Guide_to_Farming.md) for seeds and irrigation, [Medical](guides/Guide_to_Medical.md#severe-illness) for illness treatment, [Winter & Long Rounds](guides/Guide_to_Survival.md) for cold protection and debris storage, and [Resource Extraction](guides/Guide_to_Resource_Extraction.md) for gathering and powered production.
+
 ## TDM / Team Deathmatch Modes
 
 Browse [maps and scenarios](maps_overview.md) to see the available battles.

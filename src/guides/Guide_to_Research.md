@@ -34,7 +34,7 @@ The tree has three intersecting **layers** — Industrial, Military, and Health 
 | **Military** | Melee, Archery, Firearms, Artillery, Armor |
 | **Health** | Medicine, Surgery, Sanitation |
 
-There are **80 nodes** in total. See the [full reference table](#full-node-reference) at the bottom of this page for every node, its era, its tick cost, and its prerequisites.
+See the [full reference table](#full-node-reference) for node eras, study costs and prerequisites.
 
 ---
 
@@ -42,11 +42,11 @@ There are **80 nodes** in total. See the [full reference table](#full-node-refer
 
 Every node has an **era tier** (0–8, matching the map's ages). This is the key rule that makes the tree playable instead of a grind wall:
 
-> **Any node whose era tier is at or below the map's current age is automatically granted to everyone — every faction, and factionless players too.**
+**Main-tree baseline research is granted up to a faction's founding era.** That baseline is frozen: another faction advancing the world does not automatically unlock later nodes for an established faction. Research beyond your baseline must be earned.
 
-You never re-research the Stone Age once the world has moved into the Bronze Age. Your bench time only ever goes toward the **frontier**: nodes *ahead* of the current era. As the world advances, yesterday's frontier becomes today's freebie.
+Factionless players receive Main-tree baseline nodes up to the current era. A new faction starts with the era baseline at its founding; loaded faction state and map setup still matter.
 
-This also means a brand-new faction (or someone who just abandoned one) isn't starting from zero — they get every baseline node the rest of the world already has for free.
+**Specialist trees**, including Agriculture and Tailoring, do not receive era-based automatic completion. For example, Modern does not grant Irrigation. Unlock its gateway, meet the bench tier and complete the node.
 
 ---
 
@@ -54,7 +54,7 @@ This also means a brand-new faction (or someone who just abandoned one) isn't st
 
 A **research bench** is a craftable structure. Assign it one invention from the tree, and it will make progress on that invention — nothing else — until it's done, at which point you reassign it to the next thing.
 
-- **Building one:** costs 8 soft wood, same recipe tier as a legacy research desk. You must belong to a faction to build one.
+- **Building one:** costs 8 planks in the default global recipe. You must belong to a faction to build one.
 - **Ownership:** a bench belongs to whichever faction built it. It is *not* shared infrastructure between factions.
 - **Viewing vs. acting:** anyone can open a bench's interface to see the state of their faction's tree and what's currently being researched. Only the Leader, Research Director, or an appointed Researcher can *change* what a bench is working on, or produce trade goods from it.
 - **Reclaiming an abandoned bench:** if a faction dies out completely (no living members left), any other faction under its own bench cap can claim one of its benches. The claimed bench's old research assignment is cleared.
@@ -240,6 +240,9 @@ The first bonus slot costs 300 silver-equivalent, the second costs 600, the thir
 | Electricity | 5 | 352 | 4 | **Prototype** (cable coil) | Steam Power |
 | Combustion Engine | 5 | 235 | 4 | Analysis | Steam Power, Steelmaking |
 | Nuclear Power | 7 | 458 | 6 | **Prototype** (geiger counter) | Combustion Engine |
+| Hydraulic Fracturing | 8 | 400 | 7 | Analysis | Electricity, Modern Construction |
+
+Electricity unlocks the powered soil sifter and river concentrator. Hydraulic Fracturing unlocks the finite petroleum rig; see [Resource Extraction](Guide_to_Resource_Extraction.md) for input and power requirements. Automobiles and Electricity are both needed to use the [automobile workshop](Guide_to_Crafting.md#automobile-workshop).
 
 #### Vehicles
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |

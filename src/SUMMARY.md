@@ -27,6 +27,8 @@
     - [Ranching](guides/Guide_to_Ranching.md)
     - [Religion](guides/Guide_to_Religion.md)
     - [Research](guides/Guide_to_Research.md)
+    - [Resource Extraction](guides/Guide_to_Resource_Extraction.md)
+    - [Winter & Long Rounds](guides/Guide_to_Survival.md)
     - [Slang](guides/Guide_to_Slang.md)
     - [Tanks](guides/Guide_to_Tanks.md)
     - [Weapons](guides/Guide_to_Weapons.md)

@@ -1,5 +1,7 @@
 # Guide to Construction
 
+Partial trench digging and filling progress survives world saves, alongside trench layout and contents. Freshwater trenches can also supply crops; see [Farming](Guide_to_Farming.md#watering) for irrigation, connected channels and salinity.
+
 It is truly a marvel, that from this dusty dirt under our feet, these
 heaps of rugged stones and those chaotically growing trees could spring
 such smooth, even walls in all their rectangular glory. A natural

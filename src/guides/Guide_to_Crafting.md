@@ -114,7 +114,7 @@ Pioneers, only the Blacksmith can use the anvil.
 <tr>
 <td><img src="../images/e.png"> <img src="../images/bronze_knife.png"> <img src="../images/steel_knife.png"></td>
 <td><b>Knife</b></td>
-<td>Made with either 4 bone pieces or 1 unit of manifold materials: stone, copper, bronze, iron, steel, tin, even gold, silver and diamonds. Metal knives are made via casting in the <b><a href="Guide_to_Metallurgy#molds">knife mold</a></b>. Used to cut trees, skin animals and stab enemies in a desperate situation. Used to cut wires and cut down curtains as well. The bone knife (the top one) is also a surgical tool in the earliest epochs, but for that refer to <b><a href="Guide_to_Medical#surgery">Surgery</a></b>. And check the <b><a href="Guide_to_Cooking.md#kitchen-implements">Guide to Cooking</a></b> for more culinary uses of the knife.</td>
+<td>Made with either 4 bone pieces or 1 unit of manifold materials: stone, copper, bronze, iron, steel, tin, even gold, silver and diamonds. Metal knives are made via casting in the <b><a href="Guide_to_Metallurgy.md#molds">knife mold</a></b>. Used to cut trees, skin animals and stab enemies in a desperate situation. Used to cut wires and cut down curtains as well. The bone knife (the top one) is also a surgical tool in the earliest epochs, but for that refer to <b><a href="Guide_to_Medical#surgery">Surgery</a></b>. And check the <b><a href="Guide_to_Cooking.md#kitchen-implements">Guide to Cooking</a></b> for more culinary uses of the knife.</td>
 </tr>
 <tr>
 <td><img src="../images/bone_hatchet.png"> <img src="../images/hatchet.png"></td>
@@ -129,7 +129,7 @@ Pioneers, only the Blacksmith can use the anvil.
 <tr>
 <td><img src="../images/bone_shovel.png"> <img src="../images/shovel.png"></td>
 <td><b>Shovel</b></td>
-<td>Made with either 2 bone pieces or a <b><a href="Guide_to_Metallurgy#molds">cast shovel head</a></b>, plus a wooden handle. Used to dig up dirt, sand and snow, as well as for digging underground entrances (tunnels), irrigation channels, pit latrines and graves. For the last four, hold a shovel in the active hand and click it, or press Ctrl-Z or Z in the hotkeys mode, then choose a respective option. An underground entrance (more like exit, in this case) could also be dug upwards if done underground, unless there is some kind of obstacle on the surface, e.g. a floor cover.</td>
+<td>Made with either 2 bone pieces or a <b><a href="Guide_to_Metallurgy.md#molds">cast shovel head</a></b>, plus a wooden handle. Used to dig up dirt, sand and snow, as well as for digging underground entrances (tunnels), irrigation channels, pit latrines and graves. For the last four, hold a shovel in the active hand and click it, or press Ctrl-Z or Z in the hotkeys mode, then choose a respective option. An underground entrance (more like exit, in this case) could also be dug upwards if done underground, unless there is some kind of obstacle on the surface, e.g. a floor cover.</td>
 </tr>
 <tr>
 <td><img src="../images/chisel.png"> <img src="../images/modern_chisel.png"></td>
@@ -381,7 +381,17 @@ holding a hammer in the other hand.
 
     - **Obsidian** - Jungle (obsidian is also available from 313 BC to 1713).
 
+### Component work tools
+
+Combine a pickaxe, shovel or hatchet head with a handle using the head-on-handle interaction. The ordinary wood handle costs **1 plank**; the **plank handle** costs **2 planks**, and the **reinforced handle** costs **2 iron ingots** with the wrench's research threshold. Head recipes and their own requirements still apply.
+
+The assembled tool retains both component materials and qualities. Its quality is the lower input quality, bounded from 0.5 to 2, and its condition starts at the worse input condition. A better handle cannot erase damage or upgrade a crude head's quality. Handle integrity affects capacity; handle weight affects shovel and pickaxe work speed, while head hardness also affects pickaxe speed. These tradeoffs change work duration and durability, not mineral yield. Hatchet tree-chopping delays keep their existing behavior.
+
+Examine an assembled tool to see its components. Existing tools keep their stats. This assembly does not add repair or disassembly; spear and combat-axe assembly remain separate.
+
 #### Mining
+
+For terrain-preserving gathering, powered sifters, river concentration and petroleum production, see [Resource Extraction](Guide_to_Resource_Extraction.md).
 <table>
 <tbody>
 <tr>
@@ -979,6 +989,22 @@ electrical cables.
 </table>
 
 ## Vehicles
+
+### Automobile workshop
+
+Research **Automobiles** and **Electricity**, then craft an automobile workshop from **30 steel** in the production category. Leave an empty, dry floor square northeast of it: **3x3** for ASNO Piccolino, ASNO Quattroporte and Yamasaki Kazoku; **4x4** for other models.
+
+| Input | Small cars | Large cars |
+| --- | ---: | ---: |
+| Steel | 40 | 60 |
+| Glass | 6 | 8 |
+| Cloth | 4 | 6 |
+| Cable | 10 | 10 |
+| Unattached wheels | 4 | 4 |
+
+Feed the material stacks into the workshop. Drag four unused, unbroken, unattached wheels onto it, and drag an adjacent laid cable onto it to connect a network with **20 available power**. Click the workshop, choose a model and stay adjacent during assembly. Clear loose objects and occupants from the bay. Interrupted work, a blocked bay or lost power leaves assembly inputs unspent; **Unload inputs** returns unused stock.
+
+The workshop offers all nine layouts: Piccolino, Quattroporte, Erstenklasse, Falcon, Falcon Unmarked, Wyoming, Shinobu, Police Shinobu and Kazoku. Finished cars have **empty fuel tanks** and need fuel accepted by their engine; manufacturing does not supply loose map accessories. Stock survives saves, but reconnect cable power after loading.
 
 ### Motorcycles
 

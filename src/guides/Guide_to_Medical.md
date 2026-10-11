@@ -5,6 +5,25 @@ join these roles if you have had prior experience with Civilization 13
 medical on other rounds, as they are limited and many people will be
 relying on you to act fast.
 
+## Severe illness
+
+Plague, typhus, malaria and cholera deteriorate while the infected human is actively processed. Symptoms become debilitating after about three minutes, critical after fifteen, and fatal after twenty untreated minutes of nominal processing. Disconnecting pauses this progression. Other injuries and environmental hazards still matter.
+
+| Illness | Medicine | Complete oral course |
+| --- | --- | --- |
+| Plague, typhus, cholera | Penicillin | 2 units |
+| Malaria | Quinine | 10 units |
+
+Continuous appropriate treatment pauses deterioration and cures the illness after three minutes. Interrupting treatment resets course completion; provide a fresh complete course before the deadline. Flu and zombie infection use separate behavior.
+
+**Healing herbs** are the early alternative. Activate a herb stack in hand while conscious and able to eat. One herb supplies 10 herbal remedy, lasting about three minutes twenty seconds. Take **three herbs**, redosing before the previous remedy runs out, for a continuous **ten-minute course**. Keep a separate herb for planting; a cultivated harvest starts at three herbs, so building a treatment reserve takes multiple harvests. Herbs come from their jungle-bush forage and herb-stack planting route, not random herb seeds.
+
+For renewable penicillin, extract charcoal and ethanol: **1 charcoal + 2 ethanol makes 1 acetone**, then **10 enzyme + 1 acetone makes 5 penicillin**. Wood-derived charcoal avoids finite coal. The other carbon route uses a barrel: one charcoal item adds three carbon units; a beaker does not accept the item directly. Cinchona supplies quinine. See [Chemistry](Guide_to_Chemistry.md) for bench operations.
+
+A grain or flour starter can ferment without existing yeast. Let the culture grow before withdrawing a yeast container if you want to retain it; each container holds 50 enzyme. Distilling 4 beer produces 2 ethanol. The starter jar needs glass and **Pottery Storage**; apothecary equipment follows **Herbalism** and **Apothecary**. The softwood ethanol-distillery recipe uses the legacy Economy & Production threshold of 45 where that research mode applies.
+
+Susceptible healthy humans can catch plague, typhus or cholera near an infected source. Immunity and sterile-mask protection still apply. Malaria and zombie infection do not use this person-to-person route, and exposure does not reset an already infected patient's progression.
+
 ## First-Aid
 
 - The first thing you need to do is drag them (quickly hold CTRL then
@@ -44,7 +63,7 @@ caused.
 to open this person up and check inside each body part (at bottom-right)
 that was bleeding with your bare hands like a true blood-covered
 witch-doctor/chiurgeon. Anyone can use [proper tools that get invented
-later](#Surgery), but in dire situations if your character
+later](#surgery), but in dire situations if your character
 has had some previous experience in medicine (*Character tab at the
 top-right, Medical [skill](Guide_to_Character.md#skills)
 
@@ -81,7 +100,7 @@ in the bottom-middle of the screen to double it up and turn it into an
 "aggressive" grab - then change to green/help mode and click on the
 person with the body part you want to check selected at bottom-right,
 and the chat box will start telling you what your fingers find there.
-Now [read about Surgery here](#Surgery), remind them not to
+Now [read about Surgery here](#surgery), remind them not to
 start walking around again straight after while seriously wounded or the
 bone will just break again, they need to stay in bed and heal up before
 leaving (again, food and water helps with this). This time is a good
