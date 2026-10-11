@@ -1,38 +1,31 @@
 # New Player Guide
+
 ## Getting Started
 
-### Rules
+### Read the Rules
 
-Welcome to Civ 13. Please take a moment to [read the server
-rules](rules/Rules.md)
+Welcome to Civ13. Please take a moment to [read the server rules](rules/Rules.md) before joining a round.
 
-### Joining the Server
+### Joining a Server
 
-*If you are familiar with the BYOND platform, you can skip this
-section.*
+If you already have the BYOND client installed, skip to the server links below.
 
-  - First, you need to download BYOND. Get the Windows installer
-    [1](http://www.byond.com/download/build/512/512.1462_byond.exe)
-    (\<10MB). Linux is only for hosting - If you have Linux or MacOS,
-    use a virtual machine. (*We recommend installing BYOND so you can
-    launch the game from links, but if you prefer you can download the
-    zip version
-    [2](http://www.byond.com/download/build/512/512.1462_byond.zip).*)
-  - After installing it (or extracting the ZIP folder), open the **bin**
-    folder and click on **byond.exe**. You will see a hub with several
-    games on the left. Search for **Space Station 13** to see the list
-    of games. Scroll down until you see **Civilization 13** and press
-    Join. It will then download all the game files (around 50MB) and the
-    game will start automatically.
-  - You are now in the Lobby - Before you join, make sure to read the
-    **[Rules](rules/Rules.md)**.
+1. Download the current stable client from the [official BYOND download page](https://www.byond.com/download/) and install it. BYOND lists Windows as its player platform; its Linux download is for development and hosting, not playing. macOS is not listed as a supported player platform.
+2. Open BYOND and search for **Civilization 13**. Select the game and choose **Join**, or use a direct link:
+   - [RP / Nomads](byond://civ13.com:1715)
+   - [TDM](byond://civ13.com:1714)
+   - [Persistence](byond://valzargaming.com:1714)
+3. The game downloads its files and starts in the Lobby. Before joining a round, make sure to read the [Rules](rules/Rules.md).
 
 ### Controls
+
 Check [Hotkeys](Hotkeys.md).
 
-## TDM / Team Death Match Modes
+## TDM / Team Deathmatch Modes
+
+Browse [maps and scenarios](maps_overview.md) to see the available battles.
 
 ## RP / Roleplay Modes
 
-  - [Civilizations and Nomads](gamemodes/Civilizations_and_Nomads.md)
-  - [Starter Guide](Starter_Guide.md)
+- [Civilizations and Nomads](gamemodes/Civilizations_and_Nomads.md)
+- [Starter Guide](Starter_Guide.md)

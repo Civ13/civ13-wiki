@@ -1,14 +1,21 @@
 ﻿## What is this?
 
-Civilization 13 (formerly 1713) is a free game based on Space Station 13 code and using the BYOND platform, which features several epochs of human history. (hence the name).
+Civilization 13 (formerly 1713) is a free game based on Space Station 13 code and using the BYOND platform, which features several epochs of human history. (hence the name). Visit the [Civ13 website](https://civ13.github.io/) for an overview of the game.
 
 It features both Roleplay-oriented and Team-Deathmatch modes, with the main one being [Nomads](gamemodes/Civilizations_and_Nomads.md), in which you need to bring your civilization from the Stone Age to the Modern Age.
 
 
-<span style="color:#FFD700;"><b>To contribute, edit a page using the links on the top right. You will need a github account. For more information check the guide [here](Contributing_to_the_Wiki.md).</b></span>
+## Start playing
 
+1. [Download BYOND](https://www.byond.com/download/) and install the Windows client. BYOND lists Linux as a hosting platform rather than a game client; macOS is not listed as a supported player platform.
+2. [Read the server rules](rules/Rules.md) and [learn how to play](New_Player_Guide.md).
+3. Choose a server. These links open BYOND when the client is installed:
+   - [Join RP / Nomads](byond://civ13.com:1715)
+   - [Join TDM](byond://civ13.com:1714)
+   - [Join Persistence](byond://valzargaming.com:1714)
 
-<b>[Official TDM Server](byond://civ13.com:1714) | [Official RP/Nomads Server](byond://civ13.com:1715) | [Official Persistence Server](byond://valzargaming.com:1714) | [Discord](https://discord.gg/hBEtg4x) | [Github](https://github.com/Civ13/Civ13)</b>
+For questions or community help, join the [Civ13 Discord](https://discord.gg/hBEtg4x). To contribute, use the edit links on a page or follow the [wiki contribution guide](Contributing_to_the_Wiki.md). The game source is on [GitHub](https://github.com/Civ13/Civ13).
+
 
 <hr>
 
