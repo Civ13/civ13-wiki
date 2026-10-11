@@ -387,6 +387,8 @@ holding a hammer in the other hand.
 
 For Gunsmithing-era firearm parts, see [Flintlock parts assembly](Guide_to_Weapons.md#flintlock-parts-assembly).
 
+For optic rails, attachment tools and repair limits, see [Firearm maintenance and configuration](Guide_to_Weapons.md#firearm-maintenance-and-configuration).
+
 Combine a pickaxe, shovel or hatchet head with a handle using the head-on-handle interaction. The ordinary wood handle costs **1 plank**; the **plank handle** costs **2 planks**, and the **reinforced handle** costs **2 iron ingots** with the wrench's research threshold. Head recipes and their own requirements still apply.
 
 The assembled tool retains both component materials and qualities. Its quality is the lower input quality, bounded from 0.5 to 2, and its condition starts at the worse input condition. A better handle cannot erase damage or upgrade a crude head's quality. Handle integrity affects capacity; handle weight affects shovel and pickaxe work speed, while head hardness also affects pickaxe speed. These tradeoffs change work duration and durability, not mineral yield. Hatchet tree-chopping delays keep their existing behavior.

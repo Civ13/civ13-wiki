@@ -809,6 +809,34 @@
 
 ***
 
+## Firearm maintenance and configuration
+
+Before working, **unload the chamber and internal ammunition, remove the inserted magazine even if empty, and unload any attached grenade launcher**. Hold the gun and keep the part in your active hand. Installation or removal takes **15 ticks** and cancels if access, compatibility, tools or ammunition change. A gun under work cannot fire or reload.
+
+| Part | Required tool or station |
+| --- | --- |
+| Optic or optic rail | Screwdriver in your inventory |
+| Underbarrel grip or launcher | Adjacent, anchored firearm maintenance bench |
+| Compatible bayonet or suppressor | Hand installation |
+
+Use **Field Strip** to select a part to remove; the same tool rules apply. Integrated iron sights remain installed, and removed parts drop at your feet. **Remove an optic before removing its adapter.**
+
+### Dovetail-to-Picatinny rail
+
+Craft the adapter from **2 steel** in the **Tools** menu with **Gunsmithing**, in **eras 6 through 8**. Crafting takes **120 ticks**.
+
+The adapter fits one empty native dovetail optic slot on a gun without a native Picatinny mount. It physically hosts **one Picatinny optic**. It does not add a second optic slot, accept another adapter, change caliber or ammunition, or alter magazine, suppressor or underbarrel compatibility.
+
+The rail adds **0.15 weight**. Attachments retain their ergonomics factors, while added rail and part weight reduces handling through effective ergonomics. The existing firing-dispersion calculation uses that value, so more hardware is a handling tradeoff.
+
+### Cleaning and repairs
+
+In the default catalog, craft a **firearm cleaning kit from 5 iron** in Tools or a **firearm maintenance bench from 18 iron** in Production. Tech-tree mode gates both through **Gunsmithing**; map catalogs, skills and other research modes still apply.
+
+A cleaning kit works on projectile firearms other than bows at **50% condition up to, but excluding, 80%**. After **100 ticks**, it restores **80% condition**. More severe damage needs the firearm maintenance bench.
+
+The bench repairs **25 condition** at a cost of **1 maximum condition**, taking **180 ticks**. The firearm must still have positive condition; a broken gun cannot be restored by this repair. Damage during work cancels the repair. Existing shot wear, jams and condition checks still apply.
+
 ## Reloading Mechanism
 
 ### Arquebus ( Late Medieval )
