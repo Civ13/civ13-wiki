@@ -25,7 +25,9 @@ Chicken and rooster also give one giblets portion. Other nonmammals do not gain 
 
 Activate sinew in hand to consume **1 sinew** and make **1 rope** named **sinew binding cord**. It works in existing rope recipes, including nets, leashes and bindings, with their existing recipe costs and era gates. Sinew stacks hold at most **20**.
 
-To assemble a flint axe, use a held **sharpened flint** on a **sharpened branch** held by you or on your tile. Keep **1 sinew or rope** in your inventory or on that same tile. The **100-tick** action consumes the branch, head and one binding for one axe; cancellation leaves inputs unspent. Other stone and bone stack recipes remain available.
+Sharpen a branch with an edged tool; this takes **80 ticks** and produces a sharpened stick. Gather flint from rocks with Grab intent, then strike a rock with it until sharpened.
+
+To assemble a flint axe, use a held **sharpened flint** on a **sharpened stick** held by you or on your tile. Keep **1 sinew or rope** in your inventory or on that same tile. The **100-tick** action consumes the stick, head and one binding for one axe; cancellation leaves inputs unspent. Other stone and bone stack recipes remain available.
 
 ## Livestock
 
