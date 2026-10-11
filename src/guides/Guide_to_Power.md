@@ -12,7 +12,7 @@ These recipes are in the global crafting catalog. Map catalogs, era and characte
 | Iron-copper voltaic-style pile | Craft from 5 copper, then add 5 iron sheets and 50 units of grape juice. | 3,000 PU s / 5 PU |
 | Lead-acid accumulator | Craft from 5 lead. Add 20 units of sulfuric acid to commission it; it remains empty until electrically charged. | 12,000 PU s / 10 PU; charge limit 10 PU |
 
-PU is the game's abstract power unit; PU s is stored energy. The jar is a speculative interpretation and the iron-copper pile is a gameplay substitute, not a claim about historical battery construction.
+PU is the game's abstract power unit; PU s is stored energy.
 
 ## Connect and operate
 
