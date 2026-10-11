@@ -1,5 +1,7 @@
 # Guide to Cooking
 
+For meat, offal and specialized stomachs, see [Harvesting dead animals](Guide_to_Ranching.md#harvesting-dead-animals). Offal uses existing meat preparation and decay handling; cook or preserve it as food. It cannot replace a surgical organ.
+
 ## Why cook?
 
 Cooking is useful for making meat and water safe to consume, as well as

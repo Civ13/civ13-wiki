@@ -1,4 +1,32 @@
 # Guide to Ranching
+
+## Harvesting dead animals
+
+Use a **held sharp tool** on an adjacent dead animal. **Harm intent** performs quick butchering in **30 ticks** (normally three seconds); **Grab intent** skins and butchers in **100 ticks** (normally ten seconds). Moving, changing your active hand, becoming incapacitated, disconnecting or losing the corpse/tool cancels. Only one harvesting action can claim a corpse at a time. Successful harvesting removes the corpse.
+
+Both routes give the same meat and food byproducts. Grab selects species pelts; quick Harm butchering gives leather for supported mammals. Normal meat yield follows size: minuscule **1**, tiny **2**, small **3**, medium **4**, large **5**, huge **8** separate portions. Existing pig-leg, chicken-carcass, poisonous-frog, crab, zombie and mouse outputs remain distinct.
+
+The mammal products below apply to cattle, pigs/boars, goats, sheep, deer, bison, camels, rabbits, monkeys, cats, bears, wolves, foxes, gorillas, panthers, sabertooths, horses, dogs, mammoths and bats, including their subtypes. Let **Y** be the size yield above.
+
+| Product | Yield |
+| --- | --- |
+| Heart, liver, kidneys, lungs, brain, intestines | One of each when Y is at least 3; smaller mammals give one mixed giblets portion instead |
+| Stomach | Cow/pig/goat/sheep processing stomach; other mammals with Y at least 3 give one food stomach |
+| Sinew | One stack of Y minus 2, minimum 1 and maximum 4; only when Y is at least 3 |
+| Bone | One stack of Y minus 2, minimum 1 |
+| Quick-butchering leather | One stack of Y minus 2, minimum 1 |
+| Fat | Up to two portions when the animal's fat rules allow it |
+
+Chicken and rooster also give one giblets portion. Other nonmammals do not gain mammal offal, sinew or generic bone/leather; existing reptile pelts remain available. Pelts depend on species: lions give 3, gladiator lions give none, and non-white sabertooths give 6. White wolves and giant gorillas retain their special pelts.
+
+**Offal is raw, decaying food**, not a surgical transplant organ. Each portion starts with 2 protein and accepts existing meat processing. Cow, pig, goat and sheep stomachs retain their sausage/rennet uses. See [Cooking](Guide_to_Cooking.md) for preparation and preservation.
+
+## Sinew and primitive tools
+
+Activate sinew in hand to consume **1 sinew** and make **1 rope** named **sinew binding cord**. It works in existing rope recipes, including nets, leashes and bindings, with their existing recipe costs and era gates. Sinew stacks hold at most **20**.
+
+To assemble a flint axe, use a held **sharpened flint** on a **sharpened branch** held by you or on your tile. Keep **1 sinew or rope** in your inventory or on that same tile. The **100-tick** action consumes the branch, head and one binding for one axe; cancellation leaves inputs unspent. Other stone and bone stack recipes remain available.
+
 ## Livestock
 
 Well, from the very start of the Neolithic age, Humanity has started
