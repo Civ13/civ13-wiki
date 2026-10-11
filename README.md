@@ -34,7 +34,27 @@ cargo install mdbook
 Build the static site:
 ```bash
 mdbook build
+python3 scripts/previews.py
 ```
+
+For the complete publishable build, use `python3 scripts/build.py` instead.
+It runs mdBook, generates chapter-specific canonical, Open Graph, Twitter and
+inline Discord component metadata in the fetched HTML head, writes the Git SHA
+to `book/html/revision.json`, and validates every chapter. CI uses the pinned
+mdBook/plugin versions listed in `.github/workflows/wiki.yml`; local binaries
+may differ. Python 3 uses only the standard library. On Windows, use a verified
+full Python interpreter path if the Store alias or `py` launcher is unavailable.
+
+Run `python3 scripts/test_previews.py` for serialization and invalid-payload
+regressions, and `python3 scripts/check_output.py` to recheck emitted output.
+The reusable `scripts/check_preview.py` validates inline website payloads;
+it does not prove Discord client rendering or remote asset availability.
+Previews use each chapter's rendered title and first nonempty paragraph (or a
+chapter-specific fallback), with the existing public Civ13 banner. Utility
+pages do not receive chapter previews. The canonical deployment remains
+`https://civ13.github.io/civ13-wiki/`; there is no wiki custom domain.
+`mdbook serve` alone is useful for content work, but does not run preview
+generation: use the complete build and serve `book/html` to inspect previews.
 
 The compiled wiki will be in `book/html/`.
 

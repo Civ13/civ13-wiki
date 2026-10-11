@@ -7,6 +7,8 @@ civ13-wiki.code-workspace
 
 # Wiki stuff
 book
+__pycache__/
+build.log
 .idea/
 
 # editor files

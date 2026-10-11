@@ -30,7 +30,14 @@ jobs:
         if: github.event_name != 'pull_request'
         uses: actions/configure-pages@v6
       - name: Build with mdBook
-        run: mdbook build
+        run: |
+          python3 scripts/test_previews.py
+          python3 scripts/build.py
+      - name: Upload reviewed HTML
+        uses: actions/upload-artifact@v4
+        with:
+          name: wiki-html-${{ github.sha }}
+          path: ./book/html
       - name: Upload artifact
         if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v5
