@@ -827,6 +827,28 @@
    
 > Chad Tip: Always keep a gunpowder pouch by yourside at all times, it can also fit into your 'Pouch' slot much like wallet and coin pouch then the musket balls into your pockets for easy picking. You should also never rely on Flintlocks, they are only one time shot, so make sure to actually pointblank your enemy before engaging in swordfight.
 
+### Flintlock parts assembly
+
+At **ages 3 and 4**, with **Gunsmithing** unlocked, you can assemble a flintlock pistol or musket from parts. The original weapon crafting routes remain available; this is an optional route with additional wood, steel and flint costs.
+
+| Part | Production route | Cost |
+| --- | --- | --- |
+| Pistol butt | Plank Tools menu | 1 softwood, 120 ticks |
+| Musket stock | Plank Tools menu | 3 softwood, 240 ticks |
+| Pistol barrel | Iron on an anvil, choose flintlock parts | 20 iron |
+| Musket barrel | Iron on an anvil, choose flintlock parts | 30 iron |
+| Flintlock mechanism | Steel on a steel anvil | 2 steel |
+
+Existing blacksmith skill and job restrictions apply. Gather flint from rocks with **Grab intent**, then strike a rock with it until sharpened.
+
+1. Use sharpened flint on the mechanism: **20 ticks**.
+2. Use the matching barrel on the pistol butt or musket stock.
+3. Use the loaded mechanism on that barreled stock.
+
+The last two actions take **20 ticks each for a pistol**, or **30 each for a musket**. Hold the input in your active hand; hold the target or leave it on adjacent ground. Movement, losing an input, incapacitation or losing the research/era requirement cancels consumption. Traded parts still require Gunsmithing and age 3 or 4 to assemble. Partial assemblies survive saves.
+
+Finished guns use their existing ammunition, firing behavior and stats. See the loading instructions below. Original feature coding: **Isaku4904**; parts sprites: **mohamed/mm2hn**.
+
 ### Muskets/Flintlocks ( Early Gunpowder Age )
 
 They are like Arquebus but sometimes you have this already made musket ammo then the process should be like:
