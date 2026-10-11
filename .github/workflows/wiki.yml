@@ -33,6 +33,7 @@ jobs:
         run: |
           python3 scripts/test_previews.py
           python3 scripts/build.py
+          python3 scripts/check_player_guides.py
       - name: Upload reviewed HTML
         uses: actions/upload-artifact@v4
         with:

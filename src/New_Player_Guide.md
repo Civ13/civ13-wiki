@@ -14,12 +14,19 @@ If you already have the BYOND client installed, skip to the server links below.
 2. Open BYOND and search for **Civilization 13**. Select the game and choose **Join**, or use a direct link:
    - [RP / Nomads](byond://civ13.com:1715)
    - [TDM](byond://civ13.com:1714)
-   - [Persistence](byond://valzargaming.com:1714)
 3. The game downloads its files and starts in the Lobby. Before joining a round, make sure to read the [Rules](rules/Rules.md).
 
 ### Controls
 
 Check [Hotkeys](Hotkeys.md).
+
+### Your first round
+
+Read the lobby's map and mode before choosing a role. In Nomads, start with the [Starter Guide](Starter_Guide.md): secure water, food and shelter before advancing production. Use [Character & Skills](guides/Guide_to_Character.md) when an interaction says you lack expertise.
+
+Crafting depends on the active map's catalog, era, character skills and research mode. A recipe listed here may be unavailable on your map. For the tech-tree mode, read [Research](guides/Guide_to_Research.md); older modes have separate rules in [Civilizations and Nomads](gamemodes/Civilizations_and_Nomads.md#research).
+
+For later production, see [Chemistry](guides/Guide_to_Chemistry.md), [Power & Batteries](guides/Guide_to_Power.md), and [Crafting](guides/Guide_to_Crafting.md). These guides describe merged game mechanics; a running server may use an older version. Ask staff which version and round settings are active rather than assuming every documented feature is available.
 
 ## TDM / Team Deathmatch Modes
 

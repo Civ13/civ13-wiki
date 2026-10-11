@@ -21,6 +21,7 @@
     - [Medical](guides/Guide_to_Medical.md)
     - [Metallurgy](guides/Guide_to_Metallurgy.md)
     - [Paperwork](guides/Guide_to_Paperwork.md)
+    - [Power & Batteries](guides/Guide_to_Power.md)
     - [Races](guides/Guide_to_Races.md)
     - [Radiation](guides/Guide_to_Radiation.md)
     - [Ranching](guides/Guide_to_Ranching.md)

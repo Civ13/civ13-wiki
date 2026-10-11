@@ -12,9 +12,10 @@ It features both Roleplay-oriented and Team-Deathmatch modes, with the main one 
 3. Choose a server. These links open BYOND when the client is installed:
    - [Join RP / Nomads](byond://civ13.com:1715)
    - [Join TDM](byond://civ13.com:1714)
-   - [Join Persistence](byond://valzargaming.com:1714)
 
 For questions or community help, join the [Civ13 Discord](https://discord.gg/hBEtg4x). To contribute, use the edit links on a page or follow the [wiki contribution guide](Contributing_to_the_Wiki.md). The game source is on [GitHub](https://github.com/Civ13/Civ13).
+
+Plan production with the [chemistry workflow](guides/Guide_to_Chemistry.md) and [power and battery guide](guides/Guide_to_Power.md). Developers can search types and procedures in the [developer API reference](https://civ13.github.io/Civ13/); player instructions remain in this wiki.
 
 
 <hr>

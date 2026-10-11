@@ -1,10 +1,66 @@
 # Guide to Chemistry
 
-Here you can find all the possible chemical reactions.
+Use a laboratory reaction bench when several recipes share feedstocks: it lets you choose the intended reaction instead of relying on automatic mixing. These are simplified game conversions, not real laboratory instructions.
 
-**To look for specific recipes, use the "Find in page" command - Ctrl-F.**
+## Equipment and feedstocks
 
-Exported on 7 December 2021.
+| Equipment | Materials | Tech-tree gate | Use |
+| --- | --- | --- | --- |
+| Laboratory reaction bench | 10 glass | Apothecary | Holds an installed glass container inert while you select a recipe. |
+| Laboratory feedstock dispenser | 20 glass | Pharmacology | Starts with finite 100-unit feedstocks; fill beakers with its UI and refill depleted stocks from reagent containers. |
+| Extraction kit | 14 iron | Apothecary | Collects biological feedstocks into an empty kit. |
+| Laboratory burner | 4 iron | Apothecary | Consumes purified ethanol to heat the installed bench beaker. |
+| Laboratory centrifuge | 24 electronics | Pharmacology | Separates supported mixtures; needs anchoring, cable power, medical skill and an empty collector vial. |
+
+The bench, dispenser and burner are offered in global and Carib catalogs through the Modern Age; the centrifuge is also available in both. Map catalogs, era, skills and the active research mode still determine what you can craft. The laboratory dispenser includes elemental feedstocks plus water and purified ethanol; it is finite, and the ordinary empty chemical dispenser does not become stocked automatically.
+
+## Run a selected reaction
+
+1. Use a glass container on the bench to install it. Keep it installed while preparing the mixture.
+2. Set transfer amounts on your other glass containers and use them on the bench to add the feedstocks. The installed mixture stays inert, avoiding competing automatic reactions.
+3. Click the bench and choose the named recipe. Include any catalysts and leave room for the output; the bench scales to the available inputs. Missing inputs, catalysts or output space reject the operation without consuming ingredients.
+4. Use **Remove reaction beaker** when finished. Ejection restores its previous mixing behavior, so remaining reagents can react again. It also clears heat.
+
+## Gelatin from meat or papaya
+
+An empty extraction kit collects **4 units** from one supported source: collagen from an unspoiled raw meat slab, Digestive Protease from a vomit decal, or Fruit Protease from an unspoiled papaya. A successful extraction consumes the source. Empty the kit into the bench before reusing it; spoiled or unsupported sources and nonempty kits consume nothing.
+
+Gather wild papaya seeds in jungle or savanna, plant and tend them using [farming](Guide_to_Farming.md), then harvest with a knife, hatchet, bayonet or scythe. Papaya currently shares orange fruit/tree sprites; read the item's name. Other fruit does not supply Fruit Protease through this route.
+
+| Step | Inputs | Output |
+| --- | --- | --- |
+| Acid precursor, if using acid treatment | 2 hydrogen + 2 chlorine; then 1 hydrogen chloride + 5 water | 1 hydrogen chloride; then 5 hydrochloric acid |
+| Choose one treatment at the bench | 4 collagen + 1 hydrochloric acid, Digestive Protease **or** Fruit Protease | 5 unpurified gelatin |
+| Separate in centrifuge | 5 unpurified gelatin | 4 purified gelatin |
+| Finish at the bench | 4 purified gelatin + 1 water **or purified ethanol** | 5 solid gelatin |
+
+Ordinary ethanol and blood plasma are not substitutes for the named finishing solvent and protease feedstocks.
+
+## Centrifuge setup
+
+Secure it with a wrench and [connect cable power](Guide_to_Crafting.md#wiring). It needs **30 PU**, so a single [battery](Guide_to_Power.md) is insufficient. Your character must meet its medical skill requirement to load and operate it.
+
+Pour the input into the centrifuge; each container interaction transfers up to 10 units. Install an **empty vial** as collector, then click the machine to begin its **15-second** cycle. Power is checked at start and completion. Use **Remove Vial** after it stops.
+
+The largest reagent in the mixture determines the separation: unpurified gelatin yields 80% purified gelatin; 10 blood yields 6 plasma, 3 red-cell reagent and 1 white-cell reagent; salt yields equal sodium/chlorine fractions. Capacity limits the processed amount, leaving excess input for later. Unsupported input, unavailable collector space or lost power preserves the input. Salt fractions can react again in ordinary containers; use an inert bench for elemental feedstocks.
+
+## Heat and polypropylene
+
+Fill the burner with **purified ethanol** from a glass container, then use it on the bench while adjacent on the same level. One unit heats the secured beaker for **one game minute**. Choose polypropylene before heat expires: 2 propylene produces 25 solid units and requires catalysts of 10 titanium tetrachloride (`titaniumchloride`), 5 boron trifluoride and 5 aluminum chloride, which are retained. Use a container large enough for the expanded output plus catalysts. Ejecting or replacing the beaker clears its heat.
+
+The bench also selects calcium, wood-processing, polymer precursor and gasoline-chain recipes. Liquid titanium tetrachloride and solid titanium trichloride are separate reagents; the latter does not replace the catalyst.
+
+## Engine fuel
+
+Select **Engine fuel - 9:1 blend** with 9 gasoline and 1 purified ethanol to produce 10 units of Blended Engine Fuel. Internal engines that already accept gasoline accept this blend with the same consumption and power behavior. Diesel-only engines do not gain it, and it retains gasoline's toxicity and fire-contact behavior. See [engines and vehicles](Guide_to_Crafting.md#engines) for tank attachment and installation.
+
+## Source and version
+
+Verified against merged game revision [e48afe3](https://github.com/Civ13/Civ13/tree/e48afe3a84485de779b2076b80841c1119288930): [bench and burner](https://github.com/Civ13/Civ13/blob/e48afe3a84485de779b2076b80841c1119288930/code/modules/reagents/laboratory.dm), [gelatin and fuel](https://github.com/Civ13/Civ13/blob/e48afe3a84485de779b2076b80841c1119288930/code/modules/reagents/biochemistry.dm), and [player recipe paths](https://github.com/Civ13/Civ13/blob/e48afe3a84485de779b2076b80841c1119288930/docs/chemistry-recipes.md). This is merged-source guidance, not confirmation of the version running on any server. Developers can search the [API reference](https://civ13.github.io/Civ13/).
+
+## Historical chemical reactions export
+
+The table below was exported on **7 December 2021** and is incomplete for current chemistry. Use the workflows above and the active game's recipe menu for current selected reactions. This historical table is retained as a reference, not a complete current recipe catalog. **Ctrl-F** searches this page.
 
 ## Chemical Reactions List
 
@@ -26,7 +82,7 @@ Exported on 7 December 2021.
 | Ammonia |  1u. nitrogen 3u. hydrogen | none | none | 1 | ammonia |
 | Acetone |  1u. carbon 2u. ethanol | none | none | 1 | acetone |
 | Table Salt |  1u. sodium 1u. chlorine | none | none | 1 | sodiumchloride |
-| Hydrogen Chloride |  1u. hydrogen 1u. chlorine | none | none | 1 | hydrogen_chloride |
+| Hydrogen Chloride |  2u. hydrogen 2u. chlorine | none | none | 1 | hydrogen_chloride |
 | Hydrogen Peroxide |  1u. chlorine 1u. water 1u. oxygen | none | none | 3 | hydrogen_peroxide |
 | Water |  1u. oxygen 1u. hydrogen | none | none | 1 | water |
 | Cider |  10u. applejuice |  5u. enzyme | none | 10 | cider |
@@ -34,7 +90,7 @@ Exported on 7 December 2021.
 | Glycerol |  3u. cornoil 1u. hclacid | none | none | 3 | glycerol |
 | Sodium Chloride |  1u. sodium 1u. hclacid | none | none | 2 | sodiumchloride |
 | Aspirin |  5u. carbon 4u. water 2u. oxygen | none | none | 5 | aspirin |
-| Calcium carbonate |  1u. carbon 1u. calcium 3u. oxygen | none | none | 2 | calcium carbonate |
+| Calcium carbonate |  1u. carbon 1u. calcium 3u. oxygen | none | none | 5 | calcium_carbonate |
 | Carbon dioxide |  1u. carbon 2u. oxygen | none | none | 2 | carbon_dioxide |
 | Sulphuric acid |  1u. sulfur 1u. oxygen 1u. hydrogen | none | none | 2 | sacid |
 | Saline Glucose solution |  1u. sodiumchloride 1u. water 1u. sugar | none | none | 2 | saline_glucose |
