@@ -1,5 +1,9 @@
 # Civilizations and Nomads
 
+## Your first settlement
+
+Read the map and research selection in the lobby. Start with the [Starter Guide](../Starter_Guide.md): find water, arrange a reliable food supply and build shelter before spending resources on expansion. Agree with your faction on who will gather supplies, build and research. The [Research Guide](../guides/Guide_to_Research.md) explains the technology tree and its crafting gates.
+
 ```admonish quote
 ***"I'm cold and starving, [WHAT DO I
 DO?](../Starter_Guide.md)"***
@@ -23,7 +27,7 @@ What will each civilization desire? Military power? World domination? Scholars w
 
 In the RP mode, everyone chooses a role to play as before spawning. There may be one or more preset factions. The map has some prebuilt structures, but there is also plenty of space to expand with new buildings.
 
-In this mode, the research level is fixed and cannot be advanced. In other words, the epoch is static (Middle Ages - 1013; Wild West - 1873; certain decades of the 20th century - 1940s, 1990s, etc.)
+The map sets the era, starting technology and research rules. Check the round briefing before assuming research is available or that the technology rules match a Nomads round.
 
 There may or may not be specific goals, which are listed at the start of the round. A brief outline for goals on different maps where they are present (mostly accumulating points for factions under certain conditions):
 
@@ -109,7 +113,7 @@ better equipment\!
 A small faction with advanced research and guns can usually topple the
 big group of unga dunga cavemen armed with bows and arrows.
 
-There are currently 4 (more like 4.5) modes of research.
+Research methods depend on the map and lobby selection. For technology-tree progression, requirements and crafting gates, use the [Research Guide](../guides/Guide_to_Research.md). The following sections describe the other research selections.
 
 Research mode is voted at the lobby before the game begins.
 
@@ -158,10 +162,7 @@ Experiment!
 
 *It started as a joke, now it's too late to go back...*
 
-Essentially it is No Research, but **without any IC rules whatsoever**.
-
-Really. You can do anything you want, without any bwoinks. EXCEPT FOR
-ERP.
+Chad Mode uses no research progression. Read the mode briefing and [server rules](../rules/Rules.md) for its roleplay and combat rules; the research selection does not waive server rules.
 
 ### Chad Mode+
 

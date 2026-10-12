@@ -1,5 +1,9 @@
 # Wizard Boy (Llanboarwart Academy of Magical Education)
 
+## Getting started
+
+Use the [Wizard Boy Quickstart Guide](wizard_boy_quickstart.md) for sorting and your first wand. Read your qualification, the spell descriptions and school rules before practising. Keep track of mana and coordinate with your house. This guide provides the longer reference for equipment and magic; the [Game Modes Overview](Game_Modes.md) helps you find the other scenarios.
+
 ```admonish tip
 This is the full guide to the gamemode. For a quick start guide for those with short attention spans, visit **[the quickstart guide](wizard_boy_quickstart.md)**.
 ```
@@ -170,7 +174,7 @@ This is the standard progression for students residing in **Rubywyrm**, **Mintys
 
 ## 🧙‍♂️ The Grimoire (Spells & Mechanics)
 
-Spells are cast using the **100-Point "Juice" (Mana) Pool**, which regenerates at **5 points per second (50 ds)**.
+Spells use a **100-point "Juice" (Mana) pool**, which regenerates passively. Watch the HUD before casting again; wand components can affect recovery and spell costs.
 
 ```admonish danger
 Spells marked in red are **illegal** to use against non-hostile mobs and will result on your demotion to L.O.S.E.R. status.

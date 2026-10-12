@@ -35,6 +35,8 @@
 
 
 # Gamemodes
+- [Game Modes Overview](gamemodes/Game_Modes.md)
+- [Team Combat](gamemodes/Team_Combat.md)
 - [Civilizations & Nomads](gamemodes/Civilizations_and_Nomads.md)
 - [Art of the Deal](gamemodes/The_Art_of_the_Deal.md)
 - [Football](gamemodes/Football.md)

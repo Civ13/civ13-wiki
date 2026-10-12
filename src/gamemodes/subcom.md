@@ -1,11 +1,5 @@
 # Subcom13 (Submarine Commander)
 
-```admonish warning
-This game mode is currently a **Work In Progress**. Mechanics, balance, and vessel stats are subject to change. Report bugs and feedback on the Civ13 GitHub.
-```
-
----
-
 ## Introduction
 
 **Subcom13** is a submarine warfare simulation mode set on a fictional 1000x1000 nautical mile coordinate grid. You command a submarine (or crew one with other players) and must navigate the open ocean, engage hostile surface and air contacts, manage your ship's reactor and crew survival, and complete objectives relayed to you over encrypted radio.
@@ -20,9 +14,14 @@ The mode features:
 - **NPC hostile contacts**: surface combatants, aircraft, and enemy submarines with AI
 - **Mission objectives**: sink cargo ships, patrol sectors, escort allies, recon, rescue, and ambush
 - **Crew management**: track individual crew health, oxygen status, injuries, and assignments
-- **Single-player mode**: toggle via admin panel to allow ghosts to operate machinery
 
 ---
+
+## Your first watch
+
+Assign navigation, sensors, weapons, propulsion and damage-control duties before getting underway. Check the submarine's current depth, target depth, power supply and compartment condition. Read mission orders before engaging a contact. Report flooding and oxygen problems immediately so the crew can coordinate repairs and recovery.
+
+Depth is measured downwards: a larger target depth takes the submarine deeper. To move towards the surface, choose a smaller depth value.
 
 ## Submarine Controls
 
@@ -322,7 +321,7 @@ Each crew member is tracked with:
 | :--- | :--- |
 | **Health** | Current health percentage (0-100) |
 | **Total Damage** | Sum of all damage types |
-| **Conscious** | Unconscious or dead |
+| **Conscious** | Whether the crew member is conscious; check unconscious crew immediately. |
 | **Injured** | Has significant damage |
 | **Oxygen Status** | "Nominal", "Low O2", "Suffocating", or "Drowning" |
 | **Compartment** | Current location (e.g., "Operations", "Reactor Room") |
@@ -359,32 +358,6 @@ Missions arrive periodically with a brief delay between objectives. Check your r
 
 ```admonish note
 Some mission types are rarer than others. Sink and patrol missions are most common, while rescue missions are extremely rare.
-```
-
----
-
-## Single Player Mode
-
-Single-player mode allows ghosts to interact with submarine machinery, enabling solo play without other human crew.
-
-### How to Enable
-
-1. Open the **Server** tab in the game menu
-2. Select **"Toggle Single Player Mode"**
-3. Requires admin privileges
-
-### Effects
-
-When enabled:
-- Ghosts can interact with all submarine consoles and physical machinery
-- Dead players can operate systems while observing
-
-When disabled:
-- Only living players can interact with machinery
-- Ghosts cannot operate systems
-
-```admonish note
-Single-player mode is intended for testing and solo gameplay. It can be toggled at any time by an administrator.
 ```
 
 ---
@@ -427,10 +400,9 @@ These objects exist on the submarine's interior and can be interacted with direc
 | Enemy detected on sonar | Go deep (150m+), reduce speed to 5 knots, go silent. |
 | Need to fire torpedoes | Master Arm ON. Select target from sonar contacts. Load tube. Launch. |
 | Battery dead | Surface and engage diesel throttle to recharge. Lights go dark when battery is empty. |
-| Crush depth warning | Increase target depth. Check ballast. Emergency blow if needed. |
+| Crush depth warning | Set a shallower target depth (a smaller depth value). Check ballast. Emergency blow if needed. |
 | Crew member injured | Check crew status via compartment panel. Move to medical bay. |
 | Crew suffocating | Check oxygen status. Inject O2 into compartment or evacuate. |
-| Solo play needed | Toggle Single Player Mode in Server tab (admin only). |
 | NPC attacking | Go deep and slow. Use passive sonar. Avoid active sonar pings. |
 | Mission received | Check radio console for coordinates. Navigate to target area. |
 | Multiple hull breaches | Emergency blow to surface. Activate all bilge pumps. Seal breaches. |

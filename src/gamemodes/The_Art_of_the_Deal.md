@@ -10,6 +10,8 @@ isn't a valid excuse if you're caught breaking them.**
 
 ## The Factions
 
+Before spending shared resources, contact your company and check its stock, outstanding orders and trading needs. Agree on a trade, confirm the requested items and quantities, and coordinate collection or delivery. Keep track of company funds rather than carrying them into unnecessary danger. Read the rules below before involving the police or using force.
+
 There are four companies in the game mode:
 
   - **Goldstein Solutions**, known as the *yellow team*, with its base being
@@ -157,7 +159,7 @@ desktop.
 
 ### Vehicles
 **Do not drive a vehicle without knowing how, make sure you drive on the right side of the road!**
-https://civ13.github.io/civ13-wiki/Guide_to_Tanks#driving
+[Read the vehicle driving guide](../guides/Guide_to_Tanks.md#driving).
 Vehicles can be bought at the **car dealership** in the center. 
 
 With Automobiles and Electricity research, players can also manufacture the existing car layouts at an [automobile workshop](../guides/Guide_to_Crafting.md#automobile-workshop). Built cars need fuel and a clear assembly bay.

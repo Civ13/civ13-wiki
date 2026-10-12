@@ -1,6 +1,10 @@
 # Voyage
 
-Avast! Set sail on the high seas of adventure aboard the Good Ship; a two masted, 12 cannon pirate vessel during the golden age of piracy. Pursue plunder and peril, though not necessarily in that order, across the Caribbean sea. Transform your impoverished boat and crew into a force to be reckoned with and work together to become rich beyond your wildest imaginings!
+Voyage puts your crew aboard a pirate ship in the Caribbean. Coordinate navigation, supplies, repairs and gunnery to keep the ship afloat during encounters.
+
+## Before leaving port
+
+Report to the Boatswain for an assignment. Check the crew and supply logs, identify the medical and repair supplies, and agree on the destination with the Captain. Keep enough crew aboard to operate the ship while a shore party explores. Return when departure is announced: crew outside the ship can be left behind.
 
 ## Roles
 
@@ -20,25 +24,25 @@ The **Surgeon** is a specialist role, responsible for keeping the crew healthy.
 
 A **Nurse** is a sailor assigned to support the Surgeon. While he doesn't have the same level of medical knowledge, he can still be useful in a ship with not enough Surgeons.
 
-**Carpenter**
+**Carpenters** maintain the ship and respond to damage.
 
-**Marine**
+**Marines** protect the crew during encounters.
 
-**Cannonier**
+**Cannoniers** operate the guns and coordinate ammunition supplies.
 
-**Navigator**
+**Navigators** help monitor the map, course and sextant.
 
-**Officer**
+**Officers** coordinate the crew's assigned work.
 
-**Cook**
+**Cooks** prepare food and report supply needs to the Quartermaster.
 
 The **Deputy Boatswain** and **Deputy Quartermaster** are the second in command to the Boatswain and Quartermaster respectively, and can replace them if they get injured or killed.
 
 ## The Ship
-Insert ship photo
+Learn the route between your station, the supply stores and the deck before an encounter.
 
 ### Decks
-Describe the upper and lower decks with respective areas
+Keep access routes between navigation, guns and stores clear so supplies and injured crew can be moved during an emergency. Check below deck when the sextant reports increasing sinking progress.
 
 ### Navigation
 ![Voyage navigation](../images/voyage/voyage_navigation.png)
@@ -47,22 +51,26 @@ Describe the upper and lower decks with respective areas
 The Sextant shows you the current coordinates, ship orientation, progress to the next coordinates and state of the ship's flooding.
 
 #### Wheel
-The wheel lets you change the ship's course.
+The wheel lets you change the ship's course. The ship must be underway to turn. Read the map first, select the direction and allow the steering action to finish.
 
 #### Anchor Capstan
-You can use this to raise and lower the anchor. Raising the anchor during an encounter will start a 2 minute timer before the location is abandoned.
+Use the capstan to raise and lower the anchor. Raising it during an encounter asks for confirmation and starts a two-minute departure timer. Warn the shore party before confirming; everyone outside must return before the ship leaves.
 
 #### Map
 The map shows you the current known islands and ships.
 
 ### Sails, Rigging and Maintenance
-Fixing masts and ship walls/floors, sinking
+Sail, rigging and mast condition affect travel speed. Inspect damage after an encounter and arrange repairs before setting off again. Hull damage and flooding threaten the ship; monitor the sextant's sinking progress and prioritise damage control when it rises. Carry repair supplies rather than using all available material on other projects.
 
 ### Log Books
-Boatswain and Quartermaster books
+The **crew log** lists crew members and their assigned jobs. The Boatswain, Captain and Deputy Boatswain can use it to coordinate assignments.
+
+The **supply log** helps the Quartermaster track stores. Report shortages early, particularly food and supplies needed for repairs and gunnery.
 
 ### Gunnery and Tools
-Ship's bell, cannons, grappling hooks
+The ship's bell relays a signal to the crew. Agree on what a signal means before relying on it during combat.
+
+Coordinate cannon crews and ammunition before engaging another vessel. Read the [Weapons Guide](../guides/Guide_to_Weapons.md) for weapon operation. Keep firing lanes clear of friendly crew, and arrange support before boarding or sending a shore party.
 
 ## The Map
 ![Voyage game map](../images/voyage/voyage_map.png)
@@ -75,9 +83,9 @@ There are 6 ship classes ingame. The starting player's ship is a **Flute** (size
 | Xebec | 1 | ![ship1](../images/voyage/ship1.png) | 6/0 - 6 | 10 | The smallest ship, this single-deck, single-mast ship packs 6 cannons and a small crew. There is no cargo hull so loot will be smaller. |
 | Schooner | 2 | ![ship2](../images/voyage/ship2.png) | 4/0 - 4 | 20 | This fast ship has a sizeable cargo hull, but also packs a decent amount of crew for its size. Only has cannons on top deck. |
 | Flute | 3 | ![ship3](../images/voyage/ship3.png) | 6/4 - 10 | 15 | This swift, double masted ship has a small-ish crew, but packs a good punch in terms of firepower. |
-| Brig | 4 | ![ship4](../images/voyage/ship5.png) | 6/10 - 16 | 40 | The Brig is a long ship with a large crew. |
+| Brig | 4 | No illustration | 6/10 - 16 | 40 | The Brig is a long ship with a large crew. |
 | Galleon | 5 | ![ship5](../images/voyage/ship5.png) | 16/16 - 32 | 50 | The Galleon is a large, wide ship with a massive amount of cannons and a considerable cargo hull. |
 | Man-O-War | 6 | ![ship6](../images/voyage/ship6.png) | 24/24 - 48 | 65 | This is a massive ship, and you probably shouldn't take it head-on unless you have a sizable crew and several cannons. |
 
 ### Islands
-Types of islands
+Use the ship's map to plan visits and approach an encounter through the wheel's available choices. Take supplies and communicate with the crew remaining aboard. Plan the return journey before departure is announced.

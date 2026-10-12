@@ -11,7 +11,11 @@ PAGES = ('index.md', 'New_Player_Guide.md', 'guides/Guide_to_Chemistry.md',
          'guides/Guide_to_Resource_Extraction.md', 'guides/Guide_to_Survival.md',
          'guides_overview.md', 'gamemodes/The_Art_of_the_Deal.md',
          'guides/Guide_to_Weapons.md', 'guides/Guide_to_Ranching.md',
-         'guides/Guide_to_Cooking.md')
+         'guides/Guide_to_Cooking.md', 'gamemodes/Game_Modes.md',
+         'gamemodes/Team_Combat.md', 'gamemodes/Football.md',
+         'gamemodes/Voyage.md', 'gamemodes/wizard_boy.md',
+         'gamemodes/wizard_boy_quickstart.md', 'gamemodes/subcom.md',
+         'maps_overview.md')
 
 
 def check(root=Path('book/html')):

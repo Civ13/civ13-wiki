@@ -10,7 +10,7 @@ This is the short quickstart guide for new players. For the full wiki page, visi
 
 Welcome to **Llanboarwart Academy of Magical Education (L.A.M.E.)**, the wettest, draftiest, and most tragically underfunded wizarding school in the Welsh valleys!
 
-<img src="../images/wiz/llanboarwart.png" style="display: block;margin: auto;max-height:400px"></img
+<img src="../images/wiz/llanboarwart.png" style="display: block;margin: auto;max-height:400px">
 
 Upon entering the game, your first task is to get sorted into one of the four legendary, highly competitive houses by interacting with **The Placing Fedora**:
 
@@ -24,6 +24,8 @@ You can choose to take the **5-question sorting test** or opt for **random assig
 ---
 
 ## First Steps
+
+Check your qualification and read the available spell descriptions before choosing a spell. Practise where you will not endanger other students, watch your mana and follow the school and [server rules](../rules/Rules.md). Ask another player for help if a spell or tool refuses an interaction; the full [Wizard Boy Guide](wizard_boy.md) explains the equipment and qualification system.
 
 ### Starting as an I.D.I.O.T.
 Every new student begins at qualification level 0: **I.D.I.O.T.** (*Inept & Deficient Individual’s Ordinary Test*). As an I.D.I.O.T., you:
@@ -61,7 +63,7 @@ Around the school's bookshelves there are useful books with guidance and tips on
 
 ### Juice (Mana) Mechanics
 *   Spells consume points from your **100-Point Juice Pool**.
-*   Your Juice pool regenerates passively at a rate of **5 points per second**.
+*   Your Juice pool regenerates passively. Watch the HUD before casting again; wand components can affect recovery and spell costs.
 *   **Overcasting**: You can still cast spells even if you do not have enough Juice. However, doing so drives your Juice to 0 and triggers **Overcast Penalties** depending on your wand's components (e.g. getting splinters from Pine, arm lacerations from Fibreglass, or a painful shock and fire from Copper).
 *   **Misfires**: Spells can fail to cast. Be careful with MDF wood wands—if you stand out in the Welsh rain, your MDF wand will swell, doubling cast times and adding a +20% misfire chance until it dries.
 
