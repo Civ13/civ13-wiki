@@ -37,6 +37,12 @@
 # Gamemodes
 - [Game Modes Overview](gamemodes/Game_Modes.md)
 - [Team Combat](gamemodes/Team_Combat.md)
+- [Battle Royale & Hunger Games](gamemodes/Battle_Royale.md)
+- [Gladiators](gamemodes/Gladiators.md)
+- [Prison Roleplay](gamemodes/Prison_Roleplay.md)
+- [Colony Building](gamemodes/Colony_Building.md)
+- [Survival Scenarios](gamemodes/Survival_Scenarios.md)
+- [Events](gamemodes/Events.md)
 - [Civilizations & Nomads](gamemodes/Civilizations_and_Nomads.md)
 - [Art of the Deal](gamemodes/The_Art_of_the_Deal.md)
 - [Football](gamemodes/Football.md)
