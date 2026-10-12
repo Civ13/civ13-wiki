@@ -359,6 +359,8 @@ Rudimentary/emergency: Knife
 
 ## Human bodies and remains
 
+These mechanics describe the merged game source. A running server must include this update before they apply there.
+
 An exposed dead human body starts to rot after **2 natural season changes** and becomes remains after **4**. On maps without an active seasonal cycle, the warning comes after **6 hours** and retirement after **12 hours of running-server time**. The remains then begin a fresh phase with the same warning and disappearance thresholds. Offline time does not count. Cleanup checks at most 32 candidates every 30 seconds, so busy worlds may take longer after a threshold.
 
 The warning leaves time to recover or revive the body. Revival or rejuvenation clears its decay age. Moving a body or remains to a different location resets exposure; a movement action that leaves it in the same place does not. Bodies and remains inside containers or mobs are protected, including morgues, coffins, closets and vehicles. Pulled or thrown bodies and buckled bodies are protected when checked. Protection resets exposure, and remains containing objects are protected too.
