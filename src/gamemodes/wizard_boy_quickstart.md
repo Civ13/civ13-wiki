@@ -25,6 +25,8 @@ You can choose to take the **5-question sorting test** or opt for **random assig
 
 ## First Steps
 
+Check your qualification and read the available spell descriptions before choosing a spell. Practise where you will not endanger other students, watch your mana and follow the school and [server rules](../rules/Rules.md). Ask another player for help if a spell or tool refuses an interaction; the full [Wizard Boy Guide](wizard_boy.md) explains the equipment and qualification system.
+
 ### Starting as an I.D.I.O.T.
 Every new student begins at qualification level 0: **I.D.I.O.T.** (*Inept & Deficient Individual’s Ordinary Test*). As an I.D.I.O.T., you:
 *   ❌ Do not have the black house robes, but a grey one that signals your current status.
