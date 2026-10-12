@@ -397,6 +397,16 @@ The assembled tool retains both component materials and qualities. Its quality i
 
 Examine an assembled tool to see its components. Existing tools keep their stats. This assembly does not add repair or disassembly; spear and combat-axe assembly remain separate.
 
+#### Tool assembly workbench
+
+Servers with the merged workbench update offer an optional staged alternative to hand assembly. Craft a **tool assembly workbench from 10 soft wood** through the ordinary global material catalog; construction takes **100 ticks**. Maps using replacement catalogs keep their own availability, and the bench does not unlock restricted heads or handles.
+
+Click the bench with an empty hand and choose **Select recipe**, then **Pickaxe**, **Shovel** or **Hatchet**. Hold a usable matching head and click the bench to insert it, then insert a usable handle. **Status** shows missing parts. Choose **Assemble** and remain adjacent for the ordinary **100-tick (10-second)** action. Moving away, incapacitation, ingredient removal or cancellation prevents completion.
+
+Choose **Retrieve / cancel** to return stored inputs or the finished tool to the bench's tile. Cancellation preserves ingredients; the bench remains busy until the active action returns. It holds two ingredients or one finished tool, so retrieve everything before changing recipes. Destruction releases its contents. Assembly preserves the same component materials, quality and condition as hand assembly; existing hand recipes and the gunsmithing bench remain available.
+
+Native saves retain staged parts and finished tools. An active assembly loads as idle, and saved assembly time produces no offline work.
+
 #### Mining
 
 For terrain-preserving gathering, powered sifters, river concentration and petroleum production, see [Resource Extraction](Guide_to_Resource_Extraction.md).
