@@ -357,6 +357,20 @@ Rudimentary/emergency: Knife
 - Hemp rope
 - Wood torch
 
+## Human bodies and remains
+
+An exposed dead human body starts to rot after **2 natural season changes** and becomes remains after **4**. On maps without an active seasonal cycle, the warning comes after **6 hours** and retirement after **12 hours of running-server time**. The remains then begin a fresh phase with the same warning and disappearance thresholds. Offline time does not count. Cleanup checks at most 32 candidates every 30 seconds, so busy worlds may take longer after a threshold.
+
+The warning leaves time to recover or revive the body. Revival or rejuvenation clears its decay age. Moving a body or remains to a different location resets exposure; a movement action that leaves it in the same place does not. Bodies and remains inside containers or mobs are protected, including morgues, coffins, closets and vehicles. Pulled or thrown bodies and buckled bodies are protected when checked. Protection resets exposure, and remains containing objects are protected too.
+
+When a body becomes remains, its actual gear drops at the body's location. Bags keep their contents, and guns keep their attachments and ammunition. Existing item identity and raid or insurance metadata stay with the items. Clothing removal can also release pockets, belts and IDs. Useful gear does not become abandoned rubbish because its carrier died, and a physical gear drop does not itself return insurance or credit an extraction loadout.
+
+A body stays intact if gear cannot be dropped, an item is anchored, it carries a non-gear passenger or a loose organ outside its own anatomy, or it has more than 256 direct contents. A failed drop, revival or relocation cancels retirement before body deletion; gear already released may remain on the ground.
+
+Saved corpses stay dead with their damage, nested inventory and accumulated exposure. Saved remains retain their phase progress. A restart does not add offline age or revive a saved corpse. Forced admin season changes keep decay age unless **Advance decay age** is explicitly selected.
+
+On zombie maps, a headed corpse outside the Caribbean admin area reanimates as a zombie at retirement instead of leaving bones. Headless corpses leave remains. Static decorative remains do not expire through this process.
+
 ### Circumcision
 
 Use a Circumsion Knife on a naked individual.

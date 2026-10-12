@@ -22,4 +22,6 @@ Pick up or move eligible debris for a fresh recovery window. Native bags, backpa
 
 This process covers rubbish and qualifying spent casings. Useful tools, component tools, crops, corpses, containers, vehicles, money, loaded ammunition and recoverable arrows or bolts do not decay through this system.
 
+Human bodies use a separate [corpse and remains process](Guide_to_Medical.md#human-bodies-and-remains), with recovery warnings, protected storage and gear preservation.
+
 Natural season transitions age debris. An admin's forced season change defaults to **Keep decay age**; **Advance decay age** explicitly counts that change, while Cancel makes no change.
