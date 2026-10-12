@@ -19,6 +19,8 @@ machinery and vehicles.
 
 **Be sure to consult the following pages:**
 
+  - **[Crafting Atlas](https://civ13.github.io/Civ13/crafting/)** - search recipes, ingredients and connected crafting stages. The atlas lists alternative catalogs and research or mode conditions; those alternatives are not all available together. Map, era, faction, tools, fuel, power and custom rules still determine what you can make. A catalog entry does not prove a complete acquisition route on every map. Sprite previews use actual compiled DMI defaults; abstract or dynamic entries show a labeled source symbol, and runtime colors or overlays may differ.
+
   - **[Full Crafting List](../Full_Crafting_List.md)** - contains
     the list of materials and detailed crafting recipes for most of the
     craftable items, save for those that require specific machinery or a
