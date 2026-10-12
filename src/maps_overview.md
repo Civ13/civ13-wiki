@@ -1,5 +1,7 @@
 # Maps & Scenarios
 
+Start with the [Game Modes Overview](gamemodes/Game_Modes.md) for objectives and first-round guidance, then choose your map below for scenario details.
+
 Civilization 13 features a diverse range of maps for different game modes and playstyles. Select a map below to learn more about its layout and gameplay characteristics.
 
 ## Standard Maps

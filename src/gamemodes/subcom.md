@@ -321,7 +321,7 @@ Each crew member is tracked with:
 | :--- | :--- |
 | **Health** | Current health percentage (0-100) |
 | **Total Damage** | Sum of all damage types |
-| **Conscious** | Unconscious or dead |
+| **Conscious** | Whether the crew member is conscious; check unconscious crew immediately. |
 | **Injured** | Has significant damage |
 | **Oxygen Status** | "Nominal", "Low O2", "Suffocating", or "Drowning" |
 | **Compartment** | Current location (e.g., "Operations", "Reactor Room") |

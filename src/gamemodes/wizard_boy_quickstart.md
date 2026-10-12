@@ -10,7 +10,7 @@ This is the short quickstart guide for new players. For the full wiki page, visi
 
 Welcome to **Llanboarwart Academy of Magical Education (L.A.M.E.)**, the wettest, draftiest, and most tragically underfunded wizarding school in the Welsh valleys!
 
-<img src="../images/wiz/llanboarwart.png" style="display: block;margin: auto;max-height:400px"></img
+<img src="../images/wiz/llanboarwart.png" style="display: block;margin: auto;max-height:400px">
 
 Upon entering the game, your first task is to get sorted into one of the four legendary, highly competitive houses by interacting with **The Placing Fedora**:
 
@@ -63,7 +63,7 @@ Around the school's bookshelves there are useful books with guidance and tips on
 
 ### Juice (Mana) Mechanics
 *   Spells consume points from your **100-Point Juice Pool**.
-*   Your Juice pool regenerates passively at a rate of **5 points per second**.
+*   Your Juice pool regenerates passively. Watch the HUD before casting again; wand components can affect recovery and spell costs.
 *   **Overcasting**: You can still cast spells even if you do not have enough Juice. However, doing so drives your Juice to 0 and triggers **Overcast Penalties** depending on your wand's components (e.g. getting splinters from Pine, arm lacerations from Fibreglass, or a painful shock and fire from Copper).
 *   **Misfires**: Spells can fail to cast. Be careful with MDF wood wands—if you stand out in the Welsh rain, your MDF wand will swell, doubling cast times and adding a +20% misfire chance until it dries.
 

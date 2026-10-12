@@ -174,7 +174,7 @@ This is the standard progression for students residing in **Rubywyrm**, **Mintys
 
 ## 🧙‍♂️ The Grimoire (Spells & Mechanics)
 
-Spells are cast using the **100-Point "Juice" (Mana) Pool**, which regenerates at **5 points per second (50 ds)**.
+Spells use a **100-point "Juice" (Mana) pool**, which regenerates passively. Watch the HUD before casting again; wand components can affect recovery and spell costs.
 
 ```admonish danger
 Spells marked in red are **illegal** to use against non-hostile mobs and will result on your demotion to L.O.S.E.R. status.
