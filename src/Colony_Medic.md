@@ -1,40 +1,18 @@
 # Colony Medic
-## Building A Medical Clinic
 
-One of the first things you should do as a medic is try and get a
-medical clinic built. Usually you should talk to the Governor or Head
-Architect about its construction, but if there are none, try to
-commission a carpenter. Your Medical Clinic should be equipped with
-multiple beds to lay the waiting wounded, at least one operating room,
-and a stockpile of trauma and burn kits. If you're forced to scavenge
-try Healing Herbs instead of the Trauma Kits.
+The medic treats injuries and illness, from routine bandaging to surgery. Keep the [medical guide](guides/Guide_to_Medical.md) nearby and check what a patient needs before starting treatment. A crowded waiting room is a reason to stay organised, not to guess.
 
-### Your Job
+## Set up a clinic
 
-You must take care of the colonists and make sure they're in top health.
-This includes the heavily wounded requiring surgery, to the guy who got
-a slap on the face for hitting on a nun. Even treat people with the flu.
-Your duties are not little and should not be taken lightly. If you wish
-to charge a fee for your medical services or not, is up to you to
-decide.
+Ask the Governor and Head Architect to arrange a clinic, or commission a carpenter if those roles are vacant. Aim for several patient beds, an operating room, and a stock of trauma and burn kits. Healing herbs can help when supplies are scarce; consult the medical guide for the appropriate treatment.
 
-#### Other Info
+Agree on any fees before treatment so patients know what to expect.
 
-Requirements:
+## Prepare for patients
 
-1.  Know Surgery or have the guide ready
-2.  Know how to treat wounded without Hesitation
-3.  Learn to know what people are suffering from without a book just in
-    case
-4.  Quick hands, surgery needs to be quick, there are others wounded!
-5.  Clean your fucking hands degenerate!
+1. Learn the treatment and surgery steps, or keep the guide open.
+2. Organise supplies so you can find them when several patients arrive.
+3. Keep yourself and the clinic clean. See the [hygiene guide](guides/Guide_to_Hygiene.md).
+4. Ask for help gathering supplies and moving patients when the clinic is busy.
 
-Challenges:
-
-1.  Pile up of wounded
-2.  Being murdered by deranged colonists
-3.  Being murdered by assholish security
-4.  Being murdered in General, it's a real problem sadly.
-5.  Being under equipped for your job.
-
-Medical Guide Link [(Guide to Medical)](guides/Guide_to_Medical.md)
+Limited equipment and a sudden queue of wounded colonists are the main practical challenges. Stock the shelves before the emergency; patients rarely make appointments for those.

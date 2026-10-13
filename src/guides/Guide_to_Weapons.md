@@ -198,7 +198,7 @@
 <td>
 <img src="../images/Roman_standard.png">
 </td>
-<td>What better way is there to send the message to the barbarians than whacking them in the head with it while screaming "Gloria Romae!"</td>
+<td>A Roman weapon for close-range fighting.</td>
 <td>313 B.C. - 313 B.C.</td>
 <td>No</td>
 <td></td>
@@ -397,7 +397,7 @@
 <td></td>
 </tr>
 <tr>
-<td>Huge fucking sword</td>
+<td>A large two-handed sword</td>
 <td>
 <img src="../images/Clang.png">
 </td>
@@ -853,7 +853,7 @@ The bench repairs **25 condition** at a cost of **1 maximum condition**, taking 
 
    **Press Z to cock the musket.**
    
-> Chad Tip: Always keep a gunpowder pouch by yourside at all times, it can also fit into your 'Pouch' slot much like wallet and coin pouch then the musket balls into your pockets for easy picking. You should also never rely on Flintlocks, they are only one time shot, so make sure to actually pointblank your enemy before engaging in swordfight.
+> Tip: Keep powder in a gunpowder pouch and musket balls within reach. These weapons fire one shot before reloading; have a plan for the reload.
 
 ### Flintlock parts assembly
 
@@ -879,141 +879,71 @@ Finished guns use their existing ammunition, firing behavior and stats. See the 
 
 ### Muskets/Flintlocks ( Early Gunpowder Age )
 
-They are like Arquebus but sometimes you have this already made musket ammo then the process should be like:
-1. Insert **Musket ammo**
-2. Cock the musket and **Fire**
+Some muskets use prepared ammunition instead of separate powder and balls:
 
-> Chad Tip: Webbings are good way to hoard all the musket ammo but always keep 4-6 ammo in your webbing rather than hoarding it, this is to prevent your team losing ammo too early in combat or late-joiners to fight with fist or scavenging dead bodies. You can also add bayonet in your musket so you could engage in melee combat.
+1. Insert the appropriate **musket ammunition**.
+2. Cock the musket and fire.
+
+Carry a useful supply in your webbing, but leave ammunition for teammates and late joiners. A compatible bayonet provides a melee option.
 
 ### Lever-Action/Cowboy Revolvers ( The Frontier Age )
 
-1. Find the **appropriate bullet** for the gun 
+1. Examine your gun to check its caliber and find compatible ammunition.
+2. Right-click the ammunition pouch and select **toggle drawing method** to access its contents.
+3. Load the rounds and press **Z** to chamber a round when required.
 
-   **Examine** to see what caliber your gun uses, 
-   
-2. Open the pouch
+Some guns require you to remove spent casings before reloading. Check the gun's controls if fresh rounds will not load.
 
-   **Right-click** the Pouch then click **toggle drawing method**
-   
-3. Start filling it with bullet and chamber it then shoot.
+### WW1/WW2/Modern Guns
 
-   **Press Z to Chamber the round**
-   
-> Chad tip: Once you fired all your ammo and you find yourself unable to reload your gun, don't forget to remove the bullet casings out of your gun since bullet casings don't automatically eject out of the gun. Depends on the gun.
+Insert a compatible magazine and chamber a round as required by the gun. Check the firing mode before engaging.
 
-### WW1/WW2/Modern Guns ( The Unga Wars )
+**Ammunition handling:**
 
-1. **Insert magazine and gun go brrrrrt.**
-   
-> Chad tip: Give @HumbleServant#8462 a headpat to the head if you approciate his effort for this guide.
+- Toggle the drawing method on ammunition boxes and pouches to take ammunition from them while held.
+- Refill compatible magazines or clips by combining them, or stand over ammunition piles and press **C**. The caliber must match. Ammunition boxes and pouches can also be refilled this way.
+- Used casings can be reloaded with gunpowder and lead projectiles.
+- Caliber alone does not tell you how an engagement will go. Accuracy, cover, ammunition and positioning matter too.
 
-**Other things you should know:**
-
-1. The Shotgun ammo box and the (Insert Caliber Here) pouch **MUST** turn their **toggle drawing methods** after picking it up otherwise it will only allow you to pick it up from the ground but not what inside.
-
-2. Rifle Magazines and Rifle clip can be refilled by combining them together or standing on top of **ammo piles** and **pressing C**. This also works on both Ammo Box and Rifle Bullet Pouch. (This tip only works if both bullet is same caliber otherwise, it won't so don't bother.)
-
-3. You can recycle used bullet casings by adding **gunpowder** to it and adding **projectiles** made of Leads.
-
-4. Bigger caliber doesn't mean bigger damage. "Damage" is non-existent and a false idol "Professional" SS13 believes in, at the end of the day, you'll often find yourself being killed by **stray bullet**, by accurate **artillery fire** and lastly by **9mm bullet.**
-
-***
-
-***Extra: Gunpowder Recipe***
-+ Sulphur (Extracted from Sulphur Rocks)
-+ Saltpeter (Extracted from Saltpeter Rocks)
-+ Coal (Extracted from Coal)
-
-   Use extraction kit to have extra +2 regeants then fill the barrel. This should be done in this ***exact order*** otherwise you get cyanide.  
-
-Alternatively, this is the **UNGA** way.
-
-+ Saltpeter (Shit and Piss into the barrel)
-+ Sulphur (Sulphur rock shoved into the barrel)
-+ Charcoal (Slapped into the barrel)
-
-   Wait for explosion. If none, add them to bullet casings and enjoy.
-
-***
+For reagent handling and gunpowder production, consult the [chemistry guide](Guide_to_Chemistry.md). A barrel is a container, not a substitute for checking the recipe.
 
 ## Weapon types and how to use them.
 
 ### Pistols
-**Advantages** - Short-range, Guaranteed to hit Op-Fors pointblank-6 blocks, Self-defence weaponry, Low-Damage but able to kill in one shot if used correctly, Only requires 1.0 skill in firearms to actually use it properly. Even a kid can use this.  
-**Disadvantages** - Short-range, Limited ammo, Only good shooting yourself or executing an unga.   
-> Chad tip: Virgin Medic is when you drop your pistol to grab M4/M16 , Chad Medic is when you actually settle for pistol and shoot VietCongs running toward your Foxhole Clinic.
+
+Pistols are compact weapons for close-range defence. Their limited ammunition and range make them a poor substitute for a rifle in an open-field engagement. Carry spare ammunition and avoid relying on a guaranteed hit.
 
 ### Submachine Gun
-**Advantages** - Short-range, Bullet spread is minimal, Good for CQB (Close Quarter Battle), Good for clearing alleyways or clearing a room.  
-**Disadvantages** - Short-ranged, Bullet spread is abit messy when full-auto, Really bad at open-field battle.  
-> Chad tip - This gun is never really meant for open-field battle, think of it as automatic pistol with extended magazine and also, always aim for the groin and chest. Your hit percentage will decrease if you aim for the head.
+
+Submachine guns suit short-range fighting in rooms and alleys. Automatic fire increases spread, so use controlled bursts and avoid prolonged engagements across open ground.
 
 ### Semi-Auto/Automatic Rifles
-**Advantages** - Medium-range, Good for both close quarter and open-field firefight, Semi-Auto firemode for long range engagement, FULL AUTO IN THE BUILDINGS!!  
-**Disadvantages** - Medium-ranged, Bullet Spread is at Maximum when put in full-auto much like in real life, It takes 2.7 Skill in Firearm to become God, If you put it in full-auto expect your accuracy/hit percentage to decrease to almost zero.  
-> Chad Tip - Semi-Automatics have higher chance to hit the target other than full auto. Full auto are not useless feature, it is use to suppress people in their spot or fire blindly to wherever the bullets coming from.
+
+Rifles offer flexibility across different engagement distances. Use semi-automatic fire for controlled shots and automatic fire for close engagements or suppression. Firing more bullets does not make every bullet more accurate.
 
 ### Bolt-Action Rifles:
-**Advantages** - ACTUAL GOD, Close Range? Long Range? Fuck that, this gun works in all range. You can blast someone's head even though they are in sandbags or in Foxholes. You are a SNIPER, try not to engage in close combat and actually fight where no one could see you or you know, be a chad and kill them close-range with pointblank.  
-**Disadvantages** - GOD. There's no Disadv on this gun other than you're fucked if you're out of ammo.  
-> Chad Tip - Do a 360 spin killshot and send it to Taislin to be featured in Announcement. - HumbleServant
 
-### The Chad Machine Gun
-**Advantages** - Gun go brrrrrt, 300 ammo orgasm, No one can close their position to your foxhole or your defensive line, haha yes dieeee brrrrrt. On a serious note, this is a gun good for holding a line and keeping people suppressed or keeping them from moving one inch in their spot otherwise they'll get hit. The bullet spread is at maximum but that's actually intended. Firing blindly or to enemy general direction and its chances to hit someone is never zero, If they are not entrenched they have a chance to get shot by a stray bullet.  
-**Disadvantages** - People who uses it. Literally, Unga's finest choice thinking they are rambo or protagonist. Gives people "Power Complex". Cursed.  
-> Chad tip - Literally the chad and tide-turner of the game if used properly, keep a pistol with you at all times so you can blast someone's head if they manage to get near to your foxholes.
+Bolt-action rifles reward careful positioning and deliberate shots. Keep distance where possible and account for the time between shots. Cover still matters, and an empty rifle is a strong argument for bringing spare ammunition.
 
+### Machine Guns
 
+Machine guns help defend positions and suppress enemy movement. Coordinate with teammates and manage ammunition. Firing can restrict movement, leaving an exposed gunner vulnerable; choose cover before starting a sustained burst.
 
-**Other things you should know about:**
+**Cover and positioning:**
 
-1. **Entrenched** only lower your chances of getting struck by oncoming bullets and it that doesn't mean you're invincible. Even combined with "Rest" to act like crawling does not count as lowering your chance. Only sandbags does.
-
-2. **RNGesus is your enemy, prepare for the unexpected.** Staying in one spot is certain death, getting shot at is also certain death. Proned or not, it is always death if you stay at one spot and let enemies shoot you.
-
-3. **Going Rambo never works,** running up to them while firing your machine gun will stop you from moving which makes you more vulnerable than other people who's entrenched.
-
-4. **If they are at your line of sight and so are you.** If you try to shoot them, there's only 25-45% your bullets will hit them from their entrenched combined with sandbag possition.
-
-5. **All guns are capable of penetrating a wall, higher caliber means higher penetration.** So make sure to shoot through walls to get a chance of killing someone. Especially people hiding in the corner.
+- Entrenchment and sandbags reduce the chance of being hit; they do not make you invulnerable.
+- Resting is not a guarantee of protection from gunfire.
+- An enemy you can see may also be able to see you. Avoid staying exposed while repeatedly exchanging shots.
+- Bullets can penetrate some obstacles. Do not assume a wall always stops incoming fire.
 
 ## Grenades and What to do with them:
 
-<table>
-<tr>
-<td style="text-align: center;">
-Shrapnel Grenades
-</td>
-<td style="text-align: center">
-360 Shrapnel Coverage with a radius of 5-10 blocks. Make sure to duck or rest when a grenade is lobbed close to your possition to avoid shrapnels or atleast lower your chance getting caught by it.
-</td>
-</tr>
-<tr>
-<td style="text-align: center;">
-High Explosives/Anti-Tank
-</td>
-<td style="text-align: center">
-Blast radius estimation is 3-7 blocks. This grenade can cause PTSD if it caught someone and gib them, also works to disable tanks so try to hit them on their side since attacking at the front is a suicide charge.
-</td>
-</tr>
-<tr>
-<td style="text-align: center;">
-Chemical Grenade
-</td>
-<td style="text-align: center">
-Blast radius estimation is 10x10. The bane of Unga, it's hard to treat chemical damage since it mostly affect their organs mainly their heart and their lungs and this is why both Germans and Russians have gas mask. Don't use this on open-field, this is much more effective when used inside a building or trench lines.
-</td>
-</tr>
-<tr>
-<td style="text-align: center;">
-Smoke Grenades
-</td>
-<td style="text-align: center">
-Full screen coverage, Coverage estimation is about 5-8 blocks. Smoke grenades are useful mainly for medics and people with actual brain of a Chad, smokes prevents snipers shooting people inside it and it also blocks their view and unable to shoot directly to people covered in smoke.
-</td>
-</tr>
-</table>
-
+| Type | Use and cautions |
+| --- | --- |
+| Shrapnel | Fragments threaten nearby players. Move away from a thrown grenade and seek cover. |
+| High explosive / anti-tank | Explosions threaten infantry and can damage vehicles. Avoid approaching a tank's front to throw one. |
+| Chemical | Gas threatens players in affected areas, especially enclosed spaces. Use appropriate protective equipment and keep teammates clear. |
+| Smoke | Blocks visibility and helps screen movement or casualty recovery. Smoke provides concealment; it does not make the area immune to bullets. |
 
 ## How to use artillery
 
@@ -1084,7 +1014,7 @@ Mustard
 <td style="text-align: center">
 
 A man-made agent which causes chemical burning of the skin, eyes, and
-throat., very nasty stuff.
+throat, very nasty stuff.
 
 </td>
 </tr>

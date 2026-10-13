@@ -111,7 +111,7 @@ Nomads. It is with it that your faction can unlock new craftables and
 better equipment\!
 
 A small faction with advanced research and guns can usually topple the
-big group of unga dunga cavemen armed with bows and arrows.
+large group of Stone Age characters armed with bows and arrows.
 
 Research methods depend on the map and lobby selection. For technology-tree progression, requirements and crafting gates, use the [Research Guide](../guides/Guide_to_Research.md). The following sections describe the other research selections.
 
@@ -166,7 +166,7 @@ Chad Mode uses no research progression. Read the mode briefing and [server rules
 
 ### Chad Mode+
 
-Just like Chad Mode, but with research! To do chad research, build an **Altar of Chad**. Slam living or dead people on it, and you get a bunch of research points — it's that easy! Living are worth 12, dead are worth 8.
+Just like Chad Mode, but with research! To do chad research, build an **Altar of Chad**. Using living or dead characters on the altar provides research points; follow the mode briefing and server rules. Living are worth 12, dead are worth 8.
 
 ```admonish danger
 Chad Mode+ can be chaotic and dangerous; the game may become very unpredictable.

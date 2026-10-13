@@ -1,3 +1,5 @@
-A free for all gamemode centered in the roman colleseum, you arrive as a gladiator from a region of the great empire of rome.
+# Gladiators
 
-You fight for the emperor, the emperor is guarded by his praetorians.
+A free-for-all scenario set in a Roman arena. Gladiators arrive from regions of the Roman Empire and fight for an emperor guarded by praetorians.
+
+Read the [Gladiators guide](../gamemodes/Gladiators.md) for objectives and preparation.

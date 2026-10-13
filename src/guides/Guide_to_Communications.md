@@ -15,7 +15,7 @@
 <td>
 <img src="../images/ea.png">
 </td>
-<td><p>Will only work with <strong>2</strong> tiles in between each pole. <strong>Cannot be diagonal.</strong> Be extremely careful building as it cannot be deconstructed and only destroyed with a catapult or canon/explosives.
+<td><p>Will only work with <strong>2</strong> tiles in between each pole. <strong>Cannot be diagonal.</strong> Be extremely careful building as it cannot be deconstructed and only destroyed with a catapult or cannon/explosives.
   
 
 
@@ -25,7 +25,7 @@
 
 <ul>
 <li>First setup the telegraph in the desired location. Typically the corner of a building.</li>
-<li>Build the utility pole adjacent to the telegraph on the otherside of the wall.</li>
+<li>Build the utility pole adjacent to the telegraph on the other side of the wall.</li>
 <li>Use spare materials to map out your utility pole line.</li>
 <li>Create the telegraph at the other end.</li>
 <li>Build your new building around it.</li>
@@ -47,8 +47,7 @@
 
 ## Devices
 
-- **Screaming:** the best form of getting help, but it's better if you're a
-woman.
+- **Shouting:** a quick way to alert nearby players. Tell them what help you need.
 
 - **Bone horn:** blow it to signal a charge or an enemy invasion.
 
@@ -56,7 +55,7 @@ woman.
 with a range of 40 tiles to attract help or friends.
 
 - **Lanterns:** lit lanterns can be used for limited communication for certain
-situations. (Use a telescope to see them from a far)
+situations. (Use a telescope to see them from afar)
 
 - **Messengers:** these are men who dedicate their lives to delivering letters
 to people who need them in time usually on horseback.

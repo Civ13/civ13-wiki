@@ -1,11 +1,13 @@
 # Hostages
-## ROLES
 
-| ROLE             | IMAGE | DESCRIPTION                                                                                                                                               | DIFFUCULTY |
-| ---------------- | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| SOF Team Leader  |       | Command your men to rescue the hostages from the Islamic fighters! You should stay back and eavesdrop on their communications.                           | HARD       |
-| SOF Medic        |       | Tend to the wounded operators and send them back "to finish the fight".                                                                                   | MEDIUM     |
-| SOF Operator     |       | Fight against the Islamic fighters and rescue the hostages! Take orders from your Team Leader.                                                           | EASY       |
-| Insurgent Leader |       | Lead your men using the walkie talkies, fight against the infidels and prevent the infidels from getting the hostages! Praise to Allah!                 | HARD       |
-| Insurgent        |       | Prevent the infidels from rescuing the hostages and listen to your leader! Use the machine gun placements and suicide vests to fight off the westerners. | EASY       |
-|                  |       |                                                                                                                                                           |            |
+The rescue team tries to recover the hostages; the insurgents try to prevent the rescue. Coordinate with your leader and follow the round briefing and [server rules](../rules/Rules.md).
+
+## Roles
+
+| Role | Description | Difficulty |
+| --- | --- | --- |
+| SOF Team Leader | Coordinate the rescue team and monitor enemy communications. | Hard |
+| SOF Medic | Treat wounded operators and support the rescue. | Medium |
+| SOF Operator | Work with the team to reach and rescue the hostages. | Easy |
+| Insurgent Leader | Coordinate the defenders by radio and prevent the rescue. | Hard |
+| Insurgent | Defend the hostage area and follow your leader's orders. | Easy |

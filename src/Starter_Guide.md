@@ -73,7 +73,7 @@ The easiest way to get food early on is by killing animals and eating the meat a
 - To **stew** meat, place the raw steak into the **cooking pot** after filling it with **water**, and wait.
   - Cooking pots are made with **iron ingots**, but again, it requires research levels to make.
 
-There are many ways to fill your stomach. Even an *unga dunga* can do it!
+There are many ways to find food. Start with the supplies available around you.
 
 - **[Guide to Ranching](guides/Guide_to_Ranching.md)**
 - **[Guide to Farming](guides/Guide_to_Farming.md)**
