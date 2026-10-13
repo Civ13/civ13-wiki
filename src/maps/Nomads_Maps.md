@@ -98,3 +98,13 @@ Section of Nomads_World project (1/4)
 Based off of all of Africa: Desert, Savannah, Jungle, Savannah.
 
 Section of Nomads_World project (2/4)
+
+## North America
+
+<img class="pixelated" src="../images/map_north_america.png" width="488" height="334" alt="North America map overview, with snowy terrain in the north, temperate forests across the centre, arid terrain in the southwest and the Hawaiian islands to the west">
+
+This map represents North America, from snowy Canada through the temperate United States to the warmer, more arid regions of Mexico. A small island chain to the west represents Hawaii.
+
+Choose your settlement with the local climate in mind: northern regions need cold-weather preparation, while drier regions make access to water especially important. See the [Starter Guide](../Starter_Guide.md) for food, water and shelter, and [Winter and Long Rounds](../guides/Guide_to_Survival.md) for staying warm.
+
+Section of Nomads_World project (3/4).
