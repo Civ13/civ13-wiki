@@ -6,9 +6,9 @@ This guide covers the specialized, highly dangerous non-human entities encounter
 - [Wendigo](#wendigo)
 - [Lightseeker](#lightseeker)
 - [Alien Xenomorph](#alien-xenomorph)
-- [Fata Morgana](#fata-morgana-the-blizzard-mirage)
-- [Boreas](#boreas-the-hearth-eater)
-- [Echofiend](#echofiend-the-sound-tracker)
+- [Fata Morgana](#fata-morgana)
+- [Boreas](#boreas)
+- [Echofiend](#echofiend)
 - [Canopy Strangler](#canopy-strangler)
 - [Phosphor Beetle](#phosphor-beetle)
 - [Mirelurk](#mirelurk)
@@ -198,7 +198,7 @@ Run. If you must fight, use anti-tank weaponry or artillery. Traditional firearm
 <h2 id="velociraptor">Velociraptor</h2>
 <table><tr><td width="40%" style="vertical-align: top;">
 <div style="text-align: center;"><img class="pixelated" src="images/entities/velociraptor.png" width="256" height="128"></div><br>
-<blockquote>“Yep. You are fucked.”</blockquote>
+Fast feet. Faster teeth.
 <b>Threat Level:</b> Extreme<br>
 <b>Visual Description:</b> A sleek, feathered predator that moves with terrifying grace and speed.
 </td><td style="vertical-align: top;">

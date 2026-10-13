@@ -1,26 +1,13 @@
 # Blacksmith
 
-Being a blacksmith is fairly easy. Get iron or steel, craft things, sell
-those things. But there's more than just that!
+A blacksmith turns metal into useful tools, weapons and ammunition. Work with colonists and merchants to learn what they need before using up the colony's iron.
 
 ## Setting Up
 
-A typical set up for a Blacksmith is first, a Smithy. Make a nice place
-you can craft your things, it's usually good to have it combined with a
-store behind locked doors. You'll need an anvil, and optionally you
-could have a stone furnace for making steel etc. as well as an oven for
-smelting iron. Optionally (and probably a good thing to do) is make the
-smithing area itself from stone, not wood, since wood doesn't make much
-sense around hot metal.
+Build a smithy with an anvil and space to store materials and finished goods. A stone furnace and smelting oven can support metal production. Stone is a sensible choice for the working area around hot equipment. See the [metallurgy guide](guides/Guide_to_Metallurgy.md) for production steps.
 
 ### The Job
 
-The main thing you're gonna be doing is selling to the public, weapons.
-If allowed. Otherwise sell to any available merchant so they can export
-it. A good thing generally to make for them to sell is muskets and other
-guns. Swords don't export for much and are still costly on iron. Guns
-the merchant can give you a good slice of reales, though, you should
-never take anything less than 2x the iron amount it took to make. Such
-as a musket, 30 iron, you shouldn't take less than 60 reales and that's
-just breaking it even. Though the merchant is probably gonna be your
-best friend in terms of business. The rest, is up to you to decide.
+Check the colony's written laws before selling restricted weapons. Merchants can buy goods for export, while other colonists may need tools and equipment locally.
+
+Agree on prices before crafting an order. Account for materials, time and the buyer's actual offer; a recipe's iron cost does not establish a fixed price or guaranteed profit. A full order book is useful only if you can afford the next batch of metal.

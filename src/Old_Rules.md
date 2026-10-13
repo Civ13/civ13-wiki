@@ -2,6 +2,8 @@
 **These rules are from before 11/11/19, and are only here for archiving
 purposes and referencing.**
 
+For current policy, read the [server rules](rules/Rules.md). One explicit slur in the historical nickname example below has been redacted.
+
 ## General Rules
 
 ### OOC Rules
@@ -25,7 +27,7 @@ non-IC means.
 5.  ) No ahelping sentence fragments. Say everything you want to say in
     one sentence. Spamming ahelp wont get you what you want.
     \[Punishment = AHELP ban via player panel\]
-6.  ) No Obscene nicknames. Examples include naming yourself nigger
+6.  ) No Obscene nicknames. Examples include using a racial slur as your name
     while playing a Carib. Reference names such as Jack Sparrow and
     Black Beard, as well as other historic names and references, are
     allowed as long as you're not overly obnoxious with it.

@@ -5,7 +5,7 @@
 Use the [Wizard Boy Quickstart Guide](wizard_boy_quickstart.md) for sorting and your first wand. Read your qualification, the spell descriptions and school rules before practising. Keep track of mana and coordinate with your house. This guide provides the longer reference for equipment and magic; the [Game Modes Overview](Game_Modes.md) helps you find the other scenarios.
 
 ```admonish tip
-This is the full guide to the gamemode. For a quick start guide for those with short attention spans, visit **[the quickstart guide](wizard_boy_quickstart.md)**.
+This is the full guide to the gamemode. For sorting and your first wand, visit **[the quickstart guide](wizard_boy_quickstart.md)**.
 ```
 
 <img src="../images/wiz/wizard_boy.png" style="display: block;margin: auto;max-height:400px"></img>
@@ -160,7 +160,7 @@ This is the standard progression for students residing in **Rubywyrm**, **Mintys
 ### Tier 5: The C.H.A.D. Status (Master)
 *(Classified High-level Arcane Destruction)*
 *   **To Qualify:** You will need to defeat another student in the Arena.
-*   **The Lore:** The absolute peak of magical education. You must be an absolute "gigachad" to cast these spells without your wand exploding or your head caving in from the sheer Juice cost.
+*   **The Lore:** The academy's highest qualification grants access to demanding spells. Keep an eye on their Juice cost; academic ambition does not refill your mana.
 *   **Permitted Spells:** *All Tier 1, 2, 3, & 4 spells, plus:*
     *   <span style="color:red">`Explodus!`</span> (80) — *Heavy explosive concussive bolt.*
     *   <span style="color:red">`Painum!`</span> (85) — *The excruciating torture curse (strictly illegal).*

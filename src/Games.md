@@ -3,7 +3,7 @@
 Below is a list of several games that have similar mechanics, settings
 or that inspired us to create Civ13.
 
-**Rimworld** - Similiar in the survival aspect of Nomads, you control a
+**Rimworld** - Similar in the survival aspect of Nomads, you control a
 group of people starting from nothing in a planet.
 
 **Dwarf Fortress** - A very complex roguelike. Features a lot of

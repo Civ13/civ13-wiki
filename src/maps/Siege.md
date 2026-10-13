@@ -8,7 +8,7 @@ defense of their castle.
 
 ### Roman Roles
 
-| Roles                            | Image | Description                                                          | Diffuculty |
+| Roles                            | Image | Description                                                          | Difficulty |
 | -------------------------------- | ----- | -------------------------------------------------------------------- | ---------- |
 | Centurion (Roman Commander)      |       | Plan a strategy to crush Greek's Castle, command your Squad Leaders. | Very Hard  |
 | Decurion (Roman Squad Leader)    |       | Follow commander's orders and command your men.                      | Hard       |

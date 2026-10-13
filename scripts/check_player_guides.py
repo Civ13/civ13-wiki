@@ -23,7 +23,12 @@ PAGES = ('index.md', 'New_Player_Guide.md', 'guides/Guide_to_Chemistry.md',
 
 def check(root=Path('book/html')):
     links = 0
-    for page in PAGES:
+    pages = sorted(str(path.relative_to('src')).replace('\\', '/')
+                   for path in Path('src').rglob('*.md')
+                   if path.name != 'SUMMARY.md'
+                   and (root / path.relative_to('src').with_suffix('.html')).is_file())
+    assert set(PAGES).issubset(pages), ('Missing player pages', set(PAGES) - set(pages))
+    for page in pages:
         source = (Path('src') / page).read_text(encoding='utf-8')
         assert 'Persistence' not in source and 'valzargaming.com:1714' not in source, page
         rendered = root / Path(page).with_suffix('.html')
@@ -38,7 +43,8 @@ def check(root=Path('book/html')):
             assert path.is_file(), (page, target)
             if url.fragment:
                 contents = path.read_text(encoding='utf-8') if path != rendered else html
-                assert f'id="{unquote(url.fragment)}"' in contents, (page, target)
+                fragment = re.escape(unquote(url.fragment))
+                assert re.search(r'(?:id|name)=["\x27]' + fragment + r'["\x27]', contents), (page, target)
             links += 1
     chemistry = (root / 'guides/Guide_to_Chemistry.html').read_text(encoding='utf-8')
     power = (root / 'guides/Guide_to_Power.html').read_text(encoding='utf-8')
@@ -49,7 +55,7 @@ def check(root=Path('book/html')):
     nav_text = navigation.read_text(encoding='utf-8')
     assert 'Guide_to_Power.html' in nav_text and 'developers/Civ13_MCP.html' in nav_text
     assert 'Guide_to_Resource_Extraction.html' in nav_text and 'Guide_to_Survival.html' in nav_text
-    print(f'Checked {len(PAGES)} player pages and {links} local links including fragments')
+    print(f'Checked {len(pages)} rendered pages and {links} local links including fragments')
 
 
 if __name__ == '__main__':

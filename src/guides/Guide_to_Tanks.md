@@ -1,5 +1,5 @@
 # Guide to Tanks
-The 1945 epoch now has tanks! (Yay)
+Tank crews need coordination as well as firepower.
 
 There are 5 roles for the crew of the tank. In order to be effective,
 all roles must communicate with each other, organize and work
@@ -22,12 +22,10 @@ together.
 
   - **The Loader**: Your job is the easiest one. You will wait for the
     commander to tell you what shell type to load, and you will simply
-    take the said shell from the rack or floor (depending on your unga
-    level) and will insert it into the turret. To achieve that, get
+    take the said shell from the rack or floor (depending on where your crew stored it) and will insert it into the turret. To achieve that, get
     behind the turret of the tank. Click on the rack behind you, then
     click on the shell. After taking the shell into your hand, click on
-    the turret of the tank. Congratulations, you loaded the
-    cannon. (Probably got the wrong type anyways.)
+    the turret of the tank. Check that you loaded the requested shell type.
 
   - **The Gunner**: As a gunner, your job is to enter the parameters
     commander told you. Depending on the type of tank you might have to load the gun yourself using the autoloader (In your firing panel there is a button to load a shell). After that wait for his order to fire. To accomplish
@@ -173,8 +171,7 @@ through.
 ![image](https://media.discordapp.net/attachments/485954244437082112/714301093869256824/tank_ready.png?width=288&height=406)
 
 And then you can wedge on through in reverse, and flank the enemy by
-going through a place they assumed enemy drivers were too stupid to get
-through.
+using a route they may not expect a tank to fit through.
 
 ![image](https://media.discordapp.net/attachments/485954244437082112/714301162244800532/tank_through.png?width=144&height=405)
 

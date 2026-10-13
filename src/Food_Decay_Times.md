@@ -506,13 +506,13 @@ Take a berry in your hand and use the smell verb. If it smell:<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • extract 2 times charcoal (10 units) with extraction kit and drink<br><br>
 &nbsp; &nbsp; &nbsp; &nbsp; • if you ready to heal toxins, than bite berrie <b>ONE</b> time, if you taste:<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • <b>strong flavor of fruit and the strong flavor of bitterness</b> - it's poison berries with <b>cyanide</b>. Start toxins healing right now!<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;You will recieve messages: &#8243;Your body stings slightly&#8243;. Don't panic, just wait some after toxins healing.<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;You will receive messages: &#8243;Your body stings slightly&#8243;. Don't panic, just wait some after toxins healing.<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • <b>strong flavor of fruit and bitterness</b> and receiving messages &#8243;You feel sick...&#8243; - it's poison berries with <b>food poisoning</b>. Start toxins healing right now!<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;You may recieve messages: &#8243;Your body stings slightly&#8243;. Don't panic, just wait some after toxins healing.<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;You may receive messages: &#8243;Your body stings slightly&#8243;. Don't panic, just wait some after toxins healing.<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • <b>strong flavor of fruit and bitterness</b> and you eyes fills with rainbow - it's drug berries with <b>peyote</b>. Don't panic, just wait some time, when effect ends.<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • <b>fruit and the strong flavor of bitterness</b> - it's healing berries with <b>penicillin</b> or <b>opium</b>, wait some time, don't bite berrie, just wait about 3 minutes<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • if nothing happens - it's healing berries with <b>penicillin</b><br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • if your character start shivers and you began recieve messages: &#8243;You feel slightly sick&#8243; - it's healing berries with <b>opium</b><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • if your character start shivers and you began receive messages: &#8243;You feel slightly sick&#8243; - it's healing berries with <b>opium</b><br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; now just wait about 3 minutes and addiction from opium will gone
 </details>
 </td>

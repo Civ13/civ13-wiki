@@ -1,9 +1,5 @@
 # Research Tree
 
-```admonish note
-This is a new research mode that is currently in testing.
-```
-
 Civ13's research system is a **tech tree**, not a point pool. Instead of feeding items into a desk to raise three abstract Industrial/Military/Health numbers, your faction builds **research benches**, assigns each one a specific invention to study, and watches it complete — either by passive study over time, by building a working prototype, or by learning it from another faction's research book.
 
 This page describes the tech-tree mode. Check the round's selected research mode first; [legacy modes](../gamemodes/Civilizations_and_Nomads.md#research) work differently. Unlocking a node still requires the recipe to exist in the active map's crafting catalog and your character to meet its skill requirements. In this mode, colored cable recipes and electronics are gated by **Electricity**; possessing a battery does not grant cable access. Laboratory benches and burners use **Apothecary**, while laboratory feedstock dispensers and centrifuges use **Pharmacology**. See [Chemistry](Guide_to_Chemistry.md) and [Power & Batteries](Guide_to_Power.md) for setup.
