@@ -1,5 +1,7 @@
 # Contributing to the Wiki
 
+Contributors and reviewers share responsibility for our [Mission and Community Standards](Mission_and_Community_Standards.md). Review the work constructively, explain requested changes, and help contributors improve. Personal attacks and public humiliation are unacceptable. Good-faith disagreement and criticism are welcome.
+
 **You can check what pages need fixing/content on the [github Issues section](https://github.com/Civ13/civ13-wiki/issues).**
 
 This wiki is hosted on *GitHub Pages* using [mdBook](https://rust-lang.github.io/mdBook/), a modern static site generator. 
