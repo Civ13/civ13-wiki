@@ -2,7 +2,7 @@
 **These rules are from before 11/11/19, and are only here for archiving
 purposes and referencing.**
 
-For current policy, read the [server rules](rules/Rules.md). One explicit slur in the historical nickname example below has been redacted.
+For current policy, read the [server rules](rules/Rules.md) and [Mission and Community Standards](Mission_and_Community_Standards.md). Archived permissions and punishments do not override current policy. One explicit slur in the historical nickname example below has been redacted.
 
 ## General Rules
 

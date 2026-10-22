@@ -2,6 +2,7 @@
 - [Main Page](index.md)
 
 # Meta
+- [Mission and Community Standards](Mission_and_Community_Standards.md)
 - [Rules](rules/Rules.md)
 - [How to Play](New_Player_Guide.md)
 - [Contributing to the Wiki](Contributing_to_the_Wiki.md)
