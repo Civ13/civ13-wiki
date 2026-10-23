@@ -16,25 +16,29 @@ Finished leather you already own remains usable without further processing.
   Adult male and female turkeys each give **1 raw hide piece**; turkey chicks
   give **no hide**. Species pelts retain their existing yields and uses.
 - A held sharp tool, such as a knife, for scraping.
-- A held, open **bucket or suitable liquid pot** containing water or tannin as
-  required below. Washing, tanning and bark extraction accept the game's
-  glass-vessel family, which includes buckets and liquid pots regardless of
-  their material. **Drinking mugs, including the wooden mug, do not work for
-  these steps even when open and filled.** A closed vessel or one outside your
-  hands also cannot be used.
+- An accessible **open reagent vessel** containing water or tannin as required
+  below. Wood mugs, canteens, buckets and other suitable open liquid containers
+  work. Hold the vessel and apply it to nearby bark or a hide, or hold the bark,
+  prepared hide or dry hide and click a reachable open vessel or unlocked barrel
+  on the ground. Keep both objects within reach.
 - A [tanning rack](guides/Guide_to_Crafting.md#tanning-rack), made with **8 wood
   logs** in the ordinary wood catalog. Resource Processing is required where
   faction research applies; mode and crafting restrictions still apply.
 - Bark collected while cutting logs into planks, and water for extracting tannin.
+
+Sealed vessels, locked barrels, another player's inventory and nested storage
+cannot supply these liquids. The water or tannin must be in the vessel's actual
+reagent contents. Terrain water and a cooking pot's separate cooking-water
+counter do not count; use an ordinary reagent vessel for these steps.
 
 ### Process
 
 | Step | Action and cost | Result |
 | --- | --- | --- |
 | Scrape | Use a held sharp tool on a nearby raw hide or pelt. The action takes **50 ticks**, normally five seconds, and consumes **1 piece** only on successful completion. | **1 prepared hairless hide** |
-| Wash | Apply a held open vessel containing at least **5 units of water** to a prepared hide. This consumes **1 prepared hide** and **5 water**. | **1 wet hide** |
+| Wash | Use an accessible reagent vessel containing at least **5 units of water** with a prepared hide, using either interaction above. This consumes **1 prepared hide** and **5 water**. | **1 wet hide** |
 | Dry | Put a held wet-hide stack on the tanning rack. The whole stack, up to **50 pieces**, takes **300 ticks**, normally 30 seconds. Retrieve it with an empty hand when ready. | The same number of **dry hides** |
-| Tan | Apply a held open vessel containing at least **5 units of tannin** to a dry hide. This consumes **1 dry hide** and **5 tannin**. | **1 ordinary leather sheet** |
+| Tan | Use an accessible reagent vessel containing at least **5 units of tannin** with a dry hide, using either interaction above. This consumes **1 dry hide** and **5 tannin**. | **1 ordinary leather sheet** |
 
 Washing and tanning process **one piece per application**. Apply the vessel again
 for another piece. Prepared hairless hides you already own enter at the washing
@@ -54,8 +58,9 @@ Cut logs into planks with the usual tools. A **hatchet** consumes **2 log units*
 for **1 plank and 2 bark pieces**; a **saw** consumes **1 log unit** for **4 planks
 and 1 bark piece**. Bark is a byproduct of paid log cutting, not a free supply.
 
-Apply a held open vessel containing at least **10 units of water** to one bark
-piece. **1 bark + 10 water** produces **10 units of tannin** in that vessel. The
+Use an accessible reagent vessel containing at least **10 units of water** with
+one bark piece, using either interaction above. **1 bark + 10 water** produces
+**10 units of tannin** in that vessel. The
 liquid volume stays the same, so extraction also works with a full vessel.
 Each application processes one bark piece.
 
