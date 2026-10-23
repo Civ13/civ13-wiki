@@ -6,7 +6,7 @@ Use a **held sharp tool** on an adjacent dead animal. **Harm intent** performs q
 
 Both routes give the same meat and food byproducts. Grab selects species pelts; quick Harm butchering gives untanned raw hides for supported mammals. Animals do not provide finished leather. [Leather tanning](../Miscellaneous_Crafting.md#leather-tanning) turns raw hides or prepared pelts into leather. Normal meat yield follows size: minuscule **1**, tiny **2**, small **3**, medium **4**, large **5**, huge **8** separate portions. Existing pig-leg, chicken-carcass, poisonous-frog, crab, zombie and mouse outputs remain distinct.
 
-The mammal products below apply to cattle, pigs/boars, goats, sheep, deer, bison, camels, rabbits, monkeys, cats, bears, wolves, foxes, gorillas, panthers, sabertooths, horses, dogs, mammoths and bats, including their subtypes. Let **Y** be the size yield above.
+The mammal products below apply to supported cattle, pigs/boars, goats, sheep, deer, bison, camels, rabbits, monkeys, cats, wild bears, wolves, foxes, gorillas, panthers, sabertooths, horses, pet or commanded dogs, mammoths and bats. Animal type and interaction handling matter: not every dog or bear follows these rules, and the table does not guarantee that every juvenile can be harvested. Let **Y** be the size yield above.
 
 | Product | Yield |
 | --- | --- |
