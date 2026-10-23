@@ -45,6 +45,7 @@ machinery and vehicles.
 
 **Quick links:**
 
+- **[Leather tanning](../Miscellaneous_Crafting.md#leather-tanning)**
 - **[Mining](#mining)**
 - **Making swords and pre-1903 firearms** - **[Anvils](Guide_to_Metallurgy.md#anvils)**
 - **Making armor** - **[Anvils](Guide_to_Metallurgy.md#anvils)**
@@ -181,6 +182,8 @@ but it is still used as a component in some other area of crafting.
 
 ### Wood
 
+Cutting logs into planks also supplies bark for [leather tanning](../Miscellaneous_Crafting.md#leather-tanning).
+
 There are two main ways to obtain
 **[Wood](../Full_Crafting_List.md#wood)** for crafting:
 
@@ -235,7 +238,7 @@ See [Harvesting dead animals](Guide_to_Ranching.md#harvesting-dead-animals) for 
 <tr>
 <td width="5%"><img src="../images/black_bear_pelt.png"> <img src="../images/monkey_pelt.png"> <img src="../images/wolf_pelt.png"></td>
 <td><b>Furs and Pelts</b></td>
-<td>Obtained from various animals (check the <b><a href="../Full_Crafting_List.md">Full Crafting List</a></b>) by skinning the carcass with a knife on Grab intent. Pelts could be made into coats, gloves, footwear and headgear. Fur clothing comes in handy in the colder climates and seasons. Pelts could also be turned into leather on the tanning rack - cut the hair off of the hide with a knife, then place the hide on the rack and wait until it's ready. One extra leather sheet is obtained this way, compared to skinning the carcass directly for leather as described below.</td>
+<td>Obtained by skinning animal carcasses with a held sharp tool on Grab intent; the species determines the pelt. Keep pelts for their existing coats, gloves, footwear and headgear. To make leather instead, scrape one pelt piece, then wash, dry and tan it as described in <b><a href="../Miscellaneous_Crafting.md#leather-tanning">Leather tanning</a></b>. Each piece yields one leather sheet.</td>
 </tr>
 <tr>
 <td><img src="../images/wool_pile.png"> <img src="../images/wool_roll.png"></td>
@@ -245,7 +248,7 @@ See [Harvesting dead animals](Guide_to_Ranching.md#harvesting-dead-animals) for 
 <tr>
 <td><img src="../images/leather.png"></td>
 <td><b><a href="../Full_Crafting_List.md#leather">Leather</a></b></td>
-<td>Used for clothing, military equipment and bags. Quick butchering on Harm intent gives leather from supported mammals, with yield based on size. Grab intent gives species pelts instead.</td>
+<td>Used for clothing, military equipment and bags. Finished leather is made from raw hides or pelts through <b><a href="../Miscellaneous_Crafting.md#leather-tanning">scraping, washing, rack drying and bark tanning</a></b>; animals do not drop ready-tanned leather. Existing finished leather remains usable in its usual recipes.</td>
 </tr>
 <tr>
 <td><img src="../images/bone.png"></td>
@@ -599,7 +602,7 @@ level of the crafting skill before you are able to use them.
 <tr>
 <td width="5%"><img src="../images/drying_rack.png"></td>
 <td width="10%"><b>Tanning rack</b></td>
-<td>Made with 8 wood logs. Used to turn animal pelts into leather sheets. Skin the carcass with the knife on Grab intent, cut the hair off of the pelt, then hang it to dry on the rack. One extra leather sheet is obtained this way, compared to skinning the carcass directly for leather.</td>
+<td>Made with 8 wood logs, with Resource Processing required where faction research applies. Put a held stack of washed wet hides on the rack and allow 300 ticks, normally 30 seconds, to dry. Remove the contents with an empty hand; removing wet hides cancels drying without consuming them. A restored wet batch starts a fresh full drying interval after a server restart. The rack produces dry hides, which need bark tannin to become leather. See the full <b><a href="../Miscellaneous_Crafting.md#leather-tanning">Leather tanning</a></b> process.</td>
 </tr>
 </tbody>
 </table>
