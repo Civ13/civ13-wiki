@@ -117,7 +117,7 @@ Pioneers, only the Blacksmith can use the anvil.
 <tr>
 <td><img src="../images/e.png"> <img src="../images/bronze_knife.png"> <img src="../images/steel_knife.png"></td>
 <td><b>Knife</b></td>
-<td>Made with either 4 bone pieces or 1 unit of manifold materials: stone, copper, bronze, iron, steel, tin, even gold, silver and diamonds. Metal knives are made via casting in the <b><a href="Guide_to_Metallurgy.md#molds">knife mold</a></b>. Used to cut trees, skin animals and stab enemies in a desperate situation. Used to cut wires and cut down curtains as well. The bone knife (the top one) is also a surgical tool in the earliest epochs, but for that refer to <b><a href="Guide_to_Medical#surgery">Surgery</a></b>. And check the <b><a href="Guide_to_Cooking.md#kitchen-implements">Guide to Cooking</a></b> for more culinary uses of the knife.</td>
+<td>Made with either 4 bone pieces or 1 unit of manifold materials: stone, copper, bronze, iron, steel, tin, even gold, silver and diamonds. Metal knives are made via casting in the <b><a href="Guide_to_Metallurgy.md#molds">knife mold</a></b>. Used to cut trees, skin animals and stab enemies in a desperate situation. Used to cut wires and cut down curtains as well. The bone knife (the top one) is also a surgical tool in the earliest epochs, but for that refer to <b><a href="Guide_to_Medical.md#surgery">Surgery</a></b>. And check the <b><a href="Guide_to_Cooking.md#kitchen-implements">Guide to Cooking</a></b> for more culinary uses of the knife.</td>
 </tr>
 <tr>
 <td><img src="../images/bone_hatchet.png"> <img src="../images/hatchet.png"></td>
@@ -127,7 +127,7 @@ Pioneers, only the Blacksmith can use the anvil.
 <tr>
 <td><img src="../images/hammer.png"> <img src="../images/clawhammer.png"></td>
 <td><b>Hammer</b></td>
-<td>Made with 5 wood logs. Used to deconstruct floors, fences, beds, chairs, tables, braziers, wooden roof supports and many other things - click something with a hammer to see whether it could be deconstructed. Also used to fix and unfix custom signs, paintings and mirrors in place. A clawhammer (the bottom one) is made with 3 iron ingots and functions as a modern and quicker variant of the hammer. Also, do not be surprised if you see your local <b><a href="Guide_to_Cooking#kitchen-implements">chef</a></b> brandishing one.</td>
+<td>Made with 5 wood logs. Used to deconstruct floors, fences, beds, chairs, tables, braziers, wooden roof supports and many other things - click something with a hammer to see whether it could be deconstructed. Also used to fix and unfix custom signs, paintings and mirrors in place. A clawhammer (the bottom one) is made with 3 iron ingots and functions as a modern and quicker variant of the hammer. Also, do not be surprised if you see your local <b><a href="Guide_to_Cooking.md#kitchen-implements">chef</a></b> brandishing one.</td>
 </tr>
 <tr>
 <td><img src="../images/bone_shovel.png"> <img src="../images/shovel.png"></td>
@@ -252,7 +252,7 @@ See [Harvesting dead animals](Guide_to_Ranching.md#harvesting-dead-animals) for 
 </tr>
 <tr>
 <td><img src="../images/bone.png"></td>
-<td><b><a href="Full_Crafting_List#bone">Bone</a></b></td>
+<td><b><a href="../Full_Crafting_List.md#bone">Bone</a></b></td>
 <td>Supported mammals give bone through either harvesting intent, with yield based on size. A material for primitive tools and weapons.</td>
 </tr>
 <tr>
@@ -285,12 +285,12 @@ build barricades and walls. Refer to the
 <tr>
 <td><img src="../images/dirt_pile.png"></td>
 <td><b>Dirt</b></td>
-  <td>Used to produce <b><a href="Full_Crafting_List#clay">Clay</a></b> and to construct dirt walls and barricades. To produce clay, pour water from a container onto a dirt pile, 10 units of water per pile.</td>
+  <td>Used to produce <b><a href="../Full_Crafting_List.md#clay">Clay</a></b> and to construct dirt walls and barricades. To produce clay, pour water from a container onto a dirt pile, 10 units of water per pile.</td>
 </tr>
 <tr>
 <td><img src="../images/sand_pile.png"></td>
 <td><b>Sand</b></td>
-  <td>Used to produce <b><a href="Full_Crafting_List#glass">Glass</a></b> sheets via firing in the campfire and ovens.</td>
+  <td>Used to produce <b><a href="../Full_Crafting_List.md#glass">Glass</a></b> sheets via firing in the campfire and ovens.</td>
 </tr>
 <tr>
 <td><img src="../images/snow_pile.png"></td>
@@ -334,12 +334,12 @@ holding a hammer in the other hand.
 <td><img src="../images/ore_uranium.png"></td>
 </tr>
 <tr align="center">
-<td><b><a href="Full_Crafting_List#copper">Copper</a></b></td>
-<td><b><a href="Full_Crafting_List#tin">Tin</a></b></td>
-<td><b><a href="Full_Crafting_List#iron">Iron</a></b></td>
-<td><b><a href="Full_Crafting_List#lead">Lead</a></b></td>
-<td><b><a href="Full_Crafting_List#gold">Gold</a></b></td>
-<td><b><a href="Full_Crafting_List#silver">Silver</a></b></td>
+<td><b><a href="../Full_Crafting_List.md#copper">Copper</a></b></td>
+<td><b><a href="../Full_Crafting_List.md#tin">Tin</a></b></td>
+<td><b><a href="../Full_Crafting_List.md#iron">Iron</a></b></td>
+<td><b><a href="../Full_Crafting_List.md#lead">Lead</a></b></td>
+<td><b><a href="../Full_Crafting_List.md#gold">Gold</a></b></td>
+<td><b><a href="../Full_Crafting_List.md#silver">Silver</a></b></td>
 <td><b>Mercury</b></td>
 <td><b>Platinum</b></td>
 <td><b>Uranium</b></td>
@@ -362,9 +362,9 @@ holding a hammer in the other hand.
 <td><img src="../images/ore_obsidian.png"><img src="../images/sheet_obsidian.png"></td>
 </tr>
 <tr align="center">
-<td><b><a href="Full_Crafting_List#stone">Stone</a></b></td>
-<td><b><a href="Full_Crafting_List#sandstone">Sandstone*</a></b></td>
-<td><b><a href="Full_Crafting_List#marble">Marble</a></b></td>
+<td><b><a href="../Full_Crafting_List.md#stone">Stone</a></b></td>
+<td><b><a href="../Full_Crafting_List.md#sandstone">Sandstone*</a></b></td>
+<td><b><a href="../Full_Crafting_List.md#marble">Marble</a></b></td>
 <td><b>Mineral coal</b></td>
 <td><b>Saltpeter</b></td>
 <td><b>Sulphur</b></td>
@@ -937,7 +937,7 @@ There are two kinds of refinery - petroleum and biofuel.
 <td width="5%"><img src="../images/bakelizer.png"></td><td>
 <b>Bakelizer</b></td>
 <td><b>Production rate:</b> every 5 units of raw petroleum => 1 plastic sheet per 1 minute</td><td>
-Made with 18 steel sheets. Used to produce <b><a href="Full_Crafting_List#plastic">Plastic</a></b> from raw petroleum.</td>
+Made with 18 steel sheets. Used to produce <b><a href="../Full_Crafting_List.md#plastic">Plastic</a></b> from raw petroleum.</td>
 </tr>
 </tbody>
 </table>
@@ -1003,8 +1003,8 @@ electrical cables.
 <tbody>
 <tr>
 <td width="5%"><img src="../images/electronics.png"></td>
-<td width="10%"><b><a href="Full_Crafting_List#electronics">Electronic circuits</a></b></td>
-<td>Electronic circuits (or electronics) are made from copper and iron (requires 2.2 of the crafting skill). Hold copper ingots in the active hand and iron ingots in the off-hand. Click copper ingots and choose "electronic circuits". Electronics are used to assemble various devices, such as <b><a href="Guide_to_Communications">phones and radios</a></b>, cameras, the <b><a href="Guide_to_Radiation">Geiger counter</a></b>, and the TV set.</td>
+<td width="10%"><b><a href="../Full_Crafting_List.md#electronics">Electronic circuits</a></b></td>
+<td>Electronic circuits (or electronics) are made from copper and iron (requires 2.2 of the crafting skill). Hold copper ingots in the active hand and iron ingots in the off-hand. Click copper ingots and choose "electronic circuits". Electronics are used to assemble various devices, such as <b><a href="Guide_to_Communications.md">phones and radios</a></b>, cameras, the <b><a href="Guide_to_Radiation.md">Geiger counter</a></b>, and the TV set.</td>
 </tr>
 </tbody>
 </table>

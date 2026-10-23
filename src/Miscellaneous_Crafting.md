@@ -16,9 +16,12 @@ Finished leather you already own remains usable without further processing.
   Adult male and female turkeys each give **1 raw hide piece**; turkey chicks
   give **no hide**. Species pelts retain their existing yields and uses.
 - A held sharp tool, such as a knife, for scraping.
-- A held, open liquid vessel, such as a bucket or suitable pot, containing water
-  or tannin as required below. A closed vessel or one outside your hands cannot
-  be used for these steps.
+- A held, open **bucket or suitable liquid pot** containing water or tannin as
+  required below. Washing, tanning and bark extraction accept the game's
+  glass-vessel family, which includes buckets and liquid pots regardless of
+  their material. **Drinking mugs, including the wooden mug, do not work for
+  these steps even when open and filled.** A closed vessel or one outside your
+  hands also cannot be used.
 - A [tanning rack](guides/Guide_to_Crafting.md#tanning-rack), made with **8 wood
   logs** in the ordinary wood catalog. Resource Processing is required where
   faction research applies; mode and crafting restrictions still apply.
@@ -71,7 +74,7 @@ construction recipe and research requirement.
 <tr>
 <td width="5%"><img src="images/candle_lard.png"></td>
 <td><b>Lard candle</b></td>
-<td>Fill a vessel with at least 5u of lard (made from <b><a href="Guide_to_Crafting#animals">animal fat</a></b>), then click the vessel with rope (1 rope per 1 candle; rope is made from <b><a href="Guide_to_Farming">flax and cotton</a></b>. Lit with torches and matches. A lard candle lasts about 30-40 minutes.</td>
+<td>Fill a vessel with at least 5u of lard (made from <b><a href="guides/Guide_to_Crafting.md#animals">animal fat</a></b>), then click the vessel with rope (1 rope per 1 candle; rope is made from <b><a href="guides/Guide_to_Farming.md">flax and cotton</a></b>. Lit with torches and matches. A lard candle lasts about 30-40 minutes.</td>
 </tr>
 </tbody>
 </table>
@@ -82,7 +85,7 @@ construction recipe and research requirement.
 <tr>
 <td width="5%"><img src="images/soap_lard.png"></td>
 <td><b>Lard soap</b></td>
-<td>To make 1 soap bar, mix 20u of lard and 2u of lye (obtained from <b><a href="Guide_to_Crafting#wood">wood ash</a></b>) in a vessel like a bucket, a barrel etc.</td>
+<td>To make 1 soap bar, mix 20u of lard and 2u of lye (obtained from <b><a href="guides/Guide_to_Crafting.md#wood">wood ash</a></b>) in a vessel like a bucket, a barrel etc.</td>
 </tr>
 </tbody>
 </table>
