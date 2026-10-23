@@ -234,11 +234,15 @@ If you simply log off, your character will be left unconscious and helpless, lyi
 
 To avoid that, go to sleep properly:
 
-- Stand over a bed or buckle yourself to a leather bedroll (no need to buckle to beds). **Do not have anything in your hands — you will lose it permanently!**
+- Stand over a bed or leather bedroll; buckling is not required. **Store held items before sleeping.** An ordinary droppable item in the active hand is dropped at your starting location before the body moves, so leaving it there can expose it to other players.
 - Type `sleep` in chat (without "say") or click "Sleep" on the IC tab.
-- Wait two minutes to be teleported to a safe zone.
-- Sleep tight. Now you can log off. If you go to sleep with a full stomach (100% food and water), your character will last about three RL days. All things you have on yourself will be safe, **except that you drop whatever you have in your hands, leaving it in the sleep zone!**
-- To wake up, type `wake-up` (without "say") or click "Wake Up" on the IC tab. You will be teleported to the spot where you went to sleep.
+- Remain connected and complete the two-minute action on the bed. Wait until protected sleep has actually started before logging off.
+- Routine hunger and thirst do not decrease during protected sleep. Ordinary disconnection or unconsciousness is different and does not provide this protection.
+- To wake up, type `wake-up` (without "say") or click "Wake Up" on the IC tab. Waking takes 30 seconds and returns you to the spot where you went to sleep. If the return cannot complete safely, protection remains active; wait for any save or load to finish, then try again.
+
+Sleep is unavailable on Voyage. Disease, fleas in worn clothing or hygiene of
+80 or less prevent entry. Wait for an active world save or load to finish before
+sleeping or waking.
 
 You can also save someone else if they faint in the middle of the street. **Buckling to a bed slows the increase of thirst and hunger**, so the buckled person will live longer and even indefinitely if cared for with food and water regularly.
 
