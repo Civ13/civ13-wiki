@@ -92,4 +92,5 @@ checkout of the base; its generated revision manifest alone is not a content pin
    do not merge or trigger deployment as part of the held proposal.
 
 The existing wiki workflow builds PRs without deployment. Master pushes can
-deploy. This local branch is intentionally not pushed pending parent review.
+deploy. Keep this proposal in draft for parent review; it does not promote the
+held source edits or establish public availability.
