@@ -97,7 +97,7 @@ Some inventions (Bronze Working, Iron Smithing, Gunpowder, Steam Power, Electric
 
 [Research notes](#research-trade-goods-notes-and-books) still help on these techs, since they grant ticks toward the study half.
 
-**These are the era-changing capstones.** The first time *any* faction completes one, the **whole world advances into that era** — announced server-wide (*"The discovery of [node] by [faction] sends the world into the [era]"*) — and every faction gets that era's baseline techs for free. Because that's a momentous, everyone-affecting event, their **passive tick cost is 5× a normal node's** (the tick numbers in the reference table below are the pre-multiplier base values).
+**These are the era-changing capstones.** The first time *any* faction completes one ahead of the current era, the **whole world advances into that era**, with a server-wide announcement. Existing factions retain their founding Main-tree baseline; they must earn later nodes. New factions receive the Main-tree baseline of their founding era, while factionless players follow the current Main-tree baseline. Specialist trees do not gain automatic completion. Capstones have a **passive tick cost of 5× the listed base cost** (the tick numbers in the reference table below are the pre-multiplier base values).
 
 ### Studying samples (any Analysis/Prototype node)
 
@@ -173,14 +173,14 @@ The first bonus slot costs 300 silver-equivalent, the second costs 600, the thir
 
 ## Full node reference
 
-**Legend:** *Era* = the age at which this node becomes free baseline research for everyone. *Ticks* = total cost for passive study (irrelevant for Prototype nodes, which can also complete instantly). *Min Tier* = lowest bench tier that can work this node.
+**Legend:** *Era* = the node's era tier, used for Main-tree baseline eligibility under the rules above; specialist nodes must be earned. *Ticks* = base passive study cost; Prototype nodes require **5× this cost plus their prototype item**. *Min Tier* = lowest bench tier that can work this node. Era tier alone does not complete research or guarantee a recipe is available in the active catalog.
 
 ### Industrial layer
 
 #### Toolmaking
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Basic Toolmaking | 0 | 60 | 0 | Analysis | — |
+| Basic Toolmaking | 0 | 60 | 0 | Analysis | - |
 | Iron Tools | 2 | 130 | 1 | Analysis | Basic Toolmaking |
 | Machined Tools | 4 | 200 | 3 | Analysis | Iron Tools, Steelmaking |
 | Power Tools | 6 | 270 | 5 | Analysis | Machined Tools, Electricity |
@@ -188,7 +188,7 @@ The first bonus slot costs 300 silver-equivalent, the second costs 600, the thir
 #### Metallurgy
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Bronze Working | 1 | 142 | 0 | **Prototype** (cast axehead mold) | — |
+| Bronze Working | 1 | 142 | 0 | **Prototype** (cast axehead mold) | - |
 | Iron Smithing | 2 | 195 | 1 | **Prototype** (ingot mold) | Bronze Working |
 | Steelmaking | 4 | 200 | 3 | Analysis | Iron Smithing |
 | Alloys | 6 | 270 | 5 | Analysis | Steelmaking |
@@ -196,19 +196,34 @@ The first bonus slot costs 300 silver-equivalent, the second costs 600, the thir
 #### Construction
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Stone Masonry | 1 | 95 | 0 | Analysis | — |
-| Medieval Construction | 2 | 130 | 1 | Analysis | Stone Masonry |
-| Imperial Architecture | 3 | 165 | 2 | Analysis | Medieval Construction |
+| Primitive Construction | 0 | 60 | 0 | Analysis | - |
+| Stone Masonry | 1 | 95 | 0 | Analysis | Primitive Construction |
+| Brickmaking | 2 | 130 | 1 | Analysis | Stone Masonry |
+| Imperial Architecture | 3 | 165 | 2 | Analysis | Brickmaking |
 | Reinforced Concrete | 4 | 200 | 3 | Analysis | Imperial Architecture, Steelmaking |
 | Modern Construction | 6 | 270 | 5 | Analysis | Reinforced Concrete |
+
+#### Culture & Faith
+| Node | Era | Ticks | Min Tier | Mode | Prerequisites |
+|---|---|---|---|---|---|
+| Ritual & Worship | 0 | 60 | 0 | Analysis | - |
+| Regalia & Heraldry | 0 | 60 | 0 | Analysis | Weaving |
+| Monuments & Statuary | 2 | 130 | 1 | Analysis | Stone Masonry, Ritual & Worship |
+| Fine Arts & Leisure | 3 | 165 | 2 | Analysis | Monuments & Statuary |
 
 #### Production
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Pottery & Storage | 0 | 60 | 0 | Analysis | — |
-| Workshops | 2 | 130 | 1 | Analysis | Pottery & Storage |
-| Printing & Currency | 3 | 165 | 2 | Analysis | Workshops |
-| Factories | 4 | 200 | 3 | Analysis | Printing & Currency, Steam Power |
+| Pottery & Cookware | 0 | 60 | 0 | Analysis | - |
+| Cooperage & Containers | 1 | 95 | 0 | Analysis | Basic Toolmaking |
+| Resource Processing | 1 | 95 | 0 | Analysis | Basic Toolmaking |
+| Trade & Coinage | 1 | 95 | 0 | Analysis | - |
+| Workshops | 2 | 130 | 1 | Analysis | Pottery & Cookware |
+| Glassworking | 2 | 130 | 1 | Analysis | Pottery & Cookware |
+| Papermaking | 2 | 130 | 1 | Analysis | - |
+| Printing Press | 3 | 165 | 2 | Analysis | Papermaking |
+| Optics & Instruments | 3 | 165 | 2 | Analysis | Glassworking |
+| Factories | 4 | 200 | 3 | Analysis | Printing Press, Steam Power |
 | Assembly Line | 5 | 235 | 4 | Analysis | Factories |
 | Automation | 7 | 305 | 6 | Analysis | Assembly Line, Electricity |
 | Digital Computing | 8 | 510 | 7 | **Prototype** (Cold War-era camera) | Automation, Electricity |
@@ -216,22 +231,21 @@ The first bonus slot costs 300 silver-equivalent, the second costs 600, the thir
 #### Textiles (gateway)
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Weaving | 0 | 60 | 0 | Analysis | — |
+| Weaving | 0 | 60 | 0 | Analysis | - |
 
 **Weaving** (basic) stays on the Main tree as the textiles gateway — it covers basic weaving and the basic tailoring tools (e.g. the loom). The advanced tailoring nodes moved to the standalone **Tailoring** tree (see below).
 
 #### Furniture
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Basic Furniture | 0 | 60 | 0 | Analysis | — |
+| Basic Furniture | 0 | 60 | 0 | Analysis | - |
 | Fine Furniture | 2 | 130 | 1 | Analysis | Basic Furniture |
 | Manufactured Furniture | 4 | 200 | 3 | Analysis | Fine Furniture |
-| Modern Furnishings | 6 | 270 | 5 | Analysis | Manufactured Furniture |
 
 #### Power
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Watermills | 2 | 130 | 1 | Analysis | — |
+| Watermills | 3 | 165 | 2 | Analysis | - |
 | Steam Power | 4 | 300 | 3 | **Prototype** (machined handle) | Watermills |
 | Electricity | 5 | 352 | 4 | **Prototype** (cable coil) | Steam Power |
 | Combustion Engine | 5 | 235 | 4 | Analysis | Steam Power, Steelmaking |
@@ -243,7 +257,7 @@ Electricity unlocks the powered soil sifter and river concentrator. Hydraulic Fr
 #### Vehicles
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Carts | 1 | 95 | 0 | Analysis | — |
+| Carts | 1 | 95 | 0 | Analysis | - |
 | Wagons & Ships | 3 | 165 | 2 | Analysis | Carts |
 | Rail & Steam | 4 | 200 | 3 | Analysis | Wagons & Ships, Steam Power |
 | Automobiles | 5 | 235 | 4 | Analysis | Rail & Steam, Combustion Engine |
@@ -252,14 +266,13 @@ Electricity unlocks the powered soil sifter and river concentrator. Hydraulic Fr
 #### Infrastructure
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Roads | 1 | 95 | 0 | Analysis | — |
-| Paved Infrastructure | 3 | 165 | 2 | Analysis | Roads |
+| Paved Infrastructure | 3 | 165 | 2 | Analysis | Stone Masonry |
 | Utilities | 5 | 235 | 4 | Analysis | Paved Infrastructure, Electricity |
 
 #### Agriculture (gateway)
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Basic Agriculture | 1 | 95 | 0 | Analysis | — |
+| Basic Agriculture | 1 | 95 | 0 | Analysis | - |
 
 **Basic Agriculture** is the Bronze Age gateway for farming, and lives in the **Main** tree: completing it unlocks the basic farming tools (plough, iron plough, planting trowel, pitchfork, shears, berries gatherer, produce basket, seed collector) *and* opens the standalone **Agriculture** tree (see below).
 
@@ -267,24 +280,27 @@ The bench interface presents research as switchable **tabs** — the Main tree f
 
 ### Specialized tree: Tailoring
 
-*Placeholder — carried over wholesale from the old Textiles and Armor lines and due a proper rework later.* Everything past the two basic gateways (Weaving and Padded Armor, which stay on Main) lives here, split into two layers: **Textiles** and **Armour**. All the recipes formerly gated on these nodes come with them unchanged.
+The Tailoring tree contains advanced clothing and armour research, split into two layers: **Textiles** and **Armour**. Its Main-tree gateways are Weaving and Primitive Armor.
 
 **Textiles** (gateway: Weaving)
 
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Tailoring | 1 | 95 | 0 | Analysis | Weaving |
+| Classical Dress | 1 | 95 | 0 | Analysis | Weaving |
+| Furriery | 1 | 95 | 0 | Analysis | Weaving |
+| Tailoring | 2 | 130 | 1 | Analysis | Classical Dress |
 | Fine Garments | 3 | 165 | 2 | Analysis | Tailoring |
+| Haberdashery | 3 | 165 | 2 | Analysis | Tailoring |
 | Textile Mills | 4 | 200 | 3 | Analysis | Fine Garments, Steam Power |
-| Synthetic Fabrics | 7 | 305 | 6 | Analysis | Textile Mills |
+| Ready-Made Clothing | 5 | 235 | 4 | Analysis | Textile Mills |
+| Synthetic Fabrics | 7 | 305 | 6 | Analysis | Ready-Made Clothing |
 
-**Armour** (gateway: Padded Armor)
+**Armour** (gateway: Primitive Armor)
 
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Mail & Plate | 2 | 130 | 1 | Analysis | Padded Armor |
-| Fortifications | 3 | 165 | 2 | Analysis | Mail & Plate, Imperial Architecture |
-| Trench Warfare | 5 | 235 | 4 | Analysis | Fortifications |
+| Mail & Plate | 2 | 130 | 1 | Analysis | Primitive Armor |
+| Trench Warfare | 5 | 235 | 4 | Analysis | Mail & Plate |
 | Modern Armor | 7 | 305 | 6 | Analysis | Trench Warfare, Alloys |
 
 ### Specialized tree: Agriculture
@@ -303,16 +319,22 @@ Its own standalone tab, reachable once Basic Agriculture (in the Main tree) is r
 #### Melee
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Stone Arms | 0 | 60 | 0 | Analysis | — |
-| Bronze Weapons | 1 | 95 | 0 | Analysis | Stone Arms |
-| Steel Blades | 2 | 130 | 1 | Analysis | Bronze Weapons, Iron Smithing |
-| Bayonets | 3 | 165 | 2 | Analysis | Steel Blades |
+| Stone Arms | 0 | 60 | 0 | Analysis | - |
+| Bronze Arms & Armor | 1 | 95 | 0 | Analysis | Stone Arms |
+| Steel Blades | 2 | 130 | 1 | Analysis | Bronze Arms & Armor, Iron Smithing |
 
 #### Archery
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Archery | 0 | 60 | 0 | Analysis | — |
+| Archery | 0 | 60 | 0 | Analysis | - |
 | Crossbows | 2 | 130 | 1 | Analysis | Archery |
+
+#### Order & Defense
+| Node | Era | Ticks | Min Tier | Mode | Prerequisites |
+|---|---|---|---|---|---|
+| Law & Order | 1 | 95 | 0 | Analysis | - |
+| Field Defenses | 0 | 60 | 0 | Analysis | - |
+| Fortifications | 3 | 165 | 2 | Analysis | Field Defenses, Stone Masonry |
 
 #### Firearms
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
@@ -320,17 +342,16 @@ Its own standalone tab, reachable once Basic Agriculture (in the Main tree) is r
 | Gunpowder | 3 | 248 | 2 | **Prototype** (pouch of gunpowder) | Iron Smithing |
 | Gunsmithing | 3 | 200 | 2 | Analysis | Gunpowder |
 | Rifling | 4 | 200 | 3 | Analysis | Gunpowder, Steelmaking |
-| Cartridge Ammunition | 5 | 235 | 4 | Analysis | Rifling |
-| Bolt-Action | 6 | 270 | 5 | Analysis | Cartridge Ammunition |
-| Automatic Weapons | 7 | 305 | 6 | Analysis | Bolt-Action |
-| Modern Firearms | 8 | 340 | 7 | Analysis | Automatic Weapons |
+| Cartridge Firearms | 5 | 235 | 4 | Analysis | Rifling |
+| Self-Loading Firearms | 6 | 270 | 5 | Analysis | Cartridge Firearms |
+| Automatic Weapons | 7 | 305 | 6 | Analysis | Self-Loading Firearms |
 
-*Gunsmithing also gates the shovel's "dig a trench" action.*
+*Field Defenses gates the shovel's "dig a trench" action in tech-tree mode. Gunsmithing is a separate firearm research node.*
 
 #### Artillery
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Siege Engines | 2 | 130 | 1 | Analysis | — |
+| Siege Engines | 2 | 130 | 1 | Analysis | - |
 | Cannon | 3 | 165 | 2 | Analysis | Siege Engines, Imperial Architecture |
 | Field Artillery | 4 | 200 | 3 | Analysis | Cannon, Steelmaking |
 | Mechanized Warfare | 6 | 405 | 5 | **Prototype** (tank shell casing) | Field Artillery, Combustion Engine, Steelmaking |
@@ -339,32 +360,31 @@ Its own standalone tab, reachable once Basic Agriculture (in the Main tree) is r
 #### Armor (gateway)
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Padded Armor | 0 | 60 | 0 | Analysis | — |
+| Primitive Armor | 0 | 60 | 0 | Analysis | - |
 
-**Padded Armor** (basic) stays on the Main tree as the armour gateway. The advanced armour nodes moved to the standalone **Tailoring** tree (see below).
+**Primitive Armor** stays on the Main tree as the armour gateway. Advanced armour nodes are in the standalone **Tailoring** tree above.
 
 ### Health layer
 
 #### Medicine
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Herbalism | 0 | 60 | 0 | Analysis | — |
+| Herbalism | 0 | 60 | 0 | Analysis | - |
 | Apothecary | 2 | 130 | 1 | Analysis | Herbalism |
-| Pharmacology | 5 | 235 | 4 | Analysis | Apothecary, Printing & Currency |
+| Pharmacology | 5 | 235 | 4 | Analysis | Apothecary, Printing Press |
 | Modern Medicine | 7 | 305 | 6 | Analysis | Pharmacology |
 
 #### Surgery
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
 | Field Surgery | 1 | 95 | 0 | Analysis | Bronze Working |
-| Surgical Theory | 3 | 165 | 2 | Analysis | Field Surgery, Printing & Currency |
+| Surgical Theory | 3 | 165 | 2 | Analysis | Field Surgery, Printing Press |
 | Anesthetic Surgery | 5 | 235 | 4 | Analysis | Surgical Theory |
-| Modern Surgery | 7 | 305 | 6 | Analysis | Anesthetic Surgery |
 
 #### Sanitation
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Hygiene | 1 | 95 | 0 | Analysis | — |
+| Hygiene | 1 | 95 | 0 | Analysis | - |
 | Sanitation | 3 | 165 | 2 | Analysis | Hygiene |
 | Germ Theory | 5 | 235 | 4 | Analysis | Sanitation |
 | Public Health | 7 | 305 | 6 | Analysis | Germ Theory |
