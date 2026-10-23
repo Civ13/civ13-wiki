@@ -4,7 +4,7 @@
 
 Use a **held sharp tool** on an adjacent dead animal. **Harm intent** performs quick butchering in **30 ticks** (normally three seconds); **Grab intent** skins and butchers in **100 ticks** (normally ten seconds). Moving, changing your active hand, becoming incapacitated, disconnecting or losing the corpse/tool cancels. Only one harvesting action can claim a corpse at a time. Successful harvesting removes the corpse.
 
-Both routes give the same meat and food byproducts. Grab selects species pelts; quick Harm butchering gives leather for supported mammals. Normal meat yield follows size: minuscule **1**, tiny **2**, small **3**, medium **4**, large **5**, huge **8** separate portions. Existing pig-leg, chicken-carcass, poisonous-frog, crab, zombie and mouse outputs remain distinct.
+Both routes give the same meat and food byproducts. Grab selects species pelts; quick Harm butchering gives untanned raw hides for supported mammals. Animals do not provide finished leather. [Leather tanning](../Miscellaneous_Crafting.md#leather-tanning) turns raw hides or prepared pelts into leather. Normal meat yield follows size: minuscule **1**, tiny **2**, small **3**, medium **4**, large **5**, huge **8** separate portions. Existing pig-leg, chicken-carcass, poisonous-frog, crab, zombie and mouse outputs remain distinct.
 
 The mammal products below apply to cattle, pigs/boars, goats, sheep, deer, bison, camels, rabbits, monkeys, cats, bears, wolves, foxes, gorillas, panthers, sabertooths, horses, dogs, mammoths and bats, including their subtypes. Let **Y** be the size yield above.
 
@@ -14,10 +14,12 @@ The mammal products below apply to cattle, pigs/boars, goats, sheep, deer, bison
 | Stomach | Cow/pig/goat/sheep processing stomach; other mammals with Y at least 3 give one food stomach |
 | Sinew | One stack of Y minus 2, minimum 1 and maximum 4; only when Y is at least 3 |
 | Bone | One stack of Y minus 2, minimum 1 |
-| Quick-butchering leather | One stack of Y minus 2, minimum 1 |
+| Quick-butchering raw hide | One stack of Y minus 2, minimum 1 and maximum 6 |
 | Fat | Up to two portions when the animal's fat rules allow it |
 
-Chicken and rooster also give one giblets portion. Other nonmammals do not gain mammal offal, sinew or generic bone/leather; existing reptile pelts remain available. Pelts depend on species: lions give 3, gladiator lions give none, and non-white sabertooths give 6. White wolves and giant gorillas retain their special pelts.
+Chicken and rooster also give one giblets portion. Other nonmammals do not gain mammal offal, sinew or generic bone; existing reptile pelts remain available. Adult male and female turkeys each provide **1 raw hide piece** through either harvesting route; turkey chicks provide **no hide**. This skin yield does not grant turkeys mammalian organs, sinew, bones or fat. Pelts depend on species: lions give 3, gladiator lions give none, and non-white sabertooths give 6. White wolves and giant gorillas retain their special pelts.
+
+Keep species pelts for their existing fur clothing and pelt recipes, or scrape one pelt piece to start [tanning](../Miscellaneous_Crafting.md#leather-tanning). Each processed piece yields **1 leather sheet**; tanning does not multiply a piece into several sheets.
 
 **Offal is raw, decaying food**, not a surgical transplant organ. Each portion starts with 2 protein and accepts existing meat processing. Cow, pig, goat and sheep stomachs retain their sausage/rennet uses. See [Cooking](Guide_to_Cooking.md) for preparation and preservation.
 
