@@ -156,6 +156,18 @@ latejoin/paradrop or squad routes, and supplies separately. An area named "Suppl
 Arrival" does not create a supply landmark or delivery system; trace the applicable
 [supply code](https://github.com/Civ13/Civ13/blob/fa363b8a01ed7d936c10a6303ce1be4c26d82ab0/code/modules/1713/supplysystem.dm).
 
+### Initial arrivals on persistence maps
+
+Author initial persistence arrival markers on safe, walkable ground at the playable
+map boundary whenever possible. If the boundary is water or blocked, choose the
+nearest suitable ground fallback. Identify the playable ground surface from the
+authored layout; neither `z = 1` nor the maximum z-level establishes the surface.
+
+This is an authoring rule; automatic enforcement is not implemented. Changes to
+default arrivals must not relocate existing saved characters or overwrite durable
+custom arrivals. Future configurable default routes are planned to use immigration
+as their lore framing, rather than moving characters who already inhabit the world.
+
 ## 7. Plan saved-world compatibility before changing layout
 
 An authored `.dmm` is the starting layout; a persistent save is runtime state.
@@ -236,6 +248,7 @@ These are contributor design boundaries, not instructions for enabled map featur
 | --- | --- |
 | Optional elevation (planned default `0`) | Merged field/API and verified consumers; no current altitude setting is prescribed here |
 | Separate logical geography and durable zone/spawn registry | Published, reviewed implementation and migration contract; native `/area` remains one membership per turf |
+| Configurable default arrival routes | Reviewed routing and migration contract preserving saved character locations and durable custom arrivals; immigration is the planned lore framing, not an existing automatic relocation feature |
 | Generated seasonal ground snow | Snow proposal [#3300](https://github.com/Civ13/Civ13/pull/3300) accepted and available; its proposed dirt/grass accumulation and shovel restoration are distinct from authored snow |
 | Saved-world-to-map export | Implemented and reviewed exporter; planned defaults exclude player/runtime/private state and preserve original saves. No automatic save-to-compiled-map workflow is available here |
 | Sharded travel | A supported server travel protocol; it is not established by adjacent z-levels or an area name |
