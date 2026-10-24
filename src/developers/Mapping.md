@@ -93,6 +93,19 @@ when designing that resource chain.
 Numbered z-levels can represent different places. Do not assume `z + 1` is the sky
 above a room or that two nearby levels are traversable.
 
+Identify each map's playable ground surface explicitly from its authored metadata
+and layout. A default surface may be on a native z-level greater than `1`: the
+authored outdoor playfield in [Gaia](https://github.com/Civ13/Civ13/blob/fa363b8a01ed7d936c10a6303ce1be4c26d82ab0/maps/nomads/nomads_gaia.dmm)
+is on z-level `2`, while [Europe](https://github.com/Civ13/Civ13/blob/fa363b8a01ed7d936c10a6303ce1be4c26d82ab0/maps/nomads/nomads_europe.dmm)
+uses `1`. Do not globally renumber maps to fit a convention or infer the surface
+from `z = 1`, `world.maxz` or a controller object's z-level.
+
+For a variable-height map, one default plane may not describe every region. Record
+an explicit region/coordinate-to-surface mapping where needed. This is a conceptual
+authoring standard; a general variable-surface API and automatic enforcement are
+not implemented. Native surface z identifies a grid plane, separately from physical
+elevation in metres and from the connections that permit travel between levels.
+
 The generic `GetAbove`/`GetBelow` helpers use an adjacent-level bitmask. The
 `map_data.New()` code that would fill it from `height` is commented out in
 [the helper implementation](https://github.com/Civ13/Civ13/blob/fa363b8a01ed7d936c10a6303ce1be4c26d82ab0/code/modules/multiz/helpers.dm).
@@ -162,6 +175,10 @@ Author initial persistence arrival markers on safe, walkable ground at the playa
 map boundary whenever possible. If the boundary is water or blocked, choose the
 nearest suitable ground fallback. Identify the playable ground surface from the
 authored layout; neither `z = 1` nor the maximum z-level establishes the surface.
+
+Resolve the intended surface at each arrival candidate and check actual supporting
+ground, the correct area, clearance and safe access. A matching z number alone does
+not make an arrival safe.
 
 This is an authoring rule; automatic enforcement is not implemented. Changes to
 default arrivals must not relocate existing saved characters or overwrite durable
