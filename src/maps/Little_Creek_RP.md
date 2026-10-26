@@ -1,5 +1,15 @@
 # Little Creek RP
 
+## Map layout
+
+<figure>
+<img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/tdm-static-067478b82c7a/1873__little_creek/little_creek__all_z_overview.png" width="680" height="552" loading="lazy" alt="Static sprite render of little_creek.dmm showing all authored layers: z=1, 2">
+<figcaption>Static map layout of <code>little_creek.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
+Full-resolution layers: <a href="../images/maps/tdm-static-067478b82c7a/1873__little_creek/little_creek__z01__full.png">z=1 (4480 × 6400 PNG)</a> · <a href="../images/maps/tdm-static-067478b82c7a/1873__little_creek/little_creek__z02__full.png">z=2 (4480 × 6400 PNG)</a>.
+</figcaption>
+</figure>
+
+
 In this mode, there is a bank which contains a large sum of gold. The
 West/East Side Gang must face off against The East/West Side Gang along
 with deputies and Law bringers(Townsfolk who assist the deputies)

@@ -1,5 +1,15 @@
 # Lights Out
 
+## Map layout
+
+<figure>
+<img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/tdm-static-067478b82c7a/special__lights_out/lights_out__all_z_overview.png" width="472" height="552" loading="lazy" alt="Static sprite render of lights_out.dmm showing all authored layers: z=1">
+<figcaption>Static map layout of <code>lights_out.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
+Full-resolution layers: <a href="../images/maps/tdm-static-067478b82c7a/special__lights_out/lights_out__z01__full.png">z=1 (7200 × 7200 PNG)</a>.
+</figcaption>
+</figure>
+
+
 <dmi-sprite src="https://raw.githubusercontent.com/civ13/civ13/master/icons/lobby/lights_out.dmi" state="lights_out" dir="south" animated="true" scale="1"></dmi-sprite>
 
 ## Overview
