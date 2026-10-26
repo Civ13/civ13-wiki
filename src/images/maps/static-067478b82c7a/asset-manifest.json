@@ -1,0 +1,642 @@
+{
+  "game_source_repository": "https://github.com/Civ13/Civ13",
+  "game_source_commit": "067478b82c7ad9f1b83759a221e6f22080ba865a",
+  "renderer": "Civ13 source-only Python/Pillow renderer 2.0",
+  "maps": [
+    {
+      "dmm": "maps/nomads/nomads_continental.dmm",
+      "dmm_sha256": "76ea3ae2f2e6688366354462a215ed19434c53a884ad0e0ee72665b7b4e8371f",
+      "page": "src/maps/Nomads_Maps.md",
+      "section": "Continental",
+      "all_z": [
+        1,
+        2
+      ],
+      "static_input_equivalence_receipt": "c5f6e2403a1f977d5869794847b9b33abb4471880c32cb371b323486fd455165",
+      "renderer_version": "2.0",
+      "layers": [
+        {
+          "z": 1,
+          "dimensions_px": [
+            6400,
+            12800
+          ],
+          "sha256": "0abe5955d138ec946481f5e1eda0d053cce80d26eec897e981151a0e7827bc98",
+          "file": "nomads_continental__z01__full.png"
+        },
+        {
+          "z": 2,
+          "dimensions_px": [
+            6400,
+            12800
+          ],
+          "sha256": "bdaa9993bfebf482e4fd93116f1b79c15b9d9df5c836a7c3d65c20ab8f17e682",
+          "file": "nomads_continental__z02__full.png"
+        }
+      ]
+    },
+    {
+      "dmm": "maps/nomads/nomads_europe.dmm",
+      "dmm_sha256": "d9c495f0312ac526c8afd7c7b255ca1b11f17dc04eff7dc850cc5d73b445af59",
+      "page": "src/maps/Nomads_Maps.md",
+      "section": "Europe",
+      "all_z": [
+        1
+      ],
+      "static_input_equivalence_receipt": "8f4f7a5a3e00f23382896cc1cfa3c70220ef61d8da02aeb26be35e8d515abdeb",
+      "renderer_version": "2.0",
+      "layers": [
+        {
+          "z": 1,
+          "dimensions_px": [
+            12000,
+            14304
+          ],
+          "sha256": "c312248520eb3cd32be46734cf497ea16b82aac16da07f39a20cbe92f394f648",
+          "file": "nomads_europe__z01__full.png"
+        }
+      ]
+    },
+    {
+      "dmm": "maps/nomads/nomads_ice_age.dmm",
+      "dmm_sha256": "c340fa1e9a209f2e11c98fcf7f9484108068db85c22b0d17cffd60c928ea8e6d",
+      "page": "src/maps/Nomads_Maps.md",
+      "section": "Ice Age",
+      "all_z": [
+        1
+      ],
+      "static_input_equivalence_receipt": "b768013ad705d903725eb7fe9d546cfb2dd578ae08bf6996996dbb14678e01f4",
+      "renderer_version": "2.0",
+      "layers": [
+        {
+          "z": 1,
+          "dimensions_px": [
+            9600,
+            9600
+          ],
+          "sha256": "2c5e0ee259fbea74ec4b728fe5258b1fca8165c33742a4b2fa4e2d7746f337df",
+          "file": "nomads_ice_age__z01__full.png"
+        }
+      ]
+    },
+    {
+      "dmm": "maps/nomads/nomads_island.dmm",
+      "dmm_sha256": "1a9877057638fa8584f68fe9c5bf3796be18963360d12423a2e2e99f2445e24a",
+      "page": "src/maps/Nomads_Maps.md",
+      "section": "Island",
+      "all_z": [
+        1,
+        2
+      ],
+      "static_input_equivalence_receipt": "c08b8a22586e2d3317ef261fca01aa9861e1d82da567b8da2cfd5524d26a1c57",
+      "renderer_version": "2.0",
+      "layers": [
+        {
+          "z": 1,
+          "dimensions_px": [
+            6400,
+            6400
+          ],
+          "sha256": "7d5d53b5f5331c903441128ae15be7b885c687803131ce3dc73da6dbc3015fc1",
+          "file": "nomads_island__z01__full.png"
+        },
+        {
+          "z": 2,
+          "dimensions_px": [
+            6400,
+            6400
+          ],
+          "sha256": "a146b5c3337b5260d22e9b0b68418c542b41ae83e361998b9df3025851bfe22e",
+          "file": "nomads_island__z02__full.png"
+        }
+      ]
+    },
+    {
+      "dmm": "maps/nomads/nomads_karafuto.dmm",
+      "dmm_sha256": "28d487adfd8e56f741248f1050633626bc38b497e6caecd26e7488946490e456",
+      "page": "src/maps/Nomads_Maps.md",
+      "section": "Karafuto",
+      "all_z": [
+        1,
+        2
+      ],
+      "static_input_equivalence_receipt": "7115011c7ddf494f893904c39b940aa0d91342ec6b0acbc773e347f226c1d7eb",
+      "renderer_version": "2.0",
+      "layers": [
+        {
+          "z": 1,
+          "dimensions_px": [
+            9600,
+            14400
+          ],
+          "sha256": "4c4c87318744c7f03c203ee44703052b967aa20de3b5a3999d1cc6ae405f1da5",
+          "file": "nomads_karafuto__z01__full.png"
+        },
+        {
+          "z": 2,
+          "dimensions_px": [
+            9600,
+            14400
+          ],
+          "sha256": "acfdf7c73b3136d776b0bdfe75905fe784ef408892776bd27d8218b0d1d075f7",
+          "file": "nomads_karafuto__z02__full.png"
+        }
+      ]
+    },
+    {
+      "dmm": "maps/nomads/nomads_mediterranean.dmm",
+      "dmm_sha256": "8440731427af15014d48de4bf1dffcb2b2818a0f856a5dcde5b24c468e2d9011",
+      "page": "src/maps/Nomads_Maps.md",
+      "section": "Mediterranean",
+      "all_z": [
+        1,
+        2
+      ],
+      "static_input_equivalence_receipt": "fd1e0ecc07fffd7bfc77243319ce91ca939ed1cc8a1e29c6303d6f3df0486016",
+      "renderer_version": "2.0",
+      "layers": [
+        {
+          "z": 1,
+          "dimensions_px": [
+            8000,
+            8000
+          ],
+          "sha256": "661d81343be194f691011c5bfc4979908b07589135aa5b1eeb03104d24ba136e",
+          "file": "nomads_mediterranean__z01__full.png"
+        },
+        {
+          "z": 2,
+          "dimensions_px": [
+            8000,
+            8000
+          ],
+          "sha256": "9abc8874c0f644e5d768cf0512b1b9bd7514b2a0fe804337ec785be0529a011c",
+          "file": "nomads_mediterranean__z02__full.png"
+        }
+      ]
+    },
+    {
+      "dmm": "maps/nomads/nomads_new_world.dmm",
+      "dmm_sha256": "1c15a5fe13861361a4bc7a57b038f5e94f68854c8aee94b1fcc49c8a6b2cfec5",
+      "page": "src/maps/Nomads_Maps.md",
+      "section": "New World",
+      "all_z": [
+        1,
+        2
+      ],
+      "static_input_equivalence_receipt": "585214d5ec48a941d08f59cbc048edfd9b4344a3b2b8d5ce242d9e31a07e27bf",
+      "renderer_version": "2.0",
+      "layers": [
+        {
+          "z": 1,
+          "dimensions_px": [
+            12608,
+            6400
+          ],
+          "sha256": "e659f882127ed7e037cd1a5c52d469f2abca4b1dce9638d5efc4c104f1558e1d",
+          "file": "nomads_new_world__z01__full.png"
+        },
+        {
+          "z": 2,
+          "dimensions_px": [
+            12608,
+            6400
+          ],
+          "sha256": "f5b08d012392738050b16744873322c8188955b5369a73173c211688449c3c25",
+          "file": "nomads_new_world__z02__full.png"
+        }
+      ]
+    },
+    {
+      "dmm": "maps/nomads/nomads_north_america.dmm",
+      "dmm_sha256": "e019bafca1b80b93748c5b7ecc13dbb3b7676c363218387498e2143d3269ede8",
+      "page": "src/maps/Nomads_Maps.md",
+      "section": "North America",
+      "all_z": [
+        1,
+        2
+      ],
+      "static_input_equivalence_receipt": "1f04fe5963ff4267cd3fe42580c22368c312e4bb6e76446a8e9185571ca29cbe",
+      "renderer_version": "2.0",
+      "layers": [
+        {
+          "z": 1,
+          "dimensions_px": [
+            14400,
+            9600
+          ],
+          "sha256": "385709af85fe6b80c2293725ce161239e3a273f50d71c53e2042f9a15cdf70f9",
+          "file": "nomads_north_america__z01__full.png"
+        },
+        {
+          "z": 2,
+          "dimensions_px": [
+            14400,
+            9600
+          ],
+          "sha256": "22306493ef26e6f511ba419277d1724cad054e7b45ef78b3e330e19050bc59e5",
+          "file": "nomads_north_america__z02__full.png"
+        }
+      ]
+    },
+    {
+      "dmm": "maps/nomads/nomads_pangea.dmm",
+      "dmm_sha256": "7ef7accc77ea5ebeb0725aacaf0fd1f1a479e69c28e62d67a5c20934ce3448e6",
+      "page": "src/maps/Nomads_Maps.md",
+      "section": "Pangea",
+      "all_z": [
+        1,
+        2
+      ],
+      "static_input_equivalence_receipt": "fd41fd7bb377a3b4707366fe99b7e2eadde3e0d100c1ae144fc71a909a1de220",
+      "renderer_version": "2.0",
+      "layers": [
+        {
+          "z": 1,
+          "dimensions_px": [
+            6400,
+            16000
+          ],
+          "sha256": "a445df6d6dc2b586b65ff97bcebb15dd308abef06874162d5a1afde0fa8f1966",
+          "file": "nomads_pangea__z01__full.png"
+        },
+        {
+          "z": 2,
+          "dimensions_px": [
+            6400,
+            16000
+          ],
+          "sha256": "13bf4d0c59527ff99fcfa3f8400f35f5aabe3a7b121f07e7888d034828aa783a",
+          "file": "nomads_pangea__z02__full.png"
+        }
+      ]
+    },
+    {
+      "dmm": "maps/nomads/nomads_wasteland_2.dmm",
+      "dmm_sha256": "8dbe99528d8f07ebce32382fbcd495675c83fadb3e9c2e7ace5477f9768ab730",
+      "page": "src/maps/Wasteland.md",
+      "section": "Wasteland 2",
+      "all_z": [
+        1,
+        2
+      ],
+      "static_input_equivalence_receipt": "9dcc961a5000ed5a4cfae9355efbdd009acf047cc8f575365890bc1c55201019",
+      "renderer_version": "2.0",
+      "layers": [
+        {
+          "z": 1,
+          "dimensions_px": [
+            7200,
+            7200
+          ],
+          "sha256": "0ce0f5ea6a51f651b97d52435b512962930f163e9a479571e7dde56060b9f780",
+          "file": "nomads_wasteland_2__z01__full.png"
+        },
+        {
+          "z": 2,
+          "dimensions_px": [
+            7200,
+            7200
+          ],
+          "sha256": "75c6354d45e74390ec9cc191cb0dff3a9c2f2d1b33ec781ea0982e7e5eee8a20",
+          "file": "nomads_wasteland_2__z02__full.png"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_continental/nomads_continental__all_z_overview.png",
+      "sha256": "8a982482216ff2d8f37d310ff10f406ccb505375eb3e01041b21bde46d4f8622",
+      "bytes": 263202,
+      "dimensions_px": [
+        960,
+        592
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_continental/nomads_continental__z01__full.png",
+      "sha256": "0abe5955d138ec946481f5e1eda0d053cce80d26eec897e981151a0e7827bc98",
+      "bytes": 1143383,
+      "dimensions_px": [
+        6400,
+        12800
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_continental/nomads_continental__z02__full.png",
+      "sha256": "bdaa9993bfebf482e4fd93116f1b79c15b9d9df5c836a7c3d65c20ab8f17e682",
+      "bytes": 7795405,
+      "dimensions_px": [
+        6400,
+        12800
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_europe/nomads_europe__all_z_overview.png",
+      "sha256": "2a986afad57d83548a5ae7c6367f45ee6e59ca85f2b861dd190524a2f33dc07b",
+      "bytes": 318742,
+      "dimensions_px": [
+        433,
+        592
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_europe/nomads_europe__z01__full.png",
+      "sha256": "c312248520eb3cd32be46734cf497ea16b82aac16da07f39a20cbe92f394f648",
+      "bytes": 11965167,
+      "dimensions_px": [
+        12000,
+        14304
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_ice_age/nomads_ice_age__all_z_overview.png",
+      "sha256": "a1753bce3c6ea87d94add71c7163070e9b562074bf2867a77a9f7f32313e4926",
+      "bytes": 67128,
+      "dimensions_px": [
+        510,
+        592
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_ice_age/nomads_ice_age__z01__full.png",
+      "sha256": "2c5e0ee259fbea74ec4b728fe5258b1fca8165c33742a4b2fa4e2d7746f337df",
+      "bytes": 5403800,
+      "dimensions_px": [
+        9600,
+        9600
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_island/nomads_island__all_z_overview.png",
+      "sha256": "2033eea4284c514751df284ef1330fcf5b35d8994faabfc484502ef18cf7d756",
+      "bytes": 370122,
+      "dimensions_px": [
+        960,
+        563
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_island/nomads_island__z01__full.png",
+      "sha256": "7d5d53b5f5331c903441128ae15be7b885c687803131ce3dc73da6dbc3015fc1",
+      "bytes": 500447,
+      "dimensions_px": [
+        6400,
+        6400
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_island/nomads_island__z02__full.png",
+      "sha256": "a146b5c3337b5260d22e9b0b68418c542b41ae83e361998b9df3025851bfe22e",
+      "bytes": 4056363,
+      "dimensions_px": [
+        6400,
+        6400
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_karafuto/nomads_karafuto__all_z_overview.png",
+      "sha256": "a5fe2c9406ce5e3b93f6499c31f1211b74280d1e55bbe82c545d23ec70e221d9",
+      "bytes": 236169,
+      "dimensions_px": [
+        960,
+        592
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_karafuto/nomads_karafuto__z01__full.png",
+      "sha256": "4c4c87318744c7f03c203ee44703052b967aa20de3b5a3999d1cc6ae405f1da5",
+      "bytes": 1611809,
+      "dimensions_px": [
+        9600,
+        14400
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_karafuto/nomads_karafuto__z02__full.png",
+      "sha256": "acfdf7c73b3136d776b0bdfe75905fe784ef408892776bd27d8218b0d1d075f7",
+      "bytes": 5854201,
+      "dimensions_px": [
+        9600,
+        14400
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_mediterranean/nomads_mediterranean__all_z_overview.png",
+      "sha256": "5370db84a2c71d28fbe2e55bab9210e38924b0c0567298a9578568f799609d0e",
+      "bytes": 365132,
+      "dimensions_px": [
+        960,
+        562
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_mediterranean/nomads_mediterranean__z01__full.png",
+      "sha256": "661d81343be194f691011c5bfc4979908b07589135aa5b1eeb03104d24ba136e",
+      "bytes": 855749,
+      "dimensions_px": [
+        8000,
+        8000
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_mediterranean/nomads_mediterranean__z02__full.png",
+      "sha256": "9abc8874c0f644e5d768cf0512b1b9bd7514b2a0fe804337ec785be0529a011c",
+      "bytes": 6546900,
+      "dimensions_px": [
+        8000,
+        8000
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_new_world/nomads_new_world__all_z_overview.png",
+      "sha256": "2a362d37371aa196369dc04920e523e9b8b15d16ccdd5c9d0d671d5efeb2a6bf",
+      "bytes": 169976,
+      "dimensions_px": [
+        960,
+        342
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_new_world/nomads_new_world__z01__full.png",
+      "sha256": "e659f882127ed7e037cd1a5c52d469f2abca4b1dce9638d5efc4c104f1558e1d",
+      "bytes": 1196885,
+      "dimensions_px": [
+        12608,
+        6400
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_new_world/nomads_new_world__z02__full.png",
+      "sha256": "f5b08d012392738050b16744873322c8188955b5369a73173c211688449c3c25",
+      "bytes": 4728000,
+      "dimensions_px": [
+        12608,
+        6400
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_north_america/nomads_north_america__all_z_overview.png",
+      "sha256": "74b085fff555469ca60dff30f611d291460946b143ce9b3b1cf04530985f895e",
+      "bytes": 157721,
+      "dimensions_px": [
+        960,
+        413
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_north_america/nomads_north_america__z01__full.png",
+      "sha256": "385709af85fe6b80c2293725ce161239e3a273f50d71c53e2042f9a15cdf70f9",
+      "bytes": 2009830,
+      "dimensions_px": [
+        14400,
+        9600
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_north_america/nomads_north_america__z02__full.png",
+      "sha256": "22306493ef26e6f511ba419277d1724cad054e7b45ef78b3e330e19050bc59e5",
+      "bytes": 5212297,
+      "dimensions_px": [
+        14400,
+        9600
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_pangea/nomads_pangea__all_z_overview.png",
+      "sha256": "a9c089e822996476f05494d9e59ab41669271df8ea21866dbbac2284378e84e7",
+      "bytes": 228804,
+      "dimensions_px": [
+        960,
+        592
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_pangea/nomads_pangea__z01__full.png",
+      "sha256": "a445df6d6dc2b586b65ff97bcebb15dd308abef06874162d5a1afde0fa8f1966",
+      "bytes": 1289770,
+      "dimensions_px": [
+        6400,
+        16000
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_pangea/nomads_pangea__z02__full.png",
+      "sha256": "13bf4d0c59527ff99fcfa3f8400f35f5aabe3a7b121f07e7888d034828aa783a",
+      "bytes": 6874475,
+      "dimensions_px": [
+        6400,
+        16000
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_wasteland_2/nomads_wasteland_2__all_z_overview.png",
+      "sha256": "b81105e5a70dc5b1ebf1c1e4a33147af026a06c2680f4c9473ba9404d61fd8bc",
+      "bytes": 380565,
+      "dimensions_px": [
+        960,
+        562
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_wasteland_2/nomads_wasteland_2__z01__full.png",
+      "sha256": "0ce0f5ea6a51f651b97d52435b512962930f163e9a479571e7dde56060b9f780",
+      "bytes": 3127708,
+      "dimensions_px": [
+        7200,
+        7200
+      ]
+    },
+    {
+      "path": "src/images/maps/static-067478b82c7a/nomads__nomads_wasteland_2/nomads_wasteland_2__z02__full.png",
+      "sha256": "75c6354d45e74390ec9cc191cb0dff3a9c2f2d1b33ec781ea0982e7e5eee8a20",
+      "bytes": 8332411,
+      "dimensions_px": [
+        7200,
+        7200
+      ]
+    }
+  ],
+  "retained_prior_maps": [
+    {
+      "dmm": "maps/nomads/nomads.dmm",
+      "page": "src/maps/Nomads_Maps.md",
+      "section": "Temperate",
+      "all_z": [
+        1,
+        2
+      ],
+      "reason": "old full PNG bytes equal current corrected outputs; old wiki section and all old assets retained unchanged",
+      "static_input_equivalence_receipt": "922801f20df706b897a22b8c0bf0d518d3fa30ff550450f2ba12a5cab682f53c"
+    },
+    {
+      "dmm": "maps/nomads/nomads_africa.dmm",
+      "page": "src/maps/Nomads_Maps.md",
+      "section": "Africa",
+      "all_z": [
+        1,
+        2
+      ],
+      "reason": "old full PNG bytes equal current corrected outputs; old wiki section and all old assets retained unchanged",
+      "static_input_equivalence_receipt": "e0f07b64d2c29a0b098945bde040348a541b66ca7609a91ecd034177897f9ef1"
+    },
+    {
+      "dmm": "maps/nomads/nomads_asia.dmm",
+      "page": "src/maps/Nomads_Maps.md",
+      "section": "Asia",
+      "all_z": [
+        1
+      ],
+      "reason": "old full PNG bytes equal current corrected outputs; old wiki section and all old assets retained unchanged",
+      "static_input_equivalence_receipt": "e274a58f3763378a14cf64f237cbf7e42079752788a69ab45aeae8b739e602fe"
+    },
+    {
+      "dmm": "maps/nomads/nomads_desert.dmm",
+      "page": "src/maps/Nomads_Maps.md",
+      "section": "Desert",
+      "all_z": [
+        1,
+        2
+      ],
+      "reason": "old full PNG bytes equal current corrected outputs; old wiki section and all old assets retained unchanged",
+      "static_input_equivalence_receipt": "dbf6a2413b8ac69f7101185f70ae94386bf47848e733dbcf39f727a5150c2a6c"
+    },
+    {
+      "dmm": "maps/nomads/nomads_divide.dmm",
+      "page": "src/maps/Nomads_Maps.md",
+      "section": "Divide (Jungle-Desert)",
+      "all_z": [
+        1,
+        2
+      ],
+      "reason": "old full PNG bytes equal current corrected outputs; old wiki section and all old assets retained unchanged",
+      "static_input_equivalence_receipt": "ccf074237bd63f2fae0f6aa4f4afd9613acb958d4963e1d6b5d1a21df2d1fb60"
+    },
+    {
+      "dmm": "maps/nomads/nomads_jungle.dmm",
+      "page": "src/maps/Nomads_Maps.md",
+      "section": "Jungle",
+      "all_z": [
+        1,
+        2
+      ],
+      "reason": "old full PNG bytes equal current corrected outputs; old wiki section and all old assets retained unchanged",
+      "static_input_equivalence_receipt": "6eb0a3405fc479eba744d46964e7aa0d3873ea9c8251cecef17ea6c992b57304"
+    }
+  ],
+  "reconciliation": "All36 DMMs and corrected resolved static inputs are identical between58404f5bd16e3fed80f1d9844c5db3edd144942c and067478b82c7ad9f1b83759a221e6f22080ba865a. This does not establish runtime or public-server availability.",
+  "limitations": [
+    "Source-only static editor-style render, not gameplay screenshots or runtime equivalence. No server/client/compiler or Gaia runtime launched.",
+    "DM initial appearance declarations only; source parser is not a full DM preprocessor/compiler. Includes visited in DME order. Conditional branches, macro semantics beyond scalar/arithmetic constants, constructor/proc sprite changes, smoothing, overlays, lighting, randomization, spawning, runtime recolors and materials are not executed.",
+    "DMI first animation frame and declared direction. Declared pixel_x/y and scalar RGB tint/alpha supported. Transform matrices, filters, blend modes, nested appearances, pixel_w/z and runtime invisibility behavior are outside this renderer.",
+    "Static editor helpers (areas, map_metadata, landmarks, effect spawners) are omitted and enumerated. Placed game objects remain; spawners do not create game objects.",
+    "Full PNG canvases contain exact map tile extents; sprites outside the map boundary are clipped. Label bands are in previews/overviews; full exports are unlabelled tile-aligned pixels with exact filename/z in filename and manifest.",
+    "Active describes source vote configuration, never proof of current public server availability. WIP, inactive, separate mode and Nations RP sources are explicitly distinguished.",
+    "Original Temperate reference has unknown source/renderer revision. Topology/orientation comparison supports identity of surface z2, not exact historical state or tile mechanics.",
+    "Version2 supports documented null-state fallback, implicit type ancestry and trailing-slash normalization. Missing named states logged as resolved fallbacks are not unresolved icons.",
+    "Open-space transparent turf pixels are preserved; static rendering does not project lower-z views through holes.",
+    "Duplicate DMI state names use the last source definition, as in the initial atlas; duplicate state details are separately inventoried. No animation/movement simulation."
+  ],
+  "rights": "Original Civ13 and upstream contributor rights unchanged; not relicensed under wiki MIT."
+}
