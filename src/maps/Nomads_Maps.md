@@ -195,3 +195,16 @@ Full-resolution layers: <a href="../images/maps/static-58404f5bd16e/nomads__noma
 Full-resolution layers: <a href="../images/maps/static-067478b82c7a/nomads__nomads_karafuto/nomads_karafuto__z01__full.png">z=1 (9600 × 14400 PNG)</a> · <a href="../images/maps/static-067478b82c7a/nomads__nomads_karafuto/nomads_karafuto__z02__full.png">z=2 (9600 × 14400 PNG)</a>.
 </figcaption>
 </figure>
+
+## Additional authored variants
+
+These variants have individual map pages. They are outside the standard Nomads map-vote list; each page identifies its authored status separately from current hosting.
+
+- [Gaia](Gaia.md)
+- [Oil Rush (Extended)](Oil_Rush.md)
+- [Frozen Wasteland](Frozen_Wasteland.md) - archived authored variant.
+- [Mountain](Mountain.md)
+- [Oceania](Oceania.md)
+- [Nations RP (Persistence Beta)](Persistence_Beta.md)
+- [Stranded](Stranded.md)
+- [UK](UK.md)

@@ -21,6 +21,21 @@ PAGES = ('index.md', 'New_Player_Guide.md', 'guides/Guide_to_Chemistry.md',
          'gamemodes/Events.md', 'maps/Battleroyale.md', 'maps/Hunt.md')
 
 
+def check_public_content(page, source):
+    # The authored beta map is an explicitly labeled archive entry, not a claim
+    # that the Persistence game feature is available on the public server.
+    if page in ('maps_overview.md', 'maps/Nomads_Maps.md'):
+        assert 'outside the standard Nomads map-vote list' in source, page
+        for target in ('maps/Persistence_Beta.md', 'Persistence_Beta.md'):
+            source = source.replace(
+                f'[Nations RP (Persistence Beta)]({target})', '[authored beta map]')
+    if page == 'maps/Persistence_Beta.md':
+        assert '**Map status:** Authored variant, outside the standard Nomads map-vote list.' in source, page
+        source = source.replace('# Nations RP (Persistence Beta)', '# Authored beta map')
+        source = source.replace('**Nations RP (Persistence BETA)**', '**Authored beta map**')
+    assert 'Persistence' not in source and 'valzargaming.com:1714' not in source, page
+
+
 def check(root=Path('book/html')):
     links = 0
     pages = sorted(str(path.relative_to('src')).replace('\\', '/')
@@ -30,7 +45,7 @@ def check(root=Path('book/html')):
     assert set(PAGES).issubset(pages), ('Missing player pages', set(PAGES) - set(pages))
     for page in pages:
         source = (Path('src') / page).read_text(encoding='utf-8')
-        assert 'Persistence' not in source and 'valzargaming.com:1714' not in source, page
+        check_public_content(page, source)
         rendered = root / Path(page).with_suffix('.html')
         html = rendered.read_text(encoding='utf-8')
         for target in re.findall(r'(?<!!)\[[^\]]+\]\(([^)]+)\)', source):
