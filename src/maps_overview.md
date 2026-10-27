@@ -4,6 +4,21 @@ Start with the [Game Modes Overview](gamemodes/Game_Modes.md) for objectives and
 
 Civilization 13 features a diverse range of maps for different game modes and playstyles. Select a map below to learn more about its layout and gameplay characteristics.
 
+## Nomads & Civilization Maps
+
+- [Nomads Maps](maps/Nomads_Maps.md) - the existing collection of Nomads layouts.
+
+Additional authored variants are listed below. These variants are outside the standard Nomads map-vote list; the pages identify their authored status separately from current hosting.
+
+- [Gaia](maps/Gaia.md)
+- [Oil Rush (Extended)](maps/Oil_Rush.md)
+- [Frozen Wasteland](maps/Frozen_Wasteland.md) - archived authored variant.
+- [Mountain](maps/Mountain.md)
+- [Oceania](maps/Oceania.md)
+- [Nations RP (Persistence Beta)](maps/Persistence_Beta.md)
+- [Stranded](maps/Stranded.md)
+- [UK](maps/UK.md)
+
 ## Standard Maps
 
 ### RP & Exploration
