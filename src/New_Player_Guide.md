@@ -6,6 +6,8 @@
 
 Welcome to Civ13. Please take a moment to [read the server rules](rules/Rules.md) before joining a round.
 
+You are welcome to ask questions and make mistakes while learning. Use mentorhelp for gameplay questions and adminhelp for rule concerns or problems. Our [Mission and Community Standards](Mission_and_Community_Standards.md) explain the community we want to build together.
+
 ### Joining a Server
 
 If you already have the BYOND client installed, skip to the server links below.
