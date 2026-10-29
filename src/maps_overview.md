@@ -34,6 +34,9 @@ Additional authored variants are listed below. These variants are outside the st
 - [Little Creek TDM](maps/Little_Creek_TDM.md)
 
 ### Historical Scenarios
+- [Trouble at the Oasis](maps/Oasis.md)
+- [Two Tribes](maps/Two_Tribes.md)
+- [Sekigahara](maps/Sekigahara.md)
 - [Heraclea](maps/Heraclea.md)
 - [Teutoburg](maps/Teutoburg.md)
 - [Missionary Ridge](maps/Missionary_Ridge.md)
@@ -47,16 +50,19 @@ Additional authored variants are listed below. These variants are outside the st
 - [Battleroyale](maps/Battleroyale.md)
 
 ### Colonial Maps
+- [Jungle Colony](maps/Jungle_Colony.md)
 - [Bohemia](maps/Bohemia.md)
 - [Four Colonies](maps/Four_Colonies.md)
 - [Hunt](maps/Hunt.md)
 
 ### Naval & Island Maps
+- [Cursed Island](maps/Cursed_Island.md)
 - [Naval](maps/Naval.md)
 - [Island](maps/Island.md)
 - [Isla Robusta](maps/Isla_Robusta.md)
 
 ### Resource & Territory
+- [Bridge](maps/Bridge.md)
 - [Supply Raid](maps/Supply_Raid.md)
 - [Fields](maps/Fields.md)
 - [Recife](maps/Recife.md)
