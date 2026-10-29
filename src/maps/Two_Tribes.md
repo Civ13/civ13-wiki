@@ -2,7 +2,7 @@
 
 The Red and Blue tribes contest the central shrine. The [Tribes](Tribes.md) page covers a separate scenario.
 
-Map selection depends on the server and current round. The images below show the authored layout.
+The images below show the authored map layout.
 
 ## Map layout
 

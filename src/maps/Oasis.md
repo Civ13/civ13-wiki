@@ -2,7 +2,7 @@
 
 The Crusader and Arabic Caliphate armies compete for an oasis in a desert battlefield.
 
-Map selection depends on the server and current round. The images below show the authored layout.
+The images below show the authored map layout.
 
 ## Map layout
 

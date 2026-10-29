@@ -2,7 +2,7 @@
 
 Jungle Colony is a colonial settlement scenario in a jungle landscape. See [Colony Building](../gamemodes/Colony_Building.md) for general roleplay and settlement guidance.
 
-Map selection depends on the server and current round. The images below show the authored layout.
+The images below show the authored map layout.
 
 ## Map layout
 

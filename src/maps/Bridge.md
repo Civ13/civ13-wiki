@@ -2,7 +2,7 @@
 
 French and British armies face each other across the St. Charles River Bridge. This is the Bridge variant; [Fields](Fields.md) covers a separate battlefield.
 
-Map selection depends on the server and current round. The images below show the authored layout.
+The images below show the authored map layout.
 
 ## Map layout
 

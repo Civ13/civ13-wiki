@@ -2,7 +2,7 @@
 
 The Eastern Army and Western Army face each other outside Sekigahara.
 
-Map selection depends on the server and current round. The images below show the authored layout.
+The images below show the authored map layout.
 
 ## Map layout
 
