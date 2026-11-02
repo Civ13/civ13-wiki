@@ -5,6 +5,14 @@ Civilization 13 (formerly 1713) is a free game based on Space Station 13 code an
 It features both Roleplay-oriented and Team-Deathmatch modes, with the main one being [Nomads](gamemodes/Civilizations_and_Nomads.md), in which you need to bring your civilization from the Stone Age to the Modern Age.
 
 
+## Our mission
+
+Civ13 brings people together to build civilizations, explore historical settings, and create stories through crafting, cooperation, diplomacy, and conflict.
+
+Our mission is to make that experience deep, creative, and welcoming. New players should be able to ask questions, experienced players should have reasons to share what they know, and contributors should be able to improve the project without accepting personal abuse.
+
+Read our [Mission and Community Standards](Mission_and_Community_Standards.md) for the principles we expect players, contributors, and staff to uphold.
+
 ## Start playing
 
 1. [Download BYOND](https://www.byond.com/download/) and install the Windows client. BYOND lists Linux as a hosting platform rather than a game client; macOS is not listed as a supported player platform.

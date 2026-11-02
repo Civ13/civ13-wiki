@@ -1,5 +1,7 @@
 ## Server Rules
 
+These rules support our [Mission and Community Standards](../Mission_and_Community_Standards.md). Community conduct expectations apply across the game and official community spaces, including Discord and project contributions. Scenario-specific gameplay rules apply to their respective modes.
+
 ### General Rules:
 
   - This server is intended to be a <b>Medium/High-Roleplay</b> (MRP/HRP) server, good communication along with other associated
@@ -20,22 +22,54 @@
                 <br>
   - Once a round ends (<i>i.e. the Epoch vote finishes</i>), griefing and random killing is tolerated. 
     This is called "End of Round Grief" (EORG) and it's allowed ONLY when the round has ended.
-  - You must not be toxic or too agitated in any OOC communication channels (Dead-chat and mentor/adminhelp included). 
-  - Losing is part of the game: do not get mad about losing your character.
+  - Follow the [community conduct standards](#community-conduct), including in dead-chat and mentor/adminhelp.
+  - Losing is part of the game. Frustration over losing a character does not excuse harassment or retaliation against another player.
   - Ban evading is strictly prohibited.
   - When able to be applied, discord rules also are carried into the
     game, such as keeping things to the right channels, no spam, etc.
-  - **Every user must have common sense to identify and apply the rules
-    to their behavior correctly so as to avoid breaking the rules and to
-    discern wrong-doers from players who follow the rules.**
+  - If a rule or situation is unclear, ask staff for clarification. Questions and good-faith reports are welcome.
   - Sharing and/or using exploits/bugs of any kind as well as sharing any kind of information 
     that could lead to griefing is prohibited. This includes also abusing incomplete game mechanics, using unintended features 
     to gain an unfair advantage for yourself or your team.
     You will be warned first and, if you persist, a permanent ban from the server will be applied.<br>
     <b>If you find an exploit please inform staff privately in a timely manner.</b><br><br>
         
-<center><strong><font size = 3>What staff say is law, so if when they ask you to stop, you must stop.</font></strong></center>
-<br>
+### Community conduct
+
+Treat other participants with respect. Do not threaten, sexually harass, expose private information, organize targeted harassment, or repeatedly provoke someone to distress or humiliate them.
+
+Stop unwanted personal targeting when asked. Calling something a joke, roleplay, or community tradition does not excuse harassment. Reports, appeals, and good-faith criticism remain welcome.
+
+Questions, mistakes, disagreement, and good-faith criticism are welcome. Being upset does not by itself make a report invalid. Describe what happened as clearly as you can; staff should help clarify incomplete reports.
+
+Help newcomers learn. Correct mistakes without ridicule, and distinguish unfamiliarity with the game from deliberate disruption.
+
+Staff should consider the severity and pattern of behavior when deciding consequences. People can learn from mistakes and correction. Severe or repeated harassment may require restrictions or removal from the community.
+
+### Historical roleplay and discrimination
+
+Historical scenarios may portray oppressive institutions, prejudice, and conflict. Their inclusion does not authorize players to harass others or promote those beliefs.
+
+Real-world discriminatory slurs, targeted identity-based degradation, and advocacy of persecution are prohibited in character and out of character. An era, faction, or character background does not override this rule.
+
+Scenario-specific guidance must explain how difficult subjects can be portrayed within these boundaries. A scenario's historical setting does not grant an exception to community conduct standards.
+
+### Staff accountability
+
+Follow staff directions during an incident so the situation can be resolved. You may request an explanation and challenge a decision through the [reporting or appeal process](#reporting-and-appeals).
+
+Staff must apply the rules consistently, explain moderation decisions, and arrange review by an uninvolved staff member when a complaint concerns their own conduct.
+
+Community standing, friendships, donations, and contributions do not grant exemptions. Good-faith reports, appeals, and criticism must not result in retaliation.
+
+### Reporting and appeals
+
+- **In-game problems:** use adminhelp for rule concerns, harassment, or assistance during an incident. Use mentorhelp for gameplay questions.
+- **Complaints:** use the [Civ13 Discord complaints forum](https://discord.com/channels/468979034571931648/1019725007477297272) to raise concerns about player or staff conduct. Ask for an uninvolved staff reviewer when the complaint concerns a staff member.
+- **Ban appeals:** use the [Civ13 Discord ban appeals forum](https://discord.com/channels/468979034571931648/1019718839749062687) to request review of a ban.
+- **Sensitive information:** use adminhelp in game or privately contact an uninvolved member of server staff on [Civ13 Discord](https://discord.gg/hBEtg4x). Do not post private information or sensitive evidence in the public complaints or appeals forums.
+
+Include what happened, when and where it happened, and relevant evidence when available. An incomplete report is still worth making; staff can ask follow-up questions.
 
 ### Prohibited Behaviors:
 
@@ -43,18 +77,14 @@
   - Griefing: destroying, hurting, killing, stealing, etc. without any proper
     escalation and/or valid purpose.
   - Metagaming: using external chats or knowledge to aid yourself in-game.
-  - Racism and Discrimination: Those behaviors may only be tolerated IC and ONLY IF they are <b>strongly justified by the 
-    gamemode setting</b> (i.e. appropriate era and environment). However, such behaviors are absolutely not acceptable in OOC communications.
-    An auto-bot is in place to prevent the usage of common racial/discriminatory slurs in OOC communications. 
-    Failure to follow this rule will most likely result in a permanent ban from the servers.
+  - Racism and discrimination, including conduct described under [historical roleplay and discrimination](#historical-roleplay-and-discrimination). The same boundaries apply in character and out of character.
   - Exploiting glitches/bugs/incomplete mechanics (ex: using a duplication glitch or clipping through walls, 
     without reporting it to the staff.)
   - Hacking (You really shouldn’t waste time trying to hack a really bad game engine.)
   - Obscene names (Pick something RP-friendly, and avoid copying other
     players names too.)
   - Spamming in any IC or OOC communication channel.
-  - Adminhelping/Mentorhelping sentence fragments. Explain your situation fully through and in a calm manner.
-  - Toxicity towards other players and/or the staff team. This includes disrespectful behaviour.
+  - Harassment and other behavior prohibited by the [community conduct standards](#community-conduct), including when directed at staff.
   - Bypassing in-game language barriers (Such as using LOOC or a paper to communicate.
     You should use emote verbs and you may do “drawings” on a paper (ex:
     you may write the following: *A drawing of two stick figures crossing spears*)
