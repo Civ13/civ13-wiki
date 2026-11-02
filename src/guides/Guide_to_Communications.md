@@ -40,7 +40,7 @@
 <td>
 <img src="../images/eas.png">
 </td>
-<td><p>Must be within <strong>30</strong> tiles of another tower to work. <strong>Requires power.</strong></p></td>
+<td><p>Built from steel. Mobile phones get a signal anywhere without one, so a tower is not needed for calls.</p></td>
 </tr>
 </tbody>
 </table>
@@ -51,8 +51,8 @@
 
 - **Bone horn:** blow it to signal a charge or an enemy invasion.
 
-- **Campfire:** use cloth/leather sheets on a campfire to cause a smoke signal
-with a range of 40 tiles to attract help or friends.
+- **Campfire:** use a cloth or leather sheet on a lit campfire to make smoke
+signals. Players within 25 tiles are told which direction the smoke is in.
 
 - **Lanterns:** lit lanterns can be used for limited communication for certain
 situations. (Use a telescope to see them from afar)
@@ -68,17 +68,18 @@ paper in it to actually send messages. Doesn't need power
 either for keeping memories of the past or for spying on enemy nations
 and war journalism.
 
-- **Stationary phone:** must be within 2 tiles from a utility pole in order to
-work. (Not working currently)
+- **Stationary phone:** must be within 2 tiles of a utility pole on a
+connected pole line. Use it in hand to dial a 4-digit number, and use it again
+to pick up or hang up. Examine a phone to see its number.
 
 - **Stationary Radio:** requires power and a microphone in order to respond to
 calls, it has a set frequency which you can change at any time.
 
 - **Mobile Radio backpack:** requires no power and takes up the backpack slot.
 
-- **Mobile phone:** must be within 50 tiles of a mobile tower to work. Shift
-click the phone in hand in order to see what your phone number
-currently is. Does not require power only a signal.
+- **Mobile phone:** works anywhere on the map and needs no power. Use it in
+hand to call a number, call a saved contact or add a contact. Examine the
+phone to see its own number.
 
 - **Walkie Talkie:** small version of a radio and can be placed in a pocket or
 coin pouch slot.

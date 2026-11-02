@@ -26,12 +26,11 @@ defense of their castle.
 | Legionarius (Main Infantry)      |       | Follow Squad Leader's orders and kill the greek defenders.           | Medium     |
 | Saggitarius (Light Archer)       |       | Assist others and follow your Squad Leader's orders.                 | Easy       |
 
-### WIP Greek Roles
+### Greek Roles
 
 | Roles                            | Image | Description                                                               | Difficulty |
 | -------------------------------- | ----- | ------------------------------------------------------------------------- | ---------- |
-| Centurion (Roman Commander)      |       | Plan a strategy to crush the roman's assault, command your Squad Leaders. | Very Hard  |
-| Decurion (Roman Squad Leader)    |       | Follow commander's orders and command your men.                           | Hard       |
-| Signifer (Roman Standard Bearer) |       | Follow Squad Leader's orders and kill the roman invaders.                 | Medium     |
-| Legionarius (Main Infantry)      |       | Follow Squad Leader's orders and kill the roman invaders.                 | Medium     |
-| Saggitarius (Light Archer)       |       | Assist others and follow your Squad Leader's orders.                      | Easy       |
+| Lochagos (Greek Commander)       |       | Plan the defense of the castle and give orders to your Dimoerites.        | Very Hard  |
+| Dimoerites (Greek Squad Leader)  |       | Follow the commander's orders and lead your hoplites.                     | Hard       |
+| Hoplites (Spear Infantry)        |       | Hold the line in the phalanx and follow your squad leader's orders.       | Medium     |
+| Toxotai (Light Archer)           |       | Skirmish with your bow and xiphos and support the hoplites.               | Easy       |

@@ -4,17 +4,22 @@ Colony Building focuses on civilian roleplay and cooperation. Read the [mode gui
 
 The difficulty ratings below are rough guidance.
 
-| Job Title                                               | Desc                                                                                                                                                                                                                                                                                                                                                                                   | Difficulty                   | Image                                                                                                                    |
-| ------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Governor](../Governor.md)                         | Lead the colony, coordinate its treasury and trade, publish clear laws, and agree on building plans with the Head Architect. | Hard | ![image](https://media.discordapp.net/attachments/485954244437082112/607457016469913610/2.png?width=85&height=135) |
-| Head Architect             | Plan buildings and roads, coordinate carpenters, and agree on resource priorities with the Governor. | Hard | ![image](https://media.discordapp.net/attachments/485954244437082112/607457029774114820/5.png?width=84&height=135) |
-| Head Colony Security | Organise the guards and enforce the colony's written laws within the server rules. Resolve disputes without escalating every disagreement. | Hard | ![image](https://media.discordapp.net/attachments/485954244437082112/607457011642138634/1.png?width=81&height=138) |
-| Colony Security           | Work with the head of security, protect colonists and enforce written laws within the server rules. | Moderately Hard | ![image](https://media.discordapp.net/attachments/485954244437082112/607457011642138634/1.png?width=81&height=138) |
-| [Merchant](../Merchant.md)                         | Buy needed supplies and sell colony goods. Coordinate livestock, seed and material orders with the people who use them. | Medium | ![image](https://media.discordapp.net/attachments/485954244437082112/607457029774114820/5.png?width=84&height=135) |
-| Carpenter                       | Gather wood and build roads and buildings. Coordinate plans and material use with the Head Architect. | Easy | ![image](https://media.discordapp.net/attachments/485954244437082112/607457025013710868/4.png?width=88&height=135) |
-| Farmer                             | Grow crops, milk cows and feed chickens. Coordinate exports with the Merchant and keep construction clear of farmland. | Easy | ![image](https://media.discordapp.net/attachments/485954244437082112/607457036229410816/7.png?width=87&height=136) |
-| [Blacksmith](../Blacksmith.md)                     | Make tools, weapons and ammunition for the colony. Check the written laws before supplying restricted weapons. | Easy | ![image](https://media.discordapp.net/attachments/485954244437082112/607457036229410816/7.png?width=87&height=136) |
-| Priest                             | Organise religious roleplay and work with carpenters on a place of worship. Give other characters room to participate. | Easy | ![image](https://media.discordapp.net/attachments/485954244437082112/607457031947026443/6.png?width=79&height=137) |
-| Basic Colonist             | Create a character background, help around the colony and find an occupation. | Easiest | ![image](https://media.discordapp.net/attachments/485954244437082112/607457040746414081/8.png?width=76&height=137) |
-| [Colony Medic](../Colony_Medic.md)                 | Treat injuries and illness, organise a clinic and keep medical supplies ready. | Moderately Hard | ![image](https://media.discordapp.net/attachments/485954244437082112/607457029774114820/5.png?width=84&height=135) |
-| Inn Keeper                     | Work with a carpenter to build an inn with guest rooms. Agree on lodging fees; a tavern or diner can provide another gathering place. | Easy | ![image](https://media.discordapp.net/attachments/485954244437082112/607457025013710868/4.png?width=88&height=135) |
+In-game job titles are shown in bold.
+
+| Role | What you do | Difficulty |
+| --- | --- | --- |
+| **Governor** ([guide](../Governor.md)) | Lead the colony, coordinate its treasury and trade, publish clear laws, and agree on building plans with the Architect. | Hard |
+| **Architect** | Plan buildings and roads, coordinate carpenters, and agree on resource priorities with the Governor. | Hard |
+| **Town Guard Officer** | Organise the guards and enforce the colony's written laws within the server rules. Resolve disputes without escalating every disagreement. | Hard |
+| **Town Guard** | Work with the guard officer, protect colonists and enforce written laws within the server rules. | Moderately Hard |
+| **Doctor** ([guide](../Colony_Medic.md)) | Treat injuries and illness, organise a clinic and keep medical supplies ready. | Moderately Hard |
+| **Merchant** ([guide](../Merchant.md)) | Buy needed supplies and sell colony goods. Coordinate livestock, seed and material orders with the people who use them. | Medium |
+| **Prospector** | Explore the land and mine ore and stone for the colony. | Medium |
+| **Carpenter** | Gather wood and build roads and buildings. Coordinate plans and material use with the Architect. | Easy |
+| **Farmer** | Grow crops, milk cows and feed chickens. Coordinate exports with the Merchant and keep construction clear of farmland. | Easy |
+| **Blacksmith** ([guide](../Blacksmith.md)) | Make tools, weapons and ammunition for the colony. Check the written laws before supplying restricted weapons. | Easy |
+| **Priest** | Organise religious roleplay and work with carpenters on a place of worship. Give other characters room to participate. | Easy |
+| **Inkeeper** | Work with a carpenter to build an inn with guest rooms. Agree on lodging fees. | Easy |
+| **Bar Keep/Bar Maiden** | Run a tavern or diner where colonists can gather, eat and drink. | Easy |
+| **Colonist** | Create a character background, help around the colony and find an occupation. | Easiest |
+| **Beggar** | Start penniless and work your way up in the colony. | Easiest |

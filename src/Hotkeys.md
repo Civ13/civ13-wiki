@@ -5,12 +5,15 @@ This is a list of hotkeys for when the game is on **Hotkey Mode**. Use **Tab** t
 | Key | Command |
 | ------- | -------------------------------- |
 | Tab | Switch Macro and Hotkey Mode |
+| Enter | Focus the chat input bar |
 | Escape | Fullscreen |
 | Space | Zoom/Scope / Use iron sights / Tank gun |
 | W / North | Move Up |
 | S / South | Move Down |
 | A / West | Move Left |
 | D / East | Move Right |
+| CTRL+Arrow key | Face that direction without moving |
+| ALT+Movement key | Step one tile at a time in that direction (hold to repeat) |
 | Q, CTRL+Q | Drop item |
 | E, CTRL+E | Quick equip |
 | R, CTRL+R | Throw |
@@ -20,7 +23,8 @@ This is a list of hotkeys for when the game is on **Hotkey Mode**. Use **Tab** t
 | C, CTRL+C | Secondary activation (item/vehicle brake) |
 | B | Buckle/Unbuckle |
 | H, CTRL+H | Holster/Unholster |
-| F, CTRL+F | Change Intent (cycle left) |
+| F | Face direction (lock your facing) |
+| CTRL+F | Change Intent (cycle left) |
 | G, CTRL+G | Change Intent (cycle right) |
 | 1, CTRL+1 | Help Intent |
 | 2, CTRL+2 | Disarm Intent |

@@ -120,61 +120,17 @@ armored coffin becomes a moving pillbox if you use it well enough.
     without a commander if you're not against enemy armor. A good driver
     is the key to success.
 
-#### Example
+#### Example: turning in tight spaces
 
-Let's say we're on Nanjing. We'll also go over the 5x5 area of turning.
-Tanks have 4 Directions they can be facing, and a different position in
-their 5x5 area for each. (Note: tracks were disabled on the directional
-example to allow for stationary turning)
+A vehicle turns inside a square as wide as its longest side, which is 5x5 for most tanks. Its front always sits against the edge of that square. That means the tank's position inside the area shifts each time it turns: facing north, the tank sits against the north edge; facing south, against the south edge, and so on. Use the driver's seat as your reference point.
 
-  - The Layout of most tanks
+Use this to get into spaces you cannot turn into directly. Say you want to enter a narrow alley to your left, but a wall to the north stops you from turning left:
 
-![image](https://media.discordapp.net/attachments/485954244437082112/714297980391260231/tank.png)
+1. Drive up alongside the wall so the alley entrance is next to you.
+2. Turn right instead, before the tank reaches the wall. Turning moves the tank to the other side of its square, clear of the wall.
+3. Shift into reverse and back into the alley.
 
-The front face of a tank will always be against the edge of the 5x5 area
-
-North
-
-![image](https://media.discordapp.net/attachments/485954244437082112/714333304068898856/tank_north.png)
-
-West
-
-![image](https://media.discordapp.net/attachments/485954244437082112/714298939398029363/tank_west.png)
-
-South
-
-![image](https://media.discordapp.net/attachments/485954244437082112/714299673460080801/tank_south.png)
-
-East
-
-![image](https://media.discordapp.net/attachments/485954244437082112/714299733014741072/tank_east.png)
-
-
-So now that you've got directions, lets try a situation where you'd
-apply this knowledge. We're at an alleyway that we want to get into but
-don't have free movement to make a left turn to fit in.
-
-![image](https://media.discordapp.net/attachments/485954244437082112/714300361728458762/tank_alley.png)
-
-now, because we've a wall blocking us, we can't just make a left turn,
-it'll have us running into the wall north of us. That's no good. So
-instead, because facing south makes the tank on the east side of the 5x5
-area, we can make a right turn and reverse to get in. So first set up
-against the wall. Once you've made it onto that tile turn right before
-it hits it, or it'll be no good.
-
-![image](https://media.discordapp.net/attachments/485954244437082112/714300866584248360/tank_position.png?width=285&height=405)
-
-After your turn is made, you'll be set to go in reverse to get
-through.
-
-![image](https://media.discordapp.net/attachments/485954244437082112/714301093869256824/tank_ready.png?width=288&height=406)
-
-And then you can wedge on through in reverse, and flank the enemy by
-using a route they may not expect a tank to fit through.
-
-![image](https://media.discordapp.net/attachments/485954244437082112/714301162244800532/tank_through.png?width=144&height=405)
-
+This lets you flank the enemy through routes they may not expect a tank to fit through.
 
 For possibly better explanation with a moving visual aid, take a gander at this poor quality video.
 

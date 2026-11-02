@@ -2,7 +2,7 @@
 
 In [Team Combat](../gamemodes/Team_Combat.md) rounds, many factions are split into numbered squads, each with a squad leader, and some roles are officers, commanders or radio operators. This page explains the tools those roles get and how to use them. If you are a regular soldier, the first section is all you need.
 
-Leadership commands appear in extra tabs at the top-right of your screen, usually **Officer**, and **Scout** for scouts. You can also type a command's name into the command bar.
+Leadership commands appear in extra tabs at the top-right of your screen: **Officer** for officers, squad leaders and commanders, and **Scout** for scouts. You can also type a command's name into the command bar.
 
 ## Squads
 
@@ -24,9 +24,9 @@ On maps set in the twentieth century before the modern era, officers and squad l
 4. **Update the plan.** When the situation changes, announce it. Announcements are limited to one a minute, so make each one count.
 5. **Hand over if you must.** If you are badly wounded, tell your squad who is in charge until you return.
 
-## Scouts and coordinates
+## Officers, scouts and coordinates
 
-Scouts, and roles with the **Scout** tab, can report positions for artillery and air support.
+Officers use **Check Coordinates** and **Reset Coordinates** from the **Officer** tab. Scouts have the same commands in the **Scout** tab. Both can report positions for artillery and air support.
 
 1. Stand at a known location and use **Check Coordinates**. This starts tracking from where you stand.
 2. While tracking, click a distant tile to learn its coordinates and offset from you. Each tile you check is reported to your side.
@@ -40,7 +40,7 @@ Every reported position lets your side request support within **15 tiles** of it
 On maps that include artillery or air support, radio operators get **Order Airstrike**:
 
 - You need a working radio within one tile of you, either carried or a radio set.
-- The target must be within 15 tiles of a position a scout has reported. Otherwise the request is refused.
+- The target must be within 15 tiles of a position an officer or scout has reported. Otherwise the request is refused.
 - Requests are refused if any of your living teammates are within 7 tiles of the target.
 - Each map has a limited number of strikes and a cooldown between them. The game tells you how many minutes remain.
 
