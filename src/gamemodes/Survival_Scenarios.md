@@ -1,19 +1,35 @@
 # Survival Scenarios
 
-Read the map and mode together: survival roleplay, a wasteland settlement and an individual Battle Royale round have different relationships and objectives.
+Survival scenarios are long rounds where the environment is as dangerous as other players. Pick the round by its threat:
 
-| Scenario | Starting priority | Related guide |
-| --- | --- | --- |
-| Hunt / Survival RP | Coordinate shelter and supplies with the shipwrecked crew; respect the neutral relationship with natives. | [Hunt](../maps/Hunt.md) |
-| Stranded Island | Read the starting equipment and role briefing, then establish food, water and shelter. | [Nomads and civilizations](Civilizations_and_Nomads.md) |
-| Nuclear or frozen wasteland | Prepare for the scenario's environmental hazards before expanding or travelling. | [Wasteland](../maps/Wasteland.md), [Survival Guide](../guides/Guide_to_Survival.md) |
-| Zombie Wasteland | Coordinate supplies and movement, and read the briefing before leaving a safe position. | [Pioneers](../maps/Pioneers.md) |
-| Battle Royale / Hunger Games | Survive the competition and move before announced area closures. | [Battle Royale](Battle_Royale.md) |
+| Scenario | Map vote | Main threat | Guide |
+| --- | --- | --- | --- |
+| **Hunt** | Civilization 13 (Others) | The wilderness, with neutral natives and pirates | [Hunt](../maps/Hunt.md) |
+| **Wasteland** | Civilization 13 (Nomads) | Nuclear strikes later in the round | [Wasteland](../maps/Wasteland.md) |
+| **Wasteland II** | Civilization 13 (Nomads) | The undead | [Wasteland](../maps/Wasteland.md) |
+| **Pioneers Wasteland II** | Civilization 13 (Colony & Pioneers) | Zombies and infection | [Pioneers](../maps/Pioneers.md) |
+| **Battle Royale** | Battle Royale | Other players and closing areas | [Battle Royale](Battle_Royale.md) |
 
 ## A reliable start
 
-Secure drinking water, food, shelter and medical supplies. Keep a return route when exploring and tell companions where you are going. Check [Survival](../guides/Guide_to_Survival.md), [Cooking](../guides/Guide_to_Cooking.md) and [Medical](../guides/Guide_to_Medical.md) for the underlying systems.
+1. **Water, food, shelter, medicine,** in that order. See [Survival](../guides/Guide_to_Survival.md), [Cooking](../guides/Guide_to_Cooking.md) and [Medical](../guides/Guide_to_Medical.md).
+2. **Stay with a group.** Shared shelter and supplies go further, and someone can drag you back if you fall.
+3. **Keep a return route** when exploring, and tell others where you are going.
 
-## Hunt is a roleplay scenario
+## Hunt
 
-Hunt's natives and pirates are neutral by default. Do not rush another faction's spawn or start a fight merely because the grace wall has dropped. The event-city **Hunt** mode is a different scenario in which participants are pursued; read the [Events Guide](Events.md) and opening briefing to distinguish them.
+Hunt is a roleplay survival round. Natives and pirates are **neutral** by default, the grace wall stays up for **25 minutes**, and respawn takes **10 minutes**, so a careless death is costly. Do not rush another faction's spawn just because the grace wall has dropped.
+
+## Wasteland
+
+The Wasteland starts quiet, but **nuclear strikes** arrive between about **2 and 3.5 hours** into the round. Use the early hours to build solid shelter, stock food and water, and prepare for radiation. Wasteland II replaces the nukes with the undead.
+
+## Zombies (Pioneers Wasteland II)
+
+- A zombie bite can **infect** you. **Potassium iodide** cures the infection, so keep some in your medical supplies.
+- Zombies can rise from corpses. **Remove the head** from a body to stop it coming back.
+- Fortify a building early and keep watch at night.
+
+## Battle Royale
+
+Battle Royale is a short, individual competition rather than a settlement round. See the [Battle Royale guide](Battle_Royale.md).

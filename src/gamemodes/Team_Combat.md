@@ -5,8 +5,8 @@ Team combat scenarios give factions an objective on a particular map. Read the l
 ## Your first deployment
 
 1. Check your faction, role and objective before spawning.
-2. Coordinate with your team. Identify who will lead, carry supplies and treat casualties.
-3. Equip for your job and check your weapon before leaving the spawn area. Read the [Weapons Guide](../guides/Guide_to_Weapons.md) if you need help loading or operating it.
+2. Coordinate with your team. Identify who will lead, carry supplies and treat casualties. Squad leaders and officers should read [Leading a Squad](../guides/Guide_to_Leadership.md).
+3. Equip for your job and check your weapon before leaving the spawn area. Read [Combat Basics](../guides/Guide_to_Combat.md) for the controls, and the [Weapons Guide](../guides/Guide_to_Weapons.md) if you need help loading or operating your weapon.
 4. Observe the announced grace period and map boundaries. Wait for the scenario to permit combat.
 5. Move with teammates and keep the objective in mind. Report threats and casualties; use the [Medical Guide](../guides/Guide_to_Medical.md) when helping an injured teammate.
 
