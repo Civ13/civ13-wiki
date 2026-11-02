@@ -34,6 +34,7 @@
     - [Resource Extraction](guides/Guide_to_Resource_Extraction.md)
     - [Slang](guides/Guide_to_Slang.md)
     - [Tanks](guides/Guide_to_Tanks.md)
+    - [Trains](guides/Guide_to_Trains.md)
     - [Trenches & Fortifications](guides/Guide_to_Trenches.md)
     - [Weapons](guides/Guide_to_Weapons.md)
     - [Winter & Long Rounds](guides/Guide_to_Survival.md)
