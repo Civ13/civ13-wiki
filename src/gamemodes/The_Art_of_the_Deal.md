@@ -257,6 +257,28 @@ As a police officer, you can go undercover by switching into civilian
 clothes (available at the armory) and **toggling the undercover mode
 under the IC tab**. Make sure to bring your badge in case you get detained.
 
+### Forensics
+
+The map has two **crime scene kits**, an **electron microscope** and a **DNA analyzer**. Find them early so you know where to bring evidence. Each kit holds swabs, fingerprint cards, fingerprint powder, a luminol bottle, crime scene markers, a UV light and evidence bags. Wear gloves at a scene, or your own prints end up on the evidence.
+
+| Tool | How to use it |
+| --- | --- |
+| **Crime scene markers** | Place them to mark points of interest before you collect anything. |
+| **Luminol** | Spray it over a scene to reveal blood that someone has cleaned away. |
+| **UV light** | Use it in hand to switch it on. It shows fluorescent traces within three tiles. |
+| **Fingerprint powder** | Use it on an object to lift its fingerprints onto a print sample. |
+| **Fingerprint card** | Use it on a person to take their prints. They must not be wearing gloves. A restrained suspect can resist unless they are lying down. |
+| **Swab** | Use it on a bloody object for a blood sample, or on clothing for gunshot residue. On a person, target the mouth for saliva or a hand for gunshot residue. |
+| **Evidence bag** | Put an item in a bag to keep it labelled and separate. |
+
+**Analysing samples:**
+
+- **Fingerprints:** Insert a lifted print sample or a fingerprint card into the microscope. It prints a report you can compare with a suspect's card.
+- **Gunshot residue:** Put a residue swab into a **microscope slide**, then insert the slide into the microscope.
+- **Blood:** Open the DNA analyzer's lid, insert a used swab, close the lid and start the scan. It prints a report when it finishes.
+
+Keep evidence and reports in the evidence room.
+
 ## Objectives and Rules
 
 Each faction has different objectives that will count towards the score.

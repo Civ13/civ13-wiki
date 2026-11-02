@@ -1,0 +1,157 @@
+{
+  "game_source_repository": "https://github.com/Civ13/Civ13",
+  "game_source_commit": "58404f5bd16e3fed80f1d9844c5db3edd144942c",
+  "renderer": "Civ13 source-only Python/Pillow renderer 1.0",
+  "source_assets": "Actual Civ13 DMM placements and DMI sprites; no generated artwork",
+  "maps": [
+    {
+      "dmm": "maps/nomads/nomads.dmm",
+      "page": "src/maps/Nomads_Maps.md",
+      "section": "Temperate",
+      "all_z": [
+        1,
+        2
+      ]
+    },
+    {
+      "dmm": "maps/nomads/nomads_africa.dmm",
+      "page": "src/maps/Nomads_Maps.md",
+      "section": "Africa",
+      "all_z": [
+        1,
+        2
+      ]
+    },
+    {
+      "dmm": "maps/nomads/nomads_asia.dmm",
+      "page": "src/maps/Nomads_Maps.md",
+      "section": "Asia",
+      "all_z": [
+        1
+      ]
+    },
+    {
+      "dmm": "maps/nomads/nomads_desert.dmm",
+      "page": "src/maps/Nomads_Maps.md",
+      "section": "Desert",
+      "all_z": [
+        1,
+        2
+      ]
+    },
+    {
+      "dmm": "maps/nomads/nomads_divide.dmm",
+      "page": "src/maps/Nomads_Maps.md",
+      "section": "Divide (Jungle-Desert)",
+      "all_z": [
+        1,
+        2
+      ]
+    },
+    {
+      "dmm": "maps/nomads/nomads_jungle.dmm",
+      "page": "src/maps/Nomads_Maps.md",
+      "section": "Jungle",
+      "all_z": [
+        1,
+        2
+      ]
+    }
+  ],
+  "files": [
+    {
+      "path": "src/images/maps/static-58404f5bd16e/nomads__nomads/nomads__all_z_overview.png",
+      "bytes": 315029,
+      "sha256": "c6b3466e1762bc2402e84ed430b1cebaad38d5b35fd2c8ef4ab8e2dc64739c4b"
+    },
+    {
+      "path": "src/images/maps/static-58404f5bd16e/nomads__nomads/nomads__z01__full.png",
+      "bytes": 1033695,
+      "sha256": "4b6b7c3acbe8c0b57abccf09925c25a02d3293dc120f9cb22ce86ec8760c6534"
+    },
+    {
+      "path": "src/images/maps/static-58404f5bd16e/nomads__nomads/nomads__z02__full.png",
+      "bytes": 3974133,
+      "sha256": "2ec2498a608fca488ca56644a7aafaa015d6aa2ae7a6600cbf2ea0d9643e3d20"
+    },
+    {
+      "path": "src/images/maps/static-58404f5bd16e/nomads__nomads_africa/nomads_africa__all_z_overview.png",
+      "bytes": 478469,
+      "sha256": "2c69141a7412dbbd6fc59bc1e37f47dd3ba2853571d7957b45c027367e0cbf66"
+    },
+    {
+      "path": "src/images/maps/static-58404f5bd16e/nomads__nomads_africa/nomads_africa__z01__full.png",
+      "bytes": 1910755,
+      "sha256": "3a1854d6a69ca805cda6025d38304be396824d188bfd05fb703ceacc978f864d"
+    },
+    {
+      "path": "src/images/maps/static-58404f5bd16e/nomads__nomads_africa/nomads_africa__z02__full.png",
+      "bytes": 9288179,
+      "sha256": "07f89cd7afe85ca97e1fa35c55e6afea42990a3517d78057aeb73bfe04326a69"
+    },
+    {
+      "path": "src/images/maps/static-58404f5bd16e/nomads__nomads_asia/nomads_asia__all_z_overview.png",
+      "bytes": 603728,
+      "sha256": "b3747236f93a3e1dec46ac86c77ef3d6683f1e65af9e634928cf88f0a77e257c"
+    },
+    {
+      "path": "src/images/maps/static-58404f5bd16e/nomads__nomads_asia/nomads_asia__z01__full.png",
+      "bytes": 12328860,
+      "sha256": "f6bf207920a96ce56c234ae967e8833b701079b43fc88fceec479ab16585c449"
+    },
+    {
+      "path": "src/images/maps/static-58404f5bd16e/nomads__nomads_desert/nomads_desert__all_z_overview.png",
+      "bytes": 276367,
+      "sha256": "adc9ffdea00b3129362f8bc46ecb536e045e2a8c487080c848e0c6bec5068624"
+    },
+    {
+      "path": "src/images/maps/static-58404f5bd16e/nomads__nomads_desert/nomads_desert__z01__full.png",
+      "bytes": 1621727,
+      "sha256": "4e0fa20879c7cd9d4563b1d6945883658f45d113416a9b4b92fa7661a386afd6"
+    },
+    {
+      "path": "src/images/maps/static-58404f5bd16e/nomads__nomads_desert/nomads_desert__z02__full.png",
+      "bytes": 5297931,
+      "sha256": "b69677148aa5a21b27e54e086a93221128a03ffa3ea8bef4782f7218395a9644"
+    },
+    {
+      "path": "src/images/maps/static-58404f5bd16e/nomads__nomads_divide/nomads_divide__all_z_overview.png",
+      "bytes": 394715,
+      "sha256": "83b45c308a4c4c1507a73b0a15d8c85c9f4a43db5d60c13195c75a6c6397fabc"
+    },
+    {
+      "path": "src/images/maps/static-58404f5bd16e/nomads__nomads_divide/nomads_divide__z01__full.png",
+      "bytes": 1607819,
+      "sha256": "ffa6c526a8162223a3b235d226325655da574852c1854b8126cbd4603e9f3f1e"
+    },
+    {
+      "path": "src/images/maps/static-58404f5bd16e/nomads__nomads_divide/nomads_divide__z02__full.png",
+      "bytes": 8325486,
+      "sha256": "fb296d3e6d61db42ff93d3afbc4a06e65dca0a63a07ea0c90f65316fc77b43f2"
+    },
+    {
+      "path": "src/images/maps/static-58404f5bd16e/nomads__nomads_jungle/nomads_jungle__all_z_overview.png",
+      "bytes": 182253,
+      "sha256": "0020eba4a6e51116a6c39064ef22d9a20f0a9a2bdb6f3dd7b23308518b26364a"
+    },
+    {
+      "path": "src/images/maps/static-58404f5bd16e/nomads__nomads_jungle/nomads_jungle__z01__full.png",
+      "bytes": 1066574,
+      "sha256": "9903cc9fa9b6842e20767bf1bfef66340e5b6d27cbb4c9835bd8431e32fc6017"
+    },
+    {
+      "path": "src/images/maps/static-58404f5bd16e/nomads__nomads_jungle/nomads_jungle__z02__full.png",
+      "bytes": 9761551,
+      "sha256": "0e0bc5eca0236d6acdca8ae53f5d797acd5ef9c467136fd497ad3a34a9b97a2f"
+    }
+  ],
+  "limitations": [
+    "Static initial appearance declarations only; not a gameplay screenshot.",
+    "No runtime lighting, constructors, spawning, smoothing, overlays, animation or randomization is executed.",
+    "Source-derived helpers are omitted. Every authored z-level is linked.",
+    "Zero unresolved visible icon/type marker cells in included maps.",
+    "Source vote configuration does not establish current public-server availability."
+  ],
+  "rights": "Original Civ13 and upstream sprite contributor rights remain unchanged. LICENSE-Civ13.txt preserves the repository license notice. This directory is not relicensed under the wiki MIT license.",
+  "wiki_preview_composition": "Wiki overview images are recomposed from the existing per-layer previews with their top72px private/source label bands removed; only exact DMM filename and z labels remain. Map pixels are resized with nearest-neighbour interpolation. Original private atlas previews are unchanged."
+}

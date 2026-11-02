@@ -36,7 +36,9 @@ Use [Farming](guides/Guide_to_Farming.md) for seeds and irrigation, [Medical](gu
 
 ## TDM / Team Deathmatch Modes
 
-Browse [maps and scenarios](maps_overview.md) to see the available battles.
+Start with [Combat Basics](guides/Guide_to_Combat.md): it covers intents, aiming at body parts, movement modes, firing, grenades and what to do when you are hit. If you are given a squad leader, officer or radio operator role, read [Leading a Squad](guides/Guide_to_Leadership.md).
+
+Browse [maps and scenarios](maps_overview.md) to see the available battles, and read [Team Combat](gamemodes/Team_Combat.md) for the common objectives.
 
 ## RP / Roleplay Modes
 

@@ -1,0 +1,16 @@
+# Frozen Wasteland
+
+**Frozen Wasteland** is a separate authored layout from [Wasteland and Wasteland II](Wasteland.md).
+
+**Map status:** Archived authored variant. Its metadata definition is not included in the default game build, and it is outside the standard Nomads map-vote list. The authored layout shown here does not establish which map is currently hosted.
+
+## Map layout
+
+<figure>
+<img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/nomads-authored-10d264e58962/nomads__nomads_frozen_wasteland/nomads_frozen_wasteland__all_z_overview.png" width="960" height="484" loading="lazy" alt="Static sprite render of nomads_frozen_wasteland.dmm showing all authored layers: z=1, 2">
+<figcaption>Static map layout of <code>nomads_frozen_wasteland.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
+Full-resolution layers: <a href="../images/maps/nomads-authored-10d264e58962/nomads__nomads_frozen_wasteland/nomads_frozen_wasteland__z01__full.png">z=1 (7,040 x 7,040 PNG)</a> · <a href="../images/maps/nomads-authored-10d264e58962/nomads__nomads_frozen_wasteland/nomads_frozen_wasteland__z02__full.png">z=2 (7,040 x 7,040 PNG)</a>.
+</figcaption>
+</figure>
+
+For the other Nomads layouts, see [Nomads Maps](Nomads_Maps.md). For general play, see [Civilizations & Nomads](../gamemodes/Civilizations_and_Nomads.md).

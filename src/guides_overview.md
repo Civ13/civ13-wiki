@@ -4,6 +4,7 @@ This section contains comprehensive guides covering various game mechanics, skil
 
 ## Character & Skills
 - [Guide to Character & Skills](guides/Guide_to_Character.md)
+- [Exercise & Training](guides/Guide_to_Exercise.md)
 
 ## Production & Crafting
 - [Guide to Crafting](guides/Guide_to_Crafting.md)
@@ -13,12 +14,16 @@ This section contains comprehensive guides covering various game mechanics, skil
 - [Guide to Farming](guides/Guide_to_Farming.md)
 - [Guide to Fishing](guides/Guide_to_Fishing.md)
 - [Guide to Ranching](guides/Guide_to_Ranching.md)
+- [Animals, Dogs & Mounts](guides/Guide_to_Animals.md)
 
 ## Building & Construction
 - [Guide to Construction](guides/Guide_to_Construction.md)
 
 ## Combat & Weapons
+- [Combat Basics](guides/Guide_to_Combat.md)
+- [Leading a Squad](guides/Guide_to_Leadership.md)
 - [Guide to Weapons](guides/Guide_to_Weapons.md)
+- [Trenches & Fortifications](guides/Guide_to_Trenches.md)
 - [Guide to Tanks](guides/Guide_to_Tanks.md)
 
 ## Science & Health

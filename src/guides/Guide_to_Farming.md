@@ -96,8 +96,9 @@ There are a few ways to provide the crops with water:
     except for saltwater. Accepted freshwater within two tiles refills crops; empty channels do not water them. Mushrooms do not require watering.
     
   - Dig a flooded trench from the nearest fresh water to irrigate remote
-    fields. For this a trench shovel is required, which becomes
-    available at the 14 industrial research mark. Dig the first trench
+    fields. Use a suitable shovel and complete **Field Defenses** for the
+    trench-digging action. Crafting the tool still depends on the active
+    catalog, research selection and skill requirements. Dig the first trench
     on a lakeshore or on a riverbank, then the second trench next to the
     first one and so on. Farming fields should be within two tiles of
     the water channel as well. A trench could be removed by filling it with 2 piles of dirt.
@@ -182,8 +183,8 @@ Harvest a ready crop, or uproot an unready or dead one, with a knife, hatchet, b
 
 Different biomes have different plants that could be cultivated in them.
 Take notice, that some plants grow only in certain seasons. Biome
-restriction applies only to the largest maps: Continents, Pangea, Europe and New
-World.
+restriction applies on Continental, Pangea, New World, Mediterranean, Europe
+and Gaia. Check the crop's listed biomes and seasons on these maps.
 
 Wet (winter and spring) and dry (summer and fall) seasons apply to the
 Desert, Savanna and Jungles biomes.

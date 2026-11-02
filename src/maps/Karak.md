@@ -1,5 +1,15 @@
 # Karak
 
+## Map layout
+
+<figure>
+<img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/tdm-static-067478b82c7a/1013__karak/karak__all_z_overview.png" width="472" height="552" loading="lazy" alt="Static sprite render of karak.dmm showing all authored layers: z=1">
+<figcaption>Static map layout of <code>karak.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
+Full-resolution layers: <a href="../images/maps/tdm-static-067478b82c7a/1013__karak/karak__z01__full.png">z=1 (2560 × 2560 PNG)</a>.
+</figcaption>
+</figure>
+
+
 This map is based around the crusades, there are two factions, both of
 them are religious zealots wishing to either defend or attack the
 **Karak Castle**.

@@ -1,5 +1,15 @@
 # Gulag RP 
 
+## Map layout
+
+<figure>
+<img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/tdm-static-067478b82c7a/1943__gulag13/gulag13__all_z_overview.png" width="944" height="552" loading="lazy" alt="Static sprite render of gulag13.dmm showing all authored layers: z=1, 2">
+<figcaption>Static map layout of <code>gulag13.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
+Full-resolution layers: <a href="../images/maps/tdm-static-067478b82c7a/1943__gulag13/gulag13__z01__full.png">z=1 (6400 × 6400 PNG)</a> · <a href="../images/maps/tdm-static-067478b82c7a/1943__gulag13/gulag13__z02__full.png">z=2 (6400 × 6400 PNG)</a>.
+</figcaption>
+</figure>
+
+
 **Introduction**
 
 It is the year 1946, one year after the end of WW2, when the Soviets captured you from the battlefield as you surrendered or were forcibly taken away from your homeland.

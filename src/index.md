@@ -132,7 +132,7 @@ For local source inspection with developer tools or AI assistants, read [Civ13 M
 
 <img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Sammirhayeed.md">Sammir Hayeed</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Battleroyale.md#Medieval">Battleroyale (Medieval)</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Battleroyale.md">Battleroyale (Medieval)</a><br>
 
 <img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="maps/Bohemia.md">Bohemia</a><br>
 
@@ -168,7 +168,7 @@ For local source inspection with developer tools or AI assistants, read [Civ13 M
 
 <img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Recife.md">Recife</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Battleroyale.md#Imperial">Battleroyale (Imperial)</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Battleroyale.md">Battleroyale (Imperial)</a><br>
 
 </td>
 <td style="vertical-align: top;">
@@ -228,7 +228,7 @@ For local source inspection with developer tools or AI assistants, read [Civ13 M
 
 <img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Stalingrad.md">Stalingrad</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Stalingrad.md#Smallingrad">Smallingrad</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Stalingrad.md">Smallingrad</a><br>
 
 <img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Wake_Island.md">Wake Island</a><br>
 </td>
@@ -245,11 +245,11 @@ For local source inspection with developer tools or AI assistants, read [Civ13 M
 
 <img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Arab_Town.md">Arab Town</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Arab_Town.md#Arab_Town_II">Arab Town II</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Arab_Town.md">Arab Town II</a><br>
 
 <img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Hostages.md">Hostages</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Battleroyale.md#Modern">Battleroyale (Modern)</a><br>
+<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Battleroyale.md">Battleroyale (Modern)</a><br>
 </td>
 </tr>
 </tbody></table>
