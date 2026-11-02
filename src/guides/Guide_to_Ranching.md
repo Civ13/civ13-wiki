@@ -1,5 +1,7 @@
 # Guide to Ranching
 
+For taming dogs, riding horses and driving carriages, see [Animals, Dogs & Mounts](Guide_to_Animals.md).
+
 ## Harvesting dead animals
 
 Use a **held sharp tool** on an adjacent dead animal. **Harm intent** performs quick butchering in **30 ticks** (normally three seconds); **Grab intent** skins and butchers in **100 ticks** (normally ten seconds). Moving, changing your active hand, becoming incapacitated, disconnecting or losing the corpse/tool cancels. Only one harvesting action can claim a corpse at a time. Successful harvesting removes the corpse.
