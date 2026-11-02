@@ -30,10 +30,10 @@ them are religious zealots wishing to either defend or attack the
 | Role                   | Image                                                                                            | Description                                                                                         | Difficulty |
 | ---------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- | ---------- |
 | Emir (Lord)            | <img src="../images/Arab_Lord.png">     | Command your army in reclaiming the castle of Karak from the Invaders, you may need to strategize.  | Very Hard  |
-| Mamluk (Heavy Infantry) | <img src="https://media.discordapp.net/attachments/464159913342402560/540084572063399946/Arab_Dude.png">   | Protect the Lord, Coordinate with your commander and the other infantry. | Hard       |
-| Sayaf (Swordsman)      | <img src="https://media.discordapp.net/attachments/464159913342402560/540084644217880595/Arab_Dude_2.png"> | Fight the opposing army and follow your commander's orders.                                                        | Medium     |
-| Alraamith (Spearmen)   | <img src="https://media.discordapp.net/attachments/464159913342402560/540084711532265492/Arab_dude_3.png"> | Fight the opposing army and follow your commander's orders.                                                                 | Medium     |
-| Rami Alsiham (Archer)  | <img src="https://media.discordapp.net/attachments/464159913342402560/540084753718706187/Arab_dude_4.png"> | Operate the catapults and help defend your position.                | Easy       |
+| Mamluk (Heavy Infantry) |    | Protect the Lord, Coordinate with your commander and the other infantry. | Hard       |
+| Sayaf (Swordsman)      |  | Fight the opposing army and follow your commander's orders.                                                        | Medium     |
+| Alraamih (Spearmen)   |  | Fight the opposing army and follow your commander's orders.                                                                 | Medium     |
+| Rami Alsiham (Archer)  |  | Operate the catapults and help defend your position.                | Easy       |
 | Imam (Priest)          |                                                                                                  | Treat the wounded men of your caliphate.                                                            | Medium     |
 
 ## French Roles

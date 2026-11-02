@@ -7,7 +7,7 @@ The Governor leads the colony, coordinates public projects and works with mercha
 1. Write the colony's laws on paper and put them on the notice board.
 2. Announce where to read them and keep spare copies.
 3. Make sure guards understand the written laws.
-4. Discuss building plans with the Head Architect. A store and medical clinic are useful early projects.
+4. Discuss building plans with the Architect. A store and medical clinic are useful early projects.
 5. Coordinate imports, exports and spending with the merchants.
 
 ## Some laws you can make
