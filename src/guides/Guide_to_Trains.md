@@ -16,7 +16,7 @@ The wooden mining cart needs Industrial research **93** in either mode.
 | Piece | Cost | Notes |
 | --- | --- | --- |
 | Rail (vertical or horizontal) | 1 iron | Straight track. |
-| Rail (left turn) | 1 iron | A curve; it faces the way you are facing when you build it. |
+| Rail (left turn) | 1 iron | A curve joining the direction you face to your left. Face each way in turn to build all four corners. |
 | Rail switcher (to left or right) | 2 iron | A junction that a lever can switch between going straight and turning off. |
 | Rail rotator platform | 3 iron | Turns whatever wagon is standing on it. |
 | Train lever | 1 iron | Flips every switcher within two tiles. |
