@@ -1072,73 +1072,7 @@ Drive safe out there!
 
 <hr>
 
-Rafts and outriggers do not befit a true naval power, so when your
-nation has its eye on distant shores, it may be just the time to open
-shipyards and commission a man-of-war or two.
-
-<b>Shipyard considerations</b><br>
-While selecting a place for shipbuilding, keep in mind the following:
-
-  - The maximum size of a ship is 5x5 tiles. Larger ones will not
-    function properly due to technical reasons.
-  - A ship has to be of rectangular shape.
-  - A ship is facing North by default.
-  - A ship must be built on water tiles, otherwise it won't move.
-  - The flooded trenches are navigable and could be traversed on a ship.
-    You can dig a single wide trench next to a body of water and build a
-    ship inside the trench. You could also dig a trench around the ship
-    to allow more space for maneuvering.
-
-<b>Shipbuilding</b>
-
-|                                                                                          |                                                                                          |                                                                                          |                                                                                          |
-| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| <img src="../images/ship1.png"> | <img src="../images/ship2.png"> | <img src="../images/ship3.png"> | <img src="../images/ship4.png"> |
-| **1**                                                                         | **2**                                                                         | **3**                                                                         | **4**                                                                         |
-
-**You can fix the walls and frames and the mast in place with the wrench to avoid pushing them on accident, but it is not necessary.**
-
-1.  Build a **wood ship frame** with wood logs. The frame on the picture is 5x3 tiles.
-2.  Click ship frame tiles with wood logs to place walls and windows. Enter the desired thickness for every wall in millimeters.
-
-      - **Wall (W)** - just a wooden impassable wall. Examples of walls
-        are in the middle and at the bow of the ship on the picture.
-
-      - **Crenelated wall (CW)** - a wall with a doorway that could be
-        used to enter or leave the ship. Examples of crenelated walls
-        are on the left and right side of the ship on the picture, two
-        on each side, closer to the bow and the stern.
-
-      - **Window (Wi)** - just a cosmetic option. On the picture, there
-        is a single window at the bow and three at the stern.
-
-3.  Build a **ship rudder control** and a **ship mast** (one is enough for now) with
-    wood logs. Their location is not important. **Make a small sail with 15 lengths of cloth and place it on the mast.**
-      - The mast is actually larger than 1 tile, so its positioning is a
-        bit quirky. See the picture below - this is how the mast is
-        built when facing North:
-
-        <img src="../images/ship31.png">
-
-4.  **Build a ship rudder axis at the top left corner of the ship.**
-    There are two axes, but for now you can always select a regular axis
-    with 2500 carried weight. Click the axis to finish building the
-    ship.
-
-<table>
-<tbody>
-<tr>
-<td><img src="../images/ship_steel.png"></td>
-<td><ul>
-<li>A ship frame could also be built with steel instead of wood in later ages. <b>Ship rudder axis has to be built with wood, though.</b></li>
-<li>Also in later ages, a motor ship could be built to break free of the tyranny of the wind. Place an engine with a fuel tank on the ship frame instead of a mast.
-<ul>
-<li>A motor ship with an engine is sensitive to the weight it carries, so the engine must produce enough power. An engine the size of 12000-15000 cc should be adequate for almost any ship.</li>
-</ul></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+Ships are built tile by tile from ship frames, walls, masts or an engine, a wheel and a rudder axis. Rafts, outriggers and motorboats are simpler. See **[Boats & Ships](Guide_to_Boats.md)** for every boat, the parts each one needs, the helm controls and how the wind affects sailing.
 
 ### Modular tanks
 

@@ -16,6 +16,10 @@ This section contains comprehensive guides covering various game mechanics, skil
 - [Guide to Ranching](guides/Guide_to_Ranching.md)
 - [Animals, Dogs & Mounts](guides/Guide_to_Animals.md)
 
+## Transport
+- [Boats & Ships](guides/Guide_to_Boats.md)
+- [Trains](guides/Guide_to_Trains.md)
+
 ## Building & Construction
 - [Guide to Construction](guides/Guide_to_Construction.md)
 
