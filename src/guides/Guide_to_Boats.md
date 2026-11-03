@@ -67,7 +67,7 @@ Hit a sailing outrigger with a hammer to take it apart. You get the sail and 10 
 
 ### Motor outrigger
 
-1. Build an **engine** of **100 to 400 cc** with the engine maker. Smaller or larger engines are refused.
+1. Build an **engine** of **100 to 400 cc** with the engine maker. Smaller or larger engines are refused. See [Boat engines](#boat-engines) for which types fit.
 2. Drag the engine onto the frame.
 3. Click the frame with a **fuel tank of up to 150 units**. The 120u small fuel tank and the bike tanks fit. The boat is finished as soon as the tank goes in.
 4. Fill the tank by clicking the boat with a barrel or other container of the fuel your engine burns. Examine the boat to see how much fuel is left.
@@ -76,8 +76,22 @@ Hit a sailing outrigger with a hammer to take it apart. You get the sail and 10 
 
 The **RHIB** is built exactly like a motor outrigger, from a **rigid hull inflatable boat frame** (22 planks, the same Crafting skill 1.35), but it is much sturdier and takes bigger parts:
 
-- An engine of **150 to 600 cc**.
+- An engine of **150 to 600 cc**. See [Boat engines](#boat-engines) for which types fit.
 - A fuel tank of up to **200 units**, such as the 180u medium fuel tank.
+
+## Boat engines
+
+Motorboats take any engine made with the [engine maker](Guide_to_Crafting.md#engines). The **steam engine doesn't fit**, because it needs a separate furnace. The type decides which fuel the boat burns. Some types have a minimum size, which rules out the smaller outrigger sizes:
+
+| Engine type | Smallest you can build | Outrigger (100-400 cc) | RHIB (150-600 cc) |
+| --- | ---: | --- | --- |
+| 2-stroke gasoline | 49 cc | 100-400 cc | 150-600 cc |
+| 4-stroke gasoline, high-efficiency 4-stroke, ethanol-gasoline | 80-100 cc | 100-400 cc | 150-600 cc |
+| Hot bulb, Hesselman | 200 cc | 200-400 cc | 200-600 cc |
+| Turbine | 250 cc | 250-400 cc | 250-600 cc |
+| Diesel, biodiesel | 300 cc | 300-400 cc | 300-600 cc |
+
+An engine of 300 cc or more gives the fastest boat, so a 300-400 cc engine is a good choice for either hull.
 
 ## Driving a motorboat
 
