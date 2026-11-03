@@ -12,6 +12,7 @@
     - [Starter Guide](Starter_Guide.md)
     - [Character & Skills](guides/Guide_to_Character.md)
     - [Animals, Dogs & Mounts](guides/Guide_to_Animals.md)
+    - [Boats & Ships](guides/Guide_to_Boats.md)
     - [Chemistry](guides/Guide_to_Chemistry.md)
     - [Combat Basics](guides/Guide_to_Combat.md)
     - [Communications](guides/Guide_to_Communications.md)
