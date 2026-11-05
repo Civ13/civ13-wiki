@@ -23,7 +23,7 @@ The bench, dispenser and burner are offered in global and Carib catalogs through
 
 ## Gelatin from meat or papaya
 
-An empty extraction kit collects **4 units** from one supported source: collagen from an unspoiled raw meat slab, Digestive Protease from a vomit decal, or Fruit Protease from an unspoiled papaya. A successful extraction consumes the source. Empty the kit into the bench before reusing it; spoiled or unsupported sources and nonempty kits consume nothing.
+An empty extraction kit collects **4 units** from one supported source: collagen from an unspoiled raw meat slab or a cleaned bone (clean a bone with a knife first), Digestive Protease from a vomit decal, or Fruit Protease from an unspoiled papaya. A successful extraction consumes the source. Empty the kit into the bench before reusing it; spoiled or unsupported sources and nonempty kits consume nothing.
 
 Gather wild papaya seeds in jungle or savanna, plant and tend them using [farming](Guide_to_Farming.md), then harvest with a knife, hatchet, bayonet or scythe. Papaya currently shares orange fruit/tree sprites; read the item's name. Other fruit does not supply Fruit Protease through this route.
 
@@ -34,7 +34,32 @@ Gather wild papaya seeds in jungle or savanna, plant and tend them using [farmin
 | Separate in centrifuge | 5 unpurified gelatin | 4 purified gelatin |
 | Finish at the bench | 4 purified gelatin + 1 water **or purified ethanol** | 5 solid gelatin |
 
-Ordinary ethanol and blood plasma are not substitutes for the named finishing solvent and protease feedstocks.
+Ordinary ethanol and blood plasma are not substitutes for the named finishing solvent and protease feedstocks. A third finishing route uses purified gelatin with both water and purified ethanol.
+
+### Gelatin bandages
+
+1. Optionally whip 5 gelatin into gelatin foam at the bench.
+2. Use a container holding 5 units of gelatin or gelatin foam on an empty **drying rack** to spread it out to dry into **dry gelatin**.
+3. Cut dry gelatin with a knife into a **gelatin sheet**.
+4. Use a gelatin sheet in hand to fold it into a **gelatin bandage**, which works like any other bandage roll, including as a [tourniquet](Guide_to_Medical.md#severed-arteries-and-tourniquets).
+
+## Wood pulp and fibres
+
+Wood chips can be pulped at the bench, and the pulp centrifuged into cellulose. Cellulose spins into **rayon** (from 1890) or **lyocell** (from 1980) fibre, which makes ordinary cloth.
+
+## Polymer products
+
+Polymers from the bench can be made into useful items:
+
+- **Polyethylene and butyl rubber:** a closed plastic bottle. **Polypropylene:** a reusable storage bag. Either polymer makes a plastic sheet.
+- **Polypropylene** also makes cloth or a plastic comb; **polyethylene** makes a throwable play ball.
+- **Butyl** makes adhesive tape, stoppers and gaskets. Tape repairs drones and wraps a copper ingot into an insulated power cable; stoppers and gaskets seal small vials and drink bottles.
+- Using a copper ingot on a plastic sheet makes one piece of insulated power cable.
+- Plastic sheets also craft decorative plastic pipes, elbows and junctions. These are decoration only and do not carry liquids.
+
+## Automated chemistry
+
+Pipe networks, pumps, holding tanks, reaction vessels, bottlers and the automatic tablet press can run chemistry without anyone at the bench. See [Factory Automation](Guide_to_Factory_Automation.md#pipe-networks).
 
 ## Centrifuge setup
 

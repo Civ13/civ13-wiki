@@ -15,6 +15,18 @@ Furthermore, more complex recipes are also even more nutritious and improve **[m
 - **[Guide to Ranching](Guide_to_Ranching.md)**
 - **[Guide to Fishing](Guide_to_Fishing.md)**
 
+## Balanced diet
+
+A varied diet, and food your character enjoys, raises how much stamina you can store and spend, by up to 25%. Hunger and thirst work the same as before, and an ordinary diet never lowers your normal stamina.
+
+- **Four nutrient groups:** carbohydrate, protein, fat and vitamins. Every bit of food you digest adds to its groups. Each group that is at least *adequate* adds 5% stamina capacity.
+- **Hidden tastes:** each character likes one flavour and dislikes another in each taste category (grain, vegetable, animal, fruit and sweet). Eating a liked flavour adds up to another 10%; a disliked one wears that down. The first time you eat a flavour you like or dislike, you find out, and it is listed under **IC > Notes**.
+- **Prepared dishes** such as vegetable potage and hearty stew earn extra enjoyment when they contain flavours you like, more for higher-quality meals. Meat and eggs in a stew count too.
+- **Check Diet** (IC tab) shows each group as depleted, low, adequate or plenty, whether it is rising or falling, and which foods would help the low ones. The Status tab shows your current **Diet energy** bonus.
+- **Examining food** shows its nutrient make-up and any tastes you have already learned about it.
+
+If two or more groups stay low for about 15 minutes you get a warning, and the bonus fades as your reserves fall. Eating varied food again brings it back.
+
 ## Kitchen implements
 
 See the **[Full Crafting List](../Full_Crafting_List.md)** for more details about crafting the implements from the list.

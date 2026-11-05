@@ -10,6 +10,7 @@ This section contains comprehensive guides covering various game mechanics, skil
 - [Guide to Crafting](guides/Guide_to_Crafting.md)
 - [Guide to Metallurgy](guides/Guide_to_Metallurgy.md)
 - [Resource Extraction](guides/Guide_to_Resource_Extraction.md)
+- [Factory Automation](guides/Guide_to_Factory_Automation.md)
 - [Guide to Cooking](guides/Guide_to_Cooking.md)
 - [Guide to Farming](guides/Guide_to_Farming.md)
 - [Guide to Fishing](guides/Guide_to_Fishing.md)

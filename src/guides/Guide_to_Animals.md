@@ -49,6 +49,10 @@ Horses can be ridden by anyone; they do not need to be tamed first.
 
 If the horse dies, its rider falls off and is knocked down. Keep your horse fed and away from gunfire.
 
+### Saddles
+
+A **leather saddle** (6 leather, Basic Agriculture research) halves the time it takes to mount and to get off. Use it on a horse nobody is riding to fit it. Riding bareback still works at the normal speed. To take tack off, right-click the animal and use **Remove animal tack**; it drops on the ground. Recover tack from a dead animal before its body decays.
+
 ## Carriages
 
 A **carriage** carries a driver and up to five passengers or cargo items, pulled by horses or cattle.
@@ -59,5 +63,7 @@ A **carriage** carries a driver and up to five passengers or cargo items, pulled
   - Press **Z** (activate held object) with the reins to start moving, and again to go faster.
   - Press **C** (secondary activation) to slow down and stop.
 - **Passengers and cargo:** Drag a person or object onto the carriage to load it. To get off, click the carriage with an empty hand.
+
+A **leather animal harness** (4 leather, Basic Agriculture research) halves the extra hunger a horse or cow gets from pulling. Fit it to the animal before hitching it; animals without a harness still pull as before.
 
 The more animals you hitch, the faster the carriage can go. Pulling animals get hungry faster, and a carriage stops if one of its animals dies. Feed them before long journeys; see [Ranching](Guide_to_Ranching.md).

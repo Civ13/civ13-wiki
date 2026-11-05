@@ -10,7 +10,7 @@ The Blacksmith turns metal into weapons, armor and tools for the colony on the *
 | 25 iron | Enough to build your first iron anvil (20 iron) with some left over. |
 | Coins | For buying supplies from the merchants. |
 
-You also start with **very high strength** and a **Crafting skill of 2.5**, well above the **1.7** every anvil requires.
+You also start with **very high strength** and a **Crafting skill of 2.5**, well above the **1.2** every anvil requires.
 
 On the colony maps, **only the Blacksmith can use an anvil**. Other colonists get "Your job is not permitted to use this anvil on this map. Ask a blacksmith." That makes you the only source of forged weapons and armor, so keep the colony informed about what you can make.
 

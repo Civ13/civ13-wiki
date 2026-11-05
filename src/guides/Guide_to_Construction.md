@@ -843,6 +843,13 @@ sandstorms, as well as a nice cool shade.
 Roofs are supported by walls, wooden roof supports and stone pillars and
 columns. ***Wooden mine supports do not hold the buildable roof!***
 
+### Weathering and repairs
+
+Walls and roofs made of fibre (straw, thatch and the like), earth and timber slowly wear out with the weather. Fibre lasts 16 game years, earth 32 and timber 64. Examine a wall or roof to see how many seasons it has left; in its last year it warns you and names the item that repairs it, and people nearby get a warning when a piece enters its last year and again in its last season. A worn-out piece collapses whether or not it is supported.
+
+- **Roofs** are repaired with matching roofing: use it on the roof, or use it while facing the roof. The roofing is used up.
+- **Walls** are repaired with their building material. The repair costs the missing share of what the wall took to build, at least one unit.
+
 <table>
 <tbody>
 <tr>

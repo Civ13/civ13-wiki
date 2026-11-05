@@ -20,6 +20,27 @@ Writing is performed on paper using any standard writing utensil.
   - **Crayons** work much like pens, except that they are always bold,
     and lack the list, horizontal rule, and small tags.
 
+### The paper editor
+
+Writing on a paper with a pen or crayon opens the paper editor. Choose the **language** you write in at the top; only readers who know that language can understand it. Crayon writing is always bold and in a childlike hand.
+
+The editor understands these tags:
+
+| Tag | Effect |
+| --- | --- |
+| `[b]` ... `[/b]` | Bold |
+| `[i]` ... `[/i]` | Italics |
+| `[br]` | New line (pressing Enter also starts a new line) |
+| `[sign]` | Your signature |
+| `[date]` | Today's in-game date |
+| `[time]` | The current in-game time |
+
+`[sign]`, `[date]` and `[time]` are filled in once, when you write. Any other tag is shown as plain text. Papers written before the editor keep their old formatting when read, and you can keep writing on them.
+
+### Classic editor
+
+Some special papers, and characters who cannot write any language, still use the classic paper editor. It accepts the full set of tags below.
+
 ## Formatting Paper
 
 ### Signature
