@@ -16,7 +16,7 @@ For **Pan river sediment**, hold a wooden bowl in your active hand on eligible s
 
 | Machine | Placement | Output |
 | --- | --- | --- |
-| Industrial drill | Anchored on uncovered surface dirt at z=1 | Mineral pool |
+| Industrial drill | Anchored on uncovered dirt, on the surface or underground | Mineral pool |
 | Powered soil sifter | Anchored on uncovered, non-mineable dirt or sand | Soil trace pool |
 | Powered river concentrator | The same soil, beside shallow freshwater | Copper, tin, silver or gold ore |
 
