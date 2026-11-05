@@ -25,6 +25,16 @@ edit-url-template = "https://github.com/civ13/civ13-wiki/blob/master/src/{path}"
 smart-punctuation = true
 no-section-label = true
 
+[output.html.search]
+enable = true
+limit-results = 20
+use-boolean-and = true
+boost-title = 3
+boost-hierarchy = 2
+boost-paragraph = 1
+expand = true
+heading-split-level = 2
+
 [output.html.print]
 enable = false
 

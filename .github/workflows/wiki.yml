@@ -22,6 +22,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
+        with:
+          fetch-depth: 2 # the PR merge commit and its parents, for the pinned-page diff
       - name: Install mdBook & plugins
         uses: taiki-e/install-action@v2.87.27
         with:
@@ -29,6 +31,9 @@ jobs:
       - name: Configure Pages
         if: github.event_name != 'pull_request'
         uses: actions/configure-pages@v6
+      - name: List changed pages that Player Help pins
+        if: github.event_name == 'pull_request'
+        run: python3 scripts/check_pinned_changes.py HEAD^1 HEAD
       - name: Build with mdBook
         run: |
           python3 scripts/check_tools.py
@@ -63,3 +68,19 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+
+  markdownlint:
+    # Advisory: reports style problems in the job log without failing the PR.
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v7
+      - uses: DavidAnson/markdownlint-cli2-action@v19
+        continue-on-error: true # advisory: findings stay in the log, the job stays green
+        with:
+          globs: |
+            src/**/*.md
+            !src/Full_Crafting_List.md
+            !src/Food_Decay_Times.md
