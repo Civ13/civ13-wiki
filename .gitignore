@@ -18,3 +18,6 @@ build.log
 # VSCodium files
 .vscode/
 *.code-workspace
+
+# pinned toolchain installed by scripts/setup_tools.py
+tools/

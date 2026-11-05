@@ -1,0 +1,46 @@
+name: Publish LFS assets to the release
+
+# Full-resolution map renders and videos live in Git LFS and are served to
+# readers from the rolling "assets" GitHub Release, so the Pages build never
+# downloads them (LFS bandwidth is metered on the free plan). Runs when an LFS
+# file changes on master, or by hand.
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - '.gitattributes'
+      - 'src/images/maps/**/*__full.png'
+      - 'src/video/**'
+      - '.github/workflows/assets.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: assets-release
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          lfs: true
+      - name: Check asset contract
+        run: python3 scripts/check_assets.py
+      - name: Upload assets to the rolling release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          tag=assets
+          if ! gh release view "$tag" >/dev/null 2>&1; then
+            gh release create "$tag" --title "Wiki large assets" \
+              --notes "Full-resolution map renders and videos linked from the wiki. Rolling release updated by .github/workflows/assets.yml; see LICENSE-Civ13.txt in src/images/maps/ for credits." \
+              --target "$GITHUB_SHA"
+          fi
+          git lfs ls-files --name-only | tr '\n' '\0' | xargs -0 gh release upload "$tag" --clobber
+          gh release view "$tag" --json assets --jq '.assets | length' | xargs -I{} echo "{} assets on release $tag"

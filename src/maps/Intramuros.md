@@ -5,7 +5,7 @@
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/tdm-static-067478b82c7a/1943__intramuros/intramuros__all_z_overview.png" width="420" height="552" loading="lazy" alt="Static sprite render of intramuros.dmm showing all authored layers: z=1">
 <figcaption>Static map layout of <code>intramuros.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
-Full-resolution layers: <a href="../images/maps/tdm-static-067478b82c7a/1943__intramuros/intramuros__z01__full.png">z=1 (4800 × 5440 PNG)</a>.
+Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/intramuros__z01__full.png">z=1 (4800 × 5440 PNG)</a>.
 </figcaption>
 </figure>
 

@@ -13,11 +13,6 @@ command = "mdbook-admonish"
 
 [preprocessor.emojicodes]
 
-[preprocessor.template]
-before = ["admonish","emojicodes"] # templates can include these so we run this first
-
-[preprocessor.embedify]
-
 [output.html]
 additional-js = ['scripts/nav-additions.js']
 additional-css = ['theme/compiled/ss14.css']
@@ -27,7 +22,6 @@ preferred-dark-theme = "navy"
 git-repository-url = "https://github.com/civ13/civ13-wiki"
 edit-url-template = "https://github.com/civ13/civ13-wiki/blob/master/src/{path}"
 
-mathjax-support = true
 smart-punctuation = true
 no-section-label = true
 

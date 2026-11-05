@@ -7,7 +7,7 @@
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/tdm-static-067478b82c7a/special__battleroyale_imperial/battleroyale_imperial__all_z_overview.png" width="472" height="552" loading="lazy" alt="Static sprite render of battleroyale_imperial.dmm showing all authored layers: z=1">
 <figcaption>Static map layout of <code>battleroyale_imperial.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
-Full-resolution layers: <a href="../images/maps/tdm-static-067478b82c7a/special__battleroyale_imperial/battleroyale_imperial__z01__full.png">z=1 (4000 × 4000 PNG)</a>.
+Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/battleroyale_imperial__z01__full.png">z=1 (4000 × 4000 PNG)</a>.
 </figcaption>
 </figure>
 
@@ -16,7 +16,7 @@ Full-resolution layers: <a href="../images/maps/tdm-static-067478b82c7a/special_
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/tdm-static-067478b82c7a/special__battleroyale_medieval/battleroyale_medieval__all_z_overview.png" width="472" height="552" loading="lazy" alt="Static sprite render of battleroyale_medieval.dmm showing all authored layers: z=1">
 <figcaption>Static map layout of <code>battleroyale_medieval.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
-Full-resolution layers: <a href="../images/maps/tdm-static-067478b82c7a/special__battleroyale_medieval/battleroyale_medieval__z01__full.png">z=1 (3200 × 3200 PNG)</a>.
+Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/battleroyale_medieval__z01__full.png">z=1 (3200 × 3200 PNG)</a>.
 </figcaption>
 </figure>
 
@@ -25,7 +25,7 @@ Full-resolution layers: <a href="../images/maps/tdm-static-067478b82c7a/special_
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/tdm-static-067478b82c7a/special__battleroyale_modern/battleroyale_modern__all_z_overview.png" width="472" height="552" loading="lazy" alt="Static sprite render of battleroyale_modern.dmm showing all authored layers: z=1">
 <figcaption>Static map layout of <code>battleroyale_modern.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
-Full-resolution layers: <a href="../images/maps/tdm-static-067478b82c7a/special__battleroyale_modern/battleroyale_modern__z01__full.png">z=1 (3200 × 3200 PNG)</a>.
+Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/battleroyale_modern__z01__full.png">z=1 (3200 × 3200 PNG)</a>.
 </figcaption>
 </figure>
 

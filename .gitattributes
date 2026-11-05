@@ -1,0 +1,5 @@
+# Full-resolution map layer renders and videos are stored in Git LFS. They are
+# not served from GitHub Pages: wiki pages link to copies published on the
+# "assets" GitHub Release by .github/workflows/assets.yml.
+src/images/maps/**/*__full.png filter=lfs diff=lfs merge=lfs -text
+src/video/*.mp4 filter=lfs diff=lfs merge=lfs -text

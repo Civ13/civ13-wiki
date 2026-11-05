@@ -9,7 +9,7 @@
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/nomads-authored-10d264e58962/nomads__nomads_frozen_wasteland/nomads_frozen_wasteland__all_z_overview.png" width="960" height="484" loading="lazy" alt="Static sprite render of nomads_frozen_wasteland.dmm showing all authored layers: z=1, 2">
 <figcaption>Static map layout of <code>nomads_frozen_wasteland.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
-Full-resolution layers: <a href="../images/maps/nomads-authored-10d264e58962/nomads__nomads_frozen_wasteland/nomads_frozen_wasteland__z01__full.png">z=1 (7,040 x 7,040 PNG)</a> · <a href="../images/maps/nomads-authored-10d264e58962/nomads__nomads_frozen_wasteland/nomads_frozen_wasteland__z02__full.png">z=2 (7,040 x 7,040 PNG)</a>.
+Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_frozen_wasteland__z01__full.png">z=1 (7,040 x 7,040 PNG)</a> · <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_frozen_wasteland__z02__full.png">z=2 (7,040 x 7,040 PNG)</a>.
 </figcaption>
 </figure>
 
