@@ -66,10 +66,16 @@ The wiki will be served at `http://localhost:3000`. When using `mdbook serve`, t
 ### File Organization
 
 - `src/` — All markdown source files (the content you edit)
-- `src/SUMMARY.md` — Wiki table of contents and navigation structure
+- `src/SUMMARY.md` — Wiki table of contents and navigation structure. Every page must be listed here exactly once; the Guides and Maps overview pages are generated from it (run `python3 scripts/nav.py --write` after changing it)
 - `images/` — Images and sprites used in pages
 - `book/` — Compiled output (generated automatically, do not edit)
 - `theme/` — mdBook theme customization
+
+### Map pages
+
+Map pages live in `src/maps/` and are listed in `SUMMARY.md` under the vote group the in-game map vote uses (era for team combat, mode for roleplay). A map belongs in an active group only while it has an uncommented entry in the game's map vote lists; otherwise list it under *Not in Rotation* rather than deleting the page, so it is ready when the map returns.
+
+A complete map page has the generated layout render, the sides or factions, the objective or win condition, and any rules that differ from the mode guide. A page that still only has the render keeps its *How to contribute* section until someone fills it in.
 
 ### Adding Images
 

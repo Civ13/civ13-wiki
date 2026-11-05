@@ -616,3 +616,10 @@ details[open].admonition > summary.admonition-title::after {
 }
 
 /*# sourceMappingURL=ss14.css.map */
+
+/* Draft chapters (`- [Group]()` in SUMMARY.md) are navigation groups; show them as headings. */
+.chapter li.chapter-item > div,
+#subpage-footer li.chapter-item > div {
+    opacity: 1;
+    font-weight: 600;
+}

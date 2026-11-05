@@ -104,7 +104,6 @@ For local source inspection with developer tools or AI assistants, read [Civ13 M
 
 <img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="gamemodes/The_Art_of_the_Deal.md">Art of the Deal</a><br>
 
-<img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="maps/Pepelsibirsk.md">Pepelsibirsk</a><br>
 
 <img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="maps/Wasteland.md">Wasteland</a><br>
 
@@ -158,7 +157,6 @@ For local source inspection with developer tools or AI assistants, read [Civ13 M
 
 <img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Naval.md">Naval</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Island.md">Island</a><br>
 
 <img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Isla_Robusta.md">Isla Robusta</a><br>
 
@@ -228,7 +226,6 @@ For local source inspection with developer tools or AI assistants, read [Civ13 M
 
 <img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Stalingrad.md">Stalingrad</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Stalingrad.md">Smallingrad</a><br>
 
 <img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Wake_Island.md">Wake Island</a><br>
 </td>
@@ -245,7 +242,6 @@ For local source inspection with developer tools or AI assistants, read [Civ13 M
 
 <img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Arab_Town.md">Arab Town</a><br>
 
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Arab_Town.md">Arab Town II</a><br>
 
 <img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Hostages.md">Hostages</a><br>
 
