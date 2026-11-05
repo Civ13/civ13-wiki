@@ -5,7 +5,7 @@
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/static-58404f5bd16e/nomads__nomads/nomads__all_z_overview.png" width="960" height="592" loading="lazy" alt="Static sprite render of nomads.dmm showing all authored layers: z=1, 2">
 <figcaption>Static map layout of <code>nomads.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
-Full-resolution layers: <a href="../images/maps/static-58404f5bd16e/nomads__nomads/nomads__z01__full.png">z=1 (caves) (4960 × 7200 PNG)</a> · <a href="../images/maps/static-58404f5bd16e/nomads__nomads/nomads__z02__full.png">z=2 (surface) (4960 × 7200 PNG)</a>.
+Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads__z01__full.png">z=1 (caves) (4960 × 7200 PNG)</a> · <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads__z02__full.png">z=2 (surface) (4960 × 7200 PNG)</a>.
 </figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ This is the classic map, using the same map as the Civilizations map.
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/static-58404f5bd16e/nomads__nomads_desert/nomads_desert__all_z_overview.png" width="960" height="562" loading="lazy" alt="Static sprite render of nomads_desert.dmm showing all authored layers: z=1, 2">
 <figcaption>Static map layout of <code>nomads_desert.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
-Full-resolution layers: <a href="../images/maps/static-58404f5bd16e/nomads__nomads_desert/nomads_desert__z01__full.png">z=1 (7200 × 7200 PNG)</a> · <a href="../images/maps/static-58404f5bd16e/nomads__nomads_desert/nomads_desert__z02__full.png">z=2 (7200 × 7200 PNG)</a>.
+Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_desert__z01__full.png">z=1 (7200 × 7200 PNG)</a> · <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_desert__z02__full.png">z=2 (7200 × 7200 PNG)</a>.
 </figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ Full-resolution layers: <a href="../images/maps/static-58404f5bd16e/nomads__noma
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/static-58404f5bd16e/nomads__nomads_jungle/nomads_jungle__all_z_overview.png" width="960" height="562" loading="lazy" alt="Static sprite render of nomads_jungle.dmm showing all authored layers: z=1, 2">
 <figcaption>Static map layout of <code>nomads_jungle.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
-Full-resolution layers: <a href="../images/maps/static-58404f5bd16e/nomads__nomads_jungle/nomads_jungle__z01__full.png">z=1 (9600 × 9600 PNG)</a> · <a href="../images/maps/static-58404f5bd16e/nomads__nomads_jungle/nomads_jungle__z02__full.png">z=2 (9600 × 9600 PNG)</a>.
+Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_jungle__z01__full.png">z=1 (9600 × 9600 PNG)</a> · <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_jungle__z02__full.png">z=2 (9600 × 9600 PNG)</a>.
 </figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ without a bridge is considered unsafe - piranhas are abundant.
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/static-58404f5bd16e/nomads__nomads_divide/nomads_divide__all_z_overview.png" width="960" height="562" loading="lazy" alt="Static sprite render of nomads_divide.dmm showing all authored layers: z=1, 2">
 <figcaption>Static map layout of <code>nomads_divide.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
-Full-resolution layers: <a href="../images/maps/static-58404f5bd16e/nomads__nomads_divide/nomads_divide__z01__full.png">z=1 (8000 × 8000 PNG)</a> · <a href="../images/maps/static-58404f5bd16e/nomads__nomads_divide/nomads_divide__z02__full.png">z=2 (8000 × 8000 PNG)</a>.
+Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_divide__z01__full.png">z=1 (8000 × 8000 PNG)</a> · <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_divide__z02__full.png">z=2 (8000 × 8000 PNG)</a>.
 </figcaption>
 </figure>
 
@@ -68,7 +68,7 @@ alligators.
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/static-067478b82c7a/nomads__nomads_ice_age/nomads_ice_age__all_z_overview.png" width="510" height="592" loading="lazy" alt="Static sprite render of nomads_ice_age.dmm showing all authored layers: z=1">
 <figcaption>Static map layout of <code>nomads_ice_age.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
-Full-resolution layers: <a href="../images/maps/static-067478b82c7a/nomads__nomads_ice_age/nomads_ice_age__z01__full.png">z=1 (9600 × 9600 PNG)</a>.
+Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_ice_age__z01__full.png">z=1 (9600 × 9600 PNG)</a>.
 </figcaption>
 </figure>
 
@@ -79,7 +79,7 @@ Snow plains with frozen rivers and lakes. Rock is more abundant than wood. You m
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/static-067478b82c7a/nomads__nomads_continental/nomads_continental__all_z_overview.png" width="960" height="592" loading="lazy" alt="Static sprite render of nomads_continental.dmm showing all authored layers: z=1, 2">
 <figcaption>Static map layout of <code>nomads_continental.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
-Full-resolution layers: <a href="../images/maps/static-067478b82c7a/nomads__nomads_continental/nomads_continental__z01__full.png">z=1 (6400 × 12800 PNG)</a> · <a href="../images/maps/static-067478b82c7a/nomads__nomads_continental/nomads_continental__z02__full.png">z=2 (6400 × 12800 PNG)</a>.
+Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_continental__z01__full.png">z=1 (6400 × 12800 PNG)</a> · <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_continental__z02__full.png">z=2 (6400 × 12800 PNG)</a>.
 </figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ Full-resolution layers: <a href="../images/maps/static-067478b82c7a/nomads__noma
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/static-067478b82c7a/nomads__nomads_pangea/nomads_pangea__all_z_overview.png" width="960" height="592" loading="lazy" alt="Static sprite render of nomads_pangea.dmm showing all authored layers: z=1, 2">
 <figcaption>Static map layout of <code>nomads_pangea.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
-Full-resolution layers: <a href="../images/maps/static-067478b82c7a/nomads__nomads_pangea/nomads_pangea__z01__full.png">z=1 (6400 × 16000 PNG)</a> · <a href="../images/maps/static-067478b82c7a/nomads__nomads_pangea/nomads_pangea__z02__full.png">z=2 (6400 × 16000 PNG)</a>.
+Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_pangea__z01__full.png">z=1 (6400 × 16000 PNG)</a> · <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_pangea__z02__full.png">z=2 (6400 × 16000 PNG)</a>.
 </figcaption>
 </figure>
 
@@ -103,7 +103,7 @@ Tundra, Taiga, Temperate, Semi-Arid, Desert, Savannah, and Jungle
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/static-067478b82c7a/nomads__nomads_new_world/nomads_new_world__all_z_overview.png" width="960" height="342" loading="lazy" alt="Static sprite render of nomads_new_world.dmm showing all authored layers: z=1, 2">
 <figcaption>Static map layout of <code>nomads_new_world.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
-Full-resolution layers: <a href="../images/maps/static-067478b82c7a/nomads__nomads_new_world/nomads_new_world__z01__full.png">z=1 (12608 × 6400 PNG)</a> · <a href="../images/maps/static-067478b82c7a/nomads__nomads_new_world/nomads_new_world__z02__full.png">z=2 (12608 × 6400 PNG)</a>.
+Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_new_world__z01__full.png">z=1 (12608 × 6400 PNG)</a> · <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_new_world__z02__full.png">z=2 (12608 × 6400 PNG)</a>.
 </figcaption>
 </figure>
 
@@ -114,7 +114,7 @@ Everyone starts on the eastern continent. Crossing to the western islands requir
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/static-067478b82c7a/nomads__nomads_mediterranean/nomads_mediterranean__all_z_overview.png" width="960" height="562" loading="lazy" alt="Static sprite render of nomads_mediterranean.dmm showing all authored layers: z=1, 2">
 <figcaption>Static map layout of <code>nomads_mediterranean.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
-Full-resolution layers: <a href="../images/maps/static-067478b82c7a/nomads__nomads_mediterranean/nomads_mediterranean__z01__full.png">z=1 (8000 × 8000 PNG)</a> · <a href="../images/maps/static-067478b82c7a/nomads__nomads_mediterranean/nomads_mediterranean__z02__full.png">z=2 (8000 × 8000 PNG)</a>.
+Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_mediterranean__z01__full.png">z=1 (8000 × 8000 PNG)</a> · <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_mediterranean__z02__full.png">z=2 (8000 × 8000 PNG)</a>.
 </figcaption>
 </figure>
 
@@ -124,7 +124,7 @@ Full-resolution layers: <a href="../images/maps/static-067478b82c7a/nomads__noma
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/static-067478b82c7a/nomads__nomads_island/nomads_island__all_z_overview.png" width="960" height="563" loading="lazy" alt="Static sprite render of nomads_island.dmm showing all authored layers: z=1, 2">
 <figcaption>Static map layout of <code>nomads_island.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
-Full-resolution layers: <a href="../images/maps/static-067478b82c7a/nomads__nomads_island/nomads_island__z01__full.png">z=1 (6400 × 6400 PNG)</a> · <a href="../images/maps/static-067478b82c7a/nomads__nomads_island/nomads_island__z02__full.png">z=2 (6400 × 6400 PNG)</a>.
+Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_island__z01__full.png">z=1 (6400 × 6400 PNG)</a> · <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_island__z02__full.png">z=2 (6400 × 6400 PNG)</a>.
 </figcaption>
 </figure>
 
@@ -138,7 +138,7 @@ A small island for 10-15 players, divided by a lava region, jungle/part swamp, a
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/static-067478b82c7a/nomads__nomads_europe/nomads_europe__all_z_overview.png" width="433" height="592" loading="lazy" alt="Static sprite render of nomads_europe.dmm showing all authored layers: z=1">
 <figcaption>Static map layout of <code>nomads_europe.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
-Full-resolution layers: <a href="../images/maps/static-067478b82c7a/nomads__nomads_europe/nomads_europe__z01__full.png">z=1 (12000 × 14304 PNG)</a>.
+Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_europe__z01__full.png">z=1 (12000 × 14304 PNG)</a>.
 </figcaption>
 </figure>
 
@@ -155,7 +155,7 @@ Section of Nomads_World project (1/4)
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/static-58404f5bd16e/nomads__nomads_africa/nomads_africa__all_z_overview.png" width="960" height="591" loading="lazy" alt="Static sprite render of nomads_africa.dmm showing all authored layers: z=1, 2">
 <figcaption>Static map layout of <code>nomads_africa.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
-Full-resolution layers: <a href="../images/maps/static-58404f5bd16e/nomads__nomads_africa/nomads_africa__z01__full.png">z=1 (10912 × 11616 PNG)</a> · <a href="../images/maps/static-58404f5bd16e/nomads__nomads_africa/nomads_africa__z02__full.png">z=2 (10912 × 11616 PNG)</a>.
+Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_africa__z01__full.png">z=1 (10912 × 11616 PNG)</a> · <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_africa__z02__full.png">z=2 (10912 × 11616 PNG)</a>.
 </figcaption>
 </figure>
 
@@ -168,7 +168,7 @@ Section of Nomads_World project (2/4)
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/static-067478b82c7a/nomads__nomads_north_america/nomads_north_america__all_z_overview.png" width="960" height="413" loading="lazy" alt="Static sprite render of nomads_north_america.dmm showing all authored layers: z=1, 2">
 <figcaption>Static map layout of <code>nomads_north_america.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
-Full-resolution layers: <a href="../images/maps/static-067478b82c7a/nomads__nomads_north_america/nomads_north_america__z01__full.png">z=1 (14400 × 9600 PNG)</a> · <a href="../images/maps/static-067478b82c7a/nomads__nomads_north_america/nomads_north_america__z02__full.png">z=2 (14400 × 9600 PNG)</a>.
+Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_north_america__z01__full.png">z=1 (14400 × 9600 PNG)</a> · <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_north_america__z02__full.png">z=2 (14400 × 9600 PNG)</a>.
 </figcaption>
 </figure>
 
@@ -183,7 +183,7 @@ Section of Nomads_World project (3/4).
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/static-58404f5bd16e/nomads__nomads_asia/nomads_asia__all_z_overview.png" width="960" height="592" loading="lazy" alt="Static sprite render of nomads_asia.dmm showing all authored layers: z=1">
 <figcaption>Static map layout of <code>nomads_asia.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
-Full-resolution layers: <a href="../images/maps/static-58404f5bd16e/nomads__nomads_asia/nomads_asia__z01__full.png">z=1 (15680 × 8160 PNG)</a>.
+Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_asia__z01__full.png">z=1 (15680 × 8160 PNG)</a>.
 </figcaption>
 </figure>
 
@@ -192,7 +192,7 @@ Full-resolution layers: <a href="../images/maps/static-58404f5bd16e/nomads__noma
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/static-067478b82c7a/nomads__nomads_karafuto/nomads_karafuto__all_z_overview.png" width="960" height="592" loading="lazy" alt="Static sprite render of nomads_karafuto.dmm showing all authored layers: z=1, 2">
 <figcaption>Static map layout of <code>nomads_karafuto.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
-Full-resolution layers: <a href="../images/maps/static-067478b82c7a/nomads__nomads_karafuto/nomads_karafuto__z01__full.png">z=1 (9600 × 14400 PNG)</a> · <a href="../images/maps/static-067478b82c7a/nomads__nomads_karafuto/nomads_karafuto__z02__full.png">z=2 (9600 × 14400 PNG)</a>.
+Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_karafuto__z01__full.png">z=1 (9600 × 14400 PNG)</a> · <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_karafuto__z02__full.png">z=2 (9600 × 14400 PNG)</a>.
 </figcaption>
 </figure>
 

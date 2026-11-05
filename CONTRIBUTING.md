@@ -6,17 +6,13 @@ If you want to send a pull request to our project and the **GitHub web editor** 
 
 2. Clone it to your computer and navigate to the `civ13-wiki/` folder.
 
-3. **Windows (No installation needed!):**
-   ```powershell
-   .\mdbook.exe serve
-   ```
-   The wiki will open at `http://localhost:3000` with live reloading.
-
-   **macOS/Linux:**
+3. Install the pinned mdBook toolchain (one time) and serve the wiki:
    ```bash
-   cargo install mdbook  # First time only
-   mdbook serve
+   python3 scripts/setup_tools.py --run serve   # Windows: py -3 scripts/setup_tools.py --run serve
    ```
+   The wiki will open at `http://localhost:3000` with live reloading. The tools
+   land in the gitignored `tools/` folder; add it to your PATH to call `mdbook`
+   directly.
 
 4. Make your changes in the `src/` folder and they'll automatically rebuild in your browser.
 
@@ -24,8 +20,10 @@ If you want to send a pull request to our project and the **GitHub web editor** 
 
 ### Local Building
 
-- **Build only:** `./mdbook.exe build` (outputs to `book/html/`)
-- **Live development:** `./mdbook.exe serve` (runs local server with auto-reload)
+- **Build only:** `python3 scripts/setup_tools.py --run build` (outputs to `book/html/`)
+- **Live development:** `python3 scripts/setup_tools.py --run serve` (runs local server with auto-reload)
+- **Full CI build and checks:** `python3 scripts/check_tools.py && python3 scripts/check_assets.py && python3 scripts/test_previews.py && python3 scripts/build.py && python3 scripts/check_player_guides.py`
+- **Large files:** full-resolution map renders and videos are in Git LFS and served from the `assets` release; see the README.
 
 For more detailed information, check [Contributing to the Wiki](src/Contributing_to_the_Wiki.md) in the wiki itself.
 ## Player documentation policy
