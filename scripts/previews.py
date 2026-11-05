@@ -97,6 +97,10 @@ def generate(root, base=BASE):
             continue
         if MARKER not in source:
             raise ValueError(f'Missing preview build marker: {relative}')
+        # The stock mdBook template emits the book-level description and a white
+        # theme-color; the chapter metadata and head.hbs supply both instead.
+        source = re.sub(r'\n\s*<meta name="description" content="[^"]*">', '', source, count=1)
+        source = re.sub(r'\n\s*<meta name="theme-color" content="#ffffff">', '', source, count=1)
         # mdBook utility pages are deliberately not advertised as chapters.
         if path.name in ('print.html', 'search.html', '404.html'):
             source = source.replace(MARKER, '')

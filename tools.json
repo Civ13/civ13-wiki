@@ -1,6 +1,6 @@
 {
   "_comment": "Pinned mdBook toolchain. CI (.github/workflows/wiki.yml) and scripts/setup_tools.py both read this file; scripts/check_tools.py fails CI when they drift.",
-  "mdbook": "0.4.36",
+  "mdbook": "0.4.52",
   "mdbook-admonish": "1.14.0",
   "mdbook-linkcheck": "0.7.7",
   "mdbook-emojicodes": "0.3.0"

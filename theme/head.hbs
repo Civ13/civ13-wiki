@@ -1,40 +1,5 @@
-<!-- Disable book.js theme functionality before it loads -->
-<script type="text/javascript">
-    // Wrap set_theme to catch and suppress all errors
-    var originalSetTheme = window.set_theme || function() {};
-    window.set_theme = function(theme) {
-        try {
-            // Try to find and set theme inputs
-            var inputs = document.querySelectorAll('input[name="theme"]');
-            if (inputs && inputs.length > 0) {
-                inputs.forEach(function(input) {
-                    if (input) {
-                        try {
-                            input.checked = (input.value === theme);
-                            if (input.disabled !== undefined) {
-                                input.disabled = (input.value !== theme);
-                            }
-                        } catch (e) {}
-                    }
-                });
-            }
-        } catch (e) {
-            // Silently ignore any errors
-        }
-        // Always try to store in localStorage
-        try {
-            if (theme) localStorage.setItem('mdbook-theme', theme);
-        } catch (e) {}
-    };
-    
-    window.get_theme = function() {
-        try {
-            return localStorage.getItem('mdbook-theme') || 'navy';
-        } catch (e) {
-            return 'navy';
-        }
-    };
-</script>
+<!-- chapter-preview -->
+<meta name="theme-color" content="#00bc8c">
 
 <!-- Load fflate decompression library -->
 <script type="importmap">

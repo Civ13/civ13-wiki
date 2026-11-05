@@ -96,11 +96,10 @@ src/              # Markdown source files
 ├── maps/         # Map information
 ├── rules/        # Game rules
 └── images/       # Wiki images and sprites
-theme/            # mdBook theme customization
-├── head.hbs      # HTML head injection (DMI sprites, scripts)
-├── index.hbs     # Main template
-└── compiled/     # Generated CSS
-scripts/          # Additional JavaScript
+theme/            # mdBook theme customization (stock templates are not vendored)
+├── head.hbs      # HTML head injection (preview marker, DMI sprite component)
+└── compiled/     # Site CSS (ss14.css)
+scripts/          # Build and check scripts, plus nav-additions.js (page TOC, subpage footer)
 book.toml         # mdBook configuration
 ```
 
