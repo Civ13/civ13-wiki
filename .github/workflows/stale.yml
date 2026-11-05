@@ -1,7 +1,8 @@
 name: Stale page report
 
 # Monthly, advisory: lists pages not edited or marked reviewed in 12 months
-# in the run summary and one rolling issue. Never fails.
+# in the run summary and one rolling issue, closed again when nothing is
+# overdue. Never fails.
 
 on:
   schedule:
@@ -23,12 +24,18 @@ jobs:
         run: |
           python3 scripts/stale_pages.py --markdown > stale.md
           cat stale.md >> "$GITHUB_STEP_SUMMARY"
-      - name: Open or update the rolling issue
+      - name: Open, update or close the rolling issue
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
+          count="$(sed -n 's/^\([0-9][0-9]*\) pages.*/\1/p' stale.md | head -n 1)"
           number="$(gh issue list --state open --search 'Pages overdue for review in:title' --json number,title --jq '[.[] | select(.title == "Pages overdue for review")][0].number')"
-          if [ -n "$number" ]; then
+          if [ "${count:-0}" = "0" ]; then
+            if [ -n "$number" ]; then
+              gh issue close "$number" --comment "No page is overdue for review this month."
+              echo "Closed issue #$number: nothing overdue" >> "$GITHUB_STEP_SUMMARY"
+            fi
+          elif [ -n "$number" ]; then
             gh issue edit "$number" --body-file stale.md
             echo "Updated issue #$number" >> "$GITHUB_STEP_SUMMARY"
           else
