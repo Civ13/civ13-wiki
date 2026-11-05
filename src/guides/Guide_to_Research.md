@@ -232,8 +232,9 @@ The first bonus slot costs 300 silver-equivalent, the second costs 600, the thir
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
 | Weaving | 0 | 60 | 0 | Analysis | - |
+| Furriery | 1 | 95 | 0 | Analysis | Weaving |
 
-**Weaving** (basic) stays on the Main tree as the textiles gateway — it covers basic weaving and the basic tailoring tools (e.g. the loom). The advanced tailoring nodes moved to the standalone **Tailoring** tree (see below).
+**Weaving** (basic) stays on the Main tree as the textiles gateway — it covers basic weaving and the basic tailoring tools (e.g. the loom). **Furriery** (fur coats, fur hats and fur caps from pelts) is also on the Main tree, so it comes with the era like other Main-tree nodes and players without a faction can make warm clothes. The advanced tailoring nodes are in the standalone **Tailoring** tree (see below).
 
 #### Furniture
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
@@ -287,7 +288,6 @@ The Tailoring tree contains advanced clothing and armour research, split into tw
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
 | Classical Dress | 1 | 95 | 0 | Analysis | Weaving |
-| Furriery | 1 | 95 | 0 | Analysis | Weaving |
 | Tailoring | 2 | 130 | 1 | Analysis | Classical Dress |
 | Fine Garments | 3 | 165 | 2 | Analysis | Tailoring |
 | Haberdashery | 3 | 165 | 2 | Analysis | Tailoring |
