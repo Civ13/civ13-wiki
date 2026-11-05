@@ -29,6 +29,11 @@ jobs:
       - name: Configure Pages
         if: github.event_name != 'pull_request'
         uses: actions/configure-pages@v6
+      - name: List changed pages that Player Help pins
+        if: github.event_name == 'pull_request'
+        run: |
+          git fetch --no-tags --depth=1 origin "${{ github.base_ref }}"
+          python3 scripts/check_pinned_changes.py "origin/${{ github.base_ref }}" HEAD
       - name: Build with mdBook
         run: |
           python3 scripts/check_tools.py
@@ -63,3 +68,19 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+
+  markdownlint:
+    # Advisory: reports style problems in the job log without failing the PR.
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    continue-on-error: true
+    steps:
+      - uses: actions/checkout@v7
+      - uses: DavidAnson/markdownlint-cli2-action@v19
+        with:
+          globs: |
+            src/**/*.md
+            !src/Full_Crafting_List.md
+            !src/Food_Decay_Times.md
