@@ -1,7 +1,9 @@
 """List changed pages that in-game Player Help pins, so reviewers know a Civ13 re-pin follows.
 
 Usage: python3 scripts/check_pinned_changes.py <base-ref> [<head-ref>]
-Reads the pin list from Civ13's scripts/player_help_bridge.py (public, fetched
+Compares the two trees directly (no merge base needed), so on a pull_request
+checkout with fetch-depth 2 pass `HEAD^1 HEAD` to diff the merge commit against
+its base. Reads the pin list from Civ13's scripts/player_help_bridge.py (public, fetched
 over HTTPS; pass --bridge <path> to use a local copy). Never fails the build:
 it prints the list, writes it to the GitHub job summary when available, and
 emits a notice annotation.
@@ -28,8 +30,11 @@ def pinned_pages(bridge_source):
 
 
 def changed_files(base, head):
-    out = subprocess.run(['git', 'diff', '--name-only', f'{base}...{head}'], cwd=ROOT, capture_output=True, text=True, check=True).stdout
-    return [line.strip() for line in out.splitlines() if line.strip()]
+    result = subprocess.run(['git', 'diff', '--name-only', base, head], cwd=ROOT, capture_output=True, text=True)
+    if result.returncode:
+        print(f'::warning::git diff {base} {head} failed ({result.stderr.strip()}); skipping the pinned-guide check')
+        return None
+    return [line.strip() for line in result.stdout.splitlines() if line.strip()]
 
 
 def main():
@@ -51,8 +56,10 @@ def main():
     if not pinned:
         print('::warning::No pinned guides found in player_help_bridge.py; skipping')
         return 0
-    changed = [path for path in changed_files(args.base, args.head)
-               if path.startswith('src/') and path[len('src/'):] in pinned]
+    files = changed_files(args.base, args.head)
+    if files is None:
+        return 0
+    changed = [path for path in files if path.startswith('src/') and path[len('src/'):] in pinned]
     summary = os.environ.get('GITHUB_STEP_SUMMARY')
     if not changed:
         print(f'No pinned Player Help guide changed ({len(pinned)} pinned pages checked)')
