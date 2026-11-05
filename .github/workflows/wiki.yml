@@ -37,6 +37,7 @@ jobs:
       - name: Build with mdBook
         run: |
           python3 scripts/check_tools.py
+          python3 scripts/nav.py
           python3 scripts/check_assets.py
           python3 scripts/test_previews.py
           python3 scripts/build.py

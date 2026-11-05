@@ -5,7 +5,7 @@ multilingual = false
 src = "src"
 title = "Civilization 13 Wiki"
 description = "Guides and information regarding Civ13, a historic strategy game based on SS13."
-create-missing = true
+create-missing = false
 
 [preprocessor.admonish]
 assets_version = "3.0.1" # do not edit: managed by `mdbook-admonish install`

@@ -22,7 +22,7 @@ If you want to send a pull request to our project and the **GitHub web editor** 
 
 - **Build only:** `python3 scripts/setup_tools.py --run build` (outputs to `book/html/`)
 - **Live development:** `python3 scripts/setup_tools.py --run serve` (runs local server with auto-reload)
-- **Full CI build and checks:** `python3 scripts/check_tools.py && python3 scripts/check_assets.py && python3 scripts/test_previews.py && python3 scripts/build.py && python3 scripts/check_player_guides.py`
+- **Full CI build and checks:** `python3 scripts/check_tools.py && python3 scripts/nav.py && python3 scripts/check_assets.py && python3 scripts/test_previews.py && python3 scripts/build.py && python3 scripts/check_player_guides.py`
 - **Large files:** full-resolution map renders and videos are in Git LFS and served from the `assets` release; see the README.
 
 For more detailed information, check [Contributing to the Wiki](src/Contributing_to_the_Wiki.md) in the wiki itself.

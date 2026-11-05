@@ -9,3 +9,5 @@ Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/do
 </figcaption>
 </figure>
 
+**Arab Town II** is a second layout of the same scenario and sits next to it in the Modern vote list.
+

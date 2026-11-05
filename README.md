@@ -89,7 +89,7 @@ Open your browser to `http://localhost:3000` and changes will auto-refresh.
 
 ```
 src/              # Markdown source files
-├── SUMMARY.md    # Navigation structure
+├── SUMMARY.md    # Navigation structure (single source; scripts/nav.py renders the overview pages from it)
 ├── index.md      # Home page
 ├── guides/       # User guides
 ├── gamemodes/    # Game mode documentation
