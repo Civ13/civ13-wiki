@@ -14,6 +14,20 @@ These recipes are in the global crafting catalog. Map catalogs, era and characte
 
 PU is the game's abstract power unit; PU s is stored energy.
 
+## Wind and solar generators
+
+These feed the cable grid from the weather instead of fuel. Build them outdoors under open sky; they produce nothing indoors.
+
+| Generator | Era and research | Built from | Peak output |
+| --- | --- | --- | --- |
+| Wind charger | Early Modern, Electricity | 15 iron | 12 PU |
+| Photovoltaic panel | Cold War, Automation | 10 electronics | 10 PU in daylight, nothing at night |
+| Wind turbine | Modern, Digital Computing | 30 steel | 45 PU |
+
+Wind output follows the wind speed shown when you examine the generator. The wind charger gives nothing in calm air, its full output in a strong wind, and furls to a fraction of it in a gale. The wind turbine reaches full output in strong winds and keeps it in a gale. Two rotors closer than three tiles share the same air and each loses half its output, so space them out.
+
+Machines that use the cable grid include [hydroponics trays](Guide_to_Farming.md#hydroponics) and the belts, arms and fabricators in [Factory Automation](Guide_to_Factory_Automation.md).
+
 ## Connect and operate
 
 1. Assemble and commission the battery. Use a wrench to secure it.

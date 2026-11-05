@@ -83,12 +83,17 @@ Work smart, not hard!
 * You can leave a faction by clicking **Abandon** on the **Faction tab**. Take note, that **you will not be able to rejoin the same faction for 24 hours!**
 * Creating a faction makes you the default **Leader**.
 
+#### Family and adoption
+
+On Nomads maps you can right-click someone next to you and choose **Offer Adoption**. If they accept, their last name becomes yours. An adopted character can use **Un-adopt Yourself** in the IC tab to get their original name back. You cannot adopt someone who is already adopted, and you need a last name to offer.
+
 #### As a Leader
 
   - You can invite people to your faction by getting close to them, **right-clicking** them, and selecting **Recruit** from the menu.
   - You **cannot** force someone to leave your faction; They have to **abandon** it themselves. How to get them to do that, is up to
     you...
   - You can make someone else a Leader by clicking **Transfer Leadership** on the **Faction tab** while near to your successor.
+  - You can rename a faction you founded with **Rename Faction** in the **Faction panel** (on maps that allow custom factions). For the next 8 seasons, the Faction List, examining a member and examining your banners and posters show that it was recently renamed, and from what.
   - You can make **Announcements** that are received by every member of your faction. Open the **Officer tab** and select **Faction Announcement**.
   - You can delegate your power to other faction members by giving them certain **officer permissions**. **Right-click** a person and select **Faction Perms**. These are the permissions you can give or revoke, if the person already has them:
       - **Permission Management** - allows giving permissions per se.

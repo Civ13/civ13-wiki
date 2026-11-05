@@ -15,6 +15,10 @@
 <td><b>Crafting:</b><br>walls<br>well<br>locked large stone/sandstone/lead/copper/bronze/silver/gold/bone double doors<br>locked wooden privacy door</td>
 </tr>
 <tr>
+<td><b>1.2</b></td>
+<td><b>Using:</b><br>anvils</td>
+</tr>
+<tr>
 <td><b>1.25</b></td>
 <td><b>Crafting:</b><br>fire lance<br>moai<br>long moai<br>monumental sandstone obelisk<br>monumental stone megalith</td>
 </tr>
@@ -32,7 +36,7 @@
 </tr>
 <tr>
 <td><b>1.7</b></td>
-<td><b>Crafting:</b><br>carriage<br><b>Using:</b><br>anvils</td>
+<td><b>Crafting:</b><br>carriage</td>
 </tr>
 <tr>
 <td><b>1.8</b></td>

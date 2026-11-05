@@ -149,7 +149,7 @@ Things that can decrease mood:
 3. Low **hygiene**.
 4. Killing others (drastically decreases mood, especially cutting someone's head off).
 5. Eyeing detached body parts and gore.
-6. Mood also slowly decreases on its own.
+6. Mood also slowly decreases on its own while you are awake. It does not drop while your character is asleep, though good things still raise it.
 
 {{#warning}}
 Seeing too much extreme gore can lead to PTSD, which is incurable. After a while, you may start hallucinating and having catatonic breakdowns. Antidepressants and drugs only temporarily block these effects.
@@ -234,7 +234,7 @@ If you simply log off, your character will be left unconscious and helpless, lyi
 
 To avoid that, go to sleep properly:
 
-- Stand over a bed or leather bedroll; buckling is not required. **Store held items before sleeping.** An ordinary droppable item in the active hand is dropped at your starting location before the body moves, so leaving it there can expose it to other players.
+- Stand over a bed or leather bedroll; buckling is not required. On maps that save the world, you have one assigned bed: sleeping in a free bed makes it yours and releases your old one, and you cannot sleep in a bed someone else has claimed. Examine a bed to see whether it is yours. **Store held items before sleeping.** An ordinary droppable item in the active hand is dropped at your starting location before the body moves, so leaving it there can expose it to other players.
 - Type `sleep` in chat (without "say") or click "Sleep" on the IC tab.
 - Remain connected and complete the two-minute action on the bed. Wait until protected sleep has actually started before logging off.
 - Routine hunger and thirst do not decrease during protected sleep. Ordinary disconnection or unconsciousness is different and does not provide this protection.
@@ -259,3 +259,18 @@ The Status tab has some general info about the ongoing round, both OOC and IC:
 - current epoch
 - current wind (important if you are sailing)
 - time of day
+- current season, with how far into it you are and roughly how long until it changes
+- your **Diet energy** bonus (see [Balanced diet](guides/Guide_to_Cooking.md#balanced-diet))
+
+### Inventory
+
+- **Drag and drop** an item onto a backpack, belt, pouch or other storage (worn, held, open, or on a tile next to you) to put it inside, or onto an empty hand or equipment slot to hold or wear it.
+- **Shift-click** an item inside an open backpack or container to examine it.
+
+### Doors
+
+Clicking a closed door with an empty hand depends on your **intent**: help opens it (or rattles the handle if it is locked), disarm and grab knock, and harm kicks it. Clicking an open door closes it.
+
+### Settings for slower computers
+
+If the game runs slowly, two options in **Settings** can raise your FPS: **Ambient occlusion** and **Root-lit tree shading**. Both are on by default; turning them off makes the game look slightly plainer.

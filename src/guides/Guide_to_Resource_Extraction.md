@@ -26,6 +26,14 @@ Output fills matching stacks up to their limits. A tile holds at most **12 outpu
 
 [Power & Batteries](Guide_to_Power.md) explains cable supplies. **Paved Infrastructure** provides plain white cable for the Electricity prototype; colored cable and electronics require Electricity. Electronics use copper and iron. Use [Metallurgy](Guide_to_Metallurgy.md) to establish molds, furnaces and metal production.
 
+## Mining several ores
+
+Each ore in a rock wall rolls on its own, so one mined wall can drop several kinds of ore at once, for example coal together with iron. Coal is twice as common as it used to be. Some walls now give no ore at all, because the drops cluster.
+
+## Stone crushing
+
+Surplus stone blocks can be crushed for a chance of sand, ore and rare minerals: by hand with a **stone crusher** (Resource Processing), or with a **powered stamp mill** (Electricity) that arms and belts can feed. See [Factory Automation](Guide_to_Factory_Automation.md#stone-crushing).
+
 ## Petroleum wells
 
 Wooden oil wells remain renewable and must sit on an oil spring. Use a barrel on the well to load it; click a loaded well to remove the barrel, or an empty well to connect a nearby barrel. Extraction runs when the spring and contained barrel are valid. The well does not fill unrelated barrels on the ground. Unloading or destroying the well returns its barrel. Saving retains the barrel and petroleum; check the barrel connection after loading before collecting output.

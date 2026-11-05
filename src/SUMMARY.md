@@ -20,6 +20,7 @@
     - [Cooking](guides/Guide_to_Cooking.md)
     - [Crafting](guides/Guide_to_Crafting.md)
     - [Exercise & Training](guides/Guide_to_Exercise.md)
+    - [Factory Automation](guides/Guide_to_Factory_Automation.md)
     - [Farming](guides/Guide_to_Farming.md)
     - [Fishing](guides/Guide_to_Fishing.md)
     - [Hygiene](guides/Guide_to_Hygiene.md)

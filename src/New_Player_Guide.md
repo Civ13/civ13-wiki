@@ -18,6 +18,14 @@ If you already have the BYOND client installed, skip to the server links below.
    - [TDM](byond://civ13.com:1714)
 3. The game downloads its files and starts in the Lobby. Before joining a round, make sure to read the [Rules](rules/Rules.md).
 
+#### The Civ13 launcher (Windows)
+
+You can also play through **Civ13.exe**, the Civ13 launcher, from the [Civ13 releases page](https://github.com/Civ13/Civ13/releases) (pick the newest "Civ13 Launcher" release). It opens a window with the server list, **Join** and **Refresh** buttons, BYOND sign-in and community links.
+
+- **Refresh** keeps servers it already found in the list and marks the ones that did not answer, instead of removing them.
+- When nobody is playing, a server may be asleep. The launcher waits for it to wake up instead of reporting it as unreachable, so give it a moment.
+- While you play, the launcher can show "Playing Civ13" on your Discord profile. Turn this off with **Show on Discord**.
+
 ### Controls
 
 Check [Hotkeys](Hotkeys.md).

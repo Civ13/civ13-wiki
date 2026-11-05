@@ -167,6 +167,13 @@ Pioneers, only the Blacksmith can use the anvil.
 </tbody>
 </table>
 
+### More tools and everyday items
+
+- **Saw:** 3 iron, in the tools category, once your civilization has reached the Bronze Age. Woodworking and hide work accept it like a hatchet.
+- **Leather gloves:** 3 leather, in the gloves category, in every age.
+- **Found items you can now make:** screwdriver, lockpick, legcuffs, tin whistle, police tape, bag valve mask, empty pill pack (fill it by hand with up to 6 pills of one kind), stethoscope, glass jar, small telescope, shamisen, pencil, fancy pen, comb, black and purple lipstick, video camera and bar stools in eight colours, each behind its matching research. Mixing 20 corn oil with 2 lye makes a bar of soap, and 20 olive oil with 2 lye makes deluxe soap (see [Hygiene](Guide_to_Hygiene.md#soap)).
+- **Crafted flint axes and stone hatchets** go straight into your empty active hand when possible.
+
 ## Resources
 
 As you look upon the sunny fields, bordered by a lush green forest, or
@@ -626,7 +633,7 @@ level of the crafting skill before you are able to use them.
 <tr>
 <td width="5%"><img src="../images/acidic_bath.png"></td>
 <td width="10%"><b>Acidic bath</b></td>
-<td>Made with 12 steel sheets. Used to soak <b>raw kevlar</b> into <b>prepared kevlar</b>, which is further formed into <b>kevlar sheets</b> at the <b><a href="#loom">loom</a></b>. <b>Raw kevlar</b> recipe requires mixing sulphuric acid (sulphur, hydrogen, oxygen) and any form of refined fuel (not ground-oil petroleum).</td>
+<td>Made with 12 steel sheets. Used to soak <b>raw kevlar</b> into <b>prepared kevlar</b>, which is further formed into <b>kevlar sheets</b> at the <b><a href="#loom">loom</a></b>. <b>Raw kevlar</b> recipe requires mixing sulphuric acid (sulphur, hydrogen, oxygen) and any form of refined fuel (not ground-oil petroleum). Standard Kevlar vests are assembled at an <b>armor assembly workbench</b> (10 soft wood, Weaving research): sew a carrier from 4 cloth and 2 leather, prepare panels from 14 Kevlar sheets, then fit both into the vest (Modern Armor research, Cold War and Modern eras).</td>
 </tr>
 </tbody>
 </table>
@@ -813,7 +820,7 @@ that see the **[Guide to Chemistry](Guide_to_Chemistry.md)**.
 
 ## Machinery
 
-The steel embodiment of Progress.
+The steel embodiment of Progress. For belts, arms, fabricators and pipe networks, see [Factory Automation](Guide_to_Factory_Automation.md).
 
 ### Engines
 

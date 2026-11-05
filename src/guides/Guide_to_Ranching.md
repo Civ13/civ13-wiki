@@ -106,6 +106,12 @@ domesticating animals.
 </tbody>
 </table>
 
+### Feeding
+
+Grazing animals (cows, bison, goats, sheep, horses and the like) get hungry, graze grass and eat loose grain. You can also feed them wheat, oats, barley or rice by hand. **Bison** need pasture or grain just like cows, and bison cows can be milked the same way.
+
+Hens and turkey hens lay a limited number of eggs. Feeding seeds to a hen that has stopped laying gives her more eggs.
+
 ## Reproduction
 
 To simply get these animals to multiply, you have to have them in a
@@ -115,6 +121,8 @@ Chickens just need at least 2 and one needs to lay an egg and be sitting
 on top of it for awhile. Try customizing your chicken coops making it so
 they are unable to move off their egg.**(Only the cows, chickens, Deers,
 Pigs, Sheep, Goats and turkey's can breed for now)**
+
+Every breeding species has a population cap, so herds and wild packs stop growing once there are enough of them on the map. Wolves stop breeding at 20 and bears at 12; cows, deer and bison at 30; goats, sheep and turkeys at 35; chickens at 50.
 
 ## Wildlife
 

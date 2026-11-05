@@ -59,3 +59,7 @@ This is a list of hotkeys for when the game is on **Hotkey Mode**. Use **Tab** t
 | Numpad 5 | Select Chest (targeting) |
 | Numpad 6 | Select Left Arm (targeting) |
 | Numpad 8 | Select Head (targeting) |
+
+## Changing keys
+
+You can rebind prone, aiming mode, sights and other action keys through **OOC > Keybindings** or the **Keybindings** menu. Hotkey Mode and typing mode keep separate key sets. You can unbind a key, restore one action, or restore all defaults. Reserved keys and keys already in use are refused, and typing-mode bindings need Ctrl or Ctrl+Shift. Your keys are saved with your account.

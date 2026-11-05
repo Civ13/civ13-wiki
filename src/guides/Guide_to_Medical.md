@@ -119,10 +119,50 @@ preferable. Can be gathered from bushes with a knife.
 
 **Bandages:** Quick and effective, most people should carry some all
 times, reduces the pain on most wounds and helps to treat bleeding as
-well.
+well. A bandaged wound also halves arterial bleeding. Cloth, leather,
+gauze and gelatin bandage rolls all work.
 
-**Splints:** A quick and easy solution to broken bones, will help to
-stabilize the victim until surgery.
+**Silver dressings:** Bandages woven with silver thread, crafted from 1
+silver with no research. Each one dresses and disinfects a wound like a
+trauma kit without the healing, so it is the antiseptic dressing of the
+eras before sulfa drugs. They are still bandage rolls, so they can be
+tied as tourniquets.
+
+**Splints:** Lash a broken or dislocated limb still. Iron splints need
+medical research; **wooden splints** craft from 2 wood with no
+research, so every era can splint a fracture. A splinted fracture
+[heals on its own](#splinted-fractures-heal) over time.
+
+#### Severed arteries and tourniquets
+
+A sharp hit can sever the artery in a limb, which bleeds very fast.
+Use any bandage roll on an arm, leg, hand or foot with a severed artery
+to tie it as a **tourniquet** (one bandage, about 3 seconds). Nothing
+bleeds on that limb or below it while the tourniquet is on, and
+examining the patient shows it.
+
+- Bandage the wound under the tourniquet. A limb artery with a tourniquet
+  and a bandaged wound clots closed after about 10 minutes.
+- Once the artery has closed, use a bandage on the limb again to loosen
+  the tourniquet. While the artery is still cut, the tourniquet stays
+  tight.
+- Do not leave it on. After 30 minutes the limb throbs with pain, and
+  after 60 minutes the limb dies and needs debridement surgery.
+- The [internal bleeding surgery](#internal-bleeding) also repairs a
+  severed artery and removes the tourniquet.
+
+#### Splinted fractures heal
+
+A broken limb with a splint mends on its own after about 20 minutes;
+time spent resting counts double. The splint then
+comes off and drops at the patient's feet. Breaking the bone again
+resets the progress. Bone surgery is still the fast way to fix a
+fracture.
+
+#### Blood recovery
+
+Lost blood comes back twice as fast while the patient is well fed and
+well watered, so give food and clean water after any big bleed.
 
 #### Stimulants, pain relievers and cleansing agents.
 
@@ -158,7 +198,27 @@ lot when patients are mostly suffering from pain.
 
 **Potassium Iodide:** Heals radiation. Cure for zombie virus.
 
-**Penicillin:** Cure for typhus.
+**Penicillin:** Cure for typhus, and the strongest antibiotic for
+infected wounds.
+
+**Silver:** An antiseptic. On skin it kills germs and it cleans objects,
+and taken in it works as a weak antibiotic.
+
+### Wound infections
+
+An infected wound or limb needs an antibiotic. Every era has one:
+
+| Antibiotic | Strength |
+| --- | --- |
+| Penicillin | Full |
+| Prontosil (sulfa) | Three quarters |
+| Healing herbs (chewed) | Half; one chewed herb is enough to fight the infection |
+| Silver | Weak |
+
+The antibiotic works whether it is in the blood or in the stomach.
+Cleaning a wound with a trauma kit, healing herbs, sulfa or a silver
+dressing also knocks back a limb infection that has not spread yet, so
+clean wounds early.
 
 ### Advanced
 
@@ -167,7 +227,12 @@ this specialized kit for trauma wounds will take care of most of the
 wounds, stopping pain. Also used in Surgeries to repair Organ Damage.
 
 **Burn Kit:** Mostly used to treat burn wounds, but can also help heal
-the area.
+the area. It treats one burn at a time, like the other medical items.
+
+Very skilled medics close the outer wounds on a limb with a trauma kit
+or herbs in one go, but internal bleeding still needs surgery. Any
+medical item used on a limb that is cut open on an operating surface
+takes part in the surgery instead of treating the skin.
 
 ## Continued Care
 
@@ -302,9 +367,13 @@ Alternatives: Cigar, Torch
 
 - Usual procedure: Scalpel > Retractor > Hemostat > Bonesaw > Retractor> Trauma Kit/Bandages > Retractor > Cautery
 
+- The vein-fixing step also repairs a severed artery and removes any tourniquet on that limb.
+
 - Alternative (example): Knife > Wood handle > Rope/Cable coil > Torch
 
 ### Broken Bones
+
+A splinted fracture also heals on its own over time (see [Splinted fractures heal](#splinted-fractures-heal)); surgery is the fast way.
 
 - Usual procedure: Scalpel > Retractor > Hemostat > Bone Setter > Cautery
 

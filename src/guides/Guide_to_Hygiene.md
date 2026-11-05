@@ -37,6 +37,8 @@ Baths made from more advanced materials clean more effectively. In increasing or
 
 Soap improves washing and lets you wash on any water tile. You can also use it in a filled bath or under a running shower. Remove your clothing, stand in the water and click yourself with the soap. A bar has up to 30 uses, and washing with soap gives a mood boost.
 
+To make soap, mix 20 units of corn oil with 2 units of lye in a container. Using 20 olive oil instead makes deluxe soap.
+
 ## Using the washroom
 
 Use a pit latrine, wooden outhouse or glass toilet. Keep the area private and clean up afterwards. Open the toilet lid before using it.
@@ -63,6 +65,8 @@ Hold at least 35 wood, press **Z**, then choose an outhouse in the **Hygiene** c
 
 Hold glass, press **Z** and choose **Toilet**.
 
+A glass (porcelain) toilet is plumbed: waste in it or on it does not contaminate nearby wells or puddles. Pit latrines and outhouses still do, so keep them away from water.
+
 ## Shaving
 
 Cast a razor using a [knife mold](Guide_to_Metallurgy.md#molds), then click yourself with it on **Help intent**. Yesterday's dinner is better kept on a plate than in your beard.
@@ -73,4 +77,6 @@ Dirty clothing and footwear can carry parasites and disease. Examine an item wit
 
 ## Keeping the place clean
 
-Waste and sanitation structures such as outhouses within four tiles of a well can contaminate its water. Keep them away from drinking-water supplies.
+Waste and sanitation structures such as outhouses within four tiles of a well can contaminate its water. Keep them away from drinking-water supplies. Examining a well that has been fouled by waste gives off a foul smell; a well that does not smell is not guaranteed to be safe.
+
+Food scraps and animal remains can be thrown into a **lit stone brazier**, where they burn as a little fuel.

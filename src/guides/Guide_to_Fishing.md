@@ -15,6 +15,19 @@ Alternately, you can build a **fishing cage** in water for a more passive approa
 
 If you have fished out a tile completely and there is no more fish, come back later - clueless creatures should appear at the same spot.
 
+### Fishing from a boat
+
+You can also fish the open sea from a boat, without looking for a fish-filled tile.
+
+* Stand on a boat on the water (a ship or small boat, moored or under way).
+* Click open, deep saltwater next to the boat with a fishing pole, rod or net.
+* A cast takes about 15 seconds (12 with a modern rod). Bites are not guaranteed; a rod bites more often than a pole.
+* You usually catch cod or ordinary raw fish.
+
+**Bait:** use raw meat, offal or raw fish on your pole to bait it. One piece lasts three casts, used up whether or not anything bites, and makes bites much more likely. Baited lines sometimes bring up a squid.
+
+Each stretch of sea (about 8 by 8 tiles) only holds three fish. A fish comes back every ten minutes, so keep the boat moving. See [Boats & Ships](Guide_to_Boats.md) for building a boat.
+
 ## Equipment
 
 Ways of parting fish and the like with their element.

@@ -8,6 +8,10 @@ Rain and immersion make you wet, weakening clothing insulation and increasing co
 
 Complete coverage buys time but does not make you immune to cold. A dangerously cold body takes harm even when fully covered. Seek warmth before exposure becomes severe, and account for other injuries and hunger.
 
+## Clearing snow
+
+Fallen snow on grass can be scooped up with a shovel into a snow pile, leaving the grass underneath. Once the snow is gone, a shovel digs up the grass as usual.
+
 ## Daylight and weather transitions
 
 Day/night lighting and outdoor weather appearances update progressively across ticks to reduce interruptions. A visible transition may take longer to finish. If another update arrives during a transition, the latest pending request replaces the older target.
