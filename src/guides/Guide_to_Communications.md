@@ -87,3 +87,29 @@ Electronics research). It calls like a mobile phone, and its secondary action
 
 - **Walkie Talkie:** small version of a radio and can be placed in a pocket or
 coin pouch slot.
+
+## Long-range radio relay
+
+Radios normally only reach the land you are in. A **long-range radio relay**
+carries radio traffic to other lands that are linked to yours, but only while
+a relay is working on both sides.
+
+- **Building it:** the relay is a Modern age structure made from electronics
+once the Factories research is complete. It needs a laid, powered cable
+(40 power, like the broadcast station) and a broadcast antenna within one
+tile of it.
+- **Network key:** use the relay and set a key of up to 16 characters (lower
+case letters, digits, `-` and `_`). Only relays in other lands with the same
+key exchange traffic with yours. A relay with no key is off the air.
+- **What crosses:** every radio broadcast in your land, on any frequency. A
+listener in the other land hears it on a radio tuned to the same frequency,
+with the speaker's name, the land it came from and the relay that carried it.
+Languages carry across as usual. Each relay forwards at most ten messages
+every ten seconds.
+- **Wear and repair:** a running relay slowly loses condition, faster in rain
+and much faster in extreme weather, and explosions damage it. Below 40%
+condition it garbles what it carries; at 0% it falls silent. Switch it off and
+use electronics or copper wire on it to repair it (crafting 100).
+- **Checking the link:** examine the relay to see its key, its condition and
+whether each other land is linked, has no key set, has no working relay, or
+is down.
