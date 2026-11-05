@@ -45,7 +45,7 @@ Use a shovel on **dirt** with any intent other than Harm to shovel a **dirt pile
 
 ## Building a defensive line
 
-- Dig the trench first, then build **sandbag** or **dirt barricades** along the side that faces the enemy. Barricades reduce your chance of being hit but can be dismantled.
+- Dig the trench first, then build **sandbag** or **dirt barricades** along the side that faces the enemy. Barricades reduce your chance of being hit but can be dismantled. On the [tech tree](Guide_to_Research.md), empty sandbags unlock with **Fortifications**.
 - String **barbed wire** in front of the line to slow attackers. Wire cutters remove it.
 - Leave a covered route back to your own lines so the wounded can be moved out.
 

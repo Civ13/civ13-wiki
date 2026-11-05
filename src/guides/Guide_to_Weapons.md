@@ -945,6 +945,16 @@ Machine guns help defend positions and suppress enemy movement. Coordinate with 
 | Chemical | Gas threatens players in affected areas, especially enclosed spaces. Use appropriate protective equipment and keep teammates clear. |
 | Smoke | Blocks visibility and helps screen movement or casualty recovery. Smoke provides concealment; it does not make the area immune to bullets. |
 
+## Drones
+
+Digital Age factions with **Drones** research can build flying drones from electronics: a **drone controller** (10), a **quadcopter drone** (15) and a **payload drone** (20).
+
+1. Place the drone, then hit it with the controller to pair them. Each controller flies one drone.
+2. Use the controller in hand to take control. Your movement keys now steer the drone, and **Space** takes off or lands. Use the controller in hand again to let go.
+3. A payload drone carries one grenade. Hit the landed drone with a grenade to attach it (it takes a few seconds), fly it over the target and press **C** (secondary activation) with the controller in hand to release it. The grenade arms as it drops.
+
+A broken drone stops responding until it is repaired with a welding tool or tape.
+
 ## How to use artillery
 
 This is the artillery menu. From the top to the bottom:

@@ -148,6 +148,8 @@ There is even a temperate biome based off of central europe (France/Germany/nort
 
 Large rivers cover the continent and 7x7 water ways for bridges(tanks and cars) exist on the large rivers.
 
+Europe starts with only the surface. The first time someone uses a shovel to dig a tunnel down, a cave level forms underneath the whole continent, with rock to mine, open pockets and veins of hard rock. Later tunnels lead into the same caves, and a tunnel dug up from the caves comes out on the surface.
+
 Section of Nomads_World project (1/4)
 
 ## Africa

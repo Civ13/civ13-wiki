@@ -81,5 +81,9 @@ calls, it has a set frequency which you can change at any time.
 hand to call a number, call a saved contact or add a contact. Examine the
 phone to see its own number.
 
+- **Smartphone:** a Digital Age mobile phone (15 electronics, Consumer
+Electronics research). It calls like a mobile phone, and its secondary action
+(**C**) switches a built-in flashlight on or off.
+
 - **Walkie Talkie:** small version of a radio and can be placed in a pocket or
 coin pouch slot.
