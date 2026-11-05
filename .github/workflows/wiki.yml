@@ -24,6 +24,12 @@ jobs:
       - uses: actions/checkout@v7
         with:
           fetch-depth: 2 # the PR merge commit and its parents, for the pinned-page diff
+      - uses: actions/checkout@v7
+        with:
+          repository: Civ13/Civ13
+          path: civ13
+          sparse-checkout: code/modules/reagents/reagent_containers/food
+          sparse-checkout-cone-mode: true
       - name: Install mdBook & plugins
         uses: taiki-e/install-action@v2.87.27
         with:
@@ -42,6 +48,8 @@ jobs:
           python3 scripts/test_previews.py
           python3 scripts/build.py
           python3 scripts/check_player_guides.py
+      - name: Compare Food Decay Times with the game source (advisory)
+        run: python3 scripts/check_decay_times.py --civ13 civ13
       - name: Upload reviewed HTML
         uses: actions/upload-artifact@v4
         with:

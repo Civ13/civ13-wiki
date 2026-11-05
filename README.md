@@ -99,7 +99,7 @@ src/              # Markdown source files
 theme/            # mdBook theme customization (stock templates are not vendored)
 ├── head.hbs      # HTML head injection (preview marker, DMI sprite component)
 └── compiled/     # Site CSS (ss14.css)
-scripts/          # Build and check scripts, plus nav-additions.js (page TOC, subpage footer)
+scripts/          # Build and check scripts (nav.py, check_decay_times.py, ...), plus nav-additions.js (page TOC, subpage footer)
 book.toml         # mdBook configuration
 ```
 

@@ -21,3 +21,5 @@ build.log
 
 # pinned toolchain installed by scripts/setup_tools.py
 tools/
+# Civ13 checkout used by scripts/check_decay_times.py in CI
+civ13/
