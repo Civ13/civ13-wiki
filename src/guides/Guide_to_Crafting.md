@@ -944,7 +944,7 @@ There are two kinds of refinery - petroleum and biofuel.
 <td width="5%"><img src="../images/bakelizer.png"></td><td>
 <b>Bakelizer</b></td>
 <td><b>Production rate:</b> every 5 units of raw petroleum => 1 plastic sheet per 1 minute</td><td>
-Made with 18 steel sheets. Used to produce <b><a href="../Full_Crafting_List.md#plastic">Plastic</a></b> from raw petroleum.</td>
+Made with 18 steel sheets. Used to produce <b><a href="../Full_Crafting_List.md#plastic">Plastic</a></b> from raw petroleum. On the tech tree it unlocks with <b>Combustion Engine</b> on the Main tree, alongside the refineries, so factionless players can build it too.</td>
 </tr>
 </tbody>
 </table>
@@ -993,6 +993,14 @@ electrical cables.
     selecting the "Under/over covers" command for the cable.
    
     - You can cut and remove cables with the knife.
+
+    - Cables that only meet at a corner, or that have different colours,
+    do not join on their own. Craft a **cable connector** (1 copper,
+    **electrical** section; Electricity research on the tech tree), stand
+    on the tile where the cables meet and use it in hand, or drop it there
+    and fasten it with a wrench. A secured connector joins every cable on
+    its tile, including corners, crossings and different colours. Only one
+    connector fits on a tile; unwrench it to take it back.
 
 3. Connect the machinery (you may need to secure it with the wrench
     first, in which case there will be a message). **Stand close to it

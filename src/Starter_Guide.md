@@ -188,6 +188,7 @@ Any roofed area counts as shelter.
 
 - **Caves**: There's a reason stone-age people were called cavemen. Look for entrances in rocks. If an area has a roof, it will be darker inside. That means it keeps snow, cold, blazing sun, and rain out. It's the easiest way to survive bad weather. <sub>Make sure that no bears live in the cave, though...</sub>
 - **Tunnels / "Mines"**: You can dig underground for shelter! Use a **shovel** in your active hand. To craft one, make a **tool handle** from **wood logs**, then have **bones** available. With the **tool handle** in the off-hand, activate **bone** in the active hand.
+  - On maps with only a surface level, such as [Europe](maps/Nomads_Maps.md#europe), the first tunnel dug down opens a whole cave level below the land. The ground groans and the world may freeze for several seconds while it forms. Under some tiles you hit solid stone and must try elsewhere, and the caves below have veins of rock too hard to work.
 - **Building a Roof**: Target your inner Bob the Builder and build your own roof. You'll need **wood logs**.
   - Build **walls** or **roof supports** to prop the ceiling up.
   - Build a **roof builder**, hold it, and activate it in hand while facing the tile above which you want to build.
@@ -270,6 +271,16 @@ The Status tab has some general info about the ongoing round, both OOC and IC:
 ### Doors
 
 Clicking a closed door with an empty hand depends on your **intent**: help opens it (or rattles the handle if it is locked), disarm and grab knock, and harm kicks it. Clicking an open door closes it.
+
+A **faction door** opens only for members of its faction. Outsiders can smash it, breach it with a shotgun, or pick its lock with a **lockpick** (this needs the same dexterity as any other lock, and a failed attempt can break the pick). A picked faction door opens once; as soon as it closes, it is locked to outsiders again.
+
+### Notices and pop-ups
+
+Most notices the game shows you open in a small window that does not grab your keyboard, so you can keep moving and fighting while it is open. Close it or press its button when you are done.
+
+### OOC chat and Discord
+
+OOC chat (**O**) is linked with the OOC channel of the community Discord: what you say in OOC appears there, and Discord messages appear in OOC with a Discord tag. Turning OOC off in your preferences hides the Discord messages too, and they stop while admins have OOC muted.
 
 ### Settings for slower computers
 

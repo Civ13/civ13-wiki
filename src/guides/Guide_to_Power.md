@@ -11,6 +11,7 @@ These recipes are in the global crafting catalog. Map catalogs, era and characte
 | Baghdad-style jar cell | Craft an assembly from 2 copper. Fit a fired clay vase, then 1 iron sheet and 10 units of grape juice. | 600 PU s / 1 PU |
 | Iron-copper voltaic-style pile | Craft from 5 copper, then add 5 iron sheets and 50 units of grape juice. | 3,000 PU s / 5 PU |
 | Lead-acid accumulator | Craft from 5 lead. Add 20 units of sulfuric acid to commission it; it remains empty until electrically charged. | 12,000 PU s / 10 PU; charge limit 10 PU |
+| Lithium-ion battery bank | Digital Age, Consumer Electronics research. Craft from 25 electronics. It arrives sealed and commissioned, but empty: charge it like the accumulator. | 48,000 PU s / 40 PU; charge limit 40 PU |
 
 PU is the game's abstract power unit; PU s is stored energy.
 
@@ -26,13 +27,15 @@ These feed the cable grid from the weather instead of fuel. Build them outdoors 
 
 Wind output follows the wind speed shown when you examine the generator. The wind charger gives nothing in calm air, its full output in a strong wind, and furls to a fraction of it in a gale. The wind turbine reaches full output in strong winds and keeps it in a gale. Two rotors closer than three tiles share the same air and each loses half its output, so space them out.
 
+**LED panels** (Digital Age, Consumer Electronics, 2 electronics) are light fixtures built like a [light tube](Guide_to_Construction.md#lighting). They light a little farther than a tube, with a whiter light, on a third of the power, and take ordinary replacement tubes.
+
 Machines that use the cable grid include [hydroponics trays](Guide_to_Farming.md#hydroponics) and the belts, arms and fabricators in [Factory Automation](Guide_to_Factory_Automation.md).
 
 ## Connect and operate
 
 1. Assemble and commission the battery. Use a wrench to secure it.
 2. Stand beside it and use a cable coil on it. Continue the cable network in the matching direction; battery attachment joins neighboring straight cables of the same color and orientation. A cable merely lying nearby does not establish a connection.
-3. Click the battery to select its mode. Primary cells cycle **off → discharge → off**. The accumulator cycles **off → charge → discharge → off**.
+3. Click the battery to select its mode. Primary cells cycle **off → discharge → off**. The accumulator and the lithium-ion bank cycle **off → charge → discharge → off**.
 4. Examine it to read stored energy, output limit and mode. Switch it off when finished: discharge consumes energy each second even when no machine uses it.
 
 The jar and pile cannot recharge electrically. When empty, switch off, replace the iron electrode and grape juice using the amounts above. The accumulator charges from spare output of running engines on its cable network, after machine loads; another battery cannot charge it.

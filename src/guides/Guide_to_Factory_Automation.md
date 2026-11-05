@@ -12,9 +12,12 @@ Everything here is built from the crafting menu and needs research on your facti
 | **Assembly Line** | Factory belt, parts bin, belt drive, assembly fabricator |
 | **Automation** | Feeder arm, sorting arm, sorting gate, reagent gate, belt splitter, belt tunnel entrance and exit, fast factory belt, factory monitor, automated fabricator, bottler, fast reaction vessel, pipe meter |
 | **Digital Computing** | Stack arm, computerized fabricator, industrial reaction vessel |
+| **3D Printing** | 3D printer |
 | **Pharmacology** | Automatic tablet press |
 
 Belts, drives, bins, gates, splitters, tunnels, fabricators and all the pipe machines are crafted from steel. Arms, the factory monitor and the higher fabricators also need electronics.
+
+Arms, fabricators, belt drives, the factory monitor, pipes, pumps, tanks, bottlers and the other pipe machines can be unfastened with a wrench and moved, then wrenched down again. An unfastened part does no work: an unfastened pipe joins nothing, and an unfastened tank or pump drops out of its network until it is fastened again. Switch an arm off before wrenching it.
 
 ## Belts
 
@@ -36,7 +39,7 @@ A **factory belt** carries loose items toward its arrow and hands them to the ne
 
 ## Arms and bins
 
-An arm takes items from the tile behind it and sets them down on the tile in front: onto a belt, into a crate or machine, or onto the floor (up to twelve loose items). Wrench it in place, cable it, then click it to switch it on. Turn an arm with a wrench while it is off.
+An arm takes items from the tile behind it and sets them down on the tile in front: onto a belt, into a crate or machine, or onto the floor (up to twelve loose items). Wrench it in place, cable it, then click it to switch it on. While it is off, right-click it and use **Rotate Left** or **Rotate Right** to turn it.
 
 | Arm | Moves |
 | --- | --- |
@@ -66,6 +69,7 @@ A fabricator turns belt-fed parts into goods from a fixed factory recipe list. W
 | Assembly fabricator | Assembly Line | Normal | Tier 1 |
 | Automated fabricator | Automation | 25% faster | Tiers 1-2 |
 | Computerized fabricator | Digital Computing | Twice as fast | Tiers 1-3 |
+| 3D printer | 3D Printing (Digital Age) | Half speed | Printing recipes only |
 
 | Recipe | Makes | From | Tier | Research |
 | --- | --- | --- | --- | --- |
@@ -89,6 +93,25 @@ A fabricator turns belt-fed parts into goods from a fixed factory recipe list. W
 | Electronic components | 1 component | 3 electronics, 1 gold | 3 | Digital Computing |
 
 Examine a fabricator to see its recipe, inputs and cycle time.
+
+### 3D printer
+
+The **3D printer** (12 electronics) prints plastic goods. Wrench it down, cable it, choose what to print, then load plastic sheets by hand or with arms and belts. Prints are left in front of it. You can make plastic in a [bakelizer](Guide_to_Crafting.md#bakelizer).
+
+| Print | Makes | Plastic |
+| --- | --- | --- |
+| Screwdriver | 1 | 1 |
+| Dice (d20) | 2 | 1 |
+| Bug swatter | 1 | 1 |
+| Bottle | 2 | 1 |
+| Gallon jug | 1 | 2 |
+| Pill pack | 2 | 1 |
+| Blood bag (empty) | 1 | 1 |
+| Surgical mask | 2 | 1 |
+| Bag valve mask | 1 | 2 |
+| Hard hat | 1 | 3 |
+| Gas mask | 1 | 3, plus 1 glass |
+| Traffic cone | 1 | 2 |
 
 ## Factory monitor
 

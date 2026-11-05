@@ -36,13 +36,20 @@ See the [full reference table](#full-node-reference) for node eras, study costs 
 
 ## Eras and baseline research
 
-Every node has an **era tier** (0–8, matching the map's ages). This is the key rule that makes the tree playable instead of a grind wall:
+Every node has an **era tier** (0–9, from the Stone Age to the Digital Age, matching the map's ages). This is the key rule that makes the tree playable instead of a grind wall:
 
 **Main-tree baseline research is granted up to a faction's founding era.** That baseline is frozen: another faction advancing the world does not automatically unlock later nodes for an established faction. Research beyond your baseline must be earned.
 
 Factionless players receive Main-tree baseline nodes up to the current era. A new faction starts with the era baseline at its founding; loaded faction state and map setup still matter.
 
 **Specialist trees**, including Agriculture and Tailoring, do not receive era-based automatic completion. For example, Modern does not grant Irrigation. Unlock its gateway, meet the bench tier and complete the node.
+
+**Persistent worlds** run Auto-Research and start in WW2, so two extra rules apply there:
+
+- When the world's shared research clock moves into a new age, every faction's Main-tree baseline rises with it. A faction founded early never ends up behind factionless players. An age reached because one faction finished a capstone still has to be researched by everyone else.
+- A faction counts its specialist-tree nodes up to WW2 (era 6) as done, since the world starts past those eras. Later specialist nodes are still earned. Factionless players never get specialist trees.
+
+Raised baselines and research tables are saved with the world, so they survive a restart.
 
 ---
 
@@ -91,9 +98,9 @@ The assigned bench ticks forward automatically, once every **10 seconds**, contr
 
 A bench must be tier-upgraded to at least the node's **minimum bench tier** before it can work on it at all — see [Bench tiers](#bench-tiers).
 
-### 2. Build a prototype (Prototype mode — 8 key nodes)
+### 2. Build a prototype (Prototype mode — 9 key nodes)
 
-Some inventions (Bronze Working, Iron Smithing, Gunpowder, Steam Power, Electricity, Nuclear Power, Mechanized Warfare, Digital Computing) need more than theory — they need a **working prototype**. These require **both** the full passive study **and** the matching prototype item fed to the bench (see the [reference table](#full-node-reference)) — it's an extra requirement, not a shortcut. Whichever you finish second is what completes the node: submit the prototype after study is done and it finishes at once; submit it early and the node completes the moment the ticks catch up.
+Some inventions (Bronze Working, Iron Smithing, Gunpowder, Steam Power, Electricity, Nuclear Power, Mechanized Warfare, Digital Computing, Digital Networks) need more than theory — they need a **working prototype**. These require **both** the full passive study **and** the matching prototype item fed to the bench (see the [reference table](#full-node-reference)) — it's an extra requirement, not a shortcut. Whichever you finish second is what completes the node: submit the prototype after study is done and it finishes at once; submit it early and the node completes the moment the ticks catch up.
 
 [Research notes](#research-trade-goods-notes-and-books) still help on these techs, since they grant ticks toward the study half.
 
@@ -133,17 +140,17 @@ Notes work on any tick-accumulating node — which today means every node except
 
 ## Bench tiers
 
-A bench starts at **tier 0** and can be upgraded up to **tier 7**. Higher-tier nodes require a correspondingly upgraded bench before they can be worked at all (an untiered bench simply can't be assigned a high-tier invention).
+A bench starts at **tier 0** and can be upgraded up to **tier 8**. Higher-tier nodes require a correspondingly upgraded bench before they can be worked at all (an untiered bench simply can't be assigned a high-tier invention).
 
-**Era cap:** a bench can never be upgraded above the **current global era** — Stone Age (era 0) caps benches at tier 0, Bronze Age (era 1) at tier 1, and so on, up to the absolute tier-7 ceiling. As the world advances an era, every bench's upgrade cap rises with it. So you can only ever be as advanced as the age you're in.
+**Era cap:** a bench can never be upgraded above the **current global era** — Stone Age (era 0) caps benches at tier 0, Bronze Age (era 1) at tier 1, and so on, up to the absolute tier-8 ceiling. As the world advances an era, every bench's upgrade cap rises with it. So you can only ever be as advanced as the age you're in.
 
 **Upgrading:** feed the bench copper, silver, or gold **coins** — their value contributes toward the next tier. The cost escalates:
 
 ```
-value needed for tier T -> T+1 = 80 x (T + 1)
+value needed for tier T -> T+1 = 120 x (T + 1)
 ```
 
-So tier 0→1 costs 80 value, tier 1→2 costs 160, tier 6→7 costs 560, and so on. Progress accumulates across multiple items fed in — you don't need one single expensive item.
+So tier 0→1 costs 120 value, tier 1→2 costs 240, tier 7→8 costs 960, and so on. Progress accumulates across multiple items fed in — you don't need one single expensive item.
 
 ---
 
@@ -227,6 +234,9 @@ The first bonus slot costs 300 silver-equivalent, the second costs 600, the thir
 | Assembly Line | 5 | 235 | 4 | Analysis | Factories |
 | Automation | 7 | 305 | 6 | Analysis | Assembly Line, Electricity |
 | Digital Computing | 8 | 510 | 7 | **Prototype** (Cold War-era camera) | Automation, Electricity |
+| Digital Networks | 9 | 560 | 8 | **Prototype** (mobile phone) | Digital Computing |
+| Consumer Electronics | 9 | 420 | 8 | Analysis | Digital Networks |
+| 3D Printing | 9 | 420 | 8 | Analysis | Digital Networks, Automation |
 
 #### Textiles (gateway)
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
@@ -356,6 +366,7 @@ Its own standalone tab, reachable once Basic Agriculture (in the Main tree) is r
 | Field Artillery | 4 | 200 | 3 | Analysis | Cannon, Steelmaking |
 | Mechanized Warfare | 6 | 405 | 5 | **Prototype** (tank shell casing) | Field Artillery, Combustion Engine, Steelmaking |
 | Missiles | 7 | 305 | 6 | Analysis | Mechanized Warfare, Aviation & Rocketry |
+| Drones | 9 | 450 | 8 | Analysis | Consumer Electronics, Missiles |
 
 #### Armor (gateway)
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |

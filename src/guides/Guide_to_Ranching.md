@@ -252,7 +252,7 @@ Every breeding species has a population cap, so herds and wild packs stop growin
 <td>
 <img src="../images/frog.png">
 </td>
-<td>Drops 1 meat. Watch out though if the frog is poisonous it can kill you! Other than that it just eats flies.</td>
+<td>Drops 1 meat. Watch out though if the frog is poisonous it can kill you! Other than that it just eats flies. Frogs are small enough that people and larger animals walk straight over them.</td>
 </tr>
 <tr>
 <td>Poisonous Frog</td>

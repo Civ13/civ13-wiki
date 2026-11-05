@@ -20,6 +20,8 @@ This section contains comprehensive guides covering various game mechanics, skil
 ## Transport
 - [Boats & Ships](guides/Guide_to_Boats.md)
 - [Trains](guides/Guide_to_Trains.md)
+- [Travel Between Lands](guides/Guide_to_Travel.md)
+- [Map Making](guides/Guide_to_Map_Making.md)
 
 ## Building & Construction
 - [Guide to Construction](guides/Guide_to_Construction.md)
@@ -30,6 +32,7 @@ This section contains comprehensive guides covering various game mechanics, skil
 - [Guide to Weapons](guides/Guide_to_Weapons.md)
 - [Trenches & Fortifications](guides/Guide_to_Trenches.md)
 - [Guide to Tanks](guides/Guide_to_Tanks.md)
+- [Nomad Raiders & Caravans](guides/Guide_to_Nomad_Visitors.md)
 
 ## Science & Health
 - [Guide to Chemistry](guides/Guide_to_Chemistry.md)

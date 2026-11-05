@@ -151,6 +151,10 @@ you funny.
 
 Just remember, if you can make guns, so can they...
 
+The world keeps advancing age by age, past the Modern Age into the
+**Digital Age (2026)**, with its smartphones, drones, lithium-ion batteries,
+LED lighting and 3D printers.
+
 ### Resource-Based Research
 
 In this mode, you create a **Research Bench** with **wood**, place any
@@ -182,7 +186,9 @@ Chad Mode+ can be chaotic and dangerous; the game may become very unpredictable.
 ### No Research
 
 In this mode, you're stuck in the epoch you started in, with all
-technology of that epoch unlocked.
+technology of that epoch unlocked. The lobby offers starts from the Bronze
+Age up to the **Digital Age (2026)**, the newest age, which comes after the
+Modern Age.
 
 Research mechanics won't yield any improvements.
 
@@ -227,6 +233,7 @@ levels, check **[Full Crafting List](../Full_Crafting_List.md)**.
 - 105: oil well
 - 141: 2-way radio, portable radio
 - 178: walkie-talkie radio
+- 235 (Digital Age): smartphone, LED panel, lithium-ion battery bank, 3D printer
 
 #### Military
 - 12: bone armor
@@ -245,6 +252,7 @@ levels, check **[Full Crafting List](../Full_Crafting_List.md)**.
 - 70: Matchlock Musket
 - 80: iron bullets, cannon balls
 - 79: cannon **(requires 71 points in Industrial too)** 
+- 235 (Digital Age): drone controller, quadcopter drone, payload drone
 
 #### Health
 - 15: ancient clothing
