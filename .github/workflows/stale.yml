@@ -1,0 +1,36 @@
+name: Stale page report
+
+# Monthly, advisory: lists pages not edited or marked reviewed in 12 months
+# in the run summary and one rolling issue. Never fails.
+
+on:
+  schedule:
+    - cron: '17 6 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - name: Build the report
+        run: |
+          python3 scripts/stale_pages.py --markdown > stale.md
+          cat stale.md >> "$GITHUB_STEP_SUMMARY"
+      - name: Open or update the rolling issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          number="$(gh issue list --state open --search 'Pages overdue for review in:title' --json number,title --jq '[.[] | select(.title == "Pages overdue for review")][0].number')"
+          if [ -n "$number" ]; then
+            gh issue edit "$number" --body-file stale.md
+            echo "Updated issue #$number" >> "$GITHUB_STEP_SUMMARY"
+          else
+            gh issue create --title "Pages overdue for review" --body-file stale.md
+          fi

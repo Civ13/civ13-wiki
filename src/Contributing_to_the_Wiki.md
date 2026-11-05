@@ -71,6 +71,26 @@ The wiki will be served at `http://localhost:3000`. When using `mdbook serve`, t
 - `book/` — Compiled output (generated automatically, do not edit)
 - `theme/` — mdBook theme customization
 
+### Starting a new page
+
+Start from a template so new pages share one shape:
+
+```bash
+python3 scripts/new_page.py guide "Guide to Beekeeping" --group "Food & Animals"
+python3 scripts/new_page.py map "Verdun" --group "Early Firearms (1650 to 1930)"
+python3 scripts/new_page.py gamemode "Train Raid"
+```
+
+This copies `templates/<kind>.md` into the right folder, lists the page in `SUMMARY.md` under the named group (or at the end of the section), and regenerates the overview pages. Replace every placeholder before opening a pull request; delete a section rather than leaving it empty.
+
+### Keeping pages current
+
+A monthly report lists pages that have not been edited in twelve months. After checking a page against the game and finding it still right, add a review marker on its own line near the top so it drops off the report:
+
+```markdown
+<!-- reviewed: 2026-11-05 -->
+```
+
 ### Map pages
 
 Map pages live in `src/maps/` and are listed in `SUMMARY.md` under the vote group the in-game map vote uses (era for team combat, mode for roleplay). A map belongs in an active group only while it has an uncommented entry in the game's map vote lists; otherwise list it under *Not in Rotation* rather than deleting the page, so it is ready when the map returns.
@@ -86,6 +106,16 @@ When adding images to wiki pages:
 3. Make sure the filename is **unique** to avoid conflicts with existing images
 
 ## Images
+
+## Admonitions
+
+Call-out boxes use the `admonish` fenced block. The first word picks the style: `note`, `tip`, `info`, `warning` or `danger`. Keep them short and use `warning` and `danger` only for things that get a character hurt or a player banned.
+
+````markdown
+```admonish warning
+Avoid drinking raw water from puddles, rivers and lakes; boil it first.
+```
+````
 
 ## DMI Sprites (`<dmi-sprite>`)
 
