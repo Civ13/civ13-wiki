@@ -14,21 +14,27 @@ A **modular and fully featured wiki** powered by [mdBook](https://rust-lang.gith
 * **Offline capable**—download the entire wiki and read it locally
 * **Custom theming** with Rust-based mdBook preprocessing
 * **DMI Sprite support** for game entity visualization
-* **Multiple preprocessors**—admonitions, emoji codes, template expansion, and more
+* **Preprocessors**—admonitions and emoji codes
 * **Simple Git workflow**—edit files directly or via GitHub web editor
 
 ## Quick Start
 
 ### Prerequisites
 
-* [Rust & Cargo](https://rustup.rs/) (for mdBook)
-* [Node.js](https://nodejs.org/) (optional, for preprocessor scripts)
+* Python 3 (standard library only)
+* [Git LFS](https://git-lfs.com/) if you need the full-resolution map renders or videos locally (see below)
+* [Rust & Cargo](https://rustup.rs/), only for building the `mdbook-emojicodes` preprocessor; everything else is a prebuilt download
 
 ### Building the Wiki
 
-Install mdBook and dependencies:
+Install the pinned toolchain from `tools.json` into the gitignored `tools/` folder:
 ```bash
-cargo install mdbook
+python3 scripts/setup_tools.py        # Windows: py -3 scripts/setup_tools.py
+```
+
+Then either add `tools/` to your PATH or let the script run mdBook for you:
+```bash
+python3 scripts/setup_tools.py --run serve
 ```
 
 Build the static site:
@@ -40,9 +46,9 @@ python3 scripts/previews.py
 For the complete publishable build, use `python3 scripts/build.py` instead.
 It runs mdBook, generates chapter-specific canonical, Open Graph, Twitter and
 inline Discord component metadata in the fetched HTML head, writes the Git SHA
-to `book/html/revision.json`, and validates every chapter. CI uses the pinned
-mdBook/plugin versions listed in `.github/workflows/wiki.yml`; local binaries
-may differ. Python 3 uses only the standard library. On Windows, use a verified
+to `book/html/revision.json`, and validates every chapter. CI installs the same
+pinned versions from `tools.json` (`scripts/check_tools.py` fails the build if
+the workflow and `tools.json` disagree). Python 3 uses only the standard library. On Windows, use a verified
 full Python interpreter path if the Store alias or `py` launcher is unavailable.
 
 Run `python3 scripts/test_previews.py` for serialization and invalid-payload
@@ -57,6 +63,18 @@ pages do not receive chapter previews. The canonical deployment remains
 generation: use the complete build and serve `book/html` to inspect previews.
 
 The compiled wiki will be in `book/html/`.
+
+### Large assets (Git LFS)
+
+Full-resolution map layer renders (`src/images/maps/**/*__full.png`) and videos
+(`src/video/`) are stored in Git LFS and are **not** served from GitHub Pages.
+Pages link to copies on the rolling [`assets` release](https://github.com/civ13/civ13-wiki/releases/tag/assets),
+which `.github/workflows/assets.yml` refreshes whenever an LFS file changes on
+`master` (or on manual dispatch). A plain clone only fetches small pointer
+files, so clones and CI stay fast; run `git lfs pull` when you need the real
+files. To add a new large asset: put it under one of those paths, link it as
+`https://github.com/civ13/civ13-wiki/releases/download/assets/<file name>`
+(file names must be unique), and run `python3 scripts/check_assets.py`.
 
 ### Local Development
 
@@ -100,9 +118,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 Edit `book.toml` to modify:
 * **Theme**—Default and dark theme settings
-* **Preprocessors**—Admonitions, emoji codes, template expansion
+* **Preprocessors**—Admonitions, emoji codes
 * **Additional CSS/JS**—Custom styling and functionality
-* **Features**—Syntax highlighting, MathJax support, etc.
+* **Features**—Syntax highlighting, folding sidebar, etc.
 
 ### Preprocessors
 
@@ -110,8 +128,7 @@ The wiki uses several mdBook preprocessors:
 
 * **admonish**—Note, warning, and info boxes
 * **emojicodes**—Emoji shorthand support
-* **template**—Template expansion in markdown
-* **embedify**—Content embedding
+* **linkcheck**—Internal link validation (warnings only; `scripts/check_player_guides.py` enforces local links and anchors)
 
 ## Troubleshooting
 
@@ -119,9 +136,9 @@ The wiki uses several mdBook preprocessors:
 The wiki must be served via HTTP (not `file://`). Use `mdbook serve` for local testing or host via GitHub Pages.
 
 ### Build errors?
-Ensure you have the latest mdBook version:
+Reinstall the pinned toolchain:
 ```bash
-cargo install mdbook --upgrade
+python3 scripts/setup_tools.py --force
 ```
 
 Clear the build cache and rebuild:

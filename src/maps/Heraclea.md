@@ -5,7 +5,7 @@
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/tdm-static-067478b82c7a/313bc__heraclea/heraclea__all_z_overview.png" width="912" height="552" loading="lazy" alt="Static sprite render of heraclea.dmm showing all authored layers: z=1">
 <figcaption>Static map layout of <code>heraclea.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
-Full-resolution layers: <a href="../images/maps/tdm-static-067478b82c7a/313bc__heraclea/heraclea__z01__full.png">z=1 (4800 × 2400 PNG)</a>.
+Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/heraclea__z01__full.png">z=1 (4800 × 2400 PNG)</a>.
 </figcaption>
 </figure>
 

@@ -5,7 +5,7 @@
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/tdm-static-067478b82c7a/313bc__siege/siege__all_z_overview.png" width="472" height="552" loading="lazy" alt="Static sprite render of siege.dmm showing all authored layers: z=1">
 <figcaption>Static map layout of <code>siege.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
-Full-resolution layers: <a href="../images/maps/tdm-static-067478b82c7a/313bc__siege/siege__z01__full.png">z=1 (2560 × 2560 PNG)</a>.
+Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/siege__z01__full.png">z=1 (2560 × 2560 PNG)</a>.
 </figcaption>
 </figure>
 

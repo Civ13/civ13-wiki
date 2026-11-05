@@ -5,7 +5,7 @@
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/tdm-static-067478b82c7a/1903__tsaritsyn/tsaritsyn__all_z_overview.png" width="560" height="552" loading="lazy" alt="Static sprite render of tsaritsyn.dmm showing all authored layers: z=1">
 <figcaption>Static map layout of <code>tsaritsyn.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
-Full-resolution layers: <a href="../images/maps/tdm-static-067478b82c7a/1903__tsaritsyn/tsaritsyn__z01__full.png">z=1 (3840 × 3200 PNG)</a>.
+Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/tsaritsyn__z01__full.png">z=1 (3840 × 3200 PNG)</a>.
 </figcaption>
 </figure>
 

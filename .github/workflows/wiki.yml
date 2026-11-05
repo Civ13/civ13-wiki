@@ -22,15 +22,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
+        with:
+          fetch-depth: 2 # the PR merge commit and its parents, for the pinned-page diff
       - name: Install mdBook & plugins
         uses: taiki-e/install-action@v2.87.27
         with:
-          tool: mdbook@0.4.36,mdbook-admonish@1.14.0,mdbook-linkcheck@0.7.7,mdbook-template@1.1.0,mdbook-emojicodes@0.3.0,mdbook-embedify@0.2.11
+          tool: mdbook@0.4.36,mdbook-admonish@1.14.0,mdbook-linkcheck@0.7.7,mdbook-emojicodes@0.3.0
       - name: Configure Pages
         if: github.event_name != 'pull_request'
         uses: actions/configure-pages@v6
+      - name: List changed pages that Player Help pins
+        if: github.event_name == 'pull_request'
+        run: python3 scripts/check_pinned_changes.py HEAD^1 HEAD
       - name: Build with mdBook
         run: |
+          python3 scripts/check_tools.py
+          python3 scripts/check_assets.py
           python3 scripts/test_previews.py
           python3 scripts/build.py
           python3 scripts/check_player_guides.py
@@ -39,6 +46,7 @@ jobs:
         with:
           name: wiki-html-${{ github.sha }}
           path: ./book/html
+          retention-days: 7
       - name: Upload artifact
         if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v5
@@ -60,3 +68,19 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+
+  markdownlint:
+    # Advisory: reports style problems in the job log without failing the PR.
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v7
+      - uses: DavidAnson/markdownlint-cli2-action@v19
+        continue-on-error: true # advisory: findings stay in the log, the job stays green
+        with:
+          globs: |
+            src/**/*.md
+            !src/Full_Crafting_List.md
+            !src/Food_Decay_Times.md

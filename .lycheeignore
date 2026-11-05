@@ -1,0 +1,11 @@
+# Hosts the link checker cannot or should not hit.
+^byond://
+^https?://(www\.)?discord(app)?\.com/
+^https?://discord\.gg/
+^https?://media\.discordapp\.net/
+^https?://cdn\.discordapp\.net/
+^https?://www\.byond\.com/
+^https?://github\.com/civ13/civ13-wiki/edit/
+^https?://github\.com/civ13/civ13-wiki/releases/download/
+^https?://civ13\.com
+^mailto:

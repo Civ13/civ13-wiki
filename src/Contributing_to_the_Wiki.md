@@ -39,8 +39,8 @@ If you prefer to edit the files locally, test changes, or experiment with the we
 
 ### Prerequisites
 
-- **Windows**: mdBook is prepackaged as `mdbook.exe` in this repository (no installation needed!)
-- **macOS/Linux**: Install [Rust](https://rustup.rs/) then run `cargo install mdbook`
+- Python 3 on any platform. `python3 scripts/setup_tools.py` downloads the pinned mdBook and plugin binaries into a local `tools/` folder.
+- [Rust](https://rustup.rs/) is optional: it is only used to build the emoji preprocessor, and the wiki builds without it.
 
 ### Setup
 
@@ -52,22 +52,13 @@ If you prefer to edit the files locally, test changes, or experiment with the we
 
 ### Building & Serving
 
-**Windows (Using Prepackaged mdbook.exe):**
-```powershell
-# Build and open in browser
-.\mdbook.exe build --open
-
-# For development with live reloading
-.\mdbook.exe serve
-```
-
-**macOS/Linux:**
+**Any platform (Windows: use `py -3` instead of `python3`):**
 ```bash
-# Build and open in browser
-mdbook build --open
+# One-time setup, then build and open in browser
+python3 scripts/setup_tools.py --run build --open
 
 # For development with live reloading
-mdbook serve
+python3 scripts/setup_tools.py --run serve
 ```
 
 The wiki will be served at `http://localhost:3000`. When using `mdbook serve`, the page automatically refreshes whenever you save changes to markdown files.
@@ -95,7 +86,7 @@ When adding images to wiki pages:
 The wiki supports rendering sprites directly from `.dmi` files (the icon format used by BYOND/SS13) using a custom HTML element.
 
 ```admonish note
-Sprites are fetched over HTTP and will only display when the wiki is served via a web server (e.g. `./mdbook.exe serve`, or the live GitHub Pages site). They **will not** appear when opening an `.html` file directly from the filesystem (`file://`), due to browser security restrictions on cross-origin fetching.
+Sprites are fetched over HTTP and will only display when the wiki is served via a web server (e.g. `mdbook serve`, or the live GitHub Pages site). They **will not** appear when opening an `.html` file directly from the filesystem (`file://`), due to browser security restrictions on cross-origin fetching.
 ```
 
 ### Basic syntax

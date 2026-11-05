@@ -134,4 +134,4 @@ This lets you flank the enemy through routes they may not expect a tank to fit t
 
 For possibly better explanation with a moving visual aid, take a gander at this poor quality video.
 
-![video](../video/tank_maneuvering.mp4)
+<video controls preload="metadata" width="640" src="https://github.com/civ13/civ13-wiki/releases/download/assets/tank_maneuvering.mp4">Your browser cannot play this video. <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/tank_maneuvering.mp4">Download tank_maneuvering.mp4</a>.</video>

@@ -1,0 +1,38 @@
+name: Notify Civ13 of wiki changes
+
+# In-game Player Help only serves wiki guides whose text matches a pin in
+# Civ13's scripts/player_help_bridge.py. After a push to master this tells the
+# Civ13 "Player Help wiki re-pin" workflow to refresh those pins and open its
+# rolling pull request. It needs the CIV13_DISPATCH_TOKEN secret (fine-grained
+# PAT, Civ13/Civ13 repository, contents: write). Without it the step only prints
+# a notice; Civ13's weekly schedule and manual dispatch remain as fallbacks.
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'src/**/*.md'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send repository_dispatch to Civ13/Civ13
+        env:
+          TOKEN: ${{ secrets.CIV13_DISPATCH_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then
+            echo "::notice::CIV13_DISPATCH_TOKEN is not set; Civ13 pins will refresh on its weekly schedule or a manual run of its wiki-repin workflow."
+            exit 0
+          fi
+          curl --fail --silent --show-error -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/Civ13/Civ13/dispatches \
+            -d "{\"event_type\":\"wiki-updated\",\"client_payload\":{\"sha\":\"$GITHUB_SHA\"}}"
+          echo "Dispatched wiki-updated for $GITHUB_SHA to Civ13/Civ13" >> "$GITHUB_STEP_SUMMARY"
