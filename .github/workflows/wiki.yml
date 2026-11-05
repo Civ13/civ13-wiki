@@ -75,10 +75,10 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read
-    continue-on-error: true
     steps:
       - uses: actions/checkout@v7
       - uses: DavidAnson/markdownlint-cli2-action@v19
+        continue-on-error: true # advisory: findings stay in the log, the job stays green
         with:
           globs: |
             src/**/*.md
