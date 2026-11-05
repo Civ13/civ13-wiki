@@ -1,3 +1,26 @@
+/* The page table of contents and the subpage footer used to live in a
+   vendored copy of mdBook's index.hbs. They are created here instead so the
+   wiki runs on the stock theme and mdBook upgrades need no template merge. */
+(function () {
+	var main = document.querySelector("#content > main");
+	if (main && !document.querySelector(".sidetoc")) {
+		var sidetoc = document.createElement("div");
+		sidetoc.className = "sidetoc";
+		var nav = document.createElement("nav");
+		nav.className = "pagetoc";
+		sidetoc.appendChild(nav);
+		main.insertBefore(sidetoc, main.firstChild);
+	}
+	if (main && !document.getElementById("subpage-footer")) {
+		var footer = document.createElement("footer");
+		footer.id = "subpage-footer";
+		var label = document.createElement("p");
+		label.textContent = "Subpages";
+		footer.appendChild(label);
+		main.parentElement.appendChild(footer);
+	}
+})();
+
 // Un-active everything when you click it
 var pagetocElement = document.getElementsByClassName("pagetoc")[0];
 if (pagetocElement && pagetocElement.children) {

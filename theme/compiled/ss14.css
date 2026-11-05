@@ -523,6 +523,12 @@ details[open].admonition > summary.admonition-title::after {
     color: var(--sidebar-fg);
 }
 
+/* The old template removed mdBook's previous/next chapter arrows; keep that. */
+.nav-wrapper,
+.nav-wide-wrapper {
+    display: none;
+}
+
 /* Styling for the subpage footer & sidebar toc */
 @media only screen and (max-width: 1365px) {
     .sidetoc {
