@@ -49,7 +49,7 @@ Decay (minutes)
 <td>
 <img src="images/food/coffee.png">
 </td>
-<td><b>Coffee</b> <small>(contains 15 coffee) - <i>food (satisfaction +8)</i> - <b>jungle • savanna • desert • semi-arid</b> - will grow at all seasons</small><br>
+<td><b>Green coffee</b> <small>(contains 15 coffee) - <i>food (satisfaction +8)</i> - <b>jungle • savanna • desert • semi-arid</b> - will grow at all seasons</small><br>
 • put in liquid container to make 15 coffee<br>
 <small><details><summary>show/hide coffee reactions</summary>
 &nbsp; &nbsp; • 2 coffee and 1 ice will react to 3 iced coffee<br>
@@ -252,7 +252,7 @@ Decay (minutes)
 <td><b>Green potato</b> <small>(contains 10 solanine and 1 nutriment) - <i>food (satisfaction -3)</i> - <b>can't be grown</b></small><br>
 <i>*every 1 solanine give 5 toxin damage when in bloodstream</i>
 </td>
-<td>94</td>
+<td>93</td>
 </tr>
 <tr>
 <td><img src="images/food/beans_brownred.png"></td>
@@ -760,7 +760,7 @@ but there are no standard ways to extract nutriment from food</i><br>
 <td><b>Rice</b> <small>(contains 2 nutriment) - <i>food (satisfaction +3)</i></small><br>
 • put in pot with water, wait when rice boil and remove it from pot before it turn to stew to obtain boiled rice
 </td>
-<td>600</td>
+<td>100</td>
 </tr>
 <tr>
 <td><img src="images/food/boiledrice.png"></td>
@@ -801,7 +801,7 @@ but there are no standard ways to extract nutriment from food</i><br>
 <td><b>Leaf salad</b> <small>(contains 3 nutriment) - <i>food (satisfaction +2)</i></small><br>
 <i>*can be created by gorrilaman from 6 leaves of any type<small>, but if gorilla recipes loaded</small></i>
 </td>
-<td>15</td>
+<td>27</td>
 </tr>
 <tr>
 <td><img src="images/food/herbsalad.png"></td>
@@ -1140,7 +1140,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 **<i><small>cream Cheese Bread - typo in code</small></i><br>
 ***<i><small>marked as non vegetarian, but this is not vegan (it's not implemented in code)</small></i><br>
 </td>
-<td>15</td>
+<td>17</td>
 </tr>
 <tr>
 <td><img src="images/food/creamcheesebreadslice.png"></td>
@@ -1279,7 +1279,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
 *<i>you cannot bake a vanilla cake, but it's presents on some maps</i>
 </td>
-<td>15</td>
+<td>17</td>
 </tr>
 <tr>
 <td><img src="images/food/plaincake_slice.png"></td>
@@ -1295,7 +1295,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
 *<i>you cannot bake a orange cake, it's not presents on maps, but defined in code</i>
 </td>
-<td>15</td>
+<td>17</td>
 </tr>
 <tr>
 <td><img src="images/food/orangecake_slice.png"></td>
@@ -1311,7 +1311,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
 *<i>you cannot bake a lemon cake, but it's presents on some maps</i>
 </td>
-<td>15</td>
+<td>17</td>
 </tr>
 <tr>
 <td><img src="images/food/lemoncake_slice.png"></td>
@@ -1327,7 +1327,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
 *<i>you cannot bake a lime cake, but it's presents on some maps</i>
 </td>
-<td>15</td>
+<td>17</td>
 </tr>
 <tr>
 <td><img src="images/food/limecake_slice.png"></td>
@@ -1343,7 +1343,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
 *<i>you cannot bake a chocolate cake, but it's presents on some maps</i>
 </td>
-<td>15</td>
+<td>17</td>
 </tr>
 <tr>
 <td><img src="images/food/chocolatecake_slice.png"></td>
@@ -1359,7 +1359,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
 *<i>you cannot bake a apple cake, but it's presents on some maps</i>
 </td>
-<td>15</td>
+<td>17</td>
 </tr>
 <tr>
 <td><img src="images/food/applecake_slice.png"></td>
@@ -1375,7 +1375,7 @@ You can obtain this if you roast on campfire, wood stove, stove, metal grill or 
 &nbsp; &nbsp;*<i>you can use a sharp weapon to slice, but a large weapon will cause you to lose some of the slices</i><br>
 *<i>you cannot bake a pumpkin pie, but it's presents on some maps</i>
 </td>
-<td>15</td>
+<td>17</td>
 </tr>
 <tr>
 <td><img src="images/food/pumpkinpie_slice.png"></td>

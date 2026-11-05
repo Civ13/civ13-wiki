@@ -54,7 +54,7 @@ def load_food_types(root):
 
 
 def page_rows():
-    """Yield (label, minutes or None) for every table row with a bold label and a numeric decay cell."""
+    """Yield (label, minutes or None) for every table row with a bold label and a decay cell."""
     text = PAGE.read_text(encoding='utf-8')
     for row in re.split(r'<tr>', text)[1:]:
         row = row.split('</tr>')[0]
@@ -62,8 +62,11 @@ def page_rows():
         cells = re.findall(r'<td[^>]*>\s*(.*?)\s*</td>', row, re.S)
         if not label or not cells:
             continue
-        last = html.unescape(re.sub(r'<[^>]+>', '', cells[-1])).strip()
-        minutes = int(last) if re.fullmatch(r'\d+', last) else None
+        # Decay is the cell right after the label; meat and seafood rows add a rot column and an image after it.
+        label_cell = next((i for i, cell in enumerate(cells) if '<b>' in cell), len(cells) - 1)
+        decay_cell = cells[label_cell + 1] if label_cell + 1 < len(cells) else cells[-1]
+        value = html.unescape(re.sub(r'<[^>]+>', '', decay_cell)).strip()
+        minutes = int(value) if re.fullmatch(r'\d+', value) else None
         yield html.unescape(label.group(1)).strip(), minutes
 
 
