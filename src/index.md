@@ -1,9 +1,132 @@
-﻿## What is this?
+<div class="wiki-hero">
+<p class="wiki-kicker">Civilization 13 wiki</p>
 
-Civilization 13 (formerly 1713) is a free game based on Space Station 13 code and using the BYOND platform, which features several epochs of human history. (hence the name). Visit the [Civ13 website](https://civ13.github.io/) for an overview of the game.
+# Build a civilization from the Stone Age to the modern era
 
-It features both Roleplay-oriented and Team-Deathmatch modes, with the main one being [Nomads](gamemodes/Civilizations_and_Nomads.md), in which you need to bring your civilization from the Stone Age to the Modern Age.
+Civilization 13 (formerly 1713) is a free multiplayer game based on Space Station 13 code, played through BYOND, that spans several epochs of human history. It features both roleplay and team-deathmatch modes, with the main one being [Nomads](gamemodes/Civilizations_and_Nomads.md), in which you bring your civilization from the Stone Age to the Modern Age. Visit the [Civ13 website](https://civ13.github.io/) for an overview of the game.
 
+<p class="wiki-actions"><a class="wiki-button" href="New_Player_Guide.md">How to play</a> <a class="wiki-button wiki-button-secondary" href="guides_overview.md">Browse the guides</a> <a class="wiki-button wiki-button-secondary" href="https://civ13.github.io/Civ13/crafting/">Crafting Atlas</a></p>
+</div>
+
+## Start playing
+
+<ol class="wiki-steps">
+<li><strong>Install BYOND</strong><p><a href="https://www.byond.com/download/">Download BYOND</a> and install the Windows client. BYOND lists Linux as a hosting platform rather than a game client; macOS is not listed as a supported player platform.</p></li>
+<li><strong>Learn the basics</strong><p><a href="rules/Rules.md">Read the server rules</a> and <a href="New_Player_Guide.md">learn how to play</a>. The <a href="Starter_Guide.md">Starter Guide</a> covers your first hour as a nomad.</p></li>
+<li><strong>Choose a server</strong><p>These links open BYOND when the client is installed: <a href="byond://civ13.com:1715">Join RP / Nomads</a> or <a href="byond://civ13.com:1714">Join TDM</a>.</p></li>
+</ol>
+
+For questions or community help, join the [Civ13 Discord](https://discord.gg/hBEtg4x). To contribute, use the edit links on a page or follow the [wiki contribution guide](Contributing_to_the_Wiki.md). The game source is on [GitHub](https://github.com/Civ13/Civ13).
+
+## Guides
+
+The guides cover every stage of a civilization. See the [guides overview](guides_overview.md) for the full list grouped by topic, including [research](guides/Guide_to_Research.md), [power and batteries](guides/Guide_to_Power.md), [factory automation](guides/Guide_to_Factory_Automation.md), [boats](guides/Guide_to_Boats.md), [trains](guides/Guide_to_Trains.md) and [travel between lands](guides/Guide_to_Travel.md).
+
+<ul class="wiki-icon-grid">
+<li><a href="New_Player_Guide.md"><img src="images/icons/computer.png" alt="" width="72" height="72">How to Play</a></li>
+<li><a href="rules/Rules.md"><img src="images/icons/police.png" alt="" width="72" height="72">Rules</a></li>
+<li><a href="Starter_Guide.md"><img src="images/icons/student.png" alt="" width="72" height="72">Starter Guide</a></li>
+<li><a href="gamemodes/Civilizations_and_Nomads.md"><img src="images/icons/conference.png" alt="" width="72" height="72">Nomads</a></li>
+<li><a href="guides/Guide_to_Character.md"><img src="images/icons/character.png" alt="" width="72" height="72">Character</a></li>
+<li><a href="guides/Guide_to_Crafting.md"><img src="images/icons/crafting.png" alt="" width="72" height="72">Crafting</a></li>
+<li><a href="Full_Crafting_List.md"><img src="images/icons/modern_architecture.png" alt="" width="72" height="72">Crafting List</a></li>
+<li><a href="guides/Guide_to_Metallurgy.md"><img src="images/icons/metallurgy.png" alt="" width="72" height="72">Metallurgy</a></li>
+<li><a href="guides/Guide_to_Construction.md"><img src="images/icons/architecture.png" alt="" width="72" height="72">Construction</a></li>
+<li><a href="guides/Guide_to_Farming.md"><img src="images/icons/farming.png" alt="" width="72" height="72">Farming</a></li>
+<li><a href="guides/Guide_to_Ranching.md"><img src="images/icons/ranching.png" alt="" width="72" height="72">Ranching</a></li>
+<li><a href="guides/Guide_to_Fishing.md"><img src="images/icons/fishing.png" alt="" width="72" height="72">Fishing</a></li>
+<li><a href="guides/Guide_to_Cooking.md"><img src="images/icons/cooking.png" alt="" width="72" height="72">Cooking</a></li>
+<li><a href="guides/Guide_to_Medical.md"><img src="images/icons/medic.png" alt="" width="72" height="72">Medical</a></li>
+<li><a href="guides/Guide_to_Chemistry.md"><img src="images/icons/chemistry.png" alt="" width="72" height="72">Chemistry</a></li>
+<li><a href="guides/Guide_to_Radiation.md"><img src="images/icons/nurse.png" alt="" width="72" height="72">Radiation</a></li>
+<li><a href="guides/Guide_to_Hygiene.md"><img src="images/icons/hygiene.png" alt="" width="72" height="72">Hygiene</a></li>
+<li><a href="guides/Guide_to_Communications.md"><img src="images/icons/talk.png" alt="" width="72" height="72">Communication</a></li>
+<li><a href="guides/Guide_to_Paperwork.md"><img src="images/icons/renaissance.png" alt="" width="72" height="72">Paperwork</a></li>
+<li><a href="guides/Guide_to_Religion.md"><img src="images/icons/religion.png" alt="" width="72" height="72">Religion</a></li>
+<li><a href="guides/Guide_to_Races.md"><img src="images/icons/animal.png" alt="" width="72" height="72">Races</a></li>
+<li><a href="guides/Guide_to_Weapons.md"><img src="images/icons/weapons.png" alt="" width="72" height="72">Weapons</a></li>
+<li><a href="guides/Guide_to_Tanks.md"><img src="images/icons/tank.png" alt="" width="72" height="72">Tanks</a></li>
+</ul>
+
+## Maps and scenarios
+
+Maps are grouped the way the in-game vote groups them. Each heading opens the matching section of the [maps overview](maps_overview.md), which also lists maps that are not in rotation. For objectives and first-round guidance, start with the [game modes overview](gamemodes/Game_Modes.md).
+
+<div class="wiki-map-grid">
+<section class="wiki-map-group"><h3><img src="images/icons/politician.png" alt="" width="36" height="36"><a href="maps_overview.md#nomads--persistent-worlds">Nomads & Persistent Worlds</a></h3><ul>
+<li data-type="RP"><a href="maps/Nomads_Maps.md">Nomads Maps</a></li>
+<li data-type="RP"><a href="maps/Gaia.md">Gaia</a></li>
+<li data-type="RP"><a href="maps/Wasteland.md">Wasteland</a></li>
+</ul></section>
+<section class="wiki-map-group"><h3><img src="images/icons/pirate.png" alt="" width="36" height="36"><a href="maps_overview.md#colony--pioneers">Colony & Pioneers</a></h3><ul>
+<li data-type="RP"><a href="maps/Colony.md">Colony</a></li>
+<li data-type="RP"><a href="maps/Jungle_Colony.md">Jungle Colony</a></li>
+<li data-type="RP"><a href="maps/Pioneers.md">Pioneers</a></li>
+<li data-type="RP"><a href="maps/Bohemia.md">Bohemia</a></li>
+<li data-type="RP"><a href="maps/Four_Colonies.md">Four Colonies</a></li>
+</ul></section>
+<section class="wiki-map-group"><h3><img src="images/icons/scroll.png" alt="" width="36" height="36"><a href="maps_overview.md#roleplay-scenarios">Roleplay Scenarios</a></h3><ul>
+<li data-type="RP"><a href="maps/Tribes.md">Tribes</a></li>
+<li data-type="RP"><a href="maps/Hunt.md">Hunt</a></li>
+<li data-type="RP"><a href="maps/Little_Creek_RP.md">Little Creek RP</a></li>
+<li data-type="RP"><a href="maps/Gulag_13.md">Gulag 13</a></li>
+</ul></section>
+<section class="wiki-map-group"><h3><img src="images/icons/classical_architecture.png" alt="" width="36" height="36"><a href="maps_overview.md#pre-firearms-3000-bc-to-1650">Pre-Firearms (3000 BC to 1650)</a></h3><ul>
+<li data-type="TDM"><a href="maps/Karak.md">Karak</a></li>
+<li data-type="TDM"><a href="maps/Camp.md">Camp</a></li>
+<li data-type="TDM"><a href="maps/Oasis.md">Trouble at the Oasis</a></li>
+<li data-type="TDM"><a href="maps/Heraclea.md">Heraclea</a></li>
+<li data-type="TDM"><a href="maps/Siege.md">Siege</a></li>
+<li data-type="TDM"><a href="maps/Gladiators.md">Gladiators</a></li>
+<li data-type="TDM"><a href="maps/Teutoburg.md">Teutoburg</a></li>
+<li data-type="TDM"><a href="maps/Sammirhayeed.md">Sammir Hayeed</a></li>
+<li data-type="TDM"><a href="maps/Two_Tribes.md">Two Tribes</a></li>
+</ul></section>
+<section class="wiki-map-group"><h3><img src="images/icons/cowboy.png" alt="" width="36" height="36"><a href="maps_overview.md#early-firearms-1650-to-1930">Early Firearms (1650 to 1930)</a></h3><ul>
+<li data-type="TDM"><a href="maps/Hill_203.md">Hill 203</a></li>
+<li data-type="TDM"><a href="maps/Ypres.md">Ypres</a></li>
+<li data-type="TDM"><a href="maps/Tsaritsyn.md">Tsaritsyn</a></li>
+<li data-type="TDM"><a href="maps/Port_Arthur.md">Port Arthur</a></li>
+<li data-type="TDM"><a href="maps/Santo_Tomas.md">Santo Tomas</a></li>
+<li data-type="TDM"><a href="maps/Coloocan.md">Coloocan</a></li>
+<li data-type="TDM"><a href="maps/Little_Creek_TDM.md">Little Creek TDM</a></li>
+<li data-type="TDM"><a href="maps/Missionary_Ridge.md">Missionary Ridge</a></li>
+<li data-type="TDM"><a href="maps/Naval.md">Naval</a></li>
+<li data-type="TDM"><a href="maps/Supply_Raid.md">Supply Raid</a></li>
+<li data-type="TDM"><a href="maps/Bridge.md">Bridge</a></li>
+<li data-type="TDM"><a href="maps/Recife.md">Recife</a></li>
+<li data-type="TDM"><a href="maps/Fields.md">Fields</a></li>
+<li data-type="TDM"><a href="maps/Isla_Robusta.md">Isla Robusta</a></li>
+<li data-type="TDM"><a href="maps/Sekigahara.md">Sekigahara</a></li>
+</ul></section>
+<section class="wiki-map-group"><h3><img src="images/icons/soldier.png" alt="" width="36" height="36"><a href="maps_overview.md#world-war-ii-1931-to-1948">World War II (1931 to 1948)</a></h3><ul>
+<li data-type="TDM"><a href="maps/Reichstag.md">Reichstag</a></li>
+<li data-type="TDM"><a href="maps/Stalingrad.md">Stalingrad</a></li>
+<li data-type="TDM"><a href="maps/Khalkyn_Gol.md">Khalkyn Gol</a></li>
+<li data-type="TDM"><a href="maps/Kursk.md">Kursk</a></li>
+<li data-type="TDM"><a href="maps/Intramuros.md">Intramuros</a></li>
+<li data-type="TDM"><a href="maps/Rizal_Stadium.md">Rizal Stadium</a></li>
+<li data-type="TDM"><a href="maps/Wake_Island.md">Wake Island</a></li>
+<li data-type="TDM"><a href="maps/Nanjing.md">Nanjing</a></li>
+<li data-type="TDM"><a href="maps/Omaha.md">Omaha</a></li>
+</ul></section>
+<section class="wiki-map-group"><h3><img src="images/icons/modern.png" alt="" width="36" height="36"><a href="maps_overview.md#modern-firearms-1949-to-2021">Modern Firearms (1949 to 2021)</a></h3><ul>
+<li data-type="TDM"><a href="maps/Retreat.md">Retreat</a></li>
+<li data-type="TDM"><a href="maps/Road_to_Dak_To.md">Road to Dak To</a></li>
+<li data-type="TDM"><a href="maps/Compound.md">Compound</a></li>
+<li data-type="TDM"><a href="maps/Alleyway.md">Alleyway</a></li>
+<li data-type="TDM"><a href="maps/Arab_Town.md">Arab Town</a></li>
+<li data-type="TDM"><a href="maps/Hostages.md">Hostages</a></li>
+</ul></section>
+<section class="wiki-map-group"><h3><img src="images/icons/viking.png" alt="" width="36" height="36"><a href="maps_overview.md#pve">PvE</a></h3><ul>
+<li data-type="RP"><a href="maps/Antarctica.md">Antarctica</a></li>
+<li data-type="RP"><a href="maps/Lights_Out.md">Lights Out</a></li>
+<li data-type="RP"><a href="maps/Cursed_Island.md">Cursed Island</a></li>
+</ul></section>
+<section class="wiki-map-group"><h3><img src="images/icons/swords.png" alt="" width="36" height="36"><a href="maps_overview.md#battle-royale">Battle Royale</a></h3><ul>
+<li data-type="TDM"><a href="maps/Battleroyale.md">Battleroyale</a></li>
+</ul></section>
+</div>
 
 ## Our mission
 
@@ -13,248 +136,13 @@ Our mission is to make that experience deep, creative, and welcoming. New player
 
 Read our [Mission and Community Standards](Mission_and_Community_Standards.md) for the principles we expect players, contributors, and staff to uphold.
 
-## Start playing
-
-1. [Download BYOND](https://www.byond.com/download/) and install the Windows client. BYOND lists Linux as a hosting platform rather than a game client; macOS is not listed as a supported player platform.
-2. [Read the server rules](rules/Rules.md) and [learn how to play](New_Player_Guide.md).
-3. Choose a server. These links open BYOND when the client is installed:
-   - [Join RP / Nomads](byond://civ13.com:1715)
-   - [Join TDM](byond://civ13.com:1714)
-
-For questions or community help, join the [Civ13 Discord](https://discord.gg/hBEtg4x). To contribute, use the edit links on a page or follow the [wiki contribution guide](Contributing_to_the_Wiki.md). The game source is on [GitHub](https://github.com/Civ13/Civ13).
-
-Plan production with the [chemistry workflow](guides/Guide_to_Chemistry.md) and [power and battery guide](guides/Guide_to_Power.md). Developers can search types and procedures in the [developer API reference](https://civ13.github.io/Civ13/); player instructions remain in this wiki.
-
-For local source inspection with developer tools or AI assistants, read [Civ13 MCP setup and usage](developers/Civ13_MCP.md).
-
-
-<hr>
-
-## Getting started
-<div class="wiki-mainpage-column-second">
-
-<div style="box-shadow: 0 0 .3em #999; border-radius: .2em; margin: 1em 0 2em 0; padding: 1px;">
-
-<div style="background: #366EA7; border-radius: .2em; color: #FFF; padding: .4em .8em .5em;"><img src="images/icons/guides.png" width="23" height="23"> &nbsp; <b>Guides</b></div>
-
-<div style="padding: 1em;"><div style="width: 100%;align-content:center">
-<li class="mainmenu-line"> <a href="New_Player_Guide.md" title="How to Play"><img src="images/icons/computer.png" width="100" height="100" ></a><br><a href="New_Player_Guide.md" title="How to Play"><b>How to Play</b></a> </li>
-  
-<li class="mainmenu-line"> <a href="rules/Rules.md" title="Rules"><img src="images/icons/police.png" width="100" height="100" ></a><br><a href="rules/Rules.md" title="Rules"><b>Rules</b></a> </li>
-
-<li class="mainmenu-line"> <a href="gamemodes/Civilizations_and_Nomads.md" title="Civilizations and Nomads"><img src="images/icons/conference.png" width="100" height="100" ></a><br><a href="gamemodes/Civilizations_and_Nomads.md" title="Civilizations and Nomads"><b>Nomads</b></a> </li>
-
-<li class="mainmenu-line"> <a href="Starter_Guide.md" title="Starter Guide"><img src="images/icons/student.png" width="100" height="100" ></a><br><a href="Starter_Guide.md" title="Starter Guide"><b>Starter Guide</b></a> </li>
-
-<li class="mainmenu-line"> <a href="guides/Guide_to_Character.md" title="Character"><img src="images/icons/character.png" width="100" height="100" ></a><br><a href="guides/Guide_to_Character.md" title="Guide to Character"><b>Character</b></a> </li>
-
-<li class="mainmenu-line"> <a href="guides/Guide_to_Races.md" title="Races"><img src="images/icons/animal.png" width="100" height="100" ></a><br><a href="guides/Guide_to_Races.md" title="Guide to Races"><b>Races</b></a> </li>
-
-<li class="mainmenu-line"> <a href="guides/Guide_to_Hygiene.md" title="Hygiene"><img src="images/icons/hygiene.png" width="100" height="100" ></a><br><a href="guides/Guide_to_Hygiene.md" title="Guide to Hygiene"><b>Hygiene</b></a> </li>
-
-<li class="mainmenu-line"> <a href="guides/Guide_to_Crafting.md" title="Crafting"><img src="images/icons/crafting.png" width="100" height="100" ></a><br><a href="guides/Guide_to_Crafting.md" title="Guide to Crafting"><b>Crafting</b></a> </li>
-
-<li class="mainmenu-line"> <a href="Full_Crafting_List.md" title="Full Crafting List"><img src="images/icons/modern_architecture.png" width="100" height="100" ></a><br><a href="Full_Crafting_List.md" title="Full Crafting List"><b>Crafting List</b></a> </li>
-
-<li class="mainmenu-line"> <a href="guides/Guide_to_Metallurgy.md" title="Metallurgy"><img src="images/icons/metallurgy.png" width="100" height="100" ></a><br><a href="guides/Guide_to_Metallurgy.md" title="Guide to Metallurgy"><b>Metallurgy</b></a> </li>
-
-<li class="mainmenu-line"> <a href="guides/Guide_to_Construction.md" title="Construction"><img src="images/icons/architecture.png" width="100" height="100" ></a><br><a href="guides/Guide_to_Construction.md" title="Guide to Construction"><b>Construction</b></a> </li>
-
-<li class="mainmenu-line"> <a href="guides/Guide_to_Communications.md" title="Communication"><img src="images/icons/talk.png" width="100" height="100" ></a><br><a href="guides/Guide_to_Communications.md" title="Guide to Communications"><b>Communication</b></a> </li>
-
-<li class="mainmenu-line"> <a href="guides/Guide_to_Farming.md" title="Guide to Farming"><img src="images/icons/farming.png" width="100" height="100" ></a><br><a href="guides/Guide_to_Farming.md" title="Guide to Farming"><b>Farming</b></a> </li>
-
-<li class="mainmenu-line"> <a href="guides/Guide_to_Ranching.md" title="Ranching"><img src="images/icons/ranching.png" width="100" height="100" ></a><br><a href="guides/Guide_to_Ranching.md" title="Guide to Ranching"><b>Ranching</b></a> </li>
-
-<li class="mainmenu-line"> <a href="guides/Guide_to_Fishing.md" title="Fishing"><img src="images/icons/fishing.png" width="100" height="100" ></a><br><a href="guides/Guide_to_Fishing.md" title="Guide to Fishing"><b>Fishing</b></a> </li>
-
-<li class="mainmenu-line"> <a href="guides/Guide_to_Cooking.md" title="Cooking"><img src="images/icons/cooking.png" width="100" height="100" ></a><br><a href="guides/Guide_to_Cooking.md" title="Guide to Cooking"><b>Cooking</b></a> </li>
-
-<li class="mainmenu-line"> <a href="guides/Guide_to_Medical.md" title="Medical"><img src="images/icons/medic.png" width="100" height="100" ></a><br><a href="guides/Guide_to_Medical.md" title="Guide to Medical"><b>Medical</b></a> </li>
-
-<li class="mainmenu-line"> <a href="guides/Guide_to_Chemistry.md" title="Chemistry"><img src="images/icons/chemistry.png" width="100" height="100" ></a><br><a href="guides/Guide_to_Chemistry.md" title="Guide to Chemistry"><b>Chemistry</b></a> </li>
-
-<li class="mainmenu-line"> <a href="guides/Guide_to_Radiation.md" title="Radiation"><img src="images/icons/nurse.png" width="100" height="100" ></a><br><a href="guides/Guide_to_Radiation.md" title="Guide to Radiation"><b>Radiation</b></a> </li>
-
-<li class="mainmenu-line"> <a href="guides/Guide_to_Religion.md" title="Religion"><img src="images/icons/religion.png" width="100" height="100" ></a><br><a href="guides/Guide_to_Religion.md" title="Guide to Religion"><b>Religion</b></a> </li>
-
-<li class="mainmenu-line"> <a href="guides/Guide_to_Paperwork.md" title="Paperwork"><img src="images/icons/renaissance.png" width="100" height="100" ></a><br><a href="guides/Guide_to_Paperwork.md" title="Guide to Paperwork"><b>Paperwork</b></a> </li>
-
-<li class="mainmenu-line"> <a href="guides/Guide_to_Weapons.md" title="Weapons"><img src="images/icons/weapons.png" width="100" height="100" ></a><br><a href="guides/Guide_to_Weapons.md" title="Guide to Weapons"><b>Weapons</b></a> </li>
-
-<li class="mainmenu-line"> <a href="guides/Guide_to_Tanks.md" title="Tanks"><img src="images/icons/tank.png" width="100" height="100" ></a><br><a href="guides/Guide_to_Tanks.md" title="Guide to Tanks"><b>Tanks</b></a> </li>
-</div></div></div>
-
-<div style="box-shadow: 0 0 .3em #999; border-radius: .2em; margin: 1em 0 2em 0; padding: 1px;">
-<div style="background: #962424; border-radius: .2em; color: #FFF; padding: .4em .8em .5em;"><img src="images/icons/maps.png" width="23" height="23" > &nbsp; <b>Maps</b></div>
-<div style="padding: 1em;"><div style="overflow:auto;">
-<table class="maps-table" style="align-content:center;">
-<tbody><tr>
-<th style="align-content:center;"><img src="images/icons/politician.png" width="64" height="64" ></th>
-<th style="align-content:center;"><img src="images/icons/classical_architecture.png" width="64" height="64" ></th>
-<th style="align-content:center;"><img src="images/icons/viking.png" width="64" height="64" ></th></tr>
-<tr style="text-align: center;">
-<th style="align-content:center;">Scenarios</th>
-<th style="align-content:center;">Bronze Age</th>
-<th style="align-content:center;">Medieval Age</th></tr>
-<tr>
-<td style="vertical-align: top;">
-
-<img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="maps/Nomads_Maps.md">Nomads Maps</a><br>
-
-<img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="gamemodes/The_Art_of_the_Deal.md">Art of the Deal</a><br>
-
-
-<img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="maps/Wasteland.md">Wasteland</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Alleyway.md">Alleyway</a><br>
-
-<img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="maps/Tribes.md">Tribes</a><br>
-</td>
-<td style="vertical-align: top;">
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Gladiators.md">Gladiators</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Heraclea.md">Heraclea</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Siege.md">Siege</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Teutoburg.md">Teutoburg</a><br>
-
-
-</td>
-<td style="vertical-align: top;">
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Karak.md">Karak</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Camp.md">Camp</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Sammirhayeed.md">Sammir Hayeed</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Battleroyale.md">Battleroyale (Medieval)</a><br>
-
-<img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="maps/Bohemia.md">Bohemia</a><br>
-
-</td>
-</tr>
-<tr>
-<th style="align-content:center;"><img src="images/icons/pirate.png" width="64" height="64" ></th>
-<th style="align-content:center;"><img src="images/icons/cowboy.png" width="64" height="64" ></th>
-<th style="align-content:center;"><img src="images/icons/people.png" width="64" height="64" ></th></tr>
-<tr style="text-align: center;">
-<th style="align-content:center;">Imperial Age</th>
-<th style="align-content:center;">Industrial Age</th>
-<th style="align-content:center;">1st World War</th>
-</tr>
-<tr>
-<td style="vertical-align: top;">
-
-<img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="maps/Colony.md">Colony</a><br>
-
-<img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="maps/Four_Colonies.md">Four Colonies</a><br>
-
-<img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="maps/Hunt.md">Hunt</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Naval.md">Naval</a><br>
-
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Isla_Robusta.md">Isla Robusta</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Supply_Raid.md">Supply Raid</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Fields.md">Fields</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Recife.md">Recife</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Battleroyale.md">Battleroyale (Imperial)</a><br>
-
-</td>
-<td style="vertical-align: top;">
-
-<img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="maps/Little_Creek_RP.md">Little Creek (RP)</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Little_Creek_TDM.md">Little Creek (TDM)</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Missionary_Ridge.md">Missionary Ridge</a><br>
-
-<img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="maps/Pioneers.md">Pioneers</a><br>
-</td>
-<td style="vertical-align: top;">
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Ypres.md">Ypres</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Hill_203.md">Hill 203</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Tsaritsyn.md">Tsaritsyn</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Port_Arthur.md">Port Arthur</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Santo_Tomas.md">Santo Tomas</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Coloocan.md">Coloocan</a><br>
-</td>
-</tr>
-<tr>
-<th style="align-content:center;"><img src="images/icons/soldier.png" width="64" height="64" ></th>
-<th style="align-content:center;"><img src="images/icons/greaser.png" width="64" height="64" ></th>
-<th style="align-content:center;"><img src="images/icons/modern.png" width="64" height="64" ></th></tr>
-<tr style="text-align: center;">
-<th style="align-content:center;">2nd World War</th>
-<th style="align-content:center;">Cold War</th>
-<th style="align-content:center;">Modern Age</th></tr>
-<tr>
-
-<td style="vertical-align: top;">
-
-<img src="images/icons/scroll.png" width="22" height="22" title="RP" alt_text="RP"><a href="maps/Gulag_13.md">Gulag 13</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Reichstag.md">Reichstag</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Intramuros.md">Intramuros</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Iwo_Jima.md">Iwo Jima</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Khalkyn_Gol.md">Khalkyn Gol</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Kursk.md">Kursk</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Nanjing.md">Nanjing</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Omaha.md">Omaha</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Rizal_Stadium.md">Rizal Stadium</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Stalingrad.md">Stalingrad</a><br>
-
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Wake_Island.md">Wake Island</a><br>
-</td>
-<td style="vertical-align: top;">
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Compound.md">Compound</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Road_to_Dak_To.md">Road to Dak To</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Retreat.md">Retreat</a><br>
-
-</td>
-<td style="vertical-align: top;">
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Arab_Town.md">Arab Town</a><br>
-
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Hostages.md">Hostages</a><br>
-
-<img src="images/icons/swords.png" width="22" height="22" title="TDM" alt_text="TDM"><a href="maps/Battleroyale.md">Battleroyale (Modern)</a><br>
-</td>
-</tr>
-</tbody></table>
-</div></div></div></div>
-
-## Other Things
-
-[Contributing to this Wiki](Contributing_to_the_Wiki.md)
-
-[Games](Games.md) (similar games and inspirations)
-
-
+## More
+
+<div class="wiki-link-cards">
+<section class="wiki-link-card"><h3><a href="Hotkeys.md">Hotkeys</a></h3><p>Keyboard shortcuts for movement, intents and the crafting menu.</p></section>
+<section class="wiki-link-card"><h3><a href="Crafting_Skill_Level_Requirements.md">Skill requirements</a></h3><p>Which crafting skill level each recipe and workbench needs.</p></section>
+<section class="wiki-link-card"><h3><a href="Food_Decay_Times.md">Food decay times</a></h3><p>How long food keeps before it rots.</p></section>
+<section class="wiki-link-card"><h3><a href="developers/Civ13_MCP.md">Developers</a></h3><p>Civ13 MCP setup for local source inspection, the <a href="developers/Mapping.md">mapping guide</a> and the <a href="https://civ13.github.io/Civ13/">developer API reference</a>.</p></section>
+<section class="wiki-link-card"><h3><a href="Contributing_to_the_Wiki.md">Contributing</a></h3><p>How to fix a page or write a new guide.</p></section>
+<section class="wiki-link-card"><h3><a href="Games.md">Games and inspirations</a></h3><p>Similar games and the projects Civ13 draws on.</p></section>
+</div>
