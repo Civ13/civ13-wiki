@@ -1,0 +1,62 @@
+name: Render previews
+
+# Builds the wiki from the PR, opens the changed pages (plus the main page and
+# overviews) in Chromium at desktop and mobile sizes, and uploads the
+# screenshots as a browsable report.
+on:
+  pull_request:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: render-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  render:
+    # Standard hosted runners are free for public repositories. Never use larger runners.
+    if: ${{ !github.event.repository.private }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 2 # the PR merge commit and its parents, for the changed-page list
+          persist-credentials: false
+      - name: Install mdBook & plugins
+        uses: taiki-e/install-action@v2.87.27
+        with:
+          tool: mdbook@0.4.52,mdbook-admonish@1.14.0,mdbook-linkcheck@0.7.7,mdbook-emojicodes@0.3.0
+      - name: Build wiki
+        run: python3 scripts/build.py
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+      - name: Install Playwright and Chromium
+        run: |
+          python -m pip install --disable-pip-version-check playwright==1.63.0
+          python -m playwright install --with-deps chromium
+      - name: Test page selection
+        run: python scripts/test_render_previews.py
+      - name: Render desktop and mobile previews
+        run: >-
+          python scripts/render_previews.py book/html
+          --changed "${{ github.event_name == 'pull_request' && 'HEAD^1' || 'HEAD' }}" --mode mdbook
+          --default index.html --default guides_overview.html --default maps_overview.html
+          --title "Wiki render previews" --artifact wiki-render-report
+      - name: Verify source files are unchanged
+        if: ${{ !cancelled() }}
+        run: |
+          git status --porcelain --untracked-files=all
+          test -z "$(git status --porcelain --untracked-files=all)"
+      - name: Save browsable report and screenshots
+        if: ${{ !cancelled() && hashFiles('render-report/index.html') != '' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: wiki-render-report
+          path: render-report/
+          if-no-files-found: error
+          retention-days: 3

@@ -23,3 +23,4 @@ build.log
 tools/
 # Civ13 checkout used by scripts/check_decay_times.py in CI
 civ13/
+render-report/

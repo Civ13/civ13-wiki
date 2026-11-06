@@ -38,7 +38,7 @@ var updateFunction = () => {
 	var id;
 	var elements = document.getElementsByClassName("header");
 	Array.prototype.forEach.call(elements, (el) => {
-		if (window.pageYOffset >= el.offsetTop) {
+		if (el.href && window.pageYOffset >= el.offsetTop) {
 			id = el;
 		}
 	});
