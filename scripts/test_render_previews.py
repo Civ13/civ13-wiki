@@ -11,7 +11,7 @@ class MapSourceTest(unittest.TestCase):
     def test_mdbook(self):
         self.assertEqual(map_source('src/guides/Guide_to_Boats.md', 'mdbook'), 'guides/Guide_to_Boats.html')
         self.assertEqual(map_source('src/SUMMARY.md', 'mdbook'), '')
-        self.assertEqual(map_source('theme/compiled/ss14.css', 'mdbook'), '')
+        self.assertEqual(map_source('theme/compiled/admonish.css', 'mdbook'), '')
         self.assertIsNone(map_source('src/images/maps/x.png', 'mdbook'))
         self.assertIsNone(map_source('scripts/build.py', 'mdbook'))
 

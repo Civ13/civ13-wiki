@@ -1,0 +1,674 @@
+/*
+ * Civ13 wiki theme, layered over the stock mdBook theme.
+ *
+ * Shares the palette and type of civ13.github.io. Colour tokens override
+ * mdBook's own variables for the default "navy" theme; the other built-in
+ * themes keep their palettes but inherit the layout and typography rules.
+ *
+ * Contents
+ *  1. Palette and base typography
+ *  2. Menu bar and sidebar
+ *  3. Content: headings, links, tables, code, images
+ *  4. Page table of contents and subpage footer (built by nav-additions.js)
+ *  5. Landing page components (src/index.md)
+ */
+
+/* 1. Palette and base typography ---------------------------------------- */
+:root {
+  --civ-accent: #edc981;
+  --civ-accent-strong: #f5d78d;
+  --civ-accent-ink: #101b20;
+  --sidebar-width: 290px;
+  --content-max-width: 880px;
+  --page-padding: 20px;
+}
+
+.navy {
+  --bg: #0f1a1d;
+  --fg: #d5ddda;
+  --sidebar-bg: #16262a;
+  --sidebar-fg: #c7d2cf;
+  --sidebar-non-existant: #6d817c;
+  --sidebar-active: #edc981;
+  --sidebar-spacer: #2d4744;
+  --scrollbar: #3f5f5a;
+  --icons: #9fb3ad;
+  --icons-hover: #f5f0e4;
+  --links: #f0d08f;
+  --inline-code-color: #f5f0e4;
+  --theme-popup-bg: #16262a;
+  --theme-popup-border: #3f5f5a;
+  --theme-hover: #1d3135;
+  --quote-bg: #16262a;
+  --quote-border: #3f5f5a;
+  --warning-border: #edc981;
+  --table-border-color: #2d4744;
+  --table-header-bg: #1d3135;
+  --table-alternate-bg: #142226;
+  --searchbar-border-color: #3f5f5a;
+  --searchbar-bg: #0f1a1d;
+  --searchbar-fg: #f5f0e4;
+  --searchbar-shadow-color: transparent;
+  --searchresults-header-fg: #9fb3ad;
+  --searchresults-border-color: #2d4744;
+  --searchresults-li-bg: #16262a;
+  --search-mark-bg: #8a6a1f;
+  --footnote-highlight: #edc981;
+  --color-scheme: dark;
+}
+
+html {
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color: var(--fg);
+}
+
+body {
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+code, kbd, pre, .hljs {
+  font-family: ui-monospace, "Cascadia Mono", "SFMono-Regular", Menlo, Consolas, monospace;
+}
+
+:focus-visible {
+  outline: 3px solid var(--civ-accent-strong);
+  outline-offset: 3px;
+}
+
+/* 2. Menu bar and sidebar ------------------------------------------------- */
+#menu-bar {
+  background: var(--sidebar-bg);
+  border-bottom: 1px solid var(--sidebar-spacer);
+}
+
+.menu-title {
+  font-weight: 700;
+  letter-spacing: -.01em;
+  color: var(--icons-hover);
+}
+
+.menu-bar .icon-button,
+.menu-bar a.icon-button {
+  color: var(--icons);
+}
+
+.menu-bar .icon-button:hover,
+.menu-bar a.icon-button:hover {
+  color: var(--civ-accent);
+}
+
+.right-buttons > a > i,
+.left-buttons > button > i {
+  font-size: 1.5em;
+}
+
+.sidebar {
+  font-size: .9rem;
+  border-right: 1px solid var(--sidebar-spacer);
+}
+
+.sidebar .part-title {
+  margin-top: 1.4em;
+  padding-left: 12px;
+  color: var(--civ-accent);
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+.chapter > .chapter-item:first-child {
+  padding-left: 12px;
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+
+.chapter li.chapter-item {
+  margin-top: .3em;
+}
+
+.chapter li a {
+  padding: .25em 0;
+  border-radius: 6px;
+}
+
+.chapter li a.active {
+  color: var(--sidebar-active);
+  font-weight: 700;
+}
+
+.chapter li.chapter-item > div,
+#subpage-footer li.chapter-item > div {
+  opacity: 1;
+  font-weight: 600;
+}
+
+.chapter li > a.toggle {
+  opacity: .6;
+}
+
+#searchbar {
+  border-radius: 999px;
+  padding: .6em 1.2em;
+}
+
+/* 3. Content: headings, links, tables, code, images ----------------------- */
+.content main {
+  padding-bottom: 3rem;
+}
+
+.content h1,
+.content h2,
+.content h3,
+.content h4 {
+  color: #f5f0e4;
+  font-weight: 750;
+  letter-spacing: -.015em;
+  line-height: 1.2;
+  text-wrap: balance;
+}
+
+.content h1 {
+  margin-top: .5em;
+  padding-bottom: .3em;
+  border-bottom: 2px solid var(--sidebar-spacer);
+  font-size: 2.2rem;
+}
+
+.content h2 {
+  margin-top: 1.6em;
+  padding-bottom: .25em;
+  border-bottom: 1px solid var(--sidebar-spacer);
+  font-size: 1.55rem;
+}
+
+.content h3 {
+  margin-top: 1.4em;
+  font-size: 1.2rem;
+}
+
+.content a:not(.header):not(.mainmenu-line a) {
+  text-decoration: underline;
+  text-decoration-color: rgb(240 208 143 / .35);
+  text-underline-offset: .15em;
+}
+
+.content a:hover {
+  text-decoration-color: currentColor;
+}
+
+.content a.header:hover {
+  text-decoration: none;
+}
+
+/* Red links (missing pages) */
+.red-link {
+  color: #e89a8a !important;
+  text-decoration: underline dashed;
+}
+
+.content table {
+  width: 100%;
+  margin: 1.25rem 0;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid var(--table-border-color);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.content table th {
+  padding: .6em .75em;
+  text-align: left;
+  color: #f5f0e4;
+  background: var(--table-header-bg);
+  border-bottom: 1px solid var(--table-border-color);
+}
+
+.content table td {
+  padding: .55em .75em;
+  border-top: 1px solid var(--table-border-color);
+  vertical-align: top;
+}
+
+.content table thead th {
+  border-top: 0;
+}
+
+.content tbody tr:nth-child(2n) {
+  background: var(--table-alternate-bg);
+}
+
+.content table img.pixelated {
+  image-rendering: pixelated;
+}
+
+td > ol,
+td > ul {
+  margin: 0;
+  padding-left: 1.2em;
+}
+
+.content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+.content figure {
+  margin: 1.5rem 0;
+}
+
+.content figcaption {
+  color: var(--icons);
+  font-size: .85rem;
+}
+
+.content blockquote {
+  border-radius: 0 6px 6px 0;
+}
+
+.content code {
+  padding: .1em .35em;
+  border-radius: 4px;
+}
+
+.content pre {
+  border: 1px solid var(--sidebar-spacer);
+  border-radius: 8px;
+}
+
+.navy code,
+.navy pre > .hljs {
+  background: #142226 !important;
+}
+
+/* Admonitions pick up the panel palette. */
+.navy .admonition {
+  background-color: var(--sidebar-bg);
+}
+
+/* The old template removed mdBook's previous/next chapter arrows; keep that. */
+.nav-wrapper,
+.nav-wide-wrapper,
+.sidebar-visible .nav-wrapper,
+.sidebar-visible .nav-wide-wrapper {
+  display: none !important;
+}
+
+/* 4. Page table of contents and subpage footer ---------------------------- */
+@media only screen and (max-width: 1365px) {
+  .sidetoc {
+    display: none;
+  }
+}
+
+@media only screen and (min-width: 1366px) {
+  :root {
+    --content-max-width: 820px;
+  }
+
+  .content main {
+    margin-right: 236px;
+  }
+
+  .sidetoc {
+    position: fixed;
+    top: calc(var(--menu-bar-height) + 1.5rem);
+    right: 1rem;
+    width: 210px;
+  }
+
+  .pagetoc {
+    box-sizing: border-box;
+    width: 100%;
+    max-height: calc(100vh - var(--menu-bar-height) - 3em);
+    overflow: auto;
+    padding-left: .5rem;
+    border-left: 1px solid var(--sidebar-spacer);
+    font-size: .85rem;
+  }
+
+  .pagetoc a {
+    display: block;
+    padding: .3em .6em;
+    color: var(--icons) !important;
+    border-radius: 6px;
+    text-align: left;
+    text-decoration: none !important;
+    overflow-wrap: anywhere;
+  }
+
+  .pagetoc a:hover {
+    color: var(--icons-hover) !important;
+    background: var(--theme-hover);
+  }
+
+  .pagetoc a.active {
+    color: var(--civ-accent) !important;
+    background: var(--theme-hover);
+  }
+}
+
+@media only screen and (min-width: 1700px) {
+  :root {
+    --content-max-width: 880px;
+  }
+
+  .sidetoc {
+    width: 260px;
+  }
+
+  .content main {
+    margin-right: 290px;
+  }
+}
+
+#subpage-footer {
+  max-width: 480px;
+  margin-top: 3rem;
+  padding: 1rem 1.25rem;
+  color: var(--fg);
+  background: var(--sidebar-bg);
+  border: 1px solid var(--sidebar-spacer);
+  border-radius: 8px;
+}
+
+#subpage-footer > p {
+  margin: 0 0 .5rem;
+  color: var(--civ-accent);
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+#subpage-footer > ol {
+  margin: 0;
+  padding-left: 0;
+  list-style: none;
+  line-height: 1.7;
+}
+
+#subpage-footer ol > li.chapter-item {
+  display: flex;
+}
+
+#subpage-footer a.toggle {
+  display: block;
+  margin-left: auto;
+  padding-left: 20px;
+  opacity: .68;
+}
+
+@media print {
+  .sidetoc,
+  #subpage-footer {
+    display: none;
+  }
+}
+
+/* 5. Landing page components --------------------------------------------- */
+.wiki-kicker {
+  margin: 0 0 .25rem;
+  color: var(--civ-accent);
+  font-size: .75rem;
+  font-weight: 700;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+.wiki-hero {
+  margin: .5rem 0 2rem;
+  padding: 1.75rem;
+  background: var(--sidebar-bg);
+  border: 1px solid var(--sidebar-spacer);
+  border-radius: 12px;
+}
+
+.content .wiki-hero h1 {
+  margin: 0 0 .5rem;
+  padding: 0;
+  border: 0;
+  font-size: 2.4rem;
+}
+
+.wiki-hero p {
+  max-width: 62ch;
+}
+
+.wiki-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .6rem;
+  margin: 1.25rem 0 0;
+}
+
+.content .wiki-button {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.6rem;
+  padding: .5rem 1.1rem;
+  color: var(--civ-accent-ink) !important;
+  background: var(--civ-accent);
+  border: 1px solid var(--civ-accent);
+  border-radius: 999px;
+  font-weight: 700;
+  text-decoration: none !important;
+}
+
+.content .wiki-button:hover {
+  background: var(--civ-accent-strong);
+}
+
+.content .wiki-button-secondary {
+  color: var(--civ-accent) !important;
+  background: transparent;
+  border-color: var(--sidebar-spacer);
+}
+
+.content .wiki-button-secondary:hover {
+  background: var(--theme-hover);
+  border-color: var(--civ-accent);
+}
+
+.wiki-steps {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: step;
+}
+
+.wiki-steps li {
+  position: relative;
+  padding: 1rem 1rem 1rem 3.2rem;
+  background: var(--sidebar-bg);
+  border: 1px solid var(--sidebar-spacer);
+  border-radius: 10px;
+}
+
+.wiki-steps li::before {
+  counter-increment: step;
+  content: counter(step);
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+  display: grid;
+  place-items: center;
+  width: 1.6rem;
+  height: 1.6rem;
+  color: var(--civ-accent-ink);
+  background: var(--civ-accent);
+  border-radius: 50%;
+  font-size: .85rem;
+  font-weight: 800;
+}
+
+.wiki-steps li strong {
+  display: block;
+  margin-bottom: .2rem;
+  color: #f5f0e4;
+}
+
+.wiki-steps li p {
+  margin: 0;
+  font-size: .95rem;
+}
+
+.wiki-icon-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(8.5rem, 1fr));
+  gap: .75rem;
+  margin: 1rem 0 2rem;
+  padding: 0;
+  list-style: none;
+}
+
+.wiki-icon-grid li,
+.mainmenu-line {
+  margin: 0;
+  padding: 0;
+}
+
+.content .wiki-icon-grid a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: .5rem;
+  height: 100%;
+  padding: 1rem .5rem .8rem;
+  color: var(--fg) !important;
+  background: var(--sidebar-bg);
+  border: 1px solid var(--sidebar-spacer);
+  border-radius: 10px;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none !important;
+  transition: border-color .15s ease, transform .15s ease;
+}
+
+.content .wiki-icon-grid a:hover {
+  color: #f5f0e4 !important;
+  border-color: var(--civ-accent);
+  transform: translateY(-2px);
+}
+
+.wiki-icon-grid img {
+  width: 72px;
+  height: 72px;
+  border-radius: 0;
+}
+
+.wiki-map-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2rem;
+}
+
+.wiki-map-group {
+  padding: 1rem 1.1rem;
+  background: var(--sidebar-bg);
+  border: 1px solid var(--sidebar-spacer);
+  border-radius: 10px;
+}
+
+.wiki-map-group h3 {
+  display: flex;
+  align-items: center;
+  gap: .6rem;
+  margin: 0 0 .6rem;
+  font-size: 1.05rem;
+}
+
+.wiki-map-group h3 img {
+  width: 36px;
+  height: 36px;
+  border-radius: 0;
+}
+
+.wiki-map-group ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: .95rem;
+}
+
+.wiki-map-group li {
+  display: flex;
+  align-items: center;
+  gap: .4rem;
+  padding: .2rem 0;
+}
+
+.wiki-map-group li img {
+  width: 18px;
+  height: 18px;
+  border-radius: 0;
+}
+
+.wiki-map-group li[data-type]::after {
+  margin-left: auto;
+  padding: 0 .45rem;
+  color: var(--icons);
+  border: 1px solid var(--sidebar-spacer);
+  border-radius: 999px;
+  font-size: .68rem;
+  font-weight: 700;
+  letter-spacing: .06em;
+  content: attr(data-type);
+}
+
+.wiki-map-group .wiki-map-more {
+  margin-top: .5rem;
+  font-size: .85rem;
+}
+
+.wiki-link-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2rem;
+}
+
+.wiki-link-card {
+  padding: 1rem 1.1rem;
+  background: var(--sidebar-bg);
+  border: 1px solid var(--sidebar-spacer);
+  border-left: 4px solid var(--civ-accent);
+  border-radius: 10px;
+}
+
+.wiki-link-card h3 {
+  margin: 0 0 .35rem;
+  font-size: 1.05rem;
+}
+
+.wiki-link-card p {
+  margin: 0;
+  font-size: .92rem;
+}
+
+@media (max-width: 48em) {
+  .wiki-steps {
+    grid-template-columns: 1fr;
+  }
+
+  .wiki-hero {
+    padding: 1.25rem;
+  }
+
+  .content .wiki-hero h1 {
+    font-size: 1.9rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    transition: none !important;
+  }
+}

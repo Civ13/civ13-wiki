@@ -15,7 +15,7 @@ command = "mdbook-admonish"
 
 [output.html]
 additional-js = ['scripts/nav-additions.js']
-additional-css = ['theme/compiled/ss14.css']
+additional-css = ['theme/compiled/admonish.css', 'theme/civ13.css']
 default-theme = "navy"
 preferred-dark-theme = "navy"
 
