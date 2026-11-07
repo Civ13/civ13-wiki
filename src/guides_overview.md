@@ -17,6 +17,7 @@ New to the game? Start with [How to Play](New_Player_Guide.md), then the [Starte
 
 - [Crafting](guides/Guide_to_Crafting.md)
 - [Metallurgy](guides/Guide_to_Metallurgy.md)
+- [Electroplating](guides/Guide_to_Electroplating.md)
 - [Resource Extraction](guides/Guide_to_Resource_Extraction.md)
 - [Flint](guides/Guide_to_Flint.md)
 - [Research](guides/Guide_to_Research.md)
