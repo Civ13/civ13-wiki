@@ -18,6 +18,7 @@
         - [Crafting](guides/Guide_to_Crafting.md)
         - [Metallurgy](guides/Guide_to_Metallurgy.md)
         - [Resource Extraction](guides/Guide_to_Resource_Extraction.md)
+        - [Flint](guides/Guide_to_Flint.md)
         - [Research](guides/Guide_to_Research.md)
         - [Power & Batteries](guides/Guide_to_Power.md)
         - [Factory Automation](guides/Guide_to_Factory_Automation.md)
