@@ -223,9 +223,14 @@ You'll need a light source to see at night and in dark indoor areas.
 
 The basic source of light is the **torch**.
 
-- Gather some **wood**.
-- Craft a **torch** and click it in hand to light it. Click it again to put it out.
-- A **tiki torch** is a stationary torch that burns longer and makes for a brighter source of light. Torches last for **5 minutes** and then burn out. You can also make lanterns with **iron**. Lanterns require fuel — any form of liquid fuel will do, like olive oil (**[grow](guides/Guide_to_Farming.md)** olives and click buckets or barrels with them to make oil), **[fat oil](guides/Guide_to_Crafting.md#animals)**, or **[petroleum](guides/Guide_to_Crafting.md#petroleum)**.
+- Craft a **handle** from **wood**.
+- Click the handle with **[animal fat](guides/Guide_to_Crafting.md#animals)**, or with a container holding at least 10 units of olive oil, fat oil, corn oil or petroleum, to make a **torch**. Click it in hand to light it, and again to put it out.
+- A torch burns for about **5 minutes**. Rub more animal fat into it or dip it in oil to keep it going, up to about 10 minutes. When it burns out, you get the handle back to make another one.
+- A **tiki torch** is a stationary torch that burns longer and gives brighter light. When it runs out it goes dark; refill it with oil.
+- You can also make **lanterns** with **iron** (or copper and bronze lamps). Lanterns start empty: fill them by clicking them with a container of olive oil (**[grow](guides/Guide_to_Farming.md)** olives and click buckets or barrels with them to make oil), **[fat oil](guides/Guide_to_Crafting.md#animals)**, corn oil or **[petroleum](guides/Guide_to_Crafting.md#petroleum)**. A full lantern burns for about an hour.
+- **Lighters and Zippos** run out of fluid. Refill them by clicking them with a container of gasoline or alcohol.
+- **Flashlights** run on batteries and last about an hour. Craft a **battery** from copper (it needs Electricity research) and use it on the flashlight to recharge it. The Japanese dynamo flashlight is wound by hand instead: use it in hand when it is empty, or use its Wind Dynamo verb.
+- Examine any of these to see how much fuel or charge is left.
 
 For a more **permanent** light source, you can build **braziers** from **stone**. You can fuel them with any organic matter like wood or clothing by using items on the brazier with **Help intent**.
 
