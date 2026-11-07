@@ -55,11 +55,11 @@ A party, meaning your faction or you alone if you have none, can build its own t
 
 ### Building the train
 
-1. Lay a straight run of at least **8 rails** (see [Trains](Guide_to_Trains.md)).
+1. Lay track that runs all the way to the **edge of the map**, where your train leaves the land (see [Trains](Guide_to_Trains.md)). The track can bend and branch; rails on neighbouring tiles count as one connected line.
 2. Build a **railway works office** from **20 wood** (trains section of the crafting menu) within two tiles of that track.
 3. Use the office and confirm to start your party's train project. A party has one project or train at a time.
 4. Hit the office with materials until it has **200 iron, 60 steel, 150 wood, 30 glass and 40 cloth**. Anyone can contribute; the office takes only what is still missing from a stack. Use the office to see what it still needs.
-5. When the last material is in, the train is finished and the office becomes your party's station.
+5. When the last material is in, the train is finished and the office becomes your party's station. The track must still reach the map edge whenever someone boards: if it is broken or cut short, the train waits until it is mended.
 
 The office keeps the delivered materials, so vehicles cannot crush it and explosions do not destroy it. Progress and the finished train are saved with the world, and a renamed faction keeps its project.
 
