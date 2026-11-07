@@ -9,6 +9,7 @@ New to the game? Start with [How to Play](New_Player_Guide.md), then the [Starte
 
 - [Starter Guide](Starter_Guide.md)
 - [Chat Window & Tabs](guides/Guide_to_Chat.md)
+- [Customizing Your HUD](guides/Guide_to_HUD.md)
 - [Character & Skills](guides/Guide_to_Character.md)
 - [Exercise & Training](guides/Guide_to_Exercise.md)
 - [Slang](guides/Guide_to_Slang.md)
