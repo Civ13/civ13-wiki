@@ -155,6 +155,11 @@ Pioneers, only the Blacksmith can use the anvil.
 <td>Made with 24 steel sheets. Used for the same purpose as pickaxes. The fastest mining tool.</td>
 </tr>
 <tr>
+<td><img src="../images/chainsaw.png"></td>
+<td><b>Chainsaw</b></td>
+<td>Made with 24 steel sheets once Power Tools is researched. Works like a hatchet, but fells trees far faster than any axe. Too bulky for a bag; carry it on your back.</td>
+</tr>
+<tr>
 <td><img src="../images/ore_collector.png"></td>
 <td><b>Ore collector</b></td>
 <td>Made with 5 leather sheets. Used to pick up ore from the ground in a more efficient manner. Have the ore collector in your active hand, stand over the ore on the ground, then click the collector, or press Ctrl-Z or Z in the hotkeys mode. The ore will be put in the collector whose ingenious design allows to exceed the normal stacking limit (50 units per one stack) for its contents.</td>
