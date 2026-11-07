@@ -413,9 +413,28 @@ Servers with the merged workbench update offer an optional staged alternative to
 
 Click the bench with an empty hand and choose **Select recipe**, then **Pickaxe**, **Shovel** or **Hatchet**. Hold a usable matching head and click the bench to insert it, then insert a usable handle. **Status** shows missing parts. Choose **Assemble** and remain adjacent for the ordinary **100-tick (10-second)** action. Moving away, incapacitation, ingredient removal or cancellation prevents completion.
 
-Choose **Retrieve / cancel** to return stored inputs or the finished tool to the bench's tile. Cancellation preserves ingredients; the bench remains busy until the active action returns. It holds two ingredients or one finished tool, so retrieve everything before changing recipes. Destruction releases its contents. Assembly preserves the same component materials, quality and condition as hand assembly; existing hand recipes and the gunsmithing bench remain available.
+Choose **Retrieve / cancel** to return stored inputs or the finished tool to the bench's tile. Cancellation preserves ingredients; the bench remains busy until the active action returns. It holds two ingredients or one finished tool. Choosing **Select recipe** while it holds items returns them to the bench's tile and switches recipe in one step; this works the same on every dedicated bench below and on the armor assembly workbench. Destruction releases its contents. Assembly preserves the same component materials, quality and condition as hand assembly; existing hand recipes and the gunsmithing bench remain available.
 
 Native saves retain staged parts and finished tools. An active assembly loads as idle, and saved assembly time produces no offline work.
+
+#### Dedicated crafting stations
+
+Each of these stations is set to one recipe at a time. Click it with an empty hand to see **Status**, **Select recipe** or **Retrieve / cancel**, and to start work. Changing the recipe returns whatever is loaded. Finished items from the fletcher's bench, toolsmith's bench and casting foundry are left on the station's tile, so you can reload and work again without retrieving.
+
+| Station | Built from | What it makes | Inputs per item |
+| --- | --- | --- | --- |
+| Weapon assembly workbench | 10 soft wood | Spear, battle axe or throwing axe | Matching anvil or mold head and a handle |
+| Fletcher's bench | 10 soft wood (arrow-shaft research) | Arrows or crossbow bolts | One bare shaft and one arrowhead or sharpened flint |
+| Toolsmith's bench | 10 iron (iron-anvil research) | Hatchet, pickaxe, shovel, spear, throwing axe or battle axe | Smelted metal (2 for a shovel, 8 for a battle axe, 3 otherwise) and 1 soft wood |
+| Casting foundry | 20 steel (steel-anvil research) | Hatchet, pickaxe, shovel, spear or throwing axe | The same metal, as molten metal from a blacksmith pot or jug, and 1 soft wood |
+
+**Weapon assembly workbench.** Works like the tool assembly workbench, but for weapon heads from the anvil or a mold. Insert one matching head and one handle, then **Assemble** (10 seconds). The weapon keeps the head's material, quality and condition.
+
+**Fletcher's bench.** Pick **Arrows** or **Crossbow bolts**. Load up to 20 bare shafts by hand, or use **Load shafts from floor** to gather them from your tile and the bench's tile. Then load one stack of arrowheads (stone, copper, iron, bronze, steel or vial) or several pieces of sharpened flint. Only one kind of head fits at a time. **Fletch** fits every shaft that has a head in one action, half a second per shaft.
+
+**Toolsmith's bench.** A shortcut past the separate head and handle steps. Ore is not accepted, so smelt it first. Place the bench next to an anchored anvil: the anvil decides which metals you can work, so a stone anvil can't take iron and steel needs a steel anvil. You need the same Crafting skill (1.20x) and, on faction maps, the same blacksmith job as the anvil. Load one stack of copper, bronze, iron or steel and one stack of soft wood, then **Make tools**. Each tool takes 10 seconds plus 1.5 seconds per metal sheet, and one action makes up to five. Cancelling keeps the tools already made and the unused stock. Battle axes follow the anvil head's era limit.
+
+**Casting foundry.** Available from the 1873 era with Machined Tools. Melt copper, bronze, iron or steel in a fired blacksmith pot or jug in a kiln as usual, set the vessel in the foundry and load soft wood. **Make tools** pours and casts up to ten tools per action, 3 seconds plus 1.5 seconds per unit of metal each. No anvil or smithing skill is needed. Pouring empties the vessel as it goes, and **Retrieve / cancel** gives back the vessel with what is left in it.
 
 #### Mining
 
