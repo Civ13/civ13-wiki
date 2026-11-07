@@ -855,6 +855,8 @@ The bench repairs **25 condition** at a cost of **1 maximum condition**, taking 
    
 > Tip: Keep powder in a gunpowder pouch and musket balls within reach. These weapons fire one shot before reloading; have a plan for the reload.
 
+A flintlock's flint wears down after a few dozen shots and then misfires about half the time. Use a sharpened flint on the gun to fit a new one; see [Gunflint in flintlocks](Guide_to_Flint.md#gunflint-in-flintlocks).
+
 ### Flintlock parts assembly
 
 At **ages 3 and 4**, with **Gunsmithing** unlocked, you can assemble a flintlock pistol or musket from parts. The original weapon crafting routes remain available; this is an optional route with additional wood, steel and flint costs.

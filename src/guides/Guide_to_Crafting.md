@@ -107,7 +107,7 @@ Pioneers, only the Blacksmith can use the anvil.
 <tr>
 <td><img src="../images/flint.png"> <img src="../images/sharpened_flint.png"></td>
 <td><b>Flint</b></td>
-<td>Could be found among rock piles on the ground - click rocks with an empty hand on Grab intent to look for flint. Next, click rocks with flint to sharpen it.</td>
+<td>Could be found among rock piles on the ground - click rocks with an empty hand on Grab intent to look for flint. Next, click rocks with flint to sharpen it. Flint also turns up when mining underground rock, and can be knapped into arrowheads, knives and spearheads; see <b><a href="Guide_to_Flint.md">Flint</a></b>.</td>
 </tr>
 <tr>
 <td><img src="../images/flint_axe.png"></td>
