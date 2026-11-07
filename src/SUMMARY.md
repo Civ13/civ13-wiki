@@ -11,6 +11,7 @@
 - [Guides Overview](guides_overview.md)
     - [Getting Started]()
         - [Starter Guide](Starter_Guide.md)
+        - [Chat Window & Tabs](guides/Guide_to_Chat.md)
         - [Character & Skills](guides/Guide_to_Character.md)
         - [Exercise & Training](guides/Guide_to_Exercise.md)
         - [Slang](guides/Guide_to_Slang.md)
