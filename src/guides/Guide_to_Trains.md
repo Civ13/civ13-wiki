@@ -1,10 +1,10 @@
 # Trains
 
-Rails and steam trains move people, fuel and cargo along a fixed track. Everything is built from the crafting menu's **trains** section, mostly from iron, once your faction has the research.
+Rails and steam trains move people, fuel and cargo along a fixed track. The parts are made from the crafting menu's **trains** section, mostly from iron, once your faction has the research. Track itself is laid by hand, one tile at a time.
 
 ## Research
 
-| Mode | Rails, rail switchers, rotator platform, lever | Steam locomotive, tender, cabin, flatbed and transport wagons |
+| Mode | Railway sleepers, rails, rail switchers, rotator platform, lever | Steam locomotive, tender, cabin, flatbed and transport wagons |
 | --- | --- | --- |
 | [Tech tree](Guide_to_Research.md) | **Rail & Steam** node (Vehicles line) | Industrial research **101** |
 | [Legacy research](../gamemodes/Civilizations_and_Nomads.md#research) | Industrial research **93** | Industrial research **101** |
@@ -15,8 +15,8 @@ The wooden mining cart needs Industrial research **93** in either mode.
 
 | Piece | Cost | Notes |
 | --- | --- | --- |
-| Rail (vertical or horizontal) | 1 iron | Straight track. |
-| Rail (left turn) | 1 iron | A curve joining the direction you face to your left. Face each way in turn to build all four corners. |
+| Railway sleepers | 1 wood | The wooden ties for one tile of track. |
+| Rails | 1 iron | A pair of rails for one tile of track. |
 | Rail switcher (to left or right) | 2 iron | A junction that a lever can switch between going straight and turning off. |
 | Rail rotator platform | 3 iron | Turns whatever wagon is standing on it. |
 | Train lever | 1 iron | Flips every switcher within two tiles. |
@@ -27,14 +27,30 @@ The wooden mining cart needs Industrial research **93** in either mode.
 | Flatbed wagon | 4 iron | Carries people, crates and structures. |
 | Transport wagon | 5 iron | A covered storage wagon (8 slots). |
 
-Each piece is placed facing the way **you** face, so stand looking along the line you want before you build it.
+Switchers, rotators, levers and wagons are placed facing the way **you** face, so stand looking along the line before you build them. Plain track shapes itself (see below).
 
 ## Laying track
 
-1. Lay straight rails end to end. A train only moves onto a tile that has a rail running in its direction.
-2. Use curves for corners, switchers for branches and a lever within two tiles of each switcher you want to control.
-3. Put a **rotator platform** at the end of a line or in a yard to turn wagons around. Click it to rotate it a quarter turn, or right-click it for **Rotate Left** and **Rotate Right**.
-4. Keep the track clear. A moving train stops when it hits anything solid, and it smashes what it hits.
+Each tile of track is built in three steps:
+
+1. **Sleepers.** Use the railway sleepers on the tile next to you, or use them in your hand to lay them on the tile in front of you. The ground must be firm, dry and clear.
+2. **Rails.** Use the rails on the sleepers.
+3. **Spikes.** Hit the rails with a **hammer** to spike them down. Only now is the tile track that trains can run on.
+
+You never choose which way a tile points. It lines up with the track around it:
+
+- A line carries on straight. Keep laying tiles ahead of the last one.
+- For a corner, lay the line one tile past where it should turn, then lay the next tile to the side. The end of the line bends into a curve to meet it, even if it was already spiked.
+- A tile on its own runs the way you face while laying it.
+- Tiles in the middle of a line never change, so a new line can run right alongside an old one. Build the main line first, then sidings and branches beside it.
+
+Use switchers for branches and a lever within two tiles of each switcher you want to control. Put a **rotator platform** at the end of a line or in a yard to turn wagons around. Click it to rotate it a quarter turn, or right-click it for **Rotate Left** and **Rotate Right**.
+
+Keep the track clear. A moving train stops when it hits anything solid, and it smashes what it hits.
+
+### Taking track apart
+
+A **crowbar** takes track apart one step at a time, giving the parts back: first it pulls the spikes (the rails sit loose on their sleepers again), then it lifts the rails off, then it pries up the sleepers. Switchers and rotators come apart in one go and return their iron. Nothing comes apart while a wagon stands on the tile. If a tile turned the wrong way, pry it up and lay it again.
 
 ## Fuel
 
@@ -68,7 +84,7 @@ Carry spare coal in a **tender** hitched behind the engine for long routes.
 
 ## Through station and service loop
 
-This example separates an eastbound main line, a passenger platform track and a cargo/service loop. It uses all six craftable rail types: horizontal, vertical, left turn, left switcher, right switcher and rotator, plus four levers. It is a source-derived layout, **not an in-game-tested station or a guarantee of collision-free operation**.
+This example separates an eastbound main line, a passenger platform track and a cargo/service loop. It uses straight track, four corners, two left switchers, two right switchers and a rotator, plus four levers. It is a source-derived layout, **not an in-game-tested station or a guarantee of collision-free operation**.
 
 The platform and cargo stopping positions allow **eight vehicles including the locomotive and tender**. That is a layout choice, not a train-length limit. Extend the straight stopping tracks and clearances for a longer train.
 
@@ -78,13 +94,13 @@ The platform and cargo stopping positions allow **eight vehicles including the l
 
 Offline render using actual Civ13 sprites; not a live screenshot or in-game test. Main line continues beyond both station ends; flat lighting and no runtime turf-edge updates. [Open the full-size sprite render](../images/civ13-station-game-sprites.png).
 
-![Coordinate schematic showing the four switchers, four left turns, rotator, levers and mandatory forward guard rails](../images/civ13-station-plan.png)
+![Coordinate schematic showing the four switchers, four corners, rotator, levers and mandatory forward guard rails](../images/civ13-station-plan.png)
 
 Construction schematic; use the coordinates below when placing track. The arrows indicate a continuing main line, not buffer stops: keep whole-train staging space to the west and exit rail through at least `x=44` to the east. [Open the full-size schematic](../images/civ13-station-plan.png). Sprite assets come from the [Civ13 game source](https://github.com/Civ13/Civ13/tree/ec86e58fa67fdd7baea265d8716a64ae6f9a2d99), under its [game-source license](https://github.com/Civ13/Civ13/blob/ec86e58fa67fdd7baea265d8716a64ae6f9a2d99/LICENSE).
 
 ### Coordinates and track plan
 
-Choose a clear area and treat any convenient tile as `(0,0)`. Increasing `x` is east; increasing `y` is north. All ranges below include both endpoints. Facing means the direction to face when crafting the piece. Use one rail piece per listed tile; switches, turns and the rotator replace the straight rail at their coordinates.
+Choose a clear area and treat any convenient tile as `(0,0)`. Increasing `x` is east; increasing `y` is north. All ranges below include both endpoints. Lay the main line first, then the passenger track and the depot loop. Facing means the direction to face when building a switcher or the rotator; plain track shapes itself. Use one piece per listed tile; switches and the rotator replace the straight track at their coordinates.
 
 | Section | Tiles and pieces |
 | --- | --- |
@@ -103,16 +119,14 @@ Choose a clear area and treat any convenient tile as `(0,0)`. Increasing `x` is 
 | Rotator | Replace the west-leg rail at `(24,-4)` with a **rotator facing south** for through traffic. |
 | Optional service spur | A separate horizontal track from `(25,-4)` to `(28,-4)`, beside the rotator. Use it only for an unhitched vehicle. |
 
-All four depot corners use the craftable **left-turn** recipe:
+The four depot corners form by themselves: lay each leg one tile past the corner, then lay the next tile of the following leg, and the corner tile bends to meet it.
 
-| Corner | Craft facing | Incoming travel | Outgoing travel |
-| --- | --- | --- | --- |
-| `(24,-1)` | North | East | South |
-| `(24,-8)` | South | South | East |
-| `(34,-8)` | East | East | North |
-| `(34,-1)` | West | North | East |
-
-The layout does not require a separate right-turn recipe, end rail, wide curve, corner piece or plain split.
+| Corner | Incoming travel | Outgoing travel |
+| --- | --- | --- |
+| `(24,-1)` | East | South |
+| `(24,-8)` | South | East |
+| `(34,-8)` | East | North |
+| `(34,-1)` | North | East |
 
 ### Switches and guard rails
 
