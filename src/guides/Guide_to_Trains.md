@@ -52,6 +52,25 @@ Keep the track clear. A moving train stops when it hits anything solid, and it s
 
 A **crowbar** takes track apart one step at a time, giving the parts back: first it pulls the spikes (the rails sit loose on their sleepers again), then it lifts the rails off, then it pries up the sleepers. Switchers and rotators come apart in one go and return their iron. Nothing comes apart while a wagon stands on the tile. If a tile turned the wrong way, pry it up and lay it again.
 
+## Bridges over water
+
+Track needs firm ground, so to cross a river, lake or the open sea you first build a bridge and then lay the track on it the same way as on land.
+
+| Span | Cost | Tech tree | Legacy research |
+| --- | --- | --- | --- |
+| Steel bridge span | 4 steel | **Reinforced Concrete** node | Industrial research **96** |
+| Concrete bridge span | 6 clay | **Reinforced Concrete** node | Industrial research **103** |
+
+Each span covers one tile of water, deep sea included:
+
+1. Stand on the shore, in the shallows or at the end of the bridge built so far, facing the water. You can't build while swimming or from a boat.
+2. Use the span in your hand to build on the tile in front of you, or use it on the water tile next to you.
+3. Keep going tile by tile. The deck doesn't sink or burn, and you can walk, drive and craft on it.
+
+Lay sleepers, rails and spikes on the deck as usual. Track on a bridge joins the rest of the line, so a bridge can carry a line to a station or to the edge of the map. You can also build a road on the deck for cars.
+
+Ships can't pass a bridge. To take a span down again, clear the track, road, vehicles and people off it and hit it with a **hammer**. You get the span back. If a bridge is destroyed by an explosion, any track on that tile falls into the water.
+
 ## Fuel
 
 Click the locomotive with fuel to load its combustion chamber, which holds 100 units.
