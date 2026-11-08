@@ -13,6 +13,10 @@ Your character lives in one land at a time, its **home**.
 - **Travelling moves your home** with your character.
 - **When you die,** your home stays in the land where you died if you have an assigned bed there, and your next character starts beside that bed. Without a bed, your home goes back to the mainland. Sleep in a free bed to make it yours (see [Saving your character](../Starter_Guide.md#saving-your-character)).
 
+## Seeing the other lands
+
+Open **OOC > Regions** (or press **Esc** and choose **Regions**) to see every land in the group: what kind of land it is, whether it is up, asleep or stopped, and how many players are there. A **Join** link next to a land that is up or asleep takes you to its server; an asleep land wakes when someone arrives. Press **Refresh** at the bottom to check every land again; the window shows how many seconds ago they were last checked.
+
 ## Talking to other lands
 
 **OOC chat is shared by every land in the group.** An OOC message you send shows in every other land too, marked with the name of the land it came from, such as **[Gaia]**. Lines from your own land have no mark. OOC from every land also reaches the community Discord, marked with its land; messages from Discord show in the OOC of every land. Everything said in character stays in its own land; radio reaches another land only through a working long-range relay station at both ends.
