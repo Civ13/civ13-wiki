@@ -42,6 +42,10 @@ When you withdraw, your faction takes its **business tax**. Faction leaders set 
 
 **Transfer Company Stock** in the Faction tab gives some of your shares to a living player within four tiles. Both of you are told how much moved.
 
+## Fire teams
+
+The shareholder with the largest stake can split the company's shareholders into fire teams with **Roster** in the IC tab, the same way a faction leader does (see [Factions](../gamemodes/Civilizations_and_Nomads.md#as-a-leader)).
+
 ## When a shareholder dies
 
 A dead shareholder's shares go back to the company. They are shared out among the living shareholders by how much each already owns, and any profits the dead player had not withdrawn return to the company's undistributed profits.

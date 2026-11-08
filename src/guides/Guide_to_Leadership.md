@@ -14,6 +14,12 @@ Each squad has a colour: squad 1 is red, 2 yellow, 3 purple, 4 blue, 5 orange, 6
 
 A small arrow around your character points to your squad leader, in your squad colour. Squad leaders and officers get a white arrow to their commander, and so does a soldier whose squad leader is dead. The arrow disappears when you are within two tiles of them or on a different level.
 
+### Fire teams and the roster
+
+Squad leaders can split their squad into **fire teams** 1, 2 and 3, each with one leader. Open **Roster** in the IC tab, then click a team number next to a person to put them in that team, **none** to take them out, or **lead** to make them the team's leader. Teammates you can see show a numbered badge (gold for the leader), and examining someone shows their team. The tracker arrow points fire team members to their fire team leader, and fire team leaders to the squad leader. Fire teams reset when the server restarts. Officers and commanders can do the same for every squad on their side.
+
+The **Roster** also lists each person's condition (fine, wounded, down or dead), distance and direction. A soldier in a fire team sees their own team in it.
+
 | Command | Who gets it | What it does |
 | --- | --- | --- |
 | **Find Squad Leader** | Everyone in a squad | Tells you how many meters away your squad leader is, and in which direction. |

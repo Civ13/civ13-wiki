@@ -29,6 +29,10 @@ When the round ends, the chat lists a few round facts, such as who drew first bl
 
 Right-click a fallen soldier and choose **Take Dog Tags** to take their named tags. Each body has one set. At the end of the round the chat lists every side's fallen, how many of their tags comrades brought home, and how many the enemy took. The same list reads out any medals your officers awarded (see [Medals](../guides/Guide_to_Leadership.md#medals)).
 
+## Friendly fire
+
+If you hit someone on your own side, you are both told who did it, and the round facts count friendly hits. Check your target before you fire.
+
 ## Signal smoke
 
 Red, green, yellow and purple **signal smoke grenades** mark a position, a landing zone or a target in thick coloured smoke. Agree on what each colour means with your team before the fight. They call in nothing by themselves. Craft one from **2 tin** in the **Weapons** menu after **Automatic Weapons** research, where crafting is available.
@@ -40,6 +44,10 @@ Armed mines are hard to see. Craft a **mine detector** from **2 electronics** in
 ## Grace periods and roleplay
 
 A barrier opening or timer ending tells you when an area becomes accessible; it does not by itself establish permission to attack in a roleplay scenario. Follow both the briefing and the [Rules](../rules/Rules.md). Do not assume a timer or capture mechanic from another map applies to the current round.
+
+## Watching as a ghost
+
+After you die, **Toggle Observer HUD** in the Ghost tab shows every soldier's squad chevron, fire team number and health badge while you watch.
 
 ## Individual survival rounds
 
