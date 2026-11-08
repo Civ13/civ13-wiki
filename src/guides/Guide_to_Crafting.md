@@ -1115,6 +1115,10 @@ Drive safe out there!
 
 Ships are built tile by tile from ship frames, walls, masts or an engine, a wheel and a rudder axis. Rafts, outriggers and motorboats are simpler. See **[Boats & Ships](Guide_to_Boats.md)** for every boat, the parts each one needs, the helm controls and how the wind affects sailing.
 
+### Aircraft hangar
+
+Research **Powered Flight**, then craft an aircraft hangar from **40 steel** in the production category. It works like the automobile workshop, with a **4x4** bay to its northeast and 20 power from a cable, and builds a light plane from 50 steel, 6 glass, 4 cloth, 8 cable and 4 wheels. Runway is laid from **1 stone** per tile in the roads category. See **[Aircraft](Guide_to_Aircraft.md)** for building, flying and landing.
+
 ### Modular tanks
 
 <hr>

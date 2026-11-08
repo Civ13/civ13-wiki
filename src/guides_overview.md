@@ -38,6 +38,7 @@ New to the game? Start with [How to Play](New_Player_Guide.md), then the [Starte
 - [Construction](guides/Guide_to_Construction.md)
 - [Boats & Ships](guides/Guide_to_Boats.md)
 - [Trains](guides/Guide_to_Trains.md)
+- [Aircraft](guides/Guide_to_Aircraft.md)
 - [Travel Between Lands](guides/Guide_to_Travel.md)
 - [Map Making](guides/Guide_to_Map_Making.md)
 

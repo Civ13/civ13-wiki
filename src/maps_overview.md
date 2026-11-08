@@ -80,6 +80,7 @@ Maps are grouped the way the in-game map vote groups them: pick the era or mode 
 ## PvE
 
 - [Antarctica](maps/Antarctica.md)
+- [Submarine Commander](maps/Submarine_Commander.md)
 - [Lights Out](maps/Lights_Out.md)
 - [Cursed Island](maps/Cursed_Island.md)
 

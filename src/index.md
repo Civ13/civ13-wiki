@@ -20,7 +20,7 @@ For questions or community help, join the [Civ13 Discord](https://discord.gg/hBE
 
 ## Guides
 
-The guides cover every stage of a civilization. See the [guides overview](guides_overview.md) for the full list grouped by topic, including [research](guides/Guide_to_Research.md), [power and batteries](guides/Guide_to_Power.md), [factory automation](guides/Guide_to_Factory_Automation.md), [boats](guides/Guide_to_Boats.md), [trains](guides/Guide_to_Trains.md) and [travel between lands](guides/Guide_to_Travel.md).
+The guides cover every stage of a civilization. See the [guides overview](guides_overview.md) for the full list grouped by topic, including [research](guides/Guide_to_Research.md), [power and batteries](guides/Guide_to_Power.md), [factory automation](guides/Guide_to_Factory_Automation.md), [boats](guides/Guide_to_Boats.md), [trains](guides/Guide_to_Trains.md), [aircraft](guides/Guide_to_Aircraft.md) and [travel between lands](guides/Guide_to_Travel.md).
 
 <ul class="wiki-icon-grid">
 <li><a href="New_Player_Guide.md"><img src="images/icons/computer.png" alt="" width="72" height="72">How to Play</a></li>
