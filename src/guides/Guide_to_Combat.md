@@ -96,6 +96,17 @@ If you are sparring with a friend, turn on **Pulling punches** in the IC tab so 
 
 If you die, check the round's rules before leaving; some scenarios let you rejoin after a delay.
 
+## Carrying the wounded
+
+You can carry a downed person (lying down, unconscious or dead) over your shoulders, which is much faster than dragging them:
+
+1. Grab them, then use the grab in your hand once to make it an aggressive grab.
+2. Click **yourself** with the grab. After about 3 seconds you sling them over your shoulders.
+3. Walk them to safety. Running while carrying someone tires you out faster.
+4. Click yourself with the grab again to put them down, or drop the grab.
+
+The carry ends on its own if the person stands up or if you fall. You cannot tighten your grip on someone you are carrying.
+
 ## Working with your team
 
 - Stay near your squad leader. If your faction uses squads, the **Find Squad Leader** command points you towards them.
