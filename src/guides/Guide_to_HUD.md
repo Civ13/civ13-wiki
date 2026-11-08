@@ -31,6 +31,11 @@ moved or resized yourself stay where you put them.
 5. Use **Edit HUD Layout** again when you are done. Your layout is saved and
    the HUD goes back to working normally.
 
+To move a bag's storage window, open the bag before you start editing, then
+drag the window by its slots, its close button or anything inside it. It can
+be locked like a tile, but not resized. At HUD scales above 100% the storage
+window opens above the HUD instead of on top of it.
+
 While you are editing, clicking a tile does not use it. For example,
 clicking a hand slot will not swap hands. Tiles you place near an edge or
 corner of the screen stay there if your game window changes size.
