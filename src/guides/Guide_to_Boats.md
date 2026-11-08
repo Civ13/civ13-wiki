@@ -121,7 +121,7 @@ Ships are built tile by tile out of frames, like [modular tanks](Guide_to_Crafti
 
 ### Building the hull
 
-1. Lay out **wood ship frames** (4 planks each) or **steel ship frames** (2 steel each) in the shallows, one per tile. You can fix a frame in place with a wrench so nobody pushes it out of line.
+1. Lay out **wood ship frames** (4 planks each) or **steel ship frames** (2 steel each) in the shallows, one per tile. A new frame is fixed in place, so nobody can drag it out of line; use a wrench on an unlinked frame to release it if you need to move it.
 2. Add the walls **before assembly**, because a frame stops taking walls once it joins a ship. Click a wood frame with **wood logs**, or a steel frame with **steel**. Then pick a side, a thickness from 1 to 50 mm and a type:
    - **Wall**: solid and impassable, with the most health.
    - **Crenelated wall**: a wall with a gap you can walk through. Use it where the crew boards and leaves.
