@@ -9,7 +9,8 @@ you are happy with them. All three options are verbs in the **OOC** tab.
 Use **HUD Scale** to make the whole HUD bigger or smaller. You can pick from
 50% up to 200%. Larger scales are easier to read on big or high-resolution
 screens. Each tile stays on the edge or corner of the screen it sits on, so
-the HUD stays out of the middle of your view at any scale.
+the HUD stays out of the middle of your view at any scale. The name panel that
+appears under your mouse grows and shrinks with the HUD too.
 
 Above 100% the standard HUD no longer fits in one row, so it rearranges
 itself: the status column on the right stacks up the right edge, and the
@@ -64,7 +65,8 @@ preferences. Dragging the divider never triggers a refit by itself.
 
 Point the mouse at anything you can see, such as a tree, an animal, a person
 or an item in your hands or an open bag, and its name appears in a small
-panel just below the cursor. The panel follows the mouse, moves above the
+panel just below the cursor. If the text is too big or too small, change
+**HUD Scale**: the panel's text follows it. The panel follows the mouse, moves above the
 cursor near the bottom of the screen and is always drawn on top of the HUD.
 People wearing masks show the name you can actually see. Trees deep in a
 forest show their names too, as long as you can see part of their canopy.
@@ -76,4 +78,3 @@ forest show their names too, as long as you can see part of their canopy.
 - Each HUD style keeps its own layout. If you change styles with
   **ChangeHUD**, you get that style's layout, and switching back restores
   the one you made before.
-- Storage windows (such as an open backpack) cannot be moved yet.
