@@ -604,7 +604,7 @@ Grain can be fed to herbivores: deer, reindeer, elk, dik-diks, cows, goats, shee
 <img src="images/icons/guides_s.png" width=32 height=32>
 </td>
 <td style="padding: 0px; padding-right: 8px; margin: 0px; border: 0px">
-Seeds can be fed to granivorous: parrots, chickens, turkeys, geese, pelicans, gulls, crows, pigs, wild boars, monkeys, mice, rabbits, gorillas, gigantopithecus, mammoths, pachycephalosaurs.
+Seeds can be fed to granivorous: parrots, chickens, turkeys, geese, pelicans, gulls, crows, pigs, wild boars, monkeys, mice, rabbits, gorillas, gigantopithecus, mammoths, pachycephalosaurs. None of them will eat cotton seeds, and they leave growing cotton plants alone.
 </td>
 </tr>
 </table>
