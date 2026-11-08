@@ -15,7 +15,7 @@ Your character lives in one land at a time, its **home**.
 
 ## Talking to other lands
 
-**OOC chat is shared by every land in the group.** An OOC message you send shows in every other land too, marked with the name of the land it came from, such as **[Gaia]**. Lines from your own land have no mark. Everything said in character stays in its own land; radio reaches another land only through a working long-range relay station at both ends.
+**OOC chat is shared by every land in the group.** An OOC message you send shows in every other land too, marked with the name of the land it came from, such as **[Gaia]**. Lines from your own land have no mark. OOC from every land also reaches the community Discord, marked with its land; messages from Discord show in Gaia's OOC only. Everything said in character stays in its own land; radio reaches another land only through a working long-range relay station at both ends.
 
 ## Using a trail
 
