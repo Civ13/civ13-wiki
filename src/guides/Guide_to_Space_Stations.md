@@ -9,7 +9,7 @@ Everything here is in the crafting menu's **spaceflight** section.
 | Node (Industrial) | Unlocks |
 | --- | --- |
 | **Crewed Flight** | Launch pad, crewed lander |
-| **Orbital Flight** (after Crewed Flight) | Rockets, launch complex office, orbit console, truss, safety tether, orbital workshop kit, node module kit, sector beacon, edge coupler, reboost thruster, solar wings and arrays, radioisotope generator, fuel cell, radiator, cargo freighter, satellite launcher, ground station, satellites, GPS receiver |
+| **Orbital Flight** (after Crewed Flight) | Rockets, launch complex office, orbit console, truss, safety tether, orbital workshop kit, node module kit, sector beacon, edge coupler, reboost thruster, solar wings and arrays, radioisotope generator, fuel cell, radiator, cargo freighter, satellite launcher, ground station, satellites, GPS receiver, docking port |
 | **Sealed Habitats** (after Crewed Flight) | Habitat, greenhouse, workshop, storage and airlock module kits, hull patch kit |
 | **Life Support** (after Sealed Habitats) | CO2 scrubber, heater, electrolyser, water recycler, oxygen reclaimer, sorbent cartridge |
 | **Pressure Suits** (after Sealed Habitats) | Pressure suit, helmet, suit air tank, suit patch kit |
@@ -23,7 +23,7 @@ The station transceiver is researched like the long-range radio relay (see [Comm
 3. Hand the office the materials: **180 steel, 40 glass, 40 copper and 60 electronics**. When the last of it is in, the station is ready on the pad.
 4. Members of the party use the office to fly up. The first member to arrive founds the station on a free part of orbit, and everyone after them arrives at the same hatch.
 
-Only your own party can board your station. You can also fly up without a station in a **two-stage rocket** (80 electronics, three seats) or, from 2026, a **reusable rocket** (see below). Rocket crews arrive in a small capsule with a few hours of air and one bunk. To come home, strap in on the capsule's tile and deorbit; the capsule is used up.
+Only your own party can board your station, unless you welcome visitors at a docking port (see below). You can also fly up without a station in a **two-stage rocket** (80 electronics, three seats) or, from 2026, a **reusable rocket** (see below). Rocket crews arrive in a small capsule with a few hours of air and one bunk. To come home, strap in on the capsule's tile and deorbit; the capsule is used up.
 
 The way home from a station is the return hatch in its workshop, which flies party members back to their launch complex.
 
@@ -61,6 +61,15 @@ A **safety tether** (1 steel) clips you to a handhold: use it beside one to clip
 - **Decks.** A **node module kit** (70 steel) used on a node's open deck hatch builds a new deck above or below, with a node at the same spot. Climb between decks through open deck hatches on both sides; with both open, the two decks share air. Carry power between decks with **cable risers**.
 - **Sectors (from 2026).** Stand within 4 tiles of the edge of your station's area and use a **sector beacon** (15 electronics) to claim the space beyond it. Walk or drift off that edge to cross into the new sector. **Edge couplers** (4 copper) carry power across: secure one on a cable one tile in from the edge and another at the matching spot on the far side.
 - **Limits.** A station holds at most six decks and sectors in total. Modules and pods must stay two tiles back from every edge.
+
+## Visiting other stations (from 2013)
+
+A **docking port** (30 steel) lets other parties visit. Set it up inside your station. Use it to choose who may dock: only your party, your guest list, or everyone. Owners can add up to ten parties that also have a docking port to the guest list.
+
+- **Ferry.** At any docking port, choose **Ferry to another station** to cross to a station that welcomes your party. You arrive beside its port. To come home, use that port again and pick **Home: your station**. You land at your own port, or at your station's return hatch if you have no port.
+- **Parcels.** Holding an item at a port that welcomes you, choose **Leave a parcel** to leave it for that station's owners. Owners can leave parcels at their own port for any guest party. Each party collects its own parcels at that port.
+
+Visitors cannot fire your thruster, steer your pods, build decks or sectors, or use your orbit console's winch.
 
 ## Keeping it up
 
