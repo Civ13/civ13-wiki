@@ -61,6 +61,10 @@ This is a list of hotkeys for when the game is on **Hotkey Mode**. Use **Tab** t
 | Numpad 6 | Select Left Arm (targeting) |
 | Numpad 8 | Select Head (targeting) |
 
+## Typing bubbles
+
+While you write a message in the Say window (**T**), a speech bubble shows over your character. The Emote window (**F3**) shows a different bubble, so others can tell you are about to act rather than speak. Typing straight into the chat bar shows no bubble. You can hide them with the **Typing indicator** setting in your game preferences.
+
 ## Changing keys
 
 You can rebind prone, aiming mode, sights and other action keys through **OOC > Keybindings** or the **Keybindings** menu. Hotkey Mode and typing mode keep separate key sets. You can unbind a key, restore one action, or restore all defaults. Reserved keys and keys already in use are refused, and typing-mode bindings need Ctrl or Ctrl+Shift. Your keys are saved with your account.

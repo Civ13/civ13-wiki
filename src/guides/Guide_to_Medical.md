@@ -107,9 +107,24 @@ leaving (again, food and water helps with this). This time is a good
 opportunity to talk about the causes of the wound or illness and to get
 to know your patient.
 
+### Triage tags
+
+When several people are hurt at once, a medic, or anyone with a **medical** skill of 50 or more, can right-click a person next to them and choose **Triage Tag**. The tag shows on the body, and anyone who examines the person sees it.
+
+| Tag | Meaning |
+| --- | --- |
+| Red | Urgent, treat now |
+| Yellow | Serious, can wait a little |
+| Green | Walking wounded |
+| Black | Beyond help or dead |
+
+Choose **Remove the tag** to take it off.
+
 ### Physical Healing
 
 #### Bleeding
+
+A bleeding person who is dragged along the ground leaves a smear of blood on each tile, which also shows where they were taken.
 
 **Applying Pressure:** Used to stop or lessen the effects of bleeding. To perform this action use grab intent and then click on yourself while aiming at the body part which is bleeding. Be aware that if you use that same hand you will stop applying pressure. Useful for mild cuts and making it back to a doctor.
 
