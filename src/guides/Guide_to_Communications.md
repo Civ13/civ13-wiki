@@ -90,6 +90,17 @@ Electronics research). It calls like a mobile phone, and its secondary action
 - **Walkie Talkie:** small version of a radio and can be placed in a pocket or
 coin pouch slot.
 
+- **Tape recorder:** made from 4 electronics from 1969 onward, once the
+Automation research is complete. Cassette tapes are made from 1 plastic. Use a
+tape on the recorder to load it, then use the recorder in hand to **Record**,
+**Stop**, **Play**, **Erase tape** or **Eject tape**. While recording it picks
+up everything said within earshot, even from a pocket or belt; whispers are
+only picked up when the recorder sits on the ground next to the speaker.
+Playback repeats each line aloud with the speaker's voice, and listeners who
+do not speak the recorded language hear it garbled. A tape holds ten minutes
+of recording; examine a tape or the recorder to see how much is used. Write on
+a tape with a pen to label it.
+
 ## Long-range radio relay
 
 Radios normally only reach the land you are in. A **long-range radio relay**
