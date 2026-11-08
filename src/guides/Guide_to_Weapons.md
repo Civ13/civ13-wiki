@@ -816,7 +816,7 @@ Before working, **unload the chamber and internal ammunition, remove the inserte
 | Part | Required tool or station |
 | --- | --- |
 | Optic or optic rail | Screwdriver in your inventory |
-| Underbarrel grip, bipod or launcher | Adjacent, anchored firearm maintenance bench |
+| Underbarrel grip, bipod, weapon light or launcher | Adjacent, anchored firearm maintenance bench |
 | Compatible bayonet or suppressor | Hand installation |
 
 Use **Field Strip** to select a part to remove; the same tool rules apply. Integrated iron sights remain installed, and removed parts drop at your feet. **Remove an optic before removing its adapter.**
@@ -834,6 +834,14 @@ The rail adds **0.15 weight**. Attachments retain their ergonomics factors, whil
 Craft a bipod from **2 steel** in the **Weapons** menu after **Gunsmithing**. It fits the underbarrel rail of rifles and machine guns that have a Picatinny underbarrel mount, and you fit it at a firearm maintenance bench.
 
 The bipod is **braced** when you have kept still for a second and are either lying prone or facing something solid right in front of you, such as a wall, sandbags, a table or a barricade. A braced gun has much less recoil and spread. On the move the bipod does nothing and makes the gun slightly harder to handle. Examine the gun to see whether it is braced.
+
+### Weapon light
+
+Craft a weapon light from **1 electronics** in the **Weapons** menu after **Consumer Electronics**. It takes the underbarrel rail, so a gun can carry a bipod or a weapon light but not both. Right-click the gun and choose **Toggle Weapon Light**. The light shines only while the gun is in your hands.
+
+### Gun sling
+
+Craft a gun sling from **2 leather** in the **Weapons** menu after **Gunsmithing**. Hold the gun in one hand and use the sling in the other to fit it. Only guns you can wear on your shoulder or back take one. If you are knocked down, stunned or knocked out and drop a slung gun, it stays on your shoulder or back as long as that slot is free.
 
 ### Cleaning and repairs
 

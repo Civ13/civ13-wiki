@@ -6,7 +6,7 @@ This is a list of hotkeys for when the game is on **Hotkey Mode**. Use **Tab** t
 | ------- | -------------------------------- |
 | Tab | Switch Macro and Hotkey Mode |
 | Enter | Focus the chat input bar |
-| Escape | Game menu (resume, fullscreen, settings, help, report a bug, disconnect) |
+| Escape | Game menu (resume, fullscreen, settings, help, report a bug, regions, disconnect) |
 | F11 | Fullscreen |
 | Space | Zoom/Scope / Use iron sights / Tank gun |
 | W / North | Move Up |

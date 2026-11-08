@@ -68,6 +68,14 @@ Officers use **Check Coordinates** and **Reset Coordinates** from the **Officer*
 
 Every reported position lets your side request support within **15 tiles** of it. These commands only work once the teams are allowed to cross the starting barriers.
 
+### Rangefinder
+
+Anyone can use a **rangefinder** (2 electronics, Tools menu, after Consumer Electronics). Look through it like binoculars and click a spot. After a moment it gives the exact range, bearing, coordinates and offset. Once coordinates are allowed in the round, each spot you range also counts as a reported position for support requests.
+
+## Medals
+
+Commanders and officers can use **Award Medal** in the **Officer** tab during team rounds. Stand next to a living soldier of your side, choose a bronze, silver or gold medal, and write a citation of up to 140 letters. The medal goes into the soldier's hands. Each officer can award three medals a round, and the citations are read out at the end of the round.
+
 ## Radio operators and air support
 
 On maps that include artillery or air support, radio operators get **Order Airstrike**:

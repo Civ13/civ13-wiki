@@ -182,6 +182,7 @@ Pioneers, only the Blacksmith can use the anvil.
 - **Tripwire alarm:** 2 tin, in the tools category, after Basic Tools. Use it in hand to stretch it across the tile you stand on. Tin cans rattle loudly when anyone outside your civilization (or your team, in team rounds) walks through. Click it to take it down again.
 - **Display case:** 6 glass, after Glassworking. Click it with an item to put the item on show, and click it with an empty hand to take the item back. Use a key on it to lock it, as with a crate. Smashing the glass breaks the lock.
 - **Lockbox:** 4 iron, after Pottery & Cookware. It holds four small items. The first key you use on it becomes its key; use that key, or a keychain holding it, to lock and unlock it. A locked lockbox cannot be opened or filled, but four heavy blows on harm intent beat the lock off for good.
+- **Motion detector:** 3 electronics, in the tools category, after Digital Computing. Switch it on and hold it. Anything within seven tiles that has just moved shows to you as a blip, even through walls, while anything keeping still stays hidden.
 - **Labels:** with a pen in your hand, right-click a crate, closet, barrel or bag and choose **Write Label** to add up to 24 letters to its name. Leave the label empty to remove it.
 - **Crafted flint axes and stone hatchets** go straight into your empty active hand when possible.
 

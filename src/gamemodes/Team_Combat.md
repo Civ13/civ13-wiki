@@ -23,6 +23,10 @@ Team combat scenarios give factions an objective on a particular map. Read the l
 
 When the round ends, the chat lists a few round facts, such as who drew first blood, who had the most kills and which weapon was deadliest.
 
+## Dog tags and the fallen
+
+Right-click a fallen soldier and choose **Take Dog Tags** to take their named tags. Each body has one set. At the end of the round the chat lists every side's fallen, how many of their tags comrades brought home, and how many the enemy took. The same list reads out any medals your officers awarded (see [Medals](../guides/Guide_to_Leadership.md#medals)).
+
 ## Grace periods and roleplay
 
 A barrier opening or timer ending tells you when an area becomes accessible; it does not by itself establish permission to attack in a roleplay scenario. Follow both the briefing and the [Rules](../rules/Rules.md). Do not assume a timer or capture mechanic from another map applies to the current round.
