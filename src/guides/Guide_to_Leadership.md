@@ -13,6 +13,7 @@ When you join a faction that uses squads, the game tells you **"You have been as
 | **Find Squad Leader** | Everyone in a squad | Tells you how many meters away your squad leader is, and in which direction. |
 | **Squad Announcement** | Squad leaders | Sends a message to every member of your squad. One announcement per minute. |
 | **Faction Announcement** | Officers and commanders | Sends a message to everyone on your side. |
+| **Tactical Map** | Officers, commanders and squad leaders | Opens a live map of your side's positions and your officers' markers. See [Tactical map](#tactical-map). |
 
 On maps set in the twentieth century before the modern era, officers and squad leaders also spawn with a backpack radio. See [Communications](Guide_to_Communications.md) for using radios.
 
@@ -23,6 +24,20 @@ On maps set in the twentieth century before the modern era, officers and squad l
 3. **Assign jobs.** Name who carries ammunition, who covers the flanks and who helps casualties.
 4. **Update the plan.** When the situation changes, announce it. Announcements are limited to one a minute, so make each one count.
 5. **Hand over if you must.** If you are badly wounded, tell your squad who is in charge until you return.
+
+## Tactical map
+
+Officers, commanders and squad leaders have **Tactical Map** in the **Officer** tab. It opens a map of the level you are standing on, with north at the top, and keeps it up to date every 2 seconds while the window is open.
+
+![The tactical map as an officer sees it, with four soldiers and four markers](../images/civ13-tactical-map.png)
+
+- **Squares** show the living members of your own side on that level: white is you, gold are officers and commanders, blue are squad leaders (with their squad number), green are other soldiers and grey are soldiers who are down. The other side never appears.
+- **Circles** are markers your officers have placed: **A** Attack, **D** Defend, **R** Rally point, **!** Danger and **O** Objective.
+- The faint grid lines are 20 tiles apart, which helps when you pass coordinates by radio.
+
+Officers and commanders can draw on the map. Pick a marker from the buttons above the map, then click where it goes. **Erase** removes the marker nearest your click (within a few tiles), and **Clear all** removes every marker. Your side keeps up to 24 markers on each level; placing another removes the oldest. Other officers and squad leaders on that level are told in chat when a marker is placed or the map is cleared, and anyone with the map open sees the change at once. Squad leaders can read the map but not draw on it.
+
+The map closes if you are knocked out or die. If you change level, it switches to the new level.
 
 ## Officers, scouts and coordinates
 
