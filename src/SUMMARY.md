@@ -36,6 +36,7 @@
         - [Boats & Ships](guides/Guide_to_Boats.md)
         - [Trains](guides/Guide_to_Trains.md)
         - [Aircraft](guides/Guide_to_Aircraft.md)
+        - [Space Stations](guides/Guide_to_Space_Stations.md)
         - [Travel Between Lands](guides/Guide_to_Travel.md)
         - [Map Making](guides/Guide_to_Map_Making.md)
     - [Combat]()
