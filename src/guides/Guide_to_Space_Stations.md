@@ -68,6 +68,7 @@ A **docking port** (30 steel) lets other parties visit. Set it up inside your st
 
 - **Ferry.** At any docking port, choose **Ferry to another station** to cross to a station that welcomes your party. You arrive beside its port. To come home, use that port again and pick **Home: your station**. You land at your own port, or at your station's return hatch if you have no port.
 - **Parcels.** Holding an item at a port that welcomes you, choose **Leave a parcel** to leave it for that station's owners. Owners can leave parcels at their own port for any guest party. Each party collects its own parcels at that port.
+- **Boarding raids.** A station that does not welcome you can still be boarded by force, but only while some of its owners are online. At any docking port, choose **Force a docking** and stay in the collar for 30 seconds. The owners are warned as soon as you start. You arrive beside their port and ferry home the usual way.
 
 Visitors cannot fire your thruster, steer your pods, build decks or sectors, or use your orbit console's winch.
 
