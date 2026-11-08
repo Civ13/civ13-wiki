@@ -2,6 +2,8 @@
 
 Team combat scenarios give factions an objective on a particular map. Read the lobby and opening briefing: equipment, victory conditions, round length and grace periods vary between scenarios. Use the [Maps Overview](../maps_overview.md) to find your map's guide.
 
+On the TDM server you wait between rounds in the [TDM Barracks](TDM_Barracks.md), and join each battle from there.
+
 ## Your first deployment
 
 1. Check your faction, role and objective before spawning.

@@ -67,6 +67,7 @@
 # Gamemodes
 - [Game Modes Overview](gamemodes/Game_Modes.md)
 - [Team Combat](gamemodes/Team_Combat.md)
+    - [TDM Barracks](gamemodes/TDM_Barracks.md)
 - [Battle Royale & Hunger Games](gamemodes/Battle_Royale.md)
 - [Gladiators](gamemodes/Gladiators.md)
 - [Prison Roleplay](gamemodes/Prison_Roleplay.md)

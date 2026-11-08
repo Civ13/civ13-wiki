@@ -9,6 +9,7 @@ Nomads and TDM host modes and maps selected through votes. For organised rounds,
 | Nomads and civilizations | Secure food, water and shelter, then agree on settlement and research priorities. | [Civilizations and Nomads](Civilizations_and_Nomads.md) |
 | Roleplay scenarios | Read your job and faction briefing; establish relationships and follow the scenario's rules. | [Civilizations and Nomads](Civilizations_and_Nomads.md#what-is-rp-map-mode), [Maps Overview](../maps_overview.md) |
 | Team combat | Read your team's objective and the grace-period announcement, then coordinate equipment and movement. | [Team Combat](Team_Combat.md) |
+| TDM Barracks | Practise and wait between battles, then join the battle from the deployment gate or its announcement. | [TDM Barracks](TDM_Barracks.md) |
 | Battle Royale / Hunger Games | Read the start restrictions and watch area-closure warnings. | [Battle Royale](Battle_Royale.md) |
 | Gladiators | Prepare for your announced bout and assigned opponent. | [Gladiators](Gladiators.md) |
 | Prison roleplay | Read your prisoner or guard duties and the map's restrictions. | [Prison Roleplay](Prison_Roleplay.md) |
