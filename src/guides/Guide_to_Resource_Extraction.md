@@ -6,7 +6,7 @@ Use underground mining for larger batches from finite deposits, or gather smalle
 
 On uncovered, non-mineable dirt or sand, choose **Crafting > Sift soil for resources**. Stay still for three minutes to obtain one random unit. **Basic Toolmaking** unlocks a wooden resource sieve costing **4 wood**; activate it in your active hand for a two-minute, one-unit batch.
 
-Copper, tin, raw sand and stone are available first. Iron joins the soil pool at age 1; coal, saltpeter, sulphur and lead join at age 2. Trace gathering does not supply fossils.
+Copper, tin, raw sand and stone are available first. Iron and calamine (zinc ore) join the soil pool at age 1; coal, saltpeter, sulphur and lead join at age 2. Trace gathering does not supply fossils.
 
 For **Pan river sediment**, hold a wooden bowl in your active hand on eligible soil beside shallow freshwater. A two-minute action yields one random copper, tin, silver or gold ore. Bottled water, salt water and deep water do not qualify. Movement, incapacitation, changing the active hand or replacing the soil interrupts gathering; panning also needs the original water tile to remain valid.
 

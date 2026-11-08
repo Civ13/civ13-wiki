@@ -126,12 +126,19 @@ Some particulars about smelting certain ores and working with certain metals.
 
 ### Kiln-only
 
-**Tin**, **copper**, **gold**, **silver** and **bronze** only need a kiln. Just melt ores in jugs and pots.
+**Tin**, **copper**, **zinc**, **gold**, **silver**, **bronze** and **brass** only need a kiln. Just melt ores in jugs and pots.
 
 #### [Bronze](../Full_Crafting_List.md#bronze)
 <img src="../images/sheet_bronze.png">
 
 Bronze is an alloy of tin and copper. You need to melt **equal amounts**  (1:1 ratio) of tin and copper ore in the same jug or pot to produce bronze. For example, 1 unit of tin and 1 unit of copper make 1 unit of bronze.
+
+#### [Brass](../Full_Crafting_List.md#brass)
+<img src="../images/sheet_brass.png">
+
+Brass is an alloy of zinc and copper, available from 313 B.C. Its zinc comes from **calamine**, a pale zinc ore found by mining, crushing stone or sifting soil. Melt **equal amounts** (1:1 ratio) of calamine and copper ore in the same jug or pot to produce brass, the same way as bronze: 1 unit of calamine and 1 unit of copper make 1 unit of brass. Calamine melted on its own gives **zinc**, which can be cast into zinc ingots.
+
+Brass ingots are used for ammunition casings, instruments such as the trombone and handbell, globes, razor blades and statues. Zinc ingots are used for electroplating; see the [Guide to Electroplating](Guide_to_Electroplating.md).
 
 ### [Iron](../Full_Crafting_List.md#iron)
 <img src="../images/sheet_iron.png">
@@ -156,12 +163,12 @@ Click anvils with a mold with molten metal or with some metal sheets or ingots t
 <tr>
 <td width="5%"><img src="../images/anvil_stone.png"></td>
 <td><b>Stone</b></td>
-<td>Made with 25 stone. Used to work tin, copper, bronze and sponge iron.</td>
+<td>Made with 25 stone. Used to work tin, copper, zinc, bronze, brass and sponge iron.</td>
 </tr>
 <tr>
 <td><img src="../images/anvil_iron.png"></td>
 <td><b>Iron</b></td>
-<td>Made with 20 iron. Used to work tin, copper, bronze, gold, silver and iron.</td>
+<td>Made with 20 iron. Used to work tin, copper, zinc, bronze, brass, gold, silver and iron.</td>
 </tr>
 <tr>
 <td><img src="../images/anvil_steel.png"></td>

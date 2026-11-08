@@ -1,6 +1,6 @@
 # Electroplating
 
-An **electroplating bath** puts a thin coat of metal on a metal item. A gold or silver coat makes the item worth more to traders. A tin or copper coat makes melee weapons, tools and shields wear down more slowly. Every coat also renames the item, for example *gold-plated sword*, and tints it the colour of the metal.
+An **electroplating bath** puts a thin coat of metal on a metal item. A gold or silver coat makes the item worth more to traders. A tin, zinc or copper coat makes melee weapons, tools and shields wear down more slowly. Every coat also renames the item, for example *gold-plated sword*, and tints it the colour of the metal.
 
 ## Building and powering the bath
 
@@ -15,7 +15,7 @@ You can unfasten the bath with a wrench to move it, and take it apart with a ham
 The bath needs two things before it will coat anything:
 
 1. **Sulphuric acid.** Pour it in from a beaker or other glassware. The bath only takes sulphuric acid and holds 100 units. Each coat uses 5 units. Sulphuric acid is mixed from sulfur, oxygen and hydrogen; see [Chemistry](Guide_to_Chemistry.md).
-2. **One metal sheet.** Use a sheet of gold, silver, copper or tin on the bath to hang it in. Only one sheet hangs at a time, and each coat uses up the sheet. With nothing in the bath, an empty hand takes the sheet back out.
+2. **One metal sheet.** Use a sheet of gold, silver, copper, tin or zinc on the bath to hang it in. Only one sheet hangs at a time, and each coat uses up the sheet. With nothing in the bath, an empty hand takes the sheet back out.
 
 Examine the bath to see how much acid it holds, which sheet is hanging and how far a coat has got.
 
@@ -23,7 +23,7 @@ Examine the bath to see how much acid it holds, which sheet is hanging and how f
 
 Use a metal item on the filled bath to lower it in. With power, a coat takes about 10 seconds. The plated item is then set down next to the bath. If the power is cut, the bath waits and carries on once it is back. Use an empty hand to lift an item out early. It comes out uncoated, and the sheet and acid are kept.
 
-The bath coats metal weapons, tools and armour made of iron, steel, bronze, copper, tin, gold, silver or lead, and other metal items such as guns. It refuses:
+The bath coats metal weapons, tools and armour made of iron, steel, bronze, brass, copper, tin, zinc, gold, silver or lead, and other metal items such as guns. It refuses:
 
 - items that are already plated, since each item takes one coat
 - stacks of sheets, ore and the like
@@ -39,6 +39,7 @@ The bath coats metal weapons, tools and armour made of iron, steel, bronze, copp
 | Silver | Adds 15 to the item's trade value. Silver tint. |
 | Tin | The item loses half as much health from strikes, parries and blocks. Pale grey tint. |
 | Copper | The item loses a quarter less health from strikes, parries and blocks. Copper tint. |
+| Zinc | Galvanizes the item: it loses half as much health from strikes, parries and blocks. Blue-grey tint. |
 
 The value bonus is always less than the sheet it uses up, so plating is for making goods you sell, not for making money from sheets. Nomad traders price items by their value; see [Nomad Raiders & Caravans](Guide_to_Nomad_Visitors.md).
 
