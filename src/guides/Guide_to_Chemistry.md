@@ -79,6 +79,10 @@ The bench also selects calcium, wood-processing, polymer precursor and gasoline-
 
 Select **Engine fuel - 9:1 blend** with 9 gasoline and 1 purified ethanol to produce 10 units of Blended Engine Fuel. Internal engines that already accept gasoline accept this blend with the same consumption and power behavior. Diesel-only engines do not gain it, and it retains gasoline's toxicity and fire-contact behavior. See [engines and vehicles](Guide_to_Crafting.md#engines) for tank attachment and installation.
 
+## Aspirin from willow bark
+
+Strip bark from a willow tree with a knife and steep one strip in an open container holding at least 10 units of water; the strip adds 10 units of salicin. Mix 2 salicin with 1 sulphuric acid to get 2 salicylic acid, then mix 2 salicylic acid with 1 ethanol to get 2 aspirin. Both steps happen on their own in any beaker. See the [Guide to Medical](Guide_to_Medical.md) for finding willows and chewing the bark.
+
 ## Additional chemical reactions
 
 This table does not list every bench recipe. Use the workflows above and the recipe menu for selected reactions. **Ctrl-F** searches this page.
@@ -111,6 +115,8 @@ This table does not list every bench recipe. Use the workflows above and the rec
 | Glycerol |  3u. cornoil 1u. hclacid | none | none | 3 | glycerol |
 | Sodium Chloride |  1u. sodium 1u. hclacid | none | none | 2 | sodiumchloride |
 | Aspirin |  5u. carbon 4u. water 2u. oxygen | none | none | 5 | aspirin |
+| Salicylic Acid |  2u. salicin 1u. sacid | none | none | 2 | salicylic_acid_from_salicin |
+| Aspirin |  2u. sal_acid 1u. ethanol | none | none | 2 | aspirin_from_salicylic_acid |
 | Calcium carbonate |  1u. carbon 1u. calcium 3u. oxygen | none | none | 5 | calcium_carbonate |
 | Carbon dioxide |  1u. carbon 2u. oxygen | none | none | 2 | carbon_dioxide |
 | Sulphuric acid |  1u. sulfur 1u. oxygen 1u. hydrogen | none | none | 2 | sacid |

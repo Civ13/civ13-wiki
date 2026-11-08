@@ -196,6 +196,19 @@ includes beer, ale, and rum. Also makes for a great party drink!
 **Opium:** Made from poppies and used as an extreme painkiller. Helps a
 lot when patients are mostly suffering from pain.
 
+**Willow bark:** Weeping willows grow beside rivers, lakes and swamps in
+temperate and taiga lands. Hold a knife on any intent except harm and
+click a willow to strip its bark; each tree gives four strips, and the
+bark grows back over time. Chew a strip (eat it) for mild, slow pain
+relief that also helps fight flu fever. You can also hold the bark and
+click an open container with at least 10 units of water to steep it
+into a bitter willow bark tea that works the same way. Too much upsets
+the stomach.
+
+**Aspirin:** A refined, stronger form of willow bark. It eases pain and
+helps fight flu fever. Chemists can make it from willow bark (see the
+Guide to Chemistry), and tablet presses turn it into aspirin tablets.
+
 **Potassium Iodide:** Heals radiation. Cure for zombie virus.
 
 **Penicillin:** Cure for typhus, and the strongest antibiotic for
@@ -296,8 +309,8 @@ Just a normal flu.
   - Untreated flu might give you brain damage from high fever.
   - Manageable by eating and drinking until full, and resting (buckling
     to a bed).
-  - Brain damage can be prevented by drinking plenty of tea until the
-    fever subsides.
+  - Brain damage can be prevented by drinking plenty of tea, willow
+    bark tea or aspirin until the fever subsides.
   - You might get immunity after surviving it.
 
 #### Typhus
