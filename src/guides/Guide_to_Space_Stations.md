@@ -122,7 +122,7 @@ A **satellite launcher** (50 electronics) puts one satellite into orbit for your
 
 A ground station belongs to the party that first launches a satellite to it. Its satellites then serve only that party: only its members get a GPS fix, read the station's reports or launch more satellites to it. Long-range relays near the dish keep their comms link whoever owns it.
 
-Another party can raid it. Use the station and choose **Take it over** or **Cut** one of its satellites, then work at its desk for 30 seconds. Its owners who are online are warned when the break-in starts. Taking it over makes all its satellites answer to your party. Cutting a satellite loses it for good. Guard your ground station like the rest of your base.
+Another party can raid it. Use the station and choose **Take it over** or **Cut** one of its satellites, then work at its desk for 30 seconds. Its owners who are online are warned when the break-in starts. Taking it over makes all its satellites answer to your party. A cut satellite drifts out of contact but is not destroyed: whoever holds the station can use it, choose **Reacquire** and work at the desk for a minute to get it back. To keep a satellite from its owners for good, raiders have to take the station over. Guard your ground station like the rest of your base.
 
 ## Methalox
 
