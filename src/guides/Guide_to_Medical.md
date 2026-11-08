@@ -107,6 +107,10 @@ leaving (again, food and water helps with this). This time is a good
 opportunity to talk about the causes of the wound or illness and to get
 to know your patient.
 
+### Autoinjectors
+
+The modern combat medicine kit carries **autoinjectors**: one-use pens of morphine, adrenaline or clotting agent. They inject someone else in one second instead of three. The clotting agent seals bleeding wounds one after another over the next minute.
+
 ### Triage tags
 
 When several people are hurt at once, a medic, or anyone with a **medical** skill of 50 or more, can right-click a person next to them and choose **Triage Tag**. The tag shows on the body, and anyone who examines the person sees it.

@@ -94,6 +94,7 @@ On Nomads maps you can right-click someone next to you and choose **Offer Adopti
     you...
   - You can make someone else a Leader by clicking **Transfer Leadership** on the **Faction tab** while near to your successor.
   - You can rename a faction you founded with **Rename Faction** in the **Faction panel** (on maps that allow custom factions). For the next 8 seasons, the Faction List, examining a member and examining your banners and posters show that it was recently renamed, and from what.
+  - You can split your members into **fire teams** with **Roster** in the IC tab. Click a team number next to a person to put them in that team, **none** to take them out, or **lead** to make them the team's leader. Teammates you can see show a numbered badge (gold for the leader), and examining someone shows their team. The tracker arrow points fire team members to their fire team leader. Fire teams reset when the server restarts.
   - You can make **Announcements** that are received by every member of your faction. Open the **Officer tab** and select **Faction Announcement**.
   - You can delegate your power to other faction members by giving them certain **officer permissions**. **Right-click** a person and select **Faction Perms**. These are the permissions you can give or revoke, if the person already has them:
       - **Permission Management** - allows giving permissions per se.

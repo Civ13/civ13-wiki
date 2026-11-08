@@ -943,7 +943,9 @@ Bolt-action rifles reward careful positioning and deliberate shots. Keep distanc
 
 ### Machine Guns
 
-Machine guns help defend positions and suppress enemy movement. Coordinate with teammates and manage ammunition. Firing can restrict movement, leaving an exposed gunner vulnerable; choose cover before starting a sustained burst.
+Machine guns help defend positions and suppress enemy movement. Coordinate with teammates and manage ammunition.
+
+Long bursts heat the barrel. You are warned when it gets hot, and once it is red hot the gun will not fire until it has cooled for a few seconds. Mounted machine guns heat up more slowly than light ones. Examine the gun to check its barrel. Fire in short bursts to keep it working. Firing can restrict movement, leaving an exposed gunner vulnerable; choose cover before starting a sustained burst.
 
 **Cover and positioning:**
 
