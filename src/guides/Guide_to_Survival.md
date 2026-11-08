@@ -4,7 +4,7 @@
 
 Cover exposed body parts and wear a coat over ordinary clothing. Overlapping layers add insulation, while shorts and loincloths protect only the parts they cover. Ordinary clothing's cold rating is **240 K**, about **-33 C**; it stops insulating below that temperature. Choose suitable cold-weather equipment for extreme climates.
 
-Rain and immersion make you wet, weakening clothing insulation and increasing cooling. Move into dry shelter to avoid further soaking. A nearby lit brazier, campfire, iron furnace or fireplace provides warmth. Warmth dries you faster and helps recovery from hypothermia; shelter alone can still be cold.
+Rain and immersion make you wet, weakening clothing insulation and increasing cooling. Move into dry shelter to avoid further soaking. Standing under a pitched canopy keeps the rain off and blocks the wind, so in cold weather it feels up to 5 C warmer, though never warmer than 15 C. A nearby lit brazier, campfire, iron furnace or fireplace provides warmth. Warmth dries you faster and helps recovery from hypothermia; shelter alone can still be cold.
 
 Complete coverage buys time but does not make you immune to cold. A dangerously cold body takes harm even when fully covered. Seek warmth before exposure becomes severe, and account for other injuries and hunger.
 
