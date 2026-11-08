@@ -118,6 +118,12 @@ A **satellite launcher** (50 electronics) puts one satellite into orbit for your
 | **Navigation satellite** (40 electronics) | 2013 | **GPS receivers** (5 electronics) in your world show where you are and point you to up to five saved waypoints. |
 | **Survey orbiter** (40 electronics) | 1969 | Point the pad at the Moon or Mars instead, with a mission console within 7 tiles. The orbiter maps the whole world for the console and marks up to six flat landing sites. |
 
+### Raiding ground stations
+
+A ground station belongs to the party that first launches a satellite to it. Its satellites then serve only that party: only its members get a GPS fix, read the station's reports or launch more satellites to it. Long-range relays near the dish keep their comms link whoever owns it.
+
+Another party can raid it. Use the station and choose **Take it over** or **Cut** one of its satellites, then work at its desk for 30 seconds. Its owners who are online are warned when the break-in starts. Taking it over makes all its satellites answer to your party. Cutting a satellite loses it for good. Guard your ground station like the rest of your base.
+
 ## Methalox
 
 **Methalox** is a cleaner rocket fuel made from methane and oxygen. The reusable rocket and the cargo freighter burn it. A tank holds one fuel at a time, so fly a craft before you switch it to the other fuel.
