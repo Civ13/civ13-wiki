@@ -1073,6 +1073,16 @@ Feed the material stacks into the workshop. Drag four unused, unbroken, unattach
 
 The workshop offers all nine layouts: Piccolino, Quattroporte, Erstenklasse, Falcon, Falcon Unmarked, Wyoming, Shinobu, Police Shinobu and Kazoku. Finished cars have **empty fuel tanks** and need fuel accepted by their engine; manufacturing does not supply loose map accessories. Stock survives saves, but reconnect cable power after loading.
 
+### Vehicle garage
+
+Once you have **Automobiles**, you can craft a vehicle garage from **20 steel** in the production category. It is a control post with a **4x4** parking bay to its northeast, and it holds up to **3 cars**. Storing a car takes it off the map until you take it out again.
+
+1. Drive the car into the bay so the whole car is on the 4x4 square. Then stop, switch the engine off and get everyone out. Roads under the bay are fine, but take loose items off the car, and leave items in the boot where they are.
+2. Click the post and choose **Put away the parked vehicle**. Stay next to the post for a few seconds while the car rolls in.
+3. To take the car out, clear the bay and choose **Take a vehicle out**. The car comes back where it was parked, with the same fuel, damage, number plate and boot cargo.
+
+You need to hold the car's key to put it away and to take it out. Examine the post to see what it holds. Stored cars survive saves, so a car in a garage is safe from thieves and weather until you come back for it. The garage takes cars only. Planes go in the [aircraft hangar](Guide_to_Aircraft.md#hangaring-a-plane).
+
 ### Motorcycles
 
 <hr>
@@ -1122,7 +1132,7 @@ Ships are built tile by tile from ship frames, walls, masts or an engine, a whee
 
 ### Aircraft hangar
 
-Research **Powered Flight**, then craft an aircraft hangar from **40 steel** in the production category. It works like the automobile workshop, with a **4x4** bay to its northeast and 20 power from a cable, and builds a light plane from 50 steel, 6 glass, 4 cloth, 8 cable and 4 wheels. Runway is laid from **1 stone** per tile in the roads category. See **[Aircraft](Guide_to_Aircraft.md)** for building, flying and landing.
+Research **Powered Flight**, then craft an aircraft hangar from **40 steel** in the production category. It works like the automobile workshop, with a **4x4** bay to its northeast and 20 power from a cable, and builds a light plane from 50 steel, 6 glass, 4 cloth, 8 cable and 4 wheels. It can also store up to **2 planes** off the map. Runway is laid from **1 stone** per tile in the roads category. See **[Aircraft](Guide_to_Aircraft.md)** for building, flying and landing.
 
 ### Modular tanks
 
