@@ -49,8 +49,8 @@ The football pitch is at the south end of the Barracks. Take boots and a jersey 
 
 The stairs in the arrival hall lead up to the annex.
 
-- **Race circuit.** Click a **motor pool console** in the pit garages to have a fuelled car built in the empty bay beside it. Each bay has its own model, and a bay must be empty and off its short cooldown before it builds again. The circuit has a start and finish line, a drag strip and a gravel rally stage. Timing lines record your laps, and the **lap boards** show the best times. **Race control** starts countdown races.
-- **Airfield.** Click a **hangar console** to roll a fuelled light plane onto the apron. Take off from the 41-tile runway into the sky above, then fly the seven numbered **air gates** in order, in low flight, for a timed sky lap. Airspace markers show the edge of the area, so turn back when you reach one. The **flight board** in the control tower shows who is flying and the best sky lap times. See [Aircraft](../guides/Guide_to_Aircraft.md) for the flight controls.
+- **Race circuit.** Click a **motor pool console** in the pit garages to have a fuelled car built in the empty bay beside it. It also hands you the car's key: use the key on a car door to unlock it, then climb into the driver's seat. Each bay has its own model, and a bay must be empty and off its short cooldown before it builds again. The circuit has a start and finish line, a drag strip and a gravel rally stage. Timing lines record your laps, and the **lap boards** show the best times. **Race control** starts countdown races.
+- **Airfield.** Click a **hangar console** to roll a fuelled light plane onto the apron. Roll down the 41-tile runway at full throttle and the plane takes off by itself into the sky above, then fly the seven numbered **air gates** in order, in low flight, for a timed sky lap. Airspace markers show the edge of the area, so turn back when you reach one. The **flight board** in the control tower shows who is flying and the best sky lap times. See [Aircraft](../guides/Guide_to_Aircraft.md) for the flight controls.
 
 Cars and planes left empty and still for ten minutes are cleared away.
 
