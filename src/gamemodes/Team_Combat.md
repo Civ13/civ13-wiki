@@ -23,7 +23,11 @@ On the TDM server you wait between rounds in the [TDM Barracks](TDM_Barracks.md)
 | Hostage or rescue scenario | Identify the person or group being protected or rescued, and read the required destination or condition before acting. |
 | Firefight | Coordinate your team's movement and preserve its fighting strength. Follow the round's stated elimination or score condition. |
 
-When the round ends, the chat lists a few round facts, such as who drew first blood, who had the most kills and which weapon was deadliest.
+When the round ends, the chat lists a few round facts, such as who drew first blood, who had the most kills and which weapon was deadliest. Each player also gets their own line: shots fired, hits, kills, deaths, friendly hits and medals.
+
+## How you died
+
+When you die, the chat lists who hurt you in your last minute, how many times and with what, and who landed the killing blow.
 
 ## Dog tags and the fallen
 
