@@ -9,7 +9,7 @@ Everything here is in the crafting menu's **spaceflight** section.
 | Node (Industrial) | Unlocks |
 | --- | --- |
 | **Crewed Flight** | Launch pad, crewed lander |
-| **Orbital Flight** (after Crewed Flight) | Rockets, launch complex office, orbit console, truss, safety tether, orbital workshop kit, node module kit, sector beacon, edge coupler, reboost thruster, solar wings and arrays, radioisotope generator, fuel cell, radiator, cargo freighter, satellite launcher, ground station, satellites, GPS receiver, docking port, microgravity lab |
+| **Orbital Flight** (after Crewed Flight) | Rockets, launch complex office, orbit console, truss, safety tether, orbital workshop kit, node module kit, sector beacon, edge coupler, reboost thruster, solar wings and arrays, radioisotope generator, fuel cell, radiator, cargo freighter, satellite launcher, ground station, satellites, GPS receiver, docking port, microgravity lab, hull armour plate, point-defence turret |
 | **Sealed Habitats** (after Crewed Flight) | Habitat, greenhouse, workshop, storage and airlock module kits, hull patch kit |
 | **Life Support** (after Sealed Habitats) | CO2 scrubber, heater, electrolyser, water recycler, oxygen reclaimer, sorbent cartridge |
 | **Pressure Suits** (after Sealed Habitats) | Pressure suit, helmet, suit air tank, suit patch kit |
@@ -71,6 +71,11 @@ A **docking port** (30 steel) lets other parties visit. Set it up inside your st
 - **Boarding raids.** A station that does not welcome you can still be boarded by force, but only while some of its owners are online. At any docking port, choose **Force a docking** and stay in the collar for 30 seconds. The owners are warned as soon as you start. You arrive beside their port and ferry home the usual way.
 
 Visitors cannot fire your thruster, steer your pods, build decks or sectors, or use your orbit console's winch.
+
+## Defending a station
+
+- **Hull armour plate** (15 steel). Use it on a module's core to bolt it on; a module takes three. Each plate stops one strike of debris (or a meteorite on Mars and the Moon) that would have holed the hull, and is used up doing so.
+- **Point-defence turret** (45 electronics, from 2013). Run a cable to it. A powered turret shoots down most debris and meteorites heading for modules within 7 tiles, before the armour is touched. It also fires on raiders forcing a docking at a port within 7 tiles: each turret adds 15 seconds to the crossing, up to two turrets.
 
 ## Zero-g manufacturing
 
