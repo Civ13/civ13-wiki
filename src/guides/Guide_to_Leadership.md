@@ -24,6 +24,20 @@ On maps set in the twentieth century before the modern era, officers and squad l
 4. **Update the plan.** When the situation changes, announce it. Announcements are limited to one a minute, so make each one count.
 5. **Hand over if you must.** If you are badly wounded, tell your squad who is in charge until you return.
 
+## Giving orders
+
+Squad leaders, officers and commanders can call an order to the allies around them with **Issue Order** in the **IC** tab. In Civilizations and Nomads, a faction leader can do the same. Pick one of three orders:
+
+| Order | Effect on allies within 7 tiles |
+| --- | --- |
+| **Move** | They run faster. |
+| **Hold** | They feel less pain from their wounds. |
+| **Focus** | Their aim is steadier, so shots spread less. |
+
+The order lasts 20 seconds from a squad leader and longer from officers and commanders. You shout the order, a short word floats over your head, and everyone who receives it gets a message. After giving an order you must wait one minute before the next.
+
+Carry a **whistle** to make orders stronger: they reach 10 tiles instead of 7, last longer and blow the whistle, but you must wait 90 seconds before the next one. Orders from several leaders do not stack; your allies keep the strongest one.
+
 ## Officers, scouts and coordinates
 
 Officers use **Check Coordinates** and **Reset Coordinates** from the **Officer** tab. Scouts have the same commands in the **Scout** tab. Both can report positions for artillery and air support.

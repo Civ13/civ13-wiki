@@ -21,6 +21,8 @@ Team combat scenarios give factions an objective on a particular map. Read the l
 | Hostage or rescue scenario | Identify the person or group being protected or rescued, and read the required destination or condition before acting. |
 | Firefight | Coordinate your team's movement and preserve its fighting strength. Follow the round's stated elimination or score condition. |
 
+When the round ends, the chat lists a few round facts, such as who drew first blood, who had the most kills and which weapon was deadliest.
+
 ## Grace periods and roleplay
 
 A barrier opening or timer ending tells you when an area becomes accessible; it does not by itself establish permission to attack in a roleplay scenario. Follow both the briefing and the [Rules](../rules/Rules.md). Do not assume a timer or capture mechanic from another map applies to the current round.
