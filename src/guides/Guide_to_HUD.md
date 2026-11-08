@@ -8,8 +8,13 @@ you are happy with them. All three options are verbs in the **OOC** tab.
 
 Use **HUD Scale** to make the whole HUD bigger or smaller. You can pick from
 50% up to 200%. Larger scales are easier to read on big or high-resolution
-screens. The tiles grow outward from the edge of the screen they sit on,
-so the HUD stays out of the middle of your view.
+screens. Each tile stays on the edge or corner of the screen it sits on, so
+the HUD stays out of the middle of your view at any scale.
+
+Above 100% the standard HUD no longer fits in one row, so it rearranges
+itself: the status column on the right stacks up the right edge, and the
+bottom bar wraps into extra rows. No tile covers another. Tiles you have
+moved or resized yourself stay where you put them.
 
 ## Moving, resizing and locking tiles
 
