@@ -1061,7 +1061,7 @@ electrical cables.
 
 ### Automobile workshop
 
-Research **Automobiles** and **Electricity**, then craft an automobile workshop from **30 steel** in the production category. Leave an empty, dry floor square northeast of it: **3x3** for ASNO Piccolino, ASNO Quattroporte and Yamasaki Kazoku; **4x4** for other models.
+Research **Automobiles** and **Electricity**, then craft an automobile workshop from **30 steel** in the production category. Stand where the workshop should go: the **4x4** square to your northeast must be dry, open floor with no walls or fixed structures, and a laid power cable must be on or next to your tile. Small cars (ASNO Piccolino, ASNO Quattroporte and Yamasaki Kazoku) use only the inner **3x3** of that bay. If anything is missing, the workshop is not built and you are told what to fix. Loose items in the bay do not stop the build, but must be moved before assembly.
 
 | Input | Small cars | Large cars |
 | --- | ---: | ---: |
@@ -1144,7 +1144,7 @@ Ships are built tile by tile from ship frames, walls, masts or an engine, a whee
 
 ### Aircraft hangar
 
-Research **Powered Flight**, then craft an aircraft hangar from **40 steel** in the production category. It works like the automobile workshop, with a **4x4** bay to its northeast and 20 power from a cable, and builds a light plane from 50 steel, 6 glass, 4 cloth, 8 cable and 4 wheels. It can also store up to **2 planes** off the map. Runway is laid from **1 stone** per tile in the roads category. See **[Aircraft](Guide_to_Aircraft.md)** for building, flying and landing.
+Research **Powered Flight**, then craft an aircraft hangar from **40 steel** in the production category. It works like the automobile workshop, with a **4x4** bay to its northeast and 20 power from a cable, and is refused the same way when the bay or cable is missing, and builds a light plane from 50 steel, 6 glass, 4 cloth, 8 cable and 4 wheels. It can also store up to **2 planes** off the map. Runway is laid from **1 stone** per tile in the roads category. See **[Aircraft](Guide_to_Aircraft.md)** for building, flying and landing.
 
 ### Modular tanks
 
