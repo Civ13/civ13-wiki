@@ -17,6 +17,10 @@ The mode features:
 
 ---
 
+## Getting a round
+
+Submarine Commander is in the **PvE** group of the map vote, next to Antarctica and Lights Out. Vote for the PvE group first, then for Submarine Commander, and the next round starts aboard the boat.
+
 ## Your first watch
 
 Assign navigation, sensors, weapons, propulsion and damage-control duties before getting underway. Check the submarine's current depth, target depth, power supply and compartment condition. Read mission orders before engaging a contact. Report flooding and oxygen problems immediately so the crew can coordinate repairs and recovery.
@@ -97,6 +101,9 @@ Underwater detection system. Works at any depth.
 | **LOFAR Analysis** | Frequency analysis display. Shows three-tonal spectral display (propeller, engine, auxiliary frequencies) for vessel classification. |
 | **Bearing Sweep** | Rotating sweep display showing contact amplitude spikes at their bearings. |
 | **Detected Contacts** | Shows contacts: name, range, bearing, classification, and noise signature. TAG contacts for tactical map display. |
+| **LAYER** | Whether the boat is above or below the thermal layer at 60 m. |
+
+The sea has a **thermal layer at 60 m**. Sonar that has to look across it, from a boat above to a contact below or the other way round, hears only half as far, and the same goes for the enemy listening for you. Surface ships, aircraft and patrolling hostile submarines all sit above the layer, so a boat below 60 m is half as easy for them to find, and half as able to hear them. Come above the layer to listen, go below it to hide.
 
 ```admonish warning
 Active sonar emits a loud ping that hostile NPCs can detect from long range. Use passive sonar when trying to remain undetected.
@@ -162,7 +169,7 @@ When your submarine takes damage (torpedo hits, depth charges, crush depth), hul
 1. **Hull Breach**: A damaged hull wall loses integrity. When it fails, water begins pouring in.
 2. **Water Accumulation**: Deck tiles accumulate water measured in centimeters (0 = dry, 200 = fully flooded).
 3. **Water Spreading**: Water flows to adjacent tiles within the same compartment, equalizing depth.
-4. **Bulkhead Containment**: Internal bulkheads are watertight by default. If a bulkhead is destroyed, water flows through it to adjacent compartments at 10% of water depth per tick (max 3cm).
+4. **Bulkhead Containment**: Internal bulkheads are watertight by default. A bulkhead that has **buckled** (below half health) or **crumpled** (destroyed) lets water through to the next compartment at 10% of water depth per tick (max 3cm). A buckled bulkhead can be shored or welded back to watertight; a crumpled one must be welded.
 5. **Blast Doors**: Open blast doors allow water to flow between compartments. Closed blast doors block water flow.
 
 ### Water Depth Effects
@@ -195,6 +202,12 @@ Bilge pumps require battery power. If your battery is dead, the pumps will not f
 ### Hull Breach Sealant Sprayer
 
 An automated device that scans for breached hull walls and seals them with fast-curing polymer. Each use consumes one unit of sealant (100 units total). Requires power to operate.
+
+### Damage control by hand
+
+Every footlocker aboard holds two **shoring kits**: timber shores and a canvas patch. Use one on a breached hull wall to wedge the breach to a slow seep in a few seconds, or on a buckled bulkhead to force its seals shut. A shored breach still lets a little water in until someone **welds** it, and a hard knock can tear the shoring loose again. Welding a breach with a welding tool is the full repair and restores the hull to half integrity; welding also mends cracked hull and bulkhead damage. Crumpled bulkheads cannot be shored.
+
+A breached hull below the surface does not vent the compartment's air, but a sea at depth keeps pouring in. Surface or shore first, then weld.
 
 ---
 
@@ -381,6 +394,7 @@ These objects exist on the submarine's interior and can be interacted with direc
 | **Stern Plane** | External | Affects steering efficiency. Must be repaired while surfaced. |
 | **Bilge Pump** | Various Compartments | Drains water from tiles. |
 | **Hull Breach Sealant Sprayer** | Various Compartments | Seals breached hull walls. |
+| **Shoring Kit** | Footlockers | Hand-carried. Wedges a hull breach to a seep or reseals a buckled bulkhead until it is welded. |
 | **Ventilation Duct** | Various Compartments | Equalizes air between compartments. Click to open/close. |
 | **CO2 Scrubber** | Various Compartments | Removes CO2, optionally injects O2. |
 | **Ballast Control Valve** | Operations | Controls ballast tank flooding/venting for depth control. |
@@ -391,13 +405,13 @@ These objects exist on the submarine's interior and can be interacted with direc
 
 | Situation | Action |
 | :--- | :--- |
-| Taking on water | Activate bilge pumps. Seal breaches with hull breach sealant sprayer. Close blast doors to contain flooding. |
+| Taking on water | Shore the breach with a shoring kit from a footlocker, then weld it. Activate bilge pumps. Close blast doors to contain flooding. |
 | Running out of air | Turn on O2 generator. Open ventilation ducts. |
 | Reactor overheating | Increase primary pump speed. Insert control rods. SCRAM if critical. |
 | Reactor room flooding | Water degrades pumps. Evacuate and seal bulkheads. Flooding at 100cm force-SCRAMS reactors. |
 | Engine room flooding | Diesel engines auto-shutdown at 50cm water. Surface and seal. |
 | Fire started | Fires spread to adjacent tiles. Flood the area (>50cm water extinguishes). Evacuate crew. |
-| Enemy detected on sonar | Go deep (150m+), reduce speed to 5 knots, go silent. |
+| Enemy detected on sonar | Go deep (150m+), below the 60 m thermal layer, reduce speed to 5 knots, go silent. |
 | Need to fire torpedoes | Master Arm ON. Select target from sonar contacts. Load tube. Launch. |
 | Battery dead | Surface and engage diesel throttle to recharge. Lights go dark when battery is empty. |
 | Crush depth warning | Set a shallower target depth (a smaller depth value). Check ballast. Emergency blow if needed. |
