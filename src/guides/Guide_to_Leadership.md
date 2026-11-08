@@ -8,6 +8,12 @@ Leadership commands appear in extra tabs at the top-right of your screen: **Offi
 
 When you join a faction that uses squads, the game tells you **"You have been assigned to Squad N!"** and names your squad leader. If no squad leader has joined yet, the first squad leader to join takes the first free squad.
 
+### Squad colours and the tracker
+
+Each squad has a colour: squad 1 is red, 2 yellow, 3 purple, 4 blue, 5 orange, 6 green and 7 white. Squadmates you can see have a chevron in your squad's colour under their feet. Examining someone names their squad.
+
+A small arrow around your character points to your squad leader, in your squad colour. Squad leaders and officers get a white arrow to their commander, and so does a soldier whose squad leader is dead. The arrow disappears when you are within two tiles of them or on a different level.
+
 | Command | Who gets it | What it does |
 | --- | --- | --- |
 | **Find Squad Leader** | Everyone in a squad | Tells you how many meters away your squad leader is, and in which direction. |

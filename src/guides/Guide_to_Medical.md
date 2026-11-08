@@ -120,6 +120,8 @@ When several people are hurt at once, a medic, or anyone with a **medical** skil
 
 Choose **Remove the tag** to take it off.
 
+The same people see a small badge over wounded people around them: yellow for hurt, a red drop for bleeding, a flashing red cross for critical or unconscious, and a skull for dead. In team rounds they only see their own side.
+
 ### Physical Healing
 
 #### Bleeding
