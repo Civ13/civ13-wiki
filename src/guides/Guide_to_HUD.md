@@ -7,7 +7,7 @@ you are happy with them. All three options are verbs in the **OOC** tab.
 ## HUD Scale
 
 Use **HUD Scale** to make the whole HUD bigger or smaller. You can pick from
-75% up to 200%. Larger scales are easier to read on big or high-resolution
+50% up to 200%. Larger scales are easier to read on big or high-resolution
 screens. The tiles grow outward from the edge of the screen they sit on,
 so the HUD stays out of the middle of your view.
 
@@ -16,7 +16,9 @@ so the HUD stays out of the middle of your view.
 1. Use **Edit HUD Layout**. While you are editing, unlocked tiles turn
    green and locked tiles turn red.
 2. **Drag** a tile to move it. Anything you are wearing in an inventory
-   slot moves along with its slot.
+   slot moves along with its slot. The action buttons along the top move
+   together as one bar, and the vehicle controls can be moved while you are
+   driving.
 3. **Scroll the mouse wheel** over a tile to make that one tile bigger or
    smaller, from half size up to three times its size.
 4. **Click** a tile to lock or unlock it. A locked tile cannot be dragged or
@@ -43,5 +45,4 @@ corner of the screen stay there if your game window changes size.
 - Each HUD style keeps its own layout. If you change styles with
   **ChangeHUD**, you get that style's layout, and switching back restores
   the one you made before.
-- Action buttons, storage windows and the vehicle controls cannot be moved
-  yet.
+- Storage windows (such as an open backpack) cannot be moved yet.
