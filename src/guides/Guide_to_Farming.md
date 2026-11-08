@@ -11,6 +11,14 @@ In the default global catalog, **2 raw wood** makes a wooden knife. A Stone Age 
 
 Use a knife on a small bush with **Help intent** for random seeds; the bush regrows its seed supply after **10 minutes**. Continental, Pangea, New World, Mediterranean, Gaia and Europe use biome seed catalogs when this forage route is present. Pangea also has placed seed stacks; check actual resources on your map. Healing herbs use jungle-bush forage or planting a herb stack, consuming one herb, rather than random herb seeds. Seeds still need suitable soil, biome and season.
 
+### Wild plants
+
+On Nomads maps a few ripe wild crops grow on their own in open countryside, away from players and settlements. Depending on the biome and season you may find wild herbs, mushrooms, wheat, oat, barley, rice, potatoes, carrots, cabbage, turnips, parsnips, beans, tomatoes, corn, pumpkins, zucchini, red peppers, celery, parsley, grapes, watermelons, agave, juniper, flax or cotton. They are sparse, so explore away from built-up areas to find them. Harvest one with a knife, scythe, hatchet or bayonet to get its produce and two seeds (herbs give healing herbs, flax and cotton give fibre), which is a quick way to start a farm. Wild plants do not grow or need water; out of season (for example in winter) they wither away.
+
+### Trees grow back
+
+Chopping down a tree on a Nomads map leaves a **tree stump**. Outside winter, a stump slowly grows back into the same kind of tree, usually over a few hours, while nobody is nearby. To keep cleared land clear, dig the stump out with a shovel or chop it with a hatchet.
+
 To farm, you will require some basic tools.
 
 <table>
