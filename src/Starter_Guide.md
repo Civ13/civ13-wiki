@@ -136,6 +136,8 @@ Milk is regenerated in animals over time. Keep them alive and you'll never go th
 <img src="images/hud_mood.png"><br>
 Click this icon to see your current mood and **[hygiene](guides/Guide_to_Hygiene.md)** levels. When you need to go to the toilet, it also tells you exactly how to relieve yourself.
 
+The same click lists what has been affecting your mood lately, such as the food you ate, fleas, hard work or seeing someone die. Each cause shows whether it is lifting or lowering your mood, how strongly, and whether it is still ongoing or fading. Chat also tells you when a cause starts to change your mood and when it no longer does, and when the mood icon changes it names the main reason.
+
 If you constantly feel depressed or hear weird audio randomly, your mood is very low. Here are ways to improve it:
 
 1. Drugs, such as cocaine and opium. Smoking tobacco also helps.
