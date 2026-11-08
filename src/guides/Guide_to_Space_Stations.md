@@ -9,12 +9,12 @@ Everything here is in the crafting menu's **spaceflight** section.
 | Node (Industrial) | Unlocks |
 | --- | --- |
 | **Crewed Flight** | Launch pad, crewed lander |
-| **Orbital Flight** (after Crewed Flight) | Rockets, launch complex office, orbit console, truss, safety tether, orbital workshop kit, node module kit, sector beacon, edge coupler, reboost thruster, solar wings and arrays, radioisotope generator, fuel cell, radiator |
+| **Orbital Flight** (after Crewed Flight) | Rockets, launch complex office, orbit console, truss, safety tether, orbital workshop kit, node module kit, sector beacon, edge coupler, reboost thruster, solar wings and arrays, radioisotope generator, fuel cell, radiator, cargo freighter |
 | **Sealed Habitats** (after Crewed Flight) | Habitat, greenhouse, workshop, storage and airlock module kits, hull patch kit |
 | **Life Support** (after Sealed Habitats) | CO2 scrubber, heater, electrolyser, water recycler, oxygen reclaimer, sorbent cartridge |
 | **Pressure Suits** (after Sealed Habitats) | Pressure suit, helmet, suit air tank, suit patch kit |
 
-The station transceiver is researched like the long-range radio relay (see [Communications](Guide_to_Communications.md)).
+The station transceiver is researched like the long-range radio relay (see [Communications](Guide_to_Communications.md)). The methalox plant is unlocked with the propellant plant.
 
 ## Getting to orbit
 
@@ -76,7 +76,22 @@ The **reboost thruster** (25 electronics) climbs 20 km per burn, using 20 units 
 
 ## Reusable rockets (from 2026)
 
-The **reusable rocket** (120 electronics) carries eight crew and a ten-item hold to orbit. After each launch its booster lands back beside the pad with an empty tank and some wear. A worn booster will not fly until you repair it with steel sheets. The crew ship arrives as a capsule that takes all eight crew home in one deorbit.
+The **reusable rocket** (120 electronics) carries eight crew and a ten-item hold to orbit. After each launch its booster lands back beside the pad with an empty tank and some wear. A worn booster will not fly until you repair it with steel sheets. The crew ship arrives as a capsule that takes all eight crew home in one deorbit. It burns rocket propellant or methalox, and a flight on methalox wears the booster half as much.
+
+## Cargo freighter (from 2013)
+
+The **cargo freighter** (60 electronics) is a rocket with no crew. It flies a hold of up to 20 items to another world for your party. Build it beside an approved launch pad and load the hold by using items on it. The hold takes the same goods as a lander's hold. Fill it with 200 units of rocket propellant or methalox, then use it and choose **Launch**. The freighter is used up.
+
+- **To orbit**, the cargo lands in a crate beside your station's return hatch.
+- **To another world**, it lands beside your party's launch complex office there, or at that world's usual arrival point.
+- If the other world turns the flight away, the crate comes back to where the freighter stood.
+
+## Methalox
+
+**Methalox** is a cleaner rocket fuel made from methane and oxygen. The reusable rocket and the cargo freighter burn it. A tank holds one fuel at a time, so fly a craft before you switch it to the other fuel.
+
+- **In a lab:** mix carbon dioxide with hydrogen (1 to 4) for methane, then methane with oxygen (1 to 2) for methalox.
+- **Methalox plant** (50 steel): load water ice, cable it, and draw methalox with a container. Each piece of ice also needs carbon dioxide. Outside on Mars the plant takes it from the air. Inside a habitat module it takes the CO2 the crew breathe out, so it also helps the scrubber.
 
 ## Other worlds and radio
 
