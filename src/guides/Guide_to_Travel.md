@@ -79,6 +79,18 @@ Party members board at the station office. The trip takes you, with what you can
 - Use your **berth marker** to ride back to the land your party came from. You arrive at your party's station.
 - If the yard is full, a party that has never ridden its train cannot board until a berth frees up.
 
+### Train freight
+
+Your party's station office doubles as a freight office. Use it to **load** goods onto the train and **unload** them later. A train carries up to **30 shipments**.
+
+- **Load what you hold** ships the item in your active hand, with anything inside it.
+- **Load a crate next to the office** ships a closed crate standing beside the office, with everything in it (up to 60 items).
+- **Unload a shipment** brings one back to your feet, inside the same kind of crate if it went in one.
+
+Loaded goods leave the map, so they cannot rot, burn or be stolen, and they are saved with the world. Only members of the train's party can load or unload. Freight stays with the office in the land you loaded it in; it does not travel to the rail yard.
+
+Most everyday goods can be shipped: clothing, guns (with their rounds), bags and what is in them, tools, material sheets, ore, coins, medical stacks, untouched food and drink, and magazines. If anything in a shipment cannot be shipped, nothing goes, and you are told which items to take out.
+
 ### Raiding a train
 
 Other parties in the yard can force a train's doors with weapons, kicks, gunfire or explosives, but **only while a member of the owning party is playing in the yard**. While the owners are away, the doors are sealed. A door gives way after enough damage (gunfire counts for half), then stays open; it is never destroyed. A member of the owning party secures a forced door again by hand.
