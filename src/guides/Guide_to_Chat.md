@@ -42,4 +42,6 @@ time you play.
   see who is hitting whom during a fight.
 - Each kind of chat keeps its own recent history, so a busy fight will not
   push older OOC or dead chat lines out of their tabs.
+- On a server linked to other lands, OOC from another land shows that land's
+  name in brackets, such as **[Gaia]** (see [Travel Between Lands](Guide_to_Travel.md#talking-to-other-lands)).
 - See [Hotkeys](../Hotkeys.md) for the keys that open the chat input bar.

@@ -13,6 +13,10 @@ Your character lives in one land at a time, its **home**.
 - **Travelling moves your home** with your character.
 - **When you die,** your home stays in the land where you died if you have an assigned bed there, and your next character starts beside that bed. Without a bed, your home goes back to the mainland. Sleep in a free bed to make it yours (see [Saving your character](../Starter_Guide.md#saving-your-character)).
 
+## Talking to other lands
+
+**OOC chat is shared by every land in the group.** An OOC message you send shows in every other land too, marked with the name of the land it came from, such as **[Gaia]**. Lines from your own land have no mark. Everything said in character stays in its own land; radio reaches another land only through a working long-range relay station at both ends.
+
 ## Using a trail
 
 Trails are the posts and gates that lead to other lands. Examine one to see where it leads, or why it is closed.
