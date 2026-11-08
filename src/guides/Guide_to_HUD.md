@@ -60,6 +60,15 @@ and when you pick a size from the **Icons** menu. To keep the width you set
 by dragging the divider, turn off **Auto-adjust game screen** in your
 preferences. Dragging the divider never triggers a refit by itself.
 
+## Hover names
+
+Point the mouse at anything you can see, such as a tree, an animal, a person
+or an item in your hands or an open bag, and its name appears in a small
+panel just below the cursor. The panel follows the mouse, moves above the
+cursor near the bottom of the screen and is always drawn on top of the HUD.
+People wearing masks show the name you can actually see. Trees deep in a
+forest show their names too, as long as you can see part of their canopy.
+
 ## Good to know
 
 - Your layout and scale are saved with your player preferences, so they
