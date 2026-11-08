@@ -37,7 +37,7 @@ Squad leaders, officers and commanders can call an order to the allies around th
 
 The order lasts 20 seconds from a squad leader and longer from officers and commanders. You shout the order, a short word floats over your head, and everyone who receives it gets a message. After giving an order you must wait one minute before the next.
 
-Carry a **whistle** to make orders stronger: they reach 10 tiles instead of 7, last longer and blow the whistle, but you must wait 90 seconds before the next one. Orders from several leaders do not stack; your allies keep the strongest one.
+Carry a **whistle** to make orders stronger: they reach 10 tiles instead of 7, last longer and blow the whistle, but you must wait 90 seconds before the next one. Orders from several leaders do not stack; your allies keep the strongest one. Giving an order within 2 tiles of a flag (a flagpole with a flag on it) also makes it stronger and lets it reach 2 more tiles.
 
 ## Tactical map
 
@@ -52,6 +52,10 @@ Officers, commanders and squad leaders have **Tactical Map** in the **Officer** 
 Officers and commanders can draw on the map. Pick a marker from the buttons above the map, then click where it goes. **Erase** removes the marker nearest your click (within a few tiles), and **Clear all** removes every marker. Your side keeps up to 24 markers on each level; placing another removes the oldest. Other officers and squad leaders on that level are told in chat when a marker is placed or the map is cleared, and anyone with the map open sees the change at once. Squad leaders can read the map but not draw on it.
 
 The map closes if you are knocked out or die. If you change level, it switches to the new level.
+
+## Radio codes
+
+In team rounds, squad leaders, officers, commanders and radio operators spawn with their side's **codebook**. It lists ten call-and-response pairs that last for the whole round. To check that a voice on the radio is a friend, say a call and wait for its matching response. Keep the codes off open channels.
 
 ## Officers, scouts and coordinates
 
