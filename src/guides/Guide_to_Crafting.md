@@ -1084,6 +1084,16 @@ Once you have **Automobiles**, you can craft a vehicle garage from **20 steel** 
 
 You need to hold the car's key to put it away and to take it out. Examine the post to see what it holds. Stored cars survive saves, so a car in a garage is safe from thieves and weather until you come back for it. The garage takes cars only. Planes go in the [aircraft hangar](Guide_to_Aircraft.md#hangaring-a-plane).
 
+### Safe house depot
+
+Once you have **Carts**, you can craft a safe house depot from **20 soft wood** in the logistics category. It ships goods off to your **safe house**: your faction's, or your own if you have no faction. Shipped goods leave the map until you recall them, so they cannot rot, burn or be stolen, and they survive saves.
+
+1. Hold an item, or push a **closed crate** next to the depot.
+2. Click the depot and choose **Ship what you hold** or **Ship a crate next to the depot**. Stay beside it for a few seconds.
+3. To get goods back, choose **Recall a shipment**. It appears at your feet, inside the same kind of crate if it went in one.
+
+Every depot in a land opens onto the same safe house, so you can ship at one and recall at another. A party keeps up to **20 shipments**, and nobody outside your party can see or take them. Depots cannot be taken apart, burned or blown up. Examine a depot to see what your safe house holds. What can be shipped is the same as for [train freight](Guide_to_Travel.md#train-freight).
+
 ### Motorcycles
 
 <hr>
