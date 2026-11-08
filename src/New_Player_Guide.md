@@ -8,6 +8,12 @@ Welcome to Civ13. Please take a moment to [read the server rules](rules/Rules.md
 
 You are welcome to ask questions and make mistakes while learning. Use mentorhelp for gameplay questions and adminhelp for rule concerns or problems. Our [Mission and Community Standards](Mission_and_Community_Standards.md) explain the community we want to build together.
 
+### Reporting Bugs
+
+Found something broken? Use **Help > Report bug** in the menu bar (or the **Report Bug** verb in the Help! tab). Give a one-line summary, then describe what happened, how to make it happen again and what should have happened instead. Your BYOND key, the server, map, round and where you were standing are attached for you.
+
+An admin reviews each report. Once approved it becomes an issue on the [Civ13 GitHub](https://github.com/Civ13/Civ13/issues) for the developers, and you get the link in chat if you are online. If it is closed instead, you are told why. You can have up to three reports waiting at a time, a few minutes apart.
+
 ### Joining a Server
 
 If you already have the BYOND client installed, skip to the server links below.
