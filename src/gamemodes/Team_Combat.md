@@ -33,6 +33,10 @@ Right-click a fallen soldier and choose **Take Dog Tags** to take their named ta
 
 Red, green, yellow and purple **signal smoke grenades** mark a position, a landing zone or a target in thick coloured smoke. Agree on what each colour means with your team before the fight. They call in nothing by themselves. Craft one from **2 tin** in the **Weapons** menu after **Automatic Weapons** research, where crafting is available.
 
+## Mine detector
+
+Armed mines are hard to see. Craft a **mine detector** from **2 electronics** in the **Tools** menu after **Electricity** research, where crafting is available. Switch it on and hold it. It beeps once when an armed mine is within five tiles, twice within three tiles and three times right next to one, and it circles the mines within three tiles for you. Disarm a mine with wirecutters, or dig it up carefully.
+
 ## Grace periods and roleplay
 
 A barrier opening or timer ending tells you when an area becomes accessible; it does not by itself establish permission to attack in a roleplay scenario. Follow both the briefing and the [Rules](../rules/Rules.md). Do not assume a timer or capture mechanic from another map applies to the current round.
