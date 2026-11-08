@@ -9,7 +9,7 @@ Everything here is in the crafting menu's **spaceflight** section.
 | Node (Industrial) | Unlocks |
 | --- | --- |
 | **Crewed Flight** | Launch pad, crewed lander |
-| **Orbital Flight** (after Crewed Flight) | Rockets, launch complex office, orbit console, truss, safety tether, orbital workshop kit, node module kit, sector beacon, edge coupler, reboost thruster, solar wings and arrays, radioisotope generator, fuel cell, radiator, cargo freighter |
+| **Orbital Flight** (after Crewed Flight) | Rockets, launch complex office, orbit console, truss, safety tether, orbital workshop kit, node module kit, sector beacon, edge coupler, reboost thruster, solar wings and arrays, radioisotope generator, fuel cell, radiator, cargo freighter, satellite launcher, ground station, satellites, GPS receiver |
 | **Sealed Habitats** (after Crewed Flight) | Habitat, greenhouse, workshop, storage and airlock module kits, hull patch kit |
 | **Life Support** (after Sealed Habitats) | CO2 scrubber, heater, electrolyser, water recycler, oxygen reclaimer, sorbent cartridge |
 | **Pressure Suits** (after Sealed Habitats) | Pressure suit, helmet, suit air tank, suit patch kit |
@@ -85,6 +85,17 @@ The **cargo freighter** (60 electronics) is a rocket with no crew. It flies a ho
 - **To orbit**, the cargo lands in a crate beside your station's return hatch.
 - **To another world**, it lands beside your party's launch complex office there, or at that world's usual arrival point.
 - If the other world turns the flight away, the crate comes back to where the freighter stood.
+
+## Satellites
+
+A **satellite launcher** (50 electronics) puts one satellite into orbit for your world. Build a **ground station** (25 electronics) within 7 tiles of your launch pad. Point the approved pad at orbit, load a satellite into the launcher and fill it with 150 units of rocket propellant or methalox, then use it and choose **Launch**. The satellite then works through that ground station. A ground station holds one satellite of each kind.
+
+| Satellite | From | What it does |
+| --- | --- | --- |
+| **Weather satellite** (30 electronics) | 1969 | Use the ground station to read the weather, the next season and how long until it starts, and storms on the way. |
+| **Comms satellite** (30 electronics) | 1969 | Long-range relays within 7 tiles of the ground station need no antenna and wear half as fast. |
+| **Navigation satellite** (40 electronics) | 2013 | **GPS receivers** (5 electronics) in your world show where you are and point you to up to five saved waypoints. |
+| **Survey orbiter** (40 electronics) | 1969 | Point the pad at the Moon or Mars instead, with a mission console within 7 tiles. The orbiter maps the whole world for the console and marks up to six flat landing sites. |
 
 ## Methalox
 
