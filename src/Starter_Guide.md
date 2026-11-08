@@ -258,8 +258,9 @@ While the map is saving, you cannot move between z-levels (for example up or
 down stairs, ladders or holes to another level). Each level is saved in turn:
 while yours is being saved you are held still for a moment, and you can still
 look around and chat. A message tells you when your level is saved and you can
-carry on. When the server moves to an updated build, your level stays held from
-when it is saved until the move finishes, so nothing you do is lost.
+carry on. When the server moves to an updated build, the same happens, but
+anything you do after your level is saved does not carry over to the updated
+server.
 
 You can also save someone else if they faint in the middle of the street. **Buckling to a bed slows the increase of thirst and hunger**, so the buckled person will live longer and even indefinitely if cared for with food and water regularly.
 
