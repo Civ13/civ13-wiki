@@ -16,9 +16,15 @@ A small arrow around your character points to your squad leader, in your squad c
 
 ### Fire teams and the roster
 
-Squad leaders can split their squad into **fire teams** 1, 2 and 3, each with one leader. Open **Roster** in the IC tab, then click a team number next to a person to put them in that team, **none** to take them out, or **lead** to make them the team's leader. Teammates you can see show a numbered badge (gold for the leader), and examining someone shows their team. The tracker arrow points fire team members to their fire team leader, and fire team leaders to the squad leader. Fire teams reset when the server restarts. Officers and commanders can do the same for every squad on their side.
+Squad leaders can split their squad into **fire teams** 1, 2 and 3, each with one leader. Open **Roster** in the IC tab, then click a team number next to a person to put them in that team, **none** to take them out, or **lead** to make them the team's leader. Teammates you can see show a numbered badge (gold for the leader), and examining someone shows their team. The tracker arrow points fire team members to their fire team leader, and fire team leaders to the squad leader. Squad fire teams last for the round. Officers and commanders can do the same for every squad on their side.
 
 The **Roster** also lists each person's condition (fine, wounded, down or dead), distance and direction. A soldier in a fire team sees their own team in it.
+
+### Spotting enemies and rally points
+
+Right-click a tile, a person or an object you can see and choose **Spot Enemy** to warn your fire team, squad and faction. They get a chat message with the distance and direction from them, and they see a flashing red marker there for 30 seconds. You can spot once every 5 seconds.
+
+Squad leaders, fire team leaders and faction leaders can choose **Rally Point** in the IC tab to plant a green rally point where they stand. For ten minutes their people see the marker, and their tracker arrow turns green and points to it instead of to their leader. Use **Rally Point** again to move it or choose **Clear** to remove it. If you lead more than one group, you pick which one the rally point is for.
 
 | Command | Who gets it | What it does |
 | --- | --- | --- |

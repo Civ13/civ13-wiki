@@ -1454,3 +1454,5 @@ Remember to restart the engine to power newly connected lights to the existing p
 </tr>
 </tbody>
 </table>
+
+A **searchlight** (6 steel, in the **Electrical** menu after **Utilities** research) lights the ground up to six tiles ahead, stopping at walls. It needs no cable. Click it to switch it on or off, and right-click it and choose **Turn Searchlight** to turn it a quarter turn. It is useful for watching a gate or a field at night.
