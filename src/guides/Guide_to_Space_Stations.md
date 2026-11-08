@@ -9,7 +9,7 @@ Everything here is in the crafting menu's **spaceflight** section.
 | Node (Industrial) | Unlocks |
 | --- | --- |
 | **Crewed Flight** | Launch pad, crewed lander |
-| **Orbital Flight** (after Crewed Flight) | Rockets, launch complex office, orbit console, truss, safety tether, orbital workshop kit, node module kit, sector beacon, edge coupler, reboost thruster, solar wings and arrays, radioisotope generator, fuel cell, radiator, cargo freighter, satellite launcher, ground station, satellites, GPS receiver, docking port |
+| **Orbital Flight** (after Crewed Flight) | Rockets, launch complex office, orbit console, truss, safety tether, orbital workshop kit, node module kit, sector beacon, edge coupler, reboost thruster, solar wings and arrays, radioisotope generator, fuel cell, radiator, cargo freighter, satellite launcher, ground station, satellites, GPS receiver, docking port, microgravity lab |
 | **Sealed Habitats** (after Crewed Flight) | Habitat, greenhouse, workshop, storage and airlock module kits, hull patch kit |
 | **Life Support** (after Sealed Habitats) | CO2 scrubber, heater, electrolyser, water recycler, oxygen reclaimer, sorbent cartridge |
 | **Pressure Suits** (after Sealed Habitats) | Pressure suit, helmet, suit air tank, suit patch kit |
@@ -70,6 +70,18 @@ A **docking port** (30 steel) lets other parties visit. Set it up inside your st
 - **Parcels.** Holding an item at a port that welcomes you, choose **Leave a parcel** to leave it for that station's owners. Owners can leave parcels at their own port for any guest party. Each party collects its own parcels at that port.
 
 Visitors cannot fire your thruster, steer your pods, build decks or sectors, or use your orbit console's winch.
+
+## Zero-g manufacturing
+
+A **microgravity lab** (40 electronics) makes goods worth flying home in a freighter. It only works in orbit, standing inside a sealed module, with a cable run to it, and only while players are online. Load it by using a stack on it (up to 200 of each feedstock), then click it to pick what to grow. Each batch takes about a minute:
+
+| Programme | Feedstock per batch | Product |
+| --- | --- | --- |
+| Semiconductor crystals | 6 glass + 1 copper | 3 electronics |
+| Protein crystals | 5 bruise packs | 5 advanced bruise packs |
+| Gem crystals | 20 coal | 1 rough diamond |
+
+Examine the lab to see its programme, what is loaded and why it is stopped. A breach or a cut cable pauses it; switching programme starts the batch over but keeps the feedstock.
 
 ## Keeping it up
 
