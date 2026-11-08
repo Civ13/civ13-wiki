@@ -62,8 +62,20 @@ People on the ground can shoot at a plane as it passes over them:
 
 Every hit tears the airframe and can break a wheel, and hits on the nose can stop the engine. When accumulated damage reaches the airframe's limit the plane fails and comes down as a crash landing. Examine the plane to read its damage, and **weld** any frame section on the ground to mend the airframe. Broken wheels are welded on their own frame section, as on any modular vehicle.
 
+## Hangaring a plane
+
+The aircraft hangar also stores up to **2 planes** off the map. A plane in the hangar is not on the airfield, so it cannot be shot, stolen or caught by a save while it is in the air.
+
+1. Land, then taxi the plane into the 4x4 bay to the northeast of the hangar, where planes are built. The whole airframe has to be inside the bay. Runway under the bay is fine.
+2. Switch the engine off, get everyone out and take loose items off it.
+3. Click the hangar and choose **Hangar the parked aircraft**. Stay next to it for a few seconds.
+4. To fly again, clear the bay and choose **Roll out a hangared aircraft**. The plane comes back where it was parked, with the same fuel and damage.
+
+You need to hold the plane's key to hangar it and to roll it out. Examine the hangar to see which planes it holds. Cars go in a [vehicle garage](Guide_to_Crafting.md#vehicle-garage).
+
 ## Tips
 
+- Hangar the plane when you are done flying. A hangared plane is kept safe across saves.
 - Land before a save. A plane saved in the air is set down on the ground below when the world loads, and that is a hard landing with broken wheels unless the ground directly beneath it is clear.
 - Keep a second runway at the far end of your trips; forced landings are expensive.
 - Build the runway right out of the hangar bay. The plane is delivered facing south on the 4x4 square northeast of the hangar, so a strip running south from there is the shortest taxi.
