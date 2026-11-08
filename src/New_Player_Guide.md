@@ -30,6 +30,22 @@ You can also play through **Civ13.exe**, the Civ13 launcher, from the [Civ13 rel
 
 Check [Hotkeys](Hotkeys.md).
 
+### Practice Room
+
+To try the controls before your first round, choose **Practice Room** in the Lobby. You get a private room and a practice body called "Trainee". Nothing you do there affects your real character. One step at a time appears in chat:
+
+1. Walk onto the glowing marker with W, A, S, D or the arrow keys.
+2. Pick up the knife by clicking it with an empty hand.
+3. Swap hands with X.
+4. Pick up the straw hat and wear it.
+5. Open the door in the middle wall and walk through.
+6. Choose the red Harm intent (press 4) and hit the practice dummy.
+7. Bandage the small cut on your left arm: pick up the gauze, select your left arm on the body doll, then click yourself.
+8. Eat the bread slice by clicking yourself with it.
+9. Walk onto the exit marker.
+
+When you reach the exit you return to the Lobby. You can leave at any time with **Leave Practice Room** in the IC tab, and **Practice Instructions** repeats the current step. If the world starts saving, the practice room closes and sends you back to the Lobby. If every room is busy, try again in a few minutes.
+
 ### Your first round
 
 Use the [Game Modes Overview](gamemodes/Game_Modes.md) to find your scenario's first steps and detailed guide.
