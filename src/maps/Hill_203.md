@@ -9,6 +9,16 @@ Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/do
 </figcaption>
 </figure>
 
+## Changes each round
+
+The two slopes on either side of the hilltop can change from round to round. Each slope is either left as it is or gets one of these, picked before the round starts:
+
+- **Barbed wire belts:** rows of wire with gaps run across the slope.
+- **Shelled ground:** artillery craters with rubble heaps scattered over the slope.
+- **Sandbag nests:** abandoned two-wide sandbag nests, half facing each side.
+
+Every change is mirrored, so both armies meet the same obstacles. When a slope has changed, a line in chat says so in the lobby and again when the round starts.
+
 ### How to contribute
 If you have information about this map, please help us by [editing this page](https://github.com/civ13/civ13-wiki/edit/master/src/maps/Hill_203.md).
 You will need a GitHub account to propose changes.
