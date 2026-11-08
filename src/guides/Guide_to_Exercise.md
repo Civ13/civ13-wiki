@@ -33,6 +33,12 @@ The course marker sets out a three-tile square to its northeast.
 
 A set is **four corners**. You need room for the whole square around the marker.
 
+## Floor exercises
+
+No equipment? Use **Floor Exercise** in the IC tab and choose **Push-ups** (strength) or **Sit-ups** (stamina). A set is **three repetitions of 8 seconds**. Stay still on dry ground until it finishes.
+
+Floor exercises train more slowly than equipment and stop at **1.0**. Past that you need weights or a course. They use the same fatigue as equipment, and you cannot do them while you have an unfinished set on a piece of equipment.
+
 ## Fatigue and rest
 
 - Each completed set adds **2 fatigue**, up to a maximum of 6. At 6 you are too tired to train.

@@ -816,7 +816,7 @@ Before working, **unload the chamber and internal ammunition, remove the inserte
 | Part | Required tool or station |
 | --- | --- |
 | Optic or optic rail | Screwdriver in your inventory |
-| Underbarrel grip or launcher | Adjacent, anchored firearm maintenance bench |
+| Underbarrel grip, bipod or launcher | Adjacent, anchored firearm maintenance bench |
 | Compatible bayonet or suppressor | Hand installation |
 
 Use **Field Strip** to select a part to remove; the same tool rules apply. Integrated iron sights remain installed, and removed parts drop at your feet. **Remove an optic before removing its adapter.**
@@ -828,6 +828,12 @@ Craft the adapter from **2 steel** in the **Tools** menu with **Gunsmithing**, i
 The adapter fits one empty native dovetail optic slot on a gun without a native Picatinny mount. It physically hosts **one Picatinny optic**. It does not add a second optic slot, accept another adapter, change caliber or ammunition, or alter magazine, suppressor or underbarrel compatibility.
 
 The rail adds **0.15 weight**. Attachments retain their ergonomics factors, while added rail and part weight reduces handling through effective ergonomics. The existing firing-dispersion calculation uses that value, so more hardware is a handling tradeoff.
+
+### Bipod
+
+Craft a bipod from **2 steel** in the **Weapons** menu after **Gunsmithing**. It fits the underbarrel rail of rifles and machine guns that have a Picatinny underbarrel mount, and you fit it at a firearm maintenance bench.
+
+The bipod is **braced** when you have kept still for a second and are either lying prone or facing something solid right in front of you, such as a wall, sandbags, a table or a barricade. A braced gun has much less recoil and spread. On the move the bipod does nothing and makes the gun slightly harder to handle. Examine the gun to see whether it is braced.
 
 ### Cleaning and repairs
 
@@ -898,7 +904,7 @@ Some guns require you to remove spent casings before reloading. Check the gun's 
 
 ### WW1/WW2/Modern Guns
 
-Insert a compatible magazine and chamber a round as required by the gun. Check the firing mode before engaging.
+Insert a compatible magazine and chamber a round as required by the gun. Check the firing mode before engaging. Examine a gun while you hold it to count the rounds left, and a reload shows the new count above the gun.
 
 **Ammunition handling:**
 
