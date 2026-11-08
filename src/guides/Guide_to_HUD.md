@@ -48,6 +48,18 @@ corner of the screen stay there if your game window changes size.
   leaves your locked tiles alone.
 - **All tiles and the HUD scale** brings back the standard layout at 100%.
 
+## Fitting the game window
+
+If black bars appear beside the map after you resize the window, choose
+**Icons > Fit viewport (remove black bars)** from the menu bar, or use the
+**Fit Viewport** verb in the OOC tab. The map pane snaps to the width of the
+view and the chat and status panel take the rest.
+
+The game also refits on its own whenever you resize or maximize the window,
+and when you pick a size from the **Icons** menu. To keep the width you set
+by dragging the divider, turn off **Auto-adjust game screen** in your
+preferences. Dragging the divider never triggers a refit by itself.
+
 ## Good to know
 
 - Your layout and scale are saved with your player preferences, so they
