@@ -49,6 +49,8 @@
 
 - **Shouting:** a quick way to alert nearby players. Tell them what help you need.
 
+- **Megaphone:** hold one in either hand and your speech carries twice as far. See [Crafting](Guide_to_Crafting.md#more-tools-and-everyday-items).
+
 - **Bone horn:** blow it to signal a charge or an enemy invasion.
 
 - **Campfire:** use a cloth or leather sheet on a lit campfire to make smoke

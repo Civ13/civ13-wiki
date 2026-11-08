@@ -177,6 +177,11 @@ Pioneers, only the Blacksmith can use the anvil.
 - **Saw:** 3 iron, in the tools category, once your civilization has reached the Bronze Age. Woodworking and hide work accept it like a hatchet.
 - **Leather gloves:** 3 leather, in the gloves category, in every age.
 - **Found items you can now make:** screwdriver, lockpick, legcuffs, tin whistle, police tape, bag valve mask, empty pill pack (fill it by hand with up to 6 pills of one kind), stethoscope, glass jar, small telescope, shamisen, pencil, fancy pen, comb, black and purple lipstick, video camera and bar stools in eight colours, each behind its matching research. Mixing 20 corn oil with 2 lye makes a bar of soap, and 20 olive oil with 2 lye makes deluxe soap (see [Hygiene](Guide_to_Hygiene.md#soap)).
+- **Megaphone:** 3 steel, in the tools category, after Electricity. Hold it in either hand and your speech carries 14 tiles instead of 7.
+- **Glowsticks:** 1 plastic each, in green, blue, red or yellow, after Synthetics. Use one in hand to bend it and it glows for about half an hour. It cannot be switched off, gives off no heat and cannot set anything alight.
+- **Tripwire alarm:** 2 tin, in the tools category, after Basic Tools. Use it in hand to stretch it across the tile you stand on. Tin cans rattle loudly when anyone outside your civilization (or your team, in team rounds) walks through. Click it to take it down again.
+- **Display case:** 6 glass, after Glassworking. Click it with an item to put the item on show, and click it with an empty hand to take the item back. Use a key on it to lock it, as with a crate. Smashing the glass breaks the lock.
+- **Labels:** with a pen in your hand, right-click a crate, closet, barrel or bag and choose **Write Label** to add up to 24 letters to its name. Leave the label empty to remove it.
 - **Crafted flint axes and stone hatchets** go straight into your empty active hand when possible.
 
 ## Resources
