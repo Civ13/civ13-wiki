@@ -78,6 +78,14 @@ Smelt tin ore; alloyed with copper it makes bronze.
 
 Copper and tin alloyed in the furnace; the Bronze Age standard for weapons, armor and tools.
 
+### Zinc
+
+Melt calamine (zinc ore) on its own; used for zinc electroplating and, alloyed with copper, for brass.
+
+### Brass
+
+Copper and calamine alloyed in the kiln, from 313 B.C.; used for ammunition casings, the trombone and handbell, globes, razor blades and statues.
+
 ### Iron
 
 Smelt iron ore; stronger than bronze and the base of most medieval and later recipes.

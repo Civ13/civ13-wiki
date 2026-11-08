@@ -337,6 +337,7 @@ holding a hammer in the other hand.
 </tr><tr align="center">
 <td><img src="../images/ore_copper.png"><img src="../images/sheet_copper.png"></td>
 <td><img src="../images/ore_tin.png"><img src="../images/sheet_tin.png"></td>
+<td><img src="../images/ore_zinc.png"><img src="../images/sheet_zinc.png"></td>
 <td><img src="../images/ore_iron.png"><img src="../images/sheet_iron.png"></td>
 <td><img src="../images/ore_lead.png"><img src="../images/sheet_lead.png"></td>
 <td><img src="../images/ore_gold.png"><img src="../images/sheet_gold.png"></td>
@@ -348,6 +349,7 @@ holding a hammer in the other hand.
 <tr align="center">
 <td><b><a href="../Full_Crafting_List.md#copper">Copper</a></b></td>
 <td><b><a href="../Full_Crafting_List.md#tin">Tin</a></b></td>
+<td><b><a href="../Full_Crafting_List.md#zinc">Calamine (zinc)</a></b></td>
 <td><b><a href="../Full_Crafting_List.md#iron">Iron</a></b></td>
 <td><b><a href="../Full_Crafting_List.md#lead">Lead</a></b></td>
 <td><b><a href="../Full_Crafting_List.md#gold">Gold</a></b></td>
