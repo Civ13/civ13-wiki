@@ -49,7 +49,7 @@ You can take at most 40 items. If something cannot travel, the trail lists what 
 
 ## Marking out a new trail
 
-Anyone can build a **trail marker** from **10 wood** (construction section). A new marker is closed.
+Anyone can build a **trail marker** from **10 wood** (construction section). Trails leave the land at its edge, so the marker must be built **outdoors, on the ground, within 10 tiles of the edge of the map**. Anywhere else, including indoors, in caves or on upper floors, the build is refused before any wood is used. A new marker is closed.
 
 1. Use it and choose the land the trail should lead to.
 2. The staff are asked to approve it. They may approve it, change where it leads, or reject it.
