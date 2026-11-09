@@ -72,6 +72,9 @@ cursor near the bottom of the screen and is always drawn on top of the HUD.
 People wearing masks show the name you can actually see. Trees deep in a
 forest show their names too, as long as you can see part of their canopy.
 
+To hide the panel completely, use **Toggle Hover Text** in the **OOC** tab.
+Use it again to bring the panel back. The game remembers your choice.
+
 ## Good to know
 
 - Your layout and scale are saved with your player preferences, so they
