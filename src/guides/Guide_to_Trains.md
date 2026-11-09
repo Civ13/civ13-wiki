@@ -40,6 +40,7 @@ Wartime cars (see [Wartime cars](#wartime-cars)):
 | Cabin wagon | 4 iron | A covered seat for the driver or passengers. |
 | Flatbed wagon | 4 iron | Carries people, crates and structures. |
 | Transport wagon | 5 iron | A covered storage wagon (8 slots). |
+| Rail warehouse office | 15 iron | Stores cars and whole trains (see [Rail warehouse](#rail-warehouse)). |
 
 Switchers, rotators, levers and wagons are placed facing the way **you** face, so stand looking along the line before you build them. Plain track shapes itself (see below).
 
@@ -162,6 +163,19 @@ To couple the car, right-click its front end and choose **Hitch**, the same as a
 ### Taking a car apart
 
 Stop the train, uncouple the car from the cars on both sides and clear everything off its deck, furniture included. Then use a **crowbar** on the car to pack it back into a kit. A kit that was taken apart comes back without furniture, so keep the furniture you removed and put it back aboard.
+
+## Rail warehouse
+
+A rail warehouse stores cars and locomotives off the line, together with everything on board, so a yard doesn't need long sidings. Trains drive straight through it: unload cars from the back of a train, or couple stored cars back on to make up a new one.
+
+![A train standing in a rail warehouse: a locomotive pulling a storage car, a passenger coach and a loaded platform car, with the office post in the wall beside the track](../images/civ13-rail-warehouse.png)
+
+1. **Build the office** (15 iron; **Rail & Steam** node, or industrial research **101**) facing the track, with **one tile between the office and the rails**. The track running past it, **six tiles each way**, is the warehouse bay (13 tiles, room for three platform cars and a locomotive). Use a wrench on an empty office to turn it. Build walls and a roof around the bay if you like, but leave the track open at both ends and keep a clear tile either side of the rails.
+2. **Drive the train in** and stop it with the cars you want to put away inside the bay. Get everyone off them.
+3. **Use the office.** Choose a car to put away, or **Put away the whole train**. Cars always come off the **back** of the train: whatever is standing on a car goes with it, crates and their contents included.
+4. **Couple a car back on** from the same menu. It rolls onto the track behind the train in the bay and is hitched to it. If the bay is empty, it rolls to the far end.
+
+The office holds 8 cars or locomotives. It won't take a moving train, a car that sticks out of the bay, a car with people aboard, or a railway gun car with its outriggers down.
 
 ## Through station and service loop
 
