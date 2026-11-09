@@ -9,7 +9,7 @@ Everything here is in the crafting menu's **spaceflight** section.
 | Node (Industrial) | Unlocks |
 | --- | --- |
 | **Crewed Flight** | Launch pad, crewed lander |
-| **Orbital Flight** (after Crewed Flight) | Rockets, launch complex office, orbit console, truss, safety tether, orbital workshop kit, node module kit, sector beacon, edge coupler, reboost thruster, solar wings and arrays, radioisotope generator, fuel cell, radiator, cargo freighter, freight dispatcher, satellite launcher, ground station, satellites, GPS receiver, docking port, microgravity lab, hull armour plate, point-defence turret |
+| **Orbital Flight** (after Crewed Flight) | Rockets, launch complex office, orbit console, truss, safety tether, orbital workshop kit, node module kit, sector beacon, edge coupler, reboost thruster, solar wings and arrays, radioisotope generator, fuel cell, radiator, cargo freighter, freight dispatcher, satellite launcher, ground station, satellites, GPS receiver, docking port, microgravity lab, orbital refinery, hull armour plate, point-defence turret |
 | **Sealed Habitats** (after Crewed Flight) | Habitat, greenhouse, workshop, storage and airlock module kits, hull patch kit |
 | **Life Support** (after Sealed Habitats) | CO2 scrubber, heater, electrolyser, water recycler, oxygen reclaimer, sorbent cartridge |
 | **Pressure Suits** (after Sealed Habitats) | Pressure suit, helmet, suit air tank, suit patch kit |
@@ -98,6 +98,19 @@ A **microgravity lab** (40 electronics) makes goods worth flying home in a freig
 
 Examine the lab to see its programme, what is loaded and why it is stopped. A breach or a cut cable pauses it; switching programme starts the batch over but keeps the feedstock.
 
+### Orbital refinery
+
+An **orbital refinery** (35 electronics) smelts asteroid ore on the station, with no fuel, so it doesn't have to fly home first. Like the lab, it only works in orbit, inside a sealed module, with a cable run to it, and while players are online. Use ore on it to load it (up to 100 of each kind), or feed it from a conveyor belt. It drops up to four pieces of metal beside itself about every 20 seconds, and belts and arms can carry that away:
+
+| Ore | Product |
+| --- | --- |
+| 2 iron ore | 1 steel sheet |
+| 1 copper ore | 1 copper ingot |
+| 1 silver ore | 1 silver ingot |
+| 1 gold ore | 1 gold ingot |
+
+It takes no water ice; melt that in an ice melter or an electrolyser. Use or examine the refinery to see what it holds and why it is stopped.
+
 ## Keeping it up
 
 A station starts at 400 km and sinks about 30 km an hour while people are playing.
@@ -136,6 +149,7 @@ A **satellite launcher** (50 electronics) puts one satellite into orbit for your
 | **Comms satellite** (30 electronics) | 1969 | Long-range relays within 7 tiles of the ground station need no antenna and wear half as fast. |
 | **Navigation satellite** (40 electronics) | 2013 | **GPS receivers** (5 electronics) in your world show where you are and point you to up to five saved waypoints. |
 | **Survey orbiter** (40 electronics) | 1969 | Point the pad at the Moon or Mars instead, with a mission console within 7 tiles. The orbiter maps the whole world for the console and marks up to six flat landing sites. |
+| **Spy satellite** (35 electronics) | 1969 | Use the ground station to see what stands outdoors on its level: other parties' ground stations, launch pads, vehicles, and how many people who aren't in your party are near each spot. Anything indoors or underground stays hidden. |
 
 ### Raiding ground stations
 
