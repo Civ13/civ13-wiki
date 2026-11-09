@@ -126,6 +126,8 @@ Pigs, Sheep, Goats and turkey's can breed for now)**
 
 Every breeding species has a population cap, so herds and wild packs stop growing once there are enough of them on the map. Wolves stop breeding at 20 and bears at 12; cows, deer and bison at 30; goats, sheep and turkeys at 35; chickens at 50.
 
+While nobody is connected to a world, its animals wait: they don't move, get hungry or attack until a player joins, so livestock left alone overnight is still fed and in place.
+
 ## Wildlife
 
 <table class="sortable">
