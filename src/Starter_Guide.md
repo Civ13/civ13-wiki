@@ -279,6 +279,7 @@ The Status tab has some general info about the ongoing round, both OOC and IC:
 - time of day
 - current season, with how far into it you are and roughly how long until it changes
 - your **Diet energy** bonus (see [Balanced diet](guides/Guide_to_Cooking.md#balanced-diet))
+- on persistent worlds such as Gaia, **Last save**: when the world was last saved (UTC) and how long ago, shown under World activity and Joining
 
 ### Inventory
 
