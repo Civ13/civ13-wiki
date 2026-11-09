@@ -13,4 +13,15 @@ Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/do
 </figcaption>
 </figure>
 
+## Hills
+
+Gaia's surface has hills. Light comes from the north-west, so slopes facing north-west are lighter and slopes facing south-east are in shadow. Flat ground, water and beaches are not shaded. The ground is lowest at the shore, rises gently inland and forms rounded hills, with ridges near rock walls.
+
+Hills change how fast you walk:
+
+- Each step uphill takes longer. One level up is about a fifth slower than walking on flat ground, and steeper steps are slower still.
+- Each step downhill is quicker, up to about a quarter faster than walking on flat ground.
+
+For a long trip, going around a big hill can be faster than going over it.
+
 For the other Nomads layouts, see [Nomads Maps](Nomads_Maps.md). For general play, see [Civilizations & Nomads](../gamemodes/Civilizations_and_Nomads.md).
