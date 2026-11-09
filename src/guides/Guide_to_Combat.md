@@ -58,6 +58,13 @@ When you take a defensive position, go prone. When you need to cross open ground
 - **Eject a magazine:** Type **Eject magazine** into the command bar, then insert a fresh magazine.
 - **Attack the way you face:** **L** attacks the tile in front of you, which is handy when you cannot see your target clearly.
 
+### Bows
+
+Bows (primitive, short, long and compound) have two firing arcs. **Alt-click** the bow in your hand, or use **Toggle Firing Arc** from its right-click menu, to switch between them; examining the bow shows which one is set. Crossbows and slings always shoot direct.
+
+- **Direct:** the arrow flies straight at what you click. On hilly maps it drops with range like a bullet: bows are sighted for about 5 tiles, so click higher on a more distant target.
+- **Lobbed:** the arrow goes up in a high arc and comes down on the tile you click. It flies over walls, cover, people and buildings in the way, and only a hill taller than the arc stops it. It is slower and less precise: it can land a tile or two away from where you aimed, more so at long range or if you have just moved, and a moving target can step out from under it. It can hit the person standing where it lands, usually in the head, chest or arms, but a roofed tile takes it on the roof. You cannot lob from under a roof.
+
 ### Holding someone up
 
 Press **J** (Toggle Gun Mode) to switch between firing and **aiming**. In aiming mode, clicking a person points your gun at them instead of shooting. They are warned to make no sudden moves, and if they move or act, you pull the trigger reflexively (unless you are on Help intent). Use this to take prisoners or stop a fleeing suspect. You cannot aim while handcuffed, and you stop aiming if you lose sight of the target or fall down.
