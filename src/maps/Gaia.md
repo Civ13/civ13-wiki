@@ -28,4 +28,6 @@ For a long trip, going around a big hill can be faster than going over it, and a
 
 Built floors and walls level the ground under them. Floors you lay (wood, stone, tiles and the like) are not shaded, and walking onto, off or across them ignores the hill. Grass, dirt, snow, sand, rocky ground, gravel, mined floor and trenches keep it.
 
+Hills also block your view. Ground that rises above your line of sight hides whatever is behind it, so you can't see past a ridge or onto a plateau that is higher than your eyes. From high ground you see further down the slopes. Lying down lowers your eyes and hides more. Tall things show over a crest before the ground they stand on, so you may see someone's head or a treetop beyond a ridge. Walls still block sight from any height.
+
 For the other Nomads layouts, see [Nomads Maps](Nomads_Maps.md). For general play, see [Civilizations & Nomads](../gamemodes/Civilizations_and_Nomads.md).
