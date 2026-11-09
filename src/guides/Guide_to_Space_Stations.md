@@ -9,7 +9,7 @@ Everything here is in the crafting menu's **spaceflight** section.
 | Node (Industrial) | Unlocks |
 | --- | --- |
 | **Crewed Flight** | Launch pad, crewed lander |
-| **Orbital Flight** (after Crewed Flight) | Rockets, launch complex office, orbit console, truss, safety tether, orbital workshop kit, node module kit, sector beacon, edge coupler, reboost thruster, solar wings and arrays, radioisotope generator, fuel cell, radiator, cargo freighter, satellite launcher, ground station, satellites, GPS receiver, docking port, microgravity lab, hull armour plate, point-defence turret |
+| **Orbital Flight** (after Crewed Flight) | Rockets, launch complex office, orbit console, truss, safety tether, orbital workshop kit, node module kit, sector beacon, edge coupler, reboost thruster, solar wings and arrays, radioisotope generator, fuel cell, radiator, cargo freighter, freight dispatcher, satellite launcher, ground station, satellites, GPS receiver, docking port, microgravity lab, hull armour plate, point-defence turret |
 | **Sealed Habitats** (after Crewed Flight) | Habitat, greenhouse, workshop, storage and airlock module kits, hull patch kit |
 | **Life Support** (after Sealed Habitats) | CO2 scrubber, heater, electrolyser, water recycler, oxygen reclaimer, sorbent cartridge |
 | **Pressure Suits** (after Sealed Habitats) | Pressure suit, helmet, suit air tank, suit patch kit |
@@ -121,6 +121,10 @@ The **cargo freighter** (60 electronics) is a rocket with no crew. It flies a ho
 - **To orbit**, the cargo lands in a crate beside your station's return hatch.
 - **To another world**, it lands beside your party's launch complex office there, or at that world's usual arrival point.
 - If the other world turns the flight away, the crate comes back to where the freighter stood.
+
+### Freight routes
+
+A **freight dispatcher** (20 electronics) runs a launch pad as a standing route, so nobody has to be at the pad. Build it within 2 tiles of the freighter, use it and choose **Set up a route**, then pick how many items each freighter should carry. From then on, the dispatcher loads the freighter at the pad from closed crates right beside the dispatcher. Once the hold carries that many items and the tank is full, it launches the freighter for your party. Build the next freighter at the pad and the route carries on. The dispatcher waits while the other world is asleep, and examining it shows what it is waiting for. You can pause the route or clear it at any time.
 
 ## Satellites
 
