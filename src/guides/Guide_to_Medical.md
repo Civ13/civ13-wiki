@@ -111,6 +111,10 @@ to know your patient.
 
 The modern combat medicine kit carries **autoinjectors**: one-use pens of morphine, adrenaline or clotting agent. They inject someone else in one second instead of three. The clotting agent seals bleeding wounds one after another over the next minute.
 
+### Time since death
+
+Examine a body from the next tile to see roughly how long ago they died. A medic, or anyone with a **medical** skill of 50 or more, also learns whether a defibrillator could still bring them back or whether it is too late.
+
 ### Triage tags
 
 When several people are hurt at once, a medic, or anyone with a **medical** skill of 50 or more, can right-click a person next to them and choose **Triage Tag**. The tag shows on the body, and anyone who examines the person sees it.

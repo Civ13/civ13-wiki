@@ -29,6 +29,8 @@ When the round ends, the chat lists a few round facts, such as who drew first bl
 
 When you die, the chat lists who hurt you in your last minute, how many times and with what, and who landed the killing blow.
 
+If you choose **Succumb** in the IC tab while badly hurt, you can leave **last words**. People within three tiles hear them, and the round end lists them after the fallen.
+
 ## Dog tags and the fallen
 
 Right-click a fallen soldier and choose **Take Dog Tags** to take their named tags. Each body has one set. At the end of the round the chat lists every side's fallen, how many of their tags comrades brought home, and how many the enemy took. The same list reads out any medals your officers awarded (see [Medals](../guides/Guide_to_Leadership.md#medals)).
@@ -63,7 +65,7 @@ A barrier opening or timer ending tells you when an area becomes accessible; it 
 
 ## Watching as a ghost
 
-After you die, **Toggle Observer HUD** in the Ghost tab shows every soldier's squad chevron, fire team number and health badge while you watch. The **Status** panel shows how long until you can respawn.
+After you die, **Toggle Observer HUD** in the Ghost tab shows every soldier's squad chevron, fire team number and health badge while you watch. The **Status** panel shows how long until you can respawn. Ghosts are told when a player dies and where, with a **follow** link to watch the body; **Toggle Death Notices** in the Ghost tab turns this off.
 
 ## Individual survival rounds
 
