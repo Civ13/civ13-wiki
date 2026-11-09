@@ -75,6 +75,19 @@ Cast a razor using a [knife mold](Guide_to_Metallurgy.md#molds), then click your
 
 Dirty clothing and footwear can carry parasites and disease. Examine an item with **Shift+Click** to check its dirtiness. Hold it and click a water tile, well or puddle to wash it.
 
+Washing with soap or laundry detergent also keeps clothes clean for longer. For a while after the wash, worn clothing gets dirty much more slowly. Examine the item to see whether this still applies.
+
+- **By hand:** hold the soap or detergent in your other hand while you wash the clothing at a sink, well, puddle or water tile. Each wash uses 2 of a soap bar's 30 uses.
+- **Washing machine:** click the machine with soap or detergent to load one dose. Its next finished wash treats every item inside. Examine the machine to see whether a dose is loaded.
+
+| Cleaner | Dirt prevented | Lasts (worn time) |
+| --- | --- | --- |
+| Lard soap | 35% | About an hour |
+| Soap or deluxe soap | 50% | About an hour |
+| Laundry detergent | 75% | About two hours |
+
+Laundry detergent is an industrial product. Mix 10 units of petroleum, 5 units of sulfuric acid and 5 units of lye in a container to make a box. A box is good for 20 washes.
+
 ## Keeping the place clean
 
 Waste and sanitation structures such as outhouses within four tiles of a well can contaminate its water. Keep them away from drinking-water supplies. Examining a well that has been fouled by waste gives off a foul smell; a well that does not smell is not guaranteed to be safe.
