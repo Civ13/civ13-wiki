@@ -24,6 +24,8 @@ Two light planes on a runway, nose to the east. Offline render using Civ13 sprit
 3. Click the hangar, choose **Light plane** and stay next to it while it works. Loose objects or people in the bay stop the assembly, and nothing is spent until the plane is finished. **Unload inputs** returns the stock.
 4. The plane is delivered with a gasoline engine, an **empty** fuel tank and its key. Fill the tank with gasoline before you try to taxi; see [Engines](Guide_to_Crafting.md#engines) for fuel.
 
+The plane can also be built **piece by piece**, by several people. Choose **Start a Light plane piece by piece** with the bay clear. Then bring each piece in turn to the hangar or to the airframe in the bay: the **airframe** (2 pieces, 10 steel each), **landing gear** (4 wheels, dragged on), the **engine and propeller** (10 steel and 8 cable), the **skin** (2 pieces, 10 steel each), the **canopy** (6 glass) and the **seats** (4 cloth). The plane takes shape from the tail to the nose. Fitting pieces needs no power. When the last piece is on, choose **Roll out**, which needs 20 power and gives the same plane, key and empty tank as a one-go build. A half-built plane survives saves, and **Abandon** loses everything fitted so far. The bay cannot hangar a plane while a project is in it. See [Building a car piece by piece](Guide_to_Crafting.md#building-a-car-piece-by-piece) for how stacks and wheels are taken.
+
 The light plane is four tiles long and three wide: the nose with the engine and propeller, the cockpit between the wings, a fuselage section with one passenger seat, and the tail. The pilot sits in the cockpit and flies from the **control column**.
 
 ## Laying a runway
