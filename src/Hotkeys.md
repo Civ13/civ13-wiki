@@ -14,7 +14,7 @@ This is a list of hotkeys for when the game is on **Hotkey Mode**. Use **Tab** t
 | A / West | Move Left |
 | D / East | Move Right |
 | CTRL+Arrow key | Face that direction without moving |
-| ALT+Movement key | Step one tile at a time in that direction (hold to repeat) |
+| ALT+Movement key | Precise movement: tap to nudge 2 pixels, hold to slide smoothly at walking speed until you let go |
 | Q, CTRL+Q | Drop item |
 | E, CTRL+E | Quick equip |
 | R, CTRL+R | Throw |
