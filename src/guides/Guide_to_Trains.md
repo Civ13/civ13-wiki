@@ -18,6 +18,13 @@ Platform car kits (see [Platform cars](#platform-cars)):
 | [Tech tree](Guide_to_Research.md) | **Rail & Steam** node | **Assembly Line** node |
 | [Legacy research](../gamemodes/Civilizations_and_Nomads.md#research) | Industrial research **101** | Industrial research **140** |
 
+Wartime cars (see [Wartime cars](#wartime-cars)):
+
+| Mode | Railway gun car, armored locomotive | Armored wagon, flak car |
+| --- | --- | --- |
+| [Tech tree](Guide_to_Research.md) | **Field Artillery** node | **Automatic Weapons** node |
+| [Legacy research](../gamemodes/Civilizations_and_Nomads.md#research) | Industrial **101** and military **109** | Industrial **101** and military **125** |
+
 ## What you can build
 
 | Piece | Cost | Notes |
@@ -133,8 +140,24 @@ To couple the car, right-click its front end and choose **Hitch**, the same as a
 ### Riding and doors
 
 - Click a door to open or close it. Side doors are at the front end of each enclosed car, and end doors let you walk from one car to the next.
-- Walls and windows keep you from walking through them, but they don't stop bullets.
+- Walls and windows keep you from walking through them, but they don't stop bullets. Armor plate on wartime cars does.
 - Track for platform cars needs a clear tile on each side all the way along, including on curves. If a car's deck would hit a wall, a tree or another train, the whole train grinds to a halt before it moves. People standing beside the track aren't hurt. The deck slides under them and they end up on board.
+
+### Wartime cars
+
+![An armored train standing still: armored locomotive, armored wagon, railway gun car, flak car, a second armored wagon and an open platform car](../images/civ13-wartime-train.png)
+
+| Kit | Cost | What you get |
+| --- | --- | --- |
+| Railway gun car kit | 60 steel | A long-range gun on a turntable, an outrigger lever and a shell rack. |
+| Armored wagon kit | 40 steel | Armor plate with firing doors and four mounted machine guns. |
+| Flak car kit | 45 steel | A low armored wall, two autocannons and ammunition crates. |
+| Armored locomotive | 30 steel | A steam locomotive cased in steel plate. |
+
+- **Bracing the railway gun.** The gun only fires while its car is braced. Stop the train, wait a moment for it to settle, then pull the **outrigger lever** on the car. While the outriggers are down the whole train stays where it is; pull the lever again to raise them before you set off.
+- **Armor.** Armor plate stops bullets coming from outside the car, but the crew inside can shoot out through it. Open an armor door to get on or off.
+- **Explosions.** Shells and bombs damage platform cars; armored cars take much less. A car blown off the rails stops its whole train. Weld it with a **welding tool** until it is back on the rails.
+- **Armored locomotive.** Bullets do nothing to it. Heavy explosions wear its plating down, and once its boiler is holed the engine dies and won't start again until it has been welded.
 
 ### Taking a car apart
 
