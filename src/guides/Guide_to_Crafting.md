@@ -1075,6 +1075,21 @@ Feed the material stacks into the workshop. Drag four unused, unbroken, unattach
 
 The workshop offers all nine layouts: Piccolino, Quattroporte, Erstenklasse, Falcon, Falcon Unmarked, Wyoming, Shinobu, Police Shinobu and Kazoku. Finished cars have **empty fuel tanks** and need fuel accepted by their engine; manufacturing does not supply loose map accessories. Stock survives saves, but reconnect cable power after loading.
 
+#### Building a car piece by piece
+
+Instead of feeding everything in at once, a car can be built a piece at a time, by as many people as want to help. Click the workshop and choose **Start a MODEL piece by piece** with the 4x4 bay clear. An assembly jig appears in the bay, and the car grows on it from the back to the front as pieces are fitted.
+
+| Stage | Pieces | Each piece needs (small / large car) |
+| --- | ---: | --- |
+| Chassis | 2 | 8 / 12 steel |
+| Wheels | 4 | one unattached wheel |
+| Engine | 1 | 8 / 12 steel and 10 cable |
+| Bodywork | 2 | 8 / 12 steel |
+| Windows | 1 | 6 / 8 glass |
+| Seats | 1 | 4 / 6 cloth |
+
+Hit the workshop or any part of the car in the bay with the stack the next piece needs, and drag wheels onto either. A short stack is set aside towards the piece, and a long one keeps what it does not use. Examine the workshop or the car to see what the next piece needs. Fitting pieces needs no power. When the last piece is on, clear the bay of people and loose items, then choose **Roll out**. This draws **20 power** like an ordinary assembly, and the car comes out with its key and an empty tank. A car built this way costs the same as one built in one go. A half-built car survives saves. **Abandon** clears the jig, and everything fitted so far is lost.
+
 ### Vehicle garage
 
 Once you have **Automobiles**, you can craft a vehicle garage from **20 steel** in the production category. It is a control post with a **4x4** parking bay to its northeast, and it holds up to **3 cars**. Storing a car takes it off the map until you take it out again.
