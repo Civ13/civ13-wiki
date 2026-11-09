@@ -50,8 +50,18 @@ The flight deck is a runway, so the [usual rules](Guide_to_Aircraft.md#flying) a
 - **Elevators:** taxi the plane fully onto one of the 4x4 platforms, switch off, and pull the **lever** beside it. The platform takes the plane and anything else on it down to the hangar; the lever in the hangar brings it back up. The elevator refuses a plane that is half on the platform or still rolling, and a blocked hangar floor below.
 - **Hops:** parked planes, crew and cargo ride every hop with the deck. A plane in the air over the ship does not, so land before the ship moves far.
 
+## Damage control
+
+The carrier is hurt the way a [Submarine Commander](../gamemodes/subcom.md) boat is, and the same tools mend it.
+
+- **Flight deck:** a shell or bomb that bursts on the deck **craters** the plating. A crater is not runway: a plane cannot take off over it and the wires do not count where it lies, so weld the crater shut with a **welding tool** before the next landing. Craters move with the ship. The island deck craters the same way.
+- **Hull:** blasts against the hull below the waterline crack it, and a heavy one **breaches** it. Seawater pours through a breach into that compartment. Close the **blast door** on the bulkhead to keep the water in one compartment and **weld** the breach shut with a welding tool; it takes a while, so start early. Bulkheads buckle under heavy blasts and leak until welded.
+- **Fire:** a blast on the hangar deck sets the deck alight. Fire spreads along the deck, hurts anyone standing in it and burns out on its own after a while; water over the deck puts it out.
+- **Listing:** read the chart at the wheel. Every compartment that is flooded to the deckhead takes one telegraph step off the ship: with one flooded she makes half ahead at most, with two only slow ahead. Pump a compartment out and the list eases.
+- **Sinking:** with **three** compartments flooded the ship goes down. Everyone aboard ends up in the sea where the decks were, loose cargo floats with them, and the wheel, the elevators and any aircraft aboard are lost. Five pieces of wreckage mark the spot. Abandon ship before the third compartment fills, or close the doors and pump.
+
 ## Tips
 
 - Drop anchor before flying operations: a hop in the middle of a landing roll moves the deck under the plane.
 - Keep diesel aboard. The bunker filling point is in the fuel bunker, the second compartment from the stern.
-- The carrier survives world saves where it lies, with its fuel, heading and telegraph. Planes left on the deck are saved on it.
+- The carrier survives world saves where it lies, with its fuel, heading, telegraph and damage. Planes left on the deck are saved on it.
