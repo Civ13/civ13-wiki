@@ -263,7 +263,7 @@ The first bonus slot costs 300 silver-equivalent, the second costs 600, the thir
 | Nuclear Power | 7 | 458 | 6 | **Prototype** (geiger counter) | Combustion Engine |
 | Hydraulic Fracturing | 8 | 400 | 7 | Analysis | Electricity, Modern Construction |
 
-Electricity unlocks the powered soil sifter and river concentrator. Hydraulic Fracturing unlocks the finite petroleum rig; see [Resource Extraction](Guide_to_Resource_Extraction.md) for input and power requirements. Automobiles and Electricity are both needed to use the [automobile workshop](Guide_to_Crafting.md#automobile-workshop). Powered Flight unlocks the aircraft hangar and runway; see [Aircraft](Guide_to_Aircraft.md).
+Electricity unlocks the powered soil sifter and river concentrator. Hydraulic Fracturing unlocks the finite petroleum rig; see [Resource Extraction](Guide_to_Resource_Extraction.md) for input and power requirements. Automobiles and Electricity are both needed to use the [automobile workshop](Guide_to_Crafting.md#automobile-workshop). Powered Flight unlocks the aircraft hangar and runway; see [Aircraft](Guide_to_Aircraft.md). Submarines unlocks the submarine pen; see [Submarines](Guide_to_Boats.md#submarines).
 
 #### Vehicles
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
@@ -273,6 +273,7 @@ Electricity unlocks the powered soil sifter and river concentrator. Hydraulic Fr
 | Rail & Steam | 4 | 200 | 3 | Analysis | Wagons & Ships, Steam Power |
 | Automobiles | 5 | 235 | 4 | Analysis | Rail & Steam, Combustion Engine |
 | Powered Flight | 6 | 270 | 5 | Analysis | Automobiles, Combustion Engine |
+| Submarines | 6 | 270 | 5 | Analysis | Wagons & Ships, Combustion Engine, Electricity |
 | Aviation & Rocketry | 7 | 305 | 6 | Analysis | Powered Flight, Alloys |
 
 #### Infrastructure
