@@ -31,7 +31,7 @@ The Europe, Jungle, Desert and Asia maps have hills too, designed from their ter
 
 Built floors and walls level the ground under them. Floors and roads you lay (wood, stone, tiles, dirt roads and the like) are not shaded, and walking onto, off or across them ignores the hill. Grass, dirt, snow, sand, rocky ground, gravel, mined floor and trenches keep it.
 
-Hills also block your view. Ground that rises above your line of sight hides whatever is behind it, so you can't see past a ridge or onto a plateau that is higher than your eyes. From high ground you see further down the slopes. Lying down lowers your eyes and hides more. Tall things show over a crest before the ground they stand on, so you may see someone's head or a treetop beyond a ridge. Walls still block sight from any height.
+Hills also block your view. Ground that rises above your line of sight hides whatever is behind it, so you can't see past a ridge or onto a plateau that is higher than your eyes. From high ground you see further down the slopes. Lying down lowers your eyes and hides more. Tall things show over a crest before the ground they stand on, so you may see someone's head or a treetop beyond a ridge. From high ground you can also see over lower walls, fences and trees into the open ground beyond them; the ground right behind a wall stays hidden, and you never see into a roofed building this way.
 
 ### Tamping paths and grading hills
 
