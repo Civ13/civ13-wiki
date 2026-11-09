@@ -1093,7 +1093,40 @@ Once you have **Carts**, you can craft a safe house depot from **20 soft wood** 
 2. Click the depot and choose **Ship what you hold** or **Ship a crate next to the depot**. Stay beside it for a few seconds.
 3. To get goods back, choose **Recall a shipment**. It appears at your feet, inside the same kind of crate if it went in one.
 
-Every depot in a land opens onto the same safe house, so you can ship at one and recall at another. A party keeps up to **20 shipments**, and nobody outside your party can see or take them. Depots cannot be taken apart, burned or blown up. Examine a depot to see what your safe house holds. What can be shipped is the same as for [train freight](Guide_to_Travel.md#train-freight).
+Every depot in a land opens onto the same safe house, so you can ship at one and recall at another. A party keeps up to **20 shipments** (more with a stash, below), and nobody outside your party can see or take them. Depots cannot be taken apart, burned or blown up. Examine a depot to see what your safe house holds. What can be shipped is the same as for [train freight](Guide_to_Travel.md#train-freight).
+
+#### Safe house rooms
+
+Your safe house has six rooms, and you can build each one up to **level 3**. Click a depot and choose **Safe house rooms and work**. The supplies come from what you hold and from **closed crates** pushed next to the depot. They are taken as soon as you pick an upgrade or a job.
+
+| Room | Level 1 | Level 2 | Level 3 | What it does |
+| --- | --- | --- | --- | --- |
+| **Stash** | 30 wood | 30 wood, 20 iron | 10 iron, 20 steel | keeps 10 more shipments per level (up to 50) |
+| **Workshop** | 20 wood, 20 stone | 20 iron, a hammer | 20 steel, a wrench | smelts iron; makes steel; casts bullets and draws rifle casings |
+| **Infirmary** | 20 wood, 10 cloth | 20 cloth, 10 glass | 10 steel, 20 glass | rolls bandages or gauze; carves splints; packs trauma kits |
+| **Kitchen** | 20 wood, 20 stone | 10 iron, 20 stone | 10 steel, 10 glass | dries meat; bakes hardtack; cures hams |
+| **Still** | 20 wood, 10 copper | 20 copper, 10 glass | 10 steel, 20 glass | brews beer; distils vodka; distils whiskey |
+| **Contacts desk** | 10 wood, 100 silver coins | 50 gold coins | 150 gold coins | 5% better prices per level from the [specialist traders](Guide_to_Traders.md), when you buy and when you sell |
+
+Each level of the workshop, infirmary, kitchen and still unlocks one more kind of work:
+
+| Work | Room level | Takes | Makes | Time |
+| --- | --- | --- | --- | --- |
+| Smelt iron | Workshop 1 | 10 iron ore, 5 coal | 8 iron | 20 min |
+| Make steel | Workshop 2 | 5 iron, 5 coal | 5 steel | 40 min |
+| Cast bullets | Workshop 3 | 5 lead | 30 bullets | 30 min |
+| Draw rifle casings | Workshop 3 | 5 copper | 30 rifle casings | 30 min |
+| Roll bandages (gauze from the WW1 era on) | Infirmary 1 | 4 cloth | 10 bandages or gauze | 20 min |
+| Carve splints | Infirmary 2 | 5 wood, 2 cloth | 4 splints | 20 min |
+| Pack trauma kits | Infirmary 3 | 10 gauze, 5 cloth | 2 trauma kits | 60 min |
+| Dry meat | Kitchen 1 | 3 meat | 3 dried meat | 30 min |
+| Bake hardtack | Kitchen 2 | 4 wheat | 4 hardtack | 30 min |
+| Cure a ham | Kitchen 3 | 5 meat | 1 cured ham | 120 min |
+| Brew beer | Still 1 | 4 wheat | 2 bottles of beer | 60 min |
+| Distil vodka | Still 2 | 6 potatoes | 1 bottle of vodka | 90 min |
+| Distil whiskey | Still 3 | 6 wheat | 1 bottle of whiskey | 120 min |
+
+Work runs in real time, so it carries on while you are offline. Each room does one job at a time. When work is done, choose **Collect finished work** at any depot in the land, and the goods appear at your feet. Some work only shows up in the right age or once your people have the matching research.
 
 ### Motorcycles
 
