@@ -22,6 +22,8 @@ The "standard" maximum level of a skill is 2.5, but it may be higher with the ex
 
 Skills are trained by various activities and by reading **scientific literature** on respective subjects (skill books - slates, scrolls and books, depending on the epoch). Strength, dexterity and stamina can also be trained deliberately with [exercise equipment](Guide_to_Exercise.md). The literature written by a character with a higher skill level grants a larger skill boost to the reader. **You can only read literature written by others, not by yourself!**
 
+Farming and hunting raise the yield of renewable food. Every 0.01 above 1.0 adds 1% more, so a skill of 1.5 gives half again as much and 2.0 or higher gives double. A skill at or below 1.0 never lowers the yield, and a bad mood lowers the bonus along with the skill.
+
 P.S. 20 is a lie, it is 2**<u>.</u>**0
 
 | <u>Skill</u> | <u>Affects</u>                                               | <u>Trained by</u>                                            |
@@ -36,7 +38,8 @@ P.S. 20 is a lie, it is 2**<u>.</u>**0
 | Medical      | - Extra healing bonus when using healing items<br /> - Ability to perform surgeries at all, success chance during a surgery step | - Performing surgeries on people (not necessarily living)    |
 | Philosophy   | - Ability to found a religion<br />- Ability to write **[language books](#languages)** | - Writing and reading scientific literature                  |
 | Machine gun  | - Chance to hit a target with a machine gun                  | - Pumping targets full of lead                               |
-| Farming      | - Ability to check plants' water level<br />- Ploughing speed | - Planting seeds<br />- Ploughing fields                     |
+| Farming      | - Ability to check plants' water level<br />- Ploughing speed<br />- Seeds and crops per harvest | - Planting seeds<br />- Ploughing fields<br />- Harvesting crops |
+| Hunting      | - Meat and fat from butchering animals                       | - Butchering dead animals                                    |
 | Throwing     | - Chance to hit a target with throwing weapons                | - Throw weapons designed for throwing                                  |
 
 ## Traits

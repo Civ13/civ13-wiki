@@ -8,6 +8,8 @@ Use a **held sharp tool** on an adjacent dead animal. **Harm intent** performs q
 
 Both routes give the same meat and food byproducts. Grab selects species pelts; quick Harm butchering gives untanned raw hides for supported mammals. Animals do not provide finished leather. [Leather tanning](../Miscellaneous_Crafting.md#leather-tanning) turns raw hides or prepared pelts into leather. Normal meat yield follows size: minuscule **1**, tiny **2**, small **3**, medium **4**, large **5**, huge **8** separate portions. Existing pig-leg, chicken-carcass, poisonous-frog, crab, zombie and mouse outputs remain distinct.
 
+Butchering trains the **hunting** skill, and a skilled hunter cuts more food from each carcass. Above 1.0 hunting, every 0.01 adds 1% more meat portions (or pig legs and chicken carcasses) and animal fat: at 1.5 you get about half again as much, and at 2.0 or higher double. Organs, bones, sinew, hides and pelts do not change with skill.
+
 The mammal products below apply to supported cattle, pigs/boars, goats, sheep, deer, bison, camels, rabbits, monkeys, cats, wild bears, wolves, foxes, gorillas, panthers, sabertooths, horses, pet or commanded dogs, mammoths and bats. Animal type and interaction handling matter: not every dog or bear follows these rules, and the table does not guarantee that every juvenile can be harvested. Let **Y** be the size yield above.
 
 | Product | Yield |
