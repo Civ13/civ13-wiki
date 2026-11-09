@@ -61,7 +61,7 @@ This is a list of hotkeys for when the game is on **Hotkey Mode**. Use **Tab** t
 | Numpad 6 | Select Left Arm (targeting) |
 | Numpad 8 | Select Head (targeting) |
 
-Movement is free: holding a movement key slides you smoothly at walking or running speed, and you stop exactly where you let go instead of snapping to the next tile. Moving into a corner slips you sideways into a doorway, and moving diagonally into a wall slides you along it. While you pull something, drive, are confused or climb in or out of a trench, you move one tile at a time instead. IC > Toggle Smooth Movement switches back to tile movement (stand lined up with a tile first).
+Movement is free: holding a movement key slides you smoothly at walking or running speed, and you stop exactly where you let go instead of snapping to the next tile. Moving into a corner slips you sideways into a doorway, and moving diagonally into a wall slides you along it. Anything you pull trails one tile behind you, even round corners. While you drive, crawl, ride, or climb in or out of a trench, you move one tile at a time instead.
 
 ## Typing bubbles
 
