@@ -10,6 +10,7 @@ Anything that floats is built from the crafting menu's **vehicle parts** section
 | [Rigid hull inflatable boat (RHIB)](#rigid-hull-inflatable-boat) | Sturdier motorboat with a bigger engine | 2 + 1 cargo | Engine |
 | [Modular ship](#modular-ships) | Carrying a crew, cargo and guns | As many as fit | Masts and sails, or an engine |
 | [Submarine](#submarines) | Travelling unseen under the open ocean (Gaia) | As many as fit | Diesel engine |
+| [Slipway ships](#slipway-ships) | A big ship built piece by piece on the shore | As many as fit | Sails (schooner) or a diesel engine (freighter) |
 
 ![Offline render using Civ13 sprites: a raft, a sailing outrigger, a motor outrigger and a rigid hull inflatable boat on shallow water](../images/civ13-small-boats-sprites.png)
 
@@ -232,6 +233,70 @@ While submerged, choose **Raise periscope** at the station to see the surface st
 ### Loading and unloading
 
 Surface next to a pier, a beach or another ship. Then walk off through the open hatches amidships and carry or pull crates on and off. Cargo left on the deck stays aboard when you dive.
+
+## Slipway ships
+
+Bigger ships are built on a **slipway**: a berth on the shore where the crew add the ship one piece at a time, then launch her into the sea. Two ships can be built this way:
+
+| Ship | Research | Size | Pieces | Materials in all |
+| --- | --- | --- | --- | --- |
+| Sailing schooner | Wagons & Ships | 14 x 5 tiles, one deck | 16 | 180 planks, 20 cloth, 4 rope |
+| Motor freighter | Combustion Engine | 20 x 7 tiles, deck and hold | 20 | 214 steel, 20 cable, 10 glass |
+
+### Setting up the slipway
+
+1. Craft a **slipway** (20 planks, in the vehicle parts section) on the shore, **facing the water**. The ground in front of it is the berth: the ship is built there with her stern at the slipway and her bow towards the sea. Use a **wrench** on an empty slipway to turn it.
+2. The berth can be sand, grass, any other floor, shallow water or a dug trench. It must be clear of walls and solid objects.
+3. Click the slipway and choose **Lay the keel** of the ship you want. It refuses with a reason if the berth is blocked, your faction lacks the research, or there is no **open deep water** straight ahead for the finished ship to float in. The freighter also needs a level below the sea for her hold, which Gaia has.
+
+### Building her
+
+The slipway tells you what the next piece needs, for example "the next keel timber (1 of 2) needs 10 wood". Hit the slipway, or any part of the ship on the berth, with that material. After a few seconds the stack pays what the piece still needs and you keep the rest. Anyone can help, and the pieces can be brought over as many trips and days as you like: the project is saved with the world.
+
+The ship grows on the berth from stern to bow: the keel down the middle, then the ribs, the hull and the deck, then the masts, wheel or wheelhouse. You can walk over her while she is being built.
+
+![Offline render using Civ13 sprites: four schooners on slipways at different stages, from a half-laid keel at the bottom to a finished ship at the top](../images/civ13-slipway-schooner-stages.png)
+
+From bottom to top: half the keel laid, half the planking on the ribs, the deck finished, and a finished schooner with her masts and wheel. Offline render using Civ13 sprites, not a live screenshot.
+
+| Schooner stage | Pieces | Each piece |
+| --- | --- | --- |
+| Keel | 2 | 10 planks |
+| Frames | 4 | 10 planks |
+| Planking | 4 | 15 planks |
+| Deck | 3 | 10 planks |
+| Masts and rigging | 2 | 10 planks, 10 cloth, 2 rope |
+| Wheel | 1 | 10 planks |
+
+| Freighter stage | Pieces | Each piece |
+| --- | --- | --- |
+| Keel | 2 | 10 steel |
+| Frames | 4 | 10 steel |
+| Hull plating | 6 | 12 steel |
+| Hold and bulkheads | 2 | 10 steel |
+| Deck | 4 | 8 steel |
+| Engine | 1 | 20 steel, 20 cable |
+| Wheelhouse and fittings | 1 | 10 steel, 10 glass |
+
+To give up on a ship, click the slipway and choose **Abandon**. Everything fitted so far is lost.
+
+### Launching
+
+When the last piece is fitted, click the slipway and choose **Launch**. The ship slides straight down the ways until she floats on open deep water, up to twelve tiles past the end of the berth. Everyone and everything standing on her goes with her. She floats with her anchor down and empty bunkers, and the slipway is ready for the next keel.
+
+- Every tile she slides over must be clear: a wall, a tree, a wreck or another boat in the way stops the launch.
+- **Dry dock:** instead of the open shore you can dig a trench for the berth. Build the ship in the dry trench, then dig through to the sea so the trench floods. A dry dock that is not flooded refuses the launch.
+
+![Offline render using Civ13 sprites: a launched schooner and a launched freighter afloat off the shore, and a freighter half built on its slipway](../images/civ13-slipway-launched.png)
+
+A freighter and a schooner afloat after their launch, with another freighter on the slipway between them. Offline render using Civ13 sprites, not a live screenshot.
+
+### Sailing them
+
+Both ships sail like the [aircraft carrier](Guide_to_Aircraft_Carriers.md#sailing): click the **ship's wheel** to weigh anchor, set a speed and turn, and read the chart. The ship moves in hops every 30 seconds with everyone aboard.
+
+- **Sailing schooner:** two masts and the wheel at the stern. She needs **no fuel**, but makes half ahead at most.
+- **Motor freighter:** the wheel is in the wheelhouse at the stern, and a ladder amidships leads down to the **cargo hold**. Behind a bulkhead door at the back of the hold is the **engine room** with the bunker filling point. Pour **diesel** or **petroleum** into it (400 units). If both the hold and the engine room flood, she sinks.
 
 ## Sailing and the wind
 
