@@ -23,8 +23,11 @@ Hills change how fast you walk:
 
 - Each step uphill takes longer. One level up is about a fifth slower than walking on flat ground, and steeper steps are slower still. The steepest grades on Gaia take about twice as long per step as flat ground.
 - Each step downhill is quicker, up to about a quarter faster than walking on flat ground.
+- Steep steps of three levels or more are tiring: scrambling up one spends some stamina, and the game tells you when you scramble up or pick your way down a steep slope.
 
 For a long trip, going around a big hill can be faster than going over it, and a pass or a gentle inland slope is usually faster than scaling a range from its steep seaward side.
+
+The Europe, Jungle, Desert and Asia maps have hills too, designed from their terrain in the same way.
 
 Built floors and walls level the ground under them. Floors and roads you lay (wood, stone, tiles, dirt roads and the like) are not shaded, and walking onto, off or across them ignores the hill. Grass, dirt, snow, sand, rocky ground, gravel, mined floor and trenches keep it.
 
