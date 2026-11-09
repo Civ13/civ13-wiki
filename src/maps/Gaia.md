@@ -24,4 +24,6 @@ Hills change how fast you walk:
 
 For a long trip, going around a big hill can be faster than going over it.
 
+Built floors and walls level the ground under them. Floors you lay (wood, stone, tiles and the like) are not shaded, and walking onto, off or across them ignores the hill. Grass, dirt, snow, sand, rocky ground, gravel, mined floor and trenches keep it.
+
 For the other Nomads layouts, see [Nomads Maps](Nomads_Maps.md). For general play, see [Civilizations & Nomads](../gamemodes/Civilizations_and_Nomads.md).
