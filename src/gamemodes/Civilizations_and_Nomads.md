@@ -79,9 +79,23 @@ Work smart, not hard!
 #### General
 
 * To **Create** a faction, open the **Faction tab** and click **Create a faction**. Choose a name for it, as well as symbols and colours for your faction's banner.
-* To join a faction, you must be **Recruited** by its leader or by a member who has the **Recruitment** permission. If you are already in another faction, accepting moves you over and you join as an ordinary member, without any rank or permissions you had before.
+* To join a faction, you must be **Recruited** by its leader or by a member who has the **Recruitment** permission, or join through one of its [recruitment stations](#recruitment-stations). If you are already in another faction, accepting moves you over and you join as an ordinary member, without any rank or permissions you had before.
 * You can leave a faction by clicking **Abandon** on the **Faction tab**. Take note, that **you will not be able to rejoin the same faction for 24 hours!**
 * Creating a faction makes you the default **Leader**.
+
+#### Recruitment stations
+
+On maps that allow custom factions, a faction can take members through a **recruitment station** instead of recruiting each person by hand. Craft one from **10 planks** (in the **economy & production** category) and place it. The leader then clicks it and chooses **Designate for my faction**, and the station takes the faction's colours. Only the leader can release it again.
+
+* **Joining:** click a station to see the faction's rules and whether you meet them. Depending on the rules you can **Join** straight away or **Apply** with a short introduction. You can **Withdraw** an application at any time. If it is approved, come back to a station and **Confirm and join**. You must not be in another faction to apply.
+* **Reviewing:** the leader and members with the **Recruitment** permission can approve, reject or revoke applications at any station of their faction, or from anywhere with **Recruitment Applications** on the **Faction tab**. They can give a reason, which the applicant sees. Applicants and reviewers are told about new decisions when they log in.
+* **Rules (leader only):** the leader chooses the mode:
+  * **Closed** stops new applications.
+  * **Review every application** sends every application to the queue. New stations start in this mode.
+  * **Accept matching applicants at once** lets players who meet the rules join immediately.
+
+  Further rules set a required language and minimum skill levels (0-10) in crafting, farming, medical and combat. Players who don't meet the rules either still go to review or cannot apply, as the leader chooses. **Open recruitment** sets the language and skill rules aside, so everyone eligible counts as matching. Automatic acceptance needs open recruitment or at least one rule.
+* Applications and approved offers expire after **7 days**. Dying ends that character's application.
 
 #### Family and adoption
 
