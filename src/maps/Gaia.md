@@ -35,6 +35,8 @@ Hills also block your view. Ground that rises above your line of sight hides wha
 
 Bullets follow the hills too. A ridge between you and your target stops the shot, and a shot fired downhill that misses lands in the ground beyond. From well above them you can fire over lower cover, walls and people in your way, and over the roofs of buildings below you. On level ground cover works as usual. Hostile NPCs follow the same rule: they can't see you behind a ridge.
 
+On hilly maps bullets also drop with range. Each weapon is sighted for a set distance (rifles about 12 tiles, pistols about 7, shotguns and muskets about 6, bows about 5); beyond it the shot falls lower the further it goes. Where you click on your target sets your aim: click higher on a distant target to hold over, or the shot lands short. Shooting steeply down from high ground is more forgiving.
+
 ### Tamping paths and grading hills
 
 Craft a **stone rammer** from 2 stone (Tools, no research needed). Click bare dirt with it to pound the tile into **tamped earth** in a few seconds; stronger characters work faster. Tamped earth keeps the shape of the hill, but climbing onto it is about half as hard, and it never turns to mud in the rain. Clear grass with a shovel first, and clear any snow; the rammer will not work on a tile with a crop or a floor on it. A shovel breaks tamped earth back into loose dirt.
