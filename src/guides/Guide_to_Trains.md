@@ -11,6 +11,13 @@ Rails and steam trains move people, fuel and cargo along a fixed track. The part
 
 The wooden mining cart needs Industrial research **93** in either mode.
 
+Platform car kits (see [Platform cars](#platform-cars)):
+
+| Mode | Platform car, passenger coach | Sleeper, dining and storage cars |
+| --- | --- | --- |
+| [Tech tree](Guide_to_Research.md) | **Rail & Steam** node | **Assembly Line** node |
+| [Legacy research](../gamemodes/Civilizations_and_Nomads.md#research) | Industrial research **101** | Industrial research **140** |
+
 ## What you can build
 
 | Piece | Cost | Notes |
@@ -100,6 +107,38 @@ Carry spare coal in a **tender** hitched behind the engine for long routes.
 
 - **Storage wagons** (mining cart, tender, transport wagon): click to open their storage, or drag items onto them.
 - **Flatbed and cabin wagons:** drag a person onto the wagon to bring them aboard, or drag yourself to climb in. Standing on the wagon with someone, you can buckle them in. Drag a loose crate or structure onto a flatbed to secure it for the ride, and right-click the wagon and choose **Unsecure** to release it at the other end.
+
+## Platform cars
+
+Platform cars are full-size railway carriages: **three tiles wide and four tiles long**, with the track down the middle. You can walk around inside them while the train is moving, and everything on the deck rides along with the car: people, furniture, crates and anything you set down. A car bends round curves, and its furniture turns with it.
+
+![Five platform cars pulled round a curve: storage car, dining car, sleeper car and passenger coach behind a steam locomotive, with an open platform car still on the straight](../images/civ13-platform-cars-curve.png)
+
+| Kit | Cost | What you get |
+| --- | --- | --- |
+| Platform car kit | 12 iron | An open plank deck with railings at each end, for cargo, crates and machines. |
+| Passenger coach kit | 16 iron | Six seats either side of a carpeted aisle, windows, side doors and end doors. |
+| Sleeper car kit | 20 steel | Three private compartments a side, each with a bed and a sliding door. |
+| Dining car kit | 20 steel | A galley with a stove, sink, fridge and counter, and two booths. |
+| Storage car kit | 18 steel | Cabinets and large crates, each behind its own compartment door. |
+
+### Putting a car together
+
+1. Carry or drag the kit onto the track. It needs **four tiles of straight track**: the tile under the kit and the three behind it.
+2. Leave a **clear tile on both sides** of those four tiles for the deck.
+3. Stand facing the way the car should point (towards the locomotive) and hit the kit with a **hammer**.
+
+To couple the car, right-click its front end and choose **Hitch**, the same as an ordinary wagon. The middle of a car can't be unhitched.
+
+### Riding and doors
+
+- Click a door to open or close it. Side doors are at the front end of each enclosed car, and end doors let you walk from one car to the next.
+- Walls and windows keep you from walking through them, but they don't stop bullets.
+- Track for platform cars needs a clear tile on each side all the way along, including on curves. If a car's deck would hit a wall, a tree or another train, the whole train grinds to a halt before it moves. People standing beside the track aren't hurt. The deck slides under them and they end up on board.
+
+### Taking a car apart
+
+Stop the train, uncouple the car from the cars on both sides and clear everything off its deck, furniture included. Then use a **crowbar** on the car to pack it back into a kit. A kit that was taken apart comes back without furniture, so keep the furniture you removed and put it back aboard.
 
 ## Through station and service loop
 
