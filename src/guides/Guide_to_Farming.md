@@ -151,6 +151,9 @@ You can let a plot of land rest, with no farm plants on it, and it will recover 
 After the time has passed, the soil will receive 20 to 40 nutrition points automatically.
 Considering a soil with 0 nutrition, it would take from 2.5 to 1.25 hours for it to fully regenerate.
 
+### Pollution
+Furnaces, factories, engines and spilled fuel pollute the ground nearby. On grimy, polluted soil crops grow at about half speed, and on heavily polluted soil they do not grow at all. Keep fields away from industry, and see the [Guide to Pollution](Guide_to_Pollution.md) for how to clean polluted ground.
+
 ### Fertilizing
 
 Many kinds of animals leave manure on the ground, which could be used to
