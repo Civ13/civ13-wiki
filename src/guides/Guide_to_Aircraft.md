@@ -13,6 +13,7 @@ Two light planes on a runway, nose to the east. Offline render using Civ13 sprit
 | Aircraft hangar | 40 steel | Powered Flight | Industrial 126 |
 | Runway (one tile) | 1 stone | Powered Flight | Industrial 126 |
 | Light plane | 50 steel, 6 glass, 4 cloth, 8 cable, 4 unattached wheels | Built at the hangar | Built at the hangar |
+| Aircraft bomb casing | 8 steel | Powered Flight | Industrial 126 |
 
 **Powered Flight** is an Industrial node in the Vehicles line. It needs **Automobiles** and **Combustion Engine**, and Aviation & Rocketry is researched after it. The hangar is in the **production** crafting category and runway in **roads**. The hangar only assembles planes for a faction that has finished the Powered Flight node.
 
@@ -52,6 +53,17 @@ The HUD shows the plane's current height while you are in the pilot's seat.
 Fly over a runway at **second gear or slower** in low flight and **Descend**. The flight deck of an [aircraft carrier](Guide_to_Aircraft_Carriers.md) is a runway too, and its arresting wires stop the plane on the spot. At least half of the airframe has to be over runway for the wheels to find it. Too fast, and the plane stays in the air and tells you to slow down; off the runway, it warns you and keeps flying so you can go round again.
 
 Away from a runway, **Descend twice within 5 seconds** to force a crash landing. The plane comes down on the nearest clear ground with its engine off and its landing gear broken, and the crew are bruised. With no clear ground within reach the airframe breaks up and everyone aboard falls.
+
+## Arming the plane
+
+A light plane can carry a gun and two bombs:
+
+- **Nose gun:** take any light machine gun, such as a Madsen or a Type 99, and use it on the **nose** section of the plane to bolt it in. Use a magazine on the nose section to load it, and a **wrench** to take the gun out again. Examine the nose to see what is mounted and how many rounds are left.
+- **Firing:** with the control column in one hand and the other free, choose **Fire guns** on the column. The burst goes straight along the plane's heading from the nose: down the runway on the ground, or onto the ground ahead of the nose in low flight, so you strafe by flying low over the target. From cruise height you are too high to aim.
+- **Bombs:** craft an **aircraft bomb casing** from steel (in the **weapons** menu, after Powered Flight) and fill it with ten units of [nitroglycerin](Guide_to_Chemistry.md) from any container. Use the filled bomb on a **wing** section to hang it; each wing takes one. A wrench takes a bomb down again.
+- **Bombing:** in the air, choose **Drop bomb** on the column. The bomb falls onto the ground directly under the middle of the plane and bursts there, so fly low and straight over the target. Bombs cannot be dropped on the ground.
+
+Filled bombs go off when a heavy blast reaches them, on the plane or in a store, so keep them apart from anything else that explodes. An empty casing is harmless.
 
 ## Damage and repair
 
