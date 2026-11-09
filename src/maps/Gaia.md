@@ -26,6 +26,10 @@ Hills change how fast you walk:
 
 For a long trip, going around a big hill can be faster than going over it, and a pass or a gentle inland slope is usually faster than scaling a range from its steep seaward side.
 
-Built floors and walls level the ground under them. Floors you lay (wood, stone, tiles and the like) are not shaded, and walking onto, off or across them ignores the hill. Grass, dirt, snow, sand, rocky ground, gravel, mined floor and trenches keep it.
+Built floors and walls level the ground under them. Floors and roads you lay (wood, stone, tiles, dirt roads and the like) are not shaded, and walking onto, off or across them ignores the hill. Grass, dirt, snow, sand, rocky ground, gravel, mined floor and trenches keep it.
+
+### Tamping paths
+
+To smooth a path early on, craft a **stone rammer** from 2 stone (Tools, no research needed). Click bare dirt with it to pound the tile into **tamped earth** in a few seconds; stronger characters work faster. Tamped earth is level, so it ignores the hill like a built floor, and it never turns to mud in the rain. Clear grass with a shovel first, and clear any snow; the rammer will not work on a tile with a crop or a floor on it. A shovel breaks tamped earth back into loose dirt.
 
 For the other Nomads layouts, see [Nomads Maps](Nomads_Maps.md). For general play, see [Civilizations & Nomads](../gamemodes/Civilizations_and_Nomads.md).
