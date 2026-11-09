@@ -33,6 +33,8 @@ Built floors and walls level the ground under them. Floors and roads you lay (wo
 
 Hills also block your view. Ground that rises above your line of sight hides whatever is behind it, so you can't see past a ridge or onto a plateau that is higher than your eyes. From high ground you see further down the slopes. Lying down lowers your eyes and hides more. Tall things show over a crest before the ground they stand on, so you may see someone's head or a treetop beyond a ridge. From high ground you can also see over lower walls, fences and trees into the open ground beyond them; the ground right behind a wall stays hidden, and you never see into a roofed building this way.
 
+Bullets follow the hills too. A ridge between you and your target stops the shot, and a shot fired downhill that misses lands in the ground beyond. From well above them you can fire over lower cover, walls and people in your way, and over the roofs of buildings below you. On level ground cover works as usual.
+
 ### Tamping paths and grading hills
 
 Craft a **stone rammer** from 2 stone (Tools, no research needed). Click bare dirt with it to pound the tile into **tamped earth** in a few seconds; stronger characters work faster. Tamped earth keeps the shape of the hill, but climbing onto it is about half as hard, and it never turns to mud in the rain. Clear grass with a shovel first, and clear any snow; the rammer will not work on a tile with a crop or a floor on it. A shovel breaks tamped earth back into loose dirt.
