@@ -28,6 +28,8 @@ For a long trip, going around a big hill can be faster than going over it, and a
 
 Built floors and walls level the ground under them. Floors and roads you lay (wood, stone, tiles, dirt roads and the like) are not shaded, and walking onto, off or across them ignores the hill. Grass, dirt, snow, sand, rocky ground, gravel, mined floor and trenches keep it.
 
+Hills also block your view. Ground that rises above your line of sight hides whatever is behind it, so you can't see past a ridge or onto a plateau that is higher than your eyes. From high ground you see further down the slopes. Lying down lowers your eyes and hides more. Tall things show over a crest before the ground they stand on, so you may see someone's head or a treetop beyond a ridge. Walls still block sight from any height.
+
 ### Tamping paths and grading hills
 
 Craft a **stone rammer** from 2 stone (Tools, no research needed). Click bare dirt with it to pound the tile into **tamped earth** in a few seconds; stronger characters work faster. Tamped earth keeps the shape of the hill, but climbing onto it is about half as hard, and it never turns to mud in the rain. Clear grass with a shovel first, and clear any snow; the rammer will not work on a tile with a crop or a floor on it. A shovel breaks tamped earth back into loose dirt.
@@ -38,3 +40,5 @@ To change the ground itself, grade it one level at a time:
 - **Fill:** put a pile of dirt on a tile and use the stone rammer on it. The dirt is packed in, the tile rises one level and becomes tamped earth.
 
 Each tile can be dug down or built up by at most two levels from the natural ground, so ridges and cliffs can be eased but not removed. Ground next to water, or with snow, a floor, a crop or anything solid on it, cannot be graded. Levelling an area means planning cuts and fills and carrying dirt from the high spots to the low ones.
+
+For the other Nomads layouts, see [Nomads Maps](Nomads_Maps.md). For general play, see [Civilizations & Nomads](../gamemodes/Civilizations_and_Nomads.md).
