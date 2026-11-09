@@ -59,6 +59,14 @@ Lie down in a **ghillie suit** on grass, dirt or brush and keep still for three 
 
 A **breaching charge** blows one door or window open. Craft an empty charge from **2 steel** in the **Weapons** menu after **Automatic Weapons** research, then pour in **3 units of nitroglycerin** (see [Chemistry](../guides/Guide_to_Chemistry.md)). Click a door or window with it to plant it, which takes three seconds, then step aside: it goes off five seconds later. Whoever is right behind the door is knocked down and deafened, while people on your side only have their ears ring. It does not work on sandbags.
 
+## Helmet cameras and overwatch
+
+Clip a **helmet camera** onto your hat or helmet by using it in hand while you wear the headgear; right-click the helmet and choose **Remove Helmet Camera** to take it off. Officers, squad leaders and commanders (or faction leaders outside team rounds) can open an **overwatch laptop** in hand and pick one of their own people wearing a camera to see what they see. The feed stops when you move, put the laptop down, use it again, or the wearer dies or loses the camera. Enemy cameras never show up. Craft a helmet camera from **2 electronics** and an overwatch laptop from **6 electronics** in the **Tools** menu after **Digital Computing** research, where crafting is available.
+
+## Assistant gunners
+
+A mounted machine gun works best with two people. While someone is on the gun, a friendly soldier standing right next to it feeds the belt: the barrel heats half as fast, and guns with a slow reload load twice as quickly. The helper has to be on their feet, and enemies beside the gun don't count. Examine the gun to see who is feeding it.
+
 ## Grace periods and roleplay
 
 A barrier opening or timer ending tells you when an area becomes accessible; it does not by itself establish permission to attack in a roleplay scenario. Follow both the briefing and the [Rules](../rules/Rules.md). Do not assume a timer or capture mechanic from another map applies to the current round.
