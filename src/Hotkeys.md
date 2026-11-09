@@ -14,7 +14,7 @@ This is a list of hotkeys for when the game is on **Hotkey Mode**. Use **Tab** t
 | A / West | Move Left |
 | D / East | Move Right |
 | CTRL+Arrow key | Face that direction without moving |
-| ALT+Movement key | Precise movement: tap to nudge 2 pixels, hold to slide smoothly at walking speed until you let go |
+| ALT+Movement key | Nudge 2 pixels for exact positioning (hold to keep sliding) |
 | Q, CTRL+Q | Drop item |
 | E, CTRL+E | Quick equip |
 | R, CTRL+R | Throw |
@@ -60,6 +60,8 @@ This is a list of hotkeys for when the game is on **Hotkey Mode**. Use **Tab** t
 | Numpad 5 | Select Chest (targeting) |
 | Numpad 6 | Select Left Arm (targeting) |
 | Numpad 8 | Select Head (targeting) |
+
+Movement is free: holding a movement key slides you smoothly at walking or running speed, and you stop exactly where you let go instead of snapping to the next tile. Moving into a corner slips you sideways into a doorway, and moving diagonally into a wall slides you along it. While you pull something, drive, are confused or climb in or out of a trench, you move one tile at a time instead. IC > Toggle Smooth Movement switches back to tile movement (stand lined up with a tile first).
 
 ## Typing bubbles
 
