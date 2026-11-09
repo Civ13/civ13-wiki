@@ -45,13 +45,25 @@ Red, green, yellow and purple **signal smoke grenades** mark a position, a landi
 
 Armed mines are hard to see. Craft a **mine detector** from **2 electronics** in the **Tools** menu after **Electricity** research, where crafting is available. Switch it on and hold it. It beeps once when an armed mine is within five tiles, twice within three tiles and three times right next to one, and it circles the mines within three tiles for you. Disarm a mine with wirecutters, or dig it up carefully.
 
+## Ghillie suits
+
+Lie down in a **ghillie suit** on grass, dirt or brush and keep still for three seconds, and you fade into the ground. You show again the moment you move, stand, fire, get hit or get bumped. The winter ghillie suit works on snow instead. Craft a ghillie suit (6 cloth) or headcover (2 cloth) in the **Military & Law Enforcement Clothes** menu after **Rifling** research, where crafting is available.
+
+## Night-vision goggles
+
+**Night-vision goggles** let you see in the dark: wear them, then right-click them and choose **Toggle** to switch them on. A flare or searchlight switched on in your view floods them and blurs your sight for a few seconds. Craft them from **4 electronics** in the **Tools** menu after **Consumer Electronics** research, where crafting is available.
+
+## Breaching charges
+
+A **breaching charge** blows one door or window open. Craft an empty charge from **2 steel** in the **Weapons** menu after **Automatic Weapons** research, then pour in **3 units of nitroglycerin** (see [Chemistry](../guides/Guide_to_Chemistry.md)). Click a door or window with it to plant it, which takes three seconds, then step aside: it goes off five seconds later. Whoever is right behind the door is knocked down and deafened, while people on your side only have their ears ring. It does not work on sandbags.
+
 ## Grace periods and roleplay
 
 A barrier opening or timer ending tells you when an area becomes accessible; it does not by itself establish permission to attack in a roleplay scenario. Follow both the briefing and the [Rules](../rules/Rules.md). Do not assume a timer or capture mechanic from another map applies to the current round.
 
 ## Watching as a ghost
 
-After you die, **Toggle Observer HUD** in the Ghost tab shows every soldier's squad chevron, fire team number and health badge while you watch.
+After you die, **Toggle Observer HUD** in the Ghost tab shows every soldier's squad chevron, fire team number and health badge while you watch. The **Status** panel shows how long until you can respawn.
 
 ## Individual survival rounds
 
