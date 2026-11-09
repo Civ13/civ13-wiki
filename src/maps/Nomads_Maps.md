@@ -35,6 +35,7 @@ Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/do
   - You may encounter mice, bears, goats, snakes, frogs, leeches,
     horses, camels, and alligators.
   - The round always starts in the Wet Season.
+  - The desert has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [Gaia](Gaia.md#hills).
 
 ## Jungle
 
@@ -49,6 +50,8 @@ A dense tropical rainforest. You can only farm on the floodplains and during the
 season. Wildlife is deadly here\! Stay away from panthers, mosquitoes
 (as they carry malaria) and ants (will eat your food). Crossing rivers
 without a bridge is considered unsafe - piranhas are abundant.
+
+The jungle has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [Gaia](Gaia.md#hills).
 
 ## Divide (Jungle-Desert)
 
@@ -148,6 +151,8 @@ There is even a temperate biome based off of central europe (France/Germany/nort
 
 Large rivers cover the continent and 7x7 water ways for bridges(tanks and cars) exist on the large rivers.
 
+Europe has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [Gaia](Gaia.md#hills).
+
 Europe starts with only the surface. The first time someone uses a shovel to dig a tunnel down, a cave level forms underneath the whole continent, with rock to mine, open pockets and veins of hard rock. Later tunnels lead into the same caves, and a tunnel dug up from the caves comes out on the surface.
 
 Section of Nomads_World project (1/4)
@@ -188,6 +193,8 @@ Section of Nomads_World project (3/4).
 Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_asia__z01__full.png">z=1 (15680 × 8160 PNG)</a>.
 </figcaption>
 </figure>
+
+Asia has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [Gaia](Gaia.md#hills).
 
 ## Karafuto
 
