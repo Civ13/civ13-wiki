@@ -1,6 +1,6 @@
 # Aircraft
 
-A light plane is the first thing in Civ13 that leaves the ground. It is built at an **aircraft hangar**, takes off best from a **runway** and lands on one, and flies on the air level above the map. Flying is only possible on maps that have an air level: at the moment that is **Gaia**, the main Nomads persistent world. Elsewhere the plane rolls along but never lifts off, and the pilot is told that there is no airspace.
+A light plane is the first thing in Civ13 that leaves the ground. It is built at an **aircraft hangar**, takes off and lands best on a **runway**, and flies on the air level above the map. Flying is only possible on maps that have an air level: at the moment that is **Gaia**, the main Nomads persistent world. Elsewhere the plane rolls along but never lifts off, and the pilot is told that there is no airspace.
 
 ![Offline render using Civ13 sprites: two light planes on a tarmac runway laid across grass, one parked and one with its propeller spinning](../images/civ13-light-plane-sprites.png)
 
@@ -28,7 +28,7 @@ The light plane is four tiles long and three wide: the nose with the engine and 
 
 ## Laying a runway
 
-Runway is a road cover crafted from **1 stone per tile** in the roads category, like a modern road. A take-off needs **8 tiles** of straight runway in front of the plane at full throttle, against **16 tiles** of open ground without one. Landing still needs a runway, and is easier with a longer one. Lay it three tiles wide so the whole plane is over tarmac, and keep the ends clear of walls, trees and vehicles.
+Runway is a road cover crafted from **1 stone per tile** in the roads category, like a modern road. A take-off needs **8 tiles** of straight runway in front of the plane at full throttle, against **16 tiles** of open ground without one. A runway is not needed to land, but it is the only place to land without damage, and a longer one is easier to hit. Lay it three tiles wide so the whole plane is over tarmac, and keep the ends clear of walls, trees and vehicles.
 
 ## Flying
 
@@ -38,7 +38,7 @@ Runway is a road cover crafted from **1 stone per tile** in the roads category, 
 | Right-click the control column | Throttle down one gear |
 | Arrow keys | Steer |
 | **Climb** (verb on the control column, or the HUD button) | In the air, go from low flight to cruise height. On the ground it tells you what is still needed to take off |
-| **Descend** (verb or HUD button) | Come down one level; over a runway at low speed, land |
+| **Descend** (verb or HUD button) | Come down one level; at low speed in low flight, land |
 
 The HUD shows the plane's current height while you are in the pilot's seat.
 
@@ -50,9 +50,13 @@ The HUD shows the plane's current height while you are in the pilot's seat.
 
 ## Landing
 
-Fly over a runway at **second gear or slower** in low flight and **Descend**. The flight deck of an [aircraft carrier](Guide_to_Aircraft_Carriers.md) is a runway too, and its arresting wires stop the plane on the spot. At least half of the airframe has to be over runway for the wheels to find it. Too fast, and the plane stays in the air and tells you to slow down; off the runway, it warns you and keeps flying so you can go round again.
+Fly at **second gear or slower** in low flight and **Descend**. Too fast, and the plane stays in the air and tells you to slow down.
 
-Away from a runway, **Descend twice within 5 seconds** to force a crash landing. The plane comes down on the nearest clear ground with its engine off and its landing gear broken, and the crew are bruised. With no clear ground within reach the airframe breaks up and everyone aboard falls.
+- **On a runway:** a smooth landing. At least half of the airframe has to be over runway for the wheels to find it. The flight deck of an [aircraft carrier](Guide_to_Aircraft_Carriers.md) is a runway too, and its arresting wires stop the plane on the spot.
+- **On open ground:** with no runway below, the plane can still set down on dry, open ground: grass, dirt, sand, snow, roads or floors, with nothing standing in the way under any part of the airframe. It is a **rough landing**: the plane bounces down, stops dead and the airframe takes damage, which a weld repairs. A plane whose airframe is already badly torn also breaks its landing gear.
+- **Over water, trenches or obstacles:** the plane warns you and keeps flying so you can go round again.
+
+Where you cannot land, **Descend twice within 5 seconds** to force a crash landing. The plane comes down on the nearest clear ground with its engine off and its landing gear broken, and the crew are bruised. With no clear ground within reach the airframe breaks up and everyone aboard falls.
 
 ## Arming the plane
 
@@ -89,5 +93,5 @@ You need to hold the plane's key to hangar it and to roll it out. Examine the ha
 
 - Hangar the plane when you are done flying. A hangared plane is kept safe across saves.
 - Land before a save. A plane saved in the air is set down on the ground below when the world loads, and that is a hard landing with broken wheels unless the ground directly beneath it is clear.
-- Keep a second runway at the far end of your trips. You can take off again from open ground, but landing anywhere else is a crash landing.
+- Keep a second runway at the far end of your trips. You can take off from and land on open ground, but every rough landing costs airframe damage, and a torn plane lands on broken wheels.
 - Build the runway right out of the hangar bay. The plane is delivered facing south on the 4x4 square northeast of the hangar, so a strip running south from there is the shortest taxi.
