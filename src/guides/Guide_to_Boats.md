@@ -9,6 +9,7 @@ Anything that floats is built from the crafting menu's **vehicle parts** section
 | [Motor outrigger](#outriggers) | Fast, wind-free travel | 2 + 1 cargo | Engine |
 | [Rigid hull inflatable boat (RHIB)](#rigid-hull-inflatable-boat) | Sturdier motorboat with a bigger engine | 2 + 1 cargo | Engine |
 | [Modular ship](#modular-ships) | Carrying a crew, cargo and guns | As many as fit | Masts and sails, or an engine |
+| [Submarine](#submarines) | Travelling unseen under the open ocean (Gaia) | As many as fit | Diesel engine |
 
 ![Offline render using Civ13 sprites: a raft, a sailing outrigger, a motor outrigger and a rigid hull inflatable boat on shallow water](../images/civ13-small-boats-sprites.png)
 
@@ -192,6 +193,45 @@ To stop, drop the anchor or take in the sails. With an engine, decrease the spee
 - A ship stops when its bow meets land, ice, another ship or a solid obstacle it can't break.
 - A ship weighing **400 or more** smashes through most solid objects in its path. At **800 or more** it runs over anyone in the way, and lighter ships still hit them hard. Keep swimmers clear of the bow.
 - Explosions can break or destroy masts. A ship with a broken mast, or a mast without a sail, won't sail.
+
+## Submarines
+
+A submarine is a steel boat that can dive under the open ocean. On the surface it handles like any engine-driven [modular ship](#modular-ships). Submerged, it travels on the dark water under the sea, where ships on the surface can't see it.
+
+Diving only works on **Gaia**, which has open sea under its deep ocean. Anywhere else a submarine is just a surface boat.
+
+### Building one
+
+1. Research **Submarines** (needs Wagons & Ships, Combustion Engine and Electricity).
+2. Craft a **submarine pen** (40 steel, in the production section) on the shore. The 5x5 square northeast of the pen must be **deep saltwater** with nothing in it, and the pen needs a power cable on or next to it, like the [automobile workshop](Guide_to_Crafting.md#automobile-workshop).
+3. Feed the pen **90 steel, 4 glass and 12 cable**, then click it and choose **Submarine**.
+
+The boat is launched into the square with an **empty diesel tank** and a vehicle key. It is three tiles wide and five long. The bow has the ship wheel, the middle has the **ballast and periscope station**, and the stern has the engine and tank. The hull is roofed. Amidships the sides are open on both beams, and those hatches are how the crew and cargo get on and off.
+
+### Diving and surfacing
+
+Click the **ballast and periscope station** to dive or surface. Each takes a few seconds.
+
+- **Stop the boat first.** You can't dive or surface while it's moving.
+- **Dive in open ocean.** The water has to be deep enough under every tile of the hull. The sea floor rises about one tile out from every coast, island and shallow, so move a little way offshore.
+- **Surface into open water.** You can't come up under another ship, a raft, a bridge or anything else floating above you.
+- Everything aboard goes down with the boat: crew, crates, machinery and anyone standing on the deck. Nobody can leave a submerged boat, and anything dropped over the side sinks.
+
+Submerged, you steer and set speed at the ship wheel as usual. If the sea floor rises ahead, the sonar warns you and the boat stops. Turn away, or surface and continue on the surface.
+
+### Periscope and contacts
+
+While submerged, choose **Raise periscope** at the station to see the surface straight above the boat. The view follows the boat as it moves. Step away from the station, or choose **Lower periscope**, to put it down.
+
+**Contacts** lists what's around you, with the range in tiles, the bearing and the heading:
+
+- **Ships** on the surface within 30 tiles.
+- **Aircraft** flying within 30 tiles.
+- **Submerged boats** within 20 tiles, by sonar, only while you are submerged yourself. Sonar can't tell you whose boat it is.
+
+### Loading and unloading
+
+Surface next to a pier, a beach or another ship. Then walk off through the open hatches amidships and carry or pull crates on and off. Cargo left on the deck stays aboard when you dive.
 
 ## Sailing and the wind
 
