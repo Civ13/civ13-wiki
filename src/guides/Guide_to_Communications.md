@@ -101,6 +101,38 @@ do not speak the recorded language hear it garbled. A tape holds ten minutes
 of recording; examine a tape or the recorder to see how much is used. Write on
 a tape with a pen to label it.
 
+## Radio stations
+
+From 1903 you can run your own **radio station**. Once the Factories research
+is complete, anyone with 105 crafting can build the three pieces:
+
+| Piece | Cost |
+| --- | --- |
+| Powered radio program desk | 6 electronics |
+| Broadcast antenna | 5 iron |
+| Powered broadcast receiver | 3 electronics each |
+
+- **Setting up:** place the antenna within one tile of the desk. Lay cable
+next to the desk and each receiver, then drag the cable onto them to power
+them. Use **Equipment** on the desk and on each receiver to switch them on
+and tune them to the same frequency (150 to 300).
+- **Range:** receivers work up to 60 tiles from the desk on the same level.
+People within three tiles of a receiver hear it.
+- **Presenting live:** use the desk and choose **Present live**, then talk
+normally while you stand next to it. Up to 32 listeners hear each line, with
+the station's name in front. **Stop presenting** ends your show, and walking
+away, losing power or losing the antenna also takes you off the air. Deaf and
+sleeping listeners hear nothing, and listeners who do not know your language
+hear it garbled.
+- **Station name and faction tag:** set a name and an optional faction tag
+from the desk. They only change how your station is labelled.
+- **Skill courses:** a presenter with at least 100 in crafting, farming or
+medical can prepare that course under **Equipment > Program**. Examine the
+desk to see when each course airs. Each lesson improves a listener's skill a
+little, once per lesson per character.
+- **Other lands:** a working long-range radio relay (below) also carries your
+live show to tuned receivers in linked lands.
+
 ## Long-range radio relay
 
 Radios normally only reach the land you are in. A **long-range radio relay**
