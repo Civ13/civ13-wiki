@@ -249,7 +249,8 @@ To avoid that, go to sleep properly:
 - To wake up, type `wake-up` (without "say") or click "Wake Up" on the IC tab. Waking takes 30 seconds and returns you to the spot where you went to sleep. If the return cannot complete safely, protection remains active; wait for any save or load to finish, then try again.
 
 Sleep is unavailable on Voyage. Disease, fleas in worn clothing or hygiene of
-80 or less prevent entry. Wait for an active world save or load to finish before
+80 or less prevent entry. Washing the clothing at a sink or in a washing machine
+gets rid of its fleas. Wait for an active world save or load to finish before
 sleeping or waking.
 
 ### When the world saves

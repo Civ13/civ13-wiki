@@ -8,7 +8,7 @@ Everything here is built from the crafting menu and needs research on your facti
 
 | Research | Unlocks |
 | --- | --- |
-| **Factories** | Barrel station, fluid pipe, pipe valve, fluid pump, holding tank, reaction vessel, water intake, water tap, piped shower |
+| **Factories** | Barrel station, fluid pipe, pipe valve, fluid pump, holding tank, reaction vessel, water intake, water tap, piped shower, piped washing machine |
 | **Assembly Line** | Factory belt, parts bin, belt drive, assembly fabricator |
 | **Automation** | Feeder arm, sorting arm, sorting gate, reagent gate, belt splitter, belt tunnel entrance and exit, fast factory belt, factory monitor, automated fabricator, bottler, fast reaction vessel, pipe meter |
 | **Digital Computing** | Stack arm, computerized fabricator, industrial reaction vessel |
@@ -132,7 +132,7 @@ Pipes move liquids between machines. A pipe network does nothing until a **power
 
 - **Sources** offer liquid: oil wells, water intakes (set beside open water), refinery output, barrel stations set to drain and steel barrels fitted to a pipe.
 - **Holding tanks** store liquid. Hold a container and use **Set Tank Filter** to keep a tank to one reagent. Tanks never feed other tanks.
-- **Sinks** take liquid: refinery feed, engine fuel tanks, barrel stations set to fill, bottlers, reaction vessels, the automatic tablet press, water taps and piped showers.
+- **Sinks** take liquid: refinery feed, engine fuel tanks, barrel stations set to fill, bottlers, reaction vessels, the automatic tablet press, water taps, piped showers and piped washing machines.
 - A **pipe valve** splits the network in two while closed. Click it to open or close it.
 - A **pipe meter** clamped on a pipe reports that network's pumps, what moved and each machine's state. Its dial lights while liquid is moving.
 
@@ -145,6 +145,8 @@ Barrels ride belts and arms like any item. Arms can hand barrels to oil wells (w
 ### Water supply
 
 A **water tap** and a **piped shower** run on whatever the pipes bring them, and go dry when the network stops supplying them. Fill a container at a tap, drink from it on grab intent, or wash your hands in it. A tap gives exactly what came down the pipe, so river water from an intake is still unboiled at the tap. A piped shower only takes water.
+
+A **piped washing machine** (8 steel) also needs the pipes: each wash takes 20 units of pumped water, and it will not start while it is disconnected or short of water, even with water left inside. Examine it to see how much it holds. Washing machines already placed on a map have their own supply and need no pipes.
 
 To feed the network from a barrel, stand a **steel barrel** on or next to a fastened pipe and use a wrench on it. A fitted barrel offers everything it holds to the network while a pump runs, but it never fills from the pipes. Moving or picking up the barrel, or using the wrench on it again, detaches it. An open barrel left outdoors with nothing overhead catches rain, and dew on clear nights, so a fitted steel barrel can keep a tap supplied. Wood barrels and jerrycans do not fit pipes.
 
