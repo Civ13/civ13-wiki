@@ -90,6 +90,10 @@ Every reported position lets your side request support within **15 tiles** of it
 
 Anyone can use a **rangefinder** (2 electronics, Tools menu, after Consumer Electronics). Look through it like binoculars and click a spot. After a moment it gives the exact range, bearing, coordinates and offset. Once coordinates are allowed in the round, each spot you range also counts as a reported position for support requests.
 
+## Cell timers
+
+Officers and commanders can lock up prisoners. Right-click a closed door and choose **Cell Timer** to hold it shut for 1 to 30 minutes. Nobody can open it until the time is served, then it opens by itself and everyone nearby hears it click. Examining the door shows the time left, and the time carries over when the server restarts. Use **Cell Timer** again to release the prisoner early. The door can still be broken down.
+
 ## Medals
 
 Commanders and officers can use **Award Medal** in the **Officer** tab during team rounds. Stand next to a living soldier of your side, choose a bronze, silver or gold medal, and write a citation of up to 140 letters. The medal goes into the soldier's hands. Each officer can award three medals a round, and the citations are read out at the end of the round.
