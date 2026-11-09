@@ -133,6 +133,46 @@ little, once per lesson per character.
 - **Other lands:** a working long-range radio relay (below) also carries your
 live show to tuned receivers in linked lands.
 
+## Television stations
+
+From 1969 you can run a **television station**. It works like a radio
+station, and also lets viewers watch live video from your cameras. Once the
+Assembly Line research is complete, anyone with 160 crafting can build:
+
+| Piece | Cost |
+| --- | --- |
+| Television program desk | 10 electronics |
+| Educational television receiver | 3 electronics each |
+| Studio, street or helmet television camera | 4 electronics each |
+
+The desk also needs a broadcast antenna within one tile, as for radio.
+
+- **Setting up:** power the desk and each receiver with laid cable, then tune
+them to the same frequency (150 to 300). Receivers work up to 60 tiles from
+the desk on the same level.
+- **Live shows and courses:** **Present live**, station names, faction tags and
+the crafting, farming and medical skill courses work just like on radio.
+Radio and television audiences are separate.
+- **Pairing cameras:** hold a camera and use it on your desk. Only cameras
+paired with your desk can go on air; matching the frequency is not enough. If
+you retune the desk, pair the cameras again.
+- **Fixed cameras:** switch the studio or street camera on in hand, choose
+**Install**, and drag a laid cable within one tile onto it. A wrench unfastens
+it again.
+- **Helmet cameras:** charge it from a power cell, switch it on and choose
+**Fit to helmet** while wearing headgear. Its battery lasts about 16 minutes
+while switched on. **Remove Television Camera** takes it off.
+- **Going on air:** choose **Video feed** at the desk and pick one of your
+powered cameras within 60 tiles. One camera airs at a time; **Stop video** ends
+the feed.
+- **Watching:** stand next to a powered, tuned receiver, choose **Watch video**
+and pick the station. Up to 32 viewers can watch one station. Moving, or
+clicking the receiver again, stops watching.
+- **When video stops:** the feed ends if the camera, desk or receiver loses
+power or goes out of range, the antenna is lost, the camera's wearer takes off
+the headgear, or the helmet battery runs out. Cameras can be smashed or shot.
+After a world is loaded, start the feed and watch again.
+
 ## Long-range radio relay
 
 Radios normally only reach the land you are in. A **long-range radio relay**
