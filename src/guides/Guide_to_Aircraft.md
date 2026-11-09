@@ -49,7 +49,7 @@ The HUD shows the plane's current height while you are in the pilot's seat.
 
 ## Landing
 
-Fly over a runway at **second gear or slower** in low flight and **Descend**. At least half of the airframe has to be over runway for the wheels to find it. Too fast, and the plane stays in the air and tells you to slow down; off the runway, it warns you and keeps flying so you can go round again.
+Fly over a runway at **second gear or slower** in low flight and **Descend**. The flight deck of an [aircraft carrier](Guide_to_Aircraft_Carriers.md) is a runway too, and its arresting wires stop the plane on the spot. At least half of the airframe has to be over runway for the wheels to find it. Too fast, and the plane stays in the air and tells you to slow down; off the runway, it warns you and keeps flying so you can go round again.
 
 Away from a runway, **Descend twice within 5 seconds** to force a crash landing. The plane comes down on the nearest clear ground with its engine off and its landing gear broken, and the crew are bruised. With no clear ground within reach the airframe breaks up and everyone aboard falls.
 
