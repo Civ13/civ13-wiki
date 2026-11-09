@@ -72,6 +72,15 @@ A **docking port** (30 steel) lets other parties visit. Set it up inside your st
 
 Visitors cannot fire your thruster, steer your pods, build decks or sectors, or use your orbit console's winch.
 
+## Asteroid mining
+
+Now and then a small asteroid drifts past your station, and the crew is told when one shows up. Go out on EVA to it:
+
+- **Tether it.** Use a safety tether on the asteroid to hold it beside the station; the tether is used up. An untethered asteroid drifts on after about half an hour.
+- **Mine it.** Hit it with a pickaxe or jackhammer. Each swing frees a few lumps of iron ore, copper ore or water ice, and sometimes silver or gold. Worked out, it crumbles to dust.
+
+A station has at most two asteroids nearby at a time, and they only arrive while someone is playing.
+
 ## Defending a station
 
 - **Hull armour plate** (15 steel). Use it on a module's core to bolt it on; a module takes three. Each plate stops one strike of debris (or a meteorite on Mars and the Moon) that would have holed the hull, and is used up doing so.
