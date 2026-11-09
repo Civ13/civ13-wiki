@@ -39,23 +39,25 @@ Runway is a road cover crafted from **1 stone per tile** in the roads category, 
 | Use the control column | Throttle up one gear |
 | Right-click the control column | Throttle down one gear |
 | Arrow keys | Steer |
-| **Climb** (verb on the control column, or the HUD button) | In the air, go from low flight to cruise height. On the ground it tells you what is still needed to take off |
-| **Descend** (verb or HUD button) | Come down one level; at low speed in low flight, land |
+| **Climb** (verb on the control column, or the HUD button) | In the air, aim 5 height levels higher. On the ground it tells you what is still needed to take off |
+| **Descend** (verb or HUD button) | Aim 5 height levels lower; just above the ground at low speed, land |
 
-The HUD shows the plane's current height while you are in the pilot's seat.
+The HUD shows the plane's height while you are in the pilot's seat, such as **LOW 7** or **HIGH 18**. Examining the control column also shows how far above the ground you are and the height you are heading for.
 
-- **Take-off:** start the engine, line up, throttle to full and roll straight ahead. The plane takes off by itself: after 8 tiles on runway, or 16 tiles on open ground, the wheels leave the ground and the plane is in **low flight**, one level above the surface. Climb then takes you to **cruise** height.
-- **Low flight and cruise:** at low height the plane flies just above the surface, can be shot at by anyone and crashes into anything tall standing in its path, such as walls and trees. At cruise it clears every obstacle and only heavy weapons reach it, but you have to come down to low flight before you can land. The pilot sees the ground below from the cockpit, and people on the ground see the plane's shadow pass over them.
+- **Take-off:** start the engine, line up, throttle to full and roll straight ahead. The plane takes off by itself: after 8 tiles on runway, or 16 tiles on open ground, the wheels leave the ground two levels up and the plane climbs on to height 6 in **low flight**.
+- **Height:** a plane's height uses the same 0 to 15 scale as the hills. It climbs or sinks 2 levels for every tile it flies, toward the height you set with Climb and Descend.
+- **Low flight (height 15 and below):** the plane flies among the hills. Anything ahead that reaches its height is flown into: a hillside, a tree or a wall (3 levels above the ground it stands on), or an upper storey. A **Terrain ahead** warning tells you the height of ground within 5 tiles in front of you that you would hit, so climb above it in time. Anyone can shoot at a plane in low flight.
+- **Cruise (above 15):** past the top of the hill scale the plane cruises over every hill, tree and rooftop, and only heavy weapons reach it. It cannot sink back into low flight over an upper storey or the highest peaks, and you have to come down to low flight before you can land. The pilot sees the ground below from the cockpit, and people on the ground see the plane's shadow pass over them.
 - **Stalling:** a plane that flies slower than **second gear** for 3 seconds, or whose engine stops, stalls and crash-lands on the nearest clear ground below. You get one warning to throttle up first.
 - **Map edge:** the plane stops at the edge of the world and warns you. Turn back at once, because a plane that stays there stalls.
 - **Fuel:** flying burns fuel faster than driving, and low flight burns the most. A full tank lasts about four minutes of low flight. Watch the tank, because an engine that runs dry in the air is a stall.
 
 ## Landing
 
-Fly at **second gear or slower** in low flight and **Descend**. Too fast, and the plane stays in the air and tells you to slow down.
+Descend until the plane skims just above the ground, then fly at **second gear or slower** and **Descend** once more. Too fast, and the plane stays in the air and tells you to slow down.
 
 - **On a runway:** a smooth landing. At least half of the airframe has to be over runway for the wheels to find it. The flight deck of an [aircraft carrier](Guide_to_Aircraft_Carriers.md) is a runway too, and its arresting wires stop the plane on the spot.
-- **On open ground:** with no runway below, the plane can still set down on dry, open ground: grass, dirt, sand, snow, roads or floors, with nothing standing in the way under any part of the airframe. It is a **rough landing**: the plane bounces down, stops dead and the airframe takes damage, which a weld repairs. A plane whose airframe is already badly torn also breaks its landing gear.
+- **On open ground:** with no runway below, the plane can still set down on dry, open ground: grass, dirt, sand, snow, roads or floors, with nothing standing in the way under any part of the airframe, and level enough that the ground under the plane differs by no more than one height level. It is a **rough landing**: the plane bounces down, stops dead and the airframe takes damage, which a weld repairs. A plane whose airframe is already badly torn also breaks its landing gear.
 - **Over water, trenches or obstacles:** the plane warns you and keeps flying so you can go round again.
 
 Where you cannot land, **Descend twice within 5 seconds** to force a crash landing. The plane comes down on the nearest clear ground with its engine off and its landing gear broken, and the crew are bruised. With no clear ground within reach the airframe breaks up and everyone aboard falls.
