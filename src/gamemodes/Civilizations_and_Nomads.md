@@ -79,7 +79,7 @@ Work smart, not hard!
 #### General
 
 * To **Create** a faction, open the **Faction tab** and click **Create a faction**. Choose a name for it, as well as symbols and colours for your faction's banner.
-* To join a faction, you must be **Recruited** by a faction member who has **recruitment permissions**.
+* To join a faction, you must be **Recruited** by its leader or by a member who has the **Recruitment** permission. If you are already in another faction, accepting moves you over and you join as an ordinary member, without any rank or permissions you had before.
 * You can leave a faction by clicking **Abandon** on the **Faction tab**. Take note, that **you will not be able to rejoin the same faction for 24 hours!**
 * Creating a faction makes you the default **Leader**.
 
@@ -98,16 +98,16 @@ On Nomads maps you can right-click someone next to you and choose **Offer Adopti
   - You can choose **Rally Point** in the IC tab to plant a rally point where you stand. For ten minutes your members' tracker arrow points to it. Any member can right-click something they see and choose **Spot Enemy** to warn the faction. See [Spotting enemies and rally points](../guides/Guide_to_Leadership.md#spotting-enemies-and-rally-points).
   - You can jail someone: right-click a closed door and choose **Cell Timer** to hold it shut for 1 to 30 minutes. Nobody can open it until the time is served, then it opens by itself and everyone nearby hears it click. Examining the door shows the time left, and the time carries over when the server restarts. Use **Cell Timer** again to release the prisoner early. The door can still be broken down.
   - You can make **Announcements** that are received by every member of your faction. Open the **Officer tab** and select **Faction Announcement**.
-  - You can delegate your power to other faction members by giving them certain **officer permissions**. **Right-click** a person and select **Faction Perms**. These are the permissions you can give or revoke, if the person already has them:
-      - **Permission Management** - allows giving permissions per se.
+  - You can delegate your power to other faction members by giving them certain **officer permissions**. **Right-click** a member of your faction and select **Faction Perms**. These are the permissions you can give or revoke, if the person already has them:
+      - **Permission Management** - lets them give or revoke **Announcements** and **Giving Titles**. Only the leader can hand out Permission Management and Recruitment.
       - **Announcements** 
       - **Giving Titles**
-      - **Recruitment**
+      - **Recruitment** - lets them invite people into the faction. It does not make them a leader: they get no treasury, tax or permission powers.
 
 #### As a Member
 
   - You can ask the leader to give you **officer permissions**.
-  - If the leader dies, anyone in the faction can recruit new members.
+  - Members with the **Recruitment** permission can recruit new members while the leader is away.
   - Anyone in the faction can become a new leader if the current one is dead, by clicking **Become Faction Leader** on the **Faction tab**.
 
 ## Research
