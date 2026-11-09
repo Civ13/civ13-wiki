@@ -68,6 +68,7 @@ New to the game? Start with [How to Play](New_Player_Guide.md), then the [Starte
 - [Paperwork](guides/Guide_to_Paperwork.md)
 - [Religion](guides/Guide_to_Religion.md)
 - [Races](guides/Guide_to_Races.md)
+- [Traders](guides/Guide_to_Traders.md)
 
 ## [Role Guides](role_guides.md)
 

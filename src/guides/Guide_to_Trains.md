@@ -11,6 +11,20 @@ Rails and steam trains move people, fuel and cargo along a fixed track. The part
 
 The wooden mining cart needs Industrial research **93** in either mode.
 
+Platform car kits (see [Platform cars](#platform-cars)):
+
+| Mode | Platform car, passenger coach | Sleeper, dining and storage cars |
+| --- | --- | --- |
+| [Tech tree](Guide_to_Research.md) | **Rail & Steam** node | **Assembly Line** node |
+| [Legacy research](../gamemodes/Civilizations_and_Nomads.md#research) | Industrial research **101** | Industrial research **140** |
+
+Wartime cars (see [Wartime cars](#wartime-cars)):
+
+| Mode | Railway gun car, armored locomotive | Armored wagon, flak car |
+| --- | --- | --- |
+| [Tech tree](Guide_to_Research.md) | **Field Artillery** node | **Automatic Weapons** node |
+| [Legacy research](../gamemodes/Civilizations_and_Nomads.md#research) | Industrial **101** and military **109** | Industrial **101** and military **125** |
+
 ## What you can build
 
 | Piece | Cost | Notes |
@@ -26,6 +40,7 @@ The wooden mining cart needs Industrial research **93** in either mode.
 | Cabin wagon | 4 iron | A covered seat for the driver or passengers. |
 | Flatbed wagon | 4 iron | Carries people, crates and structures. |
 | Transport wagon | 5 iron | A covered storage wagon (8 slots). |
+| Rail warehouse office | 15 iron | Stores cars and whole trains (see [Rail warehouse](#rail-warehouse)). |
 
 Switchers, rotators, levers and wagons are placed facing the way **you** face, so stand looking along the line before you build them. Plain track shapes itself (see below).
 
@@ -100,6 +115,67 @@ Carry spare coal in a **tender** hitched behind the engine for long routes.
 
 - **Storage wagons** (mining cart, tender, transport wagon): click to open their storage, or drag items onto them.
 - **Flatbed and cabin wagons:** drag a person onto the wagon to bring them aboard, or drag yourself to climb in. Standing on the wagon with someone, you can buckle them in. Drag a loose crate or structure onto a flatbed to secure it for the ride, and right-click the wagon and choose **Unsecure** to release it at the other end.
+
+## Platform cars
+
+Platform cars are full-size railway carriages: **three tiles wide and four tiles long**, with the track down the middle. You can walk around inside them while the train is moving, and everything on the deck rides along with the car: people, furniture, crates and anything you set down. A car bends round curves, and its furniture turns with it.
+
+![Five platform cars pulled round a curve: storage car, dining car, sleeper car and passenger coach behind a steam locomotive, with an open platform car still on the straight](../images/civ13-platform-cars-curve.png)
+
+| Kit | Cost | What you get |
+| --- | --- | --- |
+| Platform car kit | 12 iron | An open plank deck with railings at each end, for cargo, crates and machines. |
+| Passenger coach kit | 16 iron | Six seats either side of a carpeted aisle, windows, side doors and end doors. |
+| Sleeper car kit | 20 steel | Three private compartments a side, each with a bed and a sliding door. |
+| Dining car kit | 20 steel | A galley with a stove, sink, fridge and counter, and two booths. |
+| Storage car kit | 18 steel | Cabinets and large crates, each behind its own compartment door. |
+
+### Putting a car together
+
+1. Carry or drag the kit onto the track. It needs **four tiles of straight track**: the tile under the kit and the three behind it.
+2. Leave a **clear tile on both sides** of those four tiles for the deck.
+3. Stand facing the way the car should point (towards the locomotive) and hit the kit with a **hammer**.
+
+To couple the car, right-click its front end and choose **Hitch**, the same as an ordinary wagon. The middle of a car can't be unhitched.
+
+### Riding and doors
+
+- Click a door to open or close it. Side doors are at the front end of each enclosed car, and end doors let you walk from one car to the next.
+- Walls and windows keep you from walking through them, but they don't stop bullets. Armor plate on wartime cars does.
+- Track for platform cars needs a clear tile on each side all the way along, including on curves. If a car's deck would hit a wall, a tree or another train, the whole train grinds to a halt before it moves. People standing beside the track aren't hurt. The deck slides under them and they end up on board.
+
+### Wartime cars
+
+![An armored train standing still: armored locomotive, armored wagon, railway gun car, flak car, a second armored wagon and an open platform car](../images/civ13-wartime-train.png)
+
+| Kit | Cost | What you get |
+| --- | --- | --- |
+| Railway gun car kit | 60 steel | A long-range gun on a turntable, an outrigger lever and a shell rack. |
+| Armored wagon kit | 40 steel | Armor plate with firing doors and four mounted machine guns. |
+| Flak car kit | 45 steel | A low armored wall, two autocannons and ammunition crates. |
+| Armored locomotive | 30 steel | A steam locomotive cased in steel plate. |
+
+- **Bracing the railway gun.** The gun only fires while its car is braced. Stop the train, wait a moment for it to settle, then pull the **outrigger lever** on the car. While the outriggers are down the whole train stays where it is; pull the lever again to raise them before you set off.
+- **Armor.** Armor plate stops bullets coming from outside the car, but the crew inside can shoot out through it. Open an armor door to get on or off.
+- **Explosions.** Shells and bombs damage platform cars; armored cars take much less. A car blown off the rails stops its whole train. Weld it with a **welding tool** until it is back on the rails.
+- **Armored locomotive.** Bullets do nothing to it. Heavy explosions wear its plating down, and once its boiler is holed the engine dies and won't start again until it has been welded.
+
+### Taking a car apart
+
+Stop the train, uncouple the car from the cars on both sides and clear everything off its deck, furniture included. Then use a **crowbar** on the car to pack it back into a kit. A kit that was taken apart comes back without furniture, so keep the furniture you removed and put it back aboard.
+
+## Rail warehouse
+
+A rail warehouse stores cars and locomotives off the line, together with everything on board, so a yard doesn't need long sidings. Trains drive straight through it: unload cars from the back of a train, or couple stored cars back on to make up a new one.
+
+![A train standing in a rail warehouse: a locomotive pulling a storage car, a passenger coach and a loaded platform car, with the office post in the wall beside the track](../images/civ13-rail-warehouse.png)
+
+1. **Build the office** (15 iron; **Rail & Steam** node, or industrial research **101**) facing the track, with **one tile between the office and the rails**. The track running past it, **six tiles each way**, is the warehouse bay (13 tiles, room for three platform cars and a locomotive). Use a wrench on an empty office to turn it. Build walls and a roof around the bay if you like, but leave the track open at both ends and keep a clear tile either side of the rails.
+2. **Drive the train in** and stop it with the cars you want to put away inside the bay. Get everyone off them.
+3. **Use the office.** Choose a car to put away, or **Put away the whole train**. Cars always come off the **back** of the train: whatever is standing on a car goes with it, crates and their contents included.
+4. **Couple a car back on** from the same menu. It rolls onto the track behind the train in the bay and is hitched to it. If the bay is empty, it rolls to the far end.
+
+The office holds 8 cars or locomotives. It won't take a moving train, a car that sticks out of the bay, a car with people aboard, or a railway gun car with its outriggers down.
 
 ## Through station and service loop
 

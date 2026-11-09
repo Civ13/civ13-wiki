@@ -9,7 +9,7 @@ Everything here is in the crafting menu's **spaceflight** section.
 | Node (Industrial) | Unlocks |
 | --- | --- |
 | **Crewed Flight** | Launch pad, crewed lander |
-| **Orbital Flight** (after Crewed Flight) | Rockets, launch complex office, orbit console, truss, safety tether, orbital workshop kit, node module kit, sector beacon, edge coupler, reboost thruster, solar wings and arrays, radioisotope generator, fuel cell, radiator, cargo freighter, freight dispatcher, satellite launcher, ground station, satellites, GPS receiver, docking port, microgravity lab, orbital refinery, hull armour plate, point-defence turret |
+| **Orbital Flight** (after Crewed Flight) | Rockets, launch complex office, orbit console, truss, safety tether, orbital workshop kit, node module kit, sector beacon, edge coupler, reboost thruster, solar wings and arrays, radioisotope generator, fuel cell, radiator, cargo freighter, freight dispatcher, satellite launcher, ground station, satellites, GPS receiver, docking port, microgravity lab, orbital refinery, orbital battery, orbital shell, target designator, hull armour plate, point-defence turret |
 | **Sealed Habitats** (after Crewed Flight) | Habitat, greenhouse, workshop, storage and airlock module kits, hull patch kit |
 | **Life Support** (after Sealed Habitats) | CO2 scrubber, heater, electrolyser, water recycler, oxygen reclaimer, sorbent cartridge |
 | **Pressure Suits** (after Sealed Habitats) | Pressure suit, helmet, suit air tank, suit patch kit |
@@ -85,6 +85,19 @@ A station has at most two asteroids nearby at a time, and they only arrive while
 
 - **Hull armour plate** (15 steel). Use it on a module's core to bolt it on; a module takes three. Each plate stops one strike of debris (or a meteorite on Mars and the Moon) that would have holed the hull, and is used up doing so.
 - **Point-defence turret** (45 electronics, from 2013). Run a cable to it. A powered turret shoots down most debris and meteorites heading for modules within 7 tiles, before the armour is touched. It also fires on raiders forcing a docking at a port within 7 tiles: each turret adds 15 seconds to the crossing, up to two turrets.
+
+## Orbital artillery
+
+A station can drop shells on a ground world below it. Build an **orbital battery** (60 electronics) on your own station, run a cable to it and rack **orbital shells** (15 steel each) into it, up to six. A salvo fires three. Use the battery, pick an awake ground world, choose how to aim and enter the X and Y coordinates of the target.
+
+| Aim | What it needs | Warning | Spread | Battery cooldown |
+| --- | --- | --- | --- | --- |
+| **Spotter** | Someone in your party painted the spot (within 3 tiles) with a **target designator** (10 electronics) in the last five minutes | 30 seconds | 1 tile | about 10 minutes |
+| **Imagery** | Your party owns a ground station with a spy satellite on that world, and the spot is outdoors | 60 seconds | 3 tiles | about 20 minutes |
+
+A target designator works like a rangefinder: look through it and click a spot outdoors. It tells you the coordinates to pass up to your crew, for example over a long-range radio. If the aim doesn't check out on the ground, the shells burn up in the air. A salvo can't reach anything indoors or underground.
+
+Everyone within 15 tiles of the target sees a streak of fire falling toward it and hears a shriek 10 seconds before the impact, so there is time to run. Taking out the spotter, or cutting or taking over the striking party's spy satellite, stops further strikes.
 
 ## Zero-g manufacturing
 
