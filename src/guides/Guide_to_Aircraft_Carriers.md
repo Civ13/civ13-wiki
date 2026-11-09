@@ -8,8 +8,9 @@ An aircraft carrier is a ship forty tiles long and nine wide that is laid down w
 | --- | --- | --- | --- |
 | Shipyard office | 60 steel | Naval Aviation | Industrial 150 |
 | Aircraft carrier | 400 steel, 20 glass, 40 cable | Laid down at the office | Laid down at the office |
+| Shoring kit | 6 soft wood | Submarines | Industrial 126 |
 
-**Naval Aviation** is an Industrial node in the Vehicles line. It needs **Powered Flight** and **Submarines**. The office is in the **production** crafting category and only works for a faction that has finished the node.
+**Naval Aviation** is an Industrial node in the Vehicles line. It needs **Powered Flight** and **Submarines**. The office is in the **production** crafting category and only works for a faction that has finished the node. Shoring kits are a plain soft wood recipe once Submarines is researched; keep a few aboard for [damage control](#damage-control).
 
 ## Laying the ship down
 
@@ -21,8 +22,8 @@ An aircraft carrier is a ship forty tiles long and nine wide that is laid down w
 ## The decks
 
 - **Hangar deck** (one level down): from stern to bow the engine room, the fuel bunker with the **bunker filling point**, the crew quarters, the hangar, the magazine and the forward compartment, each behind a steel bulkhead with a blast door on the centreline. The two **aircraft elevator** floors are on the port side of the hangar, with a lever beside each. The hangar deck keeps its own air pocket: a hull breach floods the compartment but the ship does not vent.
-- **Flight deck** (the surface): steel plating that counts as runway everywhere. The **arresting wires** cross the after deck four tiles wide; the two 4x4 **elevator platforms** lie on the port side with their levers beside them; a hatch ladder amidships goes down to the hangar and a ladder on the starboard side goes up to the island.
-- **Island** (one level up): a 5x3 superstructure on the starboard side with the **ship's wheel**.
+- **Flight deck** (the surface): steel plating that counts as runway from stern to bow. The **arresting wires** cross the after deck four tiles wide; the two 4x4 **elevator platforms** lie on the port side with their levers beside them; the **catapult** track, three wide and four long, lies on the port side at the bow with its firing lever beside it; a **gun tub** stands at each of the four corners of the deck; **deck lights** line both edges; a hatch ladder amidships goes down to the hangar and a ladder on the starboard side goes up to the island.
+- **Island** (one level up): a 5x3 superstructure on the starboard side with the **ship's wheel**, the **radar set** beside it and a **searchlight** at each after corner.
 
 ## Sailing
 
@@ -34,6 +35,7 @@ The ship moves in **hops**: every 30 seconds it shifts along its heading by 2 ti
 | **Full / Half / Slow ahead**, **All stop** | Ring down a speed; the ship sails only with the anchor up and fuel in the bunkers |
 | **Head north / east / south / west** | Come about on the spot; the ship turns about its centre and needs clear sea for the new box |
 | **Weigh anchor / Drop anchor** | A ship at anchor never hops, whatever the telegraph says |
+| **Deck lights on / off** | Switches the lights along the flight deck edges; the setting is kept with the ship |
 
 The ship stops by itself, with the reason sent to everyone aboard, when land, a pier, another ship or the edge of the world lies in its way, when the bunkers run dry, and while the world is being saved. A blocked full hop tries shorter ones first, so the ship closes up to an obstacle instead of stopping short of it.
 
@@ -46,16 +48,24 @@ The bunkers hold **1000 units** of fuel oil and every hop burns **2 units per te
 The flight deck is a runway, so the [usual rules](Guide_to_Aircraft.md#flying) apply with a few differences:
 
 - **Take-off:** line up along the deck with 8 clear tiles ahead at full throttle. Keep to the port side of the deck: the island stands on the level you climb into, and a plane lined up under it is refused its climb until it rolls clear.
+- **Catapult:** taxi the plane fully onto the catapult track at the bow, nose to the bow, with the engine running, and pull the **catapult lever** beside it. The plane is thrown straight into the air above the bow at full speed, with no deck roll, so the rest of the deck can stay parked up. The lever tells you why it refuses: a plane with a wheel off the track, pointed across the deck, with a cold engine, or something in the air above it.
 - **Landing:** fly down the deck in low flight at second gear or slower and **Descend** over the after deck. A plane that touches down on the **arresting wires** is caught by its tailhook and stops at once. One that lands beyond them rolls on at taxi speed, and the **crash barrier** stops it at the deck edge instead of letting it roll into the sea.
 - **Elevators:** taxi the plane fully onto one of the 4x4 platforms, switch off, and pull the **lever** beside it. The platform takes the plane and anything else on it down to the hangar; the lever in the hangar brings it back up. The elevator refuses a plane that is half on the platform or still rolling, and a blocked hangar floor below.
+- **Gun tubs:** the four corner sponsons are not runway and the crash barrier keeps planes off them. Stay clear of them when lining up.
 - **Hops:** parked planes, crew and cargo ride every hop with the deck. A plane in the air over the ship does not, so land before the ship moves far.
+
+## Radar and lights
+
+- **Radar:** click the **radar set** on the island to sweep 40 tiles around the ship. It lists every ship, other carrier and aircraft in range with its distance, bearing and heading, whether it is stopped, and whether a plane flies low or high. Examining the set tells you how many contacts are on the screen. The ship herself is left out.
+- **Searchlights:** the two searchlights on the island work like [searchlights ashore](Guide_to_Construction.md#lighting): click one to switch it on, and turn it a quarter turn from its right-click menu, to light the deck and the water alongside at night.
+- **Deck lights:** sixteen low lamps along the deck edges, switched together from the ship's wheel. Switch them off when you do not want the ship seen at night.
 
 ## Damage control
 
 The carrier is hurt the way a [Submarine Commander](../gamemodes/subcom.md) boat is, and the same tools mend it.
 
 - **Flight deck:** a shell or bomb that bursts on the deck **craters** the plating. A crater is not runway: a plane cannot take off over it and the wires do not count where it lies, so weld the crater shut with a **welding tool** before the next landing. Craters move with the ship. The island deck craters the same way.
-- **Hull:** blasts against the hull below the waterline crack it, and a heavy one **breaches** it. Seawater pours through a breach into that compartment. Close the **blast door** on the bulkhead to keep the water in one compartment and **weld** the breach shut with a welding tool; it takes a while, so start early. Bulkheads buckle under heavy blasts and leak until welded.
+- **Hull:** blasts against the hull below the waterline crack it, and a heavy one **breaches** it. Seawater pours through a breach into that compartment. Close the **blast door** on the bulkhead to keep the water in one compartment, wedge the breach to a seep with a **shoring kit**, and **weld** it shut with a welding tool; welding takes a while, so start early. Bulkheads buckle under heavy blasts and leak until welded.
 - **Fire:** a blast on the hangar deck sets the deck alight. Fire spreads along the deck, hurts anyone standing in it and burns out on its own after a while; water over the deck puts it out.
 - **Listing:** read the chart at the wheel. Every compartment that is flooded to the deckhead takes one telegraph step off the ship: with one flooded she makes half ahead at most, with two only slow ahead. Pump a compartment out and the list eases.
 - **Sinking:** with **three** compartments flooded the ship goes down. Everyone aboard ends up in the sea where the decks were, loose cargo floats with them, and the wheel, the elevators and any aircraft aboard are lost. Five pieces of wreckage mark the spot. Abandon ship before the third compartment fills, or close the doors and pump.
