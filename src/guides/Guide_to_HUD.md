@@ -48,6 +48,17 @@ corner of the screen stay there if your game window changes size.
   leaves your locked tiles alone.
 - **All tiles and the HUD scale** brings back the standard layout at 100%.
 
+## Widescreen view
+
+The game view is 21 tiles wide and 15 tall, so the map fills more of a wide
+monitor and the chat and status panel take less room. Your inventory stays in
+the bottom-left corner, your hands sit in the middle of the bottom edge, and
+the combat buttons and status column follow the right edge.
+
+On a small or square monitor, turn on **Square game view (small monitors)** in
+your preferences to go back to a 15 by 15 view. The HUD and the side panel
+adjust as soon as you change it.
+
 ## Fitting the game window
 
 If black bars appear beside the map after you resize the window, choose
