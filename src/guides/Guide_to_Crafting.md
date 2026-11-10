@@ -25,7 +25,10 @@ machinery and vehicles.
     - Type any words into **Search**, such as `fur coat` or `iron sword`. Recipes with those words in their name come first, then recipes that use them as ingredients.
     - Click a recipe to see **You need** and **You get**, plus its requirements. **Made at** on the recipe opens the workstation it is made on.
     - Click any item to open its page: what kind of thing it is, its description, and basics such as size, where it is worn, armor, damage or nutrition. Below that is how to obtain it and its recipe, with every recipe that makes it and uses it listed on the left.
-    - A workstation's page, such as the anvil, also lists everything made there.
+    - Raw materials say where they come from. Copper, for example, lists smelting copper ore in a kiln and casting it into ingots, a pelt names the animal to skin, and juices and oils name the fruit to press into a container. A liquid that nothing makes lists the items it is **Found in**.
+    - Tools and weapons made from a material list their melee and thrown damage for each material, such as bronze, iron and steel. Well-made pieces hit harder, up to double.
+    - Chemistry recipes say where they react. Most react on their own when the reagents are mixed in one open container. **Also at: laboratory reaction bench** means the bench can run it on demand, and **Made at: laboratory reaction bench** means it only reacts there. Any catalyst is listed and is not used up.
+    - A workstation's page, such as the anvil or the laboratory reaction bench, also lists everything made there.
     - **Unlock era** and **Made at** narrow the list to an age or to one workstation.
     - The list shows the recipes for the map you are on. Tick **Include other maps** to see the versions used elsewhere.
     - **Needs research** marks a recipe your faction or character has not unlocked yet, and names the research. **Retired this era** marks a recipe that is no longer made in the current age.
