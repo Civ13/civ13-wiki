@@ -37,6 +37,24 @@ The editor understands these tags:
 
 `[sign]`, `[date]` and `[time]` are filled in once, when you write. Any other tag is shown as plain text. Papers written before the editor keep their old formatting when read, and you can keep writing on them.
 
+The **Section** menu chooses what you write: body text, a written title, your signature, or a form blank.
+
+### Blanks to fill in
+
+Choose **Blank to fill in** and type a short name for it, such as `Name` or `Date of birth`. The paper then shows `Name: __________`.
+
+Anyone with a pen can fill it in later. Choose **Fill in a blank**, pick the blank, and write the answer. It appears on the blank's line in your own ink and language. Each blank takes one answer, so it cannot be overwritten. This is handy for passes, permits and orders that someone else completes.
+
+### Stamps and seals
+
+Use an ink stamp or a wax seal on a paper to stamp it. The mark shows on the sheet and in the reader, and it stays when the world saves and when the paper is copied. A sheet holds up to 12 stamps, and a crumpled sheet can't be stamped. You can also stamp the top sheet of a clipboard, or the open page of a paper bundle.
+
+### Envelopes, bundles and filing cabinets
+
+You can write on a paper inside an open envelope you are holding, or on the open page of a paper bundle you are holding (also inside a folder you hold). Turn the page to write on another sheet. A sealed envelope keeps its wax seal through a save.
+
+Filing cabinets and document drawers list their papers in alphabetical order. Use **Read** next to a paper to read it without taking it out.
+
 ### Classic editor
 
 Some special papers, and characters who cannot write any language, still use the classic paper editor. It accepts the full set of tags below.
