@@ -21,6 +21,14 @@ machinery and vehicles.
 
   - **[Crafting Atlas](https://civ13.github.io/Civ13/crafting/)** - search recipes, ingredients and connected crafting stages. The atlas lists alternative catalogs and research or mode conditions; those alternatives are not all available together. Map, era, faction, tools, fuel, power and custom rules still determine what you can make. A catalog entry does not prove a complete acquisition route on every map. Sprite previews use actual compiled DMI defaults; abstract or dynamic entries show a labeled source symbol, and runtime colors or overlays may differ.
 
+  - **In-game Crafting Atlas** - the **Crafting Atlas** verb in the IC tab opens the same catalog inside the game, and crafting menus link to it.
+    - Type any words into **Search**, such as `fur coat` or `iron sword`. Recipes with those words in their name come first, then recipes that use them as ingredients.
+    - Click a recipe to see **You need** and **You get**, plus its requirements. Click any item to see how to obtain it, which recipes make it and which recipes use it.
+    - **Unlock era** and **Made at** narrow the list to an age or to one workstation.
+    - The list shows the recipes for the map you are on. Tick **Include other maps** to see the versions used elsewhere.
+    - **Needs research** marks a recipe your faction or character has not unlocked yet, and names the research. **Retired this era** marks a recipe that is no longer made in the current age.
+    - The atlas is a reference: skills, tools and your faction still decide what you can craft.
+
   - **[Full Crafting List](../Full_Crafting_List.md)** - contains
     the list of materials and detailed crafting recipes for most of the
     craftable items, save for those that require specific machinery or a
