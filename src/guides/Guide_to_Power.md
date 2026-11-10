@@ -15,17 +15,20 @@ These recipes are in the global crafting catalog. Map catalogs, era and characte
 
 PU is the game's abstract power unit; PU s is stored energy.
 
-## Wind and solar generators
+## Wind, water and solar generators
 
 These feed the cable grid from the weather instead of fuel. Build them outdoors under open sky; they produce nothing indoors.
 
 | Generator | Era and research | Built from | Peak output |
 | --- | --- | --- | --- |
 | Wind charger | Early Modern, Electricity | 15 iron | 12 PU |
+| Waterwheel generator | Early Modern, Electricity | 15 iron | 12 PU while its river flows |
 | Photovoltaic panel | Cold War, Automation | 10 electronics | 10 PU in daylight, nothing at night |
 | Wind turbine | Modern, Digital Computing | 30 steel | 45 PU |
 
 Wind output follows the wind speed shown when you examine the generator. The wind charger gives nothing in calm air, its full output in a strong wind, and furls to a fraction of it in a gale. The wind turbine reaches full output in strong winds and keeps it in a gale. Two rotors closer than three tiles share the same air and each loses half its output, so space them out.
+
+The **waterwheel generator** runs on a river current. Rivers flow on Gaia, Europe, Jungle and Asia; lakes, ponds, swamps and the sea are still. Examine the water to see which way it flows. To build a wheel, stand on the bank, face a flowing river tile and craft it: the wheel goes into the water in front of you and turns to face the current. It gives its full output day and night as long as its own tile flows, and nothing in still water. Use a cable coil on the wheel from the bank to run the cable ashore.
 
 **LED panels** (Digital Age, Consumer Electronics, 2 electronics) are light fixtures built like a [light tube](Guide_to_Construction.md#lighting). They light a little farther than a tube, with a whiter light, on a third of the power, and take ordinary replacement tubes.
 
