@@ -30,6 +30,16 @@ Output fills matching stacks up to their limits. A tile holds at most **12 outpu
 
 Each ore in a rock wall rolls on its own, so one mined wall can drop several kinds of ore at once, for example coal together with iron. Coal is twice as common as it used to be. Some walls now give no ore at all, because the drops cluster.
 
+## Digging for dirt underground
+
+Dirt piles make dirt walls and barricades, turn into clay with water, and fill graded ground back up. On the surface you scoop them from dirt ground with a shovel or cut them out of a hill. Underground there is more:
+
+- **Dig out cave rock:** use a shovel on a soft cave rock wall. After about 30 seconds (faster with strength and a better shovel) the wall is dug out and leaves **2 dirt piles**; sandy rock also leaves a sand pile. You get no stone or ore this way, so use a pickaxe when you want those. The new floor can still be scooped for more dirt.
+- **Clear rubble:** use a shovel on cave-in rubble to clear it in about 12 seconds for **1 dirt pile**.
+- **Dig a tunnel:** when you finish digging a tunnel down or up with a shovel, the earth from the shaft is left as **2 dirt piles** at your feet.
+
+Frozen rock is too hard for a shovel; break it with a pickaxe. A dug-out tunnel can cave in like a mined one, so put up mine supports.
+
 ## Stone crushing
 
 Surplus stone blocks can be crushed for a chance of sand, ore and rare minerals: by hand with a **stone crusher** (Resource Processing), or with a **powered stamp mill** (Electricity) that arms and belts can feed. See [Factory Automation](Guide_to_Factory_Automation.md#stone-crushing).

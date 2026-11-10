@@ -43,7 +43,7 @@ A few more details about particular materials.
 
 **[Clay](../Full_Crafting_List.md#clay)** is obtained from **[dirt](Guide_to_Crafting.md#soil)**:
 
-- Dig any dirt tiles with a shovel to get dirt piles.
+- Dig any dirt tiles with a shovel to get dirt piles. Underground, a shovel also digs dirt out of soft cave walls, rubble and tunnel shafts (see [Resource Extraction](Guide_to_Resource_Extraction.md#digging-for-dirt-underground)).
 
 - Fill a container (a bucket, a barrel etc.) with water, then click dirt piles with it.
 
