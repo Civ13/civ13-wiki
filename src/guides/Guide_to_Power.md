@@ -45,9 +45,18 @@ The jar and pile cannot recharge electrically. When empty, switch off, replace t
 
 Cut its cable before unanchoring. Moving or disconnecting a battery turns it off. After a world save is loaded, stored chemical state is retained, but mode, output and wiring must be rebuilt by players. This describes battery save behavior where server world saves are enabled; it does not promise that every round or server retains your settlement.
 
+## Power between floors
+
+A cable grid stays on one level until you join it with **cable risers**. Craft a riser from 2 copper in the **electrical** section (Electricity research on the tech tree). Lay a cable on the tile, then stand on it and use the riser in hand, or drop it there and fasten it with a wrench. Put a second riser on a cabled tile at exactly the same spot on the floor above or below. Every cable on the two tiles then joins one grid, so an engine in the cellar can run machines upstairs. A riser also joins every cable on its own tile, like a cable connector. Stack more pairs to carry power up several floors; examine a riser to see whether it has found its partner.
+
+Risers rejoin by themselves after a world save is loaded. Unfastening a riser, or cutting a cable on either tile, splits the grid again.
+
+A **bus tie switch** (2 copper, same section) is a connector you can open and close by hand. Secure it where two runs meet: closed, it joins every cable on its tile; open, it joins none. Click it with an empty hand to switch it.
+
 ## Troubleshooting
 
 - **No power:** check commissioning, anchoring, cable attachment, mode and remaining energy. For an accumulator, adding acid does not supply charge.
+- **Nothing upstairs:** a riser needs a secured partner at the same spot on the next floor, and a cable on both tiles.
 - **Machine exceeds output:** one accumulator supplies at most 10 PU. The laboratory centrifuge requires 30 PU, so one battery cannot run it. Provide sufficient connected generation; stored capacity alone does not raise output.
 - **Cannot craft cables:** check the map catalog, era, skill and Electricity research. Battery availability does not bypass those gates.
 - **Engine will not run a vehicle:** inspect its accepted fuel and installation. The chemistry guide's [9:1 blend](Guide_to_Chemistry.md#engine-fuel) is accepted by internal engines that already accept gasoline; it does not add compatibility to diesel-only engines.
