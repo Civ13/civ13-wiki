@@ -23,7 +23,9 @@ machinery and vehicles.
 
   - **In-game Crafting Atlas** - the **Crafting Atlas** verb in the IC tab opens the same catalog inside the game, and crafting menus link to it.
     - Type any words into **Search**, such as `fur coat` or `iron sword`. Recipes with those words in their name come first, then recipes that use them as ingredients.
-    - Click a recipe to see **You need** and **You get**, plus its requirements. Click any item to see how to obtain it, which recipes make it and which recipes use it.
+    - Click a recipe to see **You need** and **You get**, plus its requirements. **Made at** on the recipe opens the workstation it is made on.
+    - Click any item to open its page: what kind of thing it is, its description, and basics such as size, where it is worn, armor, damage or nutrition. Below that is how to obtain it and its recipe, with every recipe that makes it and uses it listed on the left.
+    - A workstation's page, such as the anvil, also lists everything made there.
     - **Unlock era** and **Made at** narrow the list to an age or to one workstation.
     - The list shows the recipes for the map you are on. Tick **Include other maps** to see the versions used elsewhere.
     - **Needs research** marks a recipe your faction or character has not unlocked yet, and names the research. **Retired this era** marks a recipe that is no longer made in the current age.
