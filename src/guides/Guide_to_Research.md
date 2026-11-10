@@ -2,7 +2,7 @@
 
 Civ13's research system is a **tech tree**, not a point pool. Instead of feeding items into a desk to raise three abstract Industrial/Military/Health numbers, your faction builds **research benches**, assigns each one a specific invention to study, and watches it complete — either by passive study over time, by building a working prototype, or by learning it from another faction's research book.
 
-This page describes the tech-tree mode. Check the round's selected research mode first; [legacy modes](../gamemodes/Civilizations_and_Nomads.md#research) work differently. Unlocking a node still requires the recipe to exist in the active map's crafting catalog and your character to meet its skill requirements. In this mode, colored cable recipes and electronics are gated by **Electricity**; possessing a battery does not grant cable access. Laboratory benches and burners use **Apothecary**, while laboratory feedstock dispensers and centrifuges use **Pharmacology**. See [Chemistry](Guide_to_Chemistry.md) and [Power & Batteries](Guide_to_Power.md) for setup.
+This page describes the tech-tree mode. On persistent worlds, research works through books instead; see [Books and Scholars](Guide_to_Books_and_Scholars.md). Check the round's selected research mode first; [legacy modes](../gamemodes/Civilizations_and_Nomads.md#research) work differently. Unlocking a node still requires the recipe to exist in the active map's crafting catalog and your character to meet its skill requirements. In this mode, colored cable recipes and electronics are gated by **Electricity**; possessing a battery does not grant cable access. Laboratory benches and burners use **Apothecary**, while laboratory feedstock dispensers and centrifuges use **Pharmacology**. See [Chemistry](Guide_to_Chemistry.md) and [Power & Batteries](Guide_to_Power.md) for setup.
 
 Completing a node unlocks every recipe gated behind it, faction-wide, permanently.
 
@@ -44,10 +44,7 @@ Factionless players receive Main-tree baseline nodes up to the current era. A ne
 
 **Specialist trees**, including Agriculture and Tailoring, do not receive era-based automatic completion. For example, Modern does not grant Irrigation. Unlock its gateway, meet the bench tier and complete the node.
 
-**Persistent worlds** run Auto-Research and start in WW2, so two extra rules apply there:
-
-- When the world's shared research clock moves into a new age, every faction's Main-tree baseline rises with it. A faction founded early never ends up behind factionless players. An age reached because one faction finished a capstone still has to be researched by everyone else.
-- A faction counts its specialist-tree nodes up to WW2 (era 6) as done, since the world starts past those eras. Later specialist nodes are still earned. Factionless players never get specialist trees.
+**Persistent worlds** don't use faction research. Knowledge lives in books there, the world starts in 5000 B.C. and moves on only when someone finishes a capstone. See [Books and Scholars](Guide_to_Books_and_Scholars.md).
 
 Raised baselines and research tables are saved with the world, so they survive a restart.
 
