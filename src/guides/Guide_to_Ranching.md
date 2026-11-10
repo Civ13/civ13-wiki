@@ -114,6 +114,15 @@ Grazing animals (cows, bison, goats, sheep, horses and the like) get hungry, gra
 
 Hens and turkey hens lay a limited number of eggs. Feeding seeds to a hen that has stopped laying gives her more eggs.
 
+### Hay
+
+Hay is stored fodder for when there is no grass to graze, such as in winter or in a pen.
+
+- **Making hay:** cut grass with sharpened flint or another sharp tool to get grass cuttings. With the cuttings in hand, click open ground next to you to spread up to **20** portions there to dry. After **3 minutes** of dry weather, they turn into the same amount of hay. Rain or snow under open sky stops the drying, but grass under a roof or indoors keeps drying. Adding more cuttings to the pile starts the drying over. Picking the pile up by hand gives back the cuttings.
+- **Feeding:** use hay on a hungry cow, goat, sheep, bison or other grazer to feed it one portion. Grazers also eat hay lying next to them.
+- **Hay bales:** use **10** hay in hand and choose *Tie a hay bale*. The bale is placed in front of you. It holds 10 portions and blocks movement. Animals standing next to it eat from it, and hungry grazers with no grass within 6 tiles walk over to it. Pull hay off a bale by hand, or add hay to refill it. An empty bale disappears.
+- **Thatch roofing:** use **2** hay in hand and choose *Bundle thatch roofing*. This needs the same knowledge as thatch roofing made from leaves.
+
 ## Reproduction
 
 To simply get these animals to multiply, you have to have them in a
