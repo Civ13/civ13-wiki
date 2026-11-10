@@ -59,6 +59,18 @@ On a small or square monitor, turn on **Square game view (small monitors)** in
 your preferences to go back to a 15 by 15 view. The HUD and the side panel
 adjust as soon as you change it.
 
+## The side panel
+
+The panel beside the map has a row of tabs that always appear in the same
+order: Status, IC, Emote, Crafting, Faction, Character, OOC and Help!. Inside a
+tab, commands are grouped under headings, such as Chat, Game and Screen & HUD
+in the OOC tab. Click a heading to fold it away; it stays folded until you
+reconnect.
+
+Type in **Find a command** to filter the open tab. Press Enter to run the
+command when only one is left, or Escape to clear the box and go back to the
+map.
+
 ## Fitting the game window
 
 If black bars appear beside the map after you resize the window, choose
