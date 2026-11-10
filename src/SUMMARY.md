@@ -23,6 +23,7 @@
         - [Resource Extraction](guides/Guide_to_Resource_Extraction.md)
         - [Flint](guides/Guide_to_Flint.md)
         - [Research](guides/Guide_to_Research.md)
+        - [Books and Scholars](guides/Guide_to_Books_and_Scholars.md)
         - [Power & Batteries](guides/Guide_to_Power.md)
         - [Factory Automation](guides/Guide_to_Factory_Automation.md)
     - [Food & Animals]()
