@@ -9,13 +9,32 @@ on:
   schedule:
     - cron: '41 5 * * 1'
   workflow_dispatch:
+  pull_request:
+    paths:
+      - .github/workflows/links.yml
+      - scripts/test_external_links.py
+      - src/SUMMARY.md
 
 permissions:
   contents: read
   issues: write
 
 jobs:
+  regression:
+    permissions:
+      contents: read
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: taiki-e/install-action@v2.87.27
+        with:
+          tool: lychee@0.24.2
+      - name: Check external-link reporting boundaries
+        run: python3 scripts/test_external_links.py
+
   links:
+    if: github.event_name != 'pull_request'
+    needs: regression
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
@@ -25,11 +44,15 @@ jobs:
           path: .lycheecache
           key: lychee-${{ github.run_id }}
           restore-keys: lychee-
+      # SUMMARY's empty destinations are intentional mdBook group headings.
+      # nav.py validates local destinations; the regression guards against
+      # hiding future external destinations in this excluded file.
       - name: Check links
         id: lychee
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --cache --max-cache-age 7d --scheme https --scheme http --max-concurrency 4 --accept 200..=299,403,429 --exclude-path src/Full_Crafting_List.md 'src/**/*.md' README.md CONTRIBUTING.md
+          args: --cache --max-cache-age 7d --scheme https --scheme http --max-concurrency 4 --accept 200..=299,403,429 --exclude-path src/Full_Crafting_List.md --exclude-path src/SUMMARY.md 'src/**/*.md' README.md CONTRIBUTING.md
+          lycheeVersion: v0.24.2
           fail: false
           output: lychee.md
       - name: Summarize
