@@ -48,6 +48,12 @@ Surplus stone blocks can be crushed for a chance of sand, ore and rare minerals:
 
 Wooden oil wells remain renewable and must sit on an oil spring. Use a barrel on the well to load it; click a loaded well to remove the barrel, or an empty well to connect a nearby barrel. Extraction runs when the spring and contained barrel are valid. The well does not fill unrelated barrels on the ground. Unloading or destroying the well returns its barrel. Saving retains the barrel and petroleum; check the barrel connection after loading before collecting output.
 
+## Offshore drilling rigs
+
+**Combustion** also unlocks the **offshore drilling rig**, which costs **45 steel**. Lay a steel bridge deck out over deep saltwater, stand on it and build the rig there. Not every stretch of sea holds oil. If the seabed under the deck is dry, the build is refused and nothing is spent, so try another spot further out. Seabed oil fields vary in size: a thin field pumps **10 petroleum**, a good one **20** and a rich one **30** every two minutes. Examine the rig to see which kind it is drilling.
+
+Rigs need no oil spring and never run dry. Load, remove and connect barrels the same way as on a wooden well, or connect factory pipes. Saving keeps the barrel and its petroleum. A hammer takes the rig apart and returns some of its steel.
+
 ## Hydraulic fracturing
 
 At **Modern**, research **Hydraulic Fracturing**, which requires **Electricity** and **Modern Construction**. Craft the rig from **20 electronics and 20 steel**.
