@@ -97,8 +97,9 @@ If you are sparring with a friend, turn on **Pulling punches** in the IC tab so 
 ## When you are hit
 
 1. Get out of the line of fire first. Crawl if you must.
+   If you are knocked down, click yourself on help intent (or use Resist) to push yourself back up sooner. It takes a few seconds, costs stamina, and fails if you are hit or knocked down again meanwhile. You can't do it while stunned, pinned, in heavy pain or without a working arm and leg, and you have to catch your breath for 15 seconds between tries.
 2. Find what is wrong: examine yourself (Shift-click your character) to check your injuries.
-3. Stop bleeding. Apply a bandage or gauze to the bleeding limb, or use Grab intent on the limb to apply pressure while you wait for a medic.
+3. Stop bleeding. Apply a bandage or gauze to the bleeding limb, or use Grab intent with an empty hand on yourself to hold the wound while you wait for a medic. Each hand can hold one bleed. In an emergency, rope or twine ties a [makeshift tourniquet](Guide_to_Medical.md#severed-arteries-and-tourniquets).
 4. Call for a medic over the radio or by shouting. The [Medical guide](Guide_to_Medical.md#first-aid) explains treatment.
 
 If you die, check the round's rules before leaving; some scenarios let you rejoin after a delay.
