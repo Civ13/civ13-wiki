@@ -22,7 +22,7 @@ This applies to persistent worlds such as [Gaia](../maps/Gaia.md) and the region
 The world starts in 5000 B.C. and has no clock: it moves into a new age only when someone finishes a **capstone** chapter (the prototype nodes, such as Bronze Working), and every player is told when that happens.
 
 1. **Found a faction.** The founder receives the **Stone Age master book**, which holds every Stone Age chapter, and a **pencil**. Nobody knows those chapters yet.
-2. **Study the chapters you need.** Hold the book, use it and pick **Study: chapter**. Each chapter needs its prerequisites first, so work through the book in order.
+2. **Study the chapters you need.** Hold the book, use it and press **Study** beside a chapter. Each chapter needs its prerequisites first, so work through the book in order.
 3. **Craft what you've learned.** Crafting checks your own knowledge only. Your faction's research and the world's age don't unlock anything for you.
 4. **Research new chapters** at a research bench, then study them like any other chapter.
 
@@ -32,7 +32,7 @@ The world starts in 5000 B.C. and has no clock: it moves into a new age only whe
 
 Studying a chapter takes 1 minute in the Stone Age plus 30 seconds for each later age, and you keep it until you die. You can study from a book in hand, from a loose chapter page, or from a book lying on a research bench. Studying needs no scholarship, only the chapter's prerequisites.
 
-When you use a book, its chapters are sorted for you: first the ones you can study now (**Study**), then the ones whose prerequisites you still need (**Needs groundwork**), then the ones you already know (**Known**). Examining a book shows the same three groups. Recipe compendiums sort their chapters the same way.
+Using a research book in hand opens its window. Alt-click does the same for a book lying next to you. Its chapters are sorted for you: first the ones you can study now (**Ready to study**), then the ones whose prerequisites you still need (**Needs groundwork**), then the ones you already know (**Known**). Each row shows the age, the discipline, how long studying takes and, when it is locked, which chapters to learn first. Type in **Find a chapter** to search by chapter, recipe or discipline, use the buttons under it to show one group, and click a row to see its groundwork and the recipes it teaches. Examining a book shows the same three groups. Recipe compendiums sort their chapters the same way.
 
 **Death wipes everything you know**, both chapters and scholarship. A new character starts with nothing, so keep your books safe and your scholars alive.
 
@@ -40,12 +40,22 @@ When you use a book, its chapters are sorted for you: first the ones you can stu
 
 A **research bench** costs 8 soft wood. Benches belong to nobody: anyone can use any bench, and a bench holds only the work in progress.
 
-1. Put a book on the bench and choose a subject. The research is written into that book. Take the book away and the unfinished work goes with it.
+1. Put a book on the bench, click a subject in the bench window and press **Research this here**. The research is written into that book. Take the book away and the unfinished work goes with it.
 2. Stay beside the bench. It only makes progress while someone within one tile knows every prerequisite of the subject and holds a writing tool (see [The scholar's trade](#the-scholars-trade)).
 3. Speed it up by using **samples** on the bench: existing examples of things the subject unlocks. Capstones also need their **prototype** before the chapter is finished.
 4. When the research is done, the chapter is written into the book. **It teaches nobody**, not even the researcher. Whoever wants it still has to study it.
 
 The first time anyone finishes a capstone chapter, the whole world moves into the next age.
+
+### The bench window
+
+- **Books on the bench** shows both books and their chapters. A chapter you can study is marked, and clicking any chapter opens its details.
+- **You have** lists what you are holding (writing tool and blank sheets) and your scholarship.
+- **Currently researching** shows the progress bar, a checklist of what the work still needs (a book, a researcher beside the bench, light, an instrument), a warning when supplies have run out, and roughly how long is left at the current pace. **Stop researching** halts it; the unfinished work stays in the book.
+- **Find technology** searches by subject, recipe or discipline. The buttons under it show only what is **Ready to study**, what you **Can research**, what is **In progress**, what is **Known** or what is **Not yet** open to you. Switch between **Tree** and **List** to see the subjects as rows or as the tree.
+- Click a subject for its details: the groundwork it needs (click one to jump to it), what researching it needs and whether you meet each point, how long studying, researching and writing it take, what it leads to and the recipes it unlocks.
+- The buttons in the details do the work in one click: **Study this chapter**, **Research this here**, **Add to queue**, **Copy into the other book** and **Write it from memory**. In the list view each row has its own **Study** or **Write** button.
+- **Queue** up to 12 subjects. When one is finished the bench starts the next one that is ready.
 
 ## Writing and copying books
 
@@ -54,9 +64,9 @@ Books are ordinary items. They can be traded, lent, hidden, stolen or carried to
 | Action | How | Time |
 | --- | --- | --- |
 | **Write notes** | Use a pencil or pen on a book and choose **Contents** to add a page of your own writing. Use the book in hand to read it. | Instant |
-| **Write from memory** | Use a pencil or pen on a book, choose **Research chapter**, pick a chapter you know. Hold a blank sheet of paper or parchment. | 2 minutes in the Stone Age, +1 minute per later age; costs stamina |
-| **Copy at a bench** | Put two books on a bench and choose **Copy a chapter**. Hold a pencil or pen and a blank sheet. You don't need to know the chapter. | Same as writing |
-| **Rip out a page** | Use the book's **Rip out a page** option. A chapter becomes a loose page that can be studied on its own. | 2 seconds |
+| **Write from memory** | Put the book down next to you, hold a pencil or pen and Alt-click the book, then press **Write** beside a chapter you know. At a bench, press **Write it from memory** in the subject's details. A blank sheet of paper or parchment is taken from your other hand or your bags. | 2 minutes in the Stone Age, +1 minute per later age; costs stamina |
+| **Copy at a bench** | Put two books on a bench, open a chapter and press **Copy into the other book**, or press the **Copy all ... chapters** button under a book to copy everything the other book lacks, one after another. Hold a pencil or pen and have blank sheets on you. You don't need to know the chapter. | Same as writing |
+| **Rip out a page** | Hold the book, click the chapter in its window and press **Tear this chapter out**. A chapter becomes a loose page that can be studied on its own. | 2 seconds |
 | **Bind a page back in** | Use the loose page on a book. | 30 seconds |
 | **Print a book** | Put the book in a printing press as the original and a blank book as the copy, then use the press. It prints the pages, title and every finished chapter, using one sheet of printing paper per chapter. Load printing paper by using blank paper, parchment or a paper bin on the press. Unfinished research isn't printed. | 25 seconds |
 
