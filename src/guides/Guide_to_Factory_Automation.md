@@ -8,7 +8,7 @@ Everything here is built from the crafting menu and needs research on your facti
 
 | Research | Unlocks |
 | --- | --- |
-| **Factories** | Barrel station, fluid pipe, pipe valve, fluid pump, holding tank, reaction vessel, water intake, water tap, piped shower, piped washing machine |
+| **Factories** | Tanning drum, barrel station, fluid pipe, pipe valve, fluid pump, holding tank, reaction vessel, water intake, water tap, piped shower, piped washing machine |
 | **Assembly Line** | Factory belt, parts bin, belt drive, assembly fabricator |
 | **Automation** | Feeder arm, sorting arm, sorting gate, reagent gate, belt splitter, belt tunnel entrance and exit, fast factory belt, factory monitor, automated fabricator, bottler, fast reaction vessel, pipe meter |
 | **Digital Computing** | Stack arm, computerized fabricator, industrial reaction vessel |
@@ -54,6 +54,7 @@ Arms can load and unload:
 - belts, crates, parts bins and fabricators;
 - **bloomeries and blast furnaces**, which take iron ore and fuel and start smelting on their own once both are loaded;
 - the **powered saw mill**, which holds up to 20 logs and cuts one log a second into planks while powered;
+- the **tanning drum** (see [Tanning drum](#tanning-drum)), which takes hides and bark and leaves leather;
 - the **powered stamp mill** (see [Stone crushing](#stone-crushing));
 - **train wagons and shopping carts**, with the same limits as a person filling them by hand;
 - **barrels**, to and from oil wells, refineries, engines and barrel stations.
@@ -125,6 +126,17 @@ Surplus stone can be turned into a chance of sand, ore and rare minerals.
 - The **powered stamp mill** (Electricity research) holds up to fifty stone blocks, needs 150 cable power and crushes one stone every four seconds with better recovery than the hand crusher. Arms can load it.
 
 The **primitive saw mill** works the same way as the hand crusher: it keeps cutting your held log stack one log at a time until the stack or the blade runs out, or you stop.
+
+## Tanning drum
+
+The **tanning drum** makes leather without scraping, washing, rack drying and tanning each hide by hand. It is a powered wooden drum on a steel frame, crafted from **10 steel** with **Factories** research. Using it also needs the same know-how as tanning by hand (Resource Processing).
+
+1. Wrench it down and connect it to cable power. It uses 3 power.
+2. Load hides: raw hides, pelts, scraped hides, wet hides or dry hides, up to **30 pieces** in any mix. Use a held stack on it, or let an arm feed it.
+3. Load up to **20 pieces of bark**, and fill it with **water** and **tannin**, up to 100 units of each. Pour them from any open container, or pipe them in from a pumped network. Other liquids are refused.
+4. While powered, it turns one hide into **one leather sheet every two seconds** and leaves the leather on its own tile, where an arm can collect it.
+
+Each hide costs **5 tannin**, plus **5 water** if the hide has not been washed yet, the same as by hand. Washed and dried hides go first. When tannin runs short, the drum soaks one piece of bark in 10 water for 10 tannin by itself, so a drum fed with bark and piped water needs no tannin from you. Examine the drum to see what it holds and why it is waiting. Click it with an empty hand to empty the hopper; the hides come back as they went in. Pelts loaded into the drum become leather, so keep the ones you want for fur clothing.
 
 ## Pipe networks
 

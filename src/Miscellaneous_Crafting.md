@@ -73,6 +73,14 @@ stages, bark and tannin acquisition, and leather recipes. In game, use a tanning
 rack's **Processing Reference** to open its drying route and find the rack's
 construction recipe and research requirement.
 
+### Tanning drum
+
+Once your faction has **Factories** research, a powered
+[tanning drum](guides/Guide_to_Factory_Automation.md#tanning-drum) does every
+step for you: load hides at any stage, bark, water and tannin, give it power, and
+it makes one leather sheet every two seconds at the same liquid cost as tanning
+by hand. Factory arms and pipes can keep it supplied.
+
 ## Lard candle
 <table>
 <tbody>
