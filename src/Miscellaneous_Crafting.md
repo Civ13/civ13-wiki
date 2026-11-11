@@ -148,3 +148,29 @@ and collects bark. Bark soaks into tannin for
 </tr>
 </tbody>
 </table>
+
+## Custom dresses
+
+Design, cut and sew a dress with your own choice of cut and panel colors. You
+need to know **Fine Garments**, the same knowledge as the other dresses.
+
+<img src="images/tailored_dress_cuts.png" alt="Layered, Buttoned and Laced tailored dresses as items and worn, front and back">
+
+1. Open the cloth crafting menu and make a **dressmaking project** under
+   **Feminine Clothing**. It costs 4 cloth sheets; woolcloth works too.
+2. Hold the project and use it in hand. **Choose cut** offers three styles:
+   - **Layered**: sleeves, skirt and bodice are colored separately.
+   - **Buttoned**: sleeves and skirt share one color, bodice and stripes another.
+   - **Laced**: dress and underskirt are colored separately; the trim is always gold.
+3. **Panel colors** sets the color of each panel. **Preview** shows the front
+   and back of the dress. Nothing is spent while you design, and you can change
+   your mind as often as you like.
+4. **Cut fabric** asks you to confirm, then takes about 3 seconds. Cutting locks
+   the cut and colors for good.
+5. Use the cut pieces in hand and choose **Sew dress**. After about 6 seconds
+   you hold the finished tailored dress. No extra cloth is needed.
+
+Stand still and keep the project in your hand while cutting or sewing. If you
+are interrupted, the project and any finished cutting are kept, so just start
+that step again. A finished dress cannot be recolored, but it takes the usual
+clothing accessories such as sashes, aprons and capes.
