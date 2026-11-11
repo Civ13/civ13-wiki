@@ -87,8 +87,8 @@ forgotten by history.
 
 - Now you have a person that will stay alive as long as they don't move.
 The next step is to check for any broken parts missed, as when someone
-moves with broken bones it will do them damage unless it is Splinted
-(which is only a temporary fix). Moving with broken skulls leads to
+moves with broken bones it will do them damage unless it is Splinted.
+A splinted bone is safe to walk on while it heals. Moving with broken skulls leads to
 blindness, brain damage and pain paralysis that will lead to eventual
 death from starvation/thirst, cold snow or rain, hot sandstorms or other
 hazards.
@@ -196,7 +196,10 @@ examining the patient shows it.
 #### Splinted fractures heal
 
 A broken limb with a splint mends on its own after about 20 minutes;
-time spent resting counts double. The splint then
+time spent resting counts double. While splinted, walking around does
+not hurt the bone or the organs under it, the lasting fracture pain
+stops, and splinted ribs slow you much less. Getting hit there still
+hurts. The splint then
 comes off and drops at the patient's feet. Breaking the bone again
 resets the progress. Bone surgery is still the fast way to fix a
 fracture.
