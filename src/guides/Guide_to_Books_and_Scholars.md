@@ -51,10 +51,13 @@ Books are ordinary items. They can be traded, lent, hidden, stolen or carried to
 
 | Action | How | Time |
 | --- | --- | --- |
+| **Write notes** | Use a pencil or pen on a book and choose **Contents** to add a page of your own writing. Use the book in hand to read it. | Instant |
 | **Write from memory** | Use a pencil or pen on a book, choose **Research chapter**, pick a chapter you know. Hold a blank sheet of paper or parchment. | 2 minutes in the Stone Age, +1 minute per later age; costs stamina |
 | **Copy at a bench** | Put two books on a bench and choose **Copy a chapter**. Hold a pencil or pen and a blank sheet. You don't need to know the chapter. | Same as writing |
 | **Rip out a page** | Use the book's **Rip out a page** option. A chapter becomes a loose page that can be studied on its own. | 2 seconds |
 | **Bind a page back in** | Use the loose page on a book. | 30 seconds |
+
+Recipe manuals and recipe compendiums take written notes too: use the book and choose **Read the notes** or study as usual. Binding manuals together keeps their notes. Research chapters only go into ordinary books, and a manual with notes in it can't be carried to another region.
 
 A bench holds up to two books. Research goes into the first one; **Write research into the other book** swaps them.
 
