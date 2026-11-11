@@ -86,6 +86,37 @@ With **Synthetic Fabrics** research, a factory
 **synthetic leather** from cloth and plastic, with no hides at all. It crafts
 everything ordinary leather does.
 
+## Woodworking without an axe
+
+Before you have an axe or saw, you can whittle logs into tools and planks by
+hand. Every step needs the **Basic Toolmaking** chapter; without it you are
+told which chapter is missing. Keep the tool in your active hand and stay
+still while you work. Stronger characters work faster.
+
+1. **Cut a small wood piece:** use **sharpened flint**, or a knife harder than
+   wood (a flint knife works, a wooden one does not), on a stack of **wood
+   logs**. After about 12 seconds one log becomes **1 small wood piece** and
+   **1 piece of bark**.
+2. **Whittle tools:** use sharpened flint or the knife on your small wood pieces
+   and choose:
+   - **Wooden wedge:** 1 piece, about 12 seconds.
+   - **Wooden mallet:** 5 pieces, about 24 seconds.
+3. **Split a crude plank:** hold the **wooden wedge** in one hand and use the
+   **wooden mallet** from your other hand on a stack of at least **2 logs**.
+   After about 24 seconds you get **1 crude plank** and **2 bark**. The wedge
+   wears a little each time.
+4. **Flatten it:** use sharpened flint, or any sharp tool that is not made of
+   wood, on the crude plank. After about 8 seconds it becomes **1 wooden
+   plank**. Crude planks cannot be used as finished planks until flattened.
+
+Knives lose a little durability with each cut; sharpened flint does not.
+
+A **bound flint axe** is faster once you have one: make a sharpened stick
+(sharpened flint on a stick), carry crude twine, sinew or rope, and use
+sharpened flint on the sharpened stick. An axe cuts **2 logs into 1 plank**
+and collects bark. Bark soaks into tannin for
+[leather tanning](#bark-and-tannin).
+
 ## Lard candle
 <table>
 <tbody>
