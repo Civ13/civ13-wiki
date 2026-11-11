@@ -33,6 +33,8 @@ The world starts in 5000 B.C. and has no clock: it moves into a new age only whe
 
 Studying a chapter takes 1 minute in the Stone Age plus 30 seconds for each later age, and you keep it until you die. You can study from a book in hand, from a loose chapter page, or from a book lying on a research bench. Studying needs no scholarship, only the chapter's prerequisites.
 
+You can stop studying at any time: walk away, put the book down or get interrupted, and the part you already read is kept. Next time, the chapter shows how far you got (for example **Continue: Iron Tools (40% read)**) and studying it only takes the time left. Your progress belongs to you, not the book, so you can continue from any copy of the chapter, after a restart or in another region. Recipe manuals work the same way.
+
 Using a research book in hand opens its window. Alt-click does the same for a book lying next to you. Its chapters are sorted for you: first the ones you can study now (**Ready to study**), then the ones whose prerequisites you still need (**Needs groundwork**), then the ones you already know (**Known**). Each row shows the age, the discipline, how long studying takes and, when it is locked, which chapters to learn first. Type in **Find a chapter** to search by chapter, recipe or discipline, use the buttons under it to show one group, and click a row to see its groundwork and the recipes it teaches. Examining a book shows the same three groups. Recipe compendiums sort their chapters the same way.
 
 **Death wipes everything you know**, both chapters and scholarship. A new character starts with nothing, so keep your books safe and your scholars alive.
