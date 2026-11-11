@@ -17,7 +17,7 @@ On Nomads maps a few ripe wild crops grow on their own in open countryside, away
 
 ### Trees grow back
 
-Chopping down a tree on a Nomads map leaves a **tree stump**. Outside winter, a stump slowly grows back into the same kind of tree, usually over a few hours, while nobody is nearby. To keep cleared land clear, dig the stump out with a shovel or chop it with a hatchet.
+Chopping down a tree on a Nomads map leaves a **tree stump**. Outside winter, a stump slowly grows back into the same kind of tree, usually over a few hours, while nobody is nearby. To keep cleared land clear, dig the stump out with any shovel or chop it with a hatchet. Either way the roots give you 2 wood logs.
 
 To farm, you will require some basic tools.
 
