@@ -251,7 +251,7 @@ To avoid that, go to sleep properly:
 - Stand over a bed or leather bedroll; buckling is not required. On maps that save the world, you have one assigned bed: sleeping in a free bed makes it yours and releases your old one, and you cannot sleep in a bed someone else has claimed. Examine a bed to see whether it is yours. **Store held items before sleeping.** An ordinary droppable item in the active hand is dropped at your starting location before the body moves, so leaving it there can expose it to other players.
 - Type `sleep` in chat (without "say") or click "Sleep" on the IC tab.
 - Remain connected and complete the two-minute action on the bed. Wait until protected sleep has actually started before logging off.
-- Routine hunger and thirst do not decrease during protected sleep. Ordinary disconnection or unconsciousness is different and does not provide this protection.
+- Routine hunger and thirst do not decrease during protected sleep, and your diet stays as it was. Being knocked out or otherwise unconscious slows hunger and thirst to a crawl but does not stop them. Ordinary disconnection gives no protection: a logged-off body gets hungry and thirsty at the normal rate.
 - To wake up, type `wake-up` (without "say") or click "Wake Up" on the IC tab. Waking takes 30 seconds and returns you to the spot where you went to sleep. If the return cannot complete safely, protection remains active; wait for any save or load to finish, then try again.
 
 Sleep is unavailable on Voyage. Disease, fleas in worn clothing or hygiene of
