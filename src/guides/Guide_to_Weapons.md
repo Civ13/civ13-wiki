@@ -843,6 +843,21 @@ Craft a weapon light from **1 electronics** in the **Weapons** menu after **Cons
 
 Craft a gun sling from **2 leather** in the **Weapons** menu after **Gunsmithing**. Hold the gun in one hand and use the sling in the other to fit it. Only guns you can wear on your shoulder or back take one. If you are knocked down, stunned or knocked out and drop a slung gun, it stays on your shoulder or back as long as that slot is free.
 
+### AK rifle parts
+
+AKM and AK-74 rifles, including the folding-stock and short versions, are built from four parts. Unload the rifle and hold it, then right-click it and choose **Remove Rifle Part**. To fit a part, hold it in your active hand and use it on the rifle. Examine the rifle up close to see its parts, their condition and anything stopping it from firing.
+
+| Part | Where you can swap it |
+| --- | --- |
+| Magazine well (7.62x39mm or 5.45x39mm) | By hand |
+| Stock (fixed or folding) | By hand |
+| Barrel (7.62x39mm or 5.45x39mm) | Next to a firearm maintenance bench |
+| Bolt carrier group | Next to a firearm maintenance bench |
+
+- **Changing caliber:** fit a barrel and a magazine well of the same cartridge. The rifle then takes that ammunition and its magazines, so an AK-74 with 7.62x39mm parts loads AKM magazines. Mismatched parts, or a missing bolt carrier, barrel or magazine well, stop the rifle from firing.
+- **Stocks:** a rifle with no stock still fires but is harder to handle. The folding stock is slightly less steady than the fixed one.
+- **Barrel wear:** every shot wears the barrel, and a worn-out barrel stops the rifle firing until you replace it. Parts keep their condition when you remove them, so swapping parts never repairs anything.
+
 ### Cleaning and repairs
 
 In the default catalog, craft a **firearm cleaning kit from 5 iron** in Tools or a **firearm maintenance bench from 18 iron** in Production. Tech-tree mode gates both through **Gunsmithing**; map catalogs, skills and other research modes still apply.
