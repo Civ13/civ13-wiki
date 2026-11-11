@@ -77,6 +77,7 @@ A fabricator turns belt-fed parts into goods from a fixed factory recipe list. W
 | Rolled steel | 4 steel | 5 pig iron | 1 | Assembly Line |
 | Barbwire | 3 barbwire | 2 iron | 1 | Assembly Line |
 | Bronze | 4 bronze | 3 copper, 1 tin | 1 | Assembly Line |
+| Brass | 3 brass | 2 copper, 1 zinc | 1 | Assembly Line |
 | Glass | 1 glass | 2 sand | 1 | Assembly Line |
 | Metal rods | 2 rods | 1 steel | 1 | Assembly Line |
 | Cable coil | 30 cable | 2 copper | 1 | Assembly Line |
@@ -89,9 +90,12 @@ A fabricator turns belt-fed parts into goods from a fixed factory recipe list. W
 | Screwdriver | 1 screwdriver | 2 iron | 1 | Assembly Line |
 | Claw hammer | 1 hammer | 3 iron | 1 | Assembly Line |
 | Wirecutters | 1 wirecutters | 4 steel | 1 | Assembly Line |
+| Synthetic leather | 2 synthetic leather | 1 cloth, 1 plastic | 1 | Synthetic Fabrics |
 | Electronic circuits | 3 electronics | 2 copper, 1 plastic | 2 | Automation |
 | Ammo belt | 1 empty belt | 7 copper | 2 | Automation |
 | Electronic components | 1 component | 3 electronics, 1 gold | 3 | Digital Computing |
+
+Synthetic leather is plastic-coated cloth. It crafts everything ordinary leather does, but it does not stack with tanned leather.
 
 Examine a fabricator to see its recipe, inputs and cycle time.
 
