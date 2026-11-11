@@ -43,6 +43,14 @@ For crops, use **irrigation channels** instead. They carry water without blockin
 
 Use a shovel on **dirt** with any intent other than Harm to shovel a **dirt pile**. Use a dirt pile on a trench and confirm to start filling it. Two piles fill a trench tile back to level ground. Sandbags cannot be used for this.
 
+## Pits and climbing
+
+A tunnel shaft you dig with a shovel is an open **pit** with no ladder down. Click it to climb down carefully. Anyone who walks onto it falls one floor, takes some damage and is stunned for a moment.
+
+- **Hide a pit:** use **five leaves** on it and wait three seconds. A covered pit looks like ordinary ground until someone falls in, which tears the cover away.
+- **Pulling:** a pull does not carry anyone across a pit. Whoever steps on it falls and the pull is let go.
+- **Climbing up:** to get out of a pit or onto a higher floor, face a wall or the rim of a hole with a free hand and use **IC > Climb Up**. After three seconds you climb onto the ledge one floor up, if there is solid, clear ground there to stand on.
+
 ## Building a defensive line
 
 - Dig the trench first, then build **sandbag** or **dirt barricades** along the side that faces the enemy. Barricades reduce your chance of being hit but can be dismantled. On the [tech tree](Guide_to_Research.md), empty sandbags unlock with **Fortifications**.
