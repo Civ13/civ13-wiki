@@ -25,7 +25,7 @@ A varied diet, and food your character enjoys, raises how much stamina you can s
 - **Check Diet** (IC tab) shows each group as depleted, low, adequate or plenty, whether it is rising or falling, and which foods would help the low ones. The Status tab shows your current **Diet energy** bonus.
 - **Examining food** shows its nutrient make-up and any tastes you have already learned about it.
 
-If two or more groups stay low for about 15 minutes you get a warning, and the bonus fades as your reserves fall. Eating varied food again brings it back.
+If two or more groups stay low for about 15 minutes you get a warning, and the bonus fades as your reserves fall. On Nomads maps, if the narrow diet goes on for about 45 minutes more, your stamina also recovers 25% more slowly (never while you are starving). Eating varied food again brings both back gradually. Every group can be grown or hunted in any season: meat and eggs give fat and protein, and cave wheat gives grain underground (see [Underground and indoor farms](Guide_to_Farming.md#underground-and-indoor-farms)).
 
 ## Kitchen implements
 
