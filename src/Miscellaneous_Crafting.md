@@ -68,8 +68,18 @@ For two hide pieces, budget **2 hides, 1 bark and 20 water**: ten water washes t
 hides, and ten water makes the ten tannin needed to finish both. Tool, rack,
 research and normal resource-acquisition requirements still apply.
 
+### Parchment
+
+Stop before tanning to make **parchment**, a blank writing sheet that works like
+paper for notes, books and research. Use any held sharp tool, such as a knife or
+hatchet, on a nearby **dry hide**. Cutting takes **50 ticks**, normally five
+seconds, and turns **1 dry hide** into **4 sheets of parchment** at your feet.
+Interrupted cutting consumes nothing. The cut itself needs no research; the
+scraping, washing and drying before it need Basic Toolmaking where research
+applies.
+
 The [Crafting Atlas](https://civ13.github.io/Civ13/crafting/) lists the hide
-stages, bark and tannin acquisition, and leather recipes. In game, use a tanning
+stages, bark and tannin acquisition, parchment and leather recipes. In game, use a tanning
 rack's **Processing Reference** to open its drying route and find the rack's
 construction recipe and research requirement.
 
