@@ -222,6 +222,16 @@ comes off and drops at the patient's feet. Breaking the bone again
 resets the progress. Bone surgery is still the fast way to fix a
 fracture.
 
+**Holding a broken bone:** With no splint to hand, hold the break still
+yourself. Use grab intent with an empty hand and click yourself while
+aiming at the broken limb. While that hand stays empty the bone counts as
+splinted: moving doesn't hurt it or the organs under it and the lasting
+pain eases, but it doesn't heal. If nothing is aimed, the hand holds the
+worst break it can reach, ribs and skull first. Holds work like holding a
+wound: one limb per hand, a hand can't hold its own arm, and the hand lets
+go when you pick something up or pass out. A hand pressing on a bleeding
+break keeps holding the bone after the bleeding stops.
+
 #### Blood recovery
 
 Lost blood comes back twice as fast while the patient is well fed and
