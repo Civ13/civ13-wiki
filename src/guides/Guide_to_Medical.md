@@ -113,7 +113,24 @@ The modern combat medicine kit carries **autoinjectors**: one-use pens of morphi
 
 ### Time since death
 
-Examine a body from the next tile to see roughly how long ago they died. A medic, or anyone with a **medical** skill of 50 or more, also learns whether a defibrillator could still bring them back or whether it is too late.
+Examine a body from the next tile to see roughly how long ago they died. A medic, or anyone with a **medical** skill of 50 or more, also learns whether CPR or a defibrillator could still bring them back, whether their wounds or blood loss must be treated first, or whether it is too late.
+
+### Reviving the recently dead
+
+Someone who died in the last **8 minutes** can be brought back while their body is still there. On green/help intent, click the body with an empty hand to give CPR: each round of chest compressions takes 5 seconds and has a chance to restart the heart. Keep going until it works. While you keep up compressions the clock stops, so a steady rescuer buys time. Uncover both mouths so your rescue breaths also help.
+
+- A higher **medical** skill, or being a medic, improves the odds.
+- **Adrenaline** in their blood (a syringe or autoinjector of 5 units or more) makes each round much more likely to work.
+- A charged **defibrillator** restarts the heart in one shock.
+
+Some things keep a person dead for good:
+
+- More than 8 minutes have passed, or the body has started to rot.
+- The head is gone, or a vital organ (heart or brain) is missing or ruined. Someone who succumbed has a ruined brain.
+- There is a lot of poison in their body.
+- The player has moved on: they started a new character, gave up their body or left the game.
+
+Lethal wounds and heavy blood loss only have to be treated first: bandage and heal the body, or give blood, then try again. The revived wake up later, weak and near death, with more brain damage the longer they were gone, so keep treating them. They keep their name and what they knew.
 
 ### Triage tags
 

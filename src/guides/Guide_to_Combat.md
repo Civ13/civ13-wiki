@@ -15,7 +15,7 @@ Your **intent** decides what your empty hand, or the item in it, does when you c
 
 | Key | Intent | Empty-handed on another person |
 | --- | --- | --- |
-| 1 | **Help** | Shake them awake, or perform CPR when they are in critical condition. A gun you are holding up will not fire reflexively on Help. |
+| 1 | **Help** | Shake them awake, or perform CPR when they are in critical condition or recently dead. A gun you are holding up will not fire reflexively on Help. |
 | 2 | **Disarm** | Aim at the chest to shove them up to one tile away (10 stamina, then a 2 second recovery; the same person can't be shoved again for 3 seconds). Aim anywhere else to try to knock the item out of their hand. A loaded gun can go off in the struggle. |
 | 3 | **Grab** | Grab them. Use the grab in your hand again to tighten it. Grab intent on your *own* bleeding limb applies pressure to slow the bleeding. |
 | 4 | **Harm** | Punch, or attack with the held weapon. |
