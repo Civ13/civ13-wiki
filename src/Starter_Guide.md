@@ -1,19 +1,21 @@
 # Starter Guide
 
 ```admonish info
-This guide mostly pertains to survival in the sandbox [Civilizations and Nomads](gamemodes/Civilizations_and_Nomads.md) game mode.
+This guide mostly pertains to survival in the sandbox [Civilizations and Nomads](gamemodes/Civilizations_and_Nomads.md) game mode. On persistent worlds such as [Gaia](maps/Gaia.md), every recipe has to be studied from a book first: start with [Your First Day](guides/Guide_to_Your_First_Day.md).
 ```
 
 ## Spawning in
 
 - When you spawn, you will be told the languages you know. Your appearance and language will be determined by your spawn location.
-- Your **hunger** and **thirst** levels will both be at 50%.
+- Your **hunger** and **thirst** bars start full, and drain as you work.
 - You start out with nothing but age-appropriate clothes on your person. Your first priority will be gathering flint to make a flint axe.
   - Find a large rock and click it with an empty hand on **Grab intent** — you should be able to gather some flint.
-  - Click the rock repeatedly with the flint to sharpen it. You will get a message when it is sharpened.
+  - Sharpen it by **knapping**: hold a stone or a second flint and use it on the flint, then choose **Sharp flake**. Once you know Stone Arms you can also click the rock with the flint until it chips to a sharp edge. See [Flint](guides/Guide_to_Flint.md).
   - Now go to a tree and click it with an empty hand on **Harm intent**. This will pull a branch from the tree and place it on the ground.
   - Click the branch with an empty hand on **Grab intent** to clear the leaves, then click again on **Harm intent** to pull out the twigs.
-  - Use the sharpened flint to sharpen the stick, then click the sharpened stick with the flint again to craft a trusty flint axe — a tool and a weapon.
+  - Use the sharpened flint to sharpen the stick.
+  - Get a binding: use the sharpened flint on grass or tall grass for **grass cuttings** and use two in hand to twist **crude twine**, or butcher an animal for **sinew**.
+  - With the binding in your inventory or under you, use the sharpened flint on the sharpened stick to make a trusty flint axe — a tool and a weapon. A twine binding wears out quickly; sinew or rope lasts longer.
 - If it's **winter season** or an **Ice Age** map, you also spawn with a **fur coat**. Losing it will mean cold and miserable **death** in the icy outdoors.
 
 ## Crafting Basics

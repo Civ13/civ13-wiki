@@ -26,7 +26,7 @@ The world starts in 5000 B.C. and has no clock: it moves into a new age only whe
 3. **Craft what you've learned.** Crafting checks your own knowledge only. Your faction's research and the world's age don't unlock anything for you.
 4. **Research new chapters** at a research bench, then study them like any other chapter.
 
-**Pencils, paper and blank books** can be crafted by anyone from the start, with no knowledge needed. **Parchment** is cut from a dried hide with a sharp tool (four sheets per hide) and works like paper.
+**Pencils, paper and blank books** can be crafted by anyone from the start, with no knowledge needed, but they are made from wooden planks, and planks need Basic Toolmaking. For a new character's first steps, see [Your First Day](Guide_to_Your_First_Day.md). **Parchment** is cut from a dried hide with a sharp tool (four sheets per hide) and works like paper.
 
 ## Studying
 

@@ -12,7 +12,7 @@ Civilization 13 (formerly 1713) is a free multiplayer game based on Space Statio
 
 <ol class="wiki-steps">
 <li><strong>Install BYOND</strong><p><a href="https://www.byond.com/download/">Download BYOND</a> and install the Windows client. BYOND lists Linux as a hosting platform rather than a game client; macOS is not listed as a supported player platform.</p></li>
-<li><strong>Learn the basics</strong><p><a href="rules/Rules.md">Read the server rules</a> and <a href="New_Player_Guide.md">learn how to play</a>. The <a href="Starter_Guide.md">Starter Guide</a> covers your first hour as a nomad.</p></li>
+<li><strong>Learn the basics</strong><p><a href="rules/Rules.md">Read the server rules</a> and <a href="New_Player_Guide.md">learn how to play</a>. The <a href="Starter_Guide.md">Starter Guide</a> covers your first hour as a nomad, and <a href="guides/Guide_to_Your_First_Day.md">Your First Day</a> walks you through getting a research book, food, water and shelter on persistent worlds such as Gaia.</p></li>
 <li><strong>Choose a server</strong><p>These links open BYOND when the client is installed: <a href="byond://civ13.com:1715">Join RP / Nomads</a> or <a href="byond://civ13.com:1714">Join TDM</a>.</p></li>
 </ol>
 

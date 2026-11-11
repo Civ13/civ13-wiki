@@ -11,6 +11,7 @@
 - [Guides Overview](guides_overview.md)
     - [Getting Started]()
         - [Starter Guide](Starter_Guide.md)
+        - [Your First Day](guides/Guide_to_Your_First_Day.md)
         - [Chat Window & Tabs](guides/Guide_to_Chat.md)
         - [Customizing Your HUD](guides/Guide_to_HUD.md)
         - [Character & Skills](guides/Guide_to_Character.md)

@@ -2,12 +2,13 @@
 
 This section contains comprehensive guides covering various game mechanics, skills, and systems. Choose a guide below to learn more about specific gameplay aspects.
 
-New to the game? Start with [How to Play](New_Player_Guide.md), then the [Starter Guide](Starter_Guide.md).
+New to the game? Start with [How to Play](New_Player_Guide.md), then the [Starter Guide](Starter_Guide.md). On persistent worlds such as Gaia, follow [Your First Day](guides/Guide_to_Your_First_Day.md).
 
 <!-- nav:Guides Overview -->
 ## Getting Started
 
 - [Starter Guide](Starter_Guide.md)
+- [Your First Day](guides/Guide_to_Your_First_Day.md)
 - [Chat Window & Tabs](guides/Guide_to_Chat.md)
 - [Customizing Your HUD](guides/Guide_to_HUD.md)
 - [Character & Skills](guides/Guide_to_Character.md)

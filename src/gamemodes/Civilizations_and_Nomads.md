@@ -78,9 +78,9 @@ Work smart, not hard!
 
 #### General
 
-* To **Create** a faction, open the **Faction tab** and click **Create a faction**. Choose a name for it, as well as symbols and colours for your faction's banner.
+* To **Create** a faction, open the **Faction tab** and click **Create Faction**. Choose a name for it, as well as symbols and colours for your faction's banner.
 * To join a faction, you must be **Recruited** by its leader or by a member who has the **Recruitment** permission, or join through one of its [recruitment stations](#recruitment-stations). If you are already in another faction, accepting moves you over and you join as an ordinary member, without any rank or permissions you had before.
-* You can leave a faction by clicking **Abandon** on the **Faction tab**. Take note, that **you will not be able to rejoin the same faction for 24 hours!**
+* You can leave a faction by clicking **Abandon Faction** on the **Faction tab**. Take note, that **you will not be able to rejoin the same faction for 24 hours!**
 * Creating a faction makes you the default **Leader**.
 
 #### Recruitment stations
