@@ -28,6 +28,20 @@ You can also fish the open sea from a boat, without looking for a fish-filled ti
 
 Each stretch of sea (about 8 by 8 tiles) only holds three fish. A fish comes back every ten minutes, so keep the boat moving. See [Boats & Ships](Guide_to_Boats.md) for building a boat.
 
+## Fish pens
+
+A **fish pen** lets you farm fish instead of only catching wild ones. It costs farm output, but it never runs dry.
+
+* Build it from 10 wood with tools, next to the fishing cage in crafting (Basic Tools research).
+* Push it onto fresh water: a lake, river or pond, or a flooded trench or irrigation channel. Salt water and ice do not work.
+* Stock it by using a raw fish you caught on it. The first fish decides which kind of fish the pen gives. Salted fish cannot stock it, and it holds up to 8 fish.
+* Feed it grain (wheat, oat, barley, rice), seeds or raw meat. Grain is worth 2 feed, meat 3 and each seed 1, and the pen holds up to 20 feed.
+* Every 5 minutes the fish eat one feed for every two fish. When they are fed and there are at least two, one more fish is born. Outdoors in winter they eat but do not breed.
+* Fish starve: after three hungry cycles in a row the pen loses a fish. A pen moved out of fresh water loses a fish every cycle.
+* To harvest, use any fishing tool on the pen. Leave at least two fish so it keeps breeding.
+
+A full, fed pen gives about one fish every 5 minutes for two grain. Examine the pen to see its fish and feed.
+
 ## Equipment
 
 Ways of parting fish and the like with their element.
