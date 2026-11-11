@@ -1,5 +1,38 @@
 # Customizing Your HUD
 
+## The HUD at a glance
+
+The HUD is arranged in three groups along the bottom of the screen.
+
+**Bottom centre: you.** The lower row holds what you carry: shoulder, back,
+belt, right hand, left hand and your two pockets. The hand you are using has
+a gold edge. Directly above the hands are the small **drop**, **throw**,
+**pull** and **resist** buttons, and under them the **X** (equip) button and
+the **Swap** bar. The upper row shows how you are doing:
+
+- The **health figure** colours each body part as it gets hurt. Click it to
+  check yourself over.
+- Three bars show **food** (orange), **water** (blue) and **stamina**
+  (green). A bar turns red when it is nearly empty. Click the bars to read
+  the exact percentages.
+- The **face** shows your mood. Click it for the reasons.
+- The **thermometer** shows whether you are too hot or too cold.
+
+**Bottom right: actions.** Your intent (Help, Disarm, Grab, Harm) with a
+small button for each, walk or run, your fighting stance, dodge or parry,
+kick, and the body figure you click to choose where you aim. **Random** and
+the eye button sit above the body figure.
+
+**Bottom left: clothing.** Hat, ears, eyes, mask, pouch, clothing, suit,
+gloves and shoes. The bag button in the corner folds the clothing away and
+brings it back.
+
+If you prefer the older layout with one long bar along the bottom, use
+**ChangeHUD** in the **OOC** tab and pick **1713Style**. Pick
+**ConsoleStyle** to come back. The game remembers your choice.
+
+## Customizing
+
 You can resize the HUD (the buttons, meters and inventory slots around the
 edge of the screen), move tiles to new places, and lock them in place once
 you are happy with them. All three options are verbs in the **OOC** tab.
@@ -11,9 +44,10 @@ Use **HUD Scale** to make the whole HUD bigger or smaller. You can pick from
 screens. Each tile stays on the edge or corner of the screen it sits on, so
 the HUD stays out of the middle of your view at any scale.
 
-Above 100% the standard HUD no longer fits in one row, so it rearranges
-itself: the status column on the right stacks up the right edge, and the
-bottom bar wraps into extra rows. No tile covers another. Tiles you have
+The three groups stay together for as long as they fit side by side. When a
+large scale makes them too wide for your view, the HUD rearranges itself: the
+tiles wrap into extra rows from the bottom-left and the right edge. No tile
+covers another. Tiles you have
 moved or resized yourself stay where you put them.
 
 ## Moving, resizing and locking tiles
@@ -51,9 +85,9 @@ corner of the screen stay there if your game window changes size.
 ## Widescreen view
 
 The game view is 21 tiles wide and 15 tall, so the map fills more of a wide
-monitor and the chat and status panel take less room. Your inventory stays in
-the bottom-left corner, your hands sit in the middle of the bottom edge, and
-the combat buttons and status column follow the right edge.
+monitor and the chat and status panel take less room. Your clothing stays in
+the bottom-left corner, your hands and carried items sit in the middle of the
+bottom edge, and the action buttons follow the bottom-right corner.
 
 On a small or square monitor, turn on **Square game view (small monitors)** in
 your preferences to go back to a 15 by 15 view. The HUD and the side panel

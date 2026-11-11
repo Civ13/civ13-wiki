@@ -51,8 +51,10 @@ What to do with metal ores — **[Guide to Metallurgy](guides/Guide_to_Metallurg
 
 To survive, you need to keep yourself nourished and warm.
 
+Watch the **food** (orange) and **water** (blue) bars at the bottom centre of your screen, next to your health figure. Click them to see exactly how you're doing. The green bar below them is your stamina. More about the screen layout is in **[Customizing Your HUD](guides/Guide_to_HUD.md)**.
+
 <img src="images/hud_stomach.png"><br>
-Click your **Thirst** and **Hunger** **icon** on the right side (stomach icon) to know how you're doing.
+If you switched to the older 1713Style layout, click the stomach icon on the right side instead.
 
 **Letting either hunger or thirst reach 0% will cause your body to start shutting down, leading to inevitable death!**
 
