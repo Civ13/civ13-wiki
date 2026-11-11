@@ -133,7 +133,7 @@ The **primitive saw mill** works the same way as the hand crusher: it keeps cutt
 
 ## Tanning drum
 
-The **tanning drum** makes leather without scraping, washing, rack drying and tanning each hide by hand. It is a powered wooden drum on a steel frame, crafted from **10 steel** with **Factories** research. Using it also needs the same know-how as tanning by hand (Resource Processing).
+The **tanning drum** makes leather without scraping, washing, rack drying and tanning each hide by hand. It is a powered wooden drum on a steel frame, crafted from **10 steel** with **Factories** research. Using it also needs Resource Processing.
 
 1. Wrench it down and connect it to cable power. It uses 3 power.
 2. Load hides: raw hides, pelts, scraped hides, wet hides or dry hides, up to **30 pieces** in any mix. Use a held stack on it, or let an arm feed it.
