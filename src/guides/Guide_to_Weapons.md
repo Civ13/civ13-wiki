@@ -845,11 +845,13 @@ Craft a gun sling from **2 leather** in the **Weapons** menu after **Gunsmithing
 
 ### Modular rifle parts
 
-Three rifle families are built from four parts:
+Five rifle families are built from four parts:
 
 - **AK:** AKM and AK-74 rifles (including the folding-stock and short versions) and the AK-101 to AK-105.
 - **AR:** the M16A1, AR-15, M16A2 and M16A4, the XM177E2 and M4 carbines, and the C7 and C8.
 - **Mauser:** the Gewehr 98, Karabiner 98a and 98k, and the Mauser M1890, M1893 and M1903 bolt-action rifles (see below).
+- **Mosin:** the Mosin M1891 and 91/30 bolt-action rifles. The sawn-off Obrez cannot be taken apart.
+- **Arisaka:** the Arisaka Type 30, 35, 38, 97 and 99 bolt-action rifles.
 
 Unload the rifle and hold it, then right-click it and choose **Remove Rifle Part**. To fit a part, hold it in your active hand and use it on the rifle. Examine the rifle up close to see its parts, their condition and anything stopping it from firing. Each family's parts only fit rifles of that family.
 
@@ -864,7 +866,7 @@ Unload the rifle and hold it, then right-click it and choose **Remove Rifle Part
 - **Stocks:** a rifle with no stock still fires but is harder to handle. Folding and collapsible stocks are slightly less steady than fixed ones.
 - **Barrel wear:** every shot wears the barrel, and a worn-out barrel stops the rifle firing until you replace it. Parts keep their condition when you remove them, so swapping parts never repairs anything.
 
-**Mauser bolt-action rifles** have a Mauser bolt, a barrel, a fixed magazine and a wooden stock, swapped the same way as above. The magazine decides which stripper clips and rounds the rifle takes, so fit a barrel and magazine of the same cartridge (7.92x57mm, 7.65x53mm or 7x57mm) to rebarrel a rifle, for example a Kar98k to 7.65x53mm.
+**Bolt-action rifles** (Mauser, Mosin and Arisaka) have a bolt, a barrel, a fixed magazine and a wooden stock, swapped the same way as above. The magazine decides which stripper clips and rounds the rifle takes, so fit a barrel and magazine of the same cartridge to rebarrel a rifle. Mausers come in 7.92x57mm, 7.65x53mm or 7x57mm, so a Kar98k can become a 7.65x53mm rifle. Arisakas come in 6.5x50mm or 7.7x58mm, so a Type 38 can take Type 99 clips. Mosins only come in 7.62x54mmR.
 
 **Making rifle parts in a factory:** once your faction has researched **Automatic Weapons**, fabricators can make every AK and AR part and a bare **AK receiver** or **AR receiver**. Fit a bolt carrier and a barrel to the receiver at a firearm maintenance bench, then a magazine well and a stock, and you have a working rifle named after its family and caliber.
 
@@ -879,15 +881,15 @@ Unload the rifle and hold it, then right-click it and choose **Remove Rifle Part
 | AK folding stock | 2 steel | Assembly (tier 1) |
 | AR fixed or collapsible stock | 2 plastic | Assembly (tier 1) |
 
-Once your faction has researched **Cartridge Firearms**, fabricators can also make every Mauser part and a bare **Mauser receiver**, all at Assembly (tier 1):
+Once your faction has researched **Cartridge Firearms**, fabricators can also make every Mauser, Mosin and Arisaka part and a bare receiver for each, all at Assembly (tier 1):
 
-| Fabricator recipe | Inputs |
+| Fabricator recipe (Mauser, Mosin or Arisaka) | Inputs |
 | --- | --- |
-| Mauser receiver | 4 steel |
-| Mauser bolt | 2 steel |
-| Mauser barrel (7.92x57mm, 7.65x53mm or 7x57mm) | 3 steel |
-| Mauser magazine (7.92x57mm, 7.65x53mm or 7x57mm) | 1 steel |
-| Mauser stock | 3 wood |
+| Receiver | 4 steel |
+| Bolt | 2 steel |
+| Barrel (any caliber of that family) | 3 steel |
+| Magazine (any caliber of that family) | 1 steel |
+| Stock | 3 wood |
 
 ### Cleaning and repairs
 
