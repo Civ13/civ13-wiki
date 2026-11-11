@@ -153,7 +153,16 @@ The same people see a small badge over wounded people around them: yellow for hu
 
 A bleeding person who is dragged along the ground leaves a smear of blood on each tile, which also shows where they were taken.
 
-**Applying Pressure:** Used to stop or lessen the effects of bleeding. To perform this action use grab intent and then click on yourself while aiming at the body part which is bleeding. Be aware that if you use that same hand you will stop applying pressure. Useful for mild cuts and making it back to a doctor.
+**Holding a wound:** Pressing a free hand on a bleed slows it a lot. Use
+grab intent with an empty hand and click yourself. The hand holds the limb
+you are aiming at if it bleeds, otherwise the worst bleed it can reach (a
+hand can't hold its own arm, so use the other hand for that). Each hand
+holds one bleed, so you can hold two at once: swap hands and click yourself
+again. Clicking yourself again with the same hand moves it to another
+wound. You can do this while knocked down. The hand lets go when you pick
+something up with it, pass out, or the bleeding stops. To hold someone
+else's wound, grab them, tighten it to an aggressive grab, then click them
+on help intent with the grab in hand.
 
 **Healing Herbs:** Mostly used by primitive peoples, it will not help
 stop the bleeding but will also clean the wound, so it is always
@@ -192,6 +201,15 @@ examining the patient shows it.
   after 60 minutes the limb dies and needs debridement surgery.
 - The [internal bleeding surgery](#internal-bleeding) also repairs a
   severed artery and removes the tourniquet.
+
+**Makeshift tourniquets:** In an emergency, rope or crude twine works as
+a tourniquet. Use it on help intent on any bleeding arm, leg, hand or
+foot, your own too (rope about 4 seconds, twine about 5). A makeshift
+tourniquet only slows the bleeding, but together with a hand holding the
+wound it stops it. It doesn't last: rope slips loose after about 5
+minutes and twine after about 2. Replace it before then by using a
+bandage roll on a limb with a cut artery (this ties a proper tourniquet),
+or by tying fresh rope or twine.
 
 #### Splinted fractures heal
 
