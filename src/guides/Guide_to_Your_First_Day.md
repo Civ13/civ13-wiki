@@ -39,7 +39,7 @@ Every recipe belongs to a chapter, such as **Basic Toolmaking** or **Basic Furni
 To study, hold the book, use it in your hand and pick **Study: chapter**. The menu lists the chapters you can study now first, then the ones that need groundwork, then the ones you already know. A Stone Age chapter takes **1 minute**. Stand still until it finishes; you keep the chapter until you die.
 
 ```admonish tip
-Writing supplies need no chapter: once you have **wooden planks**, anyone can make a **pencil** (1 plank), a **sheet of paper** (1 plank), a **blank book** (4 planks) and a **research bench** (8 planks), and a **writing slate** from 2 stone. Planks themselves need Basic Toolmaking, so a lone player still starts with a book, or with planks from someone else. See [Books and Scholars](Guide_to_Books_and_Scholars.md) for research benches, copying books and scholarship.
+Writing supplies need no chapter: once you have **wooden planks**, anyone can make a **pencil** (1 plank), a **sheet of paper** (1 plank), a **blank book** (4 planks) and a **research bench** (8 planks), and a **writing slate** from 2 stone. Planks need no chapter either (see [Tools without a book](#tools-without-a-book)), so a lone player can also start from scratch: make planks, build a bench, put a blank book on it and research Basic Toolmaking yourself. See [Books and Scholars](Guide_to_Books_and_Scholars.md) for research benches, copying books and scholarship.
 ```
 
 ## What to study first
@@ -48,7 +48,7 @@ The Stone Age master book has twelve chapters. None of them needs another chapte
 
 | Chapter | What it gives you on day one |
 | --- | --- |
-| **Basic Toolmaking** | Wooden planks (a hatchet on logs), the **stone hatchet** (2 stone), **wood handle**, **wooden spade** and bone shovel, **wooden ladder**, knives, the **tanning rack** and leather, the **dehydrator** for drying meat, fishing rods and nets, rope, whittling with flint |
+| **Basic Toolmaking** | The **stone hatchet** (2 stone), **wood handle**, **wooden spade** and bone shovel, **wooden ladder**, knives, the **tanning rack** and leather, the **dehydrator** for drying meat, fishing rods and nets, rope |
 | **Basic Furniture** | **Campfire** (4 logs), **bed** (4 planks), **brazier** (stone), tables, chairs and the writing desk |
 | **Pottery & Cookware** | **Wooden mug** (1 log), **bucket** (2 planks), clay pots and cups, the clay **cooking pot**, waterskin, wooden bowl |
 | **Primitive Construction** | **Log walls** (6 logs), **roof supports** (2 logs), the **wood roof builder** (1 plank), doors, fences, wooden floors and stairs, **mine supports**, **torches** |
@@ -68,7 +68,7 @@ You can get your first tools before you have studied anything:
 4. **A binding.** Use the sharpened flint or knife on grass or tall grass to cut **grass cuttings**, then use two cuttings in hand to twist **crude twine**. Butchered animals also give **sinew**, which is stronger.
 5. **Flint axe.** With the twine or sinew in your inventory or on the ground under you, use the sharpened flint on the sharpened stick. A twine binding wears out quickly; sinew or rope lasts much longer.
 
-With the axe you can chop trees for **wood logs**. A flint spearhead used on a stick makes a **flint spear** for hunting. Turning logs into planks needs Basic Toolmaking; [Woodworking without an axe](../Miscellaneous_Crafting.md#woodworking-without-an-axe) shows the hand route with flint, wedge and mallet.
+With the axe you can chop trees for **wood logs**. A flint spearhead used on a stick makes a **flint spear** for hunting. Use the axe on a stack of logs to cut **2 logs into 1 plank**; this needs no chapter. Without an axe, [Woodworking without an axe](../Miscellaneous_Crafting.md#woodworking-without-an-axe) shows the hand route with flint, wedge and mallet.
 
 ## Water
 
