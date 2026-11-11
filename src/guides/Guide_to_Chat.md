@@ -36,6 +36,14 @@ Click **Tabs...** at the right end of the tab row to open the tab settings:
 Your tabs are saved on your own computer, so they are still there the next
 time you play.
 
+## Connection warnings
+
+If the server stops answering for about 20 seconds, the chat prints a red
+**Connection lost** line. It shows on every tab. The server may have stopped,
+or your connection may have dropped. If the server was only busy, a green
+**Connection restored** line follows once it answers again. If no restored
+line comes, reconnect.
+
 ## Tips
 
 - A **Combat** tab with only "warnings and combat" ticked makes it easier to
