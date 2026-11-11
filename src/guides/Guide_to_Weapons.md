@@ -921,6 +921,14 @@ Insert a compatible magazine and chamber a round as required by the gun. Check t
 - Used casings can be reloaded with gunpowder and lead projectiles.
 - Caliber alone does not tell you how an engagement will go. Accuracy, cover, ammunition and positioning matter too.
 
+**Armor and ammunition types:**
+
+- Helmets and body armor reduce bullet damage. The closer the armor is to a round's penetrating power, the more of the hit it absorbs, and armor strong enough stops the round entirely. Armor never makes a hit worse.
+- Absorbing hits wears armor down, so damaged armor protects for less time. Repair or replace it.
+- Rounds marked **(AP)**, armor piercing, deal less damage but go through armor and cover more easily. Use them against armored targets.
+- Rounds marked **(HP)**, hollow point, deal more damage to unprotected targets but are easily stopped by armor and do not pass through bodies.
+- Stopped rounds can still knock you down or stun you, so armor is not a reason to stand in the open.
+
 For reagent handling and gunpowder production, consult the [chemistry guide](Guide_to_Chemistry.md). A barrel is a container, not a substitute for checking the recipe.
 
 ## Weapon types and how to use them.
