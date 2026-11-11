@@ -50,6 +50,7 @@ A tunnel shaft you dig with a shovel is an open **pit** with no ladder down. Cli
 - **Hide a pit:** use **five leaves** on it and wait three seconds. A covered pit looks like ordinary ground until someone falls in, which tears the cover away.
 - **Pulling:** a pull does not carry anyone across a pit. Whoever steps on it falls and the pull is let go.
 - **Climbing up:** to get out of a pit or onto a higher floor, face a wall or the rim of a hole with a free hand and use **IC > Climb Up**. After three seconds you climb onto the ledge one floor up, if there is solid, clear ground there to stand on.
+- **Ladders:** craft a **wooden ladder** from **4 wood logs** (Tools, needs **Basic Toolmaking**) and use it on a pit to fit it, if there is clear floor at the bottom. Nobody falls into a pit with a ladder. Click the pit to climb down, and click the ladder at the bottom to climb back up. Use grab intent on the pit to pull the ladder out again. A pit with a ladder can't be hidden with leaves.
 
 ## Building a defensive line
 
