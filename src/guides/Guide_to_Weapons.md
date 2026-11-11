@@ -853,7 +853,9 @@ Five rifle families are built from four parts:
 - **Mosin:** the Mosin M1891 and 91/30 bolt-action rifles. The sawn-off Obrez cannot be taken apart.
 - **Arisaka:** the Arisaka Type 30, 35, 38, 97 and 99 bolt-action rifles.
 
-Unload the rifle and hold it, then right-click it and choose **Remove Rifle Part**. To fit a part, hold it in your active hand and use it on the rifle. Examine the rifle up close to see its parts, their condition and anything stopping it from firing. Each family's parts only fit rifles of that family.
+Hold the rifle, then right-click it and choose **Rifle Parts** to open its parts panel. The panel shows whether the rifle can fire and what is stopping it, its cartridge, handling and the magazines or clips it takes, and each installed part with its condition and a **Remove** button. Unload the rifle before working on it. Every rifle part you carry is listed too, with a preview of what fitting it would change: handling before and after, the cartridge, and whether the rifle would still fire. Hold a part in your active hand to get a **Fit** button, or use it on the rifle. Examining the rifle up close also lists its parts. Each family's parts only fit rifles of that family.
+
+**Salvaging parts:** next to a firearm maintenance bench, a part you carry can be scrapped from the parts panel's **Salvage** button, or by using the part on the bench. You are first shown what is destroyed and what comes back, and nothing happens until you confirm. Salvage returns about half the part's factory materials, less for worn parts: a new AK barrel (3 steel) gives back 2 steel, while a worn-out barrel gives back nothing.
 
 | Part | AK options | AR options | Where you can swap it |
 | --- | --- | --- | --- |
