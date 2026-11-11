@@ -387,12 +387,28 @@ Just a normal flu.
 
 You've been covered with lice for days and now you feel sick.
 
-  - You might get it from wearing dirty clothes for too long. Watch out for the flea sprites.
-  - Throwing up randomly.
-  - Slightly transmittable from person to person.
-  - Untreated typhus leaves you sick and collapsing for a long time.
-  - Treatment is through penicillin and tea.
-  - You might get immunity after surviving it.
+  - You catch it from fleas. Clothes that stay filthy long enough get
+    fleas (watch out for the flea sprites), and every moment you wear
+    them there is a small chance of typhus.
+  - Washing your clothes gets rid of the fleas: use the clothes on a
+    sink or open water, or put them in a washing machine.
+  - It spreads slightly from person to person: standing within two tiles
+    of a sick person, or a body that died of it, can pass it on. A
+    sterile mask halves the risk.
+  - Look for a red rash on the skin. After about three minutes you
+    become weak, drowsy, feverish and in pain, and you cough now and
+    then. After about fifteen minutes you start to collapse.
+  - Typhus does not kill you by itself, but a collapsing patient can
+    still die of wounds, hunger, thirst or the cold.
+  - **Cures:**
+    - **Penicillin:** a continuous course of 2 units cures it in about
+      three minutes.
+    - **Healing herbs:** the Stone Age cure. Chew three herbs, one
+      after another before the last runs out, for a ten-minute course.
+    - **Waiting:** the body fights it off on its own after about half an
+      hour of play.
+  - Tea, aspirin and charcoal do not help with typhus.
+  - After you recover you resist typhus for a while.
 
 ### Combating Illness
 
