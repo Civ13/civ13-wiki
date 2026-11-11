@@ -84,7 +84,7 @@ Click the icon to switch or use the N hotkey in the hotkeys mode.
 
 **<u>Secondary attack</u>**
 
-**Bite** - when there are no other options.
+**Bite** - when there are no other options. You bite an arm or hand: aim at one to pick it, otherwise you bite whichever arm or hand is nearest your aim.
 
 **Kick** - when the enemy thinks handcuffing you is enough.
 
