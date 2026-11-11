@@ -50,7 +50,16 @@ To try the controls before your first round, choose **Practice Room** in the Lob
 8. Eat the bread slice by clicking yourself with it.
 9. Walk onto the exit marker.
 
-When you reach the exit you return to the Lobby. You can leave at any time with **Leave Practice Room** in the IC tab, and **Practice Instructions** repeats the current step. If the world starts saving, the practice room closes and sends you back to the Lobby. If every room is busy, try again in a few minutes.
+When you reach the exit you return to the Lobby. To leave early, use any of these:
+
+- Click the **click here to leave** link on any step message in chat.
+- Press **Esc** and choose **Leave practice room**.
+- Click the blue exit marker and confirm.
+- Use **Leave Practice Room** in the Practice group at the top of the IC tab.
+
+**Practice Instructions**, in the same group, repeats the current step. Disconnecting also ends the practice room; when you reconnect you are back in the Lobby.
+
+If the world starts saving, the practice room closes and sends you back to the Lobby. If every room is busy, try again in a few minutes.
 
 ### In-game tutorial
 
