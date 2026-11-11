@@ -10,7 +10,7 @@ Both routes give the same meat and food byproducts. Grab selects species pelts; 
 
 Butchering trains the **hunting** skill, and a skilled hunter cuts more food from each carcass. Above 1.0 hunting, every 0.01 adds 1% more meat portions (or pig legs and chicken carcasses) and animal fat: at 1.5 you get about half again as much, and at 2.0 or higher double. Organs, bones, sinew, hides and pelts do not change with skill.
 
-The mammal products below apply to supported cattle, pigs/boars, goats, sheep, deer, bison, camels, rabbits, monkeys, cats, wild bears, wolves, foxes, gorillas, panthers, sabertooths, horses, pet or commanded dogs, mammoths and bats. Animal type and interaction handling matter: not every dog or bear follows these rules, and the table does not guarantee that every juvenile can be harvested. Let **Y** be the size yield above.
+The mammal products below apply to supported cattle, pigs/boars, goats, sheep, deer, bison, camels, rabbits, monkeys, cats, wild bears, wolves, foxes, gorillas, panthers, sabertooths, horses, pet or commanded dogs, mammoths, giant ground sloths and bats. Animal type and interaction handling matter: not every dog or bear follows these rules, and the table does not guarantee that every juvenile can be harvested. Let **Y** be the size yield above.
 
 | Product | Yield |
 | --- | --- |
@@ -21,7 +21,7 @@ The mammal products below apply to supported cattle, pigs/boars, goats, sheep, d
 | Quick-butchering raw hide | One stack of Y minus 2, minimum 1 and maximum 6 |
 | Fat | Up to two portions when the animal's fat rules allow it |
 
-Chicken and rooster also give one giblets portion. Other nonmammals do not gain mammal offal, sinew or generic bone; existing reptile pelts remain available. Adult male and female turkeys each provide **1 raw hide piece** through either harvesting route; turkey chicks provide **no hide**. This skin yield does not grant turkeys mammalian organs, sinew, bones or fat. Pelts depend on species: lions give 3, gladiator lions give none, and non-white sabertooths give 6. White wolves and giant gorillas retain their special pelts.
+Bone and sinew, with the same yields as the table, also come from larger birds (penguins, turkeys, geese and pelicans) and large reptiles (alligators, constrictor snakes and dinosaurs other than compsognathus). Chicken and rooster give one giblets portion instead, and small birds such as crows, gulls and pigeons give neither. Other nonmammals do not gain mammal offal or fat; existing reptile pelts remain available. Adult male and female turkeys each provide **1 raw hide piece** through either harvesting route; turkey chicks provide **no hide**. Pelts depend on species: lions give 3, gladiator lions give none, and non-white sabertooths give 6. White wolves and giant gorillas retain their special pelts.
 
 Keep species pelts for their existing fur clothing and pelt recipes, or scrape one pelt piece to start [tanning](../Miscellaneous_Crafting.md#leather-tanning). Each processed piece yields **1 leather sheet**; tanning does not multiply a piece into several sheets.
 
