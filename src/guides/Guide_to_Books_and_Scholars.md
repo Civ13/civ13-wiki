@@ -32,6 +32,8 @@ The world starts in 5000 B.C. and has no clock: it moves into a new age only whe
 
 Studying a chapter takes 1 minute in the Stone Age plus 30 seconds for each later age, and you keep it until you die. You can study from a book in hand, from a loose chapter page, or from a book lying on a research bench. Studying needs no scholarship, only the chapter's prerequisites.
 
+When you use a book, its chapters are sorted for you: first the ones you can study now (**Study**), then the ones whose prerequisites you still need (**Needs groundwork**), then the ones you already know (**Known**). Examining a book shows the same three groups. Recipe compendiums sort their chapters the same way.
+
 **Death wipes everything you know**, both chapters and scholarship. A new character starts with nothing, so keep your books safe and your scholars alive.
 
 ## Research benches
