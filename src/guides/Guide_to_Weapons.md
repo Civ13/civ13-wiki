@@ -858,6 +858,17 @@ AKM and AK-74 rifles, including the folding-stock and short versions, are built 
 - **Stocks:** a rifle with no stock still fires but is harder to handle. The folding stock is slightly less steady than the fixed one.
 - **Barrel wear:** every shot wears the barrel, and a worn-out barrel stops the rifle firing until you replace it. Parts keep their condition when you remove them, so swapping parts never repairs anything.
 
+**Making AK parts in a factory:** once your faction has researched **Automatic Weapons**, fabricators can make every AK part and a bare **AK receiver**. Fit a bolt carrier and a barrel to the receiver at a firearm maintenance bench, then a magazine well and a stock, and you have a working rifle named after its caliber.
+
+| Fabricator recipe | Inputs | Minimum fabricator |
+| --- | --- | --- |
+| AK receiver | 6 steel | Automated (tier 2) |
+| AK bolt carrier group | 3 steel | Automated (tier 2) |
+| AK barrel (7.62x39mm or 5.45x39mm) | 3 steel | Automated (tier 2) |
+| AK magazine well (7.62x39mm or 5.45x39mm) | 2 steel | Assembly (tier 1) |
+| AK fixed stock | 2 wood | Assembly (tier 1) |
+| AK folding stock | 2 steel | Assembly (tier 1) |
+
 ### Cleaning and repairs
 
 In the default catalog, craft a **firearm cleaning kit from 5 iron** in Tools or a **firearm maintenance bench from 18 iron** in Production. Tech-tree mode gates both through **Gunsmithing**; map catalogs, skills and other research modes still apply.
