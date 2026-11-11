@@ -13,6 +13,7 @@ This applies to persistent worlds such as [Gaia](../maps/Gaia.md) and the region
 - [Research benches](#research-benches)
 - [Writing and copying books](#writing-and-copying-books)
 - [Scholarship](#scholarship)
+- [Practice](#practice)
 - [The scholar's trade](#the-scholars-trade)
 - [Teaching and apprentices](#teaching-and-apprentices)
 - [Tips](#tips)
@@ -72,6 +73,21 @@ Research trains six disciplines, from 0 to 100: **Basic Mathematics, Engineering
 - Skill above the requirement makes research faster, up to twice as fast.
 - You gain skill by working at a bench, by studying chapters and by writing them. Work far below your level teaches you less, and half of what you learn also goes to Basic Mathematics.
 
+## Practice
+
+You can also train a discipline by hand. Hold its practice tool and use it in hand for a 45 second session. Each session costs some stamina, needs light and trains only that discipline. A writing desk beside you shortens the session, and your master standing nearby doubles what you learn.
+
+| Discipline | Practice tool | How to make it |
+| --- | --- | --- |
+| Basic Mathematics | Writing slate, or an **abacus** for 50% more | 2 stone (no knowledge needed); abacus 3 soft wood (Trade & Coinage) |
+| Engineering | **Model kit**, or a drafting set for 50% more | 3 soft wood (Basic Toolmaking); drafting set 2 iron (Iron Tools) |
+| Natural Science | **Specimen box** | 2 soft wood (Basic Toolmaking) |
+| Medicine | **Study bones** | 2 bone (Basic Toolmaking) |
+| Agriculture | **Seed tray** | 2 soft wood (Basic Toolmaking) |
+| Military Science | **War game board** | 2 soft wood (Basic Toolmaking) |
+
+Practice is a way to get started, not a way to the top. Each session teaches a little, less as you improve, and practice stops at level 24, enough to research two ages past a discipline's first and to earn the Apprentice title. Beyond that, only research, study and tutoring teach you more.
+
 ## The scholar's trade
 
 | Need | Details |
@@ -104,6 +120,7 @@ Research trains six disciplines, from 0 to 100: **Basic Mathematics, Engineering
 
 - Copy your important chapters. A raid on your library takes every chapter you only had once.
 - A scribe doesn't need to be a scholar: anyone can copy chapters at a bench.
+- New to a discipline? Practise with its tool between study sessions while your stamina recovers.
 - Keep a bench lit, stocked and next to your bookcases, and research with a pen at a desk nearby.
 - Rip out single chapters to lend or sell, and keep the master book at home.
 
