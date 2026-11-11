@@ -23,6 +23,7 @@ This is a list of hotkeys for when the game is on **Hotkey Mode**. Use **Tab** t
 | Z, CTRL+Z, CTRL+Y | Activate held object |
 | C, CTRL+C | Secondary activation (item/vehicle brake) |
 | B | Buckle/Unbuckle |
+| CTRL+B | Resist (break a grab, slip cuffs, get out of a buckle, pat out fire, get up) |
 | H, CTRL+H | Holster/Unholster |
 | I, CTRL+I | Open worn storage (press again for the next one) |
 | P, CTRL+P | Open backpack |
@@ -77,4 +78,4 @@ While you write a message in the Say window (**T**), a speech bubble shows over 
 
 ## Changing keys
 
-You can rebind prone, aiming mode, sights, the storage keys and other action keys through **OOC > Keybindings** or the **Keybindings** menu. Hotkey Mode and typing mode keep separate key sets. You can unbind a key, restore one action, or restore all defaults. Reserved keys and keys already in use are refused, and typing-mode bindings need Ctrl or Ctrl+Shift. Your keys are saved with your account.
+You can rebind prone, aiming mode, sights, the storage keys, resist (**Ctrl+B** in both modes) and other action keys through **OOC > Keybindings** or the **Keybindings** menu. Hotkey Mode and typing mode keep separate key sets. You can unbind a key, restore one action, or restore all defaults. Reserved keys and keys already in use are refused, and typing-mode bindings need Ctrl or Ctrl+Shift. Your keys are saved with your account.
