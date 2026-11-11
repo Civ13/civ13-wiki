@@ -7,14 +7,14 @@ relying on you to act fast.
 
 ## Severe illness
 
-Plague, typhus, malaria and cholera deteriorate while the infected human is actively processed. Symptoms become debilitating after about three minutes, critical after fifteen, and fatal after twenty untreated minutes of nominal processing. Disconnecting pauses this progression. Other injuries and environmental hazards still matter.
+Plague, typhus, malaria and cholera deteriorate while the infected human is actively processed. Symptoms become debilitating after about three minutes and critical after fifteen: pain, drowsiness, coughing and collapses. The illness does not kill on a timer. Untreated, the body fights it off by itself after about half an hour of play, and then resists that illness for a while. Disconnecting pauses this progression. A sick, collapsing patient is still at risk from other injuries, hunger, thirst and the weather, so keep them safe while they recover.
 
 | Illness | Medicine | Complete oral course |
 | --- | --- | --- |
 | Plague, typhus, cholera | Penicillin | 2 units |
 | Malaria | Quinine | 10 units |
 
-Continuous appropriate treatment pauses deterioration and cures the illness after three minutes. Interrupting treatment resets course completion; provide a fresh complete course before the deadline. Flu and zombie infection use separate behavior.
+Continuous appropriate treatment pauses deterioration and cures the illness after three minutes, much faster than waiting it out. Interrupting treatment resets course completion; provide a fresh complete course before the deadline. Flu and zombie infection use separate behavior.
 
 **Healing herbs** are the early alternative. Activate a herb stack in hand while conscious and able to eat. One herb supplies 10 herbal remedy, lasting about three minutes twenty seconds. Take **three herbs**, redosing before the previous remedy runs out, for a continuous **ten-minute course**. Keep a separate herb for planting; a cultivated harvest starts at three herbs, so building a treatment reserve takes multiple harvests. Herbs come from their jungle-bush forage and herb-stack planting route, not random herb seeds.
 
@@ -284,8 +284,8 @@ advanced medicine doesn't exist.
 
 #### Plague
 
-The rarest and the most lethal disease. If you have it, you will
-probably die.
+The rarest and the most dangerous disease. It leaves you weak and
+collapsing for a long time unless treated with penicillin.
 
   - Caught from eating raw mice. Or standing too long near one.
   - Transmits from person to person.
@@ -299,9 +299,8 @@ A deadly disease caused by parasites.
   - Transmitted by mosquitoes.
   - Does not transmit from person to person.
   - Will give you very high fevers with shivering and convulsions.
-  - Untreated, it will give you brain damage from the fever, and
-    possibly kill you.
-  - Normally survivable without treatment, but won't give you immunity.
+  - Normally survivable without treatment, but it is a long, miserable
+    illness.
   - Damage can be greatly reduced by taking quinine (harvested from the
     Chinchona plant).
   - You will not get immunity.
@@ -331,11 +330,9 @@ Just a normal flu.
     contaminate an entire village!
   - Will very probably not kill you, but can be an annoyance, causing
     blurred vision, blackouts, and fever.
-  - Untreated flu might give you brain damage from high fever.
   - Manageable by eating and drinking until full, and resting (buckling
     to a bed).
-  - Brain damage can be prevented by drinking plenty of tea, willow
-    bark tea or aspirin until the fever subsides.
+  - Tea, willow bark tea or aspirin help bring the fever down.
   - You might get immunity after surviving it.
 
 #### Typhus
@@ -345,7 +342,7 @@ You've been covered with lice for days and now you feel sick.
   - You might get it from wearing dirty clothes for too long. Watch out for the flea sprites.
   - Throwing up randomly.
   - Slightly transmittable from person to person.
-  - Untreated typhus will lead to your death.
+  - Untreated typhus leaves you sick and collapsing for a long time.
   - Treatment is through penicillin and tea.
   - You might get immunity after surviving it.
 
@@ -418,6 +415,11 @@ A splinted fracture also heals on its own over time (see [Splinted fractures hea
 - Alternative (example): Knife > Wood handle > Wood hammer > Torch
 
 ### Damaged Organs
+
+Bruised internal organs and brain damage heal slowly on their own, faster
+while resting, and the pain fades as they heal. Dead, missing or removed
+organs do not recover, and infection or blood loss stops the healing.
+Surgery is still needed for serious organ damage.
 
 - Usual procedure: Scalpel > Retractor > Hemostat > Bone Saw > Retractor > Trauma kit/Bandages > Retractor > Cautery
 
