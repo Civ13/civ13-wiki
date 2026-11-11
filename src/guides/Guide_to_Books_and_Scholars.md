@@ -58,6 +58,7 @@ Books are ordinary items. They can be traded, lent, hidden, stolen or carried to
 | **Copy at a bench** | Put two books on a bench and choose **Copy a chapter**. Hold a pencil or pen and a blank sheet. You don't need to know the chapter. | Same as writing |
 | **Rip out a page** | Use the book's **Rip out a page** option. A chapter becomes a loose page that can be studied on its own. | 2 seconds |
 | **Bind a page back in** | Use the loose page on a book. | 30 seconds |
+| **Print a book** | Put the book in a printing press as the original and a blank book as the copy, then use the press. It prints the pages, title and every finished chapter, using one sheet of printing paper per chapter. Load printing paper by using blank paper, parchment or a paper bin on the press. Unfinished research isn't printed. | 25 seconds |
 
 Recipe manuals and recipe compendiums take written notes too: use the book and choose **Read the notes** or study as usual. Binding manuals together keeps their notes. Research chapters only go into ordinary books, and a manual with notes in it can't be carried to another region.
 
