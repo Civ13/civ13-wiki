@@ -39,7 +39,7 @@ The small sail is in the cloth (or wool) crafting menu, not in vehicle parts. En
 
 - Boats only move onto **water**: shallow or deep water, swamp water and flooded trenches. Ice and dry land stop them.
 - You **can't craft while standing in deep water**, so build at the shoreline or in the shallows, facing open water.
-- **Rivers flow** on Gaia, Europe, Jungle and Asia. Every few seconds the current carries loose items and swimmers one tile downstream, but not boats or anyone aboard one. Lakes, ponds and the sea are still. Examine the water to see which way it runs.
+- **Rivers flow** on Gaia, Europe, Jungle and Asia. Every few seconds the current carries loose items and swimmers one tile downstream, but not boats or anyone aboard one. Animal carcasses stay where they fell, so you can butcher a kill in the shallows. Lakes, ponds and the sea are still. Examine the water to see which way it runs.
 - Rafts and finished boats can't be pushed or pulled, so build them where you mean to launch them.
 - A flooded trench is navigable. Dig a channel from a lake or the sea to a sheltered building spot, or around a ship to give it room to turn.
 
