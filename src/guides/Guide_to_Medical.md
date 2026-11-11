@@ -351,23 +351,35 @@ A deadly disease caused by parasites.
     illness.
   - Damage can be greatly reduced by taking quinine (harvested from the
     Chinchona plant).
-  - You will not get immunity.
+  - After you recover you resist malaria for a while.
 
 #### Cholera
 
 A disease caused by water-borne bacteria.
 
-  - Caught by drinking straight from puddles or water tiles without
-    boiling it first.
-  - Cannot be transmitted in any way.
-  - Will cause you to convulse and vomit. This will dehydrate you fast\!
-  - Vomiting will also cause you to lower the hunger level.
-  - Dehydration will kill you without treatment.
-  - Treatment is drinking plenty of water until the disease is gone. Any
-    type of freshwater will do.
-  - **TIP**: You can remove the risk of catching cholera by building a
-    well on a puddle. Well water is pure.
-  - You will not get immunity.
+  - Caught by drinking unboiled water: straight from a river, lake,
+    puddle or trench, or from a container filled there. Swamp water is
+    the worst, then jungle and flood water.
+  - A well is clean unless there is fecal waste within four tiles of it.
+    Plumbed toilets and fertilizer do not count.
+  - Boiling or cooking water and food removes the germs.
+  - It spreads slightly from person to person: standing within two tiles
+    of a sick person, or a body that died of it, can pass it on. A
+    sterile mask halves the risk.
+  - After about three minutes you become weak, drowsy, feverish and in
+    pain, and you shiver now and then. After about fifteen minutes you
+    start to collapse.
+  - Cholera does not kill you by itself, but a collapsing patient can
+    still die of wounds, hunger, thirst or the cold.
+  - **Cures:**
+    - **Penicillin:** a continuous course of 2 units cures it in about
+      three minutes.
+    - **Healing herbs:** the Stone Age cure. Chew three herbs, one
+      after another before the last runs out, for a ten-minute course.
+    - **Waiting:** the body fights it off on its own after about half an
+      hour of play.
+  - Drinking water, tea and charcoal do not cure cholera.
+  - After you recover you resist cholera for a while.
 
 #### Flu
 
@@ -422,10 +434,10 @@ learn how to keep people from ending up sick and useless.
     them by feeding them with a lot of water, and if you have tea that
     will help too.
   
-- **Cholera**: Extreme dehydration and vomiting from drinking puddle/
-    river water (or a Well with fecies near it) that hasn't had the
-    germs cooked out of it. Give them lots of clean water and cooked
-    food.
+- **Cholera**: Caught from puddle or river water (or a well with
+    feces near it) that hasn't been boiled. Cure it with penicillin or
+    a course of healing herbs, and keep the patient fed and watered
+    while they recover.
   
 - **Food poisoning**: Cooked food, clean water and healing tea.
   
