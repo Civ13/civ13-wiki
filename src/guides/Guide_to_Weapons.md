@@ -843,31 +843,38 @@ Craft a weapon light from **1 electronics** in the **Weapons** menu after **Cons
 
 Craft a gun sling from **2 leather** in the **Weapons** menu after **Gunsmithing**. Hold the gun in one hand and use the sling in the other to fit it. Only guns you can wear on your shoulder or back take one. If you are knocked down, stunned or knocked out and drop a slung gun, it stays on your shoulder or back as long as that slot is free.
 
-### AK rifle parts
+### AK and AR rifle parts
 
-AKM and AK-74 rifles, including the folding-stock and short versions, are built from four parts. Unload the rifle and hold it, then right-click it and choose **Remove Rifle Part**. To fit a part, hold it in your active hand and use it on the rifle. Examine the rifle up close to see its parts, their condition and anything stopping it from firing.
+Two rifle families are built from four parts:
 
-| Part | Where you can swap it |
-| --- | --- |
-| Magazine well (7.62x39mm or 5.45x39mm) | By hand |
-| Stock (fixed or folding) | By hand |
-| Barrel (7.62x39mm or 5.45x39mm) | Next to a firearm maintenance bench |
-| Bolt carrier group | Next to a firearm maintenance bench |
+- **AK:** AKM and AK-74 rifles (including the folding-stock and short versions) and the AK-101 to AK-105.
+- **AR:** the M16A1, AR-15, M16A2 and M16A4, the XM177E2 and M4 carbines, and the C7 and C8.
 
-- **Changing caliber:** fit a barrel and a magazine well of the same cartridge. The rifle then takes that ammunition and its magazines, so an AK-74 with 7.62x39mm parts loads AKM magazines. Mismatched parts, or a missing bolt carrier, barrel or magazine well, stop the rifle from firing.
-- **Stocks:** a rifle with no stock still fires but is harder to handle. The folding stock is slightly less steady than the fixed one.
+Unload the rifle and hold it, then right-click it and choose **Remove Rifle Part**. To fit a part, hold it in your active hand and use it on the rifle. Examine the rifle up close to see its parts, their condition and anything stopping it from firing. AK parts only fit AK rifles and AR parts only fit AR rifles.
+
+| Part | AK options | AR options | Where you can swap it |
+| --- | --- | --- | --- |
+| Magazine well | 7.62x39mm, 5.45x39mm or 5.56x45mm | 5.56x45mm (M16 and AR-15 magazines) | By hand |
+| Stock | Fixed or folding | Fixed or collapsible | By hand |
+| Barrel | 7.62x39mm, 5.45x39mm or 5.56x45mm | 5.56x45mm | Next to a firearm maintenance bench |
+| Bolt carrier group | AK | AR | Next to a firearm maintenance bench |
+
+- **Changing caliber:** fit an AK barrel and magazine well of the same cartridge. The rifle then takes that ammunition and its magazines, so an AK-74 with 7.62x39mm parts loads AKM magazines and one with 5.56x45mm parts loads AK-101 magazines. Mismatched parts, or a missing bolt carrier, barrel or magazine well, stop the rifle from firing.
+- **Stocks:** a rifle with no stock still fires but is harder to handle. Folding and collapsible stocks are slightly less steady than fixed ones.
 - **Barrel wear:** every shot wears the barrel, and a worn-out barrel stops the rifle firing until you replace it. Parts keep their condition when you remove them, so swapping parts never repairs anything.
 
-**Making AK parts in a factory:** once your faction has researched **Automatic Weapons**, fabricators can make every AK part and a bare **AK receiver**. Fit a bolt carrier and a barrel to the receiver at a firearm maintenance bench, then a magazine well and a stock, and you have a working rifle named after its caliber.
+**Making rifle parts in a factory:** once your faction has researched **Automatic Weapons**, fabricators can make every AK and AR part and a bare **AK receiver** or **AR receiver**. Fit a bolt carrier and a barrel to the receiver at a firearm maintenance bench, then a magazine well and a stock, and you have a working rifle named after its family and caliber.
 
 | Fabricator recipe | Inputs | Minimum fabricator |
 | --- | --- | --- |
 | AK receiver | 6 steel | Automated (tier 2) |
-| AK bolt carrier group | 3 steel | Automated (tier 2) |
-| AK barrel (7.62x39mm or 5.45x39mm) | 3 steel | Automated (tier 2) |
-| AK magazine well (7.62x39mm or 5.45x39mm) | 2 steel | Assembly (tier 1) |
+| AR receiver | 5 steel | Automated (tier 2) |
+| AK or AR bolt carrier group | 3 steel | Automated (tier 2) |
+| AK barrel (7.62x39mm, 5.45x39mm or 5.56x45mm) or AR barrel | 3 steel | Automated (tier 2) |
+| AK or AR magazine well | 2 steel | Assembly (tier 1) |
 | AK fixed stock | 2 wood | Assembly (tier 1) |
 | AK folding stock | 2 steel | Assembly (tier 1) |
+| AR fixed or collapsible stock | 2 plastic | Assembly (tier 1) |
 
 ### Cleaning and repairs
 
