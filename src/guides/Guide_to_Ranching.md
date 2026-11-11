@@ -114,6 +114,8 @@ Grazing animals (cows, bison, goats, sheep, horses and the like) get hungry, gra
 
 Hens and turkey hens lay a limited number of eggs. Feeding seeds to a hen that has stopped laying gives her more eggs.
 
+How well an animal is fed sets how much it produces. A well-fed cow, goat, sheep, pig or bison refills its milk at the full rate, a hungry one (one that is wandering off to look for food) at half the rate, and a starving one gives no milk at all. Hens lay the same way: every time when fed, about half as often when hungry, and not at all when starving. Keep pasture, grain or hay in reach to keep a herd productive.
+
 ### Hay
 
 Hay is stored fodder for when there is no grass to graze, such as in winter or in a pen.

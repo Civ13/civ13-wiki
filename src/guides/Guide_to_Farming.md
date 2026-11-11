@@ -174,8 +174,30 @@ When the soil health is above 80 points, out of a maximum of 150, you can harves
 Be aware that blizzards will freeze the plants and kill them. A
 heatwave, as noted in the Watering section, will cause the crops to
 consume more water than usual. Sandstorms will also destroy the plants.
-You can try to cover them during the winter with tents, however, be sure
-to remove them in spring or they won't keep growing!
+Any roof shelters crops from blizzards and sandstorms, but no rain falls
+under a roof, so roofed crops must be watered by hand or from fresh water
+within two tiles.
+
+### Greenhouses
+
+A crop under a **glass roof** keeps growing out of season, at half speed, as
+long as the land's climate suits it. Everything else stays the same: it still
+needs watering and good soil, and glass does not let a crop grow in a climate
+it does not suit. Other roofs only shelter crops; they do not extend the
+season. Glass roofing is made from glass and needs the Imperial Architecture
+research. Examining a crop that the glass is keeping alive tells you so.
+
+### Underground and indoor farms
+
+**Cave wheat** is a pale grain that grows without sunlight. Its seeds turn up
+when foraging bushes in any land. Sow it on a ploughed plot in a cave or under
+a roof; it refuses open sky. It grows in every season at half the speed of
+ordinary wheat, but unlike mushrooms it needs water, so put the plot within two
+tiles of fresh water or water it by hand. Harvest it with a knife or scythe for
+cave wheat and two seeds back. Cave wheat mills into flour and feeds livestock
+just like wheat.
+
+Plump helmets and mushrooms also grow indoors and underground without water.
 
 ### Skill
 
