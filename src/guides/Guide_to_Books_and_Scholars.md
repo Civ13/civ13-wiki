@@ -66,7 +66,7 @@ A bench holds up to two books. Research goes into the first one; **Write researc
 
 ## Scholarship
 
-Research trains six disciplines, from 0 to 100: **Basic Mathematics, Engineering, Natural Science, Medicine, Agriculture** and **Military Science**. Use **Check scholarship** in the IC tab to see your levels; the bench shows what each chapter needs.
+Research trains six disciplines, from 0 to 100: **Basic Mathematics, Engineering, Natural Science, Medicine, Agriculture** and **Military Science**. The **Scholarship** tab in the side panel shows your level in each discipline, the latest age you can research in it, your title, your master and your apprentices; the bench shows what each chapter needs.
 
 - Stone Age research needs no training. Each later age needs 12 more levels in the chapter's discipline, plus half that in Basic Mathematics. A Bronze Age chapter needs 12 and 6; an Imperial Age chapter needs 36 and 18.
 - Skill above the requirement makes research faster, up to twice as fast.
