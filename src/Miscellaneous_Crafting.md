@@ -81,6 +81,11 @@ step for you: load hides at any stage, bark, water and tannin, give it power, an
 it makes one leather sheet every two seconds at the same liquid cost as tanning
 by hand. Factory arms and pipes can keep it supplied.
 
+With **Synthetic Fabrics** research, a factory
+[fabricator](guides/Guide_to_Factory_Automation.md#fabricators) makes
+**synthetic leather** from cloth and plastic, with no hides at all. It crafts
+everything ordinary leather does.
+
 ## Lard candle
 <table>
 <tbody>
