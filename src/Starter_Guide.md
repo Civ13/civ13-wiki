@@ -25,7 +25,7 @@ You will need some basic things to survive. At the very start you will most like
 
 The same mechanic applies to all materials: activate an item in your hand to open the crafting menu.
 
-The menu lists every recipe you can make from that material. Type in the search box to find a recipe in any category, or pick a category from the list. Each recipe shows its cost; when you have enough for several, choose a quantity and press **Craft**. Tool requirements are under **Tool details**.
+The menu lists every recipe you can make from that material. Type in the search box to find a recipe in any category, or pick a category from the list. Each recipe shows its cost; when you have enough for several, choose a quantity and press **Craft**. Tool requirements are under **Tool details**. Tick **Only what I can make** to hide recipes you cannot make right now: ones that need a manual you have not learned, more material than you hold, more crafting skill, or a tool or second material you do not have. The game remembers the choice for every material.
 
 ### Mining 101
 
