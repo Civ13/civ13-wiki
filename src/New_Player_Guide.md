@@ -52,6 +52,25 @@ To try the controls before your first round, choose **Practice Room** in the Lob
 
 When you reach the exit you return to the Lobby. You can leave at any time with **Leave Practice Room** in the IC tab, and **Practice Instructions** repeats the current step. If the world starts saving, the practice room closes and sends you back to the Lobby. If every room is busy, try again in a few minutes.
 
+### In-game tutorial
+
+The first time you join as a character, a short tutorial walks you through the basics on your real character. Each step appears in chat and as a line at the top of the screen; click that line to see the step again. Most steps finish by themselves when you do what they ask:
+
+1. Walk a few tiles with W, A, S and D.
+2. Look at your health, food, water and stamina on the HUD.
+3. Pick something up.
+4. Swap hands.
+5. Put an item in a pocket, belt or bag, or wear it.
+6. Change your intent.
+7. Open the **Crafting Atlas** (IC tab).
+8. Eat or drink something.
+9. Learn the chat keys and tabs.
+10. Find out where to ask for help.
+
+On worlds where research is written into books, one more step covers placing a book on a research bench and studying a chapter.
+
+Use **Got it** or **Skip** in chat to move on. Your progress is saved, so the tutorial picks up where you left off in a later round. To see the current step, stop the tutorial, start it again or **Reset tutorial progress**, open the **Game Menu** with Esc and choose **Tutorial** (also the **Tutorial** verb in the OOC tab). The **Settings** page of character setup shows your tutorial status with a **Reset progress** link.
+
 ### Your first round
 
 Use the [Game Modes Overview](gamemodes/Game_Modes.md) to find your scenario's first steps and detailed guide.
