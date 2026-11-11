@@ -339,7 +339,7 @@ culinary art!
 <tr>
 <td><img src="../images/pemmican.png"></td>
 <td>Pemmican</td>
-<td>Hold minced dried meat in the active hand and any vessel with at least 5u of fat oil in the off-hand, then click the minced dried meat.</td>
+<td>Hold minced dried meat in the active hand and an open glass vessel (lid off) with at least 5u of fat oil in the off-hand, then click the minced dried meat.</td>
 </tr>
 <tr>
 <td><img src="../images/dried_fish.png"></td>
