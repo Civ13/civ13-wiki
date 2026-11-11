@@ -24,6 +24,10 @@ This is a list of hotkeys for when the game is on **Hotkey Mode**. Use **Tab** t
 | C, CTRL+C | Secondary activation (item/vehicle brake) |
 | B | Buckle/Unbuckle |
 | H, CTRL+H | Holster/Unholster |
+| I, CTRL+I | Open worn storage (press again for the next one) |
+| P, CTRL+P | Open backpack |
+| K, CTRL+K | Open belt |
+| SHIFT+I, CTRL+SHIFT+I | Open harness, webbing or pockets |
 | F | Face direction (lock your facing) |
 | CTRL+F | Change Intent (cycle left) |
 | G, CTRL+G | Change Intent (cycle right) |
@@ -63,10 +67,14 @@ This is a list of hotkeys for when the game is on **Hotkey Mode**. Use **Tab** t
 
 Movement is free: holding a movement key slides you smoothly at walking or running speed, and you stop exactly where you let go instead of snapping to the next tile. You count as standing on whichever tile is under the middle of your body, so once you are more than halfway onto a tile, that is where you drop things and what you can reach from. Shots and thrown things hit you where your body is drawn, even when you stand between tiles, and your own shots leave from where you actually stand. If you prefer tapping to move a tile at a time, turn on **OOC > Toggle Tap To Step**: a quick tap then moves you one whole tile, and holding a key still slides freely. Moving into a corner slips you sideways into a doorway, and moving diagonally into a wall slides you along it. A tree only blocks you at its trunk, so you can walk beside it and under its branches. Anything you pull trails just behind you on a short rope: it follows you through doorways and slides along walls, but it can catch on wall ends, other people, animals and objects, and if you get more than half a tile away from it you lose your hold. Crawling and riding a horse move freely too. Walk into a trench edge and you climb in or out from wherever you stand, keeping your place along the edge; climbing in takes half a second and climbing out two seconds. Bridges over trenches are level with the ground, so you walk onto them without climbing. When you and another player are both on help intent, you walk through each other, easing a little to the side as you pass. While you drive, you still move one tile at a time.
 
+## Opening worn storage
+
+You can open what you wear without clicking its slot. **I** opens your worn storage one after another: your backpack, your belt, then anything attached to your clothes, such as a leather harness, chest webbing or pouches, your coat pockets, and bags in your pockets. Press it again to open the next one; pressing it on the last one closes it. **P** opens just your backpack, **K** just your belt, and **Shift+I** goes through only the things on your clothes and in your pockets, each the same way. In typing mode use **Ctrl+I**, **Ctrl+P**, **Ctrl+K** and **Ctrl+Shift+I**. You can change all four keys under **OOC > Keybindings**.
+
 ## Typing bubbles
 
 While you write a message in the Say window (**T**), a speech bubble shows over your character. The Emote window (**F3**) shows a different bubble, so others can tell you are about to act rather than speak. Typing straight into the chat bar shows no bubble. You can hide them with the **Typing indicator** setting in your game preferences.
 
 ## Changing keys
 
-You can rebind prone, aiming mode, sights and other action keys through **OOC > Keybindings** or the **Keybindings** menu. Hotkey Mode and typing mode keep separate key sets. You can unbind a key, restore one action, or restore all defaults. Reserved keys and keys already in use are refused, and typing-mode bindings need Ctrl or Ctrl+Shift. Your keys are saved with your account.
+You can rebind prone, aiming mode, sights, the storage keys and other action keys through **OOC > Keybindings** or the **Keybindings** menu. Hotkey Mode and typing mode keep separate key sets. You can unbind a key, restore one action, or restore all defaults. Reserved keys and keys already in use are refused, and typing-mode bindings need Ctrl or Ctrl+Shift. Your keys are saved with your account.
