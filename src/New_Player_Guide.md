@@ -75,7 +75,7 @@ Use **Got it** or **Skip** in chat to move on. Your progress is saved, so the tu
 
 Use the [Game Modes Overview](gamemodes/Game_Modes.md) to find your scenario's first steps and detailed guide.
 
-Read the lobby's map and mode before choosing a role. In Nomads, start with the [Starter Guide](Starter_Guide.md): secure water, food and shelter before advancing production. Use [Character & Skills](guides/Guide_to_Character.md) when an interaction says you lack expertise.
+Read the lobby's map and mode before choosing a role. In Nomads, start with the [Starter Guide](Starter_Guide.md): secure water, food and shelter before advancing production. On persistent worlds such as Gaia you must study a chapter from a book before you can craft it; [Your First Day](guides/Guide_to_Your_First_Day.md) shows how to get a book and get through the first day. Use [Character & Skills](guides/Guide_to_Character.md) when an interaction says you lack expertise.
 
 Crafting depends on the active map's catalog, era, character skills and research mode. A recipe listed here may be unavailable on your map. For the tech-tree mode, read [Research](guides/Guide_to_Research.md); older modes have separate rules in [Civilizations and Nomads](gamemodes/Civilizations_and_Nomads.md#research).
 
@@ -93,3 +93,4 @@ Browse [maps and scenarios](maps_overview.md) to see the available battles, and 
 
 - [Civilizations and Nomads](gamemodes/Civilizations_and_Nomads.md)
 - [Starter Guide](Starter_Guide.md)
+- [Your First Day](guides/Guide_to_Your_First_Day.md) on persistent worlds
