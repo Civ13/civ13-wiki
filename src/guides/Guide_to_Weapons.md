@@ -950,10 +950,21 @@ Insert a compatible magazine and chamber a round as required by the gun. Check t
 **Armor and ammunition types:**
 
 - Helmets and body armor reduce bullet damage. The closer the armor is to a round's penetrating power, the more of the hit it absorbs, and armor strong enough stops the round entirely. Armor never makes a hit worse.
+- Examine armor to see its bullet protection tier:
+
+  | Tier | What it does against ordinary rounds |
+  | --- | --- |
+  | Light | Softens pistol and rifle rounds |
+  | Medium | Stops pistol rounds, softens rifle rounds |
+  | Heavy | Stops pistol and intermediate rifle rounds such as 7.62x39mm and 5.56x45mm |
+  | Very heavy | Stops full rifle rounds such as 7.62x51mm; armor-piercing and heavy machine gun rounds still get through |
+
 - Absorbing hits wears armor down, so damaged armor protects for less time. Repair or replace it.
-- Rounds marked **(AP)**, armor piercing, deal less damage but go through armor and cover more easily. Use them against armored targets.
-- Rounds marked **(HP)**, hollow point, deal more damage to unprotected targets but are easily stopped by armor and do not pass through bodies.
-- Stopped rounds can still knock you down or stun you, so armor is not a reason to stand in the open.
+- Rounds marked **(AP)**, armor piercing, deal less damage but beat about one more armor tier and pass through one more layer of cover. Use them against armored targets.
+- Rounds marked **(HP)**, hollow point, deal more damage to unprotected targets but are easily stopped by armor and do not pass through bodies or cover.
+- Examine a round to see its tradeoff, and a magazine to count the AP and HP rounds in it.
+- A round your armor stops does not wound, stun or leave shrapnel in you, but the impact can still knock you down, so armor is not a reason to stand in the open.
+- Shrapnel from a hit lodges in the body part that was hit.
 
 For reagent handling and gunpowder production, consult the [chemistry guide](Guide_to_Chemistry.md). A barrel is a container, not a substitute for checking the recipe.
 
