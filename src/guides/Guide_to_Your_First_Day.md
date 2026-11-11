@@ -109,7 +109,7 @@ Nights are dark, and a research bench makes no progress in the dark. Make a **to
 
 ## Sleeping and logging off
 
-**Don't just log off.** Your character stays in the world, asleep on the ground, where it can be robbed or killed and keeps getting hungry.
+**Don't just log off.** Your character stays in the world, asleep on the ground, where it can be robbed or killed and still slowly gets hungry.
 
 1. Make a **bed** (Basic Furniture, 4 planks) or a **leather bedroll** (Weaving, 4 leather) and stand on it. Sleeping in a free bed makes it yours.
 2. Put away anything in your hands.
