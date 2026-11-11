@@ -22,7 +22,7 @@ For renewable penicillin, extract charcoal and ethanol: **1 charcoal + 2 ethanol
 
 A grain or flour starter can ferment without existing yeast. Let the culture grow before withdrawing a yeast container if you want to retain it; each container holds 50 enzyme. Distilling 4 beer produces 2 ethanol. The starter jar needs glass and **Pottery Storage**; apothecary equipment follows **Herbalism** and **Apothecary**. The softwood ethanol-distillery recipe uses the legacy Economy & Production threshold of 45 where that research mode applies.
 
-Susceptible healthy humans can catch plague, typhus or cholera near an infected source. Immunity and sterile-mask protection still apply. Malaria and zombie infection do not use this person-to-person route, and exposure does not reset an already infected patient's progression.
+Plague and flu spread to healthy humans standing within two tiles of a sick person or a body that died of it; immunity and sterile-mask protection still apply. Typhus comes only from fleas and cholera only from swallowed unboiled water, so neither spreads from person to person; malaria and zombie infection do not either. Each mouthful of contaminated food or drink is one chance to catch it, larger for bigger doses, and Strong Immune System lowers it.
 
 ## First-Aid
 
@@ -363,9 +363,9 @@ A disease caused by water-borne bacteria.
   - A well is clean unless there is fecal waste within four tiles of it.
     Plumbed toilets and fertilizer do not count.
   - Boiling or cooking water and food removes the germs.
-  - It spreads slightly from person to person: standing within two tiles
-    of a sick person, or a body that died of it, can pass it on. A
-    sterile mask halves the risk.
+  - The more contaminated water you swallow at once, the higher the
+    chance. A mouthful of river water is roughly a one in eight chance.
+  - It does not spread from person to person.
   - After about three minutes you become weak, drowsy, feverish and in
     pain, and you shiver now and then. After about fifteen minutes you
     start to collapse.
@@ -404,9 +404,7 @@ You've been covered with lice for days and now you feel sick.
     them there is a small chance of typhus.
   - Washing your clothes gets rid of the fleas: use the clothes on a
     sink or open water, or put them in a washing machine.
-  - It spreads slightly from person to person: standing within two tiles
-    of a sick person, or a body that died of it, can pass it on. A
-    sterile mask halves the risk.
+  - It does not spread from person to person; only fleas carry it.
   - Look for a red rash on the skin. After about three minutes you
     become weak, drowsy, feverish and in pain, and you cough now and
     then. After about fifteen minutes you start to collapse.
