@@ -89,8 +89,8 @@ everything ordinary leather does.
 ## Woodworking without an axe
 
 Before you have an axe or saw, you can whittle logs into tools and planks by
-hand. Every step needs the **Basic Toolmaking** chapter; without it you are
-told which chapter is missing. Keep the tool in your active hand and stay
+hand. Where research applies, every step needs **Basic Toolmaking**; on worlds
+where research is kept in books, anyone can do it without that chapter. Keep the tool in your active hand and stay
 still while you work. Stronger characters work faster.
 
 1. **Cut a small wood piece:** use **sharpened flint**, or a knife harder than
