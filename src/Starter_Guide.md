@@ -73,7 +73,7 @@ The easiest way to get food early on is by killing animals and eating the meat a
   - Campfire is made with **wood logs** ("kitchen" section).
   - You can also roast meat in an **oven**.
 - To **dry** meat, cut the raw steak into **raw cutlets** with a knife, then place them on a **dehydrator** and wait.
-  - Dehydrators are made of **wood**, but you need some research levels.
+  - Dehydrators are made of **wood** and need **Basic Toolmaking**.
 - To **stew** meat, place the raw steak into the **cooking pot** after filling it with **water**, and wait.
   - Cooking pots are made with **iron ingots**, but again, it requires research levels to make.
 

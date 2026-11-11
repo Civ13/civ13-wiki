@@ -15,15 +15,15 @@ Finished leather you already own remains usable without further processing.
 - Raw hides or pelts from [animal harvesting](guides/Guide_to_Ranching.md#harvesting-dead-animals).
   Adult male and female turkeys each give **1 raw hide piece**; turkey chicks
   give **no hide**. Species pelts retain their existing yields and uses.
-- A held sharp tool, such as a knife, for scraping.
+- A held sharp tool, such as a knife or sharpened flint, for scraping.
 - An accessible **open reagent vessel** containing water or tannin as required
   below. Wood mugs, canteens, buckets and other suitable open liquid containers
   work. Hold the vessel and apply it to nearby bark or a hide, or hold the bark,
   prepared hide or dry hide and click a reachable open vessel or unlocked barrel
   on the ground. Keep both objects within reach.
 - A [tanning rack](guides/Guide_to_Crafting.md#tanning-rack), made with **8 wood
-  logs** in the ordinary wood catalog. Resource Processing is required where
-  faction research applies; mode and crafting restrictions still apply.
+  logs** in the ordinary wood catalog. Basic Toolmaking is required where
+  research applies; mode and crafting restrictions still apply.
 - Bark collected while cutting logs into planks, and water for extracting tannin.
 
 Sealed vessels, locked barrels, another player's inventory and nested storage

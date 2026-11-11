@@ -656,7 +656,7 @@ level of the crafting skill before you are able to use them.
 <tr>
 <td width="5%"><img src="../images/drying_rack.png"></td>
 <td width="10%"><b>Tanning rack</b></td>
-<td>Made with 8 wood logs, with Resource Processing required where faction research applies. Put a held stack of washed wet hides on the rack and allow 300 ticks, normally 30 seconds, to dry. Remove the contents with an empty hand; removing wet hides cancels drying without consuming them. A restored wet batch starts a fresh full drying interval after a server restart. The rack produces dry hides, which need bark tannin to become leather. See the full <b><a href="../Miscellaneous_Crafting.md#leather-tanning">Leather tanning</a></b> process.</td>
+<td>Made with 8 wood logs, with Basic Toolmaking required where research applies. Put a held stack of washed wet hides on the rack and allow 300 ticks, normally 30 seconds, to dry. Remove the contents with an empty hand; removing wet hides cancels drying without consuming them. A restored wet batch starts a fresh full drying interval after a server restart. The rack produces dry hides, which need bark tannin to become leather. See the full <b><a href="../Miscellaneous_Crafting.md#leather-tanning">Leather tanning</a></b> process.</td>
 </tr>
 </tbody>
 </table>
