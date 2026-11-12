@@ -225,11 +225,24 @@ Submerged, you steer and set speed at the ship wheel as usual. If the sea floor 
 
 ### Air aboard
 
-Once the hatches close for a dive, the crew breathe the air sealed inside the hull. Blowers keep it fresh with compressed air from the boat's **air bank**. Choose **Air** at the ballast and periscope station to check the hull air and how full the bank is.
+Once the hatches close for a dive, the crew breathe the air sealed inside the hull. Blowers keep it fresh with compressed air from the boat's **air bank**. Choose **Status** at the ballast and periscope station to check the hull air, how full the bank is, the battery and the hull.
 
 - A full bank lasts a long time with a small crew, but the more people aboard, the faster it empties. Refilling diving bottles and blowing the lock-out chamber dry also draw on it.
 - If the bank runs dry, the air goes stale and everyone aboard starts to suffocate. Surface before that happens, or seal yourself into diving gear.
 - On the surface the hatches air the boat out and the compressor refills the bank in a couple of minutes.
+
+### Battery, floodlights and depth
+
+**Battery.** Underwater, the motors, the floodlights and the sonar all run on the boat's battery. The diesel charges it whenever the boat is on the surface, and a flat battery charges in about two minutes. If the battery goes flat while you're submerged, the boat stops dead where it is, so blow the ballast and surface to charge it.
+
+**Floodlights.** The sea below is pitch dark. Switch the floodlights on or off at the ballast and periscope station. They throw a white beam from the bow while the boat is submerged and slowly drain the battery.
+
+**Depth.** The farther from land, the deeper the water: the shelf, open water, the deep and the abyss (see [Diving on the seabed](#diving-on-the-seabed)). A steel submarine is built for open water. Go deeper and the hull groans and springs leaks. Each leak lets the air out, so the air bank empties faster.
+
+- Use a **shoring kit** on the ballast and periscope station to plug one leak.
+- **Deep hull plating** (30 steel, needs **Naval Aviation** research) rates the hull for the deep. Fit it on the surface by using it on the station.
+
+**Sonar ping.** Choose **Sonar ping** at the station while submerged. It reports the depth here, how far the rock is in every direction within 20 tiles, and the contacts in range. Each ping costs a little battery.
 
 ### Periscope and contacts
 
@@ -265,6 +278,8 @@ Wear the dress, the helmet and a bottle with air in it, and you are sealed.
 4. **The abyss**, far from any land.
 
 A diving dress is only built for the shelf. Deeper than that it groans, loses integrity every few seconds, and finally tears, and then you drown. Patch a worn suit with a suit patch kit.
+
+To go deeper, build a **hard dive suit** (20 steel) and a **hard dive helmet** (10 steel). Both need **Naval Aviation** research. The suit is built for the deep and takes hits better, and the helmet has a brighter lamp, but the suit is heavy and slow. The abyss is still too deep for it.
 
 **Air.** A full bottle lasts about 30 minutes. A badly worn suit leaks and empties the bottle three times faster.
 
