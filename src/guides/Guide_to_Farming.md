@@ -268,6 +268,14 @@ Once your group knows **Herbalism**, you can craft a stone **mortar and pestle**
 
 Sunflower and linseed oil fuel lanterns, oil lamps and torches like the other plant oils.
 
+## Preserves
+
+Once your group knows **Pottery & Cookware**, you can make a **clay crock** from 3 clay (kitchen category) and fire it in a kiln, and a **preserve jar** from 1 glass.
+
+- **Vinegar**: pour wine, cider, beer or mead into a crock and put the lid on (use it in hand). While closed it slowly sours into vinegar, a few units every couple of minutes.
+- **Pickling**: with the lid off, click fruit or vegetables onto the crock to pack up to 4 of them inside. Add 5 vinegar and 2 salt for each one, then close the lid. After about six minutes they come out pickled and never spoil. Alt-click the open crock to take food back out.
+- **Jam**: mix 10 berry, grape, apple, apricot or orange juice with 5 sugar or 5 honey to get 10 jam. A preserve jar holds 20 jam; click a slice of bread with it to spread 5 jam and make jellied toast.
+
 ## Farmer's almanac
 
 Skilled farmers (high Farming skill, with Basic Agriculture researched) can craft a **farmer's almanac** from 12 soft wood. Reading it describes the local climate's seasonal weather and which seeds will thrive there, which helps when you settle somewhere new. Its Sky and Outlook lines give the weather over the spot where you stand and whether a storm is on its way.
