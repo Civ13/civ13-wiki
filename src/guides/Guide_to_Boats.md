@@ -223,6 +223,14 @@ Click the **ballast and periscope station** to dive or surface. Each takes a few
 
 Submerged, you steer and set speed at the ship wheel as usual. If the sea floor rises ahead, the sonar warns you and the boat stops. Turn away, or surface and continue on the surface.
 
+### Air aboard
+
+Once the hatches close for a dive, the crew breathe the air sealed inside the hull. Blowers keep it fresh with compressed air from the boat's **air bank**. Choose **Air** at the ballast and periscope station to check the hull air and how full the bank is.
+
+- A full bank lasts a long time with a small crew, but the more people aboard, the faster it empties. Refilling diving bottles and blowing the lock-out chamber dry also draw on it.
+- If the bank runs dry, the air goes stale and everyone aboard starts to suffocate. Surface before that happens, or seal yourself into diving gear.
+- On the surface the hatches air the boat out and the compressor refills the bank in a couple of minutes.
+
 ### Periscope and contacts
 
 While submerged, choose **Raise periscope** at the station to see the surface straight above the boat. The view follows the boat as it moves. Step away from the station, or choose **Lower periscope**, to put it down.
@@ -243,11 +251,11 @@ Under the open ocean lies the seabed: cold, dark water where nothing can breathe
 
 - **Diving dress**: 12 cloth.
 - **Diving helmet**: 8 brass. Use it in your hand to turn its lamp on or off. The seabed is pitch dark.
-- **Diving air bottle**: 5 steel. Wear it on your back. Refill it at the submarine's **ballast and periscope station**, at a habitat module's core or at a landed lander.
+- **Diving air bottle**: 5 steel. Wear it on your back. Refill it from the submarine's air bank at the **ballast and periscope station**, at a habitat module's core or at a landed lander.
 
 Wear the dress, the helmet and a bottle with air in it, and you are sealed.
 
-**Leaving the boat.** When the boat is submerged, the two side sections amidships work as **lock-out hatches**. Stand next to one and click it. The chamber floods, and after a few seconds you step out onto the seabed beside the hull. To get back in, stand next to the same hatch on the outside and click it. The chamber pumps dry and you are back aboard. You can't use a lock-out hatch without sealed gear, or if rock or wreckage is pressed against it.
+**Leaving the boat.** When the boat is submerged, the two side sections amidships work as **lock-out hatches**. Stand next to one and click it. The chamber floods, and after a few seconds you step out onto the seabed beside the hull. To get back in, stand next to the same hatch on the outside and click it. Compressed air from the boat's air bank blows the chamber dry and you are back aboard. If the bank is empty you have to pump the chamber out by hand, which takes about 20 seconds. You can't use a lock-out hatch without sealed gear, or if rock or wreckage is pressed against it.
 
 **Depth.** The farther you are from land, the deeper the water gets. Examine the water to see how deep you are. The four depths are:
 
