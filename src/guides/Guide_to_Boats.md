@@ -204,13 +204,38 @@ A submarine is a steel boat that can dive under the open ocean. On the surface i
 
 Diving only works on **Gaia**, which has open sea under its deep ocean. Anywhere else a submarine is just a surface boat.
 
+![Render using Civ13 sprites: a Scout submarine above and an Explorer submarine below, each shown twice, once with the deck plan the crew see and once with the rounded steel hull seen from outside; the bows point down](../images/civ13-submarines-scout-explorer.png)
+
+There are two boats:
+
+| | Scout | Explorer |
+| --- | --- | --- |
+| Size | 3 wide, 5 long | 3 wide, 7 long |
+| Cost at the pen | 90 steel, 4 glass, 12 cable | 140 steel, 8 glass, 20 cable |
+| Clear deep sea to launch | 5x5 | 7x7 |
+| Extra room | - | Two bunks and three lockers |
+| Speed | Faster | Slower |
+
 ### Building one
 
 1. Research **Submarines** (needs Wagons & Ships, Combustion Engine and Electricity).
 2. Craft a **submarine pen** (40 steel, in the production section) on the shore. The 5x5 square northeast of the pen must be **deep saltwater** with nothing in it, and the pen needs a power cable on or next to it, like the [automobile workshop](Guide_to_Crafting.md#automobile-workshop).
-3. Feed the pen **90 steel, 4 glass and 12 cable**, then click it and choose **Submarine**.
+3. Feed the pen steel, glass and cable, then click it and choose **Scout submarine** or **Explorer submarine**. An Explorer needs the 7x7 square northeast of the pen clear.
 
-The boat is launched into the square with an **empty diesel tank** and a vehicle key. It is three tiles wide and five long. The bow has the ship wheel, the middle has the **ballast and periscope station**, and the stern has the engine and tank. The hull is roofed. Amidships the sides are open on both beams, and those hatches are how the crew and cargo get on and off.
+The boat is launched into the square with an **empty diesel tank** and a vehicle key. The hull is roofed, so from outside you see only its steel shell.
+
+### Finding your way around
+
+Both boats are laid out the same way, from bow to stern:
+
+1. **Helm.** The ship wheel stands under the glass bow.
+2. **Control room.** The **ballast and periscope station** is on one side and a dive locker for suits and bottles on the other.
+3. **Lock-out chambers.** The two side sections with the yellow hatches. On the surface they are the way on and off the boat. Submerged, they are the [lock-out hatches](#diving-on-the-seabed).
+4. **Engine room.** The battery bank, the air bank and the diesel engine with its tank, behind a **watertight door**. Click the hull section the door stands on to open or shut it, from either side. A shut door blocks the way.
+
+The Explorer adds a berth with two bunks between the control room and the lock-out chambers, behind a second watertight door, and a locker space aft of the chambers.
+
+Examine the **battery bank** or the **air bank** to read the boat's battery or air without going to the station. The two corners beside the engine are sealed tanks and can't be entered.
 
 ### Diving and surfacing
 
@@ -235,7 +260,7 @@ Once the hatches close for a dive, the crew breathe the air sealed inside the hu
 
 **Battery.** Underwater, the motors, the floodlights and the sonar all run on the boat's battery. The diesel charges it whenever the boat is on the surface, and a flat battery charges in about two minutes. If the battery goes flat while you're submerged, the boat stops dead where it is, so blow the ballast and surface to charge it.
 
-**Floodlights.** The sea below is pitch dark. Switch the floodlights on or off at the ballast and periscope station. They throw a white beam from the bow while the boat is submerged and slowly drain the battery.
+**Floodlights.** The sea below is pitch dark. Switch the floodlights on or off at the ballast and periscope station. They throw a white beam from the helm at the bow while the boat is submerged and slowly drain the battery.
 
 **Depth.** The farther from land, the deeper the water: the shelf, open water, the deep and the abyss (see [Diving on the seabed](#diving-on-the-seabed)). A steel submarine is built for open water. Go deeper and the hull groans and springs leaks. Each leak lets the air out, so the air bank empties faster.
 
@@ -256,7 +281,7 @@ While submerged, choose **Raise periscope** at the station to see the surface st
 
 ### Loading and unloading
 
-Surface next to a pier, a beach or another ship. Then walk off through the open hatches amidships and carry or pull crates on and off. Cargo left on the deck stays aboard when you dive.
+Surface next to a pier, a beach or another ship. Then walk off through the lock-out chambers amidships, which stand open on both sides on the surface, and carry or pull crates on and off. Cargo left on the deck stays aboard when you dive.
 
 ### Diving on the seabed
 
@@ -268,7 +293,7 @@ Under the open ocean lies the seabed: cold, dark water where nothing can breathe
 
 Wear the dress, the helmet and a bottle with air in it, and you are sealed.
 
-**Leaving the boat.** When the boat is submerged, the two side sections amidships work as **lock-out hatches**. Stand next to one and click it. The chamber floods, and after a few seconds you step out onto the seabed beside the hull. To get back in, stand next to the same hatch on the outside and click it. Compressed air from the boat's air bank blows the chamber dry and you are back aboard. If the bank is empty you have to pump the chamber out by hand, which takes about 20 seconds. You can't use a lock-out hatch without sealed gear, or if rock or wreckage is pressed against it.
+**Leaving the boat.** When the boat is submerged, the two lock-out chambers amidships (the side sections with the yellow hatches) work as **lock-out hatches**. Stand next to one and click it. The chamber floods, and after a few seconds you step out onto the seabed beside the hull. To get back in, stand next to the same hatch on the outside and click it. Compressed air from the boat's air bank blows the chamber dry and you are back aboard. If the bank is empty you have to pump the chamber out by hand, which takes about 20 seconds. You can't use a lock-out hatch without sealed gear, or if rock or wreckage is pressed against it.
 
 **Depth.** The farther you are from land, the deeper the water gets. Examine the water to see how deep you are. The four depths are:
 
