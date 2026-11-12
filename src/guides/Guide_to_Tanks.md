@@ -180,20 +180,9 @@ Slowing down and stopping are never locked. A vehicle that needs a **key** still
 
 ### Freight depots
 
-A **freight depot** is a notice board that pays crews of registered vehicles for hauling. Craft one from **8 wood** under vehicle parts (it needs the **Wagons & Ships** research) and set it up anywhere on land. Click it for its menu. A faction can **Claim the depot**, name it, and decide whether it takes freight from every party or only its own.
+A **freight depot** is a notice board where one faction pays another to haul a crate with a registered vehicle. Craft one from **8 wood** under vehicle parts (it needs the **Wagons & Ships** research) and set it up anywhere on land. Click it for its menu. A faction can **Claim the depot**, name it, and decide whether it takes freight from every party or only its own.
 
-To take any work, bring a vehicle that is registered in its [vehicle papers](#vehicle-papers), with you among its owners or crew, within **8 tiles** of the depot.
+To take freight, bring a vehicle that is registered in its [vehicle papers](#vehicle-papers), with you among its owners or crew, within **8 tiles** of the depot.
 
 **Freight** works exactly like the [freight contracts](Guide_to_Boats.md#freight-contracts) of a harbour: one faction leaves a sealed crate and a reward, another carries the crate to the depot or harbour it is bound for and is paid there. Freight can go from depot to depot, or between a depot and a harbour's mooring post.
-
-**Depot work** is the depot's own list of up to **3** jobs, each some 60 to 220 tiles away. The list refills about every 10 minutes when someone reads it, and the further the spot, the better the pay in coins.
-
-| Job | What to do |
-| --- | --- |
-| **Survey** | You are handed a **survey stake**. Use it in your hand to read how far the spot is and which way. Used within **6 tiles** of the spot, it is driven into the ground and the survey is done. Back at the depot choose **Report a survey** to be paid |
-| **Lost cargo** | You are handed a **note** that reads the way in the same manner, and a crate lies at the spot. Bring the crate within **2 tiles** of the depot and choose **Hand in lost cargo**. It pays more than a survey |
-
-- A party holds at most **2** of one depot's jobs at a time. **Give up a job** strikes it off and frees the place.
-- Anyone on the vehicle's crew can finish a job its party took.
-- The depot keeps a lost cargo crate; anything you put inside is left on the ground for you.
 
