@@ -269,6 +269,15 @@ carry on. When the server moves to an updated build, the same happens, but
 anything you do after your level is saved does not carry over to the updated
 server.
 
+### Before a restart or shutdown
+
+When the server is about to save and restart, shut down or move to an updated
+build, a yellow message in chat says what will happen and how long you have,
+and more messages count down the last minutes and seconds. The Status tab also
+shows the time left. Use it to get somewhere safe, put away what you are holding
+and finish what you are doing. Your progress is kept unless the message says
+otherwise. If the restart is called off, a message tells you to play on.
+
 You can also save someone else if they faint in the middle of the street. **Buckling to a bed slows the increase of thirst and hunger**, so the buckled person will live longer and even indefinitely if cared for with food and water regularly.
 
 ## Additional info
@@ -279,6 +288,7 @@ The Status tab has some general info about the ongoing round, both OOC and IC:
 
 - number of players
 - round duration
+- time left before a planned restart or shutdown, while one is counting down
 - current map
 - current mode (usually states **[research](gamemodes/Civilizations_and_Nomads.md#research)** mode)
 - current epoch
