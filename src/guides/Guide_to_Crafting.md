@@ -1322,6 +1322,15 @@ wrench to avoid pushing them on accident, but it is not necessary.</b>
 5.  Place the tank cannon (enter the desired caliber) and the seats: D -
     driver, C - commander, L - loader, G - gunner.
 
+    - For a turret that turns on its own, build a **tank turret** (30
+      steel, weapons category, Mechanized War) on one of the frames, and
+      put the tank cannon and the gunner's, loader's and commander's
+      seats on **the same tile**. They are fitted into the turret when
+      you assemble the tank. Examine the turret to see what it holds and
+      what it still needs: it cannot fire without a cannon and a
+      gunner's seat. After assembly, click the axis and choose **Turret
+      style** to pick how the turret looks.
+
 6.  **Build a vehicle axis on any frame of the tank** and click it. It
     shows a build sheet: the size of the frame, the parts it found, and
     what the tank still needs before it will drive (an engine, a fuel
