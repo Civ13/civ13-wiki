@@ -111,7 +111,7 @@ Practice is a way to get started, not a way to the top. Each session teaches a l
 | Need | Details |
 | --- | --- |
 | **Writing tool** | You must hold one to research. A **writing slate** (2 stone, no knowledge needed) or a pencil works at normal speed, a crayon at half speed, and a quill or pen 25% faster. Writing and copying need a pencil or pen, and a better pen writes faster. |
-| **Light** | A bench makes no progress in the dark. |
+| **Light** | A bench makes no progress in the dark. Studying, writing and copying need light where you stand too: evening daylight is enough, but at night or in a dark room bring a candle, lamp or torch. If the light goes out you stop, and a chapter you were studying keeps the part you already read. |
 | **Supplies** | Use supplies on a bench to stock it (up to 200 per discipline). Each bit of progress uses one. Without them, the bench works at half speed. |
 | **Instruments** | From the Imperial Age on, a chapter needs its discipline's instrument on or next to the bench, or in a researcher's hands. Without it the bench makes no progress. |
 | **Writing desk** | 6 soft wood (Basic Furniture). Studying, writing and copying beside one are 25% faster. |

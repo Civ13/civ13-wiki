@@ -54,7 +54,7 @@ There may be more than one ethnicity on a given map, and each ethnicity speaks i
 
 As you learn a new language, you will start understanding more and more of it.
 
-**Another option is reading a suitable language book.**  You can write one if you know at least two languages and have 1.35 of the philosophy skill. 
+**Another option is reading a suitable language book.**  You can write one if you know at least two languages and have 1.35 of the philosophy skill. Reading or writing one needs light: at night or in a dark room, bring a candle, lamp or torch. 
 
 The IC tab has the following commands regarding languages: **Check Default Language**, **Check Known Languages** and **Set Default Language**.
 
