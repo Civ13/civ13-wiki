@@ -34,9 +34,11 @@ The ship moves in **hops**: every 30 seconds it shifts along its heading by 2 ti
 | **Chart** | Position, heading, telegraph, anchor, fuel and hops left, what lies up to 12 tiles ahead of the bow, and why the ship last stopped |
 | **Ship's papers** | The crew register: who owns the ship and who may take the wheel (see [Ship's papers](#ships-papers)) |
 | **Full / Half / Slow ahead**, **All stop** | Ring down a speed; the ship sails only with the anchor up and fuel in the bunkers |
-| **Head north / east / south / west** | Come about on the spot; the ship turns about its centre and needs clear sea for the new box. Everything aboard turns with her: guns, chairs, loose cargo and the crew keep facing the same way relative to the bow |
+| **Head north / east / south / west** | Come about on the spot; the ship turns about its centre and needs clear sea for the new box. The water she will swing over is marked in yellow and she turns five seconds later. Everything aboard turns with her: guns, chairs, loose cargo and the crew keep facing the same way relative to the bow |
 | **Weigh anchor / Drop anchor** | A ship at anchor never hops, whatever the telegraph says |
 | **Deck lights on / off** | Switches the lights along the flight deck edges; the setting is kept with the ship |
+
+Five seconds before each hop the water the ship is about to cover is **marked in yellow**, and anyone swimming there is warned. Get clear: anything solid still in the way stops the ship.
 
 The ship stops by itself, with the reason sent to everyone aboard, when land, a pier, another ship or the edge of the world lies in its way, when the bunkers run dry, and while the world is being saved. A blocked full hop tries shorter ones first, so the ship closes up to an obstacle instead of stopping short of it.
 
