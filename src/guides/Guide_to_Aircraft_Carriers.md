@@ -35,6 +35,7 @@ The ship moves in **hops**: every 30 seconds it shifts along its heading by 2 ti
 | **Make for a berth** | Slides her alongside a [mooring post](Guide_to_Boats.md#harbours-and-the-sea-chart) within 20 tiles |
 | **Hail a ship** | Calls across to a ship within 40 tiles; her whole crew reads it (see [Hails and running dark](Guide_to_Boats.md#hails-and-running-dark)) |
 | **Run dark / Show her lights** | Other ships see an unknown contact instead of her name. The deck lights go out and slow ahead is all she makes |
+| **Grapple a ship** | Throws lines at a ship within 3 tiles: both are held fast and the crews can cross (see [Grappling and boarding](Guide_to_Boats.md#grappling-and-boarding)) |
 | **Ship's papers** | The crew register: who owns the ship and who may take the wheel (see [Ship's papers](#ships-papers)) |
 | **Full / Half / Slow ahead**, **All stop** | Ring down a speed; the ship sails only with the anchor up and fuel in the bunkers |
 | **Head north / east / south / west** | Come about on the spot; the ship turns about its centre and needs clear sea for the new box. The water she will swing over is marked in yellow and she turns five seconds later. Everything aboard turns with her: guns, chairs, loose cargo and the crew keep facing the same way relative to the bow |
