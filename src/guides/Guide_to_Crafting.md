@@ -1275,11 +1275,11 @@ Tank driving is covered in the **[Guide to Tanks](Guide_to_Tanks.md)**.
 
 <b>Limitations</b>
 
-* The maximum size of a tank is 5x5 tiles. Larger ones will not function properly due to technical reasons.
+* A tank is at least 2x2 and at most 5x5 tiles, with 25 frames at most.
 
-* A tank has to be of rectangular shape.
+* A tank has to be a rectangle with a frame on every tile. Loose frames that touch count as one vehicle, so build two vehicles a tile apart.
 
-* A tank is facing North by default.
+* You choose which way the tank faces when you assemble it.
 
 |                                                                                            |                                                                                            |                                                                                          |                                                                                          |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
@@ -1302,9 +1302,8 @@ wrench to avoid pushing them on accident, but it is not necessary.</b>
       - **Wall (W)** - a steel impassable wall.
       - **Door (D)** - used to enter or exit the vehicle. Could be
         locked with a key.
-3.  Place tank tracks inside the walls and on the frame itself. Face
-    North to build tracks like those in the front, or South to build
-    them like those in the back.
+3.  Place a tank track (or a wheel) on each of the **four corner
+    frames**. Tracks on other frames are left out.
 
 4.  Construct an **[engine](#engines)** with a fuel tank.
 
@@ -1323,8 +1322,21 @@ wrench to avoid pushing them on accident, but it is not necessary.</b>
 5.  Place the tank cannon (enter the desired caliber) and the seats: D -
     driver, C - commander, L - loader, G - gunner.
 
-6.  **Build a heavy vehicle axis at the top left corner.** Click the
-    axis to select a colour palette and a name for the tank.
+6.  **Build a vehicle axis on any frame of the tank** and click it. It
+    shows a build sheet: the size of the frame, the parts it found, and
+    what the tank still needs before it will drive (an engine, a fuel
+    tank, a driver's seat, a wheel or track on each corner). If the
+    frames cannot be a vehicle, it says why. Choose **Assemble it**, then
+    pick which way the front points, a name and a colour. The light axis
+    carries 800 weight and the heavy axis 2500.
+
+    - Parts you add later: stand them on the tank's frames, click the
+      axis and choose **Fit new parts**.
+    - To change the tank, stop it, switch the engine off, click the axis
+      and choose **Take it apart**. Frames and parts stay where they
+      stand, loose, and can be assembled again. A tank registered in its
+      [vehicle papers](Guide_to_Tanks.md#vehicle-papers) can only be
+      taken apart by its owners.
 
 7.  Admire the interior of the death machine you have created (place a shell rack, the one beside the fuel tank, to keep things organized)...
 
