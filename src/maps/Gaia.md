@@ -25,6 +25,7 @@ Hills change how fast you walk:
 - Going downhill is quick: a gentle slope is about half again as fast as flat ground, and two levels per tile almost twice as fast. Drops steeper than that are picked down more carefully, so they are less of a gain.
 - When you hold a direction and slide freely, your pace follows the slope under you smoothly, not one tile at a time. Keep going downhill and you build momentum: you get faster still, and the speed carries you across a few tiles of flat ground and partway up the next rise. Stopping or turning back loses it. With Tap To Step, quick taps feel the slope one tile at a time.
 - Steep steps of three levels or more are tiring: scrambling up one spends some stamina, and the game tells you when you scramble up or pick your way down a steep slope.
+- Running down a steep drop of three levels or more can trip you. The steeper the drop, the more speed you carry and the more tired you are, the likelier you are to fall. You go down, roll on down the slope while it stays steep and get a few bruises for each tile you roll. Walking down a steep slope is always safe.
 
 For a long trip, going around a big hill can be faster than going over it, and a pass or a gentle inland slope is usually faster than scaling a range from its steep seaward side.
 
