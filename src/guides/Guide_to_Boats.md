@@ -318,6 +318,8 @@ Click the tiller to sail:
 | **Head north / east / south / west** | She comes about around the tiller five seconds later; everything aboard turns with her |
 | **Sea chart** | Where she is, the ships her lookout sees and every harbour on this sea (see [Harbours and the sea chart](#harbours-and-the-sea-chart)) |
 | **Make for a berth** | Slides her alongside a mooring post within 20 tiles |
+| **Hail a ship** | Calls across to a ship her lookout sees (see [Hails and running dark](#hails-and-running-dark)) |
+| **Run dark / Show her lights** | Hides her name from other ships, at slow ahead only |
 | **Ship's papers** | Register her so nobody can sail her away while you are gone (see [Ship's papers](Guide_to_Aircraft_Carriers.md#ships-papers)) |
 | **Refit the hull** | At anchor: surveys the hull again after you added or cut away floors |
 | **Strike the hull** | She stops being a ship; the floors stay where they are |
@@ -357,6 +359,19 @@ One post takes one ship, up to 40 tiles long and 12 across. Set several posts we
 **Berthing.** Bring the ship within **20 tiles** of the post and choose **Make for a berth** at the wheel or tiller. If the post will have her, the water she is about to lie in is **marked in yellow for ten seconds**, then she slides in along the shore with her middle abreast of the post, stops and drops anchor. If not, you are told why: too far, not welcome, promised to another ship, taken, or something in the way.
 
 A moored ship holds the berth until she next moves: weigh anchor and sail and she has cast off. After a server restart she lies at anchor beside the post; make for the berth again to moor her.
+
+### Hails and running dark
+
+**Hail a ship.** At a wheel or tiller choose **Hail a ship**, pick one of the ships within 40 tiles and type what you call across. Everyone aboard her reads it with the distance and bearing it came from, and your own crew reads what was said. Anyone at the helm may hail, and hails must be five seconds apart.
+
+**Run dark.** Choose **Run dark** to keep your ship's name to herself:
+
+- other ships' sea charts and the carrier's radar still show where she is, but list her as an **unknown contact** with no name, heading or speed;
+- her hails come from "an unknown ship";
+- ships registered to your own faction still know her;
+- she makes **slow ahead at most**, and a slipway ship or carrier puts out her deck lights.
+
+Lamps you set on a hull you built are yours to put out. Choose **Show her lights** to be known and fast again. Running dark is an order like setting a speed, so on a registered ship it answers only to her crew. It ends at a server restart.
 
 ## Sailing and the wind
 
