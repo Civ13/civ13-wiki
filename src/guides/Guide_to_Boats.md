@@ -345,6 +345,8 @@ Slipway ships, the aircraft carrier and hulls you built yourself share one sea c
 - every other ship within **40 tiles** of her: distance, bearing, square, where her bow points and whether she is under way, stopped or moored;
 - every **harbour** on that sea, however far, and whether its berth would take your ship.
 
+**Weather and night.** The lookout sees 40 tiles in clear weather. **Rain or snow** cuts that to 30, **smog** to 20 and a **storm** to 15, and the chart tells you so. What counts is the worse weather of the two ships, so a ship lying in a storm is as hard to see as it is for her to see out. You can only hail a ship your lookout sees. By **night** a ship [running dark](#hails-and-running-dark) is made out only within **10 tiles**, while she still sees every ship that shows lights. The carrier's radar sees through weather and darkness.
+
 **Building a harbour.** Craft a **mooring post** (6 wood, vehicle parts, the same research as boats) and set it at the water's edge, on the shore or at the end of a pier, with open water on one side. Click the post to:
 
 | Choice | What it does |
@@ -363,7 +365,7 @@ A moored ship holds the berth until she next moves: weigh anchor and sail and sh
 
 ### Hails and running dark
 
-**Hail a ship.** At a wheel or tiller choose **Hail a ship**, pick one of the ships within 40 tiles and type what you call across. Everyone aboard her reads it with the distance and bearing it came from, and your own crew reads what was said. Anyone at the helm may hail, and hails must be five seconds apart.
+**Hail a ship.** At a wheel or tiller choose **Hail a ship**, pick one of the ships your lookout sees and type what you call across. Everyone aboard her reads it with the distance and bearing it came from, and your own crew reads what was said. Anyone at the helm may hail, and hails must be five seconds apart.
 
 **Run dark.** Choose **Run dark** to keep your ship's name to herself:
 
