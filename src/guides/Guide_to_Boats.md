@@ -237,6 +237,15 @@ The Explorer adds a berth with two bunks between the control room and the lock-o
 
 Examine the **battery bank** or the **air bank** to read the boat's battery or air without going to the station. The two corners beside the engine are sealed tanks and can't be entered.
 
+### Naming and painting your boat
+
+Click the **ballast and periscope station** and choose:
+
+- **Name the boat** to give her a name of up to 39 letters. It is what people read when they look at her hull.
+- **Paint the stripes** to repaint the two stripes across the hull in orange, red, yellow, green, blue, purple, white or black. It takes a few seconds and the boat has to be on the surface. Every boat leaves the pen in orange.
+
+![Scout and Explorer submarines with their hull stripes in each of the eight paints](../images/civ13-submarine-stripe-paints.png)
+
 ### Diving and surfacing
 
 Click the **ballast and periscope station** to dive or surface. Each takes a few seconds.
