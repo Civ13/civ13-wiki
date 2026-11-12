@@ -266,8 +266,9 @@ sleeping or waking.
 While the map is saving, you cannot move between z-levels (for example up or
 down stairs, ladders or holes to another level). Each level is saved in turn:
 while yours is being saved you are held still for a moment, and you can still
-look around and chat. A message tells you when your level is saved and you can
-carry on. When the server moves to an updated build, the same happens, but
+look around and chat. Your body waits with you: hunger, thirst, bathroom needs,
+breathing, bleeding and sickness pause until your level is saved. A message
+tells you when your level is saved and you can carry on. When the server moves to an updated build, the same happens, but
 anything you do after your level is saved does not carry over to the updated
 server.
 
