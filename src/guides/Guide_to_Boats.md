@@ -328,6 +328,7 @@ Click the tiller to sail:
 - The water she is about to cover is **marked in yellow** five seconds before each hop and before a turn.
 - She stops by herself, and tells everyone aboard why, at land, at somebody else's floor, at another ship, at anything solid in the water and at the edge of the world. A blocked hop tries a shorter one first.
 - Build what you like aboard: walls, a cabin, crates, cannon. Anything standing on her floors rides along at once. New floors that widen the hull join her when you **refit**.
+- **Wiring:** cables, engines, generators and batteries aboard stay connected when she moves, so lamps and machines keep running under way. A cable that runs from her to the shore parts at the first hop. The same holds for slipway ships and the aircraft carrier.
 - Once commissioned she can sail onto deep salt water. If you strike her out there, the floors are plain planks again and will not last on the deep sea.
 - If the tiller is destroyed she is a raft of planks again. Set a new tiller and commission her.
 
