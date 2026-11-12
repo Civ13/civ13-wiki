@@ -1157,6 +1157,33 @@ Each level of the workshop, infirmary, kitchen and still unlocks one more kind o
 
 Work runs in real time, so it carries on while you are offline. Each room does one job at a time. When work is done, choose **Collect finished work** at any depot in the land, and the goods appear at your feet. Some work only shows up in the right age or once your people have the matching research.
 
+### Pedal bicycles
+
+<hr>
+
+A **pedal bicycle** is a one-person vehicle that runs on your own legs: no engine, no fuel. Build it from **12 steel** in the "vehicle parts" category. It needs the **Factories** node of the [tech tree](Guide_to_Research.md) ([legacy research](../gamemodes/Civilizations_and_Nomads.md#research): Industrial 95).
+
+![Offline render using Civ13 sprites: the pedal bicycle on a road, parked and ridden, facing each direction](../images/civ13-pedal-bicycle-sprites.png)
+
+The bicycle parked (top) and ridden (bottom). Offline render using Civ13 sprites, not a live screenshot.
+
+1.  With one hand free, click-drag your character onto the bicycle. You take the **handlebars** in that hand.
+2.  **Press Z** (use the handlebars) to start pedaling, and steer with the direction keys. The bicycle keeps rolling the way you face.
+3.  **Press C**, or Z again, to brake. Click the bicycle to get off.
+
+What makes it fast or slow:
+
+| Condition | Effect |
+| --- | --- |
+| Roads, built floors, tamped earth | Full pace: a little quicker than running, for half the stamina |
+| Grass, dirt, sand and other natural ground | A quarter slower and a quarter more tiring |
+| Lying snow | Slower still |
+| Carried weight | The more you wear and carry, bags included, the slower you go and the more stamina each tile costs. At your full carrying capacity the bicycle takes twice as long per tile, and it bottoms out at four times |
+| Uphill | Slower, and more stamina for each level climbed |
+| Downhill | A little quicker, and coasting costs no stamina |
+
+Pedaling stops when you run out of stamina, let go of the handlebars, or meet something in the way. Bumping into things does not hurt you or the bicycle. It cannot cross water without a bridge. You need both legs and feet, and you cannot pedal while cuffed.
+
 ### Motorcycles
 
 <hr>
