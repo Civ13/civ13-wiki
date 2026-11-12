@@ -29,12 +29,28 @@ Knapping shapes a flint by striking it with a hammerstone. Hold a hammerstone in
 | Three flint arrowheads | 6 s | Moderate |
 | Flint knife | 8 s | High |
 | Flint spearhead | 8 s | High |
+| Hand axe | 10 s | High |
+| Hide scraper | 5 s | Low |
 
 Higher **dexterity** makes knapping faster, and higher **crafting** skill makes failures rarer. When a knap fails, the flint breaks into a **flint shard**, which still cuts and butchers like a crude blade.
 
 - **Arrows and bolts.** Use flint arrowheads on an arrow shaft or a bolt. One nodule makes three arrowheads, so knapping gets you more arrows than attaching sharpened flints one at a time. The fletcher's bench accepts flint arrowheads too.
 - **Flint spear.** Use a flint spearhead on a branch to make a flint spear.
 - **Whetstone.** A flint still sharpens blades and tools as before.
+- <img src="../images/Hand_axe.png"> **Hand axe.** An all-purpose flint tool. It chops trees (slowly), cuts logs into planks like a hatchet, and butchers and skins animals.
+- <img src="../images/Hide_scraper.png"> **Hide scraper.** Keep it in either hand while you skin an animal and you save one extra piece of hide or pelt.
+
+The hand axe and hide scraper only show up once you know **Basic Toolmaking**.
+
+## Other Stone Age tools
+
+| Tool | Made from | Use |
+| --- | --- | --- |
+| <img src="../images/Digging_stick.png"> Digging stick | 2 wood, **Tools** tab | Breaks ground for planting like a plough, at half the speed. See [Farming](Guide_to_Farming.md#tools). |
+| <img src="../images/Bone_needle.png"> Bone needle and awl | 1 bone | Mends worn clothing. Hold sinew, leather, rawhide or a pelt in your other hand and use the needle on the clothing. Each stitch uses one piece. |
+| <img src="../images/Stone_adze.png"> Stone adze | 3 stone, **Tools** tab | Use it on logs to hew them into finished planks: two planks from two logs, where a hatchet gets one. It is slower than a hatchet, and on harm intent it cuts like one. |
+
+These tools are made in the Stone and Bronze Ages, after **Basic Toolmaking**.
 
 ## Fire striker
 

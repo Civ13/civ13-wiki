@@ -54,6 +54,11 @@ Ways of parting fish and the like with their element.
 <td>The least effective way to catch fish. See <b><a href="Guide_to_Crafting.md#tools">here</a></b> to learn the art of making a sharpened stick.</td>
 </tr>
 <tr>
+<td><img src="../images/Bone_harpoon.png"></td>
+<td><b>Harpoon or flint spear</b></td>
+<td>Stand by a fishing spot and use a harpoon (a bone harpoon is made from 4 bone) or a flint spear on it to spear a fish. Each strike takes about 10 seconds and lands a fish about a third of the time, which is better than a sharpened stick.</td>
+</tr>
+<tr>
 <td><img src="../images/fishing_pole.png"></td>
 <td><b>Fishing pole</b></td>
 <td>Made with 3 wood. You have a better chance of catching something with this than with a stick.</td>
