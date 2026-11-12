@@ -8,6 +8,27 @@ Rain and immersion make you wet, weakening clothing insulation and increasing co
 
 Complete coverage buys time but does not make you immune to cold. A dangerously cold body takes harm even when fully covered. Seek warmth before exposure becomes severe, and account for other injuries and hunger.
 
+## Footwear for the ground and weather
+
+What is on your feet changes how fast you cross snow, mud and water, and how well you keep your footing. Examine a pair of shoes to see what it is good for.
+
+| Footwear | Made from | Good for | Drawbacks |
+| --- | --- | --- | --- |
+| Snowshoes | Wood (Stone Age) | Walk on top of deep snow at nearly full speed; warm | Clumsy on bare ground, poor in mud, unsteady on steep slopes |
+| Mukluks | Leather (Stone Age) | Faster in snow, warm, fair grip on ice | Soak up mud and water |
+| Hobnailed boots | Leather (Iron Smithing) | Never slip on ice, sure footing on steep slopes, keep feet dry | A little slower than light shoes |
+| Pattens | Wood (Tailoring) | Lift you clear of mud and puddles, keep feet dry | Wobbly on slopes, no grip on ice |
+| Rubber boots | Plastic (Ready-Made Clothing) | Best in mud and wading, keep feet dry | Little grip on ice, not insulated |
+| Mountaineering boots | Steel (Alloys) | Crampons never slip on ice, best on steep slopes, good in snow, warm | Heavy |
+
+Older footwear counts too. Fur, wool and winter boots are warm and help in snow. Leather, riding, work and military boots shed water and help a little in mud. Geta lift you out of mud. Sandals, flip-flops and slippers are light, but in snow your toes freeze as if barefoot.
+
+**Ice.** Running on frozen water can make you slip and fall. Walking never does. Boots with a good grip halve the chance, and hobnails or crampons stop it entirely.
+
+**Cold, wet feet.** When you are already cold, standing in water or mud chills your feet unless your footwear is waterproof, and snow freezes bare or open-toed feet.
+
+**Hills.** Running down a steep slope can trip you. Hobnails and crampons make that much less likely; snowshoes and pattens make it more likely.
+
 ## Clearing snow
 
 Fallen snow on grass can be scooped up with a shovel into a snow pile, leaving the grass underneath. Once the snow is gone, a shovel digs up the grass as usual.
