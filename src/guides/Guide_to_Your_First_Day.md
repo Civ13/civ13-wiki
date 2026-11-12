@@ -16,6 +16,7 @@ On persistent worlds **you can't craft anything you haven't studied**. A new cha
 - [Food](#food)
 - [Shelter and warmth](#shelter-and-warmth)
 - [Light](#light)
+- [Carrying more](#carrying-more)
 - [Sleeping and logging off](#sleeping-and-logging-off)
 - [If you die](#if-you-die)
 - [First-day checklist](#first-day-checklist)
@@ -51,8 +52,8 @@ The Stone Age master book has twelve chapters. None of them needs another chapte
 | **Basic Toolmaking** | The **stone hatchet** (2 stone), **wood handle**, **wooden spade** and bone shovel, **wooden ladder**, knives, the **tanning rack** and leather, the **dehydrator** for drying meat, fishing rods and nets, rope |
 | **Basic Furniture** | **Campfire** (4 logs), **bed** (4 planks), **brazier** (stone), tables, chairs and the writing desk |
 | **Pottery & Cookware** | **Wooden mug** (1 log), **bucket** (2 planks), clay pots and cups, the clay **cooking pot**, waterskin, wooden bowl |
-| **Primitive Construction** | **Log walls** (6 logs), **roof supports** (2 logs), the **wood roof builder** (1 plank), doors, fences, wooden floors and stairs, **mine supports**, **torches** |
-| **Weaving** | Fur coat, fur boots and pelt hats, the **leather bedroll** (4 leather), tents, hammocks, loincloths and leaf clothing |
+| **Primitive Construction** | **Log walls** (6 logs), **roof supports** (2 logs), the **wood roof builder** (1 plank), doors, fences, wooden floors and stairs, **mine supports**, **torches**, the **travois** |
+| **Weaving** | Fur coat, fur boots and pelt hats, the **leather bedroll** (4 leather), tents, hammocks, loincloths and leaf clothing, and your first bags: the **grass carry net**, **hide sling bag** and **pack basket** |
 
 Later, add **Stone Arms** (spears, bone knife, bone and stone pickaxes, chipping flint on a rock), **Archery** (bows and arrows), **Herbalism** (bandages, splints, the drying rack), **Primitive Armor**, **Field Defenses** and **Ritual & Worship**. The [Research](Guide_to_Research.md#full-node-reference) node reference lists every chapter.
 
@@ -107,6 +108,22 @@ More on cold weather is in [Winter & Long Rounds](Guide_to_Survival.md) and the 
 
 Nights are dark, and a research bench makes no progress in the dark. Make a **torch** from a wood handle and animal fat (Basic Toolmaking for the handle, Primitive Construction for the torch). Use it in hand to light it; it burns for about five minutes and can be topped up with more fat or oil. A campfire also gives light. See [Night time](../Starter_Guide.md#night-time).
 
+## Carrying more
+
+You start with only your hands and pockets. Each of these holds more than the one before it:
+
+| Gear | Chapter | Made from | Worn on | Holds |
+| --- | --- | --- | --- | --- |
+| **Grass carry net** | Weaving | 3 rope | Belt | 6 small things |
+| **Hide sling bag** | Weaving | 3 pelts of almost any animal, or 3 leather | Back | 3 normal-sized or 7 small things |
+| **Pack basket** | Weaving | 4 logs, soft wood or bamboo | Back | 4 normal-sized or 9 small things |
+| **Leather backpack** | Cooperage & Containers (Bronze Age) | 6 leather | Back | 2 large things, or more smaller ones |
+| **Pack frame** | Cooperage & Containers (Bronze Age) | 6 logs or soft wood | Back | 3 large things, but it slows your walk a little |
+
+Rope comes from the crude twine you twist from grass cuttings or sinew. Make the carry net from a stack of rope.
+
+To move a bigger load, build a **travois** (Primitive Construction, 8 logs, soft wood or bamboo): two poles lashed into a drag with a hide platform. It works like a crate: open it, put up to 15 things on its tile, close it, then **Ctrl-click** it to pull it behind you.
+
 ## Sleeping and logging off
 
 **Don't just log off.** Your character stays in the world, asleep on the ground, where it can be robbed or killed and still slowly gets hungry.
@@ -128,9 +145,10 @@ While you sleep properly your hunger and thirst don't drop. You can't sleep whil
 2. Study Basic Toolmaking, Basic Furniture, Pottery & Cookware, Primitive Construction and Weaving.
 3. Make a flint axe and chop some logs.
 4. Drink, and make a mug, bucket and cooking pot for clean water.
-5. Hunt or forage, and cook on a campfire.
-6. Find a cave or build a roofed hut, and light it.
-7. Make a bed, and sleep in it before you log off.
+5. Make a carry net or sling bag so you can carry what you gather.
+6. Hunt or forage, and cook on a campfire.
+7. Find a cave or build a roofed hut, and light it.
+8. Make a bed, and sleep in it before you log off.
 
 ## See also
 
