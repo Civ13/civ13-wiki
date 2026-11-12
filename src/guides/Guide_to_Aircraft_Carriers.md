@@ -33,7 +33,7 @@ The ship moves in **hops**: every 30 seconds it shifts along its heading by 2 ti
 | --- | --- |
 | **Chart** | Position, heading, telegraph, anchor, fuel and hops left, what lies up to 12 tiles ahead of the bow, and why the ship last stopped |
 | **Full / Half / Slow ahead**, **All stop** | Ring down a speed; the ship sails only with the anchor up and fuel in the bunkers |
-| **Head north / east / south / west** | Come about on the spot; the ship turns about its centre and needs clear sea for the new box |
+| **Head north / east / south / west** | Come about on the spot; the ship turns about its centre and needs clear sea for the new box. Everything aboard turns with her: guns, chairs, loose cargo and the crew keep facing the same way relative to the bow |
 | **Weigh anchor / Drop anchor** | A ship at anchor never hops, whatever the telegraph says |
 | **Deck lights on / off** | Switches the lights along the flight deck edges; the setting is kept with the ship |
 
