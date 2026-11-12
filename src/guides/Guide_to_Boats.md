@@ -26,6 +26,7 @@ From left to right: raft, sailing outrigger, motor outrigger, RHIB. Offline rend
 | Wood ship frame | 4 planks per tile | Wagons & Ships | Industrial 41 |
 | Ship rudder control (the wheel) | 10 planks | Wagons & Ships | Industrial 41 |
 | Ship mast | 15 planks | Wagons & Ships | Industrial 41 |
+| Tiller (for a [hull you build yourself](#building-your-own-hull)) | 10 planks | Wagons & Ships | Industrial 41 |
 | Light ship rudder axis (1200 weight) | 25 planks | Wagons & Ships | Industrial 41 |
 | Ship rudder axis (2500 weight) | 45 planks | Wagons & Ships | Industrial 55 |
 | Steel ship frame | 2 steel per tile | Wagons & Ships | Industrial 97 |
@@ -298,6 +299,32 @@ Both ships sail like the [aircraft carrier](Guide_to_Aircraft_Carriers.md#sailin
 
 - **Sailing schooner:** two masts and the wheel at the stern. She needs **no fuel**, but makes half ahead at most.
 - **Motor freighter:** the wheel is in the wheelhouse at the stern, and a ladder amidships leads down to the **cargo hold**. Behind a bulkhead door at the back of the hold is the **engine room** with the bunker filling point. Pour **diesel** or **petroleum** into it (400 units). If both the hold and the engine room flood, she sinks.
+
+## Building your own hull
+
+You can also design a ship yourself. A hull is nothing more than **floors laid over water**, in any shape you like, with a **tiller** on one of them.
+
+1. Craft **floor covers** (2 wood each, construction) and lay them over water: a river, a lake or the shallows. Floors cannot be laid on deep salt water, so build near the shore and sail out.
+2. Keep the hull **free of the shore**. A floor that touches a floor on land makes it a jetty, and a jetty cannot be commissioned. Leave a one-tile gap and step across, or cut the last plank when you are ready.
+3. Craft a **tiller** (10 planks, vehicle parts) and set it on one of the floors. The tiller is the point the ship turns about, so somewhere near the middle is best.
+4. Click the tiller, choose where the **bow** points and **name her**. Every floor joined edge to edge with the tiller's tile becomes the ship, up to **200 tiles**.
+
+Click the tiller to sail:
+
+| Choice | What it does |
+| --- | --- |
+| **Weigh anchor / Drop anchor** | A new hull lies at anchor and never moves until it is weighed |
+| **Slow ahead**, **All stop** | Under way she moves **2 tiles every 30 seconds** along her heading, with every floor, wall, crate and person aboard |
+| **Head north / east / south / west** | She comes about around the tiller five seconds later; everything aboard turns with her |
+| **Ship's papers** | Register her so nobody can sail her away while you are gone (see [Ship's papers](Guide_to_Aircraft_Carriers.md#ships-papers)) |
+| **Refit the hull** | At anchor: surveys the hull again after you added or cut away floors |
+| **Strike the hull** | She stops being a ship; the floors stay where they are |
+
+- The water she is about to cover is **marked in yellow** five seconds before each hop and before a turn.
+- She stops by herself, and tells everyone aboard why, at land, at somebody else's floor, at another ship, at anything solid in the water and at the edge of the world. A blocked hop tries a shorter one first.
+- Build what you like aboard: walls, a cabin, crates, cannon. Floors and walls you add later ride along once you **refit**.
+- Once commissioned she can sail onto deep salt water. If you strike her out there, the floors are plain planks again and will not last on the deep sea.
+- If the tiller is destroyed she is a raft of planks again. Set a new tiller and commission her.
 
 ## Sailing and the wind
 
