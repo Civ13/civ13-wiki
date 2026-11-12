@@ -88,7 +88,8 @@ A fire burns its tile for a short while, hurts and ignites anyone standing in it
 - **Soak it first**: click open water, a well, or an open container holding water with the beater or flapper in hand. A wet tool rarely fails and wears far more slowly, but it dries out after several swings, so soak it again. A dry tool scorches and falls apart quickly.
 - **Someone is burning**: click them with the beater or flapper (not on harm intent) to beat the flames off. A burning person can also drop and roll with Resist.
 - **Nothing to hand**: a pelt, leather or cloth held in your hand can smother a fire when you click it. It often fails, and a piece may scorch away.
-- **Water**: emptying a container of water onto a fire puts it out.
+- **Water**: click a fire with an open container to empty its water onto it. The more water, the surer: a cupful rarely works, half a bucket always does, and a full bucket also splashes the fires on the tiles around it and puts out anyone burning on that tile. Refill at a well or open water and keep a line of buckets moving.
+- **Wet blanket**: soak a bedsheet in open water, a well or a container of water. Thrown over a fire it usually smothers it, and wrapped around a burning person it always puts them out. One soaking lasts four uses. A dry sheet works poorly and may burn up.
 
 Stand beside the fire, never in it, and work along the edge that is moving toward what you want to save.
 
