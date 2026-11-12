@@ -60,7 +60,7 @@ Butcher animals for pelts and tan them on a [tanning rack](guides/Guide_to_Craft
 
 ### Bone
 
-Butcher animals; bones craft into tools, needles and decorations.
+Butcher animals; bones craft into tools, needles, decorations and bone armor. The bone helmet, bone armor, hair-pipe armor and skull mask stay craftable in every age, but they give no protection against bullets, so later armor outclasses them.
 
 ## Metals
 
