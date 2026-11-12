@@ -82,3 +82,20 @@ A **leather animal harness** (4 leather, Basic Agriculture research) halves the 
 ### Carriage papers
 
 Right-click a carriage and choose **Vehicle Papers** to register it to your faction, as with other vehicles. Its owners can name it and sign on crew: a master, coachmen, a wheelwright and grooms. A registered carriage appears in **Our vehicles**. A stranger cannot drive it while none of its owners are around. While an owner is around, a stranger can force the reins, which takes a while and warns the crew.
+
+## Hand carts
+
+A **hand cart** is a small wheeled box you pull yourself. Build one from the logistics section:
+
+| Cart | Material | Holds | Research |
+| --- | --- | --- | --- |
+| Wooden cart | 40 softwood | 20 | Carts |
+| Stone cart | 50 stone | 30 | Carts |
+| Copper cart | 30 copper | 40 | Carts |
+| Bronze cart | 30 bronze | 50 | Wagons & Ships |
+| Steel cart | 30 steel | 60 | Automobiles |
+
+- Click it to open or close it and put things inside, like a crate.
+- **Ctrl-click** it to pull it along. Its handles turn toward you as you go.
+- An empty cart slows you less than dragging a crate. The more you load into it, the slower you walk, so a full cart is heavy going. **Examine** it to see how hard it pulls.
+- A cart can be loaded onto a carriage like any other crate.
