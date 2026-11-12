@@ -325,6 +325,15 @@ To go deeper, build a **hard dive suit** (20 steel) and a **hard dive helmet** (
 
 Anything you drop on the seabed stays where it fell.
 
+### Sea life
+
+The seabed has its own animals. They live only in the water and keep to their own depths. None of them can get into a boat.
+
+- **Silverfin shoals** (shelf and open water) and **reef darters** (shelf) swim in schools. They scatter from a diver who comes close, from a diver with a lit lamp farther off, from a boat's floodlights and from a sonar ping, then gather again. Butcher a dead shoal with a knife for raw fish.
+- **Kelp turtles** graze slowly along the shelf and hurry away when they are hurt or startled. They give meat.
+- **Reef eels** hide in crevices where the water meets rock. Swim within two tiles of one and it lunges out and bites, then goes back to its hole. A bite hurts and scores your suit, so keep an eye on its integrity.
+- **Drift jellies** glow softly as they drift through open and deep water. Swimming into one gets you stung. The threads can't get through a hard dive suit.
+
 ## Slipway ships
 
 Bigger ships are built on a **slipway**: a berth on the shore where the crew add the ship one piece at a time, then launch her into the sea. Two ships can be built this way:
