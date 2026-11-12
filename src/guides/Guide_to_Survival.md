@@ -66,6 +66,19 @@ Day/night lighting and outdoor weather appearances update progressively across t
 
 Indoor and map-level lighting exclusions, climate and seasonal weather rules, radiation appearances, and Wasteland Night/Morning effects still apply. These appearance updates do not change season lengths or advance debris age.
 
+## Fighting fires
+
+A fire burns its tile for a short while, hurts and ignites anyone standing in it, and keeps spreading to neighbouring grass and wooden floors until it is put out or runs out of things to burn. Bare dirt, sand, stone and water do not carry it. Rain helps put fires out. Act early: one burning tile is easy to stop, a long burning front is not.
+
+- **Fire beater**: a leafy branch made from 2 wood with Primitive Construction knowledge. Hold it and click a fire next to you to beat at it. About half the swings put the fire out.
+- **Fire flapper**: a hide flap on a pole made from 3 leather with the same knowledge. It works the same way with better odds and lasts about three times as long.
+- **Soak it first**: click open water, a well, or an open container holding water with the beater or flapper in hand. A wet tool rarely fails and wears far more slowly, but it dries out after several swings, so soak it again. A dry tool scorches and falls apart quickly.
+- **Someone is burning**: click them with the beater or flapper (not on harm intent) to beat the flames off. A burning person can also drop and roll with Resist.
+- **Nothing to hand**: a pelt, leather or cloth held in your hand can smother a fire when you click it. It often fails, and a piece may scorch away.
+- **Water**: emptying a container of water onto a fire puts it out.
+
+Stand beside the fire, never in it, and work along the edge that is moving toward what you want to save.
+
 ## Abandoned debris
 
 Discarded rubbish and empty, unrecoverable spent casings become eligible to decay after **4 actual season changes** on maps with changing seasons. Examine them after **2 changes** to see the warning. Maps without an active seasonal cycle instead warn after **6 hours** and allow decay after **12 hours of running-server time**. Decay processing can take additional time after the threshold.
