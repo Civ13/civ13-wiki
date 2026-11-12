@@ -50,6 +50,12 @@ A **research bench** costs 8 soft wood. Benches belong to nobody: anyone can use
 
 The first time anyone finishes a capstone chapter, the whole world moves into the next age.
 
+### Losing an age
+
+An age lasts only as long as its capstone is written down somewhere. If every book, loose chapter page and recipe manual that holds the current age's capstone is destroyed, and no capstone of a later age survives either, the world falls back one age within about ten minutes, and every player is told. If the age before it has lost its capstone too, that one goes next, a little later. The Stone Age is never lost.
+
+Nobody forgets anything when an age is lost. Anyone who still knows the lost capstone can **write it from memory** into a book, and the world returns to that age at once. A region connected to a mainland never falls below the mainland's age.
+
 ### The bench window
 
 - **Books on the bench** shows both books and their chapters. A chapter you can study is marked, and clicking any chapter opens its details.
@@ -131,6 +137,7 @@ Practice is a way to get started, not a way to the top. Each session teaches a l
 ## Tips
 
 - Copy your important chapters. A raid on your library takes every chapter you only had once.
+- Keep spare copies of each capstone in different places. If the last one burns, the whole world loses that age until someone who knows it writes it down again.
 - A scribe doesn't need to be a scholar: anyone can copy chapters at a bench.
 - New to a discipline? Practise with its tool between study sessions while your stamina recovers.
 - Keep a bench lit, stocked and next to your bookcases, and research with a pen at a desk nearby.
