@@ -127,10 +127,12 @@ Health, Agriculture and Military carry on past the subjects listed in the [node 
 | Subject | Era | Needs | Gives |
 | --- | --- | --- | --- |
 | Soil Science | 7 | Hydroponics | Richer soil after your harvests |
-| Infantry Support Weapons | 7 | Field Artillery, Automatic Weapons | Foldable mortar, mortar shells and smoke shells (steel) |
+| Infantry Support Weapons | 7 | Field Artillery, Automatic Weapons | Foldable mortar, mortar shells and smoke shells, flamethrower hose and fuel backpack, anti-personnel and anti-tank mines (all steel) |
 | Emergency Medicine | 8 | Modern Medicine, Anesthetic Surgery | Defibrillator and power cells (electronics), autoinjectors and body bags (plastic) |
 | Crop Breeding | 8 | Soil Science | Bigger harvests |
 | Guided Missiles | 8 | Missiles, Infantry Support Weapons | Foldable anti-tank guided missile system and its HEAT and HE missiles (steel) |
+
+A crafted flamethrower backpack is empty and takes up to 100 units of gasoline; wear it on your back and hold the hose with both hands free. Mines are crafted unarmed: use one in hand to deploy it, and disarm an armed mine with wirecutters. A mine detector (Electricity) finds armed mines nearby.
 
 A crafted autoinjector is empty: fill it from a container like a syringe. It injects its whole dose in a second and works once.
 
