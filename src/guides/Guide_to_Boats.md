@@ -293,6 +293,10 @@ Under the open ocean lies the seabed: cold, dark water where nothing can breathe
 
 Wear the dress, the helmet and a bottle with air in it, and you are sealed.
 
+![Offline render using Civ13 sprites: a diver in the canvas diving dress and brass helmet and a diver in the steel hard dive suit, each seen from four sides with twin air bottles on the back, above the five item icons](../images/civ13-diving-gear-sprites.png)
+
+The top row is the diving dress with the diving helmet. The second row is the hard dive suit with its helmet. The air bottles show on your back.
+
 **Leaving the boat.** When the boat is submerged, the two lock-out chambers amidships (the side sections with the yellow hatches) work as **lock-out hatches**. Stand next to one and click it. The chamber floods, and after a few seconds you step out onto the seabed beside the hull. To get back in, stand next to the same hatch on the outside and click it. Compressed air from the boat's air bank blows the chamber dry and you are back aboard. If the bank is empty you have to pump the chamber out by hand, which takes about 20 seconds. You can't use a lock-out hatch without sealed gear, or if rock or wreckage is pressed against it.
 
 **Depth.** The farther you are from land, the deeper the water gets. Examine the water to see how deep you are. The four depths are:
