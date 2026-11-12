@@ -350,7 +350,7 @@ Click the tiller to sail:
 | Choice | What it does |
 | --- | --- |
 | **Weigh anchor / Drop anchor** | A new hull lies at anchor and never moves until it is weighed |
-| **Slow ahead**, **Half ahead**, **Full ahead**, **All stop** | Under way she moves along her heading every 30 seconds with every floor, wall, crate and person aboard: **2 tiles** at slow ahead, **4** at half, **6** at full. Half ahead needs sails or an engine, full ahead needs engines (below) |
+| **Slow ahead**, **Half ahead**, **Full ahead**, **All stop** | Under way she glides along her heading one tile at a time with every floor, wall, crate and person aboard: a tile every **15 seconds** at slow ahead, every **7.5** at half and every **5** at full. Half ahead needs sails or an engine, full ahead needs engines (below) |
 | **Head north / east / south / west** | She comes about around the tiller five seconds later; everything aboard turns with her |
 | **Sea chart** | Where she is, the ships her lookout sees and every harbour on this sea (see [Harbours and the sea chart](#harbours-and-the-sea-chart)) |
 | **Make for a berth** | Slides her alongside a mooring post within 20 tiles |
@@ -363,12 +363,12 @@ Click the tiller to sail:
 
 - **Sails:** with nothing to drive her she is poled along at slow ahead. Craft a **ship mast** (15 planks, vehicle parts), stand it on one of her floors and rig a **small sail** on it (click the mast with the sail). One rigged mast gives half ahead to a hull of up to **31 tiles**, two masts up to 62, and so on. The tiller tells you how many sails are drawing and the best speed she makes. Sails are set while she is under way and furled at anchor, and need no fuel.
 - **Engines:** stand any engine on one of her floors and start it as you would ashore: a steam engine with its fire lit beside it, or a fuel engine with a fuel tank connected. A running engine pushes as much as its power output. Half ahead needs **1 push for every tile of hull** from sails and engines together; full ahead needs **2 for every tile from engines alone**. So a 66-power hot bulb engine drives 66 tiles at half ahead or 33 at full. The tiller shows what her drives push and what her hull needs.
-- **Fuel:** a fuel engine burns from its own tank at every hop, three times as much at full ahead as at slow, on top of what it burns idling. When the tank cannot pay for a hop the engine stalls and she drops to the best speed her other drives make. Stop the engine at anchor to save fuel.
-- The water she is about to cover is **marked in yellow** five seconds before each hop and before a turn.
-- She stops by herself, and tells everyone aboard why, at land, at somebody else's floor, at another ship, at anything solid in the water and at the edge of the world. A blocked hop tries a shorter one first.
+- **Fuel:** a fuel engine burns from its own tank every 30 seconds under way, three times as much at full ahead as at slow, on top of what it burns idling. When the tank cannot pay the engine stalls and she drops to the best speed her other drives make. Stop the engine at anchor to save fuel.
+- The water she is about to cover is **marked in yellow** five seconds before she moves onto it and before a turn.
+- She stops by herself, and tells everyone aboard why, at land, at somebody else's floor, at another ship, at anything solid in the water and at the edge of the world.
 - Build what you like aboard: walls, a cabin, crates, cannon. Anything standing on her floors rides along at once. New floors that widen the hull join her when you **refit**.
-- **Vehicles:** a car, truck or tank driven onto her floors rides along and turns with her, and drives off the way it then faces. Park it **wholly aboard**: while a vehicle stands half on her floors and half off, she will not hop or come about, and everyone aboard is told which vehicle is in the way. The same holds for slipway ships and the aircraft carrier.
-- **Wiring:** cables, engines, generators and batteries aboard stay connected when she moves, so lamps and machines keep running under way. A cable that runs from her to the shore parts at the first hop. The same holds for slipway ships and the aircraft carrier.
+- **Vehicles:** a car, truck or tank driven onto her floors rides along and turns with her, and drives off the way it then faces. Park it **wholly aboard**: while a vehicle stands half on her floors and half off, she will not move or come about, and everyone aboard is told which vehicle is in the way. The same holds for slipway ships and the aircraft carrier.
+- **Wiring:** cables, engines, generators and batteries aboard stay connected when she moves, so lamps and machines keep running under way. A cable that runs from her to the shore parts as soon as she moves. The same holds for slipway ships and the aircraft carrier.
 - Once commissioned she can sail onto deep salt water. If you strike her out there, the floors are plain planks again and will not last on the deep sea.
 - If the tiller is destroyed she is a raft of planks again. Set a new tiller and commission her.
 
@@ -443,7 +443,7 @@ Lamps you set on a hull you built are yours to put out. Choose **Show her lights
 
 Bring your ship alongside another so that **3 tiles of open water or less** lie in a straight line between the two hulls, then choose **Grapple a ship** at the wheel or tiller and pick her.
 
-- **Both ships are held fast.** Neither hops, comes about or makes for a berth while the lines hold, whatever her telegraph says. When they are let go, a ship with her anchor up and a speed rung sails on.
+- **Both ships are held fast.** Neither moves, comes about or makes for a berth while the lines hold, whatever her telegraph says. When they are let go, a ship with her anchor up and a speed rung sails on.
 - **Boarding lines** lie across the gap. Walk over them to board her, or to be boarded. Whoever stands on a line when it parts goes into the water.
 - The ship that threw the lines chooses **Cast off the grapple** at her helm and is free at once.
 - The ship that was caught chooses **Cut the grapple** at her helm, or anyone clicks one of the boarding lines with an empty hand. Cutting takes five seconds.
