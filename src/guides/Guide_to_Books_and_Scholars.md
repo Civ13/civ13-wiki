@@ -46,7 +46,7 @@ A **research bench** costs 8 soft wood. Benches belong to nobody: anyone can use
 
 1. Put a book on the bench, click a subject in the bench window and press **Research this here**. The research is written into that book. Take the book away and the unfinished work goes with it.
 2. Stay beside the bench. It only makes progress while someone within one tile knows every prerequisite of the subject and holds a writing tool (see [The scholar's trade](#the-scholars-trade)).
-3. Speed it up by using **samples** on the bench: existing examples of things the subject unlocks. Capstones also need their **prototype** before the chapter is finished.
+3. Speed it up by using **samples** on the bench: existing examples of things the subject unlocks. Capstones also need their **prototype** before the chapter is finished, or from Steam Power on a [demonstration](#demonstrations).
 4. When the research is done, the chapter is written into the book. **It teaches nobody**, not even the researcher. Whoever wants it still has to study it.
 
 The first time anyone finishes a capstone chapter, the whole world moves into the next age.
@@ -96,6 +96,24 @@ Most late subjects list one or two pieces of **field work** in their details. Do
 | Harvesting crops | Soil Science, Crop Breeding |
 
 Your experience stays with your character, but it does not come with you when you travel to another region.
+
+### Demonstrations
+
+The ages from Steam Power on don't advance when you hand a part to the bench. Their chapters need a **demonstration**: the machine running in the world, watched by someone who writes down what they see. Bench study is still needed as well.
+
+| Subject | Demonstration |
+| --- | --- |
+| Steam Power | A steam engine kept running for a minute |
+| Electricity | An electric lamp lit from an engine or generator for a minute |
+| Nuclear Power | A reactor producing power, below overheating, for three minutes |
+| Digital Computing | A computerized fabricator kept running for a minute |
+| Digital Networks | A mobile phone call kept connected through a cell tower for a minute |
+
+1. Hold a sheet of paper or parchment, or a book, with a pen or pencil in your other hand. You need light, and you must know everything the subject builds on.
+2. Use **Record a Demonstration** (Object tab) while the machine is running within three tiles. Stay close and keep it running until your notes are done.
+3. Notes on paper become **demonstration notes**. Use them on a bench that is researching the subject, with its book on the bench. A book you recorded in holds the demonstration already.
+
+The machine usually needs the very chapter it proves. If you carry a book holding at least half of the chapter, you can build a crude **experimental** version of the machine from the usual recipe. Experimental machines can fail during a demonstration (a steam engine can burst and scald anyone next to it) and fall apart after about twenty minutes.
 
 ### Knowing a subject
 
