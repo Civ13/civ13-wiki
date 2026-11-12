@@ -19,6 +19,14 @@ Weather comes as storms that travel across the land with the wind. Rain, snow or
 - **Lightning and thunder.** Heavy rain storms bring lightning. You see the sky flash and hear the thunder a moment later, later the further away it struck. Lightning does not hurt you or start fires.
 - **Wind** rises under a storm and can blow an open umbrella inside out. The wind shifts by a quarter turn at a time and never swings right round at once.
 
+**Reading the weather ahead.** Three things tell you what is coming before the sky does:
+
+- A **weather vane** (6 soft wood, Primitive Construction) stands on the ground outdoors and swings to point into the wind. Examine it to learn where the wind is from, how strong it is, and whether the sky upwind is dark. It does nothing under a roof.
+- A **barometer** (8 iron, Optics & Instruments) fits in a pocket. Use it in your hand: a steady needle means no change for a quarter of an hour, a falling needle means weather is on its way and tells you in how many minutes, and a needle dropping fast means a severe storm. Under a storm it tells you how long until it passes.
+- The **farmer's almanac** has an Outlook line with the same forecast.
+
+A forecast supposes the wind holds. If the wind shifts, the storm can turn away, or toward you.
+
 Roofs keep all of it off. Rain barrels fill, crops are watered and fires are doused only where the rain is actually falling.
 
 ## Rain and wet clothes

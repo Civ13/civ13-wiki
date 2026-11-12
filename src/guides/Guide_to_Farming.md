@@ -270,7 +270,7 @@ Sunflower and linseed oil fuel lanterns, oil lamps and torches like the other pl
 
 ## Farmer's almanac
 
-Skilled farmers (high Farming skill, with Basic Agriculture researched) can craft a **farmer's almanac** from 12 soft wood. Reading it describes the local climate's seasonal weather and which seeds will thrive there, which helps when you settle somewhere new.
+Skilled farmers (high Farming skill, with Basic Agriculture researched) can craft a **farmer's almanac** from 12 soft wood. Reading it describes the local climate's seasonal weather and which seeds will thrive there, which helps when you settle somewhere new. Its Sky and Outlook lines give the weather over the spot where you stand and whether a storm is on its way.
 
 ## Crop catalogue
 **The table is sortable - click the headers to sort the column's contents.**
