@@ -1108,19 +1108,26 @@ Hit the workshop or any part of the car in the bay with the stack the next piece
 
 #### Trucks, carriers and tanks
 
-The workshop also builds five heavier vehicles. They are too big for the press to stamp out in one go, so they are only built **piece by piece**, the same way as a car: choose **Start a MODEL piece by piece** and bring each piece in turn. The cargo truck needs only the workshop's own research. The other four also need **Mechanized Warfare** before the project can start.
+The workshop also builds ten heavier or military vehicles. They are only built **piece by piece**, the same way as a car: choose **Start a MODEL piece by piece** and bring each piece in turn. The scout car, field car and cargo truck need only the workshop's own research. The main battle tank needs **Modern Armor**, and the rest need **Mechanized Warfare**, before the project can start.
 
 | Model | Size | Chassis and bodywork (4 pieces, each) | Running gear | Engine | Windows | Seats | Turret and gun | Total steel |
 | --- | --- | ---: | --- | --- | ---: | ---: | ---: | ---: |
+| Scout car | 2x3 | 10 steel | 4 wheels | 10 steel, 10 cable | 4 glass | 4 cloth | - | 50 |
+| Field car | 2x3 | 18 steel | 4 wheels | 18 steel, 10 cable | 6 glass | 4 cloth | - | 90 |
 | Cargo truck | 2x4 | 16 steel | 4 wheels | 16 steel, 10 cable | 8 glass | 6 cloth | - | 80 |
 | Armoured car | 2x3 | 24 steel | 4 wheels | 24 steel, 10 cable | - | 4 cloth | - | 120 |
+| Tankette | 2x3 | 28 steel | 4 tank tracks | 28 steel, 10 cable | - | 4 cloth | - | 140 |
 | Tracked carrier | 3x4 | 36 steel | 4 tank tracks | 36 steel, 12 cable | - | 6 cloth | - | 180 |
 | Light tank | 2x4 | 30 steel | 4 tank tracks | 30 steel, 12 cable | - | 4 cloth | 70 steel | 220 |
 | Medium tank | 3x4 | 46 steel | 4 tank tracks | 46 steel, 14 cable | - | 6 cloth | 70 steel | 300 |
+| Heavy tank | 3x4 | 62 steel | 4 tank tracks | 62 steel, 14 cable | - | 6 cloth | 70 steel | 380 |
+| Main battle tank | 3x4 | 78 steel | 4 tank tracks | 78 steel, 16 cable | - | 6 cloth | 70 steel | 460 |
 
 Tracked models take **tank tracks** in place of wheels: craft them from steel in the vehicle parts category and drag each one onto the workshop or the vehicle. A rubber wheel will not do for a track. The turret and gun are the last piece of a tank.
 
 Like cars, they roll out with a key and an **empty fuel tank**. Shell racks come empty and no machine guns, ammunition or supplies are included, so bring your own shells and fuel before you take a tank out.
+
+A tank's turret is the same **tank turret** players craft, already fitted with a tank cannon and a gunner's and a loader's seat. Every vehicle in this table counts as hand-built, so its owners can click the axis to pick a **Turret style**, **Fit new parts** such as a commander's seat stood on the turret's tile, or **Take it apart** and rebuild it, as described under [Modular tanks](#modular-tanks).
 
 ### Vehicle garage
 
