@@ -320,6 +320,7 @@ Click the tiller to sail:
 | **Make for a berth** | Slides her alongside a mooring post within 20 tiles |
 | **Hail a ship** | Calls across to a ship her lookout sees (see [Hails and running dark](#hails-and-running-dark)) |
 | **Run dark / Show her lights** | Hides her name from other ships, at slow ahead only |
+| **Grapple a ship** | Throws lines at a ship within 3 tiles and holds both fast (see [Grappling and boarding](#grappling-and-boarding)) |
 | **Ship's papers** | Register her so nobody can sail her away while you are gone (see [Ship's papers](Guide_to_Aircraft_Carriers.md#ships-papers)) |
 | **Refit the hull** | At anchor: surveys the hull again after you added or cut away floors |
 | **Strike the hull** | She stops being a ship; the floors stay where they are |
@@ -372,6 +373,19 @@ A moored ship holds the berth until she next moves: weigh anchor and sail and sh
 - she makes **slow ahead at most**, and a slipway ship or carrier puts out her deck lights.
 
 Lamps you set on a hull you built are yours to put out. Choose **Show her lights** to be known and fast again. Running dark is an order like setting a speed, so on a registered ship it answers only to her crew. It ends at a server restart.
+
+### Grappling and boarding
+
+Bring your ship alongside another so that **3 tiles of open water or less** lie in a straight line between the two hulls, then choose **Grapple a ship** at the wheel or tiller and pick her.
+
+- **Both ships are held fast.** Neither hops, comes about or makes for a berth while the lines hold, whatever her telegraph says. When they are let go, a ship with her anchor up and a speed rung sails on.
+- **Boarding lines** lie across the gap. Walk over them to board her, or to be boarded. Whoever stands on a line when it parts goes into the water.
+- The ship that threw the lines chooses **Cast off the grapple** at her helm and is free at once.
+- The ship that was caught chooses **Cut the grapple** at her helm, or anyone clicks one of the boarding lines with an empty hand. Cutting takes five seconds.
+- A line that is destroyed parts the ships, and so does striking or sinking either of them.
+- After her lines are let go a ship needs **one minute** to coil them before she can grapple again.
+
+A ship takes one set of lines at a time. Grappling is an order like setting a speed, so on a registered ship it answers only to her crew, but anyone can cut a line they can reach. The lines do not last through a server restart.
 
 ## Sailing and the wind
 
