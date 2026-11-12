@@ -40,9 +40,24 @@ The small sail is in the cloth (or wool) crafting menu, not in vehicle parts. En
 
 - Boats only move onto **water**: shallow or deep water, swamp water and flooded trenches. Ice and dry land stop them.
 - You **can't craft while standing in deep water**, so build at the shoreline or in the shallows, facing open water.
-- **Rivers flow** on Gaia, Europe, Jungle and Asia. Every few seconds the current carries loose items and swimmers one tile downstream, but not boats or anyone aboard one. Animal carcasses stay where they fell, so you can butcher a kill in the shallows. Lakes, ponds and the sea are still. Examine the water to see which way it runs.
+- **Rivers flow** on Gaia, Europe, Jungle and Asia. Every few seconds the current carries loose items and swimmers one tile downstream, but not boats or anyone aboard one. Animal carcasses stay where they fell, so you can butcher a kill in the shallows. Lakes and ponds are still. Faint streaks slide along flowing water to show which way it runs, and examining the water tells you too.
+- **The sea has currents** on Gaia, Europe and Asia. A belt of water a few tiles off the coast flows along the shore. See [Sea currents and swimming](#sea-currents-and-swimming).
 - Rafts and finished boats can't be pushed or pulled, so build them where you mean to launch them.
 - A flooded trench is navigable. Dig a channel from a lake or the sea to a sheltered building spot, or around a ship to give it room to turn.
+
+## Sea currents and swimming
+
+**Currents.** From about 4 to 16 tiles off the coast the sea flows along the shore, round bays and islands. The water right by the beach and the open sea further out are still. Faint streaks on the water show the direction, and examining the water says which way the current sets. Every few seconds the current carries loose items, swimmers and **empty rafts** one tile along the coast. It never pushes anything ashore, so to get out of it head for the beach or straight out to sea. A raft with anyone or anything aboard stays put, and so do boats and ships. Pull an empty raft into the shallows if you want to find it again. Nothing drifts on sea ice.
+
+**Swimming.** On the open-world maps you can walk out of your depth and swim in deep water. Swimming is tiring:
+
+- In calm water you can swim for about 50 seconds. In rain a little less, and in a storm about half as long.
+- You are warned when you are getting tired and again when you are nearly spent. If you are still in deep water after that you go under and start to drown.
+- Standing in the shallows, on land, or on a deck or raft gets your strength back in under half a minute.
+- A **lifejacket** keeps you afloat for as long as you like.
+- Anyone unconscious in deep water drowns straight away, so pull the wounded out.
+
+Deep water is slow to cross, so that is not far. Swim to a nearby boat or across a channel, not across the sea. On battle maps deep water can't be entered at all.
 
 ## Raft
 

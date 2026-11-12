@@ -8,6 +8,19 @@ Rain and immersion make you wet, weakening clothing insulation and increasing co
 
 Complete coverage buys time but does not make you immune to cold. A dangerously cold body takes harm even when fully covered. Seek warmth before exposure becomes severe, and account for other injuries and hunger.
 
+## Storms
+
+Weather comes as storms that travel across the land with the wind. Rain, snow or blowing sand falls only under the storm, so one valley can be soaked while the next is dry, and you can walk out from under a storm or wait for it to pass.
+
+- **Seeing one coming.** If a storm is heading your way while you are outdoors, you are told which direction it is coming from. The cloud's shadow darkens the ground a little before the rain reaches you.
+- **What falls** depends on the land. The same storm rains on temperate ground, snows on the tundra and raises sand in the desert. It is light at the edge and heaviest in the middle.
+- **Severe storms** have a core of extreme weather: a blizzard in cold lands, a monsoon in the jungle, a sandstorm in the desert. Get under a roof before the core arrives. Blizzards and sandstorms pass on with the storm.
+- **Heat waves** settle over a place for a while and move on. You get thirstier, crops need more water and there is no dew. You are told when one arrives and when it has passed.
+- **Lightning and thunder.** Heavy rain storms bring lightning. You see the sky flash and hear the thunder a moment later, later the further away it struck. Lightning does not hurt you or start fires.
+- **Wind** rises under a storm and can blow an open umbrella inside out. The wind shifts by a quarter turn at a time and never swings right round at once.
+
+Roofs keep all of it off. Rain barrels fill, crops are watered and fires are doused only where the rain is actually falling.
+
 ## Rain and wet clothes
 
 Standing in the open during rain slowly soaks you, faster in heavy rain or a monsoon. Being indoors, under a pitched canopy or under a lean-to keeps the rain off entirely. Wet clothing insulates less, and on settlement maps soaked clothes also slow you down.
