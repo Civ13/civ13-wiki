@@ -257,6 +257,17 @@ Several crops are steeped into teas. Hold the herb and click an open container (
 
 Wild yarrow, comfrey, elderflower and milk thistle can be picked for remedies too; see the [Guide to Medical](Guide_to_Medical.md#stimulants-pain-relievers-and-cleansing-agents).
 
+### Mortar and pestle
+
+Once your group knows **Herbalism**, you can craft a stone **mortar and pestle** from 2 stone (kitchen category). Hold an ingredient and click the mortar to grind it, then pour the result out like any other container:
+
+- **Wheat, oat or barley**: 5 units of flour each, half of what a mill gives, so you can bake before you have a mill.
+- **Shelled sunflower seeds**: 5 units of sunflower oil.
+- **Flax seeds**: 2 units of linseed oil per seed.
+- **Olives**: 6 units of olive oil.
+
+Sunflower and linseed oil fuel lanterns, oil lamps and torches like the other plant oils.
+
 ## Farmer's almanac
 
 Skilled farmers (high Farming skill, with Basic Agriculture researched) can craft a **farmer's almanac** from 12 soft wood. Reading it describes the local climate's seasonal weather and which seeds will thrive there, which helps when you settle somewhere new.
