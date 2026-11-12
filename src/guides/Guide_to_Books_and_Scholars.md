@@ -11,6 +11,7 @@ This applies to persistent worlds such as [Gaia](../maps/Gaia.md) and the region
 - [Getting started](#getting-started)
 - [Studying](#studying)
 - [Research benches](#research-benches)
+- [Late research](#late-research)
 - [Writing and copying books](#writing-and-copying-books)
 - [Scholarship](#scholarship)
 - [Practice](#practice)
@@ -66,6 +67,73 @@ Nobody forgets anything when an age is lost. Anyone who still knows the lost cap
 - The buttons in the details do the work in one click: **Study this chapter**, **Research this here**, **Add to queue**, **Copy into the other book** and **Write it from memory**. In the list view each row has its own **Study** or **Write** button.
 - **Queue** up to 12 subjects. When one is finished the bench starts the next one that is ready.
 
+## Late research
+
+From era 5 on (the ages after the Industrial Age), research is more than waiting at a bench. Bench study alone still finishes any subject, and late subjects are studied at the bench 50% faster than their listed time, but the quickest way through is to go out and use what you are studying.
+
+### Field work
+
+Most late subjects list one or two pieces of **field work** in their details. Do the work anywhere, then stand at a bench that is researching the subject: your experience is written into the book as a share of the subject, usually between a fifth and a half. Each book takes each piece of field work once, and the bench window shows how far along you are.
+
+| Field work | Counts towards |
+| --- | --- |
+| Firing firearms | Cartridge Firearms, Self-Loading Firearms, Automatic Weapons, Mechanized Warfare, Missiles, Modern Armor, Infantry Support Weapons, Guided Missiles |
+| Flying an aircraft as its pilot | Aviation & Rocketry, Naval Aviation, Missiles, Rocketry, Crewed Flight, Pressure Suits, Drones |
+| Completing surgery steps | Anesthetic Surgery, Modern Medicine, Emergency Medicine |
+| Diagnosing sick patients with a doctor's handbook | Pharmacology, Germ Theory, Public Health, Emergency Medicine |
+| Running syntheses at a reaction bench | Pharmacology, Synthetic Fabrics, Modern Medicine, Life Support, Local Resources |
+| Analysing survey samples at a mission console | Planetary Survey and the space subjects after it |
+| Harvesting crops | Soil Science, Crop Breeding |
+
+Your experience stays with your character, but it does not come with you when you travel to another region.
+
+### Knowing a subject
+
+Some late subjects do more than unlock recipes. Once you have **studied** the chapter, you carry its benefit yourself; the details of each subject show it under **Knowing it**.
+
+| Subject | What knowing it does |
+| --- | --- |
+| Alloys | Metal tools and weapons you forge last 30% longer. |
+| Advanced Agriculture | Your harvests give 25% more crop and seed. |
+| Anesthetic Surgery | Each surgery step you perform is 15% more likely to succeed. |
+| Modern Medicine | You finish each surgery step a quarter faster. |
+| Public Health | You are half as likely to catch an illness from people nearby or from poor hygiene. |
+| Aviation & Rocketry | Aircraft you pilot burn a quarter less fuel in the air. |
+| Soil Science | Your harvests leave the soil richer, so the same plot can be sown again sooner. |
+| Crop Breeding | Your harvests give a further 25% more crop and seed. |
+
+### Big science
+
+Five of the largest subjects are meant for a team. Each wants a **second scholar** of another discipline standing at the bench, and a **facility** within three tiles of it.
+
+| Subject | Second scholar | Facility |
+| --- | --- | --- |
+| Nuclear Power | Engineering | A reaction bench |
+| Digital Computing | Engineering | A foundry workbench |
+| Rocketry | Engineering | A foundry workbench |
+| Orbital Flight | Natural Science | A launch rail |
+| Modern Medicine | Natural Science | An operating table |
+
+The second scholar needs half the level that leading a subject of that age in their discipline would take. A lone scholar can still finish: without the second scholar the work runs at a quarter speed, and without the facility at half speed. On every other late subject, a second scholar who could research it too makes the work 25% faster.
+
+### Rushing
+
+**Rush the work** in the bench window (**Work carefully** turns it off again) makes a late subject go 50% faster, with a small chance of an accident each time the bench makes progress. An accident undoes a little of the work and hurts: radiation for Nuclear Power, a blast for science and military subjects, poisoning for medicine and farming, a crushed hand for engineering, or just a mistake to throw out. The further your skill is above what the subject needs, the rarer accidents are. Careful work is the default and never has accidents.
+
+### Later subjects
+
+Health, Agriculture and Military carry on past the subjects listed in the [node reference](Guide_to_Research.md#full-node-reference):
+
+| Subject | Era | Needs | Gives |
+| --- | --- | --- | --- |
+| Soil Science | 7 | Hydroponics | Richer soil after your harvests |
+| Infantry Support Weapons | 7 | Field Artillery, Automatic Weapons | Foldable mortar, mortar shells and smoke shells (steel) |
+| Emergency Medicine | 8 | Modern Medicine, Anesthetic Surgery | Defibrillator and power cells (electronics), autoinjectors and body bags (plastic) |
+| Crop Breeding | 8 | Soil Science | Bigger harvests |
+| Guided Missiles | 8 | Missiles, Infantry Support Weapons | Foldable anti-tank guided missile system and its HEAT and HE missiles (steel) |
+
+A crafted autoinjector is empty: fill it from a container like a syringe. It injects its whole dose in a second and works once.
+
 ## Writing and copying books
 
 Books are ordinary items. They can be traded, lent, hidden, stolen or carried to another region, and they also still work as journals.
@@ -78,6 +146,16 @@ Books are ordinary items. They can be traded, lent, hidden, stolen or carried to
 | **Rip out a page** | Hold the book, click the chapter in its window and press **Tear this chapter out**. A chapter becomes a loose page that can be studied on its own. | 2 seconds |
 | **Bind a page back in** | Use the loose page on a book. | 30 seconds |
 | **Print a book** | Put the book in a printing press as the original and a blank book as the copy, then use the press. It prints the pages, title and every finished chapter, using one sheet of printing paper per chapter. Load printing paper by using blank paper, papyrus, parchment, a paper bundle or a paper bin on the press. Unfinished research isn't printed. | 25 seconds |
+
+### Ciphers
+
+A scholar who knows **Printing Press** can lock a research book. Use a pen on the book, choose **Cipher** and set a key word. It takes 30 seconds.
+
+- Nobody can study from an enciphered book, copy its chapters or tear pages out of it without the key.
+- Tell the key word to anyone you trust. They use a pen on the book, choose **Cipher** and enter it once; after that the book stays open to them. The same menu lets a reader remove the cipher.
+- The cipher is as strong as its writer's Basic Mathematics: strength 1 with no training, one more for every 20 levels, up to 6.
+- A scholar with at least 12 levels of Basic Mathematics and a pen can **break** a cipher without the key, in 30 second sittings. A strength 1 cipher takes about two minutes for an equal; stronger ciphers and better writers take longer, up to three times as long, and a much better code-breaker takes as little as half. Progress is kept with the book, so you can come back to it.
+- A printing press copies the cipher along with the book. An enciphered book still counts as a written record of its age.
 
 Recipe manuals and recipe compendiums take written notes too: use the book and choose **Read the notes** or study as usual. Binding manuals together keeps their notes. Research chapters only go into ordinary books, and a manual with notes in it can't be carried to another region.
 
