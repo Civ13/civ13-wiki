@@ -4,10 +4,37 @@
 
 Cover exposed body parts and wear a coat over ordinary clothing. Overlapping layers add insulation, while shorts and loincloths protect only the parts they cover. Ordinary clothing's cold rating is **240 K**, about **-33 C**; it stops insulating below that temperature. Choose suitable cold-weather equipment for extreme climates.
 
-Rain and immersion make you wet, weakening clothing insulation and increasing cooling. Move into dry shelter to avoid further soaking. Standing under a pitched canopy keeps the rain off and blocks the wind, so in cold weather it feels up to 5 C warmer, though never warmer than 15 C. A nearby lit brazier, campfire, iron furnace or fireplace provides warmth. Warmth dries you faster and helps recovery from hypothermia; shelter alone can still be cold.
+Rain and immersion make you wet, weakening clothing insulation and increasing cooling. See [Rain and wet clothes](#rain-and-wet-clothes) for gear that keeps you dry. Standing under a pitched canopy or a lean-to keeps the rain off and blocks the wind, so in cold weather it feels up to 5 C warmer, though never warmer than 15 C. A nearby lit brazier, campfire, iron furnace or fireplace provides warmth. Warmth dries you faster and helps recovery from hypothermia; shelter alone can still be cold.
 
 Complete coverage buys time but does not make you immune to cold. A dangerously cold body takes harm even when fully covered. Seek warmth before exposure becomes severe, and account for other injuries and hunger.
 
+## Rain and wet clothes
+
+Standing in the open during rain slowly soaks you, faster in heavy rain or a monsoon. Being indoors, under a pitched canopy or under a lean-to keeps the rain off entirely. Wet clothing insulates less, and on settlement maps soaked clothes also slow you down.
+
+**Rain gear.** Your coat or cape, your hat and any cape fastened over your clothes each keep off part of the rain, and they stack. Ordinary clothes help a little; dedicated gear helps a lot. No combination keeps you perfectly dry forever.
+
+| Gear | Made from | Research | Keeps off |
+| --- | --- | --- | --- |
+| Lean-to (shelter) | wood | Primitive Construction | all rain while you are under it |
+| Straw rain cape | leaves | Weaving | 70% |
+| Oiled paper umbrella | bamboo | Papermaking | 70% while open |
+| Sou'wester (hat) | cloth | Haberdashery | 50% |
+| Oilskin coat | cloth | Textile Mills | 85% |
+| Black umbrella | cloth | Textile Mills | 80% while open |
+| Folding umbrella | plastic | Synthetic Fabrics | 85% while open |
+
+Fur coats, ponchos, capes and straw hats also shed some rain. Examine a garment to see how well it keeps rain out.
+
+**Umbrellas.** Use an umbrella in hand to open or close it. Held open in either hand, it keeps most rain off, and in hot sun it gives shade that makes the heat a few degrees easier to bear. A gale can blow an open umbrella inside out; use it in hand to bend it back.
+
+**Greasing clothes.** Use a container holding at least 5 units of lard, olive oil or corn oil on a coat, hat or cape to rub the grease in. Lard makes it shed 60% of the rain, and plant oil 45%, until enough rain has washed the grease out.
+
+**Capes over clothing.** Use a cape, such as the straw rain cape or a red or blue cape, on your uniform, coat or armor to fasten it over that piece. A fastened cape adds its rain protection and warmth. Remove it with the Remove Accessory verb to get the same cape back. A coat or suit of armor holds one cape.
+
+**Drying off.** Out of the rain you dry slowly in the cold and faster in warm air. Standing within two tiles of a lit fire dries you about three times faster. The **Wring Out Clothes** verb (IC tab) takes a few seconds and leaves soaked clothes only damp. It does nothing while you are still standing in water.
+
+**Heavy armor.** Plate armor and heavy body armor slow you down. Each ballistic plate slid into a plate carrier adds a little more weight.
 ## Footwear for the ground and weather
 
 What is on your feet changes how fast you cross snow, mud and water, and how well you keep your footing. Examine a pair of shoes to see what it is good for.
