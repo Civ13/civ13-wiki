@@ -152,3 +152,27 @@ A vehicle that will not move by itself, with no fuel, a dead engine or a broken 
 
 Examining either vehicle tells you what it tows or what tows it. Boats tow boats the same way; aircraft cannot be towed.
 
+### Vehicle papers
+
+A vehicle nobody has registered drives for anyone who sits in it. To make a tank, truck or car yours, **right-click the driver's seat** and choose **Vehicle Papers**.
+
+| Entry | What it does |
+| --- | --- |
+| **Register it to your faction** | The vehicle is yours and you are its **commander**. Without a faction it is registered to you alone |
+| **Sign on crew** | Add someone standing near the seat as **commander**, **driver**, **mechanic**, **gunner** or **crewman** |
+| **Change a role or strike off** | Change a crew member's role or remove them |
+| **Bar someone** / **Lift a bar** | A barred person leaves the crew and cannot ask to join |
+| **Who may join** | Anyone may sign on, new crew must ask, or no new crew |
+| **Write the memo** | A note every member of the crew can read in the papers |
+| **Name the vehicle** | Give it a name of its own |
+| **Our vehicles** | Lists every registered vehicle of your faction: how far, which way, whether it is rolling and who is driving |
+| **Give up the vehicle** | Strike it from the register. Anyone may then drive or register it |
+
+Who may drive a registered vehicle:
+
+- **Members of the owning faction**, and listed crew who are **commander** or **driver**, drive as usual.
+- **Anyone else** is asked whether to **force the controls**. It takes about 15 seconds and everyone aboard is warned. This only works while one of the owners is in the world.
+- With **no owner about**, the controls are locked.
+
+Slowing down and stopping are never locked. A vehicle that needs a **key** still needs it; the papers are a second lock, not a replacement. Examine the driver's seat to see who a vehicle belongs to. Modular boats and aircraft have the same papers at their driver's seat.
+
