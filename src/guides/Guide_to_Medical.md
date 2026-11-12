@@ -278,6 +278,20 @@ click an open container with at least 10 units of water to steep it
 into a bitter willow bark tea that works the same way. Too much upsets
 the stomach.
 
+**Wild herbs:** Yarrow, comfrey, elderflower and milk thistle grow wild
+on open grass. Pick a sprig by hand (help intent); each plant gives three
+sprigs, grows them back over time, and has nothing to pick in winter.
+
+  - **Yarrow** (temperate, taiga and semi-arid lands): press it into a
+    wound like a bandage to slow the bleeding.
+  - **Comfrey** (temperate lands): spread it over bruises like a salve.
+    It is not for eating.
+  - **Elderflower** (temperate and taiga lands): hold it and click an open
+    container with at least 10 units of water to steep a tea that helps
+    fight flu and brings a fever down.
+  - **Milk thistle** (temperate and semi-arid lands): steep it the same
+    way for a bitter tea that slowly clears poisons from the body.
+
 **Aspirin:** A refined, stronger form of willow bark. It eases pain and
 helps fight flu fever. Chemists can make it from willow bark (see the
 Guide to Chemistry), and tablet presses turn it into aspirin tablets.
@@ -392,7 +406,8 @@ Just a normal flu.
     blurred vision, blackouts, and fever.
   - Manageable by eating and drinking until full, and resting (buckling
     to a bed).
-  - Tea, willow bark tea or aspirin help bring the fever down.
+  - Tea, willow bark tea, elderflower tea or aspirin help bring the
+    fever down.
   - You might get immunity after surviving it.
 
 #### Typhus
