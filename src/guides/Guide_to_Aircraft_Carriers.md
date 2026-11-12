@@ -31,7 +31,8 @@ The ship moves in **hops**: every 30 seconds it shifts along its heading by 2 ti
 
 | Choice | What it does |
 | --- | --- |
-| **Chart** | Position, heading, telegraph, anchor, fuel and hops left, what lies up to 12 tiles ahead of the bow, and why the ship last stopped |
+| **Chart** | Position, heading, telegraph, anchor, fuel and hops left, what lies up to 12 tiles ahead of the bow, and why the ship last stopped; then the [sea chart](Guide_to_Boats.md#harbours-and-the-sea-chart) with nearby ships and every harbour |
+| **Make for a berth** | Slides her alongside a [mooring post](Guide_to_Boats.md#harbours-and-the-sea-chart) within 20 tiles |
 | **Ship's papers** | The crew register: who owns the ship and who may take the wheel (see [Ship's papers](#ships-papers)) |
 | **Full / Half / Slow ahead**, **All stop** | Ring down a speed; the ship sails only with the anchor up and fuel in the bunkers |
 | **Head north / east / south / west** | Come about on the spot; the ship turns about its centre and needs clear sea for the new box. The water she will swing over is marked in yellow and she turns five seconds later. Everything aboard turns with her: guns, chairs, loose cargo and the crew keep facing the same way relative to the bow |

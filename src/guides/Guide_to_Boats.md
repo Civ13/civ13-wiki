@@ -316,6 +316,8 @@ Click the tiller to sail:
 | **Weigh anchor / Drop anchor** | A new hull lies at anchor and never moves until it is weighed |
 | **Slow ahead**, **Half ahead**, **Full ahead**, **All stop** | Under way she moves along her heading every 30 seconds with every floor, wall, crate and person aboard: **2 tiles** at slow ahead, **4** at half, **6** at full. Half ahead needs sails or an engine, full ahead needs engines (below) |
 | **Head north / east / south / west** | She comes about around the tiller five seconds later; everything aboard turns with her |
+| **Sea chart** | Where she is, the ships her lookout sees and every harbour on this sea (see [Harbours and the sea chart](#harbours-and-the-sea-chart)) |
+| **Make for a berth** | Slides her alongside a mooring post within 20 tiles |
 | **Ship's papers** | Register her so nobody can sail her away while you are gone (see [Ship's papers](Guide_to_Aircraft_Carriers.md#ships-papers)) |
 | **Refit the hull** | At anchor: surveys the hull again after you added or cut away floors |
 | **Strike the hull** | She stops being a ship; the floors stay where they are |
@@ -328,6 +330,32 @@ Click the tiller to sail:
 - Build what you like aboard: walls, a cabin, crates, cannon. Anything standing on her floors rides along at once. New floors that widen the hull join her when you **refit**.
 - Once commissioned she can sail onto deep salt water. If you strike her out there, the floors are plain planks again and will not last on the deep sea.
 - If the tiller is destroyed she is a raft of planks again. Set a new tiller and commission her.
+
+## Harbours and the sea chart
+
+Slipway ships, the aircraft carrier and hulls you built yourself share one sea chart and can lie moored at a harbour.
+
+**The sea chart.** Choose **Chart** at a ship's wheel or **Sea chart** at a tiller. The sea is divided into squares of 10 tiles, lettered across and numbered up, so "E3" is the fifth square from the west and the third from the south. The chart shows:
+
+- the square and position your ship lies in, and the harbour she is moored at;
+- every other ship within **40 tiles** of her: distance, bearing, square, where her bow points and whether she is under way, stopped or moored;
+- every **harbour** on that sea, however far, and whether its berth would take your ship.
+
+**Building a harbour.** Craft a **mooring post** (6 wood, vehicle parts, the same research as boats) and set it at the water's edge, on the shore or at the end of a pier, with open water on one side. Click the post to:
+
+| Choice | What it does |
+| --- | --- |
+| **Claim the berth** | The post belongs to your faction. An unclaimed post takes any ship |
+| **Name the harbour** | The name ships read on their charts |
+| **Welcome only our ships / our guests / every ship** | Who may berth. A ship counts as yours when she is registered to your faction in her [ship's papers](Guide_to_Aircraft_Carriers.md#ships-papers) |
+| **Add a guest / Strike a guest** | A guest faction is picked from the registered ships lying within 20 tiles of the post |
+| **Give up the berth** | Anyone may claim it again |
+
+One post takes one ship, up to 40 tiles long and 12 across. Set several posts well apart for a bigger harbour.
+
+**Berthing.** Bring the ship within **20 tiles** of the post and choose **Make for a berth** at the wheel or tiller. If the post will have her, the water she is about to lie in is **marked in yellow for ten seconds**, then she slides in along the shore with her middle abreast of the post, stops and drops anchor. If not, you are told why: too far, not welcome, promised to another ship, taken, or something in the way.
+
+A moored ship holds the berth until she next moves: weigh anchor and sail and she has cast off. After a server restart she lies at anchor beside the post; make for the berth again to moor her.
 
 ## Sailing and the wind
 
