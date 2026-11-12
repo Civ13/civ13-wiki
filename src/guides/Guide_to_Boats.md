@@ -372,6 +372,7 @@ Slipway ships, the aircraft carrier and hulls you built yourself share one sea c
 
 - the square and position your ship lies in, and the harbour she is moored at;
 - every other ship within **40 tiles** of her: distance, bearing, square, where her bow points and whether she is under way, stopped or moored;
+- **boats and aircraft in sight**: modular boats on the water and aircraft flying over within the same lookout range, with distance, bearing and heading. One registered in its [vehicle papers](Guide_to_Tanks.md#vehicle-papers) goes by its name, marked "(ours)" when it is your faction's;
 - every **harbour** on that sea, however far, and whether its berth would take your ship.
 
 **Weather and night.** The lookout sees 40 tiles in clear weather. **Rain or snow** cuts that to 30, **smog** to 20 and a **storm** to 15, and the chart tells you so. What counts is the worse weather of the two ships, so a ship lying in a storm is as hard to see as it is for her to see out. You can only hail a ship your lookout sees. By **night** a ship [running dark](#hails-and-running-dark) is made out only within **10 tiles**, while she still sees every ship that shows lights. The carrier's radar sees through weather and darkness.
