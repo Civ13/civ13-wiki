@@ -468,6 +468,8 @@ A moored ship holds the berth until she next moves: weigh anchor and sail and sh
 
 Every mooring post is also a **freight board**: one faction pays another to carry a crate to a different harbour. Click the post and choose **Freight**.
 
+On land, a [freight depot](Guide_to_Tanks.md#freight-depots) is the same kind of board for registered vehicles, and a crate can be bound from a harbour to a depot or back.
+
 **Offering a contract.**
 
 1. Fill a **crate**, close it and stand it within **2 tiles** of the post.
