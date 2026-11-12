@@ -43,6 +43,15 @@ To farm, you will require some basic tools.
 </tr>
 <tr>
 <td>
+<img src="../images/Digging_stick.png">
+</td>
+<td>
+<b>Digging stick</b>
+</td>
+<td>A pointed, fire-hardened stick weighted with a stone, made from 2 wood once you know Basic Toolmaking (Stone and Bronze Ages). It works the ground just like a plough, at half the speed, so you can start a farm before you have Basic Agriculture. It can't be hitched to cattle.</td>
+</tr>
+<tr>
+<td>
 <img src="../images/trench_shovel.png">
 </td>
 <td>

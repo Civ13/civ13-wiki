@@ -100,7 +100,73 @@
 <td>Yes</td>
 <td>Arrows</td>
 </tr>
+<tr>
+<td>Stone-headed club</td>
+<td>
+<img src="../images/Stone_headed_club.png">
+</td>
+<td>A wooden handle with a heavy stone lashed to the end. Made from <b>3 stone</b>. It hits harder than a wood club and sometimes knocks people down, but it swings slowly.</td>
+<td>5000 B.C. - 313 B.C.</td>
+<td>Yes</td>
+<td></td>
+</tr>
+<tr>
+<td>Javelin</td>
+<td>
+<img src="../images/Javelin.png">
+</td>
+<td>A light wooden throwing spear with a fire-hardened point, made from <b>2 wood</b>. Throw it, or jab with it up close. It is weaker than a pilum.</td>
+<td>5000 B.C. - 313 B.C.</td>
+<td>Yes</td>
+<td></td>
+</tr>
+<tr>
+<td>Bone harpoon</td>
+<td>
+<img src="../images/Bone_harpoon.png">
+</td>
+<td>A barbed bone point on a shaft, made from <b>4 bone</b>. Throw it, or use it on a fishing spot to <a href="Guide_to_Fishing.md#equipment">spear fish</a>.</td>
+<td>5000 B.C. - 313 B.C.</td>
+<td>Yes</td>
+<td></td>
+</tr>
+<tr>
+<td>Bola</td>
+<td>
+<img src="../images/Bola.png">
+</td>
+<td>Three stones on cords, made from <b>2 leather</b> or <b>2 rope</b>. Throw it at someone and it tangles their legs: they cannot run until they <b>Resist</b> free (about 6 seconds), and they may trip. Animals hit by it stumble and fall for a moment. You can pick the bola up again afterwards.</td>
+<td>5000 B.C. - 313 B.C.</td>
+<td>Yes</td>
+<td></td>
+</tr>
+<tr>
+<td>Atlatl</td>
+<td>
+<img src="../images/Atlatl.png">
+</td>
+<td>A grooved wooden spear-thrower, made from <b>2 wood</b>. It needs only one hand. Lay an atlatl dart in it and fire. A dart hits harder than a flint arrow, but the atlatl reloads more slowly and reaches less far than a bow.</td>
+<td>5000 B.C. - 313 B.C.</td>
+<td>Yes</td>
+<td>Atlatl darts</td>
+</tr>
+<tr>
+<td>Slingstaff</td>
+<td>
+<img src="../images/Slingstaff.png">
+</td>
+<td>A sling lashed to a staff, made from <b>4 leather</b>. It needs both hands and fires more slowly than a hand sling, but its stones hit noticeably harder.</td>
+<td>5000 B.C. - 313 B.C.</td>
+<td>Yes</td>
+<td>Rocks</td>
+</tr>
 </table>
+
+### Atlatl darts
+
+<img src="../images/Atlatl_dart.png">
+
+Craft an **atlatl dart shaft** from **1 wood** in the **Weapons** menu. Then use a **sharpened flint**, a **flint arrowhead** or a **stone arrowhead** on the shaft to make a flint or stone atlatl dart. Darts fit in a quiver. Use a dart on an atlatl to load it.
 
 ## 313 B.C. Weapons
 
