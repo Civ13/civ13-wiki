@@ -1182,7 +1182,34 @@ What makes it fast or slow:
 | Uphill | Slower, and more stamina for each level climbed |
 | Downhill | A little quicker, and coasting costs no stamina |
 
-Pedaling stops when you run out of stamina, let go of the handlebars, or meet something in the way. Bumping into things does not hurt you or the bicycle. It cannot cross water without a bridge. You need both legs and feet, and you cannot pedal while cuffed.
+Pedaling stops when you run out of stamina, let go of the handlebars, or meet something in the way. Bumping into things does not hurt you or the bicycle. It cannot cross water without a bridge; a [pedal airship](#pedal-airships) can. You need both legs and feet, and you cannot pedal while cuffed.
+
+### Pedal airships
+
+<hr>
+
+A **pedal airship** is a one-person gas bag over a basket, with a propeller you turn with your own legs. Build it from **30 cloth** in the "vehicle parts" category. It needs the **Factories** node of the [tech tree](Guide_to_Research.md) ([legacy research](../gamemodes/Civilizations_and_Nomads.md#research): Industrial 95). It only flies where [aircraft](Guide_to_Aircraft.md) can; anywhere else it stays on the ground.
+
+![Offline render using Civ13 sprites: the pedal airship on grass, landed and ridden, facing each direction](../images/civ13-pedal-airship-sprites.png)
+
+The airship landed (top) and ridden (bottom). Offline render using Civ13 sprites, not a live screenshot.
+
+1.  With one hand free, click-drag your character onto the airship. You take the **tiller** in that hand.
+2.  **Press C** to rise. It takes a few seconds and a little stamina, and needs open sky straight above: no roof or upper floor.
+3.  **Press Z** (use the tiller) to start pedaling, and steer with the direction keys. The propeller does nothing on the ground.
+4.  **Press C**, or Z again, to stop. The airship hangs where it is.
+5.  Stopped in the air, **press C** to sink. You need dry, clear ground straight below: not water, a trench, a wall or another person.
+6.  Back on the ground, click the airship to get off. You cannot get off in the air.
+
+| Condition | Effect |
+| --- | --- |
+| Pace | About half the bicycle's best pace, and the same over water, walls, forest and hills |
+| Carried weight | The more you wear and carry, bags included, the slower it flies and the more stamina each tile costs. At your full carrying capacity it takes twice as long per tile |
+| Too much weight | It cannot lift more than you could carry on foot. Drop something and try again |
+| Upper floors and the map edge | It stops in front of them, unharmed |
+| Out of stamina | You stop pedaling and hover until you have rested |
+
+The airship never drops you. If you are pulled from the seat or killed in the air, or the airship is destroyed, it drifts down to the nearest clear ground and nobody is hurt by the landing. Things you drop from it do fall. You need both legs and feet, and you cannot pedal while cuffed.
 
 ### Motorcycles
 
