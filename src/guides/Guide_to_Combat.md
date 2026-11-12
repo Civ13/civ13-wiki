@@ -92,6 +92,7 @@ If you are sparring with a friend, turn on **Pulling punches** in the IC tab so 
 - **Trenches** are the best protection on many maps. Someone standing in a trench can only be hit in the head by a shooter at a distance, and someone prone in a trench cannot be hit by distant fire at all. See [Trenches & Fortifications](Guide_to_Trenches.md).
 - **Sandbags and barricades** reduce your chance of being hit but do not make you invulnerable.
 - **Walls** are not always safe. Bullets can penetrate thin walls, so do not assume a wall stops incoming fire.
+- **Trees** hide you. Stand beside a tree's trunk, on the tree's own tile, and only people within 2 tiles can see you, players and NPCs alike. It works both ways: from inside the tree you can't see anyone farther than 2 tiles either, though you still see the ground and buildings around you. Trees don't stop bullets aimed at the tree.
 - **Human shields:** a person held in a neck grab or tighter takes the bullets aimed at you. Expect your enemies to know this too.
 
 ## When you are hit
