@@ -33,6 +33,8 @@ The ship moves in **hops**: every 30 seconds it shifts along its heading by 2 ti
 | --- | --- |
 | **Chart** | Position, heading, telegraph, anchor, fuel and hops left, what lies up to 12 tiles ahead of the bow, and why the ship last stopped; then the [sea chart](Guide_to_Boats.md#harbours-and-the-sea-chart) with nearby ships and every harbour |
 | **Make for a berth** | Slides her alongside a [mooring post](Guide_to_Boats.md#harbours-and-the-sea-chart) within 20 tiles |
+| **Hail a ship** | Calls across to a ship within 40 tiles; her whole crew reads it (see [Hails and running dark](Guide_to_Boats.md#hails-and-running-dark)) |
+| **Run dark / Show her lights** | Other ships see an unknown contact instead of her name. The deck lights go out and slow ahead is all she makes |
 | **Ship's papers** | The crew register: who owns the ship and who may take the wheel (see [Ship's papers](#ships-papers)) |
 | **Full / Half / Slow ahead**, **All stop** | Ring down a speed; the ship sails only with the anchor up and fuel in the bunkers |
 | **Head north / east / south / west** | Come about on the spot; the ship turns about its centre and needs clear sea for the new box. The water she will swing over is marked in yellow and she turns five seconds later. Everything aboard turns with her: guns, chairs, loose cargo and the crew keep facing the same way relative to the bow |
@@ -86,7 +88,7 @@ The flight deck is a runway, so the [usual rules](Guide_to_Aircraft.md#flying) a
 
 ## Radar and lights
 
-- **Radar:** click the **radar set** on the island to sweep 40 tiles around the ship. It lists every ship, other carrier and aircraft in range with its distance, bearing and heading, whether it is stopped, and whether a plane flies low or high. Examining the set tells you how many contacts are on the screen. The ship herself is left out.
+- **Radar:** click the **radar set** on the island to sweep 40 tiles around the ship. It lists every ship, other carrier, player-built hull and aircraft in range with its distance, bearing and heading, whether it is stopped, and whether a plane flies low or high. Examining the set tells you how many contacts are on the screen. A ship running dark shows as an unknown contact. The ship herself is left out.
 - **Searchlights:** the two searchlights on the island work like [searchlights ashore](Guide_to_Construction.md#lighting): click one to switch it on, and turn it a quarter turn from its right-click menu, to light the deck and the water alongside at night.
 - **Deck lights:** sixteen low lamps along the deck edges, switched together from the ship's wheel. Switch them off when you do not want the ship seen at night.
 
