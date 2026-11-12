@@ -218,7 +218,7 @@ Click the **ballast and periscope station** to dive or surface. Each takes a few
 - **Stop the boat first.** You can't dive or surface while it's moving.
 - **Dive in open ocean.** The water has to be deep enough under every tile of the hull. The sea floor rises about one tile out from every coast, island and shallow, so move a little way offshore.
 - **Surface into open water.** You can't come up under another ship, a raft, a bridge or anything else floating above you.
-- Everything aboard goes down with the boat: crew, crates, machinery and anyone standing on the deck. Nobody can leave a submerged boat, and anything dropped over the side sinks.
+- Everything aboard goes down with the boat: crew, crates, machinery and anyone standing on the deck. Nobody can step straight off a submerged boat; divers go out through the [lock-out hatches](#diving-on-the-seabed).
 
 Submerged, you steer and set speed at the ship wheel as usual. If the sea floor rises ahead, the sonar warns you and the boat stops. Turn away, or surface and continue on the surface.
 
@@ -235,6 +235,33 @@ While submerged, choose **Raise periscope** at the station to see the surface st
 ### Loading and unloading
 
 Surface next to a pier, a beach or another ship. Then walk off through the open hatches amidships and carry or pull crates on and off. Cargo left on the deck stays aboard when you dive.
+
+### Diving on the seabed
+
+Under the open ocean lies the seabed: cold, dark water where nothing can breathe. You can walk it if you are sealed in diving gear. All three pieces need **Submarines** research:
+
+- **Diving dress**: 12 cloth.
+- **Diving helmet**: 8 brass. Use it in your hand to turn its lamp on or off. The seabed is pitch dark.
+- **Diving air bottle**: 5 steel. Wear it on your back. Refill it at the submarine's **ballast and periscope station**, at a habitat module's core or at a landed lander.
+
+Wear the dress, the helmet and a bottle with air in it, and you are sealed.
+
+**Leaving the boat.** When the boat is submerged, the two side sections amidships work as **lock-out hatches**. Stand next to one and click it. The chamber floods, and after a few seconds you step out onto the seabed beside the hull. To get back in, stand next to the same hatch on the outside and click it. The chamber pumps dry and you are back aboard. You can't use a lock-out hatch without sealed gear, or if rock or wreckage is pressed against it.
+
+**Depth.** The farther you are from land, the deeper the water gets. Examine the water to see how deep you are. The four depths are:
+
+1. **The shelf**, close to coasts and islands.
+2. **Open water**.
+3. **The deep**.
+4. **The abyss**, far from any land.
+
+A diving dress is only built for the shelf. Deeper than that it groans, loses integrity every few seconds, and finally tears, and then you drown. Patch a worn suit with a suit patch kit.
+
+**Air.** A full bottle lasts about 30 minutes. A badly worn suit leaks and empties the bottle three times faster.
+
+**Getting out in trouble.** If you can't get back to your boat, use **Drop Weights and Ascend** (IC tab). After about 15 seconds you swim up to the open sea straight above, as long as nothing is floating there. The dress keeps you afloat and breathing while your air lasts, so swim for a boat or the shore.
+
+Anything you drop on the seabed stays where it fell.
 
 ## Slipway ships
 
