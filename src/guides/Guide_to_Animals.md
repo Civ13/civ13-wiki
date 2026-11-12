@@ -55,15 +55,30 @@ A **leather saddle** (6 leather, Basic Agriculture research) halves the time it 
 
 ## Carriages
 
-A **carriage** carries a driver and up to five passengers or cargo items, pulled by horses or cattle.
+A **carriage** is pulled by a team of horses or oxen. It seats a driver and has five more seats for passengers or cargo such as crates and barrels.
 
-- **Build:** 50 softwood from the vehicle parts section once your people have researched **Carts**.
-- **Hitch animals:** Drag a horse, cow or bull onto the carriage. Up to four animals can be tied on, and a horse pulls as hard as two cattle. Drag a hitched animal off the carriage to untie it.
-- **Drive:** Drag yourself onto the carriage to take the driver's seat. You are handed the **reins**.
-  - Press **Z** (activate held object) with the reins to start moving, and again to go faster.
-  - Press **C** (secondary activation) to slow down and stop.
-- **Passengers and cargo:** Drag a person or object onto the carriage to load it. To get off, click the carriage with an empty hand.
+- **Build:** 50 softwood from the vehicle parts section once your people have researched **Carts**, with 20 rope in one hand. It takes some crafting skill.
+- **Hitch the team:** Drag a horse, cow or bull onto the carriage. A team is up to four animals of one kind, horses or oxen, and they stand in pairs in front of the carriage, so they need room there. Drag a hitched animal off the carriage to untie it.
+- **Drive:** Drag yourself onto the carriage to take the driver's bench. You are handed the **reins**.
+  - Press **Z** (activate held object) with the reins to start at a walk, and again to trot or canter.
+  - Press **C** (secondary activation) to slow down, and again at a walk to stop.
+  - The direction keys turn the carriage. It needs room for its new shape and its team to turn, and you must slow to a walk to turn it right round.
+- **Passengers and cargo:** Drag a person, a crate or a barrel onto the carriage to load it. Click the carriage with an empty hand to get off, or to take cargo off. You step down beside the carriage.
+- **Examine** the carriage to see its team, its best pace and its free seats.
 
-A **leather animal harness** (4 leather, Basic Agriculture research) halves the extra hunger a horse or cow gets from pulling. Fit it to the animal before hitching it; animals without a harness still pull as before.
+### Pace and load
 
-The more animals you hitch, the faster the carriage can go. Pulling animals get hungry faster, and a carriage stops if one of its animals dies. Feed them before long journeys; see [Ranching](Guide_to_Ranching.md).
+- A horse pulls twice as hard as an ox. Oxen only walk, one horse can trot, and two or more horses can canter.
+- A heavy load slows the team: passengers, cargo and whatever is packed in the crates all count. Overload it and the team cannot move it at all until you unload it or hitch more animals.
+- Roads and built floors are quickest. Rough ground, snow and shallow water are slower, and the team slows going uphill and speeds up a little going down.
+- The carriage stops when something blocks its path or its team's path. It runs into people who stand in the way. It cannot cross deep water without a bridge.
+
+### Feeding the team
+
+Pulling makes the animals hungry, and more so uphill. A starving animal pulls at half strength. If an animal dies in harness, it is cut loose and the carriage stops. Feed them before long journeys; see [Ranching](Guide_to_Ranching.md).
+
+A **leather animal harness** (4 leather, Basic Agriculture research) halves the extra hunger a horse or cow gets from pulling. Fit it to the animal before hitching it.
+
+### Carriage papers
+
+Right-click a carriage and choose **Vehicle Papers** to register it to your faction, as with other vehicles. Its owners can name it and sign on crew: a master, coachmen, a wheelwright and grooms. A registered carriage appears in **Our vehicles**. A stranger cannot drive it while none of its owners are around. While an owner is around, a stranger can force the reins, which takes a while and warns the crew.
