@@ -394,12 +394,37 @@ Slipway ships, the aircraft carrier and hulls you built yourself share one sea c
 | **Welcome only our ships / our guests / every ship** | Who may berth. A ship counts as yours when she is registered to your faction in her [ship's papers](Guide_to_Aircraft_Carriers.md#ships-papers) |
 | **Add a guest / Strike a guest** | A guest faction is picked from the registered ships lying within 20 tiles of the post |
 | **Give up the berth** | Anyone may claim it again |
+| **Freight** | The harbour's freight board (see [Freight contracts](#freight-contracts)) |
 
 One post takes one ship, up to 40 tiles long and 12 across. Set several posts well apart for a bigger harbour.
 
 **Berthing.** Bring the ship within **20 tiles** of the post and choose **Make for a berth** at the wheel or tiller. If the post will have her, the water she is about to lie in is **marked in yellow for ten seconds**, then she slides in along the shore with her middle abreast of the post, stops and drops anchor. If not, you are told why: too far, not welcome, promised to another ship, taken, or something in the way.
 
 A moored ship holds the berth until she next moves: weigh anchor and sail and she has cast off. After a server restart she lies at anchor beside the post; make for the berth again to moor her.
+
+### Freight contracts
+
+Every mooring post is also a **freight board**: one faction pays another to carry a crate to a different harbour. Click the post and choose **Freight**.
+
+**Offering a contract.**
+
+1. Fill a **crate**, close it and stand it within **2 tiles** of the post.
+2. Hold the **reward** in your active hand: coins, or any one item or stack. An empty hand means no reward.
+3. Choose **Offer a contract** and pick the harbour it is bound for.
+
+The post takes in the crate and the reward. At a claimed post only those it welcomes may offer contracts: its owners, their guests, or everyone, the same rule as for berthing. A board holds **6** contracts.
+
+**Carrying one.**
+
+1. Bring a ship that is registered in her [ship's papers](Guide_to_Aircraft_Carriers.md#ships-papers), with you among her owners or crew, within **20 tiles** of the post.
+2. Choose **Take a contract**. The sealed crate is set down beside you, named for its harbour.
+3. Carry it to that harbour, stand it within 2 tiles of the mooring post there, and choose **Hand in freight**. The harbour pays you the reward on the spot.
+
+- **Do not open the crate.** Opening it breaks the seal (examine the crate to check), and a crate handed in with a broken seal earns nothing.
+- Whoever hands in the sealed crate is paid, so guard your freight.
+- The post and every ship's **sea chart** show how many contracts a harbour has on offer.
+
+**If it goes wrong.** Whoever offered the contract can **Withdraw a contract** nobody has taken, and gets the crate and reward back. If the crate arrives with a broken seal, or it was destroyed and they **Write off lost freight**, the reward goes back to the board where it was offered, and they take it out with **Collect a returned reward**.
 
 ### Hails and running dark
 
