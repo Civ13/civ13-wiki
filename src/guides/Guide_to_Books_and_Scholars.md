@@ -27,7 +27,7 @@ The world starts in 5000 B.C. and has no clock: it moves into a new age only whe
 3. **Craft what you've learned.** Crafting checks your own knowledge only. Your faction's research and the world's age don't unlock anything for you.
 4. **Research new chapters** at a research bench, then study them like any other chapter.
 
-**Pencils, paper and blank books** can be crafted by anyone from the start, with no knowledge needed. They are made from wooden planks, which anyone can cut from logs with an axe or by hand. For a new character's first steps, see [Your First Day](Guide_to_Your_First_Day.md). **Parchment** is cut from a dry hide with a sharp tool (four sheets per hide) and works like paper; see [Parchment](../Miscellaneous_Crafting.md#parchment) for the whole hide route.
+**Pencils, paper and blank books** can be crafted by anyone from the start, with no knowledge needed. They are made from wooden planks, which anyone can cut from logs with an axe or by hand. For a new character's first steps, see [Your First Day](Guide_to_Your_First_Day.md). **Parchment** is cut from a dry hide with a sharp tool (four sheets per hide) and works like paper. In the Stone Age a sheet of paper is called **papyrus**; it is the same sheet. Sheets clipped together in a paper bundle can be used straight from the bundle. See [Parchment](../Miscellaneous_Crafting.md#parchment) for the whole hide route.
 
 ## Studying
 
@@ -73,11 +73,11 @@ Books are ordinary items. They can be traded, lent, hidden, stolen or carried to
 | Action | How | Time |
 | --- | --- | --- |
 | **Write notes** | Use a pencil or pen on a book and choose **Contents** to add a page of your own writing. Use the book in hand to read it. | Instant |
-| **Write from memory** | Put the book down next to you, hold a pencil or pen and Alt-click the book, then press **Write** beside a chapter you know. At a bench, press **Write it from memory** in the subject's details. A blank sheet of paper or parchment is taken from your other hand or your bags. | 2 minutes in the Stone Age, +1 minute per later age; costs stamina |
+| **Write from memory** | Put the book down next to you, hold a pencil or pen and Alt-click the book, then press **Write** beside a chapter you know. At a bench, press **Write it from memory** in the subject's details. A blank sheet of paper, papyrus or parchment is taken from your other hand, your bags or a paper bundle you carry (taking one off a bundle needs a free hand). | 2 minutes in the Stone Age, +1 minute per later age; costs stamina |
 | **Copy at a bench** | Put two books on a bench, open a chapter and press **Copy into the other book**, or press the **Copy all ... chapters** button under a book to copy everything the other book lacks, one after another. Hold a pencil or pen and have blank sheets on you. You don't need to know the chapter. | Same as writing |
 | **Rip out a page** | Hold the book, click the chapter in its window and press **Tear this chapter out**. A chapter becomes a loose page that can be studied on its own. | 2 seconds |
 | **Bind a page back in** | Use the loose page on a book. | 30 seconds |
-| **Print a book** | Put the book in a printing press as the original and a blank book as the copy, then use the press. It prints the pages, title and every finished chapter, using one sheet of printing paper per chapter. Load printing paper by using blank paper, parchment or a paper bin on the press. Unfinished research isn't printed. | 25 seconds |
+| **Print a book** | Put the book in a printing press as the original and a blank book as the copy, then use the press. It prints the pages, title and every finished chapter, using one sheet of printing paper per chapter. Load printing paper by using blank paper, papyrus, parchment, a paper bundle or a paper bin on the press. Unfinished research isn't printed. | 25 seconds |
 
 Recipe manuals and recipe compendiums take written notes too: use the book and choose **Read the notes** or study as usual. Binding manuals together keeps their notes. Research chapters only go into ordinary books, and a manual with notes in it can't be carried to another region.
 
@@ -119,7 +119,7 @@ Practice is a way to get started, not a way to the top. Each session teaches a l
 
 | Discipline | Supplies | Instrument |
 | --- | --- | --- |
-| Basic Mathematics | Blank paper or parchment | **Abacus** (3 soft wood, Trade & Coinage) |
+| Basic Mathematics | Blank paper, papyrus or parchment, loose or in a paper bundle | **Abacus** (3 soft wood, Trade & Coinage) |
 | Engineering | Material stacks (wood, stone, metal and so on) | **Drafting set** (2 iron, Iron Tools) |
 | Natural Science | Ore or glass | Beaker or glass jar |
 | Medicine | Medical supplies or grown herbs | Scalpel |
