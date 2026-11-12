@@ -174,5 +174,7 @@ Who may drive a registered vehicle:
 - **Anyone else** is asked whether to **force the controls**. It takes about 15 seconds and everyone aboard is warned. This only works while one of the owners is in the world.
 - With **no owner about**, the controls are locked.
 
+The **turret guns** follow a simpler rule: anyone on the crew list, whatever their role, can always fire them, and a stranger can only fire them while one of the owners is in the world. A tank parked while your faction is away cannot be turned on your base.
+
 Slowing down and stopping are never locked. A vehicle that needs a **key** still needs it; the papers are a second lock, not a replacement. Examine the driver's seat to see who a vehicle belongs to. Modular boats and aircraft have the same papers at their driver's seat.
 
