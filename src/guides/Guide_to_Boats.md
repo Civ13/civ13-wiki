@@ -516,6 +516,56 @@ Bring your ship alongside another so that **3 tiles of open water or less** lie 
 
 A ship takes one set of lines at a time. Grappling is an order like setting a speed, so on a registered ship it answers only to her crew, but anyone can cut a line they can reach. The lines do not last through a server restart.
 
+## Mines, torpedoes and degaussing
+
+Naval mines and torpedoes sink ships from below. Steel hulls are easiest to hit, because they carry a **magnetic signature** that magnetic weapons can feel.
+
+| Item | Cost | Crafting menu | [Tech tree](Guide_to_Research.md) node |
+| --- | --- | --- | --- |
+| Contact naval mine | 10 steel | weapons | Naval Mines |
+| Oropesa sweep | 8 steel | vehicle parts | Naval Mines |
+| Torpedo tube | 25 steel | weapons | Naval Mines |
+| Torpedo | 14 steel | weapons | Naval Mines |
+| Magnetic naval mine | 12 steel | weapons | Magnetic Mines & Degaussing |
+| Magnetic torpedo | 16 steel | weapons | Magnetic Mines & Degaussing |
+| Degaussing coil | 15 steel | vehicle parts | Magnetic Mines & Degaussing |
+| Wiping station | 20 steel | production | Magnetic Mines & Degaussing |
+| Magnetic sweep reel | 10 steel | vehicle parts | Magnetic Mines & Degaussing |
+
+### Magnetic signature
+
+The wheel, the tiller and a submarine's systems report show her **magnetic signature**: none, faint, strong or very strong. Wooden hulls and rafts show none. Steel plating, steel frames and engines add to it, and a big steel freighter or carrier is very strong.
+
+### Laying and clearing mines
+
+- Hold a mine and click a tile of **open water** next to you, from a deck or the shore. It takes five seconds, and the mine settles just under the surface as a dark shape.
+- A **contact mine** goes off when any hull, wooden or steel, runs onto its tile.
+- A **magnetic mine** goes off when a steel hull comes close enough for her signature. A small steel boat sets one off only by passing over it or right beside it. A large steel ship sets one off from up to 4 tiles away. A wooden hull sails over it safely.
+- The blast goes off under the nearest part of the hull. It breaks frames, and on a submarine it springs leaks.
+- Mines stay where they were laid. Shooting a mine, hitting it or catching it in another blast sets it off.
+- To **disarm** one, use a **wrench** on it and wait eight seconds. A clumsy hand can set it off instead.
+
+### Degaussing
+
+- A **degaussing coil** cuts her signature by 80% while it runs. Bolt it to her deck with a wrench, then click it to switch it on. On a submarine it uses one unit of battery for every tile she moves. On a slipway ship it burns fuel oil, so a ship under sail has no coil. Any other ship needs an engine running aboard. When the power fails the coil switches itself off.
+- A **wiping station** stands on the shore or a quay, wired to a cable with 30 power to spare. Feed it 20 lengths of cable coil for each wiping. Stop the ship within 2 tiles of it, then click the station and wait two minutes. The wiping takes 70% off her signature and slowly wears off as she sails, until it is gone after about 700 tiles.
+- A coil and a wiping together cut her signature by about 94%.
+
+### Minesweeping
+
+Both sweeps are bolted to a deck with a wrench, then clicked to stream them over the side or to wind them back in.
+
+- A **magnetic sweep reel** sets off every magnetic mine within 6 tiles of the reel as the ship moves. It needs the same power as a degaussing coil and is wound in when the power fails. The mines still go off close by, so sweep in a wooden or wiped ship, well ahead of steel ships.
+- An **Oropesa sweep** cuts the moorings of contact mines 1 to 3 tiles off her sides while she is under way. A cut mine bobs up to the surface where everyone can see it. Shoot it from a safe distance, or disarm it with a wrench.
+
+### Torpedoes
+
+- Unbolt a **torpedo tube** and click it to turn it a quarter turn. When it points where you want, bolt it to a deck or a quay with a wrench. Load a torpedo into it (four seconds), then click it to fire.
+- The torpedo runs straight along the tube's line for up to 40 tiles, just under the surface. It sinks when it reaches the shallows or the end of its run.
+- A **torpedo** goes off when it strikes a hull, so its path has to cross her.
+- A **magnetic torpedo** also goes off under a steel hull it passes close to, by the same rule as a magnetic mine. A wooden, wiped or degaussed hull lets it run past unless it strikes her.
+- A torpedo never goes off under the ship that fired it. A ship that runs onto a torpedo sets it off.
+
 ## Sailing and the wind
 
 Sails depend on the wind. The **Status** tab shows the current wind, for example "A moderate Northern breeze". The game also announces in chat when the wind changes. The wind is named after the direction it **blows from**, so a northern wind pushes ships south.
