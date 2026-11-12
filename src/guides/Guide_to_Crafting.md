@@ -1179,8 +1179,8 @@ What makes it fast or slow:
 | Grass, dirt, sand and other natural ground | A quarter slower and a quarter more tiring |
 | Lying snow | Slower still |
 | Carried weight | The more you wear and carry, bags included, the slower you go and the more stamina each tile costs. At your full carrying capacity the bicycle takes twice as long per tile, and it bottoms out at four times |
-| Uphill | Slower, and more stamina for each level climbed |
-| Downhill | A little quicker, and coasting costs no stamina |
+| Uphill | Slower, more so the steeper it is, and more stamina for each level climbed |
+| Downhill | Quicker, and coasting costs no stamina |
 
 Pedaling stops when you run out of stamina, let go of the handlebars, or meet something in the way. Bumping into things does not hurt you or the bicycle. It cannot cross water without a bridge; a [pedal airship](#pedal-airships) can. You need both legs and feet, and you cannot pedal while cuffed.
 
