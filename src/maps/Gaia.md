@@ -50,4 +50,8 @@ To change the ground itself, grade it one level at a time:
 
 Each tile can be dug down or built up by at most two levels from the natural ground, so ridges and cliffs can be eased but not removed. Ground next to water, or with snow, a floor, a crop or anything solid on it, cannot be graded. Levelling an area means planning cuts and fills and carrying dirt from the high spots to the low ones.
 
+## Weather
+
+Gaia has the same seasons as other Nomads maps, but clear spells last longer: while the sky is clear, rain, snow and storms start only about half as often. Once bad weather has started it runs its usual course.
+
 New here? [Your First Day](../guides/Guide_to_Your_First_Day.md) covers getting a research book, food, water and shelter. For the other Nomads layouts, see [Nomads Maps](Nomads_Maps.md). For general play, see [Civilizations & Nomads](../gamemodes/Civilizations_and_Nomads.md).
