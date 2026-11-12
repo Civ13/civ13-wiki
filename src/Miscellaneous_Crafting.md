@@ -133,7 +133,7 @@ and collects bark. Bark soaks into tannin for
 <tr>
 <td width="5%"><img src="images/candle_lard.png"></td>
 <td><b>Lard candle</b></td>
-<td>Fill a vessel with at least 5u of lard (made from <b><a href="guides/Guide_to_Crafting.md#animals">animal fat</a></b>), then click the vessel with rope (1 rope per 1 candle; rope is made from <b><a href="guides/Guide_to_Farming.md">flax and cotton</a></b>. Lit with torches and matches. A lard candle lasts about 30-40 minutes.</td>
+<td>Fill a vessel with at least 5u of lard (made from <b><a href="guides/Guide_to_Crafting.md#animals">animal fat</a></b>), then click the vessel with rope (1 rope per 1 candle; rope is made from <b><a href="guides/Guide_to_Farming.md">flax and cotton</a></b>. Light it from any open flame: use a lit match, lighter, torch, tiki torch, oil lamp or another lit candle on it, or hold the candle to a lit tiki torch, campfire, stove, brazier or wall torch. Electric flashlights and glowsticks will not light it. A lard candle lasts about 30-40 minutes.</td>
 </tr>
 </tbody>
 </table>
