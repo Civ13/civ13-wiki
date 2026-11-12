@@ -314,12 +314,13 @@ Click the tiller to sail:
 | Choice | What it does |
 | --- | --- |
 | **Weigh anchor / Drop anchor** | A new hull lies at anchor and never moves until it is weighed |
-| **Slow ahead**, **All stop** | Under way she moves **2 tiles every 30 seconds** along her heading, with every floor, wall, crate and person aboard |
+| **Slow ahead**, **Half ahead**, **All stop** | Under way she moves along her heading every 30 seconds with every floor, wall, crate and person aboard: **2 tiles** at slow ahead, **4** at half. Half ahead needs sails (below) |
 | **Head north / east / south / west** | She comes about around the tiller five seconds later; everything aboard turns with her |
 | **Ship's papers** | Register her so nobody can sail her away while you are gone (see [Ship's papers](Guide_to_Aircraft_Carriers.md#ships-papers)) |
 | **Refit the hull** | At anchor: surveys the hull again after you added or cut away floors |
 | **Strike the hull** | She stops being a ship; the floors stay where they are |
 
+- **Sails:** with nothing to drive her she is poled along at slow ahead. Craft a **ship mast** (15 planks, vehicle parts), stand it on one of her floors and rig a **small sail** on it (click the mast with the sail). One rigged mast gives half ahead to a hull of up to **31 tiles**, two masts up to 62, and so on. The tiller tells you how many sails are drawing and the best speed she makes. Sails are set while she is under way and furled at anchor, and need no fuel.
 - The water she is about to cover is **marked in yellow** five seconds before each hop and before a turn.
 - She stops by herself, and tells everyone aboard why, at land, at somebody else's floor, at another ship, at anything solid in the water and at the edge of the world. A blocked hop tries a shorter one first.
 - Build what you like aboard: walls, a cabin, crates, cannon. Anything standing on her floors rides along at once. New floors that widen the hull join her when you **refit**.
