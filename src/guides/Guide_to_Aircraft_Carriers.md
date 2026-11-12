@@ -32,12 +32,38 @@ The ship moves in **hops**: every 30 seconds it shifts along its heading by 2 ti
 | Choice | What it does |
 | --- | --- |
 | **Chart** | Position, heading, telegraph, anchor, fuel and hops left, what lies up to 12 tiles ahead of the bow, and why the ship last stopped |
+| **Ship's papers** | The crew register: who owns the ship and who may take the wheel (see [Ship's papers](#ships-papers)) |
 | **Full / Half / Slow ahead**, **All stop** | Ring down a speed; the ship sails only with the anchor up and fuel in the bunkers |
 | **Head north / east / south / west** | Come about on the spot; the ship turns about its centre and needs clear sea for the new box. Everything aboard turns with her: guns, chairs, loose cargo and the crew keep facing the same way relative to the bow |
 | **Weigh anchor / Drop anchor** | A ship at anchor never hops, whatever the telegraph says |
 | **Deck lights on / off** | Switches the lights along the flight deck edges; the setting is kept with the ship |
 
 The ship stops by itself, with the reason sent to everyone aboard, when land, a pier, another ship or the edge of the world lies in its way, when the bunkers run dry, and while the world is being saved. A blocked full hop tries shorter ones first, so the ship closes up to an obstacle instead of stopping short of it.
+
+### Ship's papers
+
+A ship nobody has registered sails for whoever stands at the wheel. To make her yours, click the wheel, choose **Ship's papers** and **Register her to** your faction (or to yourself if you have none). You become her **captain**. This works on every ship steered from a ship's wheel, including the schooner and the freighter.
+
+Once she is registered:
+
+- **Owners** (every member of the faction she is registered to) and listed crew who are **captain** or **helmsman** use the wheel as before.
+- **Anyone else** can still **force the wheel**, but only while one of her owners is in the world. It takes about 15 seconds of standing at the wheel and everyone aboard is told who is doing it.
+- With **no owner in the world** the wheel is chained, and so are the elevator and catapult levers and the radar. Nobody can sail her away while you are gone.
+- Listed crew of any role can always work the levers and the radar.
+
+Owners and the captain keep the papers at the wheel:
+
+| Choice | What it does |
+| --- | --- |
+| **Sign on crew** | Pick someone standing within three tiles of the wheel and give them a role: captain, helmsman, engineer, gunner or hand |
+| **Change a role or strike off** | Change a listed crew member's role or remove them |
+| **Who may join** | Anyone may sign on as a hand, new crew must ask, or she takes no new crew (the default) |
+| **Answer a request** | Accept or refuse someone who asked to join |
+| **Bar someone** / **Lift a bar** | A barred person leaves the crew and cannot ask to join |
+| **Write the memo** | A note every crew member can read in the papers |
+| **Give up the ship** | Owners only: strikes her from the register so anyone may sail or register her |
+
+Someone who is not crew sees who owns her and can choose **Ask to join** when she is taking crew. The papers are kept with the ship.
 
 ### Fuel
 
