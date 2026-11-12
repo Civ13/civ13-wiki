@@ -176,6 +176,8 @@ Mood affects more than you think. It also affects your maximum **[skill stats](g
 
 Winter can bring an icy chill that can seriously hurt and slow you down, or even kill you. Blizzards are especially deadly, and a fur coat alone may not save you. Make sure you have a shelter ready before it is too late.
 
+Standing in snow away from a fire can freeze your feet. Bare feet suffer most, ordinary shoes help a little, and fur or other warm boots stop it entirely.
+
 Southern climates can be merciless in their own way. Avoid overheating to prevent heat stroke. Resting in a roofed shelter and wearing appropriate clothing (for example, "traditional" desert clothes) can save you from fainting and shriveling in sweltering heat.
 
 #### Fur Clothing
