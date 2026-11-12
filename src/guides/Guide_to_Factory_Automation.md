@@ -122,6 +122,8 @@ The **3D printer** (12 electronics) prints plastic goods. Wrench it down, cable 
 
 The **factory monitor** is a terminal that lists every arm, fabricator, belt drive and belt within seven tiles, with what each one is doing (running, waiting, unpowered) and how many items it moves or makes a minute. Use it to find the bottleneck in a line.
 
+The monitor also lists each pipe network within seven tiles once: how many pipes it has, how many of its pumps are running, whether liquid is flowing and how many units moved on the last pump cycle. A network you have just built or changed shows up after its next pump cycle. For one machine's details, use a pipe meter.
+
 ## Stone crushing
 
 Surplus stone can be turned into a chance of sand, ore and rare minerals.

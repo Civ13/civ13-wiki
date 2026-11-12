@@ -980,6 +980,8 @@ There are two kinds of refinery - petroleum and biofuel.
   - Click the refinery to start it.
   - Wait till the product is ready. Click the refinery again to shut it
     down.
+  - If the barrel fills up, the refinery stops making product and keeps
+    the unused raw substance until you swap in an empty barrel.
   - Right-click the refinery and remove the barrel with the product with
     the "Remove barrel" command.
 
