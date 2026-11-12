@@ -135,7 +135,7 @@ Ships are built tile by tile out of frames, like [modular tanks](Guide_to_Crafti
 
 ### Fitting it out
 
-3. Place the **ship rudder control** (the wheel) on one of the frames. The wheel must be on the ship **before** you assemble it, or it won't be connected.
+3. Place the **ship rudder control** (the wheel) on one of the frames.
 4. Give the ship a way to move:
    - **Sail:** place one or more **ship masts** on frames and click each mast with a **small sail**. The mast sprite is larger than one tile, so it looks offset; this is how it sits when the ship faces north:
 
@@ -147,14 +147,14 @@ Ships are built tile by tile out of frames, like [modular tanks](Guide_to_Crafti
 
 ### Assembling the ship
 
-5. Build a **ship rudder axis** on the **top-left (north-west) frame**. There must be no frame to its west or north.
+5. Build a **ship rudder axis** on **any frame** of the ship.
    - The **light axis** carries up to **1200** weight.
    - The **heavy axis** carries up to **2500** weight.
 
    Both axes are made of planks, even for a steel ship.
-6. Click the axis, confirm, and name your ship. Every frame, mast, engine, fuel tank and wheel in the 5x5 square running east and south of the axis joins the ship.
+6. Click the axis. It shows a build sheet: the size of the hull, the parts it found, and what the ship still needs before she will sail (a ship's wheel, and a mast or an engine). If the frames cannot be a ship, it says why: they must fill a rectangle of 2x2 to 5x5 tiles, and every frame must lie on water. Choose **Assemble it**, pick which way the bow points, and name your ship. Every ship frame joined to the one under the axis becomes part of her, with the wheel, masts, engine and fuel tank standing on them.
 
-If you forgot a mast, drag it onto one of the ship's frames afterwards. Engines can be added the same way. A wheel can only be connected during assembly.
+If you forgot a mast, an engine or the wheel, stand it on one of the ship's frames afterwards, click the axis and choose **Fit new parts**. To change the hull, drop the anchor, click the axis and choose **Take it apart**: the frames and parts stay where they are, loose, and can be assembled again. A ship registered in her papers can only be taken apart by her owners.
 
 <table>
 <tbody>
