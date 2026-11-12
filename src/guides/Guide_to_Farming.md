@@ -13,7 +13,7 @@ Use a knife on a small bush with **Help intent** for random seeds; the bush regr
 
 ### Wild plants
 
-On Nomads maps a few ripe wild crops grow on their own in open countryside, away from players and settlements. Depending on the biome and season you may find wild herbs, mushrooms, wheat, oat, barley, rice, potatoes, carrots, cabbage, turnips, parsnips, beans, tomatoes, corn, pumpkins, zucchini, red peppers, celery, parsley, grapes, watermelons, agave, juniper, flax or cotton. They are sparse, so explore away from built-up areas to find them. Harvest one with a knife, scythe, hatchet or bayonet to get its produce and two seeds (herbs give healing herbs, flax and cotton give fibre), which is a quick way to start a farm. Wild plants do not grow or need water; out of season (for example in winter) they wither away.
+On Nomads maps a few ripe wild crops grow on their own in open countryside, away from players and settlements. Depending on the biome and season you may find wild herbs, mushrooms, wheat, oat, barley, rice, potatoes, carrots, cabbage, turnips, parsnips, beans, tomatoes, corn, pumpkins, zucchini, red peppers, celery, parsley, chamomile, dandelions, mint, sunflowers, roses, grapes, watermelons, agave, juniper, flax or cotton. They are sparse, so explore away from built-up areas to find them. Harvest one with a knife, scythe, hatchet or bayonet to get its produce and two seeds (herbs give healing herbs, flax and cotton give fibre), which is a quick way to start a farm. Wild plants do not grow or need water; out of season (for example in winter) they wither away.
 
 ### Trees grow back
 
@@ -235,6 +235,18 @@ Powered hydroponics trays grow vegetables and wheat indoors, all year round.
 5. Connect a cable carrying 5 PU of power.
 
 A crop grows through six cycles. Each cycle takes a minute of power, 2 units of water and 1 unit of nutrient, so a crop needs about two composts. Without power, water or nutrient the crop pauses and keeps its progress, but **tomatoes and beans** die if they go about ten minutes without water. Examine the tray to see its reservoir and progress. Harvest a ready crop by hand; clear a dead one with a knife, hatchet or scythe. A tray outdoors with no roof loses its crop to snowstorms and sandstorms like a field.
+
+## Herbs and teas
+
+Several crops are steeped into teas. Hold the herb and click an open container (a cup, pot or beaker) that holds water; the tea replaces the same amount of water. Drying first on a **dehydrator** gives a stronger brew that also keeps without spoiling.
+
+- **Chamomile**: fresh flowers make 5 units of tea, dried flowers 10. The tea lifts your mood and eases dizziness and the jitters.
+- **Mint**: fresh or dried, like chamomile. Mint tea clears food poisoning from your stomach.
+- **Dandelion**: the greens are eaten as they are. Every harvest also gives a root; roast it on a dehydrator and steep it for **dandelion coffee**, a warming drink that keeps you a little more awake without coffee's kick.
+- **Sunflower**: use a sunflower head in hand to shell it into three handfuls of seeds, a filling snack that keeps well.
+- **Rose**: a harvest gives rose hips and a handful of petals. Eat the hips, or steep them for **rosehip tea**, which slowly heals bruises. Dry the petals on a dehydrator and steep them for a cheering **rose tea**.
+
+Wild yarrow, comfrey, elderflower and milk thistle can be picked for remedies too; see the [Guide to Medical](Guide_to_Medical.md#stimulants-pain-relievers-and-cleansing-agents).
 
 ## Farmer's almanac
 
@@ -751,6 +763,76 @@ Skilled farmers (high Farming skill, with Basic Agriculture researched) can craf
 <td>All</td>
 <td style="text-align:center">100</td>
 <td>Used as food.</td>
+</tr>
+<tr>
+<td>Chamomile</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>All</td>
+<td style="text-align:center">50</td>
+<td>Steeped (fresh, or dried for a stronger brew) into a calming chamomile tea.</td>
+</tr>
+<tr>
+<td>Dandelion</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>All</td>
+<td style="text-align:center">50</td>
+<td>Edible greens; each harvest also gives a root that roasts into dandelion coffee.</td>
+</tr>
+<tr>
+<td>Mint</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">70</td>
+<td>Steeped (fresh or dried) into mint tea, which settles food poisoning.</td>
+</tr>
+<tr>
+<td>Sunflower</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td>All</td>
+<td style="text-align:center">40</td>
+<td>Shell the head in hand for seeds to eat.</td>
+</tr>
+<tr>
+<td>Rose</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td>All</td>
+<td style="text-align:center">50</td>
+<td>Rose hips (food, or steeped into a healing tea) and petals that dry into rose tea.</td>
 </tr>
 </tbody>
 </table>
