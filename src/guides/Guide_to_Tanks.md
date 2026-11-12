@@ -135,3 +135,20 @@ This lets you flank the enemy through routes they may not expect a tank to fit t
 For possibly better explanation with a moving visual aid, take a gander at this poor quality video.
 
 <video controls preload="metadata" width="640" src="https://github.com/civ13/civ13-wiki/releases/download/assets/tank_maneuvering.mp4">Your browser cannot play this video. <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/tank_maneuvering.mp4">Download tank_maneuvering.mp4</a>.</video>
+
+### Towing
+
+A vehicle that will not move by itself, with no fuel, a dead engine or a broken track, can be towed by another.
+
+1. Park the towing vehicle in front of the other one, **in line, facing the same way**, with no more than **2 tiles** between them. Both must stand still.
+2. Use a **rope** on the vehicle to be towed. After five seconds the line is fast and one rope is used.
+3. Drive off. The towed vehicle rolls when you roll and **turns where you turned**, the same distance behind you all the way.
+
+- The towing vehicle pulls the **weight of both**. An engine too small for the pair stalls, so tow with something at least as strong as what it pulls.
+- If the towed vehicle is blocked, or cannot make a turn, the line pays out. More than **3 tiles** behind and it **snaps**; the rope is lost.
+- You cannot **reverse** with a tow line out. Cast it off first.
+- To let go, stop, right-click either vehicle and choose **Cast Off Tow Line**. The rope drops beside the towed vehicle.
+- A vehicle takes one tow line and pulls one, so vehicles can be chained in a column. The line is gone after a server restart.
+
+Examining either vehicle tells you what it tows or what tows it. Boats tow boats the same way; aircraft cannot be towed.
+

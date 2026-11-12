@@ -196,6 +196,7 @@ To stop, drop the anchor or take in the sails. With an engine, decrease the spee
 - A ship stops when its bow meets land, ice, another ship or a solid obstacle it can't break.
 - A ship weighing **400 or more** smashes through most solid objects in its path. At **800 or more** it runs over anyone in the way, and lighter ships still hit them hard. Keep swimmers clear of the bow.
 - Explosions can break or destroy masts. A ship with a broken mast, or a mast without a sail, won't sail.
+- A ship that cannot sail can be **towed** by another modular ship: line her up behind the towing ship, facing the same way and within 2 tiles, and use a **rope** on her. See [Towing](Guide_to_Tanks.md#towing).
 
 ## Submarines
 
