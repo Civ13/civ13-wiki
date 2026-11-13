@@ -6,7 +6,7 @@ An **electroplating bath** puts a thin coat of metal on a metal item. A gold or 
 
 - Research **Electricity** on your faction's [tech tree](Guide_to_Research.md).
 - Craft the **electroplating bath** from 10 steel sheets. It is in the production section of the crafting menu.
-- Use a cable coil on the bath to connect it to a powered cable grid. It draws 3 PU while it is coating something. See [Power & Batteries](Guide_to_Power.md) for generators.
+- Use a cable coil on the bath to connect it to a powered cable grid. It draws 3 kW while it is coating something. See [Power & Batteries](Guide_to_Power.md) for generators.
 
 You can unfasten the bath with a wrench to move it, and take it apart with a hammer.
 

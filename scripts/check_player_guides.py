@@ -65,7 +65,7 @@ def check(root=Path('book/html')):
     chemistry = (root / 'guides/Guide_to_Chemistry.html').read_text(encoding='utf-8')
     power = (root / 'guides/Guide_to_Power.html').read_text(encoding='utf-8')
     assert all(term in chemistry for term in ('15-second', '9:1 blend', 'Fruit Protease', 'additional-chemical-reactions'))
-    assert all(term in power for term in ('30 PU', '10 PU', 'stored chemical state', 'Electricity'))
+    assert all(term in power for term in ('30 kW', '10 kW', 'stored chemical state', 'Electricity'))
     # mdBook 0.4.x embeds navigation; newer local versions also emit toc.html.
     navigation = root / ('toc.html' if (root / 'toc.html').is_file() else 'index.html')
     nav_text = navigation.read_text(encoding='utf-8')

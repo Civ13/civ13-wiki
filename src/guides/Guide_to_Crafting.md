@@ -1047,8 +1047,9 @@ electrical cables.
     pressing Ctrl-Z or Z in the hotkeys mode.
     
     - **The cable is placed horizontally when you are facing West or
-    East, and vertically, if facing North or South. Cables that cross on
-    a single tile are automatically connected upon placement.**
+    East, and vertically, if facing North or South. Laid on a corner
+    tile while facing the new direction, with the run coming in from the
+    side, a piece bends into a corner and joins both ways.**
     
     - If you are placing cables over some kind of floor, the cables
     are automatically placed under the floor tiles and concealed from
@@ -1057,12 +1058,12 @@ electrical cables.
    
     - You can cut and remove cables with the knife.
 
-    - Cables that only meet at a corner, or that have different colours,
-    do not join on their own. Craft a **cable connector** (1 copper,
+    - Cables that cross, branch into a T or have different colours do
+    not join on their own. Craft a **cable connector** (1 copper,
     **electrical** section; Electricity research on the tech tree), stand
     on the tile where the cables meet and use it in hand, or drop it there
     and fasten it with a wrench. A secured connector joins every cable on
-    its tile, including corners, crossings and different colours. Only one
+    its tile, including crossings and different colours. Only one
     connector fits on a tile; unwrench it to take it back.
 
 3. Connect the machinery (you may need to secure it with the wrench
