@@ -449,6 +449,22 @@ Click the tiller to sail:
 - Once commissioned she can sail onto deep salt water. If you strike her out there, the floors are plain planks again and will not last on the deep sea.
 - If the tiller is destroyed she is a raft of planks again. Set a new tiller and commission her.
 
+### Ship's boats
+
+A ship with a deck, whether a [hull you built yourself](#building-your-own-hull), a [slipway ship](#slipway-ships) or an aircraft carrier, can carry a [modular boat](#modular-ships) on her deck and put it back in the water wherever she stops. Craft a **boat davit** (10 wood, vehicle parts, the same research as boats) and build it on her deck. The davit's **cradle** is the patch of deck ahead of it, 3 by 3 tiles to begin with. Click the davit to:
+
+| Choice | What it does |
+| --- | --- |
+| **Show the cradle** | Marks the cradle's tiles for a few seconds |
+| **Turn the cradle** | Swings the cradle round to another side of the davit |
+| **Set the cradle's size** | From 2 to 5 tiles each way. The whole cradle must lie on her deck |
+| **Hoist a boat aboard** | Lifts a boat lying within 8 tiles into the cradle |
+| **Lower it to the north / east / south / west** | Sets the boat down in the first clear water over that side |
+
+A lift takes about ten seconds at the capstan, and the ship must be stopped. The boat comes aboard whole, with everyone and everything in it, and lies the way it lay in the water, so bring it alongside pointing the way the cradle is long. The cradle must be clear of anything solid, and it holds one boat at a time.
+
+While the boat is in the cradle it rides with the ship through every move and turn, its anchor is down and it will not sail. The ship's [sea chart](#harbours-and-the-sea-chart) lists it under **In her davits** instead of among the boats in sight. If the ship is registered, only her crew can work the davit.
+
 ## Harbours and the sea chart
 
 Slipway ships, the aircraft carrier and hulls you built yourself share one sea chart and can lie moored at a harbour.
