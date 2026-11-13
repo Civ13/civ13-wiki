@@ -911,10 +911,10 @@ Craft a gun sling from **2 leather** in the **Weapons** menu after **Gunsmithing
 
 ### Modular rifle parts
 
-Twenty rifle families are built from four parts:
+These rifle families are built from four parts:
 
-- **AK:** AKM and AK-74 rifles (including the folding-stock and short versions) and the AK-101 to AK-105.
-- **AR:** the M16A1, AR-15, M16A2 and M16A4, the XM177E2 and M4 carbines, and the C7 and C8.
+- **AK:** AKM and AK-74 rifles (including the folding-stock, short and tactical versions) and the AK-101 to AK-105.
+- **AR:** the M16A1, AR-15, M16A2 and M16A4, the XM177E2, M4 and MK-18 carbines, the C7 and C8, and the semi-automatic Bushmaster XM-15.
 - **Mauser:** the Gewehr 98, Karabiner 98a and 98k, the Mauser M1890, M1893 and M1903, the Gewehr 71 and the Madsen M47 bolt-action rifles (see below).
 - **Mosin:** the Mosin M1891 and 91/30 bolt-action rifles. The sawn-off Obrez cannot be taken apart.
 - **Arisaka:** the Arisaka Type 30, 35, 38, 97 and 99 bolt-action rifles.
@@ -926,6 +926,9 @@ Twenty rifle families are built from four parts:
 - **Murata, Berdan, Volkssturmgewehr and M24:** the Type-22 Murata, Berdan M1870, Volkssturmgewehr and M24 SWS bolt-action rifles, each a family of its own.
 - **Sharps, Rolling-block and Martini-Henry:** the single-shot Sharps, Rolling-Block (both the .45-70 and the Spanish .43 versions) and Martini-Henry rifles.
 - **PTRD, PzB and Barrett:** the PTRD-41 and PzB 39 anti-tank rifles and the Barrett M99, including the scoped versions.
+
+- **Semi-automatic rifles:** the SKS (including the Chinese and SKS-M versions), Gewehr 41 and 43 (one family), SVT-40, M1 Garand, M1 Carbine, Fedorov Avtomat, Volkssturmkarabiner 98, PTRS-41, SVD, VSS Vintorez, Barrett M82 and BAMR, each a family of its own.
+- **Lever-action:** every lever-action rifle, including the Winchesters, the Henry and Evans repeaters and the Cowboy Repeater, shares one family.
 
 The makeshift bolt rifle and the training Arisaka cannot be taken apart.
 
@@ -948,6 +951,12 @@ Hold the rifle, then right-click it and choose **Rifle Parts** to open its parts
 
 **Single-shot rifles** (Sharps, Rolling-block, Martini-Henry, PTRD, PzB and Barrett) have a breechblock or bolt, a barrel, an extractor or breech that takes one round at a time, and a stock. A Rolling-Block rifle can be converted between .45-70 and .43 Spanish by fitting a barrel and extractor of the other cartridge.
 
+**Semi-automatic and lever-action rifles** work the same way, with a bolt carrier (or lever) instead of a bolt:
+
+- An SKS can be fitted with the SKS-M magazine well to take SKS-M and AK-47 magazines, and an SKS-M can go back to the fixed ten-round magazine loaded from clips.
+- A Gewehr 41 and a Gewehr 43 swap between the fixed clip-loaded magazine and the detachable Gewehr 43 magazine the same way.
+- Lever-action barrels and tube magazines come in .44-40, .357 Magnum and .45-70. The tube keeps the rifle's own length, so a Winchester M1873 rebarrelled to .45-70 still holds 14 rounds.
+
 **Making rifle parts in a factory:** once your faction has researched **Automatic Weapons**, fabricators can make every AK and AR part and a bare **AK receiver** or **AR receiver**. Fit a bolt carrier and a barrel to the receiver at a firearm maintenance bench, then a magazine well and a stock, and you have a working rifle named after its family and caliber.
 
 | Fabricator recipe | Inputs | Minimum fabricator |
@@ -964,15 +973,16 @@ Hold the rifle, then right-click it and choose **Rifle Parts** to open its parts
 Fabricators also make every bolt-action and single-shot part and a bare receiver for each family. The research a family needs depends on its era:
 
 - **Cartridge Firearms**, at Assembly (tier 1): Mauser, Mosin, Arisaka, Lee-Enfield, Springfield, Lebel, Berthier, Carcano, Murata, Berdan, Sharps, Rolling-block and Martini-Henry.
-- **Self-Loading Firearms**, at Assembly (tier 1): Volkssturmgewehr, PTRD and PzB.
-- **Automatic Weapons**, at Automated (tier 2): M24 and Barrett.
+- **Cartridge Firearms**, at Assembly (tier 1): lever-action.
+- **Self-Loading Firearms**, at Assembly (tier 1): Volkssturmgewehr, PTRD, PzB, SKS, Gewehr 41/43, SVT, M1 Garand, M1 Carbine, Fedorov, Volkssturmkarabiner and PTRS.
+- **Automatic Weapons**, at Automated (tier 2): M24, Barrett M99, SVD, VSS, Barrett M82 and BAMR.
 
-| Fabricator recipe | Rifles | Anti-tank rifles (PTRD, PzB, Barrett) |
+| Fabricator recipe | Rifles | Anti-tank and anti-materiel rifles (PTRD, PTRS, PzB, Barretts, BAMR) |
 | --- | --- | --- |
 | Receiver | 4 steel | 6 steel |
-| Bolt or breechblock | 2 steel | 3 steel |
+| Bolt, bolt carrier, lever or breechblock | 2 steel | 3 steel |
 | Barrel (any caliber of that family) | 3 steel | 5 steel |
-| Magazine, extractor or breech (any caliber of that family) | 1 steel | 2 steel |
+| Magazine, magazine well, extractor or breech (any caliber of that family) | 1 steel | 2 steel |
 | Stock | 3 wood (M24: 2 steel) | 2 steel |
 
 ### Cleaning and repairs
