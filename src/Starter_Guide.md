@@ -102,7 +102,7 @@ Avoid drinking "raw" water from puddles, rivers, and lakes! It needs to be boile
 If you have no boilable container, milk and well water are safer than drinking directly from open puddles.
 ```
 
-- To drink, you need a **mug** made of **wood** or a **drinking glass** made of **glass**.
+- To drink, hold a **mug**, **drinking glass**, bottle or **bucket** with its lid off and click yourself on **Help intent**. Aim at your **mouth** to be sure you drink rather than pour it over a wound.
 - **Wells** have disease-free freshwater. However, if there is excrement within four tiles of a well, the water becomes contaminated and unsafe to drink.
 - You can build a well over a **puddle** by using **stone**, if your faction has the required research levels.
 - "Raw" water needs to be **boiled** to be 100% safe. Otherwise, you have a chance of catching **cholera**. If you're dying, raw water may be a risk you'll have to take.
