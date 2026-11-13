@@ -238,7 +238,29 @@ There are two boats:
 2. Craft a **submarine pen** (40 steel, in the production section) on the shore. The 5x5 square northeast of the pen must be **deep saltwater** with nothing in it, and the pen needs a power cable on or next to it, like the [automobile workshop](Guide_to_Crafting.md#automobile-workshop).
 3. Feed the pen steel, glass and cable, then click it and choose **Scout submarine** or **Explorer submarine**. An Explorer needs the 7x7 square northeast of the pen clear.
 
+Or build one [by hand](#building-one-by-hand) from hull sections, without a pen.
+
 The boat is launched into the square with an **empty diesel tank** and a vehicle key. The hull is roofed, so from outside you see only its steel shell.
+
+### Building one by hand
+
+You can also build a submarine without a pen, the way you build a [modular ship](#modular-ships). Everything is crafted from steel in the vehicle parts section after **Submarines** research:
+
+| Part | Steel |
+| --- | --- |
+| Submarine hull section | 6 |
+| Submarine controls | 20 |
+| Ballast and periscope station | 10 |
+| Submarine battery bank | 8 |
+| Submarine air bank | 8 |
+
+1. Lay **submarine hull sections** on surface water, one per tile, in a rectangle **3 wide**. Make it **5 long** for a Scout or **7 long** for an Explorer. Any other size is refused.
+2. Stand the parts on the sections: a **ship rudder control** (the wheel), an engine with its fuel tank, and a **ballast and periscope station**. Without the station she sails but can't dive. A battery bank, an air bank, lockers and bunks are optional. The bank gauges only show readings; the battery and air work without them.
+3. Place the **submarine controls** on any section and click them. Choose **Assemble it**, pick which way the bow points along the long side, and name her.
+
+Each section becomes the part of the hull its place calls for, the same as a pen-built boat: the glass bow, the control room, the lock-out hatches amidships, the watertight doors and the engine room. Place the parts with that plan in mind, because the two stern corners become **sealed tanks** that nobody can reach.
+
+A hand-built boat dives, surfaces and docks like one from the pen. To rebuild her, surface, stop the engine, click the controls and choose **Take it apart**. The sections keep their shapes and can be assembled again facing another way. Her station and gauges come loose too.
 
 ### Finding your way around
 
