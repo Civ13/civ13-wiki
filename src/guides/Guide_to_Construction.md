@@ -80,6 +80,8 @@ Most bricks and blocks are made with **[Clay](../Full_Crafting_List.md#clay)**, 
 
 ## Walls
 
+A tile holds one wall, door or window. A wall can stand on a floor, and a door can hang in a doorway or archway.
+
 <b>Deconstruction</b>
 
 Any kind of wood walls could be set on fire by hitting them with a
@@ -985,6 +987,8 @@ No more sloshing or plodding through the mud and snow! Walk the
 civilized way, swiftly and with resonant "top-top" footfalls! Not only
 that - floors on the surface prevent digging upwards from the
 underground. **Floors can be removed with the hammer.**
+
+A tile holds one floor. To lay a different floor, remove the old one with the hammer first.
 
 <table>
 <tbody>
