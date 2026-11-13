@@ -241,7 +241,7 @@ Powered hydroponics trays grow vegetables and wheat indoors, all year round.
 2. Craft a **hydroponics tray frame** from 4 steel, fit two glass sheets, then one length of cable to finish the tray. Fasten it with a wrench.
 3. Plant potato, carrot, cabbage, tomato, bean or wheat seeds.
 4. Pour water into the tray from any open container, and dissolve compost from a compost bin into it for nutrients (one compost gives 3 nutrient). The tray holds 60 units of water and nutrient combined, so leave room for both. If you fill it with only one, right-click the tray and choose **Drain Reservoir** to empty it.
-5. Connect a cable carrying 5 PU of power.
+5. Connect a cable carrying 5 kW of power.
 
 A crop grows through six cycles. Each cycle takes a minute of power, 2 units of water and 1 unit of nutrient, so a crop needs about two composts. Without power, water or nutrient the crop pauses and keeps its progress, but **tomatoes and beans** die if they go about ten minutes without water. Examine the tray to see its reservoir and progress. Harvest a ready crop by hand; clear a dead one with a knife, hatchet or scythe. A tray outdoors with no roof loses its crop to snowstorms and sandstorms like a field.
 

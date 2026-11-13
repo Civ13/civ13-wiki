@@ -63,7 +63,7 @@ Pipe networks, pumps, holding tanks, reaction vessels, bottlers and the automati
 
 ## Centrifuge setup
 
-Secure it with a wrench and [connect cable power](Guide_to_Crafting.md#wiring). It needs **30 PU**, so a single [battery](Guide_to_Power.md) is insufficient. Your character must meet its medical skill requirement to load and operate it.
+Secure it with a wrench and [connect cable power](Guide_to_Crafting.md#wiring). It needs **30 kW**, so a single [battery](Guide_to_Power.md) is insufficient. Your character must meet its medical skill requirement to load and operate it.
 
 Pour the input into the centrifuge; each container interaction transfers up to 10 units. Install an **empty vial** as collector, then click the machine to begin its **15-second** cycle. Power is checked at start and completion. Use **Remove Vial** after it stops.
 

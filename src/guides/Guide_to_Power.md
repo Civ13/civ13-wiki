@@ -8,12 +8,12 @@ These recipes are in the global crafting catalog. Map catalogs, era and characte
 
 | Device | Crafting and commissioning | Capacity / output limit |
 | --- | --- | --- |
-| Baghdad-style jar cell | Craft an assembly from 2 copper. Fit a fired clay vase, then 1 iron sheet and 10 units of grape juice. | 600 PU s / 1 PU |
-| Iron-copper voltaic-style pile | Craft from 5 copper, then add 5 iron sheets and 50 units of grape juice. | 3,000 PU s / 5 PU |
-| Lead-acid accumulator | Craft from 5 lead. Add 20 units of sulfuric acid to commission it; it remains empty until electrically charged. | 12,000 PU s / 10 PU; charge limit 10 PU |
-| Lithium-ion battery bank | Digital Age, Consumer Electronics research. Craft from 25 electronics. It arrives sealed and commissioned, but empty: charge it like the accumulator. | 48,000 PU s / 40 PU; charge limit 40 PU |
+| Baghdad-style jar cell | Craft an assembly from 2 copper. Fit a fired clay vase, then 1 iron sheet and 10 units of grape juice. | 167 Wh / 1 kW |
+| Iron-copper voltaic-style pile | Craft from 5 copper, then add 5 iron sheets and 50 units of grape juice. | 833 Wh / 5 kW |
+| Lead-acid accumulator | Craft from 5 lead. Add 20 units of sulfuric acid to commission it; it remains empty until electrically charged. | 3.33 kWh / 10 kW; charge limit 10 kW |
+| Lithium-ion battery bank | Digital Age, Consumer Electronics research. Craft from 25 electronics. It arrives sealed and commissioned, but empty: charge it like the accumulator. | 13.33 kWh / 40 kW; charge limit 40 kW |
 
-PU is the game's abstract power unit; PU s is stored energy.
+Output and demand are shown in kilowatts (kW) and stored energy in watt-hours (Wh, kWh).
 
 ## Wind, water and solar generators
 
@@ -21,10 +21,10 @@ These feed the cable grid from the weather instead of fuel. Build them outdoors 
 
 | Generator | Era and research | Built from | Peak output |
 | --- | --- | --- | --- |
-| Wind charger | Early Modern, Electricity | 15 iron | 12 PU |
-| Waterwheel generator | Early Modern, Electricity | 15 iron | 12 PU while its river flows |
-| Photovoltaic panel | Cold War, Automation | 10 electronics | 10 PU in daylight, nothing at night |
-| Wind turbine | Modern, Digital Computing | 30 steel | 45 PU |
+| Wind charger | Early Modern, Electricity | 15 iron | 12 kW |
+| Waterwheel generator | Early Modern, Electricity | 15 iron | 12 kW while its river flows |
+| Photovoltaic panel | Cold War, Automation | 10 electronics | 10 kW in daylight, nothing at night |
+| Wind turbine | Modern, Digital Computing | 30 steel | 45 kW |
 
 Wind output follows the wind speed shown when you examine the generator. The wind charger gives nothing in calm air, its full output in a strong wind, and furls to a fraction of it in a gale. The wind turbine reaches full output in strong winds and keeps it in a gale. Two rotors closer than three tiles share the same air and each loses half its output, so space them out.
 
@@ -37,13 +37,25 @@ Machines that use the cable grid include [hydroponics trays](Guide_to_Farming.md
 ## Connect and operate
 
 1. Assemble and commission the battery. Use a wrench to secure it.
-2. Stand beside it and use a cable coil on it. Continue the cable network in the matching direction; battery attachment joins neighboring straight cables of the same color and orientation. A cable merely lying nearby does not establish a connection.
+2. Stand beside it and use a cable coil on it, then continue the cable network from there (see [Laying cable](#laying-cable)). A cable merely lying nearby does not establish a connection.
 3. Click the battery to select its mode. Primary cells cycle **off → discharge → off**. The accumulator and the lithium-ion bank cycle **off → charge → discharge → off**.
 4. Examine it to read stored energy, output limit and mode. Switch it off when finished: discharge consumes energy each second even when no machine uses it.
 
 The jar and pile cannot recharge electrically. When empty, switch off, replace the iron electrode and grape juice using the amounts above. The accumulator charges from spare output of running engines on its cable network, after machine loads; another battery cannot charge it.
 
 Cut its cable before unanchoring. Moving or disconnecting a battery turns it off. After a world save is loaded, stored chemical state is retained, but mode, output and wiring must be rebuilt by players. This describes battery save behavior where server world saves are enabled; it does not promise that every round or server retains your settlement.
+
+## Laying cable
+
+Hold a cable coil and use it in hand to lay a piece on your tile, pointing the way you face. Walk on and lay the next piece to continue a straight run; pieces join wherever their ends meet.
+
+To turn a corner, stand on the corner tile facing the new direction and lay the piece there. When the run arrives from the side and nothing waits behind you, the piece bends into a corner and joins both ways. A straight run that crosses another one stays separate. Use a **cable connector** (1 copper) on the tile to join a T-junction, a crossing or runs of different colors.
+
+## Transformers and power meters
+
+A **distribution transformer** (10 iron, Electricity research) powers machines without running a cable to each one. Lay a cable, put the transformer on that tile and fasten it with a wrench. Every machine within 5 tiles that draws power then runs from that cable, as long as no wall, closed door or window stands on the straight line between them. Machines built or moved into its reach join by themselves. Machines that move out of reach, or that lose sight of the transformer when it is unfastened, lose its power. Click it to look for machines again, and examine it to see how many it feeds. A machine that already has its own cable keeps it.
+
+A **power meter** (3 iron, Electricity research) shows what a grid is doing. Fasten it on a cable with a wrench, then click it. It shows the grid's supply, demand and load, with a chart of the last minute that keeps updating while you stand next to it. Examine it for a quick reading.
 
 ## Power between floors
 
@@ -56,7 +68,9 @@ A **bus tie switch** (2 copper, same section) is a connector you can open and cl
 ## Troubleshooting
 
 - **No power:** check commissioning, anchoring, cable attachment, mode and remaining energy. For an accumulator, adding acid does not supply charge.
+- **A corner did not join:** lay the corner piece while standing on the corner tile and facing the new direction, with the incoming cable beside you. Otherwise use a cable connector there.
+- **A machine near a transformer has no power:** check it is within 5 tiles, with no wall, closed door or window on the straight line, and click the transformer to look for machines again.
 - **Nothing upstairs:** a riser needs a secured partner at the same spot on the next floor, and a cable on both tiles.
-- **Machine exceeds output:** one accumulator supplies at most 10 PU. The laboratory centrifuge requires 30 PU, so one battery cannot run it. Provide sufficient connected generation; stored capacity alone does not raise output.
+- **Machine exceeds output:** one accumulator supplies at most 10 kW. The laboratory centrifuge requires 30 kW, so one battery cannot run it. Provide sufficient connected generation; stored capacity alone does not raise output.
 - **Cannot craft cables:** check the map catalog, era, skill and Electricity research. Battery availability does not bypass those gates.
 - **Engine will not run a vehicle:** inspect its accepted fuel and installation. The chemistry guide's [9:1 blend](Guide_to_Chemistry.md#engine-fuel) is accepted by internal engines that already accept gasoline; it does not add compatibility to diesel-only engines.
