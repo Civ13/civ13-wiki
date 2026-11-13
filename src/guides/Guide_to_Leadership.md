@@ -109,6 +109,16 @@ On maps that include artillery or air support, radio operators get **Order Airst
 
 Choose the strike type when prompted, then enter the X and Y coordinates. The strike arrives after a short delay, so warn your teammates.
 
+## Laser designators and jets
+
+On Syria, every Delta Force operator carries a **laser designator** in their webbing. Some roles on the MilSim maps carry one too.
+
+1. Hold the designator and use it in hand to choose the **attack direction** and the **payload**.
+2. With a radio on you, click the target while holding the designator, then stay still while you call it in. Designators work only once the grace wall is down.
+3. The jet comes in along the attack direction and passes over the target as it fires. On modern maps you will see an F-16 or Su-25 and its shadow sweep across the map, and rockets streak in on smoke trails.
+
+Each side has a limited number of strikes. When you run out, the next call sends the jet away to re-arm for five minutes. Enemy SAM sites within 60 tiles may shoot the jet down, which also grounds it for five minutes.
+
 ## Artillery pieces
 
 Field guns and artillery pieces are operated directly, not ordered by radio. See [How to use artillery](Guide_to_Weapons.md#how-to-use-artillery).
