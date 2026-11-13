@@ -40,17 +40,35 @@ Check [Hotkeys](Hotkeys.md).
 
 ### Practice Room
 
-To try the controls before your first round, choose **Practice Room** in the Lobby. You get a private room and a practice body called "Trainee". Nothing you do there affects your real character. One step at a time appears in chat:
+To try the controls and learn how to get through your first day, choose **Practice Room** in the Lobby. You get a private room and a practice body called "Trainee". Nothing you do there affects your real character. One step at a time appears in chat.
+
+The controls:
 
 1. Walk onto the glowing marker with W, A, S, D or the arrow keys.
 2. Pick up the knife by clicking it with an empty hand.
 3. Swap hands with X.
 4. Pick up the straw hat and wear it.
 5. Open the door in the middle wall and walk through.
+
+Fighting and first aid:
+
 6. Choose the red Harm intent (press 4) and hit the practice dummy.
 7. Bandage the small cut on your left arm: pick up the gauze, select your left arm on the body doll, then click yourself.
-8. Eat the bread slice by clicking yourself with it.
-9. Walk onto the exit marker.
+
+Surviving your first day, in the camp behind the second door:
+
+8. Switch back to the green Help intent (press 1) and walk into the camp. On Harm you would splash drinks and hit people.
+9. Put the firewood into the campfire, then click the campfire with an empty hand to light it.
+10. Put the raw meat into the lit campfire and wait for it to roast. Raw meat can give you food poisoning or worms.
+11. Eat the roasted meat by clicking yourself with it.
+12. Fill the pot by clicking the puddle with it. Water from puddles, rivers and wells can carry cholera.
+13. Put the pot on the campfire and wait for it to boil. Boiling kills the germs.
+14. Drink the boiled water by clicking yourself with the pot. Never drink straight from a puddle or river.
+15. Take off your filthy, flea-ridden shirt and wash it by clicking the puddle with it. Fleas spread typhus.
+16. While undressed, stand in the puddle and click yourself with the soap to wash.
+17. Put your clean shirt back on.
+18. Lie down in the bed by dragging your character onto it. If you fall ill, rest in a bed to recover faster and keep away from people who are coughing.
+19. Get up and walk onto the exit marker.
 
 When you reach the exit you return to the Lobby. To leave early, use any of these:
 
