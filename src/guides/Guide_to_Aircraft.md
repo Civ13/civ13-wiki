@@ -15,6 +15,9 @@ Two light planes on a runway, nose to the east. Offline render using Civ13 sprit
 | Light plane | 50 steel, 6 glass, 4 cloth, 8 cable, 4 unattached wheels | Built at the hangar | Built at the hangar |
 | Cabin plane | 65 steel, 8 glass, 8 cloth, 8 cable, 4 unattached wheels | Built at the hangar | Built at the hangar |
 | Aircraft bomb casing | 8 steel | Powered Flight | Industrial 126 |
+| Airframe section | 4 steel | Powered Flight | Industrial 126 |
+| Airframe controls | 12 steel | Powered Flight | Industrial 126 |
+| Pilot's seat | 8 steel | Powered Flight | Industrial 126 |
 
 **Powered Flight** is an Industrial node in the Vehicles line. It needs **Automobiles** and **Combustion Engine**, and Aviation & Rocketry is researched after it. The hangar is in the **production** crafting category and runway in **roads**. The hangar only assembles planes for a faction that has finished the Powered Flight node.
 
@@ -30,6 +33,16 @@ The plane can also be built **piece by piece**, by several people. Choose **Star
 The light plane is four tiles long and three wide: the nose with the engine and propeller, the cockpit between the wings, a fuselage section with one passenger seat, and the tail. The pilot sits in the cockpit and flies from the **control column**.
 
 The **cabin plane** has the same airframe and size, so it fits the same hangar bay and carrier elevators, but its whole fuselage row is a cabin with **three passenger seats**. The extra weight needs a longer take-off roll: **10 tiles** of runway or **20** of open ground. Built piece by piece, it takes the same pieces as the light plane, with 8 cloth for the seats.
+
+## Building a plane by hand
+
+Without a hangar, a plane can be put together from loose parts like a [hand-built vehicle](Guide_to_Crafting.md#modular-tanks). Craft the airframe sections, airframe controls and pilot's seat in the **vehicle parts** category.
+
+1. Lay airframe sections side by side in a rectangle **3 sections wide** and **3 to 5 long**. The 3 is the wingspan; the long side runs from nose to tail.
+2. Stand the parts on the sections: an engine and a fuel tank (on the middle of the front row, so the engine turns the propeller), the **pilot's seat** on the middle of the second row, a wheel on each of the four corners, and passenger seats anywhere behind. A car's driver's seat does not fly a plane.
+3. Put the airframe controls on any section and click them. The survey says what the airframe still needs. Choose **Assemble it**, then pick which way the nose points: along the long side.
+
+Every section takes the shape its place calls for: the front row becomes the nose, the second row the wings with the cockpit under the pilot, the last row the tail and anything between the fuselage. A **3 by 3** plane is a short trainer, **3 by 4** has the light plane's shape, and **3 by 5** is a long transport. Planes longer than the light plane need a longer take-off roll, one more runway tile for every two extra sections, and a 5-long plane does not fit a 4x4 hangar bay. Parts stood on it later are fitted with **Fit new parts**, and its builders can **Take it apart** again. Fill the tank and it flies like any other plane.
 
 ## Laying a runway
 
@@ -100,6 +113,10 @@ The aircraft hangar also stores up to **2 planes** off the map. A plane in the h
 4. To fly again, clear the bay and choose **Roll out a hangared aircraft**. The plane comes back where it was parked, with the same fuel and damage.
 
 You need to hold the plane's key to hangar it and to roll it out. Examine the hangar to see which planes it holds. Cars go in a [vehicle garage](Guide_to_Crafting.md#vehicle-garage).
+
+## Towing a plane
+
+A plane on the ground can be towed like a car. Park it in line behind a truck or another vehicle, both facing the same way and standing still, within 2 tiles, and use a **rope** on the plane. It then rolls and turns wherever the tug goes, which is handy for pulling a plane out of a hangar bay or along a taxiway without starting its engine. The tug pulls the plane's weight too: a light plane is too heavy for a small car, so use a truck. A plane cannot take off while it is on a tow line, and a plane in the air cannot take one. Right-click either vehicle and choose **Cast Off Tow Line** to let go.
 
 ## Tips
 
