@@ -12,4 +12,8 @@ Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/do
 This map is a Naval Conflict between the French and Pirates. The Round
 ends when one side controls the other's ship.
 
+## Broadsides
+
+Each ship has six guns facing the enemy. Gun crews load and aim their own guns, and the captain carries a **boatswain's call**: use it on deck, pick a side, and every loaded gun on that side of your ship fires one after another. Guns nobody aimed fire straight out from the side of the ship. The call needs a short rest between broadsides, and no gun fires before the battle starts.
+
 French (Hostile) Pirates (Hostile)
