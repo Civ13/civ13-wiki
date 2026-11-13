@@ -441,11 +441,10 @@ If you are a medical professional or just a beginner you may wish to
 learn how to keep people from ending up sick and useless.
 
   
-- **Salt overdose**: Extreme dehydration from drinking sea-water (even
-    boiled) or eating too much dried meat 
-- you might be able to save
-    them by feeding them with a lot of water, and if you have tea that
-    will help too.
+- **Salt overdose**: Heavy thirst from drinking sea-water (even
+    boiled) or eating a lot of salt or dried meat. Salt alone will not
+    kill, but a large dose can make the patient nauseous and vomit.
+    Give them plenty of fresh water or tea to clear the thirst.
   
 - **Cholera**: Caught from puddle or river water (or a well with
     feces near it) that hasn't been boiled. Cure it with penicillin or
