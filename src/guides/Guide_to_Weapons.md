@@ -1034,7 +1034,7 @@ Insert a compatible magazine and chamber a round as required by the gun. Check t
 
 - Toggle the drawing method on ammunition boxes and pouches to take ammunition from them while held.
 - Refill compatible magazines or clips by combining them, or stand over ammunition piles and press **C**. The caliber must match. Ammunition boxes and pouches can also be refilled this way.
-- Used casings can be reloaded with gunpowder and lead projectiles.
+- Fired brass can be loaded again with gunpowder and iron bullets. See [cartridges](Guide_to_Crafting.md#iron-projectiles) in the crafting guide.
 - Caliber alone does not tell you how an engagement will go. Accuracy, cover, ammunition and positioning matter too.
 
 **Armor and ammunition types:**
