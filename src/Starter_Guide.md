@@ -301,6 +301,8 @@ The Status tab has some general info about the ongoing round, both OOC and IC:
 - your **Diet energy** bonus (see [Balanced diet](guides/Guide_to_Cooking.md#balanced-diet))
 - on persistent worlds such as Gaia, **Last save**: when the world was last saved (UTC) and how long ago, shown under World activity and Joining
 
+To see which version of the game the server runs, use the **Server Revision** verb in the OOC tab. It shows the commit (with a link to it on GitHub), what it changed, when the server was last updated and how long the world has been running.
+
 ### Inventory
 
 - **Drag and drop** an item onto a backpack, belt, pouch or other storage (worn, held, open, or on a tile next to you) to put it inside, or onto an empty hand or equipment slot to hold or wear it.
