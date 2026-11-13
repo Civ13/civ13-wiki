@@ -933,7 +933,12 @@ These gun families are built from four parts:
 - **Pistols:** the Nambu (Type A and Type 14), Bergmann, Luger, Walther P38, Browning Hi-Power, Mauser C96, Borchardt, Colt Pocket Hammerless (M1903 and M1908), M1911 (including the Colt Mark IV and STI 2011), Tokarev TT-33, Makarov, Stechkin APS, Glock (including the IOQ B-72 and Tarus G3, which take Glock magazines), Beretta M9, Jericho 941, SIG 250, SIG P220, PL-14, MP-443 and Desert Eagle.
 - **Revolvers:** the Nagant M1895, Modele 1892, Colt Single Action (Peacemaker, Storekeeper and Frontier), Colt M1892, Colt Police Positive, Smith & Wesson (Model 30, Orbea Hermanos and M.10), Enfield No. 2, Webley Mk IV, Type 26, Derringer, Magnum 44, Mckellen M12, Taurus Judge and the Colt Revolving Rifle.
 
-The makeshift bolt rifle, the training Arisaka, the makeshift revolver and the Panther revolver cannot be taken apart.
+- **Shotguns:** pump-action shotguns share one family; the KS-23, coach gun, MTS-225, Remington 11, SPAS-12, Saiga-12, USAS-12 and AR-12 are each a family of their own.
+- **Submachine guns:** the MP40, Erma EMP, MAB 38, Sten, Thompson (including the Tommy gun), M3 Grease Gun, PPSh, PPD, PPS, Type 100, MP5, Uzi, Skorpion, TEC-9, Kriss Vector, MAC-10, P90 and SR-3.
+- **Automatic rifles:** the StG-44, FG42, M14, FAL, G3, AR-10, HK417, SCAR (L and H), AUG, L85, QBZ-95 and VZ-58.
+- **Machine guns:** the BAR, Breda 30, Browning M1919, DP, Madsen, MG 13, MG 34, Type 96 and 99, MG 3, M60, C6, M249, Negev, RPD, RPK (47 and 74), PKM and NSV.
+
+The makeshift bolt rifle, the training Arisaka, the makeshift revolver, the Panther revolver and the makeshift AK cannot be taken apart. Emplaced and vehicle-mounted guns, such as the Maxim, Vickers, DShK and autocannons, are serviced in place and have no removable parts.
 
 Hold the gun, then right-click it and choose **Gun Parts** to open its parts panel. The panel shows whether the gun can fire and what is stopping it, its cartridge, handling and the magazines or clips it takes, and each installed part with its condition and a **Remove** button. Unload the gun before working on it. Every gun part you carry is listed too, with a preview of what fitting it would change: handling before and after, the cartridge, and whether the gun would still fire. Hold a part in your active hand to get a **Fit** button, or use it on the gun. Examining the gun up close also lists its parts. Each family's parts only fit guns of that family.
 
@@ -967,6 +972,12 @@ Hold the gun, then right-click it and choose **Gun Parts** to open its parts pan
 - M1911: the 2011 grip module takes STI 2011 magazines.
 - Colt Single Action: .45 Colt or .44-40.
 - Smith & Wesson: .32 or .38.
+
+**Shotguns, submachine guns, automatic rifles and machine guns** have a receiver, an action or bolt, a barrel, a magazine well (or tube magazine, breech, cylinder or feed tray) and a stock. Some convert between cartridges:
+
+- SCAR: 5.56x45mm (STANAG magazines) or 7.62x51mm (SCAR-H magazines).
+- RPK: 7.62x39mm (RPK-47 and AK-47 magazines) or 5.45x39mm (RPK-74 and AK-74 magazines).
+- Type 96/99: 6.5x50mm or 7.7x58mm.
 
 **Making rifle parts in a factory:** once your faction has researched **Automatic Weapons**, fabricators can make every AK and AR part and a bare **AK receiver** or **AR receiver**. Fit a bolt carrier and a barrel to the receiver at a firearm maintenance bench, then a magazine well and a stock, and you have a working rifle named after its family and caliber.
 
@@ -1005,6 +1016,21 @@ Pistol and revolver parts are made at Assembly (tier 1): pre-war designs need **
 | Barrel | 1 steel |
 | Magazine well or cylinder | 1 steel |
 | Grip | 1 wood (Automatic Weapons designs: 1 plastic) |
+
+Shotgun, submachine gun, automatic rifle and machine gun parts need:
+
+- **Cartridge Firearms**, at Assembly (tier 1): pump-action, coach gun and Remington 11.
+- **Self-Loading Firearms**, at Assembly (tier 1): the wartime submachine guns (MP40 to Type 100), StG-44, FG42 and the BAR, Breda 30, Browning M1919, DP, Madsen, MG 13, MG 34 and Type 96/99.
+- **Automatic Weapons**, at Assembly (tier 1): the KS-23, MTS-225, SPAS-12, Saiga-12, USAS-12, AR-12 and the post-war submachine guns (MP5 to SR-3).
+- **Automatic Weapons**, at Automated (tier 2): the post-war automatic rifles (M14 to VZ-58) and machine guns (MG 3 to NSV).
+
+| Fabricator recipe | Shotguns | Submachine guns | Automatic rifles | Machine guns (NSV) |
+| --- | --- | --- | --- | --- |
+| Receiver | 3 steel | 3 steel | 4 steel | 5 steel (7) |
+| Action, bolt or bolt carrier | 2 steel | 1 steel | 2 steel | 2 steel (3) |
+| Barrel | 3 steel | 2 steel | 3 steel | 4 steel (6) |
+| Magazine well, tube, breech, cylinder or feed tray | 1 steel | 1 steel | 1 steel | 2 steel (3) |
+| Stock | 3 wood, 2 steel or 2 plastic | 1 steel or 1 plastic | 3 wood, 2 steel or 2 plastic | 3 wood, 2 steel or 2 plastic |
 
 With this many recipes, a fabricator first asks which group to choose from: **General**, or one family's parts such as **Glock parts**.
 
