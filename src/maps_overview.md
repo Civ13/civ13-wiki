@@ -50,6 +50,7 @@ Maps are grouped the way the in-game map vote groups them: pick the era or mode 
 - [Little Creek TDM](maps/Little_Creek_TDM.md)
 - [Missionary Ridge](maps/Missionary_Ridge.md)
 - [Naval](maps/Naval.md)
+- [Broadside](maps/Broadside.md)
 - [Supply Raid](maps/Supply_Raid.md)
 - [Bridge](maps/Bridge.md)
 - [Recife](maps/Recife.md)
