@@ -1299,7 +1299,7 @@ Ships are built tile by tile from ship frames, walls, masts or an engine, a whee
 
 ### Aircraft hangar
 
-Research **Powered Flight**, then craft an aircraft hangar from **40 steel** in the production category. It works like the automobile workshop, with a **4x4** bay to its northeast and 20 power from a cable, and is refused the same way when the bay or cable is missing, and builds a light plane from 50 steel, 6 glass, 4 cloth, 8 cable and 4 wheels. It can also store up to **2 planes** off the map. Runway is laid from **1 stone** per tile in the roads category. Planes can also be built by hand from **airframe sections**, **airframe controls** and a **pilot's seat** (vehicle parts, Powered Flight), and towed on the ground behind a truck. See **[Aircraft](Guide_to_Aircraft.md)** for building, flying and landing.
+Research **Powered Flight**, then craft an aircraft hangar from **40 steel** in the production category. It works like the automobile workshop, with a **4x4** bay to its northeast and 20 power from a cable, and is refused the same way when the bay or cable is missing, and builds a light plane (50 steel, 6 glass, 4 cloth, 8 cable and 4 wheels), a cabin plane, a small trainer or a cargo plane. It can also store up to **2 planes** off the map. Runway is laid from **1 stone** per tile in the roads category. Planes can also be built by hand from **airframe sections**, **airframe controls** and a **pilot's seat** (vehicle parts, Powered Flight), and towed on the ground behind a truck. See **[Aircraft](Guide_to_Aircraft.md)** for building, flying and landing.
 
 ### Modular tanks
 
