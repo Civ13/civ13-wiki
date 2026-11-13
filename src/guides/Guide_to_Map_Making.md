@@ -15,7 +15,7 @@ Craft a blank map from **2 soft wood** in the **paper & printing** section of th
 Things to know:
 
 - **Light.** You need decent light where you stand to draw at all; at night, stand by a lamp, lantern or fire. Faraway land only needs a little light to make out, so moonlight is enough for the view, just not for your own page.
-- **Line of sight.** Walls, dense woods and rock hide what is behind them. Land in darkness right next to you is still drawn.
+- **Line of sight.** Walls and rock hide what is behind them; trees do not. Land in darkness right next to you is still drawn.
 - **One land per map.** The first sketch binds the map to the land and level you are on. It will not draw anywhere else; a cave level or another world needs its own map.
 - **Nothing passive.** Walking around with a map does nothing. Only a sketch adds to it.
 - If the map already shows everything you can see, it tells you so.
