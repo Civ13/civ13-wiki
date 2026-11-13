@@ -46,6 +46,21 @@ P.S. 20 is a lie, it is 2**<u>.</u>**0
 
 You can select traits on the character setup screen before spawning. Positive (advantageous) traits have to be balanced with negative (disadvantageous)  traits. Selecting a trait gives the description of its effects.
 
+### Playstyle traits
+
+Playstyle traits suit a way of playing. Each one costs nothing because it comes with its own drawback, and you can take only one of them. Most drawbacks only slow how fast a skill trains, so you can still learn everything. Mood effects, food use and the Wanderer's stamina bonus apply on maps where you get hungry.
+
+| Trait | Benefit | Drawback |
+| ----- | ------- | -------- |
+| Recluse Scholar | Studying and research are 25% faster with nobody else within 5 tiles | 25% slower with people around; mood falls in crowds of 3 or more. Can't be taken with Extroverted |
+| Menacing | **Intimidate** (IC tab) sours the mood of someone within 5 tiles who can see you, and wild grazing animals bolt from you | Everyone who examines you sees that you look dangerous; you are a slower tutor |
+| Hardened Fighter | Sword and melee skill trains 50% faster; wounds hurt 15% less | Crafting and scholarship train 25% slower |
+| Quartermaster | Pulling carts, crates and bodies slows you 40% less; examining a closed crate tells you how many items it holds | Combat skills train 25% slower |
+| Green Thumb | Farming trains 50% faster and harvests yield about 10% more | Hunting and combat skills train 25% slower |
+| Tinkerer | Crafting x1.1; Engineering scholarship trains 50% faster | Strength x0.9 |
+| Wanderer | Stamina recovers 50% faster while you are on the move; you use 10% less food | Mood slowly falls if you stay within 20 tiles of one spot for 45 minutes |
+| Rallying Voice | When you shout (end a line with !), friendly people who hear you get a small mood lift, at most once every 2 minutes each | Mood falls when nobody is within 3 tiles. Can't be taken with Introverted |
+
 ## Languages
 
 There may be more than one ethnicity on a given map, and each ethnicity speaks its own language. On some maps you can choose who you spawn as, which, basically, equals to choosing a starting language.  On others spawning is random. Furthermore, on some maps you can choose two languages at the start, a "primary" (also determines ethnicity) and a "secondary" one.
