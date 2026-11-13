@@ -845,7 +845,16 @@ columns. ***Wooden mine supports do not hold the buildable roof!***
 
 ### Weathering and repairs
 
-Walls and roofs made of fibre (straw, thatch and the like), earth and timber slowly wear out with the weather. Fibre lasts 16 game years, earth 32 and timber 64. Examine a wall or roof to see how many seasons it has left; in its last year it warns you and names the item that repairs it, and people nearby get a warning when a piece enters its last year and again in its last season. A worn-out piece collapses whether or not it is supported.
+Walls and roofs made of fibre (straw, thatch and the like), earth and timber slowly wear out with the weather. Fibre lasts 16 game years, earth 32 and timber 64. Examine a wall or roof to see how many seasons it has left; in its last year it warns you and names the item that repairs it, and people nearby get a warning when a piece enters its last year and again in its last season.
+
+Building well makes a house last. A wall with a roof over it or beside it weathers a quarter slower, and so does a wall standing on rock or on a stone, concrete or steel floor. A wall with both lasts twice as long.
+
+A worn building gives fair warning before anything falls:
+
+- **Cracks** appear on a wall at half its life, deepen at a quarter and are at their worst in its last year. In that last year it also creaks and sheds a little dust each season.
+- **A worn-out wall becomes a ruin** instead of vanishing. A ruin still stands, but it holds up no roof and no upper storey. Repair it with its building material, at the full cost of the wall, and it is a wall again. Left alone, it crumbles away after another year.
+- **A roof that loses a worn-out support sags first.** Everyone who can see it is warned, and it falls about a minute later unless you put a wall or support under it in time. A roof whose support is knocked down, burnt or dismantled still falls within seconds.
+- A worn-out roof falls apart whether or not it is supported.
 
 - **Roofs** are repaired with matching roofing: use it on the roof, or use it while facing the roof. The roofing is used up.
 - **Walls** are repaired with their building material. The repair costs the missing share of what the wall took to build, at least one unit.
