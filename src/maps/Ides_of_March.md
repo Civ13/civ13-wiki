@@ -6,7 +6,7 @@ Rome, the fifteenth day of March, 44 B.C. The senate meets in the Curia of Pompe
 
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/ides_of_march.png" width="1024" height="896" loading="lazy" alt="Map of the Ides of March: the Curia of Pompey in the middle, its portico to the south, Caesar's house at the bottom and houses along the streets">
-<figcaption>The Curia of Pompey with its benches, Pompey's statue and Caesar's chair; the portico in front; Caesar's house to the south.</figcaption>
+<figcaption>The Curia of Pompey at the top, with Pompey's statue, Caesar's chair and the senators' benches; the gardens of the Portico of Pompey below it; Caesar's house at the bottom, among shops, baths, a temple and houses.</figcaption>
 </figure>
 
 ## How to win
@@ -14,7 +14,7 @@ Rome, the fifteenth day of March, 44 B.C. The senate meets in the Curia of Pompe
 - **Conspirators** win the moment Caesar dies.
 - **Caesar's party** wins if Caesar is still alive after 20 minutes.
 
-For the first 2 minutes nobody can pass the doors of the Curia: the senators wait inside while Caesar's party gathers at his house.
+For the first 2 minutes nobody can pass the doors of the Curia: the senators wait inside while Caesar's party gathers in the atrium of his house. The Curia has several ways out, front, sides and back, and the streets and alleys around it make for a long chase.
 
 ## Roles
 
