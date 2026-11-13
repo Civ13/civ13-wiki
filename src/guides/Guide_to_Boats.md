@@ -25,6 +25,7 @@ From left to right: raft, sailing outrigger, motor outrigger, RHIB. Offline rend
 | Small sail | 15 cloth or 15 wool | Wagons & Ships | Medical 22 |
 | Wood ship frame | 4 planks per tile | Wagons & Ships | Industrial 41 |
 | Ship rudder control (the wheel) | 10 planks | Wagons & Ships | Industrial 41 |
+| Boathouse (stores boats) | 20 planks | Wagons & Ships | Industrial 41 |
 | Ship mast | 15 planks | Wagons & Ships | Industrial 41 |
 | Tiller (for a [hull you build yourself](#building-your-own-hull)) | 10 planks | Wagons & Ships | Industrial 41 |
 | Light ship rudder axis (1200 weight) | 25 planks | Wagons & Ships | Industrial 41 |
@@ -464,6 +465,25 @@ A ship with a deck, whether a [hull you built yourself](#building-your-own-hull)
 A lift takes about ten seconds at the capstan, and the ship must be stopped. The boat comes aboard whole, with everyone and everything in it, and lies the way it lay in the water, so bring it alongside pointing the way the cradle is long. The cradle must be clear of anything solid, and it holds one boat at a time.
 
 While the boat is in the cradle it rides with the ship through every move and turn, its anchor is down and it will not sail. The ship's [sea chart](#harbours-and-the-sea-chart) lists it under **In her davits** instead of among the boats in sight. If the ship is registered, only her crew can work the davit.
+
+## Boathouse
+
+A **boathouse** keeps your boats out of the water until you need them, the way a garage keeps cars. Craft it from 20 planks (vehicle parts, Wagons & Ships) and build it on the shore.
+
+Its **slip** is the 7 by 7 square of water diagonally next to it, to the north-east when it is built. Examining the boathouse tells you which way its slip lies. A **wrench** turns the slip to the next corner, but only while nothing is stored.
+
+To put a boat away, sail it so that **all of it** lies inside the slip, stop it and get everyone off. Then click the boathouse and choose **Put away a boat from the slip**. It takes a few seconds. The boat leaves the water with everything lying on its deck. A boathouse holds **three boats**. It stores [modular boats](#modular-ships), [submarines](#submarines), rafts, outriggers and rigid hull inflatable boats. [Slipway ships](#slipway-ships) and [hulls you build yourself](#building-your-own-hull) are too big for it.
+
+| A boat is refused while | What to do |
+| --- | --- |
+| It is moving | Stop it |
+| Anyone is aboard | Get everyone off |
+| Its engine runs | Stop the engine |
+| It is on a tow line | Cast off the line |
+| It is a submarine that is submerged or has its floodlights on | Surface and switch the floodlights off |
+| It is locked with a key you do not carry | Bring its key |
+
+**Take a boat out** puts it back in the slip on the same tiles where it was put away, with its cargo, fuel, name and paint. Those tiles must be clear of people, other boats and anything solid. A keyed boat needs its key to come out.
 
 ## Harbours and the sea chart
 
