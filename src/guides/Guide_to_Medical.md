@@ -415,8 +415,9 @@ Just a normal flu.
 You've been covered with lice for days and now you feel sick.
 
   - You catch it from fleas. Clothes that stay filthy long enough get
-    fleas (watch out for the flea sprites), and every moment you wear
-    them there is a small chance of typhus.
+    fleas. Chat warns you when fleas start biting, you itch now and
+    then while they stay, and the flea sprites show on you. Every
+    moment you wear them there is a small chance of typhus.
   - Washing your clothes gets rid of the fleas: use the clothes on a
     sink or open water, or put them in a washing machine.
   - It does not spread from person to person; only fleas carry it.
