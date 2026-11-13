@@ -911,7 +911,7 @@ Craft a gun sling from **2 leather** in the **Weapons** menu after **Gunsmithing
 
 ### Modular rifle parts
 
-Ten rifle families are built from four parts:
+Twenty rifle families are built from four parts:
 
 - **AK:** AKM and AK-74 rifles (including the folding-stock and short versions) and the AK-101 to AK-105.
 - **AR:** the M16A1, AR-15, M16A2 and M16A4, the XM177E2 and M4 carbines, and the C7 and C8.
@@ -923,6 +923,11 @@ Ten rifle families are built from four parts:
 - **Lebel:** the Lebel 1886/M93, including the scoped version.
 - **Berthier:** the Berthier M1907/15 and M1907/16, including the scoped version.
 - **Carcano:** the Carcano 1891.
+- **Murata, Berdan, Volkssturmgewehr and M24:** the Type-22 Murata, Berdan M1870, Volkssturmgewehr and M24 SWS bolt-action rifles, each a family of its own.
+- **Sharps, Rolling-block and Martini-Henry:** the single-shot Sharps, Rolling-Block (both the .45-70 and the Spanish .43 versions) and Martini-Henry rifles.
+- **PTRD, PzB and Barrett:** the PTRD-41 and PzB 39 anti-tank rifles and the Barrett M99, including the scoped versions.
+
+The makeshift bolt rifle and the training Arisaka cannot be taken apart.
 
 Hold the rifle, then right-click it and choose **Rifle Parts** to open its parts panel. The panel shows whether the rifle can fire and what is stopping it, its cartridge, handling and the magazines or clips it takes, and each installed part with its condition and a **Remove** button. Unload the rifle before working on it. Every rifle part you carry is listed too, with a preview of what fitting it would change: handling before and after, the cartridge, and whether the rifle would still fire. Hold a part in your active hand to get a **Fit** button, or use it on the rifle. Examining the rifle up close also lists its parts. Each family's parts only fit rifles of that family.
 
@@ -941,6 +946,8 @@ Hold the rifle, then right-click it and choose **Rifle Parts** to open its parts
 
 **Bolt-action rifles** (Mauser, Mosin, Arisaka, Lee-Enfield, Springfield, Lebel, Berthier and Carcano) have a bolt, a barrel, a fixed magazine and a wooden stock, swapped the same way as above. The magazine decides which stripper clips and rounds the rifle takes, so fit a barrel and magazine of the same cartridge to rebarrel a rifle. Mausers come in 7.92x57mm, 7.65x53mm or 7x57mm, so a Kar98k can become a 7.65x53mm rifle. Arisakas come in 6.5x50mm or 7.7x58mm, so a Type 38 can take Type 99 clips. Mosins only come in 7.62x54mmR, and the other bolt-action families in their own single cartridge. A Berthier takes either the three-round magazine or the longer five-round M16 magazine, which changes the clips it takes and how many rounds it holds.
 
+**Single-shot rifles** (Sharps, Rolling-block, Martini-Henry, PTRD, PzB and Barrett) have a breechblock or bolt, a barrel, an extractor or breech that takes one round at a time, and a stock. A Rolling-Block rifle can be converted between .45-70 and .43 Spanish by fitting a barrel and extractor of the other cartridge.
+
 **Making rifle parts in a factory:** once your faction has researched **Automatic Weapons**, fabricators can make every AK and AR part and a bare **AK receiver** or **AR receiver**. Fit a bolt carrier and a barrel to the receiver at a firearm maintenance bench, then a magazine well and a stock, and you have a working rifle named after its family and caliber.
 
 | Fabricator recipe | Inputs | Minimum fabricator |
@@ -954,15 +961,19 @@ Hold the rifle, then right-click it and choose **Rifle Parts** to open its parts
 | AK folding stock | 2 steel | Assembly (tier 1) |
 | AR fixed or collapsible stock | 2 plastic | Assembly (tier 1) |
 
-Once your faction has researched **Cartridge Firearms**, fabricators can also make every Mauser, Mosin, Arisaka, Lee-Enfield, Springfield, Lebel, Berthier and Carcano part and a bare receiver for each, all at Assembly (tier 1):
+Fabricators also make every bolt-action and single-shot part and a bare receiver for each family. The research a family needs depends on its era:
 
-| Fabricator recipe (any bolt-action family) | Inputs |
-| --- | --- |
-| Receiver | 4 steel |
-| Bolt | 2 steel |
-| Barrel (any caliber of that family) | 3 steel |
-| Magazine (any caliber of that family) | 1 steel |
-| Stock | 3 wood |
+- **Cartridge Firearms**, at Assembly (tier 1): Mauser, Mosin, Arisaka, Lee-Enfield, Springfield, Lebel, Berthier, Carcano, Murata, Berdan, Sharps, Rolling-block and Martini-Henry.
+- **Self-Loading Firearms**, at Assembly (tier 1): Volkssturmgewehr, PTRD and PzB.
+- **Automatic Weapons**, at Automated (tier 2): M24 and Barrett.
+
+| Fabricator recipe | Rifles | Anti-tank rifles (PTRD, PzB, Barrett) |
+| --- | --- | --- |
+| Receiver | 4 steel | 6 steel |
+| Bolt or breechblock | 2 steel | 3 steel |
+| Barrel (any caliber of that family) | 3 steel | 5 steel |
+| Magazine, extractor or breech (any caliber of that family) | 1 steel | 2 steel |
+| Stock | 3 wood (M24: 2 steel) | 2 steel |
 
 ### Cleaning and repairs
 
