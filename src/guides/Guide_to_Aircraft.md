@@ -1,6 +1,6 @@
 # Aircraft
 
-Light planes are the first things in Civ13 that leave the ground. There are two models: the two-seat **light plane** and the four-seat **cabin plane**. Both are built at an **aircraft hangar**, takes off and lands best on a **runway**, and flies on the air level above the map. Flying is only possible on maps that have an air level: at the moment that is **Gaia**, the main Nomads persistent world. Elsewhere the plane rolls along but never lifts off, and the pilot is told that there is no airspace.
+Light planes are the first things in Civ13 that leave the ground. There are four hangar models: the two-seat **light plane**, the four-seat **cabin plane**, the small two-seat **trainer** and the **cargo plane**, and planes can also be built by hand. Every plane takes off and lands best on a **runway** and flies on the air level above the map. Flying is only possible on maps that have an air level: at the moment that is **Gaia**, the main Nomads persistent world. Elsewhere the plane rolls along but never lifts off, and the pilot is told that there is no airspace.
 
 ![Offline render using Civ13 sprites: two light planes on a tarmac runway laid across grass, one parked and one with its propeller spinning](../images/civ13-light-plane-sprites.png)
 
@@ -14,6 +14,8 @@ Two light planes on a runway, nose to the east. Offline render using Civ13 sprit
 | Runway (one tile) | 1 stone | Powered Flight | Industrial 126 |
 | Light plane | 50 steel, 6 glass, 4 cloth, 8 cable, 4 unattached wheels | Built at the hangar | Built at the hangar |
 | Cabin plane | 65 steel, 8 glass, 8 cloth, 8 cable, 4 unattached wheels | Built at the hangar | Built at the hangar |
+| Trainer | 35 steel, 4 glass, 4 cloth, 6 cable, 4 unattached wheels | Built at the hangar | Built at the hangar |
+| Cargo plane | 60 steel, 6 glass, 2 cloth, 8 cable, 4 unattached wheels | Built at the hangar | Built at the hangar |
 | Aircraft bomb casing | 8 steel | Powered Flight | Industrial 126 |
 | Airframe section | 4 steel | Powered Flight | Industrial 126 |
 | Airframe controls | 12 steel | Powered Flight | Industrial 126 |
@@ -25,7 +27,7 @@ Two light planes on a runway, nose to the east. Offline render using Civ13 sprit
 
 1. Lay a power cable, then craft the aircraft hangar from 40 steel while standing on or next to the cable. The **4x4** square to its **northeast** must be dry, open floor: the finished plane appears there. The hangar is not built if the research, the bay or the cable is missing, and you are told which.
 2. Feed steel, glass, cloth and cable stacks into the hangar, and drag four unused, unbroken, unattached wheels onto it. Drag an adjacent laid cable onto it to connect a network with **20 available power**, as for the automobile workshop. Examine the hangar to see what it holds.
-3. Click the hangar, choose **Light plane** or **Cabin plane** and stay next to it while it works. Loose objects or people in the bay stop the assembly, and nothing is spent until the plane is finished. **Unload inputs** returns the stock.
+3. Click the hangar, choose a model and stay next to it while it works. Loose objects or people in the bay stop the assembly, and nothing is spent until the plane is finished. **Unload inputs** returns the stock.
 4. The plane is delivered with a gasoline engine, an **empty** fuel tank and its key. Fill the tank with gasoline before you try to taxi; see [Engines](Guide_to_Crafting.md#engines) for fuel.
 
 The plane can also be built **piece by piece**, by several people. Choose **Start a Light plane piece by piece** with the bay clear. Then bring each piece in turn to the hangar or to the airframe in the bay: the **airframe** (2 pieces, 10 steel each), **landing gear** (4 wheels, dragged on), the **engine and propeller** (10 steel and 8 cable), the **skin** (2 pieces, 10 steel each), the **canopy** (6 glass) and the **seats** (4 cloth). The plane takes shape from the tail to the nose. Fitting pieces needs no power. When the last piece is on, choose **Roll out**, which needs 20 power and gives the same plane, key and empty tank as a one-go build. A half-built plane survives saves, and **Abandon** loses everything fitted so far. The bay cannot hangar a plane while a project is in it. See [Building a car piece by piece](Guide_to_Crafting.md#building-a-car-piece-by-piece) for how stacks and wheels are taken.
@@ -33,6 +35,10 @@ The plane can also be built **piece by piece**, by several people. Choose **Star
 The light plane is four tiles long and three wide: the nose with the engine and propeller, the cockpit between the wings, a fuselage section with one passenger seat, and the tail. The pilot sits in the cockpit and flies from the **control column**.
 
 The **cabin plane** has the same airframe and size, so it fits the same hangar bay and carrier elevators, but its whole fuselage row is a cabin with **three passenger seats**. The extra weight needs a longer take-off roll: **10 tiles** of runway or **20** of open ground. Built piece by piece, it takes the same pieces as the light plane, with 8 cloth for the seats.
+
+The **trainer** is the smallest plane: just the nose, the wings and cockpit, and a tail with an instructor's seat behind the pilot. It is three tiles long and turns in a **3x3** square, is the cheapest to build and takes off soonest: **6 tiles** of runway or **12** of open ground.
+
+The **cargo plane** has the light plane's size, but its fuselage row is three **cargo bays** instead of seats, so only the pilot flies in it. Anything put on a cargo bay flies with the plane and stays aboard when it is hangared. It needs **9 tiles** of runway or **18** of open ground.
 
 ## Building a plane by hand
 
