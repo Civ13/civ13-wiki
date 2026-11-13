@@ -29,6 +29,8 @@ machinery and vehicles.
     - Tools and weapons made from a material list their melee and thrown damage for each material, such as bronze, iron and steel. Well-made pieces hit harder, up to double.
     - Chemistry recipes say where they react. Most react on their own when the reagents are mixed in one open container. **Also at: laboratory reaction bench** means the bench can run it on demand, and **Made at: laboratory reaction bench** means it only reacts there. Any catalyst is listed and is not used up.
     - Things that no recipe makes or uses have pages too, marked **Reference**: clothing and armor, firearms and ammunition, furniture, animals and terrain. Search for them by name. An animal's page lists its health, attack, temper and diet. A reference page describes the thing itself and does not mean it is on your current map.
+    - **Habitat** says where wild animals and herbs turn up: which lands (such as temperate, taiga, tundra or jungle) and on what ground.
+    - **Hazard** warns about things that can hurt you in ways the numbers do not show, such as lava, deep water, holes, barbed wire, lit fires, set traps, venomous snakes and mosquitoes.
     - A workstation's page, such as the anvil or the laboratory reaction bench, also lists everything made there.
     - **Unlock era** and **Made at** narrow the list to an age or to one workstation.
     - The list shows the recipes for the map you are on. Tick **Include other maps** to see the versions used elsewhere.
