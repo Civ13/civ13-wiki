@@ -98,6 +98,7 @@ A fire burns its tile for a short while, hurts and ignites anyone standing in it
 - **Nothing to hand**: a pelt, leather or cloth held in your hand can smother a fire when you click it. It often fails, and a piece may scorch away.
 - **Water**: click a fire with an open container to empty its water onto it. The more water, the surer: a cupful rarely works, half a bucket always does, and a full bucket also splashes the fires on the tiles around it and puts out anyone burning on that tile. Refill at a well or open water and keep a line of buckets moving.
 - **Wet blanket**: soak a bedsheet in open water, a well or a container of water. Thrown over a fire it usually smothers it, and wrapped around a burning person it always puts them out. One soaking lasts four uses. A dry sheet works poorly and may burn up.
+- **Fire hook**: a long pole with an iron hook, made from 3 iron with Iron Tools knowledge. Click a thatch or timber roof, wall or floor, or a bush or tall grass, to pull it down and leave a gap the fire cannot cross. Clicking the ground under a roof reaches for the roof. With a fire within three tiles this takes a few seconds; with no fire near it takes three times as long. A wall or floor that was not yet burning gives back half its material. Stone, brick, tile and trees cannot be pulled down.
 
 Stand beside the fire, never in it, and work along the edge that is moving toward what you want to save.
 
