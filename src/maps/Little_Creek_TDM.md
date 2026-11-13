@@ -16,3 +16,7 @@ Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/do
 | Sheriff |       | Command your men to protect the bank from those outlaws!                                                       | HARD       |
 | Deputy  |       | Listen to your Sheriff, equip yourself with guns, barricade the city, and protect the bank.                     | MEDIUM     |
 | Outlaws |       | Basically, you need to rob the bank, and avoid or kill those who protect it, and get as much money as you can! | WILD WEST. |
+
+## Riding in
+
+Outlaws start in the saddle at the gang's camp north of town. If a free horse is standing nearby you take it, otherwise a fresh one is brought for you, so the whole gang can ride for the bank together. Click your horse to get off, and drag yourself onto a horse to mount again. Horses galloping over open ground kick up a trail of dust, so the town can see a raid coming.
