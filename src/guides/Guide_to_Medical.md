@@ -7,7 +7,7 @@ relying on you to act fast.
 
 ## Severe illness
 
-Plague, typhus, malaria and cholera deteriorate while the infected human is actively processed. Symptoms become debilitating after about three minutes and critical after fifteen: pain, drowsiness, coughing and collapses. The illness does not kill on a timer. Untreated, the body fights it off by itself after about half an hour of play, and then resists that illness for a while. Disconnecting pauses this progression. A sick, collapsing patient is still at risk from other injuries, hunger, thirst and the weather, so keep them safe while they recover.
+Plague, typhus, malaria and cholera deteriorate while the infected human is actively processed. Symptoms become debilitating after about three minutes and critical after fifteen: pain, drowsiness, coughing and collapses. The illness does not kill on a timer. Untreated, the body fights it off by itself after about half an hour of play, or about fifteen minutes while buckled to a bed, and then resists that illness for a while. Disconnecting pauses this progression. A sick, collapsing patient is still at risk from other injuries, hunger, thirst and the weather, so keep them safe while they recover.
 
 | Illness | Medicine | Complete oral course |
 | --- | --- | --- |
@@ -23,6 +23,10 @@ For renewable penicillin, extract charcoal and ethanol: **1 charcoal + 2 ethanol
 A grain or flour starter can ferment without existing yeast. Let the culture grow before withdrawing a yeast container if you want to retain it; each container holds 50 enzyme. Distilling 4 beer produces 2 ethanol. The starter jar needs glass and **Pottery Storage**; apothecary equipment follows **Herbalism** and **Apothecary**. The softwood ethanol-distillery recipe uses the legacy Economy & Production threshold of 45 where that research mode applies.
 
 Plague and flu spread to healthy humans standing within two tiles of a sick person or a body that died of it; immunity and sterile-mask protection still apply. Typhus comes only from fleas and cholera only from swallowed unboiled water, so neither spreads from person to person; malaria and zombie infection do not either. Each mouthful of contaminated food or drink is one chance to catch it, larger for bigger doses, and Strong Immune System lowers it.
+
+A sick person's blood and raw flesh carry their illness. Blood drawn from someone with plague, typhus, cholera or malaria infects whoever it is injected into, and drinking it is a chance to catch it (malaria only passes by injection). Meat butchered from a sick body carries plague, typhus, cholera or intestinal worms. Cooking meat in an oven or pot kills every germ in it.
+
+Resting buckled to a bed (not a chair) helps the body fight any illness twice as fast. A doctor's handbook used on a patient names the illness, its stage and how to treat it.
 
 ## First-Aid
 
@@ -340,7 +344,7 @@ Without proper care, individuals may end up ill or even worse.
 
 ### Diseases
 
-There are currently 5 diseases. Try not to catch them, they will make
+There are currently 6 diseases. Try not to catch them, they will make
 your day a whole lot more miserable. Especially in early game, when
 advanced medicine doesn't exist.
 
@@ -405,7 +409,7 @@ Just a normal flu.
   - Will very probably not kill you, but can be an annoyance, causing
     blurred vision, blackouts, and fever.
   - Manageable by eating and drinking until full, and resting (buckling
-    to a bed).
+    to a bed halves how long it lasts).
   - Tea, willow bark tea, elderflower tea or aspirin help bring the
     fever down.
   - You might get immunity after surviving it.
@@ -435,6 +439,25 @@ You've been covered with lice for days and now you feel sick.
       hour of play.
   - Tea, aspirin and charcoal do not help with typhus.
   - After you recover you resist typhus for a while.
+
+#### Intestinal worms
+
+Parasites living in your gut.
+
+  - Caught from raw meat (about one animal carcass in ten carries worm
+    eggs, and so does the flesh of a person who has them) and from
+    unboiled dirty water. Cook meat and boil water to be safe.
+  - They do not spread from person to person.
+  - After about five minutes you feel hungrier than you should and get
+    cramps now and then. They never become dangerous on their own.
+  - **Cures:**
+    - **Healing herbs:** chew one herb and the remedy purges them in
+      about three and a half minutes.
+    - **Absinthe:** the wormwood in it purges them while you keep
+      drinking.
+    - **Waiting:** the body passes them after about an hour and a half
+      of play, or about 45 minutes in bed.
+  - Penicillin does nothing for worms, and you can catch them again.
 
 ### Combating Illness
 
