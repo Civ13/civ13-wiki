@@ -909,9 +909,9 @@ Craft a weapon light from **1 electronics** in the **Weapons** menu after **Cons
 
 Craft a gun sling from **2 leather** in the **Weapons** menu after **Gunsmithing**. Hold the gun in one hand and use the sling in the other to fit it. Only guns you can wear on your shoulder or back take one. If you are knocked down, stunned or knocked out and drop a slung gun, it stays on your shoulder or back as long as that slot is free.
 
-### Modular rifle parts
+### Modular gun parts
 
-These rifle families are built from four parts:
+These gun families are built from four parts:
 
 - **AK:** AKM and AK-74 rifles (including the folding-stock, short and tactical versions) and the AK-101 to AK-105.
 - **AR:** the M16A1, AR-15, M16A2 and M16A4, the XM177E2, M4 and MK-18 carbines, the C7 and C8, and the semi-automatic Bushmaster XM-15.
@@ -930,9 +930,12 @@ These rifle families are built from four parts:
 - **Semi-automatic rifles:** the SKS (including the Chinese and SKS-M versions), Gewehr 41 and 43 (one family), SVT-40, M1 Garand, M1 Carbine, Fedorov Avtomat, Volkssturmkarabiner 98, PTRS-41, SVD, VSS Vintorez, Barrett M82 and BAMR, each a family of its own.
 - **Lever-action:** every lever-action rifle, including the Winchesters, the Henry and Evans repeaters and the Cowboy Repeater, shares one family.
 
-The makeshift bolt rifle and the training Arisaka cannot be taken apart.
+- **Pistols:** the Nambu (Type A and Type 14), Bergmann, Luger, Walther P38, Browning Hi-Power, Mauser C96, Borchardt, Colt Pocket Hammerless (M1903 and M1908), M1911 (including the Colt Mark IV and STI 2011), Tokarev TT-33, Makarov, Stechkin APS, Glock (including the IOQ B-72 and Tarus G3, which take Glock magazines), Beretta M9, Jericho 941, SIG 250, SIG P220, PL-14, MP-443 and Desert Eagle.
+- **Revolvers:** the Nagant M1895, Modele 1892, Colt Single Action (Peacemaker, Storekeeper and Frontier), Colt M1892, Colt Police Positive, Smith & Wesson (Model 30, Orbea Hermanos and M.10), Enfield No. 2, Webley Mk IV, Type 26, Derringer, Magnum 44, Mckellen M12, Taurus Judge and the Colt Revolving Rifle.
 
-Hold the rifle, then right-click it and choose **Rifle Parts** to open its parts panel. The panel shows whether the rifle can fire and what is stopping it, its cartridge, handling and the magazines or clips it takes, and each installed part with its condition and a **Remove** button. Unload the rifle before working on it. Every rifle part you carry is listed too, with a preview of what fitting it would change: handling before and after, the cartridge, and whether the rifle would still fire. Hold a part in your active hand to get a **Fit** button, or use it on the rifle. Examining the rifle up close also lists its parts. Each family's parts only fit rifles of that family.
+The makeshift bolt rifle, the training Arisaka, the makeshift revolver and the Panther revolver cannot be taken apart.
+
+Hold the gun, then right-click it and choose **Gun Parts** to open its parts panel. The panel shows whether the gun can fire and what is stopping it, its cartridge, handling and the magazines or clips it takes, and each installed part with its condition and a **Remove** button. Unload the gun before working on it. Every gun part you carry is listed too, with a preview of what fitting it would change: handling before and after, the cartridge, and whether the gun would still fire. Hold a part in your active hand to get a **Fit** button, or use it on the gun. Examining the gun up close also lists its parts. Each family's parts only fit guns of that family.
 
 **Salvaging parts:** next to a firearm maintenance bench, a part you carry can be scrapped from the parts panel's **Salvage** button, or by using the part on the bench. You are first shown what is destroyed and what comes back, and nothing happens until you confirm. Salvage returns about half the part's factory materials, less for worn parts: a new AK barrel (3 steel) gives back 2 steel, while a worn-out barrel gives back nothing.
 
@@ -956,6 +959,14 @@ Hold the rifle, then right-click it and choose **Rifle Parts** to open its parts
 - An SKS can be fitted with the SKS-M magazine well to take SKS-M and AK-47 magazines, and an SKS-M can go back to the fixed ten-round magazine loaded from clips.
 - A Gewehr 41 and a Gewehr 43 swap between the fixed clip-loaded magazine and the detachable Gewehr 43 magazine the same way.
 - Lever-action barrels and tube magazines come in .44-40, .357 Magnum and .45-70. The tube keeps the rifle's own length, so a Winchester M1873 rebarrelled to .45-70 still holds 14 rounds.
+
+**Pistols** have a slide, a barrel, a magazine well and a grip; **revolvers** have lockwork, a barrel, a cylinder and a grip. The bare core is called a frame. Some convert between cartridges by swapping the barrel and the magazine well or cylinder:
+
+- Colt Pocket Hammerless: .32 ACP or .380 ACP.
+- Desert Eagle: .50 or .44 Magnum.
+- M1911: the 2011 grip module takes STI 2011 magazines.
+- Colt Single Action: .45 Colt or .44-40.
+- Smith & Wesson: .32 or .38.
 
 **Making rifle parts in a factory:** once your faction has researched **Automatic Weapons**, fabricators can make every AK and AR part and a bare **AK receiver** or **AR receiver**. Fit a bolt carrier and a barrel to the receiver at a firearm maintenance bench, then a magazine well and a stock, and you have a working rifle named after its family and caliber.
 
@@ -984,6 +995,18 @@ Fabricators also make every bolt-action and single-shot part and a bare receiver
 | Barrel (any caliber of that family) | 3 steel | 5 steel |
 | Magazine, magazine well, extractor or breech (any caliber of that family) | 1 steel | 2 steel |
 | Stock | 3 wood (M24: 2 steel) | 2 steel |
+
+Pistol and revolver parts are made at Assembly (tier 1): pre-war designs need **Cartridge Firearms**, and the Makarov, Stechkin, Glock, Beretta, Jericho, SIG, PL-14, MP-443, Desert Eagle, Magnum 44, Mckellen and Taurus Judge need **Automatic Weapons**.
+
+| Fabricator recipe | Pistols and revolvers |
+| --- | --- |
+| Frame | 2 steel |
+| Slide or lockwork | 1 steel |
+| Barrel | 1 steel |
+| Magazine well or cylinder | 1 steel |
+| Grip | 1 wood (Automatic Weapons designs: 1 plastic) |
+
+With this many recipes, a fabricator first asks which group to choose from: **General**, or one family's parts such as **Glock parts**.
 
 ### Cleaning and repairs
 
