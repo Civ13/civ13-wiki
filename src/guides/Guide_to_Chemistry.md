@@ -135,7 +135,10 @@ This table does not list every bench recipe. Use the workflows above and the rec
 | Lysergic acid diethylamide |  1u. enzyme 1u. diethylamine | none | none | 2 | mindbreaker |
 | Explosion |  1u. water 1u. potassium | none | none | 2 | explosion_potassium |
 | Nitroglycerin |  1u. glycerol 1u. potassium | none | none | 2 | nitroglycerin |
-| Nitrocellulose |  1u. cotton 1u. potassium | none | none | 2 | nitrocellulose |
+| Nitrocellulose (explodes) |  1u. cotton 1u. potassium | none |  1u. sacid | 2 | nitrocellulose |
+| Guncotton |  2u. cotton 1u. potassium |  5u. sacid | none | 2 | guncotton |
+| Guncotton |  2u. cotton 1u. nitric_acid | none | none | 2 | guncotton |
+| Smokeless powder |  2u. guncotton 1u. ethanol | none | none | 3 | smokeless_powder |
 | Gunpowder |  1u. sulfur 1u. carbon 1u. potassium | none | none | 3 | gunpowder |
 | Gunpowder |  1u. sulfur 1u. charcoal 1u. potassium | none | none | 3 | gunpowder |
 | Saltpeter |  2u. poo 1u. urine | none | none | 1 | potassium |

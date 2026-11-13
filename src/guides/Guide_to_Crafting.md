@@ -869,6 +869,14 @@ that see the **[Guide to Chemistry](Guide_to_Chemistry.md)**.
   - Which cartridges you can load depends on your firearms research: Rifling teaches the early revolver, rifle and shotgun rounds, Cartridge Firearms the WW1 rifle and pistol rounds and the machine-gun loads, Self-Loading Firearms the WW2 rounds and Automatic Weapons the modern ones. Belt and strip machine guns take only their machine-gun load. Heavy machine-gun rounds cannot be loaded by hand.
   - Splitting or combining a stack of filled casings keeps the powder and bullets with the casings.
 
+**Smokeless powder:** once you know Cartridge Firearms, you can fill pistol and rifle casings with smokeless powder instead of gunpowder. Each unit counts as two units of gunpowder, so a rifle casing needs 0.75 and a pistol casing 0.5. If the container also holds gunpowder, the smokeless powder is poured first and gunpowder tops up the rest. Smokeless powder needs no sulfur once you have a flask of sulphuric acid:
+
+  1. Put at least 5 units of sulphuric acid in a beaker **first**. Without the acid, cotton and saltpeter flash and explode.
+  2. Add cotton and saltpeter (2 cotton to 1 saltpeter) to make guncotton. The acid is not used up, so the same beaker can make batch after batch. A laboratory with nitric acid can use 2 cotton and 1 nitric acid instead.
+  3. Pour the guncotton into another container and add ethanol (2 guncotton to 1 ethanol) to make 3 units of smokeless powder.
+
+Muskets, cannons and musket-ball cartridges still need ordinary gunpowder.
+
 **Recovering brass:** fired pistol and rifle cartridges, and spent shotgun shells, can be loaded again. Use a spent casing in hand to turn it into an empty casing, or click spent casings (or the tile they lie on) with a stack of empty casings of the same size to gather them all. Shotgun shells count as rifle casings. Live rounds and casings still in a box, magazine or gun are left alone.
 
 ## Machinery
