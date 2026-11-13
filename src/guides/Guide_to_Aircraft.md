@@ -33,7 +33,11 @@ The **cabin plane** has the same airframe and size, so it fits the same hangar b
 
 ## Laying a runway
 
-Runway is a road cover crafted from **1 stone per tile** in the roads category, like a modern road. A take-off needs **8 tiles** of straight runway in front of the plane at full throttle, against **16 tiles** of open ground without one. A runway is not needed to land: flat, smooth ground works too. A long runway is just the easiest target. Lay it three tiles wide so the whole plane is over tarmac, and keep the ends clear of walls, trees and vehicles.
+Runway is a road cover crafted from **1 stone per tile** in the roads category, like a modern road. A take-off needs **8 tiles** of straight runway in front of the plane at full throttle, against **16 tiles** of open ground without one, after pressing **Climb** to line up. A runway is not needed to land: flat, smooth ground works too. A long runway is just the easiest target. Lay it three tiles wide so the whole plane is over tarmac, and keep the ends clear of walls, trees and vehicles.
+
+## Taxiing
+
+On the ground a plane drives like a car. Start the engine with the control column, throttle up a gear, steer with the arrow keys and switch to reverse while stopped with the down arrow or the HUD button. You can taxi in any gear along roads, aprons and runways, into and out of a hangar bay, without lifting off by accident: away from a runway the plane only leaves the ground once you have lined it up for a takeoff (see below). The HUD shows **PARKED** or **TAXI** while you are on the ground, and **TAKEOFF** once you have lined up. A plane that has just landed rolls on at first gear, ready to taxi.
 
 ## Flying
 
@@ -42,12 +46,12 @@ Runway is a road cover crafted from **1 stone per tile** in the roads category, 
 | Use the control column | Throttle up one gear |
 | Right-click the control column | Throttle down one gear |
 | Arrow keys | Steer |
-| **Climb** (verb on the control column, or the HUD button) | In the air, aim 5 height levels higher. On the ground it tells you what is still needed to take off |
+| **Climb** (verb on the control column, or the HUD button) | In the air, aim 5 height levels higher. On the ground, with the engine running, it lines the plane up for takeoff and tells you what is still needed |
 | **Descend** (verb or HUD button) | Aim 5 height levels lower; just above the ground at low speed, land |
 
 The HUD shows the plane's height while you are in the pilot's seat, such as **LOW 7** or **HIGH 18**. Examining the control column also shows how far above the ground you are and the height you are heading for.
 
-- **Take-off:** start the engine, line up, throttle to full and roll straight ahead. The plane takes off by itself: after 8 tiles on runway, or 16 tiles on open ground, the wheels leave the ground two levels up and the plane climbs on to height 6 in **low flight**.
+- **Take-off:** on a runway, throttle to full and roll straight ahead: after 8 tiles of runway the plane takes off by itself. Off a runway, press **Climb** first to line up, then roll 16 tiles of open ground at full throttle. Without that, a full-throttle roll over open ground just keeps taxiing. The wheels leave the ground two levels up and the plane climbs on to height 6 in **low flight**. Coming to a stop against something stands the takeoff down again.
 - **Height:** a plane's height uses the same 0 to 15 scale as the hills. It climbs or sinks 2 levels for every tile it flies, toward the height you set with Climb and Descend.
 - **Low flight (height 15 and below):** the plane flies among the hills. Anything ahead that reaches its height is flown into: a hillside, a tree or a wall (3 levels above the ground it stands on), or an upper storey. A **Terrain ahead** warning tells you the height of ground within 5 tiles in front of you that you would hit, so climb above it in time. Anyone can shoot at a plane in low flight.
 - **Cruise (above 15):** past the top of the hill scale the plane cruises over every hill, tree and rooftop, and only heavy weapons reach it. It cannot sink back into low flight over an upper storey or the highest peaks, and you have to come down to low flight before you can land. The pilot sees the ground below from the cockpit, and people on the ground see the plane's shadow pass over them.
