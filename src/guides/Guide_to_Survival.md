@@ -103,6 +103,10 @@ A fire burns its tile for a short while, hurts and ignites anyone standing in it
 
 Stand beside the fire, never in it, and work along the edge that is moving toward what you want to save.
 
+## Smoke signals
+
+A lit campfire or fire pit under the open sky can send smoke signals. Hold leather or cloth and click the burning fire: one piece burns away and a column of smoke rises over the fire for a few seconds. Everyone awake and outdoors on the same level within 300 tiles is told which way the smoke is and roughly how far, from close by to very far off. People indoors do not see it, and a fire under a roof cannot send one. After each signal the fire needs about half a minute before the next. Anyone can read the smoke, friend or foe, so agree on what your signals mean beforehand.
+
 ## Abandoned debris
 
 Discarded rubbish and empty, unrecoverable spent casings become eligible to decay after **4 actual season changes** on maps with changing seasons. Examine them after **2 changes** to see the warning. Maps without an active seasonal cycle instead warn after **6 hours** and allow decay after **12 hours of running-server time**. Decay processing can take additional time after the threshold.
