@@ -451,7 +451,7 @@ Click the tiller to sail:
 
 ### Ship's boats
 
-A ship you built yourself can carry a [modular boat](#modular-ships) on her deck and put it back in the water wherever she stops. Craft a **boat davit** (10 wood, vehicle parts, the same research as boats) and build it on her deck. The davit's **cradle** is the patch of deck ahead of it, 3 by 3 tiles to begin with. Click the davit to:
+A ship with a deck, whether a [hull you built yourself](#building-your-own-hull), a [slipway ship](#slipway-ships) or an aircraft carrier, can carry a [modular boat](#modular-ships) on her deck and put it back in the water wherever she stops. Craft a **boat davit** (10 wood, vehicle parts, the same research as boats) and build it on her deck. The davit's **cradle** is the patch of deck ahead of it, 3 by 3 tiles to begin with. Click the davit to:
 
 | Choice | What it does |
 | --- | --- |
