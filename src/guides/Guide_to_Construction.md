@@ -901,6 +901,23 @@ the roof. An additional "Turf" tab will appear in the upper right corner - click
 will collapse! Collapsing roof may severely injure and even kill those
 in the roofed area, or even standing next to it.**
 
+### Upper storeys
+
+On maps that allow building upward, a roof is also the floor of the storey above it, and a building can rise to **four storeys**. The game refuses a roof that the structure below cannot carry and tells you why, before any material is used. Roofs that already stand are not affected by these rules.
+
+How high a building may go depends on its weakest support:
+
+| Supports | Carry up to |
+| --- | --- |
+| Wood, bamboo, straw, earth and tent walls, wooden and Nordic roof supports, doors | 2 storeys |
+| Stone, brick, clay, sandstone, marble and concrete walls, stone and concrete pillars, columns | 4 storeys |
+
+- **Foundations:** a third or fourth storey needs ground-floor supports that stand on rock or on a stone, brick, marble, sandstone, slate, concrete or steel floor. Lay that floor first, then build the wall or pillar on it. Supports on soil, sand, grass or a wood floor carry two storeys at most.
+- **Supports above supports:** a wall or pillar on an upper floor only counts when a support strong enough for that storey stands on the floor below it, on the same tile or right next to it, all the way down to the ground. A stone wall above a wooden one is only as strong as the wood.
+- **Spans:** from the second storey up, a single distant pillar is not enough. Each new roof tile needs a wall or pillar right next to it, or supports within reach on two different sides. Ground-floor roofs keep the plain rule shown in the image above.
+
+A sound four-storey house therefore starts with a stone floor, has stone walls or pillars on every storey standing over the ones below, and has no room wider than its pillars can hold from two sides.
+
 <table>
 <tbody>
 <tr>
