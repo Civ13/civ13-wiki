@@ -852,8 +852,8 @@ that see the **[Guide to Chemistry](Guide_to_Chemistry.md)**.
 </tbody>
 </table>
 
-  - Make a required type of casings with copper ingots.
-  - Fill the casings with gunpowder by clicking them with a gunpowder container, 1 unit for pistol casings, 1.5 for rifle and 5 for shell and cannon.
+  - Make a required type of casings with copper ingots, or recover fired brass (see below).
+  - Fill the casings with gunpowder by clicking them with a gunpowder container, 1 unit for pistol casings, 1.5 for rifle and 5 for shell and cannon. Pistol and rifle casings take only what they still need, so a small container can fill them in several pours.
 
 <table>
 <tbody>
@@ -864,8 +864,12 @@ that see the **[Guide to Chemistry](Guide_to_Chemistry.md)**.
 </tbody>
 </table>
 
-  - Make iron bullets with iron ingots. Attach the bullets to the casings by clicking them with the bullets. The number of bullets and casings must be the same.
-  - Finish the assembly by selecting a type of ammunition, for example, the caliber of rifle rounds.
+  - Make iron bullets with iron ingots. Attach the bullets to the casings by clicking them with the bullets. Each bullet needs a casing that already holds its powder.
+  - Use the casings in hand and choose the cartridge. Every casing with powder and a bullet becomes a round; the rest stay in the stack. Rifle and pistol rounds can be normal, hollow point or armor-piercing, while shotgun shells have one load.
+  - Which cartridges you can load depends on your firearms research: Rifling teaches the early revolver, rifle and shotgun rounds, Cartridge Firearms the WW1 rifle and pistol rounds and the machine-gun loads, Self-Loading Firearms the WW2 rounds and Automatic Weapons the modern ones. Belt and strip machine guns take only their machine-gun load. Heavy machine-gun rounds cannot be loaded by hand.
+  - Splitting or combining a stack of filled casings keeps the powder and bullets with the casings.
+
+**Recovering brass:** fired pistol and rifle cartridges, and spent shotgun shells, can be loaded again. Use a spent casing in hand to turn it into an empty casing, or click spent casings (or the tile they lie on) with a stack of empty casings of the same size to gather them all. Shotgun shells count as rifle casings. Live rounds and casings still in a box, magazine or gun are left alone.
 
 ## Machinery
 
