@@ -46,6 +46,20 @@ P.S. 20 is a lie, it is 2**<u>.</u>**0
 
 You can select traits on the character setup screen before spawning. Positive (advantageous) traits have to be balanced with negative (disadvantageous)  traits. Selecting a trait gives the description of its effects.
 
+Some traits come as opposite pairs, and you can't take both halves of a pair:
+
+| Perk (costs) | Drawback (gives back) |
+| ------------ | --------------------- |
+| Quick Learner (3): all stat skills train 15% faster | Slow Learner (3): all stat skills train 15% slower |
+| Light Eater (2): you use 15% less food | Glutton (2): you use 20% more food |
+| Deep Lungs (2): stamina recovers 25% faster | Asthmatic (2): stamina recovers 25% slower |
+| Thick Skinned (2): wounds hurt 15% less | Low Pain Tolerance (2): wounds hurt 20% more |
+| Bookworm (2): studying a research chapter takes 15% less time | Dyslexic (2): studying a research chapter takes 25% longer |
+| Steady Hands (2): medical skill x1.15 | Butterfingers (2): crafting and medical skill x0.9 |
+| Strong Back (1): pulling carts, crates and bodies slows you 20% less | Bad Back (1): pulling slows you 25% more |
+
+**Squeamish** (gives back 1) makes seeing someone maimed hurt your mood twice as much. Thick Skinned and Squeamish can't be taken with Hardened Fighter, and Strong Back can't be taken with Quartermaster.
+
 ### Playstyle traits
 
 Playstyle traits suit a way of playing. Each one costs nothing because it comes with its own drawback, and you can take only one of them. Most drawbacks only slow how fast a skill trains, so you can still learn everything. Mood effects, food use and the Wanderer's stamina bonus apply on maps where you get hungry.
