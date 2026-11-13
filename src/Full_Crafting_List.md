@@ -16,7 +16,7 @@ The materials most recipes start from, and where the guides explain how to get t
 
 ### Wood
 
-Chop trees with an axe for logs, then saw or craft them into planks. See [Wood](guides/Guide_to_Crafting.md#wood) in the Crafting guide.
+Chop trees with an axe for logs, then saw or craft them into planks. See [Wood](guides/Guide_to_Crafting.md#wood) in the Crafting guide. Wood also makes primitive wood armor, craftable in every age; like bone armor it gives no protection against bullets.
 
 ### Stone
 
