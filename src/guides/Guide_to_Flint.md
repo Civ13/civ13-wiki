@@ -34,6 +34,7 @@ Knapping shapes a flint by striking it with a hammerstone. Hold a hammerstone in
 
 Higher **dexterity** makes knapping faster, and higher **crafting** skill makes failures rarer. When a knap fails, the flint breaks into a **flint shard**, which still cuts and butchers like a crude blade.
 
+- <img src="../images/Flint_knife.png"> **Flint knife.** A small cutting blade. It butchers, cuts and carves like any knife, but chips with use.
 - **Arrows and bolts.** Use flint arrowheads on an arrow shaft or a bolt. One nodule makes three arrowheads, so knapping gets you more arrows than attaching sharpened flints one at a time. The fletcher's bench accepts flint arrowheads too.
 - **Flint spear.** Use a flint spearhead on a branch to make a flint spear.
 - **Whetstone.** A flint still sharpens blades and tools as before.
