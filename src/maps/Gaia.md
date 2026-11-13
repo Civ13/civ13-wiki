@@ -45,8 +45,9 @@ Craft a **stone rammer** from 2 stone (Tools, once you have studied **Basic Tool
 
 To change the ground itself, grade it one level at a time:
 
-- **Cut:** use a shovel on **disarm** intent on dirt or tamped earth. After about 10 seconds the tile is one level lower and you get a pile of dirt.
-- **Fill:** put a pile of dirt on a tile and use the stone rammer on it. The dirt is packed in, the tile rises one level and becomes tamped earth.
+- **Flatten with the rammer:** use the stone rammer on a dirt or tamped-earth tile that is higher than the tile you stand on. After about 10 seconds it is pounded one level lower, stays tamped, and the loose dirt piles up at your feet. Keep ramming until the tile is level with you. On level ground the rammer only tamps.
+- **Cut with a shovel:** use a shovel on **disarm** intent on dirt or tamped earth. After about 10 seconds the tile is one level lower and you get a pile of dirt on it.
+- **Fill:** put a pile of dirt on a tile and use the stone rammer on it. The dirt is packed in, the tile rises one level and becomes tamped earth. The rammer reminds you to do this when you tamp a spot lower than yours.
 
 Each tile can be dug down or built up by at most two levels from the natural ground, so ridges and cliffs can be eased but not removed. Ground next to water, or with snow, a floor, a crop or anything solid on it, cannot be graded. Levelling an area means planning cuts and fills and carrying dirt from the high spots to the low ones.
 
