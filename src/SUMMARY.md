@@ -109,6 +109,7 @@
         - [Camp](maps/Camp.md)
         - [Trouble at the Oasis](maps/Oasis.md)
         - [Heraclea](maps/Heraclea.md)
+        - [The Ides of March](maps/Ides_of_March.md)
         - [Siege](maps/Siege.md)
         - [Gladiators](maps/Gladiators.md)
         - [Teutoburg](maps/Teutoburg.md)
