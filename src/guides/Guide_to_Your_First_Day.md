@@ -50,7 +50,7 @@ The Stone Age master book has twelve chapters. None of them needs another chapte
 | Chapter | What it gives you on day one |
 | --- | --- |
 | **Basic Toolmaking** | The **stone hatchet** (2 stone), **wood handle**, **wooden spade** and bone shovel, **wooden ladder**, knives, the **tanning rack** and leather, the **dehydrator** for drying meat, fishing rods and nets, rope |
-| **Basic Furniture** | **Campfire** (4 logs), **bed** (4 planks), **brazier** (stone), tables, chairs and the writing desk |
+| **Basic Furniture** | **Bed** (4 planks), **brazier** (stone), tables, chairs and the writing desk |
 | **Pottery & Cookware** | **Wooden mug** (1 log), **bucket** (2 planks), clay pots and cups, the clay **cooking pot**, waterskin, wooden bowl |
 | **Primitive Construction** | **Log walls** (6 logs), **roof supports** (2 logs), the **wood roof builder** (1 plank), doors, fences, wooden floors and stairs, **mine supports**, **torches**, the **travois** |
 | **Weaving** | Fur coat, fur boots and pelt hats, the **leather bedroll** (4 leather), tents, hammocks, loincloths and leaf clothing, and your first bags: the **grass carry net**, **hide sling bag** and **pack basket** |
@@ -69,7 +69,7 @@ You can get your first tools before you have studied anything:
 4. **A binding.** Use the sharpened flint or knife on grass or tall grass to cut **grass cuttings**, then use two cuttings in hand to twist **crude twine**. Butchered animals also give **sinew**, which is stronger.
 5. **Flint axe.** With the twine or sinew in your inventory or on the ground under you, use the sharpened flint on the sharpened stick. A twine binding wears out quickly; sinew or rope lasts much longer.
 
-With the axe you can chop trees for **wood logs**. A flint spearhead used on a stick makes a **flint spear** for hunting. Use the axe on a stack of logs to cut **2 logs into 1 plank**; this needs no chapter. Without an axe, [Woodworking without an axe](../Miscellaneous_Crafting.md#woodworking-without-an-axe) shows the hand route with flint, wedge and mallet.
+With the axe you can chop trees for **wood logs**. A flint spearhead used on a stick makes a **flint spear** for hunting. Use the axe on a stack of logs to cut **2 logs into 1 plank**; this needs no chapter. A **campfire** (4 logs) needs no chapter either. Without an axe, [Woodworking without an axe](../Miscellaneous_Crafting.md#woodworking-without-an-axe) shows the hand route with flint, wedge and mallet.
 
 ## Water
 
@@ -84,7 +84,7 @@ If you catch cholera, see [Medical](Guide_to_Medical.md#diseases).
 
 - **Berries.** Click a berry bush on **Grab intent** to pick some. Each kind of berry has its own effect, and the effects differ from world to world: some are tasty, some are bad for you. Try a new kind carefully.
 - **Hunting.** Kill small, harmless animals such as deer, rabbits or birds; even fists work. Stay away from bears, wolves, big cats, alligators and snakes. A predator that has eaten leaves you alone unless you come within a few steps of it, and lets you back away; a starving one hunts you on sight, and one you hurt always turns on you and won't let you go. If a starving one you haven't hurt is chasing or watching you, throw meat or fish where it can see it; it goes to eat that instead, which gives you time to get away. Butcher a carcass with any sharp tool, including sharpened flint, on **Harm intent**; on **Grab intent** you skin it too, for pelts and hides. Carcasses in or beside rivers can drift away, so drag them ashore first.
-- **Cook your meat.** Raw meat gives food poisoning. With Basic Furniture, build a **campfire** (4 logs), put the meat on it and click it to light it. Basic Toolmaking's **dehydrator** dries cutlets for food that keeps.
+- **Cook your meat.** Raw meat gives food poisoning. Build a **campfire** (4 logs, no chapter needed), put the meat on it and click it to light it. Basic Toolmaking's **dehydrator** dries cutlets for food that keeps.
 - **Bird eggs** are safe raw.
 - **Foraging.** Use **Forage nearby** in the **Crafting** tab while standing on open grass or dirt. A 20 to 45 second search can find a stone, a small wood piece, wild seeds or, outside winter and the dry season, a bunch of edible mushrooms. Each patch of ground holds only a few finds and refills slowly, so keep moving.
 - **Wild crops.** Ripe wild plants grow in open countryside away from settlements. Harvest them with a knife or hatchet for produce and seeds. See [Farming](Guide_to_Farming.md#wild-plants).
