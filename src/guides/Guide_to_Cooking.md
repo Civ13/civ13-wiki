@@ -263,7 +263,7 @@ ingredients needed to make your fantastic dishes, uma delicia!
 <tr>
 <td><img src="../images/sausage_casing.png"></td>
 <td>Sausage casing</td>
-<td>Cut a stomach with a knife. Filling casings with minced meat makes sausages.</td>
+<td>Cut a stomach with a knife. From the 313 BC epoch you can also use a knife on grab intent on whole, fresh, uncooked animal intestines to make one casing. Filling casings with minced meat makes sausages.</td>
 </tr>
 <tr>
 <td><img src="../images/tripe.png"></td>
