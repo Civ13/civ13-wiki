@@ -308,6 +308,10 @@ To see which version of the game the server runs, use the **Server Revision** ve
 - **Drag and drop** an item onto a backpack, belt, pouch or other storage (worn, held, open, or on a tile next to you) to put it inside, or onto an empty hand or equipment slot to hold or wear it.
 - **Shift-click** an item inside an open backpack or container to examine it.
 
+### Pointing
+
+To point something out, hold **Shift** and **middle-click** it, or right-click it and choose **Point To**. This works on a tile, an item, an animal or a person, anywhere on your screen. A red arrow bobs over the spot for two seconds, you turn to face it, and everyone nearby reads that you pointed at it. The arrow shows at night and under roofs and trees. You cannot point while unconscious, restrained or unable to move.
+
 ### Doors
 
 Clicking a closed door with an empty hand depends on your **intent**: help opens it (or rattles the handle if it is locked), disarm and grab knock, and harm kicks it. Clicking an open door closes it.
