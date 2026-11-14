@@ -100,7 +100,7 @@ Crafting anything increases your crafting skill which is displayed on
 the Character tab. Some recipes and workbenches require a certain level
 of the crafting skill, the former to craft an item and the latter to use
 them. For example, building a well or a wall requires the skill at the
-1.1 mark, while using an anvil requires 1.7. 
+1.1 mark, while using an anvil requires 1.2. 
 
 See this **[table](../Crafting_Skill_Level_Requirements.md)** for more info on skill requirements.
 

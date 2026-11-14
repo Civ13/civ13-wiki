@@ -155,9 +155,11 @@ Brass ingots are used for ammunition casings, instruments such as the trombone a
 ## Anvils
 Anvils are used to forge armor and weapons across the centuries, from ancient swords to muskets and makeshift AK-47s. See the **[Guide to Weapons](Guide_to_Weapons.md)** for more information on specific weapons and their availability in different ages.
 
-**Using anvils requires 1.7 of the Crafting skill.**
+**Using anvils requires a Crafting skill of 1.20x.**
 
 Click anvils with a mold with molten metal or with some metal sheets or ingots to craft metal items.
+
+Using iron, steel, bronze or kevlar sheets on an anvil opens the **Crafting window** with everything that metal can be forged into there, in one list. It works like the window for a material in your hand: search by name, use the tabs, click an item to see its cost and press **Craft**, or double-click a ready item to forge one straight away. Items you have too little metal for are listed under **Missing something**, and ones you have not learned under **Not learned yet**. Stay next to the anvil with the metal in your active hand while you work. Molds still ask what to cast in pop-up menus, and **Classic interface** brings the menus back for sheet metal too.
 <table>
 <tbody>
 <tr>
