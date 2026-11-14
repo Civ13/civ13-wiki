@@ -1034,6 +1034,24 @@ Shotgun, submachine gun, automatic rifle and machine gun parts need:
 
 With this many recipes, a fabricator first asks which group to choose from: **General**, or one family's parts such as **Glock parts**.
 
+### Emplaced machine guns
+
+The heavy machine guns that stand on their own wheels or tripods are forged at an **anvil**. Use steel on the anvil and choose **machine guns**. Each takes as many seconds to forge as it costs steel.
+
+| Research | Machine guns | Steel |
+| --- | --- | --- |
+| **Cartridge Firearms** | Maxim 1895, MG 08, Vickers | 50 each |
+| **Cartridge Firearms** | Hotchkiss M1914, Type 3 | 45 each |
+| **Self-Loading Firearms** | Mounted MG 34, Mounted M1919 Browning, Mounted Breda 30 | 40 each |
+| **Self-Loading Firearms** | Type 92 | 45 |
+| **Self-Loading Firearms** | DShK, M2 Browning | 70 each |
+| **Automatic Weapons** | Mounted PKM, Mounted MG 3, Mounted FN MAG | 40 each |
+| **Automatic Weapons** | NSVT | 70 |
+
+**Ammunition.** Every emplaced gun also takes a plain **ammo belt** filled by hand, as long as the rounds are the gun's own. The rifle-caliber guns want the **machine-gun load** of their cartridge from [handloading](Guide_to_Crafting.md#iron-projectiles) where there is one: 7.62x54mmR for the Maxim and PKM, 7.92x57mm for the MG 08 and MG 34, .303 British for the Vickers, 8x50mmR Lebel for the Hotchkiss, 6.5x50mm Arisaka for the Type 3, and 7.62x51mm NATO for the MG 3 and FN MAG. The M1919 Browning takes ordinary .30-06 Springfield, the Breda 30 ordinary 6.5x52mm Carcano and the Type 92 ordinary 7.7x58mm Arisaka. The 12.7mm guns are too big to load by hand: set a fabricator to a **12.7x108mm ammo can** (DShK and NSVT; 3 copper, 1 steel and 2 saltpeter) or a **.50 BMG ammo can** (M2 Browning; 6 copper, 2 steel and 4 saltpeter). Both need **Self-Loading Firearms**.
+
+**On vehicles.** Push an emplaced gun onto a frame of a vehicle and it rides along wherever the vehicle goes; man it from behind as on the ground. To mount one in a [tank turret](Guide_to_Crafting.md#modular-tanks), stand it on the turret's tile before you assemble the tank, or choose **Fit new parts** afterwards. A turret takes one machine gun beside its cannon, and a turret with only a machine gun can fire too.
+
 ### Cleaning and repairs
 
 In the default catalog, craft a **firearm cleaning kit from 5 iron** in Tools or a **firearm maintenance bench from 18 iron** in Production. Tech-tree mode gates both through **Gunsmithing**; map catalogs, skills and other research modes still apply.
