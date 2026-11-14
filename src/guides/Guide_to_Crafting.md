@@ -1127,13 +1127,14 @@ Hit the workshop or any part of the car in the bay with the stack the next piece
 
 #### Trucks, carriers and tanks
 
-The workshop also builds ten heavier or military vehicles. They are only built **piece by piece**, the same way as a car: choose **Start a MODEL piece by piece** and bring each piece in turn. The scout car, field car and cargo truck need only the workshop's own research. The main battle tank needs **Modern Armor**, and the rest need **Mechanized Warfare**, before the project can start.
+The workshop also builds eleven heavier or military vehicles. They are only built **piece by piece**, the same way as a car: choose **Start a MODEL piece by piece** and bring each piece in turn. The scout car, field car, cargo truck and double-decker bus need only the workshop's own research. The main battle tank needs **Modern Armor**, and the rest need **Mechanized Warfare**, before the project can start.
 
 | Model | Size | Chassis and bodywork (4 pieces, each) | Running gear | Engine | Windows | Seats | Turret and gun | Total steel |
 | --- | --- | ---: | --- | --- | ---: | ---: | ---: | ---: |
 | Scout car | 2x3 | 10 steel | 4 wheels | 10 steel, 10 cable | 4 glass | 4 cloth | - | 50 |
 | Field car | 2x3 | 18 steel | 4 wheels | 18 steel, 10 cable | 6 glass | 4 cloth | - | 90 |
 | Cargo truck | 2x4 | 16 steel | 4 wheels | 16 steel, 10 cable | 8 glass | 6 cloth | - | 80 |
+| Double-decker bus | 2x5 | 22 steel | 4 wheels | 22 steel, 12 cable | 14 glass | 10 cloth | - | 110 |
 | Armoured car | 2x3 | 24 steel | 4 wheels | 24 steel, 10 cable | - | 4 cloth | - | 120 |
 | Tankette | 2x3 | 28 steel | 4 tank tracks | 28 steel, 10 cable | - | 4 cloth | - | 140 |
 | Tracked carrier | 3x4 | 36 steel | 4 tank tracks | 36 steel, 12 cable | - | 6 cloth | - | 180 |
@@ -1141,6 +1142,8 @@ The workshop also builds ten heavier or military vehicles. They are only built *
 | Medium tank | 3x4 | 46 steel | 4 tank tracks | 46 steel, 14 cable | - | 6 cloth | 70 steel | 300 |
 | Heavy tank | 3x4 | 62 steel | 4 tank tracks | 62 steel, 14 cable | - | 6 cloth | 70 steel | 380 |
 | Main battle tank | 3x4 | 78 steel | 4 tank tracks | 78 steel, 16 cable | - | 6 cloth | 70 steel | 460 |
+
+The double-decker bus is longer than the usual bay: its project needs a clear **5x5** square to the workshop's northeast. Stairs inside it lead up to the **upper deck**: stand on them and click them to go up, and click them again from above to come back down. See [Combat](Guide_to_Combat.md#cover) for riding on top of vehicles.
 
 Tracked models take **tank tracks** in place of wheels: craft them from steel in the vehicle parts category and drag each one onto the workshop or the vehicle. A rubber wheel will not do for a track. The turret and gun are the last piece of a tank.
 
