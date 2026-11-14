@@ -65,4 +65,4 @@ Flintlock muskets and pistols strike a flint to fire, and that flint wears down.
 
 Examine a flintlock up close to see whether its flint still has an edge. To fit a new one, use a **sharpened flint** on the gun. This takes about three seconds. Guns from crates and newly assembled guns come with a fresh flint.
 
-See also [Crafting](Guide_to_Crafting.md), [Weapons](Guide_to_Weapons.md#flintlock-parts-assembly) and [Ranching](Guide_to_Ranching.md#harvesting-dead-animals).
+See also [Obsidian](Guide_to_Obsidian.md), [Crafting](Guide_to_Crafting.md), [Weapons](Guide_to_Weapons.md#flintlock-parts-assembly) and [Ranching](Guide_to_Ranching.md#harvesting-dead-animals).
