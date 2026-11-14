@@ -60,6 +60,11 @@ You don't have to wait at the bench for the whole time. From the Stone Age on, t
 - **Butchering** animals advances Stone Arms, Archery and Primitive Armor.
 
 - **Prototypes.** Once a book you carry holds a third of a chapter, you can make that subject's things before you know it, as long as you know what it builds on. Each thing you make writes a share of the chapter into that book. A book counts five prototypes per subject, and after that you need the finished chapter to make more.
+- **Trial and error.** You don't have to wait for that first third. Hold or carry a book and use **Attempt a Subject** (Object tab) to open it to a subject whose groundwork you know. While you carry the book you can try to make that subject's things from an empty chapter, in the crafting menu, at an anvil or at a workbench.
+  - Most early attempts fail. A failure uses up the materials, leaves a ruined piece and writes a lesson into the book worth a small share of the chapter. A book takes five lessons per subject.
+  - An empty chapter gives about 15 chances in 100. Every bit of the chapter already written raises that, each earlier failure on the same thing adds 10, and scholarship above what the subject needs adds up to 15. Too little scholarship takes up to 10 away.
+  - A working piece counts as a prototype, and you keep it. You can make five early pieces of a subject this way; after that, get the chapter to a third.
+  - From the Industrial Age on, a failed attempt can burn, sicken or cut you a little, so don't try it wounded.
 - **Field study.** Hold paper, parchment or a book with a pen or pencil in your other hand, stand next to a building, machine or tool that a subject makes, and use **Study in the Field** (Object tab). After about half a minute your notes are written into the book, or onto the sheet as field notes to use on a bench researching that subject. It works on anyone's things, not only your own. A book takes three different kinds of thing per subject, each once.
 
 Later subjects have their own [field work](#field-work).
