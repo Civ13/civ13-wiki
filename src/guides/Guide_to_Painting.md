@@ -13,18 +13,31 @@ Grind one of these in a **mortar and pestle**. Hold the item and click the morta
 | Yellow ochre | clay | ochre, pale yellow |
 | Bone white | bone | white, warm grey |
 
+Later ages add brighter colours, also ground in the mortar:
+
+| Pigment | Ground from | Colours |
+| --- | --- | --- |
+| Malachite green | copper ore | deep green, light green |
+| Vermilion | mercury ore | scarlet, orange-red |
+| Lead white | lead ore | bright white, pale grey |
+| Ultramarine | rough sapphire | deep blue, light blue |
+
+With **Fine Arts** you can make a **box of oil paints** from tin. It gives eight colours (black, white, red, yellow, blue, green, brown and orange) and has 40 uses.
+
 You can only paint with the pigments you are carrying, in your hands, pockets or bag. Any two of your colours can also be mixed half and half. When you finish a painting, each pigment you used gets a little smaller: one use for every 256 pixels painted with it. A fresh pigment has 10 uses.
 
 ## Canvases and the easel
 
-All of these are made from wood on the **Paintings** tab and need Basic Toolmaking.
+All of these are made from wood on the **Paintings** tab. The panels, wall canvas and easel need Basic Toolmaking, and the gallery canvases need Fine Arts.
 
 | Item | Painted at | How you paint it | What it becomes |
 | --- | --- | --- | --- |
 | Miniature panel | 16x16 | in your hands | a locket for a necklace |
 | Table picture panel | 32x32 | in your hands | a small standing picture |
 | Wall canvas | 64x64 | on an easel | a painting for a wall |
-| Easel | - | - | holds a wall canvas while you paint |
+| Gallery canvas | 128x128 | on an easel | a large framed painting, 2x2 tiles |
+| Wide gallery canvas | 128x64 | on an easel | a wide framed painting, 2 tiles across |
+| Easel | - | - | holds a wall or gallery canvas while you paint |
 
 To paint a wall canvas, put it on the easel by clicking the easel with it. Then click the easel with an empty hand and choose **Paint**. For a miniature or a table picture, use it in your hand.
 
@@ -50,6 +63,7 @@ Only someone standing on that spot can paint there. Use a pigment on the rock ag
 - **Locket.** Click a necklace with a finished miniature to set it in as a locket. A necklace can hold either a gemstone or a locket, not both. When you wear it, the picture shows on your chest. Use **Take Out Miniature** to remove it.
 - **Table picture.** A finished one stands in its own frame. Put it on a table or shelf like any other item.
 - **Wall painting.** Stand in front of a wall and click the wall with a finished wall painting to hang it. Use a hammer on it to take it down again.
+- **Gallery painting.** These hang on a wall to your north, in a gilded frame two tiles wide. Stand on the left tile and click the wall. The wall must carry on to your right. Pigment goes further on these big canvases, so even a gallery painting covered in one colour uses only 8 uses of it.
 
 The picture you see in the world is a smaller copy. Examine a painting, or click a hanging one, to see it at full size with its title and painter.
 
@@ -70,5 +84,5 @@ You can draw with your pen's ink, any pigments you carry, and their mixes. A dra
 
 ## Good to know
 
-- Each land has room for about 300 finished wall paintings. Small paintings count as a quarter of one.
+- Each land has room for about 300 finished wall and gallery paintings. Small paintings count as a quarter of one.
 - Every finished painting and drawing records who made it. Offensive pictures will be removed by staff.
