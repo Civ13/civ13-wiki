@@ -275,6 +275,7 @@ Electricity unlocks the powered soil sifter and river concentrator. Hydraulic Fr
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
 | Carts | 1 | 95 | 0 | Analysis | - |
+| Oared Ships | 1 | 95 | 0 | Analysis | Carts |
 | Wagons & Ships | 3 | 165 | 2 | Analysis | Carts |
 | Rail & Steam | 4 | 200 | 3 | Analysis | Wagons & Ships, Steam Power |
 | Automobiles | 5 | 235 | 4 | Analysis | Wagons & Ships, Combustion Engine |

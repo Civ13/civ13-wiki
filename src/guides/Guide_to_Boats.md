@@ -29,6 +29,8 @@ From left to right: raft, sailing outrigger, motor outrigger, RHIB. Offline rend
 | Boathouse (stores boats) | 20 planks | Wagons & Ships | Industrial 41 |
 | Ship mast | 15 planks | Wagons & Ships | Industrial 41 |
 | Tiller (for a [hull you build yourself](#building-your-own-hull)) | 10 planks | Wagons & Ships | Industrial 41 |
+| Steering oar (a cheaper tiller) | 6 planks | Oared Ships | Industrial 14 |
+| Rowing bench | 6 planks | Oared Ships | Industrial 14 |
 | Light ship rudder axis (1200 weight) | 25 planks | Wagons & Ships | Industrial 41 |
 | Ship rudder axis (2500 weight) | 45 planks | Wagons & Ships | Industrial 55 |
 | Steel ship frame | 2 steel per tile | Wagons & Ships | Industrial 97 |
@@ -457,7 +459,7 @@ You can also design a ship yourself. A hull is nothing more than **floors laid o
 
 1. Craft **floor covers** (2 wood each, construction) and lay them over water: a river, a lake or the shallows. Floors cannot be laid on deep salt water, so build near the shore and sail out.
 2. Keep the hull **free of the shore**. A floor that touches a floor on land makes it a jetty, and a jetty cannot be commissioned. Leave a one-tile gap and step across, or cut the last plank when you are ready.
-3. Craft a **tiller** (10 planks, vehicle parts) and set it on one of the floors. The tiller is the point the ship turns about, so somewhere near the middle is best.
+3. Craft a **tiller** (10 planks, vehicle parts) and set it on one of the floors. From the Classical Age a **steering oar** (6 planks, Oared Ships) does the same job. The tiller is the point the ship turns about, so somewhere near the middle is best.
 4. Click the tiller, choose where the **bow** points and **name her**. Every floor joined edge to edge with the tiller's tile becomes the ship, up to **200 tiles**.
 
 Click the tiller to sail:
@@ -465,7 +467,7 @@ Click the tiller to sail:
 | Choice | What it does |
 | --- | --- |
 | **Weigh anchor / Drop anchor** | A new hull lies at anchor and never moves until it is weighed |
-| **Slow ahead**, **Half ahead**, **Full ahead**, **All stop** | Under way she glides along her heading one tile at a time with every floor, wall, crate and person aboard: a tile every **15 seconds** at slow ahead, every **7.5** at half and every **5** at full. Half ahead needs sails or an engine, full ahead needs engines (below) |
+| **Slow ahead**, **Half ahead**, **Full ahead**, **All stop** | Under way she glides along her heading one tile at a time with every floor, wall, crate and person aboard: a tile every **15 seconds** at slow ahead, every **7.5** at half and every **5** at full. Half ahead needs sails, oars or an engine, full ahead needs engines or oars (below) |
 | **Head north / east / south / west** | She comes about around the tiller five seconds later; everything aboard turns with her |
 | **Sea chart** | Where she is, the ships her lookout sees and every harbour on this sea (see [Harbours and the sea chart](#harbours-and-the-sea-chart)) |
 | **Make for a berth** | Slides her alongside a mooring post within 20 tiles |
@@ -476,8 +478,9 @@ Click the tiller to sail:
 | **Refit the hull** | At anchor: surveys the hull again after you added or cut away floors |
 | **Strike the hull** | She stops being a ship; the floors stay where they are |
 
-- **Sails:** with nothing to drive her she is poled along at slow ahead. Craft a **ship mast** (15 planks, vehicle parts), stand it on one of her floors and rig a **small sail** on it (click the mast with the sail). One rigged mast gives half ahead to a hull of up to **31 tiles**, two masts up to 62, and so on. The tiller tells you how many sails are drawing and the best speed she makes. Sails are set while she is under way and furled at anchor, and need no fuel.
-- **Engines:** stand any engine on one of her floors and start it as you would ashore: a steam engine with its fire lit beside it, or a fuel engine with a fuel tank connected. A running engine pushes as much as its power output. Half ahead needs **1 push for every tile of hull** from sails and engines together; full ahead needs **2 for every tile from engines alone**. So a 66-power hot bulb engine drives 66 tiles at half ahead or 33 at full. The tiller shows what her drives push and what her hull needs.
+- **Sails:** with nothing to drive her she is poled along at slow ahead. Craft a **ship mast** (15 planks, vehicle parts), stand it on one of her floors and rig a **small sail** on it (click the mast with the sail). With the wind across her, one rigged mast gives half ahead to a hull of up to **31 tiles**, two masts up to 62, and so on. Running straight before the wind a mast drives 23 tiles, and beating into it only 8 (see [Sailing and the wind](#sailing-and-the-wind)). The tiller tells you how many sails are drawing, how the wind stands to her and the best speed she makes. Sails are set while she is under way and furled at anchor, and need no fuel.
+- **Oars:** craft **rowing benches** (6 planks each, Oared Ships) and set them on her floors. Someone sitting on a bench (drag yourself onto it) rows when she is under way. Each manned bench pushes **4 tiles** of hull, and oars count toward full ahead as well as half ahead, so seven benches row a 13-tile galley at full ahead. Rowing tires the rowers: slow ahead can be kept up for as long as you like, half ahead wears a crew out over a few minutes and full ahead in about two. A rower who is spent stops pulling and she loses way, so change rowers or ease off and let them rest. On a [voyage](#voyages-to-new-lands) oars are no faster than sails.
+- **Engines:** stand any engine on one of her floors and start it as you would ashore: a steam engine with its fire lit beside it, or a fuel engine with a fuel tank connected. A running engine pushes as much as its power output. Half ahead needs **1 push for every tile of hull** from sails and engines together; full ahead needs **2 for every tile from engines and oars**. So a 66-power hot bulb engine drives 66 tiles at half ahead or 33 at full. The tiller shows what her drives push and what her hull needs.
 - **Fuel:** a fuel engine burns from its own tank every 30 seconds under way, three times as much at full ahead as at slow, on top of what it burns idling. When the tank cannot pay the engine stalls and she drops to the best speed her other drives make. Stop the engine at anchor to save fuel.
 - The water she is about to cover is **marked in yellow** five seconds before she moves onto it and before a turn.
 - She stops by herself, and tells everyone aboard why, at land, at somebody else's floor, at another ship, at anything solid in the water and at the edge of the world.
@@ -704,12 +707,12 @@ Both sweeps are bolted to a deck with a wrench, then clicked to stream them over
 
 ## Sailing and the wind
 
-Sails depend on the wind. The **Status** tab shows the current wind, for example "A moderate Northern breeze". The game also announces in chat when the wind changes. The wind is named after the direction it **blows from**, so a northern wind pushes ships south.
+Sails depend on the wind. The **Status** tab shows the current wind, for example "A moderate Northern breeze". The game also announces in chat when the wind changes. The wind is named after the direction it **blows from**, so a northern wind pushes ships south. The ship's wheel and the tiller tell you how the wind stands to her now.
 
 | Course | Speed |
 | --- | --- |
-| With the wind behind you (northern wind, heading south) | Full speed |
-| Across the wind (northern wind, heading east or west) | About 2.5 times slower |
-| Into the wind (northern wind, heading north) | About 10 times slower |
+| Across the wind (northern wind, heading east or west): a **beam reach** | Full speed |
+| With the wind behind you (northern wind, heading south): **running** | About 1.3 times slower |
+| Into the wind (northern wind, heading north): **beating** | About 3.5 times slower, as she tacks back and forth across the wind |
 
-A stronger wind is faster. A gale is the quickest, and with no wind at all sails barely move. These rules apply to both sailing outriggers and sailing ships. If you need to go upwind, an engine is the reliable choice.
+A stronger wind is faster. A gale is the quickest, and with no wind at all sails barely move. A storm overhead blows a gale. These rules apply to sailing outriggers, sailing ships and the sails on a hull you build yourself. If you need to go upwind, oars or an engine are the reliable choice.
