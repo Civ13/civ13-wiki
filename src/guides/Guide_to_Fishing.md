@@ -28,6 +28,8 @@ You can also fish the open sea from a boat, without looking for a fish-filled ti
 
 Each stretch of sea (about 8 by 8 tiles) only holds three fish. A fish comes back every ten minutes, so keep the boat moving. See [Boats & Ships](Guide_to_Boats.md) for building a boat.
 
+A **fish weir** set in a river catches a few fish on its own while you are away. See [Trapping](Guide_to_Trapping.md#fish-weirs).
+
 ## Fish pens
 
 A **fish pen** lets you farm fish instead of only catching wild ones. It costs farm output, but it never runs dry.
