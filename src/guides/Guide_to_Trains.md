@@ -151,11 +151,12 @@ To couple the car, right-click its front end and choose **Hitch**, the same as a
 | Kit | Cost | What you get |
 | --- | --- | --- |
 | Railway gun car kit | 60 steel | A long-range gun on a turntable, an outrigger lever and a shell rack. |
-| Armored wagon kit | 40 steel | Armor plate with firing doors and four mounted machine guns. |
-| Flak car kit | 45 steel | A low armored wall, two autocannons and ammunition crates. |
+| Armored wagon kit | 40 steel | Armor plate with firing doors. Bring your own machine guns. |
+| Flak car kit | 45 steel | A low armored wall and ammunition crates. Bring your own autocannons. |
 | Armored locomotive | 30 steel | A steam locomotive cased in steel plate. |
 
 - **Bracing the railway gun.** The gun only fires while its car is braced. Stop the train, wait a moment for it to settle, then pull the **outrigger lever** on the car. While the outriggers are down the whole train stays where it is; pull the lever again to raise them before you set off.
+- **Guns.** The kits come unarmed. Forge [emplaced machine guns](Guide_to_Weapons.md#emplaced-machine-guns) and 30mm autocannons at an anvil and push them aboard. A **wrench** unbolts a gun nobody is manning so it can be moved, and bolts it down again. Autocannons come off the anvil bolted down.
 - **Armor.** Armor plate stops bullets coming from outside the car, but the crew inside can shoot out through it. Open an armor door to get on or off.
 - **Explosions.** Shells and bombs damage platform cars; armored cars take much less. A car blown off the rails stops its whole train. Weld it with a **welding tool** until it is back on the rails.
 - **Armored locomotive.** Bullets do nothing to it. Heavy explosions wear its plating down, and once its boiler is holed the engine dies and won't start again until it has been welded.
