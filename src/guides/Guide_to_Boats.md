@@ -503,6 +503,54 @@ A lift takes about ten seconds at the capstan, and the ship must be stopped. The
 
 While the boat is in the cradle it rides with the ship through every move and turn, its anchor is down and it will not sail. The ship's [sea chart](#harbours-and-the-sea-chart) lists it under **In her davits** instead of among the boats in sight. If the ship is registered, only her crew can work the davit.
 
+## Voyages to new lands
+
+Past the edge of the map lies open sea, and somewhere out there are lands nobody has seen yet. A ship [you built yourself](#building-your-own-hull) can sail off the edge of the mainland to find them.
+
+### Setting out
+
+1. Bring her within 4 tiles of the edge of the map, ring **All stop**, and make sure she can make way: a rigged mast or a running engine.
+2. Get at least **2 crew** aboard and awake. Everyone aboard when she sets out sails with her; anyone ashore is left behind.
+3. Click the tiller and choose **Set out on a voyage**. You see your chart: your faction's chart if you belong to one, otherwise your own.
+
+From there you can:
+
+- **Sail for a land** your chart shows. Each land lists its size (tiny or small), its climate, its kind of country (coastal plain, river delta, highlands, fjord coast...) and how long the voyage takes: about **a minute for each square of the chart** under sail. A ship driven at full ahead by her engines takes about 40 seconds a square.
+- **Scout unknown water** to the north, east, south or west. She sails 4 squares out and back (8 minutes); what her crew saw goes on your chart.
+
+### Rations and the sea
+
+Every crew member eats **one ration for each square** of the voyage, and any food aboard counts: in the hold, in crates or in your pack. If she carries too little, the tiller warns you before she sails. The food is eaten when she arrives; if she was short, everyone lands hungry. Nobody starves at sea.
+
+On the way the sea may take a hand, at most once of each kind a voyage:
+
+- **A storm** costs her a minute or two, or washes something loose on deck overboard. Stow what you want to keep.
+- **A sighting**: the lookout spots water off her course, and it goes on your chart.
+- **Short rations**: past halfway on too little food, the crew are warned, so you can still turn back.
+
+While she is at sea she lies at anchor off the coast and nobody steers. The tiller tells you how long is left, and **Turn back** calls the voyage off. When she arrives, she and her crew appear anchored off the new land's coast. If the coast is "not yet in sight", the land is still being readied: she waits for it.
+
+Every land has its own riches. Smaller lands are richer in ore and more often hide something rare, such as gems, a rich vein of gold or silver, or diamonds; larger lands grow food better. Each land is known for a few kinds of ore, which turn up as rich lodes when you mine there, and for a few kinds of game, which are plentiful there.
+
+### Settle, claim or abandon
+
+A new land is undecided until its crew choose:
+
+| Choice | How | What it means |
+| --- | --- | --- |
+| **Settle** | Click the tiller and choose **Settle this land**. It needs a mooring post on the coast and beds slept in by **3 different people** within 40 tiles of it. | The land stays for good and appears on everyone's chart, so any ship can reach it. Beds there keep their sleepers' homes. |
+| **Claim** | A faction leader who sailed here plants their **colony charter**. | The land becomes your faction's colony. Each faction can claim **one** land, and each land takes one faction. |
+| **Give up the claim** | The colony's leader clicks its charter and gives the claim up. | The charter comes down and the land stays, settled and open to any faction's claim. Your faction may then claim another land. |
+| **Abandon** | When you sail away from an undecided land, the captain is asked whether to abandon it. | The land is gone for good: nobody can sail there again, and anything left there is lost. |
+
+A land that nobody settles or claims, and that nobody visits for **7 days**, is abandoned.
+
+Until a land is settled or claimed, **dying there sends you back to the mainland**, even if you have a bed there. Your body and gear stay where you fell, and your crew and ship carry on without you.
+
+### Sailing on
+
+From any land you can sail home with **Leave these waters**, or set out on another voyage from the land's own coast to find the next one.
+
 ## Boathouse
 
 A **boathouse** keeps your boats out of the water until you need them, the way a garage keeps cars. Craft it from 20 planks (vehicle parts, Wagons & Ships) and build it on the shore.
