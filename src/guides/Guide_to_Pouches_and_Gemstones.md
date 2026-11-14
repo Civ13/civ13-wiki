@@ -125,3 +125,58 @@ The stone is set into the item, which raises its value and shows when the item i
 Use a necklace on a worn garment to put it on. Others can see it on you.
 
 To give a necklace a pendant, set a cut stone into it as described above, with a chisel in your other hand. The pendant shows in the stone's colour, both in your hand and when worn.
+
+## Practical uses for stones
+
+Some stones are useful as well as pretty. Most of these jobs use the same tools as gem cutting: a **chisel** in your active hand and a **hammer** in the other.
+
+### Jewel bearings
+
+*Needs Optics & Instruments.*
+
+- **Make them:** use the chisel and hammer on a cut ruby or sapphire for 4 jewel bearings, or on a cut garnet for 2 cheaper ones.
+- **Fit them:** use 2 bearings on a pocket watch, wrist watch or compass.
+
+A plain watch runs unevenly and only tells the time to about the quarter hour. A jewelled watch reads to the minute. A jewelled compass gives a closer position and reads faster.
+
+### Diamond grit and the lapping wheel
+
+- **Diamond grit:** use a hammer on a rough diamond to crush it into 3 pinches of grit (needs Regalia & Heraldry). A diamond that splits while being cut leaves a pinch of grit.
+- **Lapping wheel:** made from 4 iron (needs Workshops). Rub diamond grit into it to charge it. When you cut a stone while standing next to a charged wheel, the cut takes half the time and the stone never splits.
+- **Emery:** a ruby or sapphire that splits leaves emery. Emery also charges the wheel, but it only works for stones softer than ruby: garnet, amethyst, topaz, emerald and quartz.
+- **Diamond drill bit:** use a steel sheet on a wheel with plenty of grit (needs Machined Tools). Fitted to an industrial drill, it brings up an extra ore each cycle.
+
+### Quartz and radio crystals
+
+You can find rough quartz while mining. Cut it like any other stone.
+
+- **Reading stone** (needs Glassworking): use the chisel and hammer on cut quartz. Hold the stone in either hand and you can read and write in dimmer light.
+- **Crystal radio set** (needs Electricity): use the chisel and hammer on lead ore to split out a galena crystal. Then use the crystal while holding 10 cable in your other hand. The set listens to the radio without any power, but it can't transmit.
+- **Quartz crystal unit** (needs Assembly Line): use cut quartz while holding a tin sheet in your other hand.
+  - Fit it to a portable radio to give the radio a second frequency that it always listens to.
+  - Fit it to a wrist watch (needs Digital Computing) to make a quartz watch that keeps exact time.
+
+### Garnet paper
+
+*Needs Factories.*
+
+- **Make it:** use a rough garnet while holding paper in your other hand. This makes 4 sheets.
+- **Use it:** use a sheet while holding a worn wooden tool or weapon in your other hand, and it is sanded smooth again.
+
+### Synthetic ruby
+
+1. **Grow a boule** (needs Electricity): use 4 pinches of emery while standing next to a lit furnace.
+2. **Make jewel bearings:** use the chisel and hammer on a boule for 10 cheap bearings.
+3. **Make a ruby rod** (needs Consumer Electronics): use a boule on a lapping wheel charged with diamond.
+4. **Make a laser rangefinder:** use the ruby rod on field binoculars.
+
+A synthetic boule is not a gemstone and can't be traded or set as one.
+
+### Testing stones
+
+| Tool | How to make it | Needs | What it does |
+| --- | --- | --- | --- |
+| Quartz point | a cut quartz | Regalia & Heraldry | Use it on a stone to see whether the stone is harder than quartz |
+| Jeweller's loupe | 1 brass | Optics & Instruments | Use it on a rough stone before cutting. That stone then splits half as often |
+| Gem scale | 2 brass | Optics & Instruments | Shows a stone's specific gravity, what it is, its weight in carats and its value |
+| Gem refractometer | 3 brass | Electricity | Names a cut stone for certain and shows whether it was grown in a flame |
