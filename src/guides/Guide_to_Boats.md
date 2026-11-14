@@ -4,6 +4,7 @@ Anything that floats is built from the crafting menu's **vehicle parts** section
 
 | Boat | Best for | Crew | Propulsion |
 | --- | --- | --- | --- |
+| [Dugout canoe](#dugout-canoe) | Rivers, lakes and the shallows from the first age | 2 + 1 cargo | Paddling (direction keys) |
 | [Raft](#raft) | Crossing a river or lake early on | 1 | Paddling (direction keys) |
 | [Sailing outrigger](#outriggers) | Cheap travel along a coast | 2 + 1 cargo | Wind |
 | [Motor outrigger](#outriggers) | Fast, wind-free travel | 2 + 1 cargo | Engine |
@@ -59,6 +60,20 @@ The small sail is in the cloth (or wool) crafting menu, not in vehicle parts. En
 - Anyone unconscious in deep water drowns straight away, so pull the wounded out.
 
 Deep water is slow to cross, so that is not far. Swim to a nearby boat or across a channel, not across the sea. On battle maps deep water can't be entered at all.
+
+## Dugout canoe
+
+<img src="../images/Dugout_canoe.png"> A **dugout canoe** is a single log hollowed out with fire and an adze. It is the first boat you can make, long before rafts.
+
+1. Craft a **dugout log** from 12 wood (or soft wood), Basic Toolmaking research. Drag it where you want to work, close to the water.
+2. **Char** the top of the log with any open flame, such as a lit torch.
+3. **Hollow** out the charred wood with a **stone adze**. Any hatchet works too, but more slowly. Raw wood is too hard to scoop, so always char first.
+4. Repeat char and hollow three times. After the third time the log is a canoe.
+5. Drag it into the water and climb in. It carries two people and one crate.
+
+<img src="../images/Paddle.png"> Craft a **paddle** from 2 wood. If the person steering holds a paddle, the canoe moves much faster.
+
+A canoe is for rivers, lakes and the shallows along a coast. It won't go out onto the open sea, and on salt water it stays ashore in a strong wind until the wind drops.
 
 ## Raft
 
