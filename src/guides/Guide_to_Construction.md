@@ -742,6 +742,10 @@ Made with 8 marble.
 </tbody>
 </table>
 
+<u><b>Marble brick</b></u>
+
+Made with 6 marble bricks. Mined marble comes as rough blocks; cut them into marble bricks (one block makes one brick) from the marble crafting menu once you know Brickmaking. A chisel and hammer can re-carve the wall like a smooth marble wall.
+
 <u><b>Marble block</b></u>
 
 Made with 8 marble. For the archway,
