@@ -51,3 +51,5 @@ Floodwater puts out fires on the ground, and it puts out campfires that it reach
 
 - **Build high.** The banks just above a river are the first land to flood. A step or two of height keeps a home dry through most floods.
 - **Raise the ground.** Put a pile of dirt on a tile and pack it with a stone rammer to raise it one level (see [Gaia](../maps/Gaia.md)). Raised ground stays dry until the flood rises above its new height.
+- **Build a wall.** A finished dirt, sandbag, rock or sandstone half-wall holds back floodwater one level higher than the ground it stands on, and a concrete half-wall a level and a half. A line of them along a bank keeps the land behind dry until the river rises over the top. A gap anywhere in the line lets the water through. Palisades let water pass between their stakes.
+- **Mind your digging.** Lowering ground through a ridge or wall opens a way for the water. The change takes effect within about a minute.
