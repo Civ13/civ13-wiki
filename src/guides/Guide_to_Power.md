@@ -51,6 +51,21 @@ Hold a cable coil and use it in hand to lay a piece on your tile, pointing the w
 
 To turn a corner, stand on the corner tile facing the new direction and lay the piece there. When the run arrives from the side and nothing waits behind you, the piece bends into a corner and joins both ways. A straight run that crosses another one stays separate. Use a **cable connector** (1 copper) on the tile to join a T-junction, a crossing or runs of different colors.
 
+### Cable of other metals
+
+Copper cable loses no power. With Electricity research you can also make cable coils from iron, aluminium, silver or gold, one ingot for a 10-piece coil like copper, in the **electrical** section.
+
+| Cable | Power lost for every tile of it |
+| --- | --- |
+| Copper, silver | None |
+| Gold | 0.2% of the grid's supply |
+| Aluminium | 0.3% |
+| Iron | 2.4% |
+
+- Every tile of such cable anywhere on a grid counts, so iron suits short runs: twenty tiles of it waste about half the supply. A grid never loses more than nine tenths.
+- Cable of one metal only joins cable of the same metal. Use a **cable connector** to join two metals, as for two colors.
+- Examine a cable to see its metal and the grid's total loss. Cutting a cable gives back a piece of the same metal.
+
 ## Transformers, outlets, poles and power meters
 
 A **distribution transformer** (10 iron, Electricity research) powers machines without running a cable to each one. Lay a cable, put the transformer on that tile and fasten it with a wrench. Every machine within 5 tiles that draws power then runs from that cable, as long as no wall, closed door or window stands on the straight line between them. Machines built or moved into its reach join by themselves. Machines that move out of reach, or that lose sight of the transformer when it is unfastened, lose its power. Click it to look for machines again, and examine it to see how many it feeds. A machine that already has its own cable keeps it.
