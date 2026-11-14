@@ -13,6 +13,8 @@ Floods come only from rivers, lakes and swamps. The sea does not flood the land.
 
 A flood fills land in order of height. Banks a step above the water go under first. Land behind a ridge stays dry until the water tops the ridge. Water you see standing on flat ground near a river during a storm is a warning that the river is already high.
 
+Rain also gathers in **hollows**: low ground with no way out. A long storm can leave a hollow ankle- or knee-deep even far from any river, and the water soaks away over a few hours. A river that rises over a ridge or a wall fills the land behind it up to the river's own level.
+
 ## Walking in floodwater
 
 | Water | What it does to you |
