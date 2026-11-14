@@ -929,6 +929,13 @@ How high a building may go depends on its weakest support:
 
 A sound four-storey house therefore starts with a stone floor, has stone walls or pillars on every storey standing over the ones below, and has no room wider than its pillars can hold from two sides.
 
+#### Getting between storeys
+
+- **Climb up:** face a wall with a free hand and use **IC > Climb Up**, or click the wall with grab intent. You climb onto the floor above it.
+- **Climb down:** stand at the edge of an upper floor with a free hand and click the open air next to you with grab intent, or use **IC > Climb Down**. After a few seconds you are on the ground below that spot. It only works for a single storey onto clear ground. Walking off the edge instead is a hard fall.
+- **Wooden ladder:** craft a wooden ladder (4 wood) and use it on the open air next to an upper floor, or on the ground under open space. It stands between the two levels: click either end to climb, and walking onto the top end doesn't make you fall. Click an end with grab intent and a free hand to take the ladder down again.
+- **Stairs:** see Stairs under [Floors](#floors) below. Leave the space above them open.
+
 <table>
 <tbody>
 <tr>
@@ -1157,9 +1164,12 @@ randomly selected upon construction.
 
 <u><b>Stairs</b></u>
 
-At the moment, craftable stairs are purely cosmetic and cannot be used
-to travel between different Z levels. Nevertheless, they still could be
-used to create an impression of height difference.
+Stairs lead up to the storey above when the space right above them is left
+open (no floor or roof over them) and there is a floor at the top to step onto.
+Walk onto the stairs in the direction you faced when you built them, or click
+them, to climb up; you come out on the floor just past the stairwell. To come
+down, walk from the upper floor onto the open space over the stairs. Stairs
+under a roof or ceiling are only decoration.
 
 <table>
 <tbody>
