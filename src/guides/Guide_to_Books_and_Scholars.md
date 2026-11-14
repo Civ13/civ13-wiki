@@ -248,6 +248,16 @@ Practice is a way to get started, not a way to the top. Each session teaches a l
 
 **Tutoring:** stand beside someone while they study a chapter you know. They finish in two thirds of the time, and if you're still there at the end they gain three times the usual skill and you gain some too. Selling books or tutoring is ordinary trade, so set your own price.
 
+**Learning a trade by hand:** you can learn a subject from someone who knows it without opening a book, as long as you already know what the subject builds on.
+
+- **Watch.** Stand within 2 tiles while they make one of the subject's things. Each different thing you watch fills 15% of your study of the subject, up to three different things.
+- **Work under their eye.** While they stay within 2 tiles and awake, you can make the subject's things yourself in the crafting menu, at an anvil or at a workbench. Each one fills another 20%. Some attempts are spoiled: about 3 in 10 at ordinary crafting skill, far fewer for skilled hands. A spoiled attempt uses up the materials but still fills 10%.
+- This is the same progress that reading fills, so you can mix the two, and whatever you have learned by hand shortens the reading.
+- Subjects from before WW1 can be learned wholly this way. From WW1 on, hands can show you half, and the rest has to be read from the chapter.
+- The teacher gains scholarship for each pupil they bring through a subject.
+
+Books are still the only way to send knowledge to another land or to keep it after its last master dies.
+
 **Apprentices:** use **Take an apprentice** in the IC tab on a player next to you. They have to accept, and a master can have up to three. While their master is within 2 tiles, an apprentice gains twice the usual skill at a bench, and apprentices watching their master research within 2 tiles pick up a little skill too. The apprentice can end it with **Leave apprenticeship**, and it ends when the apprentice dies.
 
 **Titles:** examining someone shows their best discipline as a title once it reaches 12: **Apprentice** from 12, **Scholar** from 40 and **Master** from 75, for example "Scholar of Medicine". Use it to find someone to hire.
@@ -257,6 +267,7 @@ Practice is a way to get started, not a way to the top. Each session teaches a l
 - Copy your important chapters. A raid on your library takes every chapter you only had once.
 - Keep spare copies of each capstone in different places. If the last one burns, the whole world loses that age until someone who knows it writes it down again.
 - A scribe doesn't need to be a scholar: anyone can copy chapters at a bench.
+- Got a newcomer and no spare books? Have them stand by while you work, then let them try. A few pieces later they know the trade.
 - New to a discipline? Practise with its tool between study sessions while your stamina recovers.
 - Short on scholarship for the next age? Do the subject's practice, prototypes and field studies yourself instead of waiting at the bench. They teach more.
 - Keep a bench lit, stocked and next to your bookcases, and research with a pen at a desk nearby.
