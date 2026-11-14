@@ -161,7 +161,8 @@ its ready-made version, so the list of garments grows as you learn more.
    **Clothing**. It costs one cloth sheet; woolcloth works too.
 2. Bigger garments need more fabric. Use cloth or woolcloth sheets on the
    project to add them, up to eight. A loincloth needs 1, a toga 3, most
-   outfits 4 and a colonial coat 7.
+   outfits 4 and a colonial coat 7. Every sheet must be the same fabric as
+   the first one.
 3. Hold the project and use it in hand. **Choose garment** lists the clothing
    and overclothes you know how to make, with the fabric each one needs.
 4. **Colours** lets you colour the body of the garment and each of its pieces,
@@ -182,6 +183,22 @@ its ready-made version, so the list of garments grows as you learn more.
 | Textile Mills | victorian uniform |
 | Ready-Made Clothing | modern, baggy and short modern outfits, cloth jacket, blazer, hoodie |
 | Synthetic Fabrics | tracksuit jacket |
+
+### Fabric and dyes
+
+The fabric you start the project with decides how the garment wears. Wool is
+warmer, especially as a coat or cloak, and gives a little padding against cuts
+and arrows. Linen (cloth) is lighter and shows dyes brighter, while wool gives
+every colour a warmer, duller look.
+
+Each colour is a dye, and the dyes you can use depend on your knowledge.
+**Textile Mills** lets you mix any colour you like.
+
+| Knowledge | Dyes |
+| --- | --- |
+| Weaving | undyed, oatmeal, walnut brown, ochre yellow, red ochre, charcoal grey, pale woad blue, moss green |
+| Classical Dress | madder red, weld yellow, woad blue, forest green, lichen purple, oak-gall black, rose madder, saffron orange |
+| Fine Garments | kermes crimson, indigo navy, royal purple, cochineal scarlet, verdigris teal, gold yellow, sky blue, rose pink |
 
 ### Choosing pieces
 
@@ -221,8 +238,10 @@ every piece's colour noted on it. Examine a pattern to see the colours and how
 much fabric it needs.
 
 Use a pattern on a project that has not been cut yet to copy its design onto
-the project. You still need the knowledge for that garment, so a pattern
-for something you have not learned will not work for you yet. Patterns can
+the project. You still need the knowledge for that garment and its dyes, so
+a pattern for something you have not learned will not work for you yet. A
+pattern does not record the fabric, so the same design can be sewn in linen or
+wool. Patterns can
 be traded like any other item.
 
 Stand still and keep the project in your hand while cutting or sewing. If you
