@@ -78,7 +78,7 @@ Springs, drive belts and chains are never turned.
 
 ## Parts inside machines
 
-The hand mill, the large mill, the large and powered saw mills and the loom have working parts that wear out. Examine one to see its parts, their condition and how fast the machine is running.
+The hand mill, the large mill, the large and powered saw mills, the loom, the printing press and the wind and water generators have working parts that wear out. Examine one to see its parts, their condition and how fast the machine is running.
 
 | Machine | Parts | Built with |
 | --- | --- | --- |
@@ -87,12 +87,18 @@ The hand mill, the large mill, the large and powered saw mills and the loom have
 | Large saw mill | Gear set, shaft, bearing | Wood |
 | Powered saw mill | Gear set, shaft, bearing | Iron |
 | Loom | Shaft, bearing | Wood |
+| Printing press | Shaft (the press screw) | Wood |
+| Waterwheel generator | Shaft, bearing | Wood |
+| Wind charger | Gear set, shaft, bearing | Iron |
+| Wind turbine | Gear set, shaft, bearing | Steel |
 
 - A new machine runs at its usual speed. Each finished job wears its parts a little; the wooden parts a machine is built with last about 400 jobs.
 - A **worn** part makes the machine a quarter slower. A **failing** part sometimes jams a job before it starts. A **worn out** part stops the machine.
 - To replace a part, use a gear set, shaft or bearing on the machine. A part you fitted earlier comes back out; the original part is scrap.
 - The machine works as fast as its weakest part. Bronze, iron or steel parts in a wooden machine make it faster, up to a quarter faster than usual, and last several times longer.
-- The powered saw mill needs accurate parts. A rough part fitted to it runs at 60% at best, so true your parts on a lathe first.
+- The powered saw mill, the wind charger and the wind turbine need accurate parts. A rough part fitted to one runs at 60% at best, so true your parts on a lathe first.
+- A generator's power follows its parts in the same way: better parts give more power and a worn out part gives none. Generators never jam, and a standard set lasts about 110 hours of running.
+- Taking a machine apart with a hammer gives back the parts you fitted, with their wear. The original parts and worn out parts are lost.
 
 ## Sparks
 
