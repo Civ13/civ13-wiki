@@ -1,6 +1,6 @@
 # Travel Between Lands
 
-Some persistent servers are linked into a group of **lands**: separate worlds, each on its own server, that characters can travel between. This page covers how your character lives in one land at a time, how to travel and what you can take, how to mark out new trails, your party's own train and rail yard, and raids into raid worlds.
+Some persistent servers are linked into a group of **lands**: separate worlds, each on its own server, that characters can travel between. This page covers how your character lives in one land at a time, how to travel and what you can take, how to mark out new trails, how factions travel and found colonies, your party's own train and rail yard, and raids into raid worlds.
 
 On a server that is not linked to other lands, trails lead nowhere and none of this applies.
 
@@ -56,6 +56,18 @@ Anyone can build a **trail marker** from **10 wood** (construction section). Tra
 3. Once approved, the marker opens and works like any other trail, both for leaving and for arriving travellers.
 
 Only the player who marked out a trail can change an unanswered request. You can have at most three trails waiting at once, and must wait about ten minutes between requests. Trail markers never lead to the rail yard; only a party's own train goes there.
+
+## Factions and colonies
+
+Each faction lives in the land where it was founded. **You stay a member when you travel:** arriving back in your faction's own land, you rejoin it, and arriving in a land where your faction has a colony, you join the colony. Anywhere else you arrive without a faction, but you are still counted as one of its members.
+
+A faction's leader can found a **colony** in another land:
+
+1. Build a **colony charter** from **8 wood planks** (economy & production section) in the new land.
+2. Travel there as the faction's leader and do not join a faction in that land.
+3. Use the charter post and confirm. Your faction now exists in that land under the same name, with you as its leader there. It starts with that land's research, so carry your books along.
+
+Members who arrive later join the colony at once, within the faction's member limit. A colony stands only while its charter post stands: if raiders destroy it, members stop joining the colony on arrival until a leader of the faction plants a new charter.
 
 ## Party trains
 
