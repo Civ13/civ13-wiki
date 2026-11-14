@@ -82,6 +82,11 @@ Work smart, not hard!
 * To join a faction, you must be **Recruited** by its leader or by a member who has the **Recruitment** permission, or join through one of its [recruitment stations](#recruitment-stations). If you are already in another faction, accepting moves you over and you join as an ordinary member, without any rank or permissions you had before.
 * You can leave a faction by clicking **Abandon Faction** on the **Faction tab**. Take note, that **you will not be able to rejoin the same faction for 24 hours!**
 * Creating a faction makes you the default **Leader**.
+* Every faction has a **member limit**. A full faction cannot take new members, but anyone already counted among its members can rejoin. Your place counts for your account, so it is kept when your character dies; it is freed when you abandon the faction or after two weeks without playing a member.
+
+#### Starting with your faction
+
+Once you have joined a faction in character, your new characters can start with it. When you join the round on a map with random starting places, you are asked whether to start **in the wilds, as a nomad** or **with** your faction. Choosing your faction starts you beside one of its [recruitment stations](#recruitment-stations), already a member. You cannot start with a faction you have never joined in play, and the faction needs a placed recruitment station with free space beside it.
 
 #### Recruitment stations
 
@@ -106,6 +111,7 @@ On Nomads maps you can right-click someone next to you and choose **Offer Adopti
   - You can invite people to your faction by getting close to them, **right-clicking** them, and selecting **Recruit** from the menu.
   - You **cannot** force someone to leave your faction; They have to **abandon** it themselves. How to get them to do that, is up to
     you...
+  - You can lower your faction's member limit with **Set Member Limit** on the **Faction tab**. Members already counted keep their place.
   - You can make someone else a Leader by clicking **Transfer Leadership** on the **Faction tab** while near to your successor.
   - You can rename a faction you founded with **Rename Faction** in the **Faction panel** (on maps that allow custom factions). For the next 8 seasons, the Faction List, examining a member and examining your banners and posters show that it was recently renamed, and from what.
   - You can split your members into **fire teams** with **Roster** in the IC tab. Click a team number next to a person to put them in that team, **none** to take them out, or **lead** to make them the team's leader. Teammates you can see show a numbered badge (gold for the leader), and examining someone shows their team. The tracker arrow points fire team members to their fire team leader. Fire teams are kept with each character when the server restarts.
