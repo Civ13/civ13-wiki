@@ -27,7 +27,7 @@ This is a list of hotkeys for when the game is on **Hotkey Mode**. Use **Tab** t
 | H, CTRL+H | Holster/Unholster |
 | I, CTRL+I | Open worn storage (press again for the next one) |
 | P, CTRL+P | Open backpack |
-| K, CTRL+K | Open belt |
+| K, CTRL+K | Open belt or hip pouch |
 | SHIFT+I, CTRL+SHIFT+I | Open harness, webbing or pockets |
 | F | Face direction (lock your facing) |
 | CTRL+F | Change Intent (cycle left) |
@@ -76,7 +76,7 @@ You walk or run at your usual pace and pull anything you were already pulling. Y
 
 ## Opening worn storage
 
-You can open what you wear without clicking its slot. **I** opens your worn storage one after another: your backpack, your belt, then anything attached to your clothes, such as a leather harness, chest webbing or pouches, your coat pockets, and bags in your pockets. Press it again to open the next one; pressing it on the last one closes it. **P** opens just your backpack, **K** just your belt, and **Shift+I** goes through only the things on your clothes and in your pockets, each the same way. In typing mode use **Ctrl+I**, **Ctrl+P**, **Ctrl+K** and **Ctrl+Shift+I**. You can change all four keys under **OOC > Keybindings**.
+You can open what you wear without clicking its slot. **I** opens your worn storage one after another: your backpack, your belt, then anything attached to your clothes, such as a leather harness, chest webbing or pouches, your coat pockets, and bags in your pockets. Press it again to open the next one; pressing it on the last one closes it. **P** opens just your backpack, **K** just your belt and a pouch in your hip slot, and **Shift+I** goes through only the things on your clothes and in your pockets, each the same way. In typing mode use **Ctrl+I**, **Ctrl+P**, **Ctrl+K** and **Ctrl+Shift+I**. You can change all four keys under **OOC > Keybindings**.
 
 ## Typing bubbles
 
