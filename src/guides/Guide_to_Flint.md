@@ -29,6 +29,7 @@ Knapping shapes a flint by striking it with a hammerstone. Hold a hammerstone in
 | Three flint arrowheads | 6 s | Moderate |
 | Flint knife | 8 s | High |
 | Flint spearhead | 8 s | High |
+| Sickle teeth | 7 s | Moderate |
 | Hand axe | 10 s | High |
 | Hide scraper | 5 s | Low |
 
@@ -37,6 +38,7 @@ Higher **dexterity** makes knapping faster, and higher **crafting** skill makes 
 - <img src="../images/Flint_knife.png"> **Flint knife.** A small cutting blade. It butchers, cuts and carves like any knife, but chips with use.
 - **Arrows and bolts.** Use flint arrowheads on an arrow shaft or a bolt. One nodule makes three arrowheads, so knapping gets you more arrows than attaching sharpened flints one at a time. The fletcher's bench accepts flint arrowheads too.
 - **Flint spear.** Use a flint spearhead on a branch to make a flint spear.
+- <img src="../images/Flint_sickle.png"> **Flint sickle.** Use sickle teeth on a branch. It cuts like a flint knife, and when you harvest a ripe crop with it, it also reaps up to two touching ripe crops of the same kind.
 - **Whetstone.** A flint still sharpens blades and tools as before.
 - <img src="../images/Hand_axe.png"> **Hand axe.** An all-purpose flint tool. It chops trees (slowly), cuts logs into planks like a hatchet, and butchers and skins animals.
 - <img src="../images/Hide_scraper.png"> **Hide scraper.** Keep it in either hand while you skin an animal and you save one extra piece of hide or pelt.

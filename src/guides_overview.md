@@ -76,6 +76,7 @@ New to the game? Start with [How to Play](New_Player_Guide.md), then the [Starte
 - [Companies & Stock Market](guides/Guide_to_Companies.md)
 - [Paperwork](guides/Guide_to_Paperwork.md)
 - [Religion](guides/Guide_to_Religion.md)
+- [Tribal Life](guides/Guide_to_Tribal_Life.md)
 - [Races](guides/Guide_to_Races.md)
 - [Traders](guides/Guide_to_Traders.md)
 
