@@ -72,6 +72,8 @@ machinery and vehicles.
   - Have some material in your active hand
   - Click the material, or press Ctrl-Z or simply Z, if you have toggled
     the hotkeys mode on.
+  - Or leave the material in your other hand or on the ground beside you
+    and press Shift-C (Ctrl-Shift-C in typing mode).
 
 This will bring up the **Crafting** window for a given material. Its
 recipes are sorted into **Ready**, **Missing something** and **Not

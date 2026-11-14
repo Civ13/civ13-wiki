@@ -22,6 +22,7 @@ This is a list of hotkeys for when the game is on **Hotkey Mode**. Use **Tab** t
 | X, CTRL+X | Swap hands |
 | Z, CTRL+Z, CTRL+Y | Activate held object |
 | C, CTRL+C | Secondary activation (item/vehicle brake) |
+| SHIFT+C, CTRL+SHIFT+C | Craft with nearby materials (in either hand or on the tiles around you) |
 | B | Buckle/Unbuckle |
 | CTRL+B | Resist (break a grab, slip cuffs, get out of a buckle, pat out fire, get up) |
 | H, CTRL+H | Holster/Unholster |
