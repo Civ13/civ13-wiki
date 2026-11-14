@@ -1042,6 +1042,26 @@ A wooden pier or trestle bridge can cross shallow water once you have a **pile d
 </tbody>
 </table>
 
+#### Earthworks: steam roller and steam shovel
+
+Two steam machines do the heavy groundwork. Pull each into place, then use coal, charcoal, wood, planks or bamboo on it to stoke it: one coal pays for 4 jobs, one charcoal for 3 and one piece of wood for 1, up to 40 jobs. Examine a machine to see how much fuel it has.
+
+| | Machine | Made from | Research |
+| --- | --- | --- | --- |
+| <img src="../images/Steam_roller.png"> | **Steam roller** | 20 iron, 1 gear set, 2 shafts, 2 bearings | Rail & Steam |
+| <img src="../images/Steam_shovel.png"> | **Steam shovel** | 20 iron, 1 gear set, 1 shaft, 2 bearings | Steam Power |
+
+**Steam roller.** It lays a straight road in one go.
+
+1. Leave it unfastened, and use **stone** on it to fill its hopper (up to 60).
+2. Stand straight behind it, so the road will run away from you, and click it with an **empty hand**.
+3. Pick the road: roman road, cobble street or modern road, from the ones you know how to make.
+4. Stay beside where it started until it finishes. It paves the tile it stands on and up to 11 more, one stone a tile, and ends on the last tile it laid.
+
+It stops early at water, a wall, anything in the way or a tile that already has a floor. If you walk off before it finishes, no road is laid.
+
+**Steam shovel.** Fasten it with a wrench, then click it with an **empty hand**. It digs the loose dirt and sand out of the bare ground within 2 tiles and heaps it at its foot: up to 12 dirt piles or sand in a job. It does not dig under floors.
+
 ## Floors
 
 No more sloshing or plodding through the mud and snow! Walk the
