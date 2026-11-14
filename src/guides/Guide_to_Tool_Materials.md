@@ -76,6 +76,24 @@ Both are in the **Economy & production** crafting menu of their main material an
 
 Springs, drive belts and chains are never turned.
 
+## Parts inside machines
+
+The hand mill, the large mill, the large and powered saw mills and the loom have working parts that wear out. Examine one to see its parts, their condition and how fast the machine is running.
+
+| Machine | Parts | Built with |
+| --- | --- | --- |
+| Mill | Shaft, bearing | Wood |
+| Large mill | Gear set, shaft, bearing | Wood |
+| Large saw mill | Gear set, shaft, bearing | Wood |
+| Powered saw mill | Gear set, shaft, bearing | Iron |
+| Loom | Shaft, bearing | Wood |
+
+- A new machine runs at its usual speed. Each finished job wears its parts a little; the wooden parts a machine is built with last about 400 jobs.
+- A **worn** part makes the machine a quarter slower. A **failing** part sometimes jams a job before it starts. A **worn out** part stops the machine.
+- To replace a part, use a gear set, shaft or bearing on the machine. A part you fitted earlier comes back out; the original part is scrap.
+- The machine works as fast as its weakest part. Bronze, iron or steel parts in a wooden machine make it faster, up to a quarter faster than usual, and last several times longer.
+- The powered saw mill needs accurate parts. A rough part fitted to it runs at 60% at best, so true your parts on a lathe first.
+
 ## Sparks
 
 Iron, steel and flint throw sparks. If you strike a barrel that holds gunpowder or fuel with a tool made of one of them while on **Harm intent**, there is a small chance each blow sets it off. Tools of bronze, copper, wood and bone never spark, so keep a bronze or copper set for work around powder and fuel. Examine a barrel to see whether its contents are dangerous. Filling, pouring and carrying a barrel are always safe.
