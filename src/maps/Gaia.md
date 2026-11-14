@@ -51,6 +51,21 @@ To change the ground itself, grade it one level at a time:
 
 Each tile can be dug down or built up by at most two levels from the natural ground, so ridges and cliffs can be eased but not removed. Ground next to water, or with snow, a floor, a crop or anything solid on it, cannot be graded. Levelling an area means planning cuts and fills and carrying dirt from the high spots to the low ones.
 
+### What slows you down
+
+Use the **Check Movement** verb (IC tab) to see what is slowing you and by how much. It lists each cause as a share of your normal step, gives your step time next to an unhindered one, says what the tile under you is and how high it stands, and shows how much each neighbouring tile rises or falls.
+
+The usual causes, roughly from largest to smallest:
+
+- **Hunger and thirst.** Until your food and water are each over about half full, you are slowed far more than by any gentle hill, and more the emptier you are.
+- **Hills.** Each level you climb in a tile costs more than the last: one level is about half again as slow as flat ground, two levels about twice as slow. Downhill is faster.
+- **Water, mud and snow.** Wading, flood water and flooded trenches are slow. Dirt and grass turn to mud in the rain in most climates. Snow slows you unless you wear snowshoes, and snowshoes are clumsy off the snow.
+- **Injuries and pain**: broken or missing limbs, unsplinted ribs, shock and heavy pain.
+- **Load and gear**: carrying a lot of weight, bulky armour or clothing, shields, a full backpack, wet clothes, or pulling or carrying something.
+- **Low mood**, drowsiness and some traits.
+
+**Making a fast path.** Tamping and grading make a hill easier, but they never make it flat: tamped earth keeps the hill and only halves the cost of climbing, and grading moves a tile at most two levels. For the fastest path, lay a floor or road over the ground (wood, stone, a dirt road and the like). Built ground counts as level, so walking onto, off or along it ignores the hill, and it never turns to mud. Where you can't build, tamp the uphill tiles and follow the gentlest slope.
+
 ## Weather
 
 Gaia has the same seasons as other Nomads maps, but clear spells last longer: while the sky is clear, rain, snow and storms start only about half as often. Once bad weather has started it runs its usual course.
