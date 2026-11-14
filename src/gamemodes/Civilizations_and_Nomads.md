@@ -82,7 +82,20 @@ Work smart, not hard!
 * To join a faction, you must be **Recruited** by its leader or by a member who has the **Recruitment** permission, or join through one of its [recruitment stations](#recruitment-stations). If you are already in another faction, accepting moves you over and you join as an ordinary member, without any rank or permissions you had before.
 * You can leave a faction by clicking **Abandon Faction** on the **Faction tab**. Take note, that **you will not be able to rejoin the same faction for 24 hours!**
 * Creating a faction makes you the default **Leader**.
-* Every faction has a **member limit**. A full faction cannot take new members, but anyone already counted among its members can rejoin. Your place counts for your account, so it is kept when your character dies; it is freed when you abandon the faction or after two weeks without playing a member.
+* Every faction has a **member limit**: 10 members to begin with, raised by building a [faction hall](#faction-halls). A full faction cannot take new members, but anyone already counted among its members can rejoin. Your place counts for your account, so it is kept when your character dies; it is freed when you abandon the faction or after two weeks without playing a member.
+
+#### Faction halls
+
+A faction grows by building a hall. Craft a **faction hall seat** from **20 wood planks** (in the **economy & production** category) and place it; the leader clicks it and chooses **Designate**. Members then hand it materials to raise it, one stage at a time:
+
+| Hall | Members | Needs | Materials |
+| --- | --- | --- | --- |
+| Council fire | 15 | Stone Age | 40 wood, 40 stone |
+| Longhouse | 25 | Classical Age, indoors | 150 wood, 100 stone, 30 cloth |
+| Town hall | 35 | Medieval Age, indoors | 300 stone, 60 iron, 40 glass |
+| Capitol | 50 | Industrial Age, indoors | 600 stone, 150 steel, 80 glass, 20 gold |
+
+From the longhouse on, the hall must stand under a roof. If the hall is destroyed, the faction loses its stages and cannot take in new members beyond 10 until it builds again; nobody is removed. Each [colony](../guides/Guide_to_Travel.md#factions-and-colonies) your faction holds in another land adds room for 5 more members. Examine the hall to see how many members the faction may have and what the next stage needs.
 
 #### Starting with your faction
 
@@ -111,7 +124,7 @@ On Nomads maps you can right-click someone next to you and choose **Offer Adopti
   - You can invite people to your faction by getting close to them, **right-clicking** them, and selecting **Recruit** from the menu.
   - You **cannot** force someone to leave your faction; They have to **abandon** it themselves. How to get them to do that, is up to
     you...
-  - You can lower your faction's member limit with **Set Member Limit** on the **Faction tab**. Members already counted keep their place.
+  - You can set a lower member limit than your hall allows with **Set Member Limit** on the **Faction tab**. Members already counted keep their place.
   - You can make someone else a Leader by clicking **Transfer Leadership** on the **Faction tab** while near to your successor.
   - You can rename a faction you founded with **Rename Faction** in the **Faction panel** (on maps that allow custom factions). For the next 8 seasons, the Faction List, examining a member and examining your banners and posters show that it was recently renamed, and from what.
   - You can split your members into **fire teams** with **Roster** in the IC tab. Click a team number next to a person to put them in that team, **none** to take them out, or **lead** to make them the team's leader. Teammates you can see show a numbered badge (gold for the leader), and examining someone shows their team. The tracker arrow points fire team members to their fire team leader. Fire teams are kept with each character when the server restarts.
