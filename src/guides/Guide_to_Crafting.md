@@ -73,10 +73,12 @@ machinery and vehicles.
   - Click the material, or press Ctrl-Z or simply Z, if you have toggled
     the hotkeys mode on.
 
-This will bring up the crafting menu for a given material - a list of
-recipes for the items that can be made with this material at the present
-moment. **Many recipes require a certain research level, otherwise they
-will not be available!** Check the **[Full Crafting List](../Full_Crafting_List.md)** for an item's research requirements. If you belong to a faction, you can see the current
+This will bring up the **Crafting** window for a given material. Its
+recipes are sorted into **Ready**, **Missing something** and **Not
+learned yet**. Click a recipe to see what it needs, then press **Craft**;
+nothing is spent before that. Double-click a ready recipe to make one
+straight away. **Many recipes require a certain research level, otherwise they
+will not be ready!** Check the **[Full Crafting List](../Full_Crafting_List.md)** for an item's research requirements. If you belong to a faction, you can see the current
 research levels on the Character tab. If you are not a part of a
 faction, checking the current epoch on the Status tab will give you a
 general idea about the available recipes.
