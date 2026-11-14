@@ -36,7 +36,7 @@ Wartime cars (see [Wartime cars](#wartime-cars)):
 | Train lever | 1 iron | Flips every switcher within two tiles. |
 | Mining cart | 10 soft wood | Small storage cart (7 slots). |
 | Steam locomotive | 18 iron | The engine. Burns coal or wood. |
-| Coal tender | 6 iron | Fuel wagon (15 slots) for coal. |
+| Coal tender | 6 iron | Fuel wagon (15 slots) for coal, wood planks and branches. It refuels the engine as the train runs. |
 | Cabin wagon | 4 iron | A covered seat for the driver or passengers. |
 | Flatbed wagon | 4 iron | Carries people, crates and structures. |
 | Transport wagon | 5 iron | A covered storage wagon (8 slots). |
@@ -93,11 +93,14 @@ Click the locomotive with fuel to load its combustion chamber, which holds 100 u
 | Fuel | Units per piece |
 | --- | --- |
 | Coal | 15 |
-| Wood | 3 |
+| Wood planks | 3 |
+| Branch | 3 |
 
-If a stack would overfill the chamber, it is refused, so split it into a smaller stack. The locomotive burns **one unit per tile** it moves, and it slows down as the chamber empties. Examine it to see how full it is ("full", "sufficiently fueled", "stable", "emptying", "almost empty"). When the fuel runs out, the engine stalls.
+If a stack would overfill the chamber, it is refused, so split it into a smaller stack. Examine the locomotive to see how full it is ("full", "sufficiently fueled", "stable", "emptying", "almost empty"). When the fuel runs out, the engine stalls and the train rolls on until it slows to a stop.
 
-Carry spare coal in a **tender** hitched behind the engine for long routes.
+How much fuel a tile takes depends on the throttle and the load. Idling along costs a quarter of a unit, and full throttle with a fully loaded train costs one unit. An overloaded train costs more. That is about a hundred tiles of hard running per full chamber.
+
+Hitch a **coal tender** anywhere in the train for long routes. Whenever the chamber drops below half, the fireman tops it up from the tender as the train runs.
 
 ## Building a train
 
@@ -107,9 +110,28 @@ Carry spare coal in a **tender** hitched behind the engine for long routes.
 
 ## Driving
 
-- **Click the locomotive** to start it and click it again to stop. It drives forward along the track until it is stopped, runs out of fuel, reaches the end of the rail or hits something.
-- Set the levers before you leave. A switcher set to split sends the train onto the side track.
-- Anyone standing on the track gets hit hard. Look before you start and warn people near the line.
+**Click the locomotive** to open its controls:
+
+- **Start the engine** or **Stop the engine**. It needs fuel to start.
+- **Throttle up** and **Throttle down** move between notches 0 and 3. Each notch is a third of the engine's top speed. The train gathers speed over a few tiles rather than jumping to it.
+- **Brake** closes the throttle and brakes. Closing the throttle without braking lets the train coast.
+- **Reverser** sets forward or backward, and only works while the train is standing. Backing up pushes the train with its last wagon leading. Set the levers for the way the back of the train will go.
+
+Examine the locomotive to see its notch, reverser, speed and whether the train is too heavy for it.
+
+### Speed, load and stopping
+
+- A steam locomotive at full throttle is faster than a carriage or any tank, about as fast as a running person. The armored locomotive is a little slower.
+- Every wagon and car adds weight, and so does what it carries: people, cargo, stored items and furniture. A locomotive pulls its own rated load at full speed. Over that, the train is slower, and a train far too heavy for its engine won't start at all: the wheels just spin.
+- **Two engines** make a heavier train fast again. Hitch a second running locomotive into the train. It adds its pull and burns its own fuel, and the front engine sets the pace.
+- **Trains don't stop on the spot.** Braking takes a couple of tiles for a short train, and many more for a long, heavy one. Coasting takes longer still. Start braking well before a station or a junction.
+
+### Hitting things
+
+- The faster and heavier the train, the harder it hits. A train creeping along shoves a person off the rails with a bruise and stops in front of crates and furniture without breaking them.
+- At speed it throws people clear of the track, badly hurt or worse, and keeps going. It smashes anything solid in its way and stops there.
+- A train that runs into another at speed damages both of them.
+- Set the levers before you leave. A switcher set to split sends the train onto the side track. Look before you start, and warn people near the line.
 
 ## Carrying passengers and cargo
 
