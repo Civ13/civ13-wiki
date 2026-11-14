@@ -1,6 +1,6 @@
 # Aircraft
 
-Light planes are the first things in Civ13 that leave the ground. There are five hangar models: the two-seat **light plane**, the four-seat **cabin plane**, the small two-seat **trainer**, the **cargo plane** and the bigger **twin-engine plane**, and planes can also be built by hand. Every plane takes off and lands best on a **runway** and flies on the air level above the map. Flying is only possible on maps that have an air level: at the moment that is **Gaia**, the main Nomads persistent world. Elsewhere the plane rolls along but never lifts off, and the pilot is told that there is no airspace.
+Light planes are the first things in Civ13 that leave the ground. There are six hangar models: the two-seat **light plane**, the four-seat **cabin plane**, the small two-seat **trainer**, the **cargo plane**, the bigger **twin-engine plane** and the **airliner**, and planes can also be built by hand. Every plane takes off and lands best on a **runway** and flies on the air level above the map. Flying is only possible on maps that have an air level: at the moment that is **Gaia**, the main Nomads persistent world. Elsewhere the plane rolls along but never lifts off, and the pilot is told that there is no airspace.
 
 ![Offline render using Civ13 sprites: two light planes on a tarmac runway laid across grass, one parked and one with its propeller spinning](../images/civ13-light-plane-sprites.png)
 
@@ -17,12 +17,13 @@ Two light planes on a runway, nose to the east. Offline render using Civ13 sprit
 | Trainer | 28 wood, 8 steel, 4 glass, 6 cloth, 6 cable, 4 unattached wheels | Built at the hangar | Built at the hangar |
 | Cargo plane | 44 aluminium, 16 steel, 6 glass, 2 cloth, 8 cable, 4 unattached wheels | Built at the hangar, after Aviation & Rocketry | Built at the hangar |
 | Twin-engine plane | 64 aluminium, 26 steel, 8 glass, 6 cloth, 14 cable, 4 unattached wheels | Built at the hangar, after Aviation & Rocketry | Built at the hangar |
+| Airliner | 90 aluminium, 26 steel, 14 glass, 12 cloth, 16 cable, 4 unattached wheels | Built at the hangar, after Aviation & Rocketry | Built at the hangar |
 | Aircraft bomb casing | 8 steel | Powered Flight | Industrial 126 |
 | Airframe section | 4 steel | Powered Flight | Industrial 126 |
 | Airframe controls | 12 steel | Powered Flight | Industrial 126 |
 | Pilot's seat | 8 steel | Powered Flight | Industrial 126 |
 
-**Powered Flight** is an Industrial node in the Vehicles line. It needs **Automobiles** and **Combustion Engine**, and Aviation & Rocketry is researched after it. The hangar is in the **production** crafting category and runway in **roads**. The hangar only assembles planes for a faction that has finished the Powered Flight node. With Powered Flight alone it builds the wood-and-cloth **trainer** and **light plane**. The all-metal **cabin**, **cargo** and **twin-engine** planes also need **Aviation & Rocketry**, and so does a twin-engine plane built by hand.
+**Powered Flight** is an Industrial node in the Vehicles line. It needs **Automobiles** and **Combustion Engine**, and Aviation & Rocketry is researched after it. The hangar is in the **production** crafting category and runway in **roads**. The hangar only assembles planes for a faction that has finished the Powered Flight node. With Powered Flight alone it builds the wood-and-cloth **trainer** and **light plane**. The all-metal **cabin**, **cargo** and **twin-engine** planes and the **airliner** also need **Aviation & Rocketry**, and so does a twin-engine plane built by hand.
 
 ## Building the hangar and the plane
 
@@ -43,7 +44,9 @@ The **cargo plane** has the light plane's size, but its fuselage row is three **
 
 ![Render using Civ13 sprites: the twin-engine plane, five tiles across with an engine and propeller on each wing, beside the three-tile light plane](../images/civ13-twin-engine-plane.png)
 
-The **twin-engine plane** is the biggest: **5 tiles** across the wings and 4 long, with an engine and propeller on each wing, the pilot and three passenger seats. The hangar builds it in the **5x5** square northeast of the press, so clear that much room first; a hangar placed for the smaller planes still works. Each engine has its own fuel tank, so fill both. Starting the engine from the control column starts the other engine too, and with both running it lifts more weight. A wing engine with an empty tank stays off. It needs **12 tiles** of runway or **24** of open ground, and to use a runway every tile under it must be runway, so lay it **5 tiles wide**. It is too big to hangar.
+The **twin-engine plane** is **5 tiles** across the wings and 4 long, with an engine and propeller on each wing, the pilot and three passenger seats. The hangar builds it in the **5x5** square northeast of the press, so clear that much room first; a hangar placed for the smaller planes still works. Each engine has its own fuel tank, so fill both. Starting the engine from the control column starts the other engine too, and with both running it lifts more weight. A wing engine with an empty tank stays off. It needs **12 tiles** of runway or **24** of open ground, and to use a runway every tile under it must be runway, so lay it **5 tiles wide**. It is too big to hangar.
+
+The **airliner** is the twin-engine plane with a long cabin: 5 tiles across and **6** long, with the pilot and **six passenger seats** either side of an aisle you can walk down, and a door on each cabin row. The hangar builds it in a **6x6** square northeast of the press. Like the twin it has an engine and a fuel tank on each wing. It needs **16 tiles** of runway, 5 wide, or **30** of open ground, and more when it is loaded. It is too big to hangar.
 
 ## Building a plane by hand
 
