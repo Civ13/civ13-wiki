@@ -20,6 +20,7 @@
     - [Production & Crafting]()
         - [Crafting](guides/Guide_to_Crafting.md)
         - [Metallurgy](guides/Guide_to_Metallurgy.md)
+        - [Pottery, Bricks & Lime](guides/Guide_to_Pottery_and_Lime.md)
         - [Electroplating](guides/Guide_to_Electroplating.md)
         - [Resource Extraction](guides/Guide_to_Resource_Extraction.md)
         - [Flint](guides/Guide_to_Flint.md)
