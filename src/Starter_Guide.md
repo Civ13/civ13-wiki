@@ -27,9 +27,11 @@ You will need some basic things to survive. At the very start you will most like
 
 The same mechanic applies to all materials: activate an item in your hand to open the crafting menu.
 
-The **Crafting** window lists the material's recipes on the left in three groups: **Ready** (you can make it now), **Missing something** (each row says what is missing, such as more material, a tool or a second material) and **Not learned yet** (press **Show** to see them). Type in the search box to find a recipe in any category, or pick a category from the list.
+The **Crafting** window lists the material's recipes on the left in three groups: **Ready** (you can make it now), **Missing something** (each row says what is missing, such as more material, a tool or a second material) and **Not learned yet** (press **Show** to see them). Type in the search box to find a recipe anywhere, or pick a tab such as **Tools**, **Weapons**, **Clothing** or **Building** to see only recipes of that kind.
 
 Click a recipe to see it on the right: what it needs, the tools, how long it takes and how many it makes. Clicking only selects, so nothing is spent until you press **Craft**. When you have enough for several, set the quantity with **-**, **+** or **Max** first. Double-click a ready recipe to make one straight away. Tick **Only what I can make** to hide everything that is not ready; the game remembers the choice for every material.
+
+For recipes you make often, press **Pin this recipe** on the recipe's card. Pinned recipes, and the ones you made recently, appear as shortcuts above the list whenever you hold that material.
 
 If you prefer the older plain list, press **Classic interface** at the top of the window.
 
