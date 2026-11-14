@@ -41,3 +41,7 @@ Compared with the usual tool, copper works at about two thirds of the speed, bro
 ## Recipes that need a second material
 
 Some builds need a second material as well as the one you are holding. A raft needs 2 rope and a carriage needs 20. The second material can be in your other hand, worn on you or lying at your feet. It is only taken when the build finishes, so a cancelled build costs you nothing. The Crafting window lists what a recipe still needs.
+
+## Sparks
+
+Iron, steel and flint throw sparks. If you strike a barrel that holds gunpowder or fuel with a tool made of one of them while on **Harm intent**, there is a small chance each blow sets it off. Tools of bronze, copper, wood and bone never spark, so keep a bronze or copper set for work around powder and fuel. Examine a barrel to see whether its contents are dangerous. Filling, pouring and carrying a barrel are always safe.
