@@ -104,13 +104,13 @@ The assigned bench ticks forward automatically, once every **10 seconds**, contr
 
 A bench must be tier-upgraded to at least the node's **minimum bench tier** before it can work on it at all — see [Bench tiers](#bench-tiers).
 
-### 2. Build a prototype (Prototype mode — 9 key nodes)
+### 2. Build a prototype (Prototype mode — 11 key nodes)
 
-Some inventions (Bronze Working, Iron Smithing, Gunpowder, Steam Power, Electricity, Nuclear Power, Mechanized Warfare, Digital Computing, Digital Networks) need more than theory — they need a **working prototype**. These require **both** the full passive study **and** the matching prototype item fed to the bench (see the [reference table](#full-node-reference)) — it's an extra requirement, not a shortcut. Whichever you finish second is what completes the node: submit the prototype after study is done and it finishes at once; submit it early and the node completes the moment the ticks catch up.
+Some inventions (Bronze Working, Iron Smithing, Gunpowder, Printing Press, Steam Power, Electricity, Nuclear Power, Mechanized Warfare, Powered Flight, Digital Computing, Digital Networks) need more than theory — they need a **working prototype**. These require **both** the full passive study **and** the matching prototype item fed to the bench (see the [reference table](#full-node-reference)) — it's an extra requirement, not a shortcut. Whichever you finish second is what completes the node: submit the prototype after study is done and it finishes at once; submit it early and the node completes the moment the ticks catch up.
 
 [Research notes](#research-trade-goods-notes-and-books) still help on these techs, since they grant ticks toward the study half.
 
-**These are the era-changing capstones.** The first time *any* faction completes one ahead of the current era, the **whole world advances into that era**, with a server-wide announcement. Existing factions retain their founding Main-tree baseline; they must earn later nodes. New factions receive the Main-tree baseline of their founding era, while factionless players follow the current Main-tree baseline. Specialist trees do not gain automatic completion. Capstones have a **passive tick cost of 5× the listed base cost** (the tick numbers in the reference table below are the pre-multiplier base values).
+**These are the era-changing capstones.** The first time *any* faction completes one ahead of the current era, the **whole world advances into that era**, with a server-wide announcement. Two eras can be opened from either side: the **Imperial** era opens with Gunpowder *or* the Printing Press, and the **World War II** era opens with Mechanized Warfare *or* Powered Flight, so a peaceful people never has to study weapons to move the world on. Existing factions retain their founding Main-tree baseline; they must earn later nodes. New factions receive the Main-tree baseline of their founding era, while factionless players follow the current Main-tree baseline. Specialist trees do not gain automatic completion. Capstones have a **passive tick cost of 5× the listed base cost** (the tick numbers in the reference table below are the pre-multiplier base values).
 
 ### Studying samples (any Analysis/Prototype node)
 
@@ -234,7 +234,7 @@ The first bonus slot costs 300 silver-equivalent, the second costs 600, the thir
 | Workshops | 2 | 130 | 1 | Analysis | Bronze Working |
 | Glassworking | 2 | 130 | 1 | Analysis | Pottery & Cookware |
 | Papermaking | 2 | 130 | 1 | Analysis | - |
-| Printing Press | 3 | 165 | 2 | Analysis | Papermaking |
+| Printing Press | 3 | 165 | 2 | **Prototype** (envelope or wax seal stamp) | Papermaking |
 | Optics & Instruments | 3 | 165 | 2 | Analysis | Glassworking |
 | Factories | 4 | 200 | 3 | Analysis | Workshops, Steam Power |
 | Assembly Line | 5 | 235 | 4 | Analysis | Factories |
@@ -278,7 +278,7 @@ Electricity unlocks the powered soil sifter and river concentrator. Hydraulic Fr
 | Wagons & Ships | 3 | 165 | 2 | Analysis | Carts |
 | Rail & Steam | 4 | 200 | 3 | Analysis | Wagons & Ships, Steam Power |
 | Automobiles | 5 | 235 | 4 | Analysis | Wagons & Ships, Combustion Engine |
-| Powered Flight | 6 | 270 | 5 | Analysis | Combustion Engine |
+| Powered Flight | 6 | 270 | 5 | **Prototype** (small fuel tank) | Combustion Engine |
 | Submarines | 6 | 270 | 5 | Analysis | Wagons & Ships, Combustion Engine, Electricity |
 | Aviation & Rocketry | 7 | 305 | 6 | Analysis | Powered Flight, Alloys |
 | Naval Aviation | 7 | 305 | 6 | Analysis | Powered Flight, Wagons & Ships |

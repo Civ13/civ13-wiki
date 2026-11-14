@@ -49,7 +49,7 @@ A **research bench** costs 8 soft wood. Benches belong to nobody: anyone can use
 3. Speed it up by using **samples** on the bench: existing examples of things the subject unlocks. Capstones also need their **prototype** before the chapter is finished, or from Steam Power on a [demonstration](#demonstrations).
 4. When the research is done, the chapter is written into the book. **It teaches nobody**, not even the researcher. Whoever wants it still has to study it.
 
-The first time anyone finishes a capstone chapter, the whole world moves into the next age.
+The first time anyone finishes a capstone chapter, the whole world moves into the next age. Two ages have a peaceful capstone as well as a military one: the Printing Press opens the same age as Gunpowder, and Powered Flight opens the same age as Mechanized Warfare. Either one is enough.
 
 ### Learning by doing
 
@@ -68,7 +68,7 @@ Later subjects have their own [field work](#field-work).
 
 ### Losing an age
 
-An age lasts only as long as its capstone is written down somewhere. If every book, loose chapter page and recipe manual that holds the current age's capstone is destroyed, and no capstone of a later age survives either, the world falls back one age within about ten minutes, and every player is told. If the age before it has lost its capstone too, that one goes next, a little later. The Stone Age is never lost.
+An age lasts only as long as its capstone is written down somewhere. Where an age has two capstones, either one keeps it. If every book, loose chapter page and recipe manual that holds the current age's capstone is destroyed, and no capstone of a later age survives either, the world falls back one age within about ten minutes, and every player is told. If the age before it has lost its capstone too, that one goes next, a little later. The Stone Age is never lost.
 
 Nobody forgets anything when an age is lost. Anyone who still knows the lost capstone can **write it from memory** into a book, and the world returns to that age at once. A region connected to a mainland never falls below the mainland's age.
 
