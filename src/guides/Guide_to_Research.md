@@ -38,7 +38,7 @@ A subject only requires what you really need to build it: the same craft one ste
 
 - **Tools, metals and power are the trunk.** Bronze Working, Iron Smithing, Steelmaking and Alloys, and Watermills, Steam Power, Electricity and the Combustion Engine are what most late subjects lean on.
 - **Every other branch can be left alone.** Farming, health, clothing, building, culture, arms and vehicles each start from a subject with no prerequisites.
-- **Some subjects are side steps.** Irrigation, Imperial Architecture, Classical Dress, Siege Engines and Mail & Plate unlock their own things, and nothing later needs them. A farmer can go from Basic Agriculture straight to Advanced Agriculture, then to Soil Science or Crop Breeding. Irrigation leads only to Hydroponics.
+- **Some subjects are side steps.** Irrigation, Imperial Architecture, Classical Dress, Siege Engines and Mail & Plate unlock their own things, and nothing later needs them. Armour is taught by the armour subjects (Primitive Armor, Mail & Plate, Trench Warfare, Modern Armor), not by the blade and firearm subjects. A farmer can go from Basic Agriculture straight to Advanced Agriculture, then to Soil Science or Crop Breeding. Irrigation leads only to Hydroponics.
 - **Civil subjects never need military ones.** Rocketry and Drones follow from flight. Military subjects need a civil one only where they are built from it, such as Steelmaking for Rifling or the Combustion Engine for tanks.
 
 ---
@@ -318,8 +318,8 @@ The Tailoring tree contains advanced clothing and armour research, split into tw
 
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Mail & Plate | 2 | 130 | 1 | Analysis | Primitive Armor |
-| Trench Warfare | 5 | 235 | 4 | Analysis | Primitive Armor, Field Defenses |
+| Mail & Plate | 2 | 130 | 1 | Analysis | Primitive Armor, Iron Smithing |
+| Trench Warfare | 5 | 235 | 4 | Analysis | Primitive Armor, Field Defenses, Steelmaking |
 | Modern Armor | 7 | 305 | 6 | Analysis | Trench Warfare, Alloys |
 
 ### Specialized tree: Agriculture
