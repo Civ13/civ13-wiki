@@ -23,6 +23,7 @@
         - [Electroplating](guides/Guide_to_Electroplating.md)
         - [Resource Extraction](guides/Guide_to_Resource_Extraction.md)
         - [Flint](guides/Guide_to_Flint.md)
+        - [Pouches, Belts & Gemstones](guides/Guide_to_Pouches_and_Gemstones.md)
         - [Research](guides/Guide_to_Research.md)
         - [Books and Scholars](guides/Guide_to_Books_and_Scholars.md)
         - [Power & Batteries](guides/Guide_to_Power.md)
