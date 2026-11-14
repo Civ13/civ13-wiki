@@ -65,6 +65,7 @@ New to the game? Start with [How to Play](New_Player_Guide.md), then the [Starte
 - [Radiation](guides/Guide_to_Radiation.md)
 - [Hygiene](guides/Guide_to_Hygiene.md)
 - [Winter & Long Rounds](guides/Guide_to_Survival.md)
+- [Rivers & Floods](guides/Guide_to_Floods.md)
 
 ## Society
 
