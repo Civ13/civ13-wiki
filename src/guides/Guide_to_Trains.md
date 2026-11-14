@@ -74,7 +74,7 @@ Track needs firm ground, so to cross a river, lake or the open sea you first bui
 | Span | Cost | Tech tree | Legacy research |
 | --- | --- | --- | --- |
 | Steel bridge span | 4 steel | **Reinforced Concrete** node | Industrial research **96** |
-| Concrete bridge span | 6 clay | **Reinforced Concrete** node | Industrial research **103** |
+| Concrete bridge span | 6 concrete blocks | **Reinforced Concrete** node | Industrial research **103** |
 
 Each span covers one tile of water, deep sea included:
 
