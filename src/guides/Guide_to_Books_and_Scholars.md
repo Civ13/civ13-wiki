@@ -46,7 +46,7 @@ A **research bench** costs 8 soft wood. Benches belong to nobody: anyone can use
 
 1. Put a book on the bench, click a subject in the bench window and press **Research this here**. The research is written into that book. Take the book away and the unfinished work goes with it.
 2. Stay beside the bench. It only makes progress while someone within one tile knows every prerequisite of the subject and holds a writing tool (see [The scholar's trade](#the-scholars-trade)).
-3. Speed it up by using **samples** on the bench: existing examples of things the subject unlocks. Capstones also need their **prototype** before the chapter is finished, or from Steam Power on a [demonstration](#demonstrations).
+3. Speed it up by using **samples** on the bench: existing examples of things the subject unlocks. The first two kinds of sample you take apart for a chapter are worth the most, a fifth of the chapter each. Capstones also need their **prototype** before the chapter is finished, or from Steam Power on a [demonstration](#demonstrations).
 4. When the research is done, the chapter is written into the book. **It teaches nobody**, not even the researcher. Whoever wants it still has to study it.
 
 The first time anyone finishes a capstone chapter, the whole world moves into the next age. Two ages have a peaceful capstone as well as a military one: the Printing Press opens the same age as Gunpowder, and Powered Flight opens the same age as Mechanized Warfare. Either one is enough.
@@ -66,6 +66,8 @@ You don't have to wait at the bench for the whole time. From the Stone Age on, t
   - A working piece counts as a prototype, and you keep it. You can make five early pieces of a subject this way; after that, get the chapter to a third.
   - From the Industrial Age on, a failed attempt can burn, sicken or cut you a little, so don't try it wounded.
 - **Field study.** Hold paper, parchment or a book with a pen or pencil in your other hand, stand next to a building, machine or tool that a subject makes, and use **Study in the Field** (Object tab). After about half a minute your notes are written into the book, or onto the sheet as field notes to use on a bench researching that subject. It works on anyone's things, not only your own. A book takes three different kinds of thing per subject, each once.
+
+- **Compare notes.** When two books on the same bench each hold part of the same chapter, two scholars who could both research that subject can stand beside the bench and use **Compare Notes** (right-click the bench). The fuller book gains half of what the other one holds, and the other book keeps its own work. You need light, and both of you must be able to read both books. Each book can be compared once per subject. Both scholars learn from it.
 
 Later subjects have their own [field work](#field-work).
 
@@ -248,6 +250,16 @@ Practice is a way to get started, not a way to the top. Each session teaches a l
 
 **Tutoring:** stand beside someone while they study a chapter you know. They finish in two thirds of the time, and if you're still there at the end they gain three times the usual skill and you gain some too. Selling books or tutoring is ordinary trade, so set your own price.
 
+**Learning a trade by hand:** you can learn a subject from someone who knows it without opening a book, as long as you already know what the subject builds on.
+
+- **Watch.** Stand within 2 tiles while they make one of the subject's things. Each different thing you watch fills 15% of your study of the subject, up to three different things.
+- **Work under their eye.** While they stay within 2 tiles and awake, you can make the subject's things yourself in the crafting menu, at an anvil or at a workbench. Each one fills another 20%. Some attempts are spoiled: about 3 in 10 at ordinary crafting skill, far fewer for skilled hands. A spoiled attempt uses up the materials but still fills 10%.
+- This is the same progress that reading fills, so you can mix the two, and whatever you have learned by hand shortens the reading.
+- Subjects from before WW1 can be learned wholly this way. From WW1 on, hands can show you half, and the rest has to be read from the chapter.
+- The teacher gains scholarship for each pupil they bring through a subject.
+
+Books are still the only way to send knowledge to another land or to keep it after its last master dies.
+
 **Apprentices:** use **Take an apprentice** in the IC tab on a player next to you. They have to accept, and a master can have up to three. While their master is within 2 tiles, an apprentice gains twice the usual skill at a bench, and apprentices watching their master research within 2 tiles pick up a little skill too. The apprentice can end it with **Leave apprenticeship**, and it ends when the apprentice dies.
 
 **Titles:** examining someone shows their best discipline as a title once it reaches 12: **Apprentice** from 12, **Scholar** from 40 and **Master** from 75, for example "Scholar of Medicine". Use it to find someone to hire.
@@ -257,6 +269,7 @@ Practice is a way to get started, not a way to the top. Each session teaches a l
 - Copy your important chapters. A raid on your library takes every chapter you only had once.
 - Keep spare copies of each capstone in different places. If the last one burns, the whole world loses that age until someone who knows it writes it down again.
 - A scribe doesn't need to be a scholar: anyone can copy chapters at a bench.
+- Got a newcomer and no spare books? Have them stand by while you work, then let them try. A few pieces later they know the trade.
 - New to a discipline? Practise with its tool between study sessions while your stamina recovers.
 - Short on scholarship for the next age? Do the subject's practice, prototypes and field studies yourself instead of waiting at the bench. They teach more.
 - Keep a bench lit, stocked and next to your bookcases, and research with a pen at a desk nearby.
