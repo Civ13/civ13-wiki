@@ -149,28 +149,41 @@ and collects bark. Bark soaks into tannin for
 </tbody>
 </table>
 
-## Custom dresses
+## Tailoring your own clothes
 
-Design, cut and sew a dress with your own choice of cut and panel colors. You
-need to know **Fine Garments**, the same knowledge as the other dresses.
+Design, cut and sew clothing and overclothes in your own colours. You need
+**Weaving** to start a project, and each garment needs the same knowledge as
+its ready-made version, so the list of garments grows as you learn more.
 
-<img src="images/tailored_dress_cuts.png" alt="Layered, Buttoned and Laced tailored dresses as items and worn, front and back">
+<img src="images/tailored_clothing.png" alt="Tailored tunic, robe, dresses, uniform, coat and jacket worn from all four sides">
 
-1. Open the cloth crafting menu and make a **dressmaking project** under
-   **Feminine Clothing**. It costs 4 cloth sheets; woolcloth works too.
-2. Hold the project and use it in hand. **Choose cut** offers three styles:
-   - **Layered**: sleeves, skirt and bodice are colored separately.
-   - **Buttoned**: sleeves and skirt share one color, bodice and stripes another.
-   - **Laced**: dress and underskirt are colored separately; the trim is always gold.
-3. **Panel colors** sets the color of each panel. **Preview** shows the front
-   and back of the dress. Nothing is spent while you design, and you can change
-   your mind as often as you like.
-4. **Cut fabric** asks you to confirm, then takes about 3 seconds. Cutting locks
-   the cut and colors for good.
-5. Use the cut pieces in hand and choose **Sew dress**. After about 6 seconds
-   you hold the finished tailored dress. No extra cloth is needed.
+1. Open the cloth crafting menu and make a **tailoring project** under
+   **Clothing**. It costs one cloth sheet; woolcloth works too.
+2. Bigger garments need more fabric. Use cloth or woolcloth sheets on the
+   project to add them, up to eight. A loincloth needs 1, a toga 3, most
+   outfits 4 and a colonial coat 7.
+3. Hold the project and use it in hand. **Choose garment** lists the clothing
+   and overclothes you know how to make, with the fabric each one needs.
+4. **Colours** lets you colour the body of the garment and each of its pieces,
+   such as sleeves, skirt, trim, buttons or stripes. A preview of all four
+   sides stays at the top left of your screen while you design. Nothing is
+   spent while you design, and you can change your mind as often as you like.
+5. **Cut fabric** asks you to confirm, then takes about 3 seconds. Cutting locks
+   the garment and colours for good, and any spare sheets are set aside.
+6. Use the cut pieces in hand and choose **Sew**. After about 6 seconds you hold
+   the finished garment.
+
+| Knowledge | Garments |
+| --- | --- |
+| Weaving | loincloth, long tunic, tribal robe |
+| Classical Dress | shendyt, celtic trousers, toga, stola |
+| Tailoring | arabic tunic, haori, renaissance outfit, short colonial outfit, poncho, haori jacket, colonial jacket, colonial coat |
+| Fine Garments | tunic, layered, buttoned and laced dresses, pontifical robes, pyjamas, colonial outfit |
+| Textile Mills | victorian uniform |
+| Ready-Made Clothing | modern, baggy and short modern outfits, cloth jacket, blazer, hoodie |
+| Synthetic Fabrics | tracksuit jacket |
 
 Stand still and keep the project in your hand while cutting or sewing. If you
 are interrupted, the project and any finished cutting are kept, so just start
-that step again. A finished dress cannot be recolored, but it takes the usual
-clothing accessories such as sashes, aprons and capes.
+that step again. A finished garment cannot be recoloured, but it takes the
+usual clothing accessories such as sashes, aprons and capes.
