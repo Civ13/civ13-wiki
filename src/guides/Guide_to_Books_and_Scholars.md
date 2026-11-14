@@ -24,7 +24,7 @@ This applies to persistent worlds such as [Gaia](../maps/Gaia.md) and the region
 The world starts in 5000 B.C. and has no clock: it moves into a new age only when someone finishes a **capstone** chapter (the prototype nodes, such as Bronze Working), and every player is told when that happens.
 
 1. **Found a faction.** The founder receives the **Stone Age master book**, which holds every Stone Age chapter, and a **pencil**. Nobody knows those chapters yet.
-2. **Study the chapters you need.** Hold the book, use it and press **Study** beside a chapter. Each chapter needs its prerequisites first, so work through the book in order.
+2. **Study the chapters you need.** Hold the book, use it and press **Study** beside a chapter. Each chapter needs its prerequisites first, but only those: you can skip every chapter that the ones you want do not build on. See [what needs what](Guide_to_Research.md#what-needs-what).
 3. **Craft what you've learned.** Crafting checks your own knowledge only. Your faction's research and the world's age don't unlock anything for you.
 4. **Research new chapters** at a research bench, then study them like any other chapter.
 
@@ -157,10 +157,10 @@ Health, Agriculture and Military carry on past the subjects listed in the [node 
 
 | Subject | Era | Needs | Gives |
 | --- | --- | --- | --- |
-| Soil Science | 7 | Hydroponics | Richer soil after your harvests |
+| Soil Science | 7 | Advanced Agriculture | Richer soil after your harvests |
 | Infantry Support Weapons | 7 | Field Artillery, Automatic Weapons | Foldable mortar, mortar shells and smoke shells, flamethrower hose and fuel backpack, anti-personnel and anti-tank mines (all steel) |
 | Emergency Medicine | 8 | Modern Medicine, Anesthetic Surgery | Defibrillator and power cells (electronics), autoinjectors and body bags (plastic) |
-| Crop Breeding | 8 | Soil Science | Bigger harvests |
+| Crop Breeding | 8 | Advanced Agriculture | Bigger harvests |
 | Guided Missiles | 8 | Missiles, Infantry Support Weapons | Foldable anti-tank guided missile system and its HEAT and HE missiles (steel) |
 
 A crafted flamethrower backpack is empty and takes up to 100 units of gasoline; wear it on your back and hold the hose with your other hand empty. Mines are crafted unarmed: use one in hand to deploy it, and disarm an armed mine with wirecutters. A mine detector (Electricity) finds armed mines nearby.

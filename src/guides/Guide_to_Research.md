@@ -32,6 +32,15 @@ The tree has three intersecting **layers** — Industrial, Military, and Health 
 
 See the [full reference table](#full-node-reference) for node eras, study costs and prerequisites.
 
+### What needs what
+
+A subject only requires what you really need to build it: the same craft one step earlier, the material it is made of, or the power that drives it.
+
+- **Tools, metals and power are the trunk.** Bronze Working, Iron Smithing, Steelmaking and Alloys, and Watermills, Steam Power, Electricity and the Combustion Engine are what most late subjects lean on.
+- **Every other branch can be left alone.** Farming, health, clothing, building, culture, arms and vehicles each start from a subject with no prerequisites.
+- **Some subjects are side steps.** Irrigation, Imperial Architecture, Classical Dress, Siege Engines and Mail & Plate unlock their own things, and nothing later needs them. A farmer can go from Basic Agriculture straight to Advanced Agriculture, then to Soil Science or Crop Breeding. Irrigation leads only to Hydroponics.
+- **Civil subjects never need military ones.** Rocketry and Drones follow from flight. Military subjects need a civil one only where they are built from it, such as Steelmaking for Rifling or the Combustion Engine for tanks.
+
 ---
 
 ## Eras and baseline research
@@ -185,14 +194,14 @@ The first bonus slot costs 300 silver-equivalent, the second costs 600, the thir
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
 | Basic Toolmaking | 0 | 60 | 0 | Analysis | - |
-| Iron Tools | 2 | 130 | 1 | Analysis | Basic Toolmaking |
+| Iron Tools | 2 | 130 | 1 | Analysis | Basic Toolmaking, Iron Smithing |
 | Machined Tools | 4 | 200 | 3 | Analysis | Iron Tools, Steelmaking |
 | Power Tools | 6 | 270 | 5 | Analysis | Machined Tools, Electricity |
 
 #### Metallurgy
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Bronze Working | 1 | 142 | 0 | **Prototype** (cast axehead mold) | - |
+| Bronze Working | 1 | 142 | 0 | **Prototype** (cast axehead mold) | Basic Toolmaking |
 | Iron Smithing | 2 | 195 | 1 | **Prototype** (ingot mold) | Bronze Working |
 | Steelmaking | 4 | 200 | 3 | Analysis | Iron Smithing |
 | Alloys | 6 | 270 | 5 | Analysis | Steelmaking |
@@ -204,7 +213,7 @@ The first bonus slot costs 300 silver-equivalent, the second costs 600, the thir
 | Stone Masonry | 1 | 95 | 0 | Analysis | Primitive Construction |
 | Brickmaking | 2 | 130 | 1 | Analysis | Stone Masonry |
 | Imperial Architecture | 3 | 165 | 2 | Analysis | Brickmaking |
-| Reinforced Concrete | 4 | 200 | 3 | Analysis | Imperial Architecture, Steelmaking |
+| Reinforced Concrete | 4 | 200 | 3 | Analysis | Brickmaking, Steelmaking |
 | Modern Construction | 6 | 270 | 5 | Analysis | Reinforced Concrete |
 
 #### Culture & Faith
@@ -213,7 +222,7 @@ The first bonus slot costs 300 silver-equivalent, the second costs 600, the thir
 | Ritual & Worship | 0 | 60 | 0 | Analysis | - |
 | Regalia & Heraldry | 0 | 60 | 0 | Analysis | Weaving |
 | Monuments & Statuary | 2 | 130 | 1 | Analysis | Stone Masonry, Ritual & Worship |
-| Fine Arts & Leisure | 3 | 165 | 2 | Analysis | Monuments & Statuary |
+| Fine Arts & Leisure | 3 | 165 | 2 | Analysis | Ritual & Worship |
 
 #### Production
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
@@ -222,18 +231,18 @@ The first bonus slot costs 300 silver-equivalent, the second costs 600, the thir
 | Cooperage & Containers | 1 | 95 | 0 | Analysis | Basic Toolmaking |
 | Resource Processing | 1 | 95 | 0 | Analysis | Basic Toolmaking |
 | Trade & Coinage | 1 | 95 | 0 | Analysis | - |
-| Workshops | 2 | 130 | 1 | Analysis | Pottery & Cookware |
+| Workshops | 2 | 130 | 1 | Analysis | Bronze Working |
 | Glassworking | 2 | 130 | 1 | Analysis | Pottery & Cookware |
 | Papermaking | 2 | 130 | 1 | Analysis | - |
 | Printing Press | 3 | 165 | 2 | Analysis | Papermaking |
 | Optics & Instruments | 3 | 165 | 2 | Analysis | Glassworking |
-| Factories | 4 | 200 | 3 | Analysis | Printing Press, Steam Power |
+| Factories | 4 | 200 | 3 | Analysis | Workshops, Steam Power |
 | Assembly Line | 5 | 235 | 4 | Analysis | Factories |
 | Automation | 7 | 305 | 6 | Analysis | Assembly Line, Electricity |
 | Digital Computing | 8 | 510 | 7 | **Prototype** (Cold War-era camera) | Automation, Electricity |
 | Digital Networks | 9 | 560 | 8 | **Prototype** (mobile phone) | Digital Computing |
 | Consumer Electronics | 9 | 420 | 8 | Analysis | Digital Networks |
-| 3D Printing | 9 | 420 | 8 | Analysis | Digital Networks, Automation |
+| 3D Printing | 9 | 420 | 8 | Analysis | Digital Computing |
 
 #### Textiles (gateway)
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
@@ -253,12 +262,12 @@ The first bonus slot costs 300 silver-equivalent, the second costs 600, the thir
 #### Power
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Watermills | 3 | 165 | 2 | Analysis | - |
-| Steam Power | 4 | 300 | 3 | **Prototype** (machined handle) | Watermills |
-| Electricity | 5 | 352 | 4 | **Prototype** (cable coil) | Steam Power |
+| Watermills | 3 | 165 | 2 | Analysis | Resource Processing |
+| Steam Power | 4 | 300 | 3 | **Prototype** (machined handle) | Watermills, Iron Smithing |
+| Electricity | 5 | 352 | 4 | **Prototype** (cable coil) | Steam Power, Galvanic Cells |
 | Combustion Engine | 5 | 235 | 4 | Analysis | Steam Power, Steelmaking |
-| Nuclear Power | 7 | 458 | 6 | **Prototype** (geiger counter) | Combustion Engine |
-| Hydraulic Fracturing | 8 | 400 | 7 | Analysis | Electricity, Modern Construction |
+| Nuclear Power | 7 | 458 | 6 | **Prototype** (geiger counter) | Electricity, Alloys |
+| Hydraulic Fracturing | 8 | 400 | 7 | Analysis | Combustion Engine, Electricity |
 
 Electricity unlocks the powered soil sifter and river concentrator. Hydraulic Fracturing unlocks the finite petroleum rig; see [Resource Extraction](Guide_to_Resource_Extraction.md) for input and power requirements. Automobiles and Electricity are both needed to use the [automobile workshop](Guide_to_Crafting.md#automobile-workshop). Powered Flight unlocks the aircraft hangar and runway; see [Aircraft](Guide_to_Aircraft.md). Submarines unlocks the submarine pen and the parts to build a submarine by hand; see [Submarines](Guide_to_Boats.md#submarines). Naval Aviation unlocks the shipyard office that lays down a carrier; see [Aircraft Carriers](Guide_to_Aircraft_Carriers.md).
 
@@ -268,17 +277,17 @@ Electricity unlocks the powered soil sifter and river concentrator. Hydraulic Fr
 | Carts | 1 | 95 | 0 | Analysis | - |
 | Wagons & Ships | 3 | 165 | 2 | Analysis | Carts |
 | Rail & Steam | 4 | 200 | 3 | Analysis | Wagons & Ships, Steam Power |
-| Automobiles | 5 | 235 | 4 | Analysis | Rail & Steam, Combustion Engine |
-| Powered Flight | 6 | 270 | 5 | Analysis | Automobiles, Combustion Engine |
+| Automobiles | 5 | 235 | 4 | Analysis | Wagons & Ships, Combustion Engine |
+| Powered Flight | 6 | 270 | 5 | Analysis | Combustion Engine |
 | Submarines | 6 | 270 | 5 | Analysis | Wagons & Ships, Combustion Engine, Electricity |
 | Aviation & Rocketry | 7 | 305 | 6 | Analysis | Powered Flight, Alloys |
-| Naval Aviation | 7 | 305 | 6 | Analysis | Powered Flight, Submarines |
+| Naval Aviation | 7 | 305 | 6 | Analysis | Powered Flight, Wagons & Ships |
 
 #### Infrastructure
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
 | Paved Infrastructure | 3 | 165 | 2 | Analysis | Stone Masonry |
-| Utilities | 5 | 235 | 4 | Analysis | Paved Infrastructure, Electricity |
+| Utilities | 5 | 235 | 4 | Analysis | Electricity |
 
 #### Agriculture (gateway)
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
@@ -298,19 +307,19 @@ The Tailoring tree contains advanced clothing and armour research, split into tw
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
 | Classical Dress | 1 | 95 | 0 | Analysis | Weaving |
-| Tailoring | 2 | 130 | 1 | Analysis | Classical Dress |
+| Tailoring | 2 | 130 | 1 | Analysis | Weaving |
 | Fine Garments | 3 | 165 | 2 | Analysis | Tailoring |
 | Haberdashery | 3 | 165 | 2 | Analysis | Tailoring |
-| Textile Mills | 4 | 200 | 3 | Analysis | Fine Garments, Steam Power |
+| Textile Mills | 4 | 200 | 3 | Analysis | Tailoring, Steam Power |
 | Ready-Made Clothing | 5 | 235 | 4 | Analysis | Textile Mills |
-| Synthetic Fabrics | 7 | 305 | 6 | Analysis | Ready-Made Clothing |
+| Synthetic Fabrics | 7 | 305 | 6 | Analysis | Textile Mills, Combustion Engine |
 
 **Armour** (gateway: Primitive Armor)
 
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
 | Mail & Plate | 2 | 130 | 1 | Analysis | Primitive Armor |
-| Trench Warfare | 5 | 235 | 4 | Analysis | Mail & Plate |
+| Trench Warfare | 5 | 235 | 4 | Analysis | Primitive Armor, Field Defenses |
 | Modern Armor | 7 | 305 | 6 | Analysis | Trench Warfare, Alloys |
 
 ### Specialized tree: Agriculture
@@ -320,7 +329,7 @@ Its own standalone tab, reachable once Basic Agriculture (in the Main tree) is r
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
 | Irrigation | 2 | 165 | 1 | Analysis | Basic Agriculture |
-| Advanced Agriculture | 4 | 235 | 3 | Analysis | Irrigation |
+| Advanced Agriculture | 4 | 235 | 3 | Analysis | Basic Agriculture |
 
 **Irrigation** unlocks the shovel's "dig an irrigation channel" action.
 
@@ -330,7 +339,7 @@ Its own standalone tab, reachable once Basic Agriculture (in the Main tree) is r
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
 | Stone Arms | 0 | 60 | 0 | Analysis | - |
-| Bronze Arms & Armor | 1 | 95 | 0 | Analysis | Stone Arms |
+| Bronze Arms & Armor | 1 | 95 | 0 | Analysis | Stone Arms, Bronze Working |
 | Steel Blades | 2 | 130 | 1 | Analysis | Bronze Arms & Armor, Iron Smithing |
 
 #### Archery
@@ -361,12 +370,12 @@ Its own standalone tab, reachable once Basic Agriculture (in the Main tree) is r
 #### Artillery
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Siege Engines | 2 | 130 | 1 | Analysis | - |
-| Cannon | 3 | 165 | 2 | Analysis | Siege Engines, Imperial Architecture |
+| Siege Engines | 2 | 130 | 1 | Analysis | Primitive Construction |
+| Cannon | 3 | 165 | 2 | Analysis | Gunpowder |
 | Field Artillery | 4 | 200 | 3 | Analysis | Cannon, Steelmaking |
 | Mechanized Warfare | 6 | 405 | 5 | **Prototype** (tank shell casing) | Field Artillery, Combustion Engine, Steelmaking |
-| Missiles | 7 | 305 | 6 | Analysis | Mechanized Warfare, Aviation & Rocketry |
-| Drones | 9 | 450 | 8 | Analysis | Consumer Electronics, Missiles |
+| Missiles | 7 | 305 | 6 | Analysis | Aviation & Rocketry, Gunpowder |
+| Drones | 9 | 450 | 8 | Analysis | Consumer Electronics, Powered Flight |
 
 #### Armor (gateway)
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
@@ -382,15 +391,15 @@ Its own standalone tab, reachable once Basic Agriculture (in the Main tree) is r
 |---|---|---|---|---|---|
 | Herbalism | 0 | 60 | 0 | Analysis | - |
 | Apothecary | 2 | 130 | 1 | Analysis | Herbalism |
-| Pharmacology | 5 | 235 | 4 | Analysis | Apothecary, Printing Press |
+| Pharmacology | 5 | 235 | 4 | Analysis | Apothecary |
 | Modern Medicine | 7 | 305 | 6 | Analysis | Pharmacology |
 
 #### Surgery
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Field Surgery | 1 | 95 | 0 | Analysis | Bronze Working |
-| Surgical Theory | 3 | 165 | 2 | Analysis | Field Surgery, Printing Press |
-| Anesthetic Surgery | 5 | 235 | 4 | Analysis | Surgical Theory |
+| Field Surgery | 1 | 95 | 0 | Analysis | Herbalism |
+| Surgical Theory | 3 | 165 | 2 | Analysis | Field Surgery, Papermaking |
+| Anesthetic Surgery | 5 | 235 | 4 | Analysis | Surgical Theory, Apothecary |
 
 #### Sanitation
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
