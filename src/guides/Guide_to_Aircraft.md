@@ -1,6 +1,6 @@
 # Aircraft
 
-Light planes are the first things in Civ13 that leave the ground. There are four hangar models: the two-seat **light plane**, the four-seat **cabin plane**, the small two-seat **trainer** and the **cargo plane**, and planes can also be built by hand. Every plane takes off and lands best on a **runway** and flies on the air level above the map. Flying is only possible on maps that have an air level: at the moment that is **Gaia**, the main Nomads persistent world. Elsewhere the plane rolls along but never lifts off, and the pilot is told that there is no airspace.
+Light planes are the first things in Civ13 that leave the ground. There are five hangar models: the two-seat **light plane**, the four-seat **cabin plane**, the small two-seat **trainer**, the **cargo plane** and the bigger **twin-engine plane**, and planes can also be built by hand. Every plane takes off and lands best on a **runway** and flies on the air level above the map. Flying is only possible on maps that have an air level: at the moment that is **Gaia**, the main Nomads persistent world. Elsewhere the plane rolls along but never lifts off, and the pilot is told that there is no airspace.
 
 ![Offline render using Civ13 sprites: two light planes on a tarmac runway laid across grass, one parked and one with its propeller spinning](../images/civ13-light-plane-sprites.png)
 
@@ -16,6 +16,7 @@ Two light planes on a runway, nose to the east. Offline render using Civ13 sprit
 | Cabin plane | 65 steel, 8 glass, 8 cloth, 8 cable, 4 unattached wheels | Built at the hangar | Built at the hangar |
 | Trainer | 35 steel, 4 glass, 4 cloth, 6 cable, 4 unattached wheels | Built at the hangar | Built at the hangar |
 | Cargo plane | 60 steel, 6 glass, 2 cloth, 8 cable, 4 unattached wheels | Built at the hangar | Built at the hangar |
+| Twin-engine plane | 90 steel, 8 glass, 6 cloth, 14 cable, 4 unattached wheels | Built at the hangar | Built at the hangar |
 | Aircraft bomb casing | 8 steel | Powered Flight | Industrial 126 |
 | Airframe section | 4 steel | Powered Flight | Industrial 126 |
 | Airframe controls | 12 steel | Powered Flight | Industrial 126 |
@@ -40,6 +41,10 @@ The **trainer** is the smallest plane: just the nose, the wings and cockpit, and
 
 The **cargo plane** has the light plane's size, but its fuselage row is three **cargo bays** instead of seats, so only the pilot flies in it. Anything put on a cargo bay flies with the plane and stays aboard when it is hangared. It needs **9 tiles** of runway or **18** of open ground.
 
+![Render using Civ13 sprites: the twin-engine plane, five tiles across with an engine and propeller on each wing, beside the three-tile light plane](../images/civ13-twin-engine-plane.png)
+
+The **twin-engine plane** is the biggest: **5 tiles** across the wings and 4 long, with an engine and propeller on each wing, the pilot and three passenger seats. The hangar builds it in the **5x5** square northeast of the press, so clear that much room first; a hangar placed for the smaller planes still works. Each engine has its own fuel tank, so fill both. Starting the engine from the control column starts the other engine too, and with both running it lifts more weight. A wing engine with an empty tank stays off. It needs **12 tiles** of runway or **24** of open ground, and to use a runway every tile under it must be runway, so lay it **5 tiles wide**. It is too big to hangar.
+
 ## Building a plane by hand
 
 Without a hangar, a plane can be put together from loose parts like a [hand-built vehicle](Guide_to_Crafting.md#modular-tanks). Craft the airframe sections, airframe controls and pilot's seat in the **vehicle parts** category.
@@ -49,6 +54,8 @@ Without a hangar, a plane can be put together from loose parts like a [hand-buil
 3. Put the airframe controls on any section and click them. The survey says what the airframe still needs. Choose **Assemble it**, then pick which way the nose points: along the long side.
 
 Every section takes the shape its place calls for: the front row becomes the nose, the second row the wings with the cockpit under the pilot, the last row the tail and anything between the fuselage. A **3 by 3** plane is a short trainer, **3 by 4** has the light plane's shape, and **3 by 5** is a long transport. Planes longer than the light plane need a longer take-off roll, one more runway tile for every two extra sections, and a 5-long plane does not fit a 4x4 hangar bay. Parts stood on it later are fitted with **Fit new parts**, and its builders can **Take it apart** again. Fill the tank and it flies like any other plane.
+
+A **5 by 4** airframe becomes a **twin-engine plane** instead, with the 5 sections as the wingspan: point the nose along the 5-section side. Stand an engine and a fuel tank on the second and fourth sections of the front row, the pilot's seat in the middle of the second row, and wheels on the four corners. The front corners and the outer sections of the third row are open air beside the nose and cabin. It takes the same 12 and 24 tile rolls as the hangar's twin. Taking it apart loosens both engines.
 
 ## Laying a runway
 
