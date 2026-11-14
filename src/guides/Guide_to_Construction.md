@@ -49,6 +49,20 @@ A few more details about particular materials.
 
 - 10 units of water + 1 dirt pile = 1 clay
 
+### Concrete
+
+Concrete floors, roofs, pillars and bridge spans are built from **concrete blocks**, and concrete blocks come out of a **cement mixer**.
+
+| | Station | Cost | You need to know |
+| --- | --- | --- | --- |
+| <img src="../images/Cement_mixer.png"> | **Cement mixer** | 8 iron | Reinforced Concrete |
+
+1. Use **quicklime**, **sand** and **stone blocks** on the mixer to load its drum. It holds 20 of each. Quicklime comes from a [lime kiln](Guide_to_Pottery_and_Lime.md#lime-kiln).
+2. Crank the mixer with an **empty hand**. Every 4 seconds it uses 1 quicklime, 2 sand and 2 stone and tips out <img src="../images/Concrete_blocks.png"> **4 concrete blocks** beside it. It keeps turning until the drum runs short or you step away.
+3. Use the concrete blocks in your hand like any other building material: a concrete floor or roof builder takes 1 block, a pillar 2 and a bridge span 6.
+
+Fasten or unfasten the mixer with a wrench, and hit it with a hammer on **Harm intent** to take it apart; whatever is in the drum drops out. Like other machines it is too heavy for a ladder, so [hoist it](#hoisting-heavy-loads) if it has to change storeys.
+
 ### Bricks
 
 Most bricks and blocks are made with **[Clay](../Full_Crafting_List.md#clay)**, except for stone bricks:
@@ -1001,7 +1015,7 @@ Fasten or unfasten the legs with a wrench, and hit them with a hammer on **Harm 
 <td><img src="../images/roof_mayan.png"></td>
 <td><b>Mayan roof</b></td>
 </tr><tr>
-<td>0.75 clay</td><td><img src="../images/roof_builder_concrete.png"></td>
+<td>1 concrete block</td><td><img src="../images/roof_builder_concrete.png"></td>
 <td><b>Concrete roof builder</b></td>
 <td><img src="../images/roof_cement.png"></td>
 <td><b>Concrete roof</b></td>
@@ -1165,7 +1179,7 @@ randomly selected upon construction.
 <table>
 <tbody>
 <tr>
-<td><img src="../images/floor_concrete.png" title="1 clay">&emsp;<b>Concrete</b></td>
+<td><img src="../images/floor_concrete.png" title="1 concrete block">&emsp;<b>Concrete</b></td>
 </tr>
 </tbody>
 </table>

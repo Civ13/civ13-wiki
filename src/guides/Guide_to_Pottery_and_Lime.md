@@ -42,6 +42,8 @@ For the next minute and a half, a firing you start in a furnace beside the bello
 
 After about 40 seconds it leaves one quicklime for each block. Right-click the kiln and choose **Empty** to take an unburnt charge back out.
 
+Quicklime goes into cement bricks at the brick mould bench, and into concrete at a [cement mixer](Guide_to_Construction.md#concrete).
+
 ## Glassblowing bench
 
 Build the bench on a tile next to a bloomery, blast furnace or kiln that has fuel in it. The fire does not need to be lit for a smelt; the bench reheats the glass in it.
