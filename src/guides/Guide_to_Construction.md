@@ -940,6 +940,23 @@ A sound four-storey house therefore starts with a stone floor, has stone walls o
 - **Wooden ladder:** craft a wooden ladder (4 wood) and use it on the open air next to an upper floor, or on the ground under open space. It stands between the two levels: click either end to climb, and walking onto the top end doesn't make you fall. Click an end with grab intent and a free hand to take the ladder down again.
 - **Stairs:** see Stairs under [Floors](#floors) below. Leave the space above them open.
 
+#### Hoisting heavy loads
+
+You can pull most things up or down a ladder with you. Anvils, furnaces, kilns, ovens, mills, saw mills, workshop machines, engines, cannon, printing presses and vehicle parts are too heavy for that. They need **shear legs**.
+
+| | Station | Cost | You need to know |
+| --- | --- | --- | --- |
+| <img src="../images/Shear_legs.png"> | **Shear legs** | 10 wood | Primitive Construction |
+
+Shear legs move one unfastened object at a time between a storey and the one above or below it. The load travels through open air, so stand the legs beside the drop: on the ground against the building, or on the upper floor at its edge.
+
+- **Raise or lower:** pull the load next to the legs, then drag it onto them and choose **Raise it to the level above** or **Lower it to the level below**. To raise it, there must be open air over the load and a clear floor tile within 2 tiles of the legs upstairs. To lower it, there must be open air beside the legs with clear ground under it.
+- **Haul up from below:** click the legs with an **empty hand** and pick something lying below them. It lands on the nearest clear tile beside the legs.
+
+A haul takes 6 seconds, or 10 for one of the heavy objects above. Stay beside the legs until it finishes. Unfasten a machine with a wrench before you sling it. Light objects such as crates can be hoisted too.
+
+Fasten or unfasten the legs with a wrench, and hit them with a hammer on **Harm intent** to take them apart. The legs themselves are light enough to pull up a ladder.
+
 <table>
 <tbody>
 <tr>
