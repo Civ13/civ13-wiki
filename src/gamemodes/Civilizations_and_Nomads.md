@@ -97,6 +97,27 @@ A faction grows by building a hall. Craft a **faction hall seat** from **20 wood
 
 From the longhouse on, the hall must stand under a roof. If the hall is destroyed, the faction loses its stages and cannot take in new members beyond 10 until it builds again; nobody is removed. Each [colony](../guides/Guide_to_Travel.md#factions-and-colonies) your faction holds in another land adds room for 5 more members. Examine the hall to see how many members the faction may have and what the next stage needs.
 
+#### Nations
+
+In the connected lands of the wider world, factions can band together into a **nation**. Each faction keeps its own leader, research, members and treasury, and factions of one nation can still disagree or fight; the nation is what they stand for together. A nation can hold factions from different lands. Leaders use **Nation** on the **Faction tab**:
+
+* **Found a nation**: stand within a few steps of the leader of another faction from your land, name the nation, and both agree. You become its head.
+* **Apply to a nation**: the leaders of its member factions vote. Over half of them saying yes admits you; half or more saying no refuses you. An application not decided within 3 days lapses.
+* **Vote for a head**: the head speaks for the nation, chosen when over half of the member factions agree. It gives no power over the other factions.
+* **Secede**: leave at any time. Your faction cannot apply to that nation again for 3 days. A nation left with one faction dissolves.
+
+Answers arrive within a few minutes, once the lands have conferred. A colony's members belong to their faction's nation, but only the leader in the faction's own land can act for it. Examining someone shows which nation they are a citizen of.
+
+A nation holds **3 factions** at first. To hold more, a member faction builds a **nation assembly**: craft a **nation assembly seat** from **30 wood planks** (**economy & production**), place it in your faction's own land and **Designate** it, then members hand it materials like a faction hall:
+
+| Assembly | Factions | Needs | Materials |
+| --- | --- | --- | --- |
+| Meeting ground | 4 | Classical Age | 120 wood, 120 stone |
+| Assembly hall | 6 | Medieval Age, indoors | 400 stone, 80 iron, 40 glass, 60 cloth |
+| Parliament | 8 | Industrial Age, indoors | 800 stone, 200 steel, 100 glass, 40 gold |
+
+The best assembly any member faction keeps standing counts. If it burns or loses its roof, the nation can take in fewer factions, but no faction is removed.
+
 #### Starting with your faction
 
 Once you have joined a faction in character, your new characters can start with it. When you join the round, you are asked whether to start **here, on your own** or **with** your faction. Choosing your faction starts you beside one of its [recruitment stations](#recruitment-stations), already a member. You cannot start with a faction you have never joined in play, and the faction needs a placed recruitment station with free space beside it.
