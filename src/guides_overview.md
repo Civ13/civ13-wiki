@@ -22,6 +22,7 @@ New to the game? Start with [How to Play](New_Player_Guide.md), then the [Starte
 - [Electroplating](guides/Guide_to_Electroplating.md)
 - [Resource Extraction](guides/Guide_to_Resource_Extraction.md)
 - [Flint](guides/Guide_to_Flint.md)
+- [Obsidian](guides/Guide_to_Obsidian.md)
 - [Pouches, Belts & Gemstones](guides/Guide_to_Pouches_and_Gemstones.md)
 - [Research](guides/Guide_to_Research.md)
 - [Books and Scholars](guides/Guide_to_Books_and_Scholars.md)
