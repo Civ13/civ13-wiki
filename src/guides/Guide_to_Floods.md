@@ -42,6 +42,16 @@ Floodwater puts out fires on the ground, and it puts out campfires that it reach
 - **Stores.** Floodwater ruins flour sacks and empties gunpowder pouches left on the floor, and from knee depth it floats small things away toward the river. Keep supplies on a table, which keeps them dry until the water is waist-deep, or on high ground.
 - **Clothes.** Waist-deep floodwater soaks your clothes, the same as wading in a river. Wring them out or dry them by a fire.
 
+## Sewers
+
+On these lands a flushing toilet needs a drain, or it backs up onto the floor.
+
+- **Drain ditch.** Dig one with a shovel (**Drain Ditch**). Ditches on neighbouring tiles join into one line.
+- **Stone drain.** A drain covered with stone slabs, built from 2 stone once your people know **Sanitation**. It joins ditches and other drains the same way.
+- **Where it goes.** Lay the drain from beside the toilet to a river, a lake or the sea, where it spills into the water, or to a **cesspit** (dig one with a shovel). A gap anywhere in the line stops the flow.
+- **Cesspits** fill up. Examine one to see how full it is, and dig it out with a shovel when it is full. What comes out is compost for your fields.
+- **Keep sewage away from wells.** A well fouls if an open ditch that carries waste runs within two tiles of it, if a cesspit holding waste is within two tiles, or if a drain empties into the water within four tiles. Covered stone drains do not foul anything along their length.
+
 ## Rivers in flood
 
 - **Faster current.** A high river carries swimmers, empty rafts and anything left in the water twice as far. At low water the current is weak.
