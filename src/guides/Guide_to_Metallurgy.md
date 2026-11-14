@@ -190,3 +190,19 @@ A **trip hammer** is a heavy hammer lifted by a turning shaft and dropped on the
 - Stand it next to the anvil and fasten it with a wrench.
 - It only strikes while a treadwheel, horse gin, mill wheel or windmill is turning next to it. See [Mechanical power](Guide_to_Pottery_and_Lime.md#mechanical-power).
 - Click it with an empty hand, or examine it, to see whether it is striking.
+
+### Machine shop
+
+Three later machines also stand next to an anvil and take work off the smith. Fasten each with a wrench. An anvil uses its best hammer and its best fitting machine together, so a steam hammer, a drill press and a hydraulic press around one anvil all count.
+
+| | Machine | Made from | Research | Works when | At the anvil |
+| --- | --- | --- | --- | --- | --- |
+| <img src="../images/Steam_hammer.png"> | **Steam hammer** | 16 iron, 1 shaft, 1 spring | Steam Power | it has fuel in its firebox | everything takes about a third of the time |
+| <img src="../images/Drill_press.png"> | **Drill press** | 10 iron, 1 gear set, 1 shaft, 1 drive belt | Machined Tools | a treadwheel, horse gin, mill wheel or windmill turns next to it | guns, gun parts and machine parts take two fifths less time |
+| <img src="../images/Hydraulic_press.png"> | **Hydraulic press** | 14 iron, 1 shaft, 2 bearings | Factories | always; it is pumped by hand | helmets, armour and shields take two fifths less time |
+
+- The parts are [machine parts](Guide_to_Tool_Materials.md) of any material, held or at your feet when you build.
+- Stoke the steam hammer by using coal, charcoal, wood, planks or bamboo on it. One coal pays for 4 forging jobs, one charcoal for 3 and one piece of wood for 1. The firebox holds fuel for 60 jobs.
+- A steam hammer replaces a trip hammer: only the better of the two counts.
+- Click a machine with an empty hand, or examine it, to see whether it is ready.
+- No piece takes less than a second, however many machines help.
