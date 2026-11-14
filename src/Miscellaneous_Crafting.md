@@ -244,6 +244,15 @@ pattern does not record the fabric, so the same design can be sewn in linen or
 wool. Patterns can
 be traded like any other item.
 
+### Pattern book
+
+Your pattern book keeps up to 20 of your designs, and every character you play
+on the same server can use it, even a new one. Use an uncut project in hand and
+choose **Pattern book** to save the current design, copy a saved design onto
+the project or remove one. Using a sewing pattern in hand also offers to copy
+it into your book. Loading a design from the book needs the same knowledge as
+loading a pattern.
+
 Stand still and keep the project in your hand while cutting or sewing. If you
 are interrupted, the project and any finished cutting are kept, so just start
 that step again. A finished garment cannot be recoloured, but it takes the
