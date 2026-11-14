@@ -971,9 +971,15 @@ A haul takes 6 seconds, or 10 for one of the heavy objects above. Stay beside th
 
 Fasten or unfasten the legs with a wrench, and hit them with a hammer on **Harm intent** to take them apart. The legs themselves are light enough to pull up a ladder.
 
+A **treadwheel crane** hoists the same way but reaches **3 tiles**. It takes 16 wood plus a shaft, two bearings and a drive belt, and you need to know Imperial Architecture.
+
+<img src="../images/Treadwheel_crane.png">
+
+A treadwheel, horse gin, mill wheel or windmill turning next to the legs or the crane speeds every haul. See [Mechanical power](Guide_to_Pottery_and_Lime.md#mechanical-power).
+
 #### Building out over water
 
-A wooden pier or trestle bridge can cross any water, deep water included, once you have a **pile driver** (14 wood, Imperial Architecture) and **timber pier spans** (8 wood each). See [Bridges over water](Guide_to_Trains.md#bridges-over-water) for how to lay them.
+A wooden pier or trestle bridge can cross shallow water once you have a **pile driver** (14 wood, Imperial Architecture) and **timber pier spans** (8 wood each). Deep water needs steel or concrete spans. See [Bridges over water](Guide_to_Trains.md#bridges-over-water) for how to lay them.
 
 <table>
 <tbody>

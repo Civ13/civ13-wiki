@@ -77,7 +77,7 @@ Track needs firm ground, so to cross a river, lake or the open sea you first bui
 | Steel bridge span | 4 steel | **Reinforced Concrete** node | Industrial research **96** |
 | Concrete bridge span | 6 concrete blocks | **Reinforced Concrete** node | Industrial research **103** |
 
-Each span covers one tile of water, deep sea included:
+Each span covers one tile of water. Steel and concrete spans cross the deep sea too; a timber pier span only stands in shallow water:
 
 1. Stand on the shore, in the shallows or at the end of the bridge built so far, facing the water. You can't build while swimming or from a boat.
 2. Use the span in your hand to build on the tile in front of you, or use it on the water tile next to you.
@@ -85,14 +85,14 @@ Each span covers one tile of water, deep sea included:
 
 #### Timber piers and the pile driver
 
-A timber pier span needs its log piles driven into the bed, so it only goes down within **two tiles of a pile driver**.
+A timber pier span needs its log piles driven into the bed, so it only goes down on **shallow water** within **two tiles of a pile driver**. Deep water takes a steel or concrete span.
 
 | | Station | Cost | Tech tree |
 | --- | --- | --- | --- |
 | <img src="../images/Pile_driver.png"> | **Pile driver** | 14 wood | **Imperial Architecture** node |
 
 1. Build the pile driver at the water's edge and make sure it is fastened (use a wrench).
-2. Lay timber pier spans on the water within two tiles of it, the same way as any other span.
+2. Lay timber pier spans on shallow water within two tiles of it, the same way as any other span.
 3. To go further out, unfasten the driver with a wrench, pull it onto the new deck and fasten it again.
 
 The pile driver can stand on the shore, in the shallows or on a deck. Hit it with a hammer on **Harm intent** to take it apart.
