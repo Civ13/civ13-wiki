@@ -55,7 +55,8 @@ The first time anyone finishes a capstone chapter, the whole world moves into th
 
 You don't have to wait at the bench for the whole time. From the Stone Age on, things you do out in the world also count as research. Do the work, then stand at a bench that is researching the subject, and your experience is written into the book. Each book takes each piece of work once, and the subject's details in the bench window show how far along you are.
 
-- **Practice.** Making things a subject builds on counts towards it. For example, making things Basic Toolmaking teaches advances Iron Tools. A subject asks for between 4 and 20 things for each subject it builds on, and practice together is worth half of it. Anything you make in the crafting menu, at an anvil, at a toolsmith's bench or at a fletching bench counts.
+- **Deeds.** The subjects of the first two ages each ask for two or three particular pieces of work that use what you already know. Cooperage wants two tool handles, a set of wooden dowels and a workbench; Field Surgery wants bandages, splints and a mortar and pestle; Early Chemical Cells wants a clay kiln and three unfired clay molds. Together a subject's deeds are worth half of it, and the bench window lists them by name.
+- **Practice.** Later subjects, up to the Industrial Age, count practice instead. Making things a subject builds on counts towards it. For example, making things Basic Toolmaking teaches advances Iron Tools. A subject asks for between 4 and 20 things for each subject it builds on, and practice together is worth half of it. Anything you make in the crafting menu, at an anvil, at a toolsmith's bench or at a fletching bench counts.
 - **Foraging** advances Basic Toolmaking, Primitive Construction, Pottery & Cookware, Weaving, Herbalism and Basic Agriculture.
 - **Butchering** animals advances Stone Arms, Archery and Primitive Armor.
 

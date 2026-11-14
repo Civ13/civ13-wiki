@@ -108,6 +108,15 @@ domesticating animals.
 </tbody>
 </table>
 
+### Taming wild animals
+
+Cattle, goats, sheep and pigs born in the wild are **wild**. A wild animal will not let you leash, milk, shear, saddle, harness or plough with it until it trusts you. Examine an animal to see whether it is wild or tame.
+
+* Tame it by **feeding it by hand**, again and again: grain, seeds or anything it eats. It takes **6 feedings**, each at least **10 minutes** after the last. Feeding it more often does not speed it up.
+* Its trust fades by one feeding for every full day you leave it unfed.
+* Young born beside a wild mother of their kind are wild too, so tame your breeding stock first.
+* A leash can be made from the first age on, so you can lead your tamed herd home.
+
 ### Feeding
 
 Grazing animals (cows, bison, goats, sheep, horses and the like) get hungry, graze grass and eat loose grain. You can also feed them wheat, oats, barley or rice by hand. **Bison** need pasture or grain just like cows, and bison cows can be milked the same way.
@@ -134,6 +143,8 @@ Chickens just need at least 2 and one needs to lay an egg and be sitting
 on top of it for awhile. Try customizing your chicken coops making it so
 they are unable to move off their egg.**(Only the cows, chickens, Deers,
 Pigs, Sheep, Goats and turkey's can breed for now)**
+
+Bison cows keep together: when one of them is hurt, the cows around it bolt away from the hunters. Bulls stand their ground. Plan a bison hunt with the herd running in mind.
 
 Every breeding species has a population cap, so herds and wild packs stop growing once there are enough of them on the map. Wolves stop breeding at 20 and bears at 12; cows, deer and bison at 30; goats, sheep and turkeys at 35; chickens at 50.
 
