@@ -255,7 +255,7 @@ Several crops are steeped into teas. Hold the herb and click an open container (
 - **Sunflower**: use a sunflower head in hand to shell it into three handfuls of seeds, a filling snack that keeps well.
 - **Rose**: a harvest gives rose hips and a handful of petals. Eat the hips, or steep them for **rosehip tea**, which slowly heals bruises. Dry the petals on a dehydrator and steep them for a cheering **rose tea**.
 
-Wild yarrow, comfrey, elderflower and milk thistle can be picked for remedies too; see the [Guide to Medical](Guide_to_Medical.md#stimulants-pain-relievers-and-cleansing-agents).
+Wild yarrow, comfrey, elderflower, milk thistle and wormwood can be picked for remedies too; see the [Guide to Medical](Guide_to_Medical.md#stimulants-pain-relievers-and-cleansing-agents).
 
 ### Mortar and pestle
 

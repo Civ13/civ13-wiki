@@ -282,7 +282,7 @@ click an open container with at least 10 units of water to steep it
 into a bitter willow bark tea that works the same way. Too much upsets
 the stomach.
 
-**Wild herbs:** Yarrow, comfrey, elderflower and milk thistle grow wild
+**Wild herbs:** Yarrow, comfrey, elderflower, milk thistle and wormwood grow wild
 on open grass. Pick a sprig by hand (help intent); each plant gives three
 sprigs, grows them back over time, and has nothing to pick in winter.
 
@@ -295,6 +295,8 @@ sprigs, grows them back over time, and has nothing to pick in winter.
     fight flu and brings a fever down.
   - **Milk thistle** (temperate and semi-arid lands): steep it the same
     way for a bitter tea that slowly clears poisons from the body.
+  - **Wormwood** (temperate, taiga and semi-arid lands): steep it the
+    same way for a harsh, bitter tea; one cup purges intestinal worms.
 
 **Aspirin:** A refined, stronger form of willow bark. It eases pain and
 helps fight flu fever. Chemists can make it from willow bark (see the
@@ -451,6 +453,8 @@ Parasites living in your gut.
   - After about five minutes you feel hungrier than you should and get
     cramps now and then. They never become dangerous on their own.
   - **Cures:**
+    - **Wormwood tea:** pick wormwood (a silvery wild herb with small
+      yellow flowers) and steep a sprig in water. One cup purges them.
     - **Healing herbs:** chew one herb and the remedy purges them in
       about three and a half minutes.
     - **Absinthe:** the wormwood in it purges them while you keep
