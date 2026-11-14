@@ -42,6 +42,24 @@ Compared with the usual tool, copper works at about two thirds of the speed, bro
 
 Some builds need a second material as well as the one you are holding. A raft needs 2 rope and a carriage needs 20. The second material can be in your other hand, worn on you or lying at your feet. It is only taken when the build finishes, so a cancelled build costs you nothing. The Crafting window lists what a recipe still needs.
 
+## Machine parts
+
+Gear sets, shafts, bearings, springs and drive belts are items you make from a material of your choice. Examine a part to see how much work it does and how long it lasts compared with the standard one; steel is the standard for gears, shafts, bearings and springs, and leather for belts.
+
+| Part | By hand | At an anvil, under **Parts** | Cast in a parts mold |
+| --- | --- | --- | --- |
+| Gear set | Wood or bone (4), with a chisel | Bronze, iron or steel (4) | Copper, bronze, brass, iron or steel |
+| Shaft | Wood (2), with a hatchet | Bronze, iron or steel (2) | Copper, bronze, brass, iron or steel |
+| Bearing | Wood (2) and 1 animal fat, with a chisel | Bronze, iron or steel (2), as a bushing | Copper, bronze, brass, iron or steel |
+| Spring | - | Bronze, iron or steel (2) | - |
+| Drive belt | Rope (3), leather (2) or cloth (3), with a knife | Bronze, iron or steel (3), as a drive chain | - |
+
+- **By hand:** hold the stack, open its crafting menu and look in **Machine parts**. The tool can be held, worn or at your feet.
+- **At an anvil:** use bronze, iron or steel on the anvil and pick **Parts**.
+- **Cast:** shape an **unfired parts mold** from 3 clay (in **Molds**, with Bronze Working), fire it like any other mold, fill it from a blacksmith pot and use it on an anvil. You pick the shape there. Brass now pours into every mold at the same cost as bronze.
+
+Wooden parts are the cheapest and the weakest: a wooden gear set does about two fifths of the work of a steel one and wears out five times as fast. Bronze and brass come close to iron. Metals that are too soft, such as lead, tin and gold, cannot be made into gears, shafts or bearings at all. Carving parts by hand needs Basic Toolmaking; springs need Bronze Working.
+
 ## Sparks
 
 Iron, steel and flint throw sparks. If you strike a barrel that holds gunpowder or fuel with a tool made of one of them while on **Harm intent**, there is a small chance each blow sets it off. Tools of bronze, copper, wood and bone never spark, so keep a bronze or copper set for work around powder and fuel. Examine a barrel to see whether its contents are dangerous. Filling, pouring and carrying a barrel are always safe.
