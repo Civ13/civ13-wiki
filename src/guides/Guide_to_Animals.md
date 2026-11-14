@@ -64,6 +64,7 @@ A **carriage** is pulled by a team of horses or oxen. It seats a driver and has 
   - Press **C** (secondary activation) to slow down, and again at a walk to stop.
   - The direction keys turn the carriage. It needs room for its new shape and its team to turn, and you must slow to a walk to turn it right round.
 - **Passengers and cargo:** Drag a person, a crate or a barrel onto the carriage to load it. Click the carriage with an empty hand to get off, or to take cargo off. You step down beside the carriage.
+- **Taking over:** If the driver is knocked out, asleep, tied up or has died, a seated passenger can click the carriage with an empty hand to take the reins. A driver who is still in the seat moves to the passenger's place.
 - **Examine** the carriage to see its team, its best pace and its free seats.
 
 ### Pace and load
@@ -99,3 +100,13 @@ A **hand cart** is a small wheeled box you pull yourself. Build one from the log
 - **Ctrl-click** it to pull it along. Its handles turn toward you as you go.
 - An empty cart slows you less than dragging a crate. The more you load into it, the slower you walk, so a full cart is heavy going. **Examine** it to see how hard it pulls.
 - A cart can be loaded onto a carriage like any other crate.
+
+### Hitching a cart
+
+A cart can be hitched behind a horse, an ox or a carriage, so an animal does the pulling.
+
+- **Behind a horse or an ox:** Stand the cart next to the animal and drag the cart onto it, or right-click the cart and choose **Hitch Cart**. The cart rolls along behind the animal, whether you ride it or lead it. A loaded cart slows a ridden horse, but far less than it would slow you on foot.
+- **Behind a carriage:** Stand the cart right behind the carriage and drag it onto the carriage, or use **Hitch Cart**. The cart rolls behind the rear wheels and swings round when the carriage turns. Its weight and its load count toward what the team pulls. The carriage cannot turn where there is no room for the cart behind it.
+- An animal or a carriage pulls one cart. A horse with a cart hitched cannot also be put in harness to a carriage.
+- Nobody can pull or push a hitched cart by hand. Right-click it and choose **Unhitch Cart** to let it go; a rider or a carriage passenger can do this too.
+- A cart comes loose if it is left behind, gets stuck, or its animal dies.
