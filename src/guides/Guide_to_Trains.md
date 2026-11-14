@@ -73,6 +73,7 @@ Track needs firm ground, so to cross a river, lake or the open sea you first bui
 
 | Span | Cost | Tech tree | Legacy research |
 | --- | --- | --- | --- |
+| Timber pier span | 8 wood | **Imperial Architecture** node | Industrial research **70** |
 | Steel bridge span | 4 steel | **Reinforced Concrete** node | Industrial research **96** |
 | Concrete bridge span | 6 concrete blocks | **Reinforced Concrete** node | Industrial research **103** |
 
@@ -80,7 +81,21 @@ Each span covers one tile of water, deep sea included:
 
 1. Stand on the shore, in the shallows or at the end of the bridge built so far, facing the water. You can't build while swimming or from a boat.
 2. Use the span in your hand to build on the tile in front of you, or use it on the water tile next to you.
-3. Keep going tile by tile. The deck doesn't sink or burn, and you can walk, drive and craft on it.
+3. Keep going tile by tile. You can walk, drive and craft on the deck. Steel and concrete decks don't sink or burn; a timber deck doesn't sink either, but it is much weaker.
+
+#### Timber piers and the pile driver
+
+A timber pier span needs its log piles driven into the bed, so it only goes down within **two tiles of a pile driver**.
+
+| | Station | Cost | Tech tree |
+| --- | --- | --- | --- |
+| <img src="../images/Pile_driver.png"> | **Pile driver** | 14 wood | **Imperial Architecture** node |
+
+1. Build the pile driver at the water's edge and make sure it is fastened (use a wrench).
+2. Lay timber pier spans on the water within two tiles of it, the same way as any other span.
+3. To go further out, unfasten the driver with a wrench, pull it onto the new deck and fasten it again.
+
+The pile driver can stand on the shore, in the shallows or on a deck. Hit it with a hammer on **Harm intent** to take it apart.
 
 Lay sleepers, rails and spikes on the deck as usual. Track on a bridge joins the rest of the line, so a bridge can carry a line to a station or to the edge of the map. You can also build a road on the deck for cars.
 

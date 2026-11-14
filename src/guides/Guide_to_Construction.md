@@ -971,6 +971,10 @@ A haul takes 6 seconds, or 10 for one of the heavy objects above. Stay beside th
 
 Fasten or unfasten the legs with a wrench, and hit them with a hammer on **Harm intent** to take them apart. The legs themselves are light enough to pull up a ladder.
 
+#### Building out over water
+
+A wooden pier or trestle bridge can cross any water, deep water included, once you have a **pile driver** (14 wood, Imperial Architecture) and **timber pier spans** (8 wood each). See [Bridges over water](Guide_to_Trains.md#bridges-over-water) for how to lay them.
+
 <table>
 <tbody>
 <tr>
