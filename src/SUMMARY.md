@@ -34,6 +34,7 @@
         - [Farming](guides/Guide_to_Farming.md)
         - [Pollution](guides/Guide_to_Pollution.md)
         - [Fishing](guides/Guide_to_Fishing.md)
+        - [Trapping](guides/Guide_to_Trapping.md)
         - [Ranching](guides/Guide_to_Ranching.md)
         - [Animals, Dogs & Mounts](guides/Guide_to_Animals.md)
     - [Building & Transport]()
