@@ -39,6 +39,7 @@ Floodwater puts out fires on the ground, and it puts out campfires that it reach
 - **Crops drown.** A crop standing in knee-deep floodwater dies after a few minutes, and faster in deeper water. Shallow floodwater only waters it. **Rice** grows in standing water and never drowns.
 - **Silt.** A crop that comes through a flood alive leaves fresh silt in its plot, which brings back the soil's goodness. This is why people have always farmed floodplains despite the risk.
 - **Wells.** Floodwater that covers a well fouls it, and drinking its water unboiled can give you cholera. When the water has gone down, scrub the well with a bar of soap to clean it.
+- **Stores.** Floodwater ruins flour sacks and empties gunpowder pouches left on the floor, and from knee depth it floats small things away toward the river. Keep supplies on a table, which keeps them dry until the water is waist-deep, or on high ground.
 - **Clothes.** Waist-deep floodwater soaks your clothes, the same as wading in a river. Wring them out or dry them by a fire.
 
 ## Rivers in flood
