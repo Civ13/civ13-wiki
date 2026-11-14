@@ -60,6 +60,7 @@
         - [Radiation](guides/Guide_to_Radiation.md)
         - [Hygiene](guides/Guide_to_Hygiene.md)
         - [Winter & Long Rounds](guides/Guide_to_Survival.md)
+        - [Rivers & Floods](guides/Guide_to_Floods.md)
     - [Society]()
         - [Communications](guides/Guide_to_Communications.md)
         - [Companies & Stock Market](guides/Guide_to_Companies.md)
