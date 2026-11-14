@@ -67,7 +67,7 @@ A faction's leader can found a **colony** in another land:
 2. Travel there as the faction's leader and do not join a faction in that land.
 3. Use the charter post and confirm. Your faction now exists in that land under the same name, with you as its leader there. It starts with that land's research, so carry your books along.
 
-Members who arrive later join the colony at once, within the faction's member limit. Once the staff have marked the land as settled, members can also **start a new character at the colony**: when you join in your faction's own land, choose **With <colony> in <land>**, then join that land's server as the game tells you. Your character starts beside the charter post, already a member. A colony stands only while its charter post stands: if raiders destroy it, members stop joining the colony on arrival until a leader of the faction plants a new charter.
+Members who arrive later join the colony at once, within the faction's member limit. Once the staff have marked the land as settled, members can also **start a new character at the colony**: when you join in your faction's own land, choose **With** the colony **in** its land, then join that land's server as the game tells you. Your character starts beside the charter post, already a member. A colony stands only while its charter post stands: if raiders destroy it, members stop joining the colony on arrival until a leader of the faction plants a new charter.
 
 ## Party trains
 
