@@ -173,6 +173,25 @@ its ready-made version, so the list of garments grows as you learn more.
 6. Use the cut pieces in hand and choose **Sew**. After about 6 seconds you hold
    the finished garment.
 
+**Naming a design.** Before cutting, choose **Name** to give your design its
+own name of up to 32 letters. The finished garment carries that name, and
+anyone who examines it sees who designed it. Leave the name empty to keep the
+garment's usual name.
+
+### Sewing patterns
+
+A sewing pattern lets you sew the same design again or hand it to another
+tailor. Hold a blank sheet of paper or parchment and use it on a designed
+project, a finished tailored garment or another pattern. After about 3
+seconds the sheet becomes a sewing pattern with the garment, its name and
+every piece's colour noted on it. Examine a pattern to see the colours and how
+much fabric it needs.
+
+Use a pattern on a project that has not been cut yet to copy its design onto
+the project. You still need the knowledge for that garment, so a pattern
+for something you have not learned will not work for you yet. Patterns can
+be traded like any other item.
+
 | Knowledge | Garments |
 | --- | --- |
 | Weaving | loincloth, long tunic, tribal robe |

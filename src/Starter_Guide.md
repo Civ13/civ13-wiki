@@ -68,6 +68,21 @@ Hunger and thirst affect your **movement speed**, **healing rates**, and **[mood
 
 Being slow makes you easy prey for predators, criminals, and cannibals. Malnourishment also makes it easier to catch **[diseases](guides/Guide_to_Medical.md#diseases)**.
 
+### Working hungry
+
+How fast you get hungry and thirsty depends on how hard you work and how warm you are, so ration for the job ahead:
+
+| What you are doing | A full stomach lasts about | Full water lasts about |
+| --- | --- | --- |
+| Standing about, awake | 3 hours | 2.5 hours |
+| Light work: reading, writing, sewing, weaving, study | 2.5 hours | 2 hours |
+| Ordinary work, walking, fighting | 2 hours | 1.5 hours |
+| Heavy labour: mining, digging, felling trees, sawing, smithing | 1 hour | 50 minutes |
+
+- **Cold** makes you burn food to stay warm: about a third faster once you feel chilled and over half again as fast when you are cold. Warm clothes and a fire keep this down.
+- **Heat** makes you sweat: dry heat, deserts and heat waves roughly double your thirst, and being overheated (too many clothes, too close to a fire) adds half again.
+- Running costs a little extra on top. If you step away from the keyboard for a minute, you use only a tenth as much.
+
 ### Hunger
 
 The easiest way to get food early on is by killing animals and eating the meat after cooking it. You can also eat bird eggs, even uncooked.

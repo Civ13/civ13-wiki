@@ -868,7 +868,7 @@ that see the **[Guide to Chemistry](Guide_to_Chemistry.md)**.
 
   - Make iron bullets with iron ingots. Attach the bullets to the casings by clicking them with the bullets. Each bullet needs a casing that already holds its powder.
   - Use the casings in hand and choose the cartridge. Every casing with powder and a bullet becomes a round; the rest stay in the stack. Rifle and pistol rounds can be normal, hollow point or armor-piercing, while shotgun shells have one load.
-  - Which cartridges you can load depends on your firearms research: Rifling teaches the early revolver, rifle and shotgun rounds, Cartridge Firearms the WW1 rifle and pistol rounds and the machine-gun loads, Self-Loading Firearms the WW2 rounds and Automatic Weapons the modern ones. Belt and strip machine guns take only their machine-gun load. Heavy machine-gun rounds cannot be loaded by hand.
+  - Which cartridges you can load depends on your firearms research: Rifling teaches the early revolver, rifle and shotgun rounds, Cartridge Firearms the WW1 rifle and pistol rounds and the machine-gun loads, Self-Loading Firearms the WW2 rounds and Automatic Weapons the modern ones. Belt and strip machine guns take only their machine-gun load. Heavy machine-gun rounds cannot be loaded by hand; they come from a fabricator in [ammo cans](Guide_to_Weapons.md#emplaced-machine-guns).
   - Splitting or combining a stack of filled casings keeps the powder and bullets with the casings.
 
 **Smokeless powder:** once you know Cartridge Firearms, you can fill pistol and rifle casings with smokeless powder instead of gunpowder. Each unit counts as two units of gunpowder, so a rifle casing needs 0.75 and a pistol casing 0.5. If the container also holds gunpowder, the smokeless powder is poured first and gunpowder tops up the rest. Smokeless powder needs no sulfur once you have a flask of sulphuric acid:
@@ -1366,9 +1366,11 @@ wrench to avoid pushing them on accident, but it is not necessary.</b>
       steel, weapons category, Mechanized War) on one of the frames, and
       put the tank cannon and the gunner's, loader's and commander's
       seats on **the same tile**. They are fitted into the turret when
-      you assemble the tank. Examine the turret to see what it holds and
-      what it still needs: it cannot fire without a cannon and a
-      gunner's seat. After assembly, click the axis and choose **Turret
+      you assemble the tank. An [emplaced machine
+      gun](Guide_to_Weapons.md#emplaced-machine-guns) stood on that tile
+      is fitted too, as the turret's second gun. Examine the turret to
+      see what it holds and what it still needs: it cannot fire without
+      a cannon or a machine gun, and a gunner's seat. After assembly, click the axis and choose **Turret
       style** to pick how the turret looks.
 
 6.  **Build a vehicle axis on any frame of the tank** and click it. It
@@ -1381,6 +1383,8 @@ wrench to avoid pushing them on accident, but it is not necessary.</b>
 
     - Parts you add later: stand them on the tank's frames, click the
       axis and choose **Fit new parts**.
+    - An emplaced machine gun pushed onto any frame rides along with
+      the tank and is manned from behind, as on the ground.
     - To change the tank, stop it, switch the engine off, click the axis
       and choose **Take it apart**. Frames and parts stay where they
       stand, loose, and can be assembled again. A tank registered in its

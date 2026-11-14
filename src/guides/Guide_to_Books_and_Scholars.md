@@ -24,7 +24,7 @@ This applies to persistent worlds such as [Gaia](../maps/Gaia.md) and the region
 The world starts in 5000 B.C. and has no clock: it moves into a new age only when someone finishes a **capstone** chapter (the prototype nodes, such as Bronze Working), and every player is told when that happens.
 
 1. **Found a faction.** The founder receives the **Stone Age master book**, which holds every Stone Age chapter, and a **pencil**. Nobody knows those chapters yet.
-2. **Study the chapters you need.** Hold the book, use it and press **Study** beside a chapter. Each chapter needs its prerequisites first, so work through the book in order.
+2. **Study the chapters you need.** Hold the book, use it and press **Study** beside a chapter. Each chapter needs its prerequisites first, but only those: you can skip every chapter that the ones you want do not build on. See [what needs what](Guide_to_Research.md#what-needs-what).
 3. **Craft what you've learned.** Crafting checks your own knowledge only. Your faction's research and the world's age don't unlock anything for you.
 4. **Research new chapters** at a research bench, then study them like any other chapter.
 
@@ -49,7 +49,7 @@ A **research bench** costs 8 soft wood. Benches belong to nobody: anyone can use
 3. Speed it up by using **samples** on the bench: existing examples of things the subject unlocks. Capstones also need their **prototype** before the chapter is finished, or from Steam Power on a [demonstration](#demonstrations).
 4. When the research is done, the chapter is written into the book. **It teaches nobody**, not even the researcher. Whoever wants it still has to study it.
 
-The first time anyone finishes a capstone chapter, the whole world moves into the next age.
+The first time anyone finishes a capstone chapter, the whole world moves into the next age. Two ages have a peaceful capstone as well as a military one: the Printing Press opens the same age as Gunpowder, and Powered Flight opens the same age as Mechanized Warfare. Either one is enough.
 
 ### Learning by doing
 
@@ -64,9 +64,11 @@ You don't have to wait at the bench for the whole time. From the Stone Age on, t
 
 Later subjects have their own [field work](#field-work).
 
+**Hands-on work teaches you too.** Each piece of work written into a book, whether practice, foraging, butchering, a prototype, a field study, a sample taken apart at the bench or a demonstration, also raises your own [scholarship](#scholarship) in the subject's discipline. It teaches half again as much as the same progress earned by waiting at the bench, and the skill goes to the person who did the work. Each piece of work teaches you once, so repeating it into a second book adds to the book but not to your skill.
+
 ### Losing an age
 
-An age lasts only as long as its capstone is written down somewhere. If every book, loose chapter page and recipe manual that holds the current age's capstone is destroyed, and no capstone of a later age survives either, the world falls back one age within about ten minutes, and every player is told. If the age before it has lost its capstone too, that one goes next, a little later. The Stone Age is never lost.
+An age lasts only as long as its capstone is written down somewhere. Where an age has two capstones, either one keeps it. If every book, loose chapter page and recipe manual that holds the current age's capstone is destroyed, and no capstone of a later age survives either, the world falls back one age within about ten minutes, and every player is told. If the age before it has lost its capstone too, that one goes next, a little later. The Stone Age is never lost.
 
 Nobody forgets anything when an age is lost. Anyone who still knows the lost capstone can **write it from memory** into a book, and the world returns to that age at once. A region connected to a mainland never falls below the mainland's age.
 
@@ -157,10 +159,10 @@ Health, Agriculture and Military carry on past the subjects listed in the [node 
 
 | Subject | Era | Needs | Gives |
 | --- | --- | --- | --- |
-| Soil Science | 7 | Hydroponics | Richer soil after your harvests |
+| Soil Science | 7 | Advanced Agriculture | Richer soil after your harvests |
 | Infantry Support Weapons | 7 | Field Artillery, Automatic Weapons | Foldable mortar, mortar shells and smoke shells, flamethrower hose and fuel backpack, anti-personnel and anti-tank mines (all steel) |
 | Emergency Medicine | 8 | Modern Medicine, Anesthetic Surgery | Defibrillator and power cells (electronics), autoinjectors and body bags (plastic) |
-| Crop Breeding | 8 | Soil Science | Bigger harvests |
+| Crop Breeding | 8 | Advanced Agriculture | Bigger harvests |
 | Guided Missiles | 8 | Missiles, Infantry Support Weapons | Foldable anti-tank guided missile system and its HEAT and HE missiles (steel) |
 
 A crafted flamethrower backpack is empty and takes up to 100 units of gasoline; wear it on your back and hold the hose with your other hand empty. Mines are crafted unarmed: use one in hand to deploy it, and disarm an armed mine with wirecutters. A mine detector (Electricity) finds armed mines nearby.
@@ -200,7 +202,7 @@ Research trains six disciplines, from 0 to 100: **Basic Mathematics, Engineering
 
 - Stone Age research needs no training. Each later age needs 12 more levels in the chapter's discipline, plus half that in Basic Mathematics. A Bronze Age chapter needs 12 and 6; an Imperial Age chapter needs 36 and 18.
 - Skill above the requirement makes research faster, up to twice as fast.
-- You gain skill by working at a bench, by studying chapters and by writing them. Work far below your level teaches you less, and half of what you learn also goes to Basic Mathematics.
+- You gain skill by working at a bench, by studying chapters, by writing them and by [hands-on work](#learning-by-doing) that goes into a book. Work far below your level teaches you less, and half of what you learn also goes to Basic Mathematics.
 
 ## Practice
 
@@ -215,7 +217,7 @@ You can also train a discipline by hand. Hold its practice tool and use it in ha
 | Agriculture | **Seed tray** | 2 soft wood (Basic Toolmaking) |
 | Military Science | **War game board** | 2 soft wood (Basic Toolmaking) |
 
-Practice is a way to get started, not a way to the top. Each session teaches a little, less as you improve, and practice stops at level 24, enough to research two ages past a discipline's first and to earn the Apprentice title. Beyond that, only research, study and tutoring teach you more.
+Practice is a way to get started, not a way to the top. Each session teaches a little, less as you improve, and practice stops at level 24, enough to research two ages past a discipline's first and to earn the Apprentice title. Beyond that, only research, hands-on work, study and tutoring teach you more.
 
 ## The scholar's trade
 
@@ -251,6 +253,7 @@ Practice is a way to get started, not a way to the top. Each session teaches a l
 - Keep spare copies of each capstone in different places. If the last one burns, the whole world loses that age until someone who knows it writes it down again.
 - A scribe doesn't need to be a scholar: anyone can copy chapters at a bench.
 - New to a discipline? Practise with its tool between study sessions while your stamina recovers.
+- Short on scholarship for the next age? Do the subject's practice, prototypes and field studies yourself instead of waiting at the bench. They teach more.
 - Keep a bench lit, stocked and next to your bookcases, and research with a pen at a desk nearby.
 - Rip out single chapters to lend or sell, and keep the master book at home.
 
