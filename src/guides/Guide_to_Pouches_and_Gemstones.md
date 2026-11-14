@@ -11,9 +11,10 @@ Small pouches keep herbs, stones, ore and coins close at hand, and belts carry t
 
 Each pouch has six slots for small things, such as herbs, seeds, ore, gems and coins. It can't hold bags or other pouches.
 
-You can carry a pouch in three ways:
+You can carry a pouch in four ways:
 
 - **In the belt slot or a pocket.** Click it to open it.
+- **In the hip slot.** This is the slot beside your clothing that also takes a lantern, canteen or keys. You need to be wearing clothes. Your belt slot stays free.
 - **On your clothes.** Use the pouch on a worn garment to hang it there, and click the garment to open it. One garment takes two pouches at most.
 - **On a leather belt.** See the next section.
 
@@ -25,9 +26,27 @@ When two pouches hang from the same belt or garment, the second one sits on your
 | --- | --- | --- |
 | Leather belt | 1 leather, **Storage** tab | Basic Toolmaking |
 | Shoulder belt | 2 leather, **Storage** tab | Basic Toolmaking |
+| Tool loop | 1 leather, **Storage** tab | Basic Toolmaking |
 
-- **Leather belt.** You wear it in the belt slot. Use a pouch on it to hang the pouch there; the belt takes two pouches. Other people can see the pouches on you. Click the worn belt to open its pouches. To take a pouch off, use **Remove Accessory** on the belt.
-- **Shoulder belt.** This strap goes across your body from shoulder to hip. Use it on your clothes to put it on. It doesn't use the belt slot, so you can wear it together with a leather belt. It holds two pouches.
+- **Leather belt.** You wear it in the belt slot, and it stays on even if you take your clothes off. Use a pouch on it to hang the pouch there. Other people can see the pouches on you. To take something off the belt, use **Remove Accessory** on it.
+- **Shoulder belt.** This strap goes across your body from shoulder to hip. Use it on your clothes to put it on. It doesn't use the belt slot, so you can wear it together with a leather belt. It holds two pouches, or one sword and one pouch.
+- **Tool loop.** A leather loop that hangs from a leather belt and holds one thing made to be worn on a belt, such as a hammer. It can't hold bags, clothing or guns.
+
+### What a leather belt carries
+
+A leather belt has four places:
+
+- two pouches;
+- one sword sheath, knife sheath or holster;
+- one tool loop.
+
+A sheath or holster on your belt leaves your clothes free for a harness or chest webbing, which only go on clothing.
+
+### Opening one attachment
+
+When a worn belt or garment carries one attachment, clicking it opens that attachment. When it carries several, clicking it shows a row of tiles above your bag window, one tile for each attachment. Click a tile with an empty hand to open or use that attachment, or with an item in your hand to put the item in it. Click the belt or garment again to put the tiles away.
+
+If you click the belt or garment with an item in your hand instead, the item goes into the first attachment that can take it.
 
 ## Gemstones
 

@@ -23,8 +23,9 @@ small button for each, walk or run, your fighting stance, dodge or parry,
 kick, and the body figure you click to choose where you aim. **Random** and
 the eye button sit above the body figure.
 
-**Bottom left: clothing.** Hat, ears, eyes, mask, pouch, clothing, suit,
-gloves and shoes. The bag button in the corner folds the clothing away and
+**Bottom left: clothing.** Hat, ears, eyes, mask, hip, clothing, suit,
+gloves and shoes. The hip slot holds one hanging item, such as a lantern,
+canteen, keys or a belt pouch. The bag button in the corner folds the clothing away and
 brings it back.
 
 If you prefer the older layout with one long bar along the bottom, use
