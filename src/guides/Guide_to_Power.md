@@ -51,9 +51,13 @@ Hold a cable coil and use it in hand to lay a piece on your tile, pointing the w
 
 To turn a corner, stand on the corner tile facing the new direction and lay the piece there. When the run arrives from the side and nothing waits behind you, the piece bends into a corner and joins both ways. A straight run that crosses another one stays separate. Use a **cable connector** (1 copper) on the tile to join a T-junction, a crossing or runs of different colors.
 
-## Transformers and power meters
+## Transformers, outlets, poles and power meters
 
 A **distribution transformer** (10 iron, Electricity research) powers machines without running a cable to each one. Lay a cable, put the transformer on that tile and fasten it with a wrench. Every machine within 5 tiles that draws power then runs from that cable, as long as no wall, closed door or window stands on the straight line between them. Machines built or moved into its reach join by themselves. Machines that move out of reach, or that lose sight of the transformer when it is unfastened, lose its power. Click it to look for machines again, and examine it to see how many it feeds. A machine that already has its own cable keeps it.
+
+A **wall outlet** (2 copper, Electricity research) works like a small transformer for a room. Lay a cable beside a wall, put the outlet on that tile and fasten it with a wrench: it turns to face the wall, does not block the way, and powers machines within 3 tiles in the same way.
+
+A **utility pole** (6 wood, Electricity research) also powers machines within 3 tiles, and carries **overhead wires** to other poles. Fasten each pole on a cable, then use a cable coil on one pole and then on another within 8 tiles: the wire costs one piece of cable per tile and joins the two grids into one, across roads, fields or rivers. A pole holds up to four wires. Wirecutters take a pole's wires down and give the cable back; unfastening or moving the pole does the same.
 
 A **power meter** (3 iron, Electricity research) shows what a grid is doing. Fasten it on a cable with a wrench, then click it. It shows the grid's supply, demand and load, with a chart of the last minute that keeps updating while you stand next to it. Examine it for a quick reading.
 
@@ -69,7 +73,8 @@ A **bus tie switch** (2 copper, same section) is a connector you can open and cl
 
 - **No power:** check commissioning, anchoring, cable attachment, mode and remaining energy. For an accumulator, adding acid does not supply charge.
 - **A corner did not join:** lay the corner piece while standing on the corner tile and facing the new direction, with the incoming cable beside you. Otherwise use a cable connector there.
-- **A machine near a transformer has no power:** check it is within 5 tiles, with no wall, closed door or window on the straight line, and click the transformer to look for machines again.
+- **A machine near a transformer, outlet or pole has no power:** check it is within reach (5 tiles for a transformer, 3 for an outlet or pole), with no wall, closed door or window on the straight line, and click the transformer, outlet or pole to look for machines again.
+- **Overhead wire does nothing:** both poles must be fastened on a cable; examine a pole to count its wires.
 - **Nothing upstairs:** a riser needs a secured partner at the same spot on the next floor, and a cable on both tiles.
 - **Machine exceeds output:** one accumulator supplies at most 10 kW. The laboratory centrifuge requires 30 kW, so one battery cannot run it. Provide sufficient connected generation; stored capacity alone does not raise output.
 - **Cannot craft cables:** check the map catalog, era, skill and Electricity research. Battery availability does not bypass those gates.
