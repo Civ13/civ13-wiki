@@ -1,6 +1,6 @@
 # Pouches, Belts & Gemstones
 
-Small pouches keep herbs, stones, ore and coins close at hand, and belts carry them. Gemstones turn up while mining. Once cut, they are valuable to trade and can be set into clothing and jewellery.
+Small pouches keep herbs, stones, ore and coins close at hand, and belts carry them. Lanyards and wrist loops keep small tools from getting lost. Gemstones turn up while mining. Once cut, they are valuable to trade and can be set into clothing, jewellery and necklaces.
 
 ## Pouches
 
@@ -48,6 +48,39 @@ When a worn belt or garment carries one attachment, clicking it opens that attac
 
 If you click the belt or garment with an item in your hand instead, the item goes into the first attachment that can take it.
 
+## Lanyards and wrist loops
+
+A lanyard or wrist loop keeps one small item from being lost. Each kind only takes the things it was made for.
+
+| Item | How to make it | Needs | Takes |
+| --- | --- | --- | --- |
+| Wrist thong | 1 leather | Basic Toolmaking | hatchet, machete, knife, club, mace or hammer |
+| Sword knot | 1 leather | Steel Blades | a one-handed sword |
+| Neck cord | 1 rope | Weaving | knife, whistle or key |
+| Fob chain | 1 brass | Optics & Instruments | compass or key |
+| Pistol lanyard | 1 rope | Cartridge Firearms | revolver, pistol, whistle, compass or knife |
+| Retention lanyard | 1 plastic | Synthetic Fabrics | pistol, knife, compass, key, whistle or small tool |
+
+Long guns, bows, spears, flintlock pistols and two-handed weapons can't be tied to any of these.
+
+### Wrist loops
+
+1. Hold the tool or sword in one hand and the wrist thong or sword knot in the other.
+2. Use the thong or knot. It is bound to the tool for good.
+3. With the tool in your hand, use **Wrist Loop** (IC tab) to slip your hand through the loop. Use it again to slip your hand out.
+
+While your hand is through the loop, a tool that slips from your grip or is knocked away swings from your wrist and you grip it again after a moment. To put the tool down, slip your hand out of the loop first.
+
+### Lanyards
+
+1. Put the lanyard on a worn garment, the same way as a pouch. The fob chain and retention lanyard also hang from a leather belt.
+2. Put the item on the lanyard. It is now tied to it.
+3. Click the lanyard to take the item out. It stays tied.
+
+If you drop a tied item, or it is knocked out of your hand, it falls back onto the lanyard instead of the ground. To set it down for good, use **Untie Lanyard** (IC tab) with the item in your hand. Putting it in a bag or handing it to someone also unties it. Each garment takes one lanyard.
+
+You can't throw a tied item. Untie it, or slip your hand out of the loop, first.
+
 ## Gemstones
 
 ### Finding them
@@ -78,3 +111,17 @@ Cut stones are worth much more than rough ones. Diamonds and rubies are worth th
 2. Use the stone on a piece of clothing, such as a ring, crown, belt or garment.
 
 The stone is set into the item, which raises its value and shows when the item is examined. Each item takes one stone.
+
+## Necklaces
+
+| Necklace | How to make it | Needs |
+| --- | --- | --- |
+| Leather cord necklace | 1 leather, **Storage** tab | Basic Toolmaking |
+| Bone bead necklace | 1 bone | Basic Toolmaking |
+| Copper chain necklace | 1 copper | Regalia & Heraldry |
+| Silver chain necklace | 1 silver | Regalia & Heraldry |
+| Gold chain necklace | 1 gold | Regalia & Heraldry |
+
+Use a necklace on a worn garment to put it on. Others can see it on you.
+
+To give a necklace a pendant, set a cut stone into it as described above, with a chisel in your other hand. The pendant shows in the stone's colour, both in your hand and when worn.
