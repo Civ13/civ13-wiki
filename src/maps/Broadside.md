@@ -1,8 +1,13 @@
 # Broadside
 
 <figure>
-<img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/broadside.png" width="992" height="416" loading="lazy" alt="The French ship at anchor: a plank deck with a tiller at the stern, four masts down the middle and five guns on each side">
-<figcaption>The French ship at anchor at the start of a round.</figcaption>
+<img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/broadside.png" width="992" height="416" loading="lazy" alt="The French ship Foudroyant at anchor: railed plank deck, tiller and captain's table at the stern, four masts, five guns on each side and a bowsprit with the French jack">
+<figcaption>The French ship <i>Foudroyant</i> at anchor at the start of a round.</figcaption>
+</figure>
+
+<figure>
+<img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/broadside_pirates.png" width="992" height="416" loading="lazy" alt="The pirate ship Black Gull at anchor: weathered grey deck, black flags, hammocks forward and five guns on each side">
+<figcaption>The pirate ship <i>Black Gull</i>.</figcaption>
 </figure>
 
 Two ships under sail on open sea: a French man-of-war against a pirate ship. Both sides start aboard their own ship at anchor, and when the signal gun fires the battle is on.
@@ -11,7 +16,7 @@ Two ships under sail on open sea: a French man-of-war against a pirate ship. Bot
 
 Each ship has a **tiller** at the stern, four masts and five guns on each side. Use the tiller to weigh anchor, ring a speed (slow or half ahead) and come about to the north, east, south or west. The ship carries everything aboard with her: crew, guns and stores. Only her own crew can steer her, and nobody can touch the tiller until the signal gun fires.
 
-The two ships start in different lanes, so the usual plan is to steer alongside the enemy and fire on her as you pass.
+Railings line both ships, with gaps at the gun ports and amidships for boarding. The two ships start in different lanes, so the usual plan is to steer alongside the enemy and fire on her as you pass.
 
 ## Broadsides
 
