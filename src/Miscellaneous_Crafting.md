@@ -151,7 +151,7 @@ and collects bark. Bark soaks into tannin for
 
 ## Tailoring your own clothes
 
-Design, cut and sew clothing and overclothes in your own colours. You need
+Design, cut and sew clothing, overclothes and hats in your own colours. You need
 **Weaving** to start a project, and each garment needs the same knowledge as
 its ready-made version, so the list of garments grows as you learn more.
 
@@ -163,8 +163,9 @@ its ready-made version, so the list of garments grows as you learn more.
    project to add them, up to eight. A loincloth needs 1, a toga 3, most
    outfits 4 and a colonial coat 7. Every sheet must be the same fabric as
    the first one.
-3. Hold the project and use it in hand. **Choose garment** lists the clothing
-   and overclothes you know how to make, with the fabric each one needs.
+3. Hold the project and use it in hand. **Choose garment** lists the clothing,
+   overclothes and headwear you know how to make, with the fabric each one
+   needs.
 4. **Colours** lets you colour the body of the garment and each of its pieces,
    such as sleeves, skirt, trim, buttons or stripes. A preview of all four
    sides stays at the top left of your screen while you design. Nothing is
@@ -176,13 +177,17 @@ its ready-made version, so the list of garments grows as you learn more.
 
 | Knowledge | Garments |
 | --- | --- |
-| Weaving | loincloth, long tunic, tribal robe, shirt, knee tunic, cloak |
-| Classical Dress | shendyt, celtic trousers, toga, stola, gown |
-| Tailoring | arabic tunic, haori, renaissance outfit, short colonial outfit, poncho, haori jacket, colonial jacket, colonial coat, jacket, coat |
-| Fine Garments | tunic, layered, buttoned and laced dresses, pontifical robes, pyjamas, colonial outfit |
-| Textile Mills | victorian uniform |
-| Ready-Made Clothing | modern, baggy and short modern outfits, cloth jacket, blazer, hoodie |
+| Weaving | loincloth, long tunic, tribal robe, shirt, knee tunic, cloak, hood, bandana, beanie |
+| Classical Dress | shendyt, celtic trousers, toga, stola, gown, skullcap, veil, keffiyeh |
+| Tailoring | arabic tunic, haori, renaissance outfit, short colonial outfit, poncho, haori jacket, colonial jacket, colonial coat, jacket, coat, beret, feathered cap, hennin |
+| Fine Garments | tunic, layered, buttoned and laced dresses, pontifical robes, pyjamas, colonial outfit, noble hat, infantry cap |
+| Textile Mills | victorian uniform, peaked cap |
+| Ready-Made Clothing | modern, baggy and short modern outfits, cloth jacket, blazer, hoodie, field cap |
 | Synthetic Fabrics | tracksuit jacket |
+
+Hats take one or two sheets. The feathered cap's feather, the keffiyeh's
+checks and the peaked cap's band and badge each take their own colour, and a
+veil covers the hair.
 
 ### Fabric and dyes
 
