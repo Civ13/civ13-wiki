@@ -1132,8 +1132,8 @@ The workshop also builds eleven heavier or military vehicles. They are only buil
 | Model | Size | Chassis and bodywork (4 pieces, each) | Running gear | Engine | Windows | Seats | Turret and gun | Total steel |
 | --- | --- | ---: | --- | --- | ---: | ---: | ---: | ---: |
 | Scout car | 2x3 | 10 steel | 4 wheels | 10 steel, 10 cable | 4 glass | 4 cloth | - | 50 |
-| Field car | 2x3 | 18 steel | 4 wheels | 18 steel, 10 cable | 6 glass | 4 cloth | - | 90 |
-| Cargo truck | 2x4 | 16 steel | 4 wheels | 16 steel, 10 cable | 8 glass | 6 cloth | - | 80 |
+| Field car | 2x3 | 14 steel | 4 wheels | 14 steel, 10 cable | 6 glass | 4 cloth | - | 70 |
+| Cargo truck | 2x4 | 22 steel | 4 wheels | 22 steel, 10 cable | 8 glass | 6 cloth | - | 110 |
 | Double-decker bus | 2x5 | 22 steel | 4 wheels | 22 steel, 12 cable | 14 glass | 10 cloth | - | 110 |
 | Armoured car | 2x3 | 24 steel | 4 wheels | 24 steel, 10 cable | - | 4 cloth | - | 120 |
 | Tankette | 2x3 | 28 steel | 4 tank tracks | 28 steel, 10 cable | - | 4 cloth | - | 140 |
@@ -1222,7 +1222,7 @@ What makes it fast or slow:
 
 | Condition | Effect |
 | --- | --- |
-| Roads, built floors, tamped earth | Full pace: a little quicker than running, for half the stamina |
+| Roads, built floors, tamped earth | Full pace: a little quicker than running, for half the stamina. A car or a large motorcycle is faster still |
 | Grass, dirt, sand and other natural ground | A quarter slower and a quarter more tiring |
 | Lying snow | Slower still |
 | Carried weight | The more you wear and carry, bags included, the slower you go and the more stamina each tile costs. At your full carrying capacity the bicycle takes twice as long per tile, and it bottoms out at four times |
