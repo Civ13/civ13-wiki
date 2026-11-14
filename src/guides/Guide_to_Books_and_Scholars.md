@@ -67,11 +67,16 @@ You don't have to wait at the bench for the whole time. From the Stone Age on, t
   - From the Industrial Age on, a failed attempt can burn, sicken or cut you a little, so don't try it wounded.
 - **Field study.** Hold paper, parchment or a book with a pen or pencil in your other hand, stand next to a building, machine or tool that a subject makes, and use **Study in the Field** (Object tab). After about half a minute your notes are written into the book, or onto the sheet as field notes to use on a bench researching that subject. It works on anyone's things, not only your own. A book takes three different kinds of thing per subject, each once.
 
+- **Record a find.** Hold paper, parchment or a book with a pen or pencil in your other hand and use **Record a Find** (Object tab) within two tiles of something wild. After about twenty seconds your record is written down.
+  - Living animals count for Agriculture, wild plants for Medicine, ores and rocks for Natural Science, and the night sky, seen outdoors at night, for Basic Mathematics. The sky can be recorded once each season.
+  - In a book, the record adds a twentieth of a chapter to a subject of that discipline whose groundwork you know. If more than one fits, you choose.
+  - On a sheet it becomes naturalist's notes. Use them on a bench researching any subject of that discipline.
+  - A book takes each kind of find once, and finds can fill three tenths of a chapter at most, so look for different animals, plants and stones.
 - **Compare notes.** When two books on the same bench each hold part of the same chapter, two scholars who could both research that subject can stand beside the bench and use **Compare Notes** (right-click the bench). The fuller book gains half of what the other one holds, and the other book keeps its own work. You need light, and both of you must be able to read both books. Each book can be compared once per subject. Both scholars learn from it.
 
 Later subjects have their own [field work](#field-work).
 
-**Hands-on work teaches you too.** Each piece of work written into a book, whether practice, foraging, butchering, a prototype, a field study, a sample taken apart at the bench or a demonstration, also raises your own [scholarship](#scholarship) in the subject's discipline. It teaches half again as much as the same progress earned by waiting at the bench, and the skill goes to the person who did the work. Each piece of work teaches you once, so repeating it into a second book adds to the book but not to your skill.
+**Hands-on work teaches you too.** Each piece of work written into a book, whether practice, foraging, butchering, a prototype, a field study, a recorded find, a sample taken apart at the bench or a demonstration, also raises your own [scholarship](#scholarship) in the subject's discipline. It teaches half again as much as the same progress earned by waiting at the bench, and the skill goes to the person who did the work. Each piece of work teaches you once, so repeating it into a second book adds to the book but not to your skill.
 
 ### Losing an age
 
