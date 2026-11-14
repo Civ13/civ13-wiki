@@ -216,6 +216,7 @@ Research trains six disciplines, from 0 to 100: **Basic Mathematics, Engineering
 - Stone Age research needs no training. Each later age needs 12 more levels in the chapter's discipline, plus half that in Basic Mathematics. A Bronze Age chapter needs 12 and 6; an Imperial Age chapter needs 36 and 18.
 - Skill above the requirement makes research faster, up to twice as fast.
 - You gain skill by working at a bench, by studying chapters, by writing them and by [hands-on work](#learning-by-doing) that goes into a book. Work far below your level teaches you less, and half of what you learn also goes to Basic Mathematics.
+- **Mastering a body skill teaches its discipline.** When one of your skills reaches 150 you become skilled and gain 4 levels; at 200 you become an expert and gain 8; at 250, the most a skill can reach, you are a master and gain 12. Medical teaches Medicine, crafting teaches Engineering, farming and hunting teach Agriculture, philosophy teaches Basic Mathematics, and swords, bows, rifles, pistols, machine guns and throwing teach Military Science. Each step pays a discipline once, so a second weapon skill does not pay Military Science again.
 
 ## Practice
 
