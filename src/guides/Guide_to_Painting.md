@@ -47,7 +47,22 @@ To paint a wall canvas, put it on the easel by clicking the easel with it. Then 
 
 The picture you see in the world is a smaller copy. Examine a painting, or click a hanging one, to see it at full size with its title and painter.
 
+## Drawings on paper and in books
+
+You can also draw a picture on a sheet of paper or in a book.
+
+1. Hold the paper or book, and hold a pen, pencil, crayon or pigment in your active hand.
+2. Use **Draw Picture** (Object tab).
+3. Choose a **Small sketch** (32x32) or a **Large drawing** (64x64). The same painting window opens.
+
+You can draw with your pen's ink, any pigments you carry, and their mixes. A drawing uses no pigment. **Finish** asks for a title and puts the drawing on the page.
+
+- A sheet of paper holds 2 drawings and a book holds 12.
+- Drawings show under the writing when you read a page. A book opens its pictures in a window beside it.
+- The printing press and the mail copy a page together with its drawings. Monks copy them along with the book.
+- When you bind a page into a book, its drawings go into the book too. If the book has no room left for them, the page can't be bound.
+
 ## Good to know
 
 - Each land has room for about 300 finished wall paintings. Small paintings count as a quarter of one.
-- Every finished painting records who painted it. Offensive paintings will be removed by staff.
+- Every finished painting and drawing records who made it. Offensive pictures will be removed by staff.

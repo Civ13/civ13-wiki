@@ -173,6 +173,39 @@ its ready-made version, so the list of garments grows as you learn more.
 6. Use the cut pieces in hand and choose **Sew**. After about 6 seconds you hold
    the finished garment.
 
+| Knowledge | Garments |
+| --- | --- |
+| Weaving | loincloth, long tunic, tribal robe, shirt, knee tunic, cloak |
+| Classical Dress | shendyt, celtic trousers, toga, stola, gown |
+| Tailoring | arabic tunic, haori, renaissance outfit, short colonial outfit, poncho, haori jacket, colonial jacket, colonial coat, jacket, coat |
+| Fine Garments | tunic, layered, buttoned and laced dresses, pontifical robes, pyjamas, colonial outfit |
+| Textile Mills | victorian uniform |
+| Ready-Made Clothing | modern, baggy and short modern outfits, cloth jacket, blazer, hoodie |
+| Synthetic Fabrics | tracksuit jacket |
+
+### Choosing pieces
+
+Shirts, knee tunics, gowns, jackets, coats and cloaks are put together from
+pieces. With one of them chosen, **Pieces** lets you pick each part, and
+every part you add gets its own colour under **Colours**.
+
+<img src="images/tailored_pieces.png" alt="Shirts, knee tunics, gowns, jackets, coats and cloaks with different sleeves, collars, legwear, belts, buttons and patterns, from all four sides">
+
+| Garment | Pieces |
+| --- | --- |
+| Shirt | sleeves, neckline, legwear (trousers, shorts, breeches or skirt), belt or sash, pattern |
+| Knee tunic and gown | sleeves, neckline, belt or sash, pattern |
+| Jacket and coat | sleeves, collar, buttons or toggles, edge trim |
+| Cloak | hood, clasp, border |
+
+Necklines can be round, V or high; patterns can be stripes, checks or a hem
+band; and collars can be a stand collar, lapels or fur. Leaving off the sleeves
+of a jacket makes a waistcoat. Long sleeves, a hood and legwear take extra
+fabric, and the menu shows how much. A few pieces need more knowledge than
+the garment itself: V necks, breeches and checks need
+**Tailoring**; high collars, lapels, double buttons and cuffed sleeves need
+**Fine Garments**; and a sash needs **Classical Dress**.
+
 **Naming a design.** Before cutting, choose **Name** to give your design its
 own name of up to 32 letters. The finished garment carries that name, and
 anyone who examines it sees who designed it. Leave the name empty to keep the
@@ -191,16 +224,6 @@ Use a pattern on a project that has not been cut yet to copy its design onto
 the project. You still need the knowledge for that garment, so a pattern
 for something you have not learned will not work for you yet. Patterns can
 be traded like any other item.
-
-| Knowledge | Garments |
-| --- | --- |
-| Weaving | loincloth, long tunic, tribal robe |
-| Classical Dress | shendyt, celtic trousers, toga, stola |
-| Tailoring | arabic tunic, haori, renaissance outfit, short colonial outfit, poncho, haori jacket, colonial jacket, colonial coat |
-| Fine Garments | tunic, layered, buttoned and laced dresses, pontifical robes, pyjamas, colonial outfit |
-| Textile Mills | victorian uniform |
-| Ready-Made Clothing | modern, baggy and short modern outfits, cloth jacket, blazer, hoodie |
-| Synthetic Fabrics | tracksuit jacket |
 
 Stand still and keep the project in your hand while cutting or sewing. If you
 are interrupted, the project and any finished cutting are kept, so just start
