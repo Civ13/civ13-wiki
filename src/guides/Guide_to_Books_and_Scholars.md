@@ -67,7 +67,7 @@ You don't have to wait at the bench for the whole time. From the Stone Age on, t
   - From the Industrial Age on, a failed attempt can burn, sicken or cut you a little, so don't try it wounded.
 - **Field study.** Hold paper, parchment or a book with a pen or pencil in your other hand, stand next to a building, machine or tool that a subject makes, and use **Study in the Field** (Object tab). After about half a minute your notes are written into the book, or onto the sheet as field notes to use on a bench researching that subject. It works on anyone's things, not only your own. A book takes three different kinds of thing per subject, each once.
 
-- **Compare notes.** When two books on the same bench each hold part of the same chapter, two scholars who could both research that subject can stand beside the bench and use **Compare Notes** (right-click the bench). The fuller book gains half of what the other one holds, and the other book keeps its own work. You need light, and both of you must be able to read both books. Two books can be compared once per subject, so bring a third book, or more work, for another gain. Both scholars learn from it.
+- **Compare notes.** When two books on the same bench each hold part of the same chapter, two scholars who could both research that subject can stand beside the bench and use **Compare Notes** (right-click the bench). The fuller book gains half of what the other one holds, and the other book keeps its own work. You need light, and both of you must be able to read both books. Each book can be compared once per subject. Both scholars learn from it.
 
 Later subjects have their own [field work](#field-work).
 
