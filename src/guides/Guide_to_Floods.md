@@ -24,9 +24,22 @@ A flood fills land in order of height. Banks a step above the water go under fir
 
 Boots made for wading help in shallow water, as they do in a river's shallows. A boat, a lifejacket or a diving suit keeps you up in deep floodwater. Use **Check Movement** (IC tab) to see how deep the floodwater under you is and how much it slows you.
 
+## Reading the land
+
+After a flood, examine a tree, a wall or the ground. A line of dried silt shows how high the last floods rose there, from ankle-deep up to over your head. The marks fade over a few years, so they show recent floods. Look for them before you choose where to build.
+
+If you examine ground that is under water, you are told how deep the water is.
+
 ## Fire
 
 Floodwater puts out fires on the ground, and it puts out campfires that it reaches. A campfire under water can't be lit until the water goes down, so build your fire on high ground.
+
+## Farms and wells
+
+- **Crops drown.** A crop standing in knee-deep floodwater dies after a few minutes, and faster in deeper water. Shallow floodwater only waters it. **Rice** grows in standing water and never drowns.
+- **Silt.** A crop that comes through a flood alive leaves fresh silt in its plot, which brings back the soil's goodness. This is why people have always farmed floodplains despite the risk.
+- **Wells.** Floodwater that covers a well fouls it, and drinking its water unboiled can give you cholera. When the water has gone down, scrub the well with a bar of soap to clean it.
+- **Clothes.** Waist-deep floodwater soaks your clothes, the same as wading in a river. Wring them out or dry them by a fire.
 
 ## Rivers in flood
 
