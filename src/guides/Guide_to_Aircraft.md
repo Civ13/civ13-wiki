@@ -12,30 +12,30 @@ Two light planes on a runway, nose to the east. Offline render using Civ13 sprit
 | --- | --- | --- | --- |
 | Aircraft hangar | 40 steel | Powered Flight | Industrial 126 |
 | Runway (one tile) | 1 stone | Powered Flight | Industrial 126 |
-| Light plane | 50 steel, 6 glass, 4 cloth, 8 cable, 4 unattached wheels | Built at the hangar | Built at the hangar |
-| Cabin plane | 65 steel, 8 glass, 8 cloth, 8 cable, 4 unattached wheels | Built at the hangar | Built at the hangar |
-| Trainer | 35 steel, 4 glass, 4 cloth, 6 cable, 4 unattached wheels | Built at the hangar | Built at the hangar |
-| Cargo plane | 60 steel, 6 glass, 2 cloth, 8 cable, 4 unattached wheels | Built at the hangar | Built at the hangar |
-| Twin-engine plane | 90 steel, 8 glass, 6 cloth, 14 cable, 4 unattached wheels | Built at the hangar | Built at the hangar |
+| Light plane | 40 wood, 10 steel, 6 glass, 8 cloth, 8 cable, 4 unattached wheels | Built at the hangar | Built at the hangar |
+| Cabin plane | 48 aluminium, 16 steel, 8 glass, 8 cloth, 8 cable, 4 unattached wheels | Built at the hangar, after Aviation & Rocketry | Built at the hangar |
+| Trainer | 28 wood, 8 steel, 4 glass, 6 cloth, 6 cable, 4 unattached wheels | Built at the hangar | Built at the hangar |
+| Cargo plane | 44 aluminium, 16 steel, 6 glass, 2 cloth, 8 cable, 4 unattached wheels | Built at the hangar, after Aviation & Rocketry | Built at the hangar |
+| Twin-engine plane | 64 aluminium, 26 steel, 8 glass, 6 cloth, 14 cable, 4 unattached wheels | Built at the hangar, after Aviation & Rocketry | Built at the hangar |
 | Aircraft bomb casing | 8 steel | Powered Flight | Industrial 126 |
 | Airframe section | 4 steel | Powered Flight | Industrial 126 |
 | Airframe controls | 12 steel | Powered Flight | Industrial 126 |
 | Pilot's seat | 8 steel | Powered Flight | Industrial 126 |
 
-**Powered Flight** is an Industrial node in the Vehicles line. It needs **Automobiles** and **Combustion Engine**, and Aviation & Rocketry is researched after it. The hangar is in the **production** crafting category and runway in **roads**. The hangar only assembles planes for a faction that has finished the Powered Flight node.
+**Powered Flight** is an Industrial node in the Vehicles line. It needs **Automobiles** and **Combustion Engine**, and Aviation & Rocketry is researched after it. The hangar is in the **production** crafting category and runway in **roads**. The hangar only assembles planes for a faction that has finished the Powered Flight node. With Powered Flight alone it builds the wood-and-cloth **trainer** and **light plane**. The all-metal **cabin**, **cargo** and **twin-engine** planes also need **Aviation & Rocketry**, and so does a twin-engine plane built by hand.
 
 ## Building the hangar and the plane
 
 1. Lay a power cable, then craft the aircraft hangar from 40 steel while standing on or next to the cable. The **4x4** square to its **northeast** must be dry, open floor: the finished plane appears there. The hangar is not built if the research, the bay or the cable is missing, and you are told which.
-2. Feed steel, glass, cloth and cable stacks into the hangar, and drag four unused, unbroken, unattached wheels onto it. Drag an adjacent laid cable onto it to connect a network with **20 available power**, as for the automobile workshop. Examine the hangar to see what it holds.
+2. Feed wood or aluminium for the airframe, and steel, glass, cloth and cable stacks into the hangar, and drag four unused, unbroken, unattached wheels onto it. Drag an adjacent laid cable onto it to connect a network with **20 available power**, as for the automobile workshop. Examine the hangar to see what it holds.
 3. Click the hangar, choose a model and stay next to it while it works. Loose objects or people in the bay stop the assembly, and nothing is spent until the plane is finished. **Unload inputs** returns the stock.
 4. The plane is delivered with a gasoline engine, an **empty** fuel tank and its key. Fill the tank with gasoline before you try to taxi; see [Engines](Guide_to_Crafting.md#engines) for fuel.
 
-The plane can also be built **piece by piece**, by several people. Choose **Start a Light plane piece by piece** with the bay clear. Then bring each piece in turn to the hangar or to the airframe in the bay: the **airframe** (2 pieces, 10 steel each), **landing gear** (4 wheels, dragged on), the **engine and propeller** (10 steel and 8 cable), the **skin** (2 pieces, 10 steel each), the **canopy** (6 glass) and the **seats** (4 cloth). The plane takes shape from the tail to the nose. Fitting pieces needs no power. When the last piece is on, choose **Roll out**, which needs 20 power and gives the same plane, key and empty tank as a one-go build. A half-built plane survives saves, and **Abandon** loses everything fitted so far. The bay cannot hangar a plane while a project is in it. See [Building a car piece by piece](Guide_to_Crafting.md#building-a-car-piece-by-piece) for how stacks and wheels are taken.
+The plane can also be built **piece by piece**, by several people. Choose **Start a Light plane piece by piece** with the bay clear. Then bring each piece in turn to the hangar or to the airframe in the bay: the **airframe** (2 pieces, 10 wood each), **landing gear** (4 wheels, dragged on), the **engine and propeller** (10 steel and 8 cable), the **skin** (2 pieces, 10 wood each), the **canopy** (6 glass) and the **seats** (8 cloth). The aluminium planes pay their airframe and skin in aluminium instead. The plane takes shape from the tail to the nose. Fitting pieces needs no power. When the last piece is on, choose **Roll out**, which needs 20 power and gives the same plane, key and empty tank as a one-go build. A half-built plane survives saves, and **Abandon** loses everything fitted so far. The bay cannot hangar a plane while a project is in it. See [Building a car piece by piece](Guide_to_Crafting.md#building-a-car-piece-by-piece) for how stacks and wheels are taken.
 
 The light plane is four tiles long and three wide: the nose with the engine and propeller, the cockpit between the wings, a fuselage section with one passenger seat, and the tail. The pilot sits in the cockpit and flies from the **control column**.
 
-The **cabin plane** has the same airframe and size, so it fits the same hangar bay and carrier elevators, but its whole fuselage row is a cabin with **three passenger seats**. The extra weight needs a longer take-off roll: **10 tiles** of runway or **20** of open ground. Built piece by piece, it takes the same pieces as the light plane, with 8 cloth for the seats.
+The **cabin plane** has the same airframe and size, so it fits the same hangar bay and carrier elevators, but its whole fuselage row is a cabin with **three passenger seats**. The extra seats need a longer take-off roll: **10 tiles** of runway or **20** of open ground. Built piece by piece, it takes the same pieces as the light plane, with 8 cloth for the seats.
 
 The **trainer** is the smallest plane: just the nose, the wings and cockpit, and a tail with an instructor's seat behind the pilot. It is three tiles long and turns in a **3x3** square, is the cheapest to build and takes off soonest: **6 tiles** of runway or **12** of open ground.
 
@@ -77,13 +77,24 @@ On the ground a plane drives like a car. Start the engine with the control colum
 
 The HUD shows the plane's height while you are in the pilot's seat, such as **LOW 7** or **HIGH 18**. Examining the control column also shows how far above the ground you are and the height you are heading for.
 
-- **Take-off:** on a runway, throttle to full and roll straight ahead: after 8 tiles of runway the plane takes off by itself. Off a runway, press **Climb** first to line up, then roll 16 tiles of open ground at full throttle. Without that, a full-throttle roll over open ground just keeps taxiing. The wheels leave the ground two levels up and the plane climbs on to height 6 in **low flight**. Coming to a stop against something stands the takeoff down again.
-- **Height:** a plane's height uses the same 0 to 15 scale as the hills. It climbs or sinks 2 levels for every tile it flies, toward the height you set with Climb and Descend.
+- **Take-off:** on a runway, throttle to full and roll straight ahead: after 8 tiles of runway (for a light plane with a normal load) the plane takes off by itself. Off a runway, press **Climb** first to line up, then roll 16 tiles of open ground at full throttle. Without that, a full-throttle roll over open ground just keeps taxiing. The wheels leave the ground two levels up and the plane climbs on to height 6 in **low flight**. Coming to a stop against something stands the takeoff down again.
+- **Height:** a plane's height uses the same 0 to 15 scale as the hills. It climbs 2 levels for every tile it flies (1 when heavily loaded) and sinks 2, toward the height you set with Climb and Descend.
 - **Low flight (height 15 and below):** the plane flies among the hills. Anything ahead that reaches its height is flown into: a hillside, a tree or a wall (3 levels above the ground it stands on), or an upper storey. A **Terrain ahead** warning tells you the height of ground within 5 tiles in front of you that you would hit, so climb above it in time. Anyone can shoot at a plane in low flight.
 - **Cruise (above 15):** past the top of the hill scale the plane cruises over every hill, tree and rooftop, and only heavy weapons reach it. It cannot sink back into low flight over an upper storey or the highest peaks, and you have to come down to low flight before you can land. The pilot sees the ground below from the cockpit, and people on the ground see the plane's shadow pass over them.
 - **Stalling:** a plane that flies slower than **second gear** for 3 seconds, or whose engine stops, stalls and crash-lands on the nearest clear ground below. You get one warning to throttle up first.
 - **Map edge:** the plane stops at the edge of the world and warns you. Turn back at once, because a plane that stays there stalls.
-- **Fuel:** flying burns fuel faster than driving, and low flight burns the most. A full tank lasts about four minutes of low flight. Watch the tank, because an engine that runs dry in the air is a stall.
+- **Speed:** on the ground a plane taxis at a car's pace. In low flight it is a little faster than a car, and at cruise it flies **twice as fast as a car** at full throttle.
+- **Fuel:** flying burns fuel faster than driving, low flight burns the most, and a heavier load burns more. A full tank lasts about four minutes of low flight. Watch the tank, because an engine that runs dry in the air is a stall.
+
+## Weight
+
+Everything aboard counts: passengers, cargo on the bays and loose items on the airframe. Each model is built to fly with one person in every seat and a little cargo. Above that the plane is **loaded down**:
+
+- its take-off roll grows with the load, on a runway and on open ground alike;
+- a **heavily loaded** plane (about a quarter over its normal load) climbs only 1 level a tile, burns more fuel and cruises more slowly;
+- at almost twice its normal load it **will not lift off**: unload it first.
+
+Examine any part of the plane to see how its load affects it, and press **Climb** on the ground to see the roll you need now.
 
 ## Landing
 
