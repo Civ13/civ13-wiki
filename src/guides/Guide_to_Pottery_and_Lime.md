@@ -1,6 +1,6 @@
 # Pottery, Bricks & Lime
 
-Four workshop stations make clay and furnace work faster. Everything they make can still be made by hand; the stations save time, clay or fuel.
+Six workshop stations make clay, glass, stone and furnace work faster. Everything they make can still be made by hand; the stations save time, clay or fuel.
 
 | | Station | Made from | Research |
 | --- | --- | --- | --- |
@@ -8,8 +8,10 @@ Four workshop stations make clay and furnace work faster. Everything they make c
 | <img src="../images/Brick_mould_bench.png"> | **Brick mould bench** | 6 wood | Brickmaking |
 | <img src="../images/Bellows.png"> | **Bellows** | 3 leather | Bronze Working |
 | <img src="../images/Lime_kiln.png"> | **Lime kiln** | 20 stone | Stone Masonry |
+| <img src="../images/Glassblowing_bench.png"> | **Glassblowing bench** | 6 wood | Glassworking |
+| <img src="../images/Masons_saw.png"> | **Mason's saw** | 8 wood | Stone Masonry |
 
-Fasten or unfasten a station with a wrench. To take a wheel, bench or bellows apart, hit it with a hammer on **Harm intent**.
+Fasten or unfasten a station with a wrench. To take a wheel, bench, bellows or saw apart, hit it with a hammer on **Harm intent**.
 
 ## Potter's wheel
 
@@ -39,3 +41,19 @@ For the next minute and a half, a firing you start in a furnace beside the bello
 3. Click the kiln with an empty hand to light it.
 
 After about 40 seconds it leaves one quicklime for each block. Right-click the kiln and choose **Empty** to take an unburnt charge back out.
+
+## Glassblowing bench
+
+Build the bench on a tile next to a bloomery, blast furnace or kiln that has fuel in it. The fire does not need to be lit for a smelt; the bench reheats the glass in it.
+
+Use **glass** on the bench and choose what to blow: drinking glasses, mugs, teacups and teapots, bottles, jars, vials, beakers, droppers and lightbulbs. Each go costs the same glass and time as making one piece by hand, but you get **two** pieces. It also burns a little fuel from the fire, so keep the furnace stocked. Reinforced glass cannot be blown.
+
+## Mason's saw
+
+Use **stone**, **marble** or **sandstone** blocks on the saw. Every two seconds it cuts:
+
+- one stone block into two stone bricks,
+- one marble block into two marble bricks,
+- three sandstone blocks into two stone bricks.
+
+By hand each of those cuts gives a single brick. The saw keeps working through the stack in your hand until it runs out or you step away. You need to know **Brickmaking** to cut bricks, the same as by hand.
