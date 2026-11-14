@@ -46,7 +46,7 @@ A **research bench** costs 8 soft wood. Benches belong to nobody: anyone can use
 
 1. Put a book on the bench, click a subject in the bench window and press **Research this here**. The research is written into that book. Take the book away and the unfinished work goes with it.
 2. Stay beside the bench. It only makes progress while someone within one tile knows every prerequisite of the subject and holds a writing tool (see [The scholar's trade](#the-scholars-trade)).
-3. Speed it up by using **samples** on the bench: existing examples of things the subject unlocks. Capstones also need their **prototype** before the chapter is finished, or from Steam Power on a [demonstration](#demonstrations).
+3. Speed it up by using **samples** on the bench: existing examples of things the subject unlocks. The first two kinds of sample you take apart for a chapter are worth the most, a fifth of the chapter each. Capstones also need their **prototype** before the chapter is finished, or from Steam Power on a [demonstration](#demonstrations).
 4. When the research is done, the chapter is written into the book. **It teaches nobody**, not even the researcher. Whoever wants it still has to study it.
 
 The first time anyone finishes a capstone chapter, the whole world moves into the next age. Two ages have a peaceful capstone as well as a military one: the Printing Press opens the same age as Gunpowder, and Powered Flight opens the same age as Mechanized Warfare. Either one is enough.
@@ -66,6 +66,8 @@ You don't have to wait at the bench for the whole time. From the Stone Age on, t
   - A working piece counts as a prototype, and you keep it. You can make five early pieces of a subject this way; after that, get the chapter to a third.
   - From the Industrial Age on, a failed attempt can burn, sicken or cut you a little, so don't try it wounded.
 - **Field study.** Hold paper, parchment or a book with a pen or pencil in your other hand, stand next to a building, machine or tool that a subject makes, and use **Study in the Field** (Object tab). After about half a minute your notes are written into the book, or onto the sheet as field notes to use on a bench researching that subject. It works on anyone's things, not only your own. A book takes three different kinds of thing per subject, each once.
+
+- **Compare notes.** When two books on the same bench each hold part of the same chapter, two scholars who could both research that subject can stand beside the bench and use **Compare Notes** (right-click the bench). The fuller book gains half of what the other one holds, and the other book keeps its own work. You need light, and both of you must be able to read both books. Each book can be compared once per subject. Both scholars learn from it.
 
 Later subjects have their own [field work](#field-work).
 
