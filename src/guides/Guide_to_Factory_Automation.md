@@ -146,7 +146,7 @@ Each hide costs **5 tannin**, plus **5 water** if the hide has not been washed y
 
 ## Pipe networks
 
-Pipes move liquids between machines. A pipe network does nothing until a **powered pump** on it is switched on; then, every two seconds, machines that want a liquid pull it from machines that offer it.
+Pipes move liquids between machines. A pipe network does nothing until a **powered pump** on it is switched on, or a hand pump on it is being worked; then, every two seconds, machines that want a liquid pull it from machines that offer it.
 
 - **Sources** offer liquid: oil wells, water intakes (set beside open water), refinery output, barrel stations set to drain and steel barrels fitted to a pipe.
 - **Holding tanks** store liquid. Hold a container and use **Set Tank Filter** to keep a tank to one reagent. Tanks never feed other tanks.
@@ -163,6 +163,34 @@ Barrels ride belts and arms like any item. Arms can hand barrels to oil wells (w
 ### Water supply
 
 A **water tap** and a **piped shower** run on whatever the pipes bring them, and go dry when the network stops supplying them. Fill a container at a tap, drink from it on grab intent, or wash your hands in it. A tap gives exactly what came down the pipe, so river water from an intake is still unboiled at the tap. A piped shower only takes water.
+
+### Pipes of other materials and plumbing before electricity
+
+Pipe does not have to be steel. From **Basic Toolmaking** you can make pipe by hand from bamboo, logs, lead, copper or iron, and it joins steel pipe and every pipe machine in the usual way.
+
+| Pipe | Made from | Carries |
+| --- | --- | --- |
+| Lead pipe | 1 lead | 45% of a pump's flow |
+| Bamboo pipe | 1 bamboo | 55% |
+| Bored log pipe | 2 wood | 65% |
+| Copper pipe | 1 copper | 75% |
+| Iron pipe | 1 iron | 90% |
+| Fluid pipe (steel) | 1 steel | 100% |
+
+- A network moves only as fast as its **weakest pipe**. One length of bamboo in a steel line slows the whole line. Examine any pipe to see what its network is held back by.
+- **Lead pipe poisons the water.** While liquid moves through a network with any lead pipe on it, a little lead now and then ends up in its tanks, troughs and taps, and lead slowly harms whoever drinks it. Every pipe on such a network warns you when examined.
+- Bamboo and log pipes burn.
+
+Four wooden pieces let you pipe water long before electricity:
+
+| Piece | Research | Made from | What it does |
+| --- | --- | --- | --- |
+| Hand pump | Workshops | 6 wood and a shaft | Pumps while you work the handle: click it and stay beside it. A turning treadwheel, horse gin, mill wheel or windmill next to it works it for you. It takes no cable. |
+| Wooden water intake | Cooperage | 4 wood | A water intake: set it beside open water. |
+| Wooden cistern | Cooperage | 10 wood | A holding tank. |
+| Water trough | Cooperage | 4 wood | A water tap: fill a container, drink on grab intent or wash your hands. |
+
+A simple supply is an intake at the river, a run of pipe, a hand pump beside the pipe and a trough in the village. Water from a river is still unboiled at the trough.
 
 A **piped washing machine** (8 steel) also needs the pipes: each wash takes 20 units of pumped water, and it will not start while it is disconnected or short of water, even with water left inside. Examine it to see how much it holds. Washing machines already placed on a map have their own supply and need no pipes.
 

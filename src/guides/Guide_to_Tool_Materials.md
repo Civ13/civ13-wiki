@@ -100,6 +100,10 @@ The hand mill, the large mill, the large and powered saw mills, the loom, the pr
 - A generator's power follows its parts in the same way: better parts give more power and a worn out part gives none. Generators never jam, and a standard set lasts about 110 hours of running.
 - Taking a machine apart with a hammer gives back the parts you fitted, with their wear. The original parts and worn out parts are lost.
 
+## Pipes
+
+Pipe can be made of bamboo, logs, lead, copper, iron or steel. Tougher material carries more of a pump's flow, a network runs at its weakest pipe, and lead pipe slowly poisons the water. See [Factory Automation](Guide_to_Factory_Automation.md#pipes-of-other-materials-and-plumbing-before-electricity) for the table and the hand pump, wooden intake, cistern and water trough.
+
 ## Sparks
 
 Iron, steel and flint throw sparks. If you strike a barrel that holds gunpowder or fuel with a tool made of one of them while on **Harm intent**, there is a small chance each blow sets it off. Tools of bronze, copper, wood and bone never spark, so keep a bronze or copper set for work around powder and fuel. Examine a barrel to see whether its contents are dangerous. Filling, pouring and carrying a barrel are always safe.
