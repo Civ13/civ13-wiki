@@ -82,6 +82,16 @@ You can draw with your pen's ink, any pigments you carry, and their mixes. A dra
 - The printing press and the mail copy a page together with its drawings. Monks copy them along with the book.
 - When you bind a page into a book, its drawings go into the book too. If the book has no room left for them, the page can't be bound.
 
+## Design codes
+
+A design code is a picture written out as text, starting with `C13ART/`. You can keep it anywhere outside the game and paste it back in later, on any land.
+
+- **Export** in the painting window puts the current picture's code in the box below it. Press Ctrl+C to copy it.
+- **Import** paints a pasted code onto the canvas in front of you. A code of a different size is fitted to the canvas. Each colour is changed to the nearest colour you can paint with right now, so carry the right pigments first. **Undo** puts the canvas back.
+- The painter of a finished painting or drawing can open its code with **Design code** under the full-size picture. Nobody else sees it.
+
+Importing doesn't skip anything: you still need the canvas, the pigments are still used when you finish, and finished paintings still count toward the land's limit.
+
 ## Good to know
 
 - Each land has room for about 300 finished wall and gallery paintings. Small paintings count as a quarter of one.

@@ -149,6 +149,20 @@ and collects bark. Bark soaks into tannin for
 </tbody>
 </table>
 
+## Custom flags
+
+A **custom flag maker** is crafted from 4 cloth (Banners & Flags, needs Regalia &
+Heraldry). Use it in your hand and choose **Design it** to pick a background,
+halves, thirds, a cross, a saltire and a symbol, then name the flag. It hangs
+where you stand. To dress a flagpole instead, use the flag maker or 5 cloth on
+it, then click the flag to pick its cloth colour, symbol and symbol colour.
+
+Every finished flag has a **design code**, a short line of text starting with
+`C13FLAG/` (hanging flags) or `C13POLE/` (flagpoles). Right-click the flag and
+choose **Show Design Code** to copy it. To make the same flag again, choose
+**Use a design code** on a new flag maker, or on a blank flag on a pole, and
+paste it in.
+
 ## Tailoring your own clothes
 
 Design, cut and sew clothing, overclothes and hats in your own colours. You need
@@ -257,6 +271,14 @@ choose **Pattern book** to save the current design, copy a saved design onto
 the project or remove one. Using a sewing pattern in hand also offers to copy
 it into your book. Loading a design from the book needs the same knowledge as
 loading a pattern.
+
+The pattern book can also give a design as a **design code**, a short line of
+text starting with `C13CLOTH/` that you can keep outside the game or send to a
+friend. Choose **Copy a design code** and pick the design, or use a sewing
+pattern in hand and choose **Show design code**. To use one, open **Pattern
+book** on an uncut project and choose **Paste a design code**. The design goes
+onto the project as if you had loaded a pattern, so you still need the
+knowledge for that garment, its pieces and its dyes.
 
 Stand still and keep the project in your hand while cutting or sewing. If you
 are interrupted, the project and any finished cutting are kept, so just start
