@@ -60,6 +60,22 @@ Gear sets, shafts, bearings, springs and drive belts are items you make from a m
 
 Wooden parts are the cheapest and the weakest: a wooden gear set does about two fifths of the work of a steel one and wears out five times as fast. Bronze and brass come close to iron. Metals that are too soft, such as lead, tin and gold, cannot be made into gears, shafts or bearings at all. Carving parts by hand needs Basic Toolmaking; springs need Bronze Working.
 
+## Lathes
+
+A part you carve, forge or cast is **rough**. A lathe makes **precise** parts; examine a part to see which it is.
+
+| Lathe | Research | Built from | Cuts | You also need |
+| --- | --- | --- | --- | --- |
+| Pole lathe | Workshops | 8 wood and 2 rope | Wood, bone and brass | A chisel held, worn or at your feet |
+| Engine lathe | Machined Tools | 12 iron, plus a gear set, a shaft and 2 bearings of any material, with a wrench | Copper, bronze, brass, iron and steel | Nothing; it works twice as fast |
+
+Both are in the **Economy & production** crafting menu of their main material and are fastened down with a wrench like other workshop machines. The parts that go into an engine lathe can be rough, so you never need a lathe to build your first one.
+
+- **Turn a new part:** use a stack of the material on the lathe and pick a gear set (4), shaft (2) or bearing (2).
+- **True a rough part:** use a rough gear set, shaft or bearing on the lathe. It keeps its material and becomes precise.
+
+Springs, drive belts and chains are never turned.
+
 ## Sparks
 
 Iron, steel and flint throw sparks. If you strike a barrel that holds gunpowder or fuel with a tool made of one of them while on **Harm intent**, there is a small chance each blow sets it off. Tools of bronze, copper, wood and bone never spark, so keep a bronze or copper set for work around powder and fuel. Examine a barrel to see whether its contents are dangerous. Filling, pouring and carrying a barrel are always safe.
