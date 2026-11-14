@@ -179,3 +179,14 @@ Using iron, steel, bronze or kevlar sheets on an anvil opens the **Crafting wind
 </tr>
 </tbody>
 </table>
+
+### Trip hammer
+
+<img src="../images/Trip_hammer.png">
+
+A **trip hammer** is a heavy hammer lifted by a turning shaft and dropped on the work. Fastened next to an anvil, it **halves the time of everything you forge there**, though no piece takes less than a second.
+
+- Build it from **10 wood**, with **6 iron** and **1 shaft** held or at your feet. You need to know **Watermills**.
+- Stand it next to the anvil and fasten it with a wrench.
+- It only strikes while a treadwheel, horse gin, mill wheel or windmill is turning next to it. See [Mechanical power](Guide_to_Pottery_and_Lime.md#mechanical-power).
+- Click it with an empty hand, or examine it, to see whether it is striking.

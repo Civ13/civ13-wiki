@@ -80,3 +80,5 @@ Each mover is built from wood plus [machine parts](Guide_to_Tool_Materials.md) o
 - If two movers reach the same machine, the faster one counts.
 
 Hit a mover with a hammer on **Harm intent** to take it apart. Movers are too heavy to pull up a ladder.
+
+The same movers drive a [trip hammer](Guide_to_Metallurgy.md#trip-hammer) beside an anvil.
