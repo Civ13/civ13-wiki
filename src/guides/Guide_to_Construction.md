@@ -977,6 +977,15 @@ A **treadwheel crane** hoists the same way but reaches **3 tiles**. It takes 16 
 
 A treadwheel, horse gin, mill wheel or windmill turning next to the legs or the crane speeds every haul. See [Mechanical power](Guide_to_Pottery_and_Lime.md#mechanical-power).
 
+Two later cranes carry their own engine. They only haul while they have fuel, each haul burns a little, and a haul takes about a third of the usual time.
+
+| | Crane | Made from | Research | Reach | Fuel |
+| --- | --- | --- | --- | --- | --- |
+| <img src="../images/Steam_crane.png"> | **Steam crane** | 20 iron, 1 gear set, 1 shaft, 2 bearings | Steam Power | 4 tiles, one level up or down | coal, charcoal, wood, planks or bamboo used on the crane. One coal pays for 4 hauls, one charcoal for 3, one piece of wood for 1. It holds 40 hauls. |
+| <img src="../images/Tower_crane.png"> | **Tower crane** | 30 steel, 2 gear sets, 1 shaft, 2 bearings | Modern Construction | 6 tiles, up to **3 levels** up or down | diesel, biodiesel or gasoline poured from a container used on the crane. A haul burns 5 units. It holds 60 hauls. |
+
+With the tower crane, drag the load onto it and pick how many levels to raise or lower it. The load only travels through open air: every level it passes on the way up must be open above the load, and on the way down it follows a gap in the floors within reach of the crane. Examine either crane to see how many hauls of fuel it has left.
+
 #### Building out over water
 
 A wooden pier or trestle bridge can cross shallow water once you have a **pile driver** (14 wood, Imperial Architecture) and **timber pier spans** (8 wood each). Deep water needs steel or concrete spans. See [Bridges over water](Guide_to_Trains.md#bridges-over-water) for how to lay them.
