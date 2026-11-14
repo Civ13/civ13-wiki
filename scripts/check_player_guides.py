@@ -23,6 +23,10 @@ PAGES = ('index.md', 'New_Player_Guide.md', 'guides/Guide_to_Chemistry.md',
 
 
 def check_public_content(page, source):
+    # Owner-requested server policy is not a gameplay-availability claim.
+    # Keep the general guide restriction and the private endpoint check intact.
+    if page in ('rules/Rules.md', 'rules/Persistence.md'):
+        source = source.replace('Persistence', 'the server')
     # The authored beta map is an explicitly labeled archive entry, not a claim
     # that the Persistence game feature is available on the public server.
     if page in ('maps_overview.md', 'maps/Nomads_Maps.md'):
