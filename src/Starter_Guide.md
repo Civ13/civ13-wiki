@@ -33,7 +33,7 @@ Click a recipe to see it on the right: what it needs, the tools, how long it tak
 
 For recipes you make often, press **Pin this recipe** on the recipe's card. Pinned recipes, and the ones you made recently, appear as shortcuts above the list whenever you hold that material.
 
-You do not have to hold the material. Press **Shift+C** in Hotkey Mode (**Ctrl+Shift+C** in typing mode), or use **Craft With Nearby Materials** in the IC tab, to open the window for the materials in either hand and lying on the tiles around you. A row at the top lists them; click one to switch to it. This keeps your hands free for tools and second materials.
+You do not have to hold the material. Click the **Craft** button on your HUD (a hammer over an anvil), press **Shift+C** in Hotkey Mode (**Ctrl+Shift+C** in typing mode), or use **Craft With Nearby Materials** in the IC tab, to open the window for the materials in either hand and lying on the tiles around you. A row at the top lists them; click one to switch to it. This keeps your hands free for tools and second materials.
 
 If you prefer the older plain list, press **Classic interface** at the top of the window.
 
