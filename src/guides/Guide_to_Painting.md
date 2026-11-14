@@ -39,6 +39,12 @@ To paint a wall canvas, put it on the easel by clicking the easel with it. Then 
 
 **Save** keeps your work so you can come back to it later. **Finish** asks for a title and locks the painting for good, so it can't be changed afterwards.
 
+## Rock art
+
+You can paint straight onto natural rock, such as a cave wall or a cliff, with the same pigments and no canvas or easel. Stand right in front of the rock, facing it squarely, and use a pigment on it. The painting window opens. Anything left in the base colour stays bare stone, so only your paint shows.
+
+Only someone standing on that spot can paint there. Use a pigment on the rock again to carry on with an unfinished painting. A finished rock painting can be scraped off with a chisel or hammer. Finishing one is a deed you can carve into your tribe's totem pole (see [Tribal Life](Guide_to_Tribal_Life.md)).
+
 ## Showing your work
 
 - **Locket.** Click a necklace with a finished miniature to set it in as a locket. A necklace can hold either a gemstone or a locket, not both. When you wear it, the picture shows on your chest. Use **Take Out Miniature** to remove it.
