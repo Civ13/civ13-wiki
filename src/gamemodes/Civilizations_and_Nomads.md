@@ -86,7 +86,7 @@ Work smart, not hard!
 
 #### Starting with your faction
 
-Once you have joined a faction in character, your new characters can start with it. When you join the round on a map with random starting places, you are asked whether to start **in the wilds, as a nomad** or **with** your faction. Choosing your faction starts you beside one of its [recruitment stations](#recruitment-stations), already a member. You cannot start with a faction you have never joined in play, and the faction needs a placed recruitment station with free space beside it.
+Once you have joined a faction in character, your new characters can start with it. When you join the round, you are asked whether to start **here, on your own** or **with** your faction. Choosing your faction starts you beside one of its [recruitment stations](#recruitment-stations), already a member. You cannot start with a faction you have never joined in play, and the faction needs a placed recruitment station with free space beside it.
 
 #### Recruitment stations
 
