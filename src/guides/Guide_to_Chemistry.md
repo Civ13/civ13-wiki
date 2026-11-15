@@ -65,7 +65,7 @@ Pipe networks, pumps, holding tanks, reaction vessels, bottlers and the automati
 
 Secure it with a wrench and [connect cable power](Guide_to_Crafting.md#wiring). It needs **30 kW**, so a single [battery](Guide_to_Power.md) is insufficient. Your character must meet its medical skill requirement to load and operate it.
 
-Pour the input into the centrifuge; each container interaction transfers up to 10 units. Install an **empty vial** as collector, then click the machine to begin its **15-second** cycle. Power is checked at start and completion. Use **Remove Vial** after it stops.
+Take the lid off before pouring: a lidded beaker or vial cannot pour in or collect. Pour the input into the centrifuge; each container interaction transfers up to 10 units. Install an open, **empty vial** as collector, then click the machine to begin its **15-second** cycle. Power is checked at start and completion, and the centrifuge only holds its 30 kW on the grid while a cycle is running. Use **Remove Vial** after it stops.
 
 The largest reagent in the mixture determines the separation: unpurified gelatin yields 80% purified gelatin; 10 blood yields 6 plasma, 3 red-cell reagent and 1 white-cell reagent; salt yields equal sodium/chlorine fractions. Capacity limits the processed amount, leaving excess input for later. Unsupported input, unavailable collector space or lost power preserves the input. Salt fractions can react again in ordinary containers; use an inert bench for elemental feedstocks.
 
