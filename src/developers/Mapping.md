@@ -83,7 +83,7 @@ and the contributor notes on [seasons](https://github.com/Civ13/Civ13/blob/fa363
 and [weather policy](https://github.com/Civ13/Civ13/blob/fa363b8a01ed7d936c10a6303ce1be4c26d82ab0/docs/weather-policy.md).
 
 Check gameplay consumers of those fields. Outdoor crop behavior has an explicit
-map-ID gate for Continental, Pangea, New World, Mediterranean, Europe and Gaia;
+map-ID gate for Continental, Pangea, New World, Mediterranean, Europe, Gaia and both Americas maps;
 matching the grass sprite on another map does not grant the same farming rules.
 Use the [outdoor crop bootstrap trace](https://github.com/Civ13/Civ13/blob/fa363b8a01ed7d936c10a6303ce1be4c26d82ab0/docs/outdoor-crop-bootstrap.md)
 when designing that resource chain.

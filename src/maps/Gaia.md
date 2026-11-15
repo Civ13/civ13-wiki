@@ -4,6 +4,8 @@ Gaia is the authored Nomads map named **Nomads (Gaia)**. Its surface is **z=2**;
 
 **Map status:** Authored variant, outside the standard Nomads map-vote list. The authored layout shown here does not establish which map is currently hosted.
 
+Gaia is one of the persistent lands in the same group as [North and South America](The_Americas.md), but new characters no longer start here: they start in North America. Reach Gaia as described in [Travel Between Lands](../guides/Guide_to_Travel.md).
+
 ## Map layout
 
 <figure>
@@ -13,58 +15,19 @@ Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/do
 </figcaption>
 </figure>
 
+## What Gaia has that the Americas do not
+
+- **An underground level** (z=1) below the surface, with rock to mine.
+- **Taller buildings.** A roof can carry up to four floors above the ground.
+- **A seabed under the deep ocean**, so [submarines](../guides/Guide_to_Boats.md#submarines) can dive, and [aircraft carriers](../guides/Guide_to_Aircraft_Carriers.md) and freighters with a hold below the waterline can be built.
+
 ## Hills
 
 Gaia's surface has hills. Light comes from the north-west, so slopes facing north-west are lighter and slopes facing south-east are in shadow. Flat ground, water and beaches are not shaded.
 
 The land follows the map. Beaches and marshes are low and flat, and the coastal plain behind them rolls into gentle hills. The rocky ranges are high plateaus: where a range stands close to the sea its sides are steep, a hard climb of a few tiles, while from inland and through the passes at the ends of a range the climb is long and gentle. Rocky shores can be cliffs, rivers run through gorges with one high bank, the desert's lakes sit in craters with steep rims, and long ridges cross the larger continents with a steep face on one side and an easy slope on the other.
 
-Hills change how fast you walk:
-
-- Climbing is slow, and each extra level of steepness costs more than the last. A gentle slope of one level per tile takes about half again as long as flat ground, two levels more than twice as long, and the steepest grades on Gaia about four times as long.
-- Going downhill is quick: a gentle slope is about half again as fast as flat ground, and two levels per tile almost twice as fast. Drops steeper than that are picked down more carefully, so they are less of a gain.
-- When you hold a direction and slide freely, your pace follows the slope under you smoothly, not one tile at a time. Keep going downhill and you build momentum: you get faster still, and the speed carries you across a few tiles of flat ground and partway up the next rise. Stopping or turning back loses it. With Tap To Step, quick taps feel the slope one tile at a time.
-- Steep steps of three levels or more are tiring: scrambling up one spends some stamina, and the game tells you when you scramble up or pick your way down a steep slope.
-- Running down a steep drop of three levels or more can trip you. The steeper the drop, the more speed you carry and the more tired you are, the likelier you are to fall. You go down, roll on down the slope while it stays steep and get a few bruises for each tile you roll. Walking down a steep slope is always safe.
-
-For a long trip, going around a big hill can be faster than going over it, and a pass or a gentle inland slope is usually faster than scaling a range from its steep seaward side.
-
-The Europe, Jungle, Desert and Asia maps have hills too, designed from their terrain in the same way.
-
-Built floors and walls level the ground under them. Floors and roads you lay (wood, stone, tiles, dirt roads and the like) are not shaded, and walking onto, off or across them ignores the hill. Grass, dirt, snow, sand, rocky ground, gravel, mined floor and trenches keep it.
-
-Hills also block your view. Ridges, cliffs and plateau edges hide whatever is behind them, so you can't see past a ridge or onto a plateau well above your eyes. Gentle slopes and small rises don't: you see over a low rise, though the ground just behind a rise about your own height may be hidden while a person standing there still shows. From high ground you see further down the slopes. Lying down lowers your eyes and hides more. Tall things show over a crest before the ground they stand on, so you may see someone's head or a treetop beyond a ridge. From high ground you can also see over lower walls, fences and trees into the open ground beyond them; the ground right behind a wall stays hidden, and you never see into a roofed building this way.
-
-Bullets follow the hills too. A ridge between you and your target stops the shot, and a shot fired downhill that misses lands in the ground beyond. From well above them you can fire over lower cover, walls and people in your way, and over the roofs of buildings below you. On level ground cover works as usual. Hostile NPCs follow the same rule: they can't see you behind a ridge.
-
-On hilly maps bullets also drop with range. Each weapon is sighted for a set distance (rifles about 12 tiles, pistols about 7, shotguns and muskets about 6, bows about 5); beyond it the shot falls lower the further it goes. Where you click on your target sets your aim: click higher on a distant target to hold over, or the shot lands short. Shooting steeply down from high ground is more forgiving.
-
-### Tamping paths and grading hills
-
-Craft a **stone rammer** from 2 stone (Tools, once you have studied **Basic Toolmaking**). Click bare dirt with it to pound the tile into **tamped earth** in a few seconds; stronger characters work faster. Tamped earth keeps the shape of the hill, but climbing onto it is about half as hard, and it never turns to mud in the rain. Clear grass with a shovel first, and clear any snow; the rammer will not work on a tile with a crop or a floor on it. A shovel breaks tamped earth back into loose dirt.
-
-To change the ground itself, grade it one level at a time:
-
-- **Flatten with the rammer:** use the stone rammer on a dirt or tamped-earth tile that is higher than the tile you stand on. After about 10 seconds it is pounded one level lower, stays tamped, and the loose dirt piles up at your feet. Keep ramming until the tile is level with you. On level ground the rammer only tamps.
-- **Cut with a shovel:** use a shovel on **disarm** intent on dirt or tamped earth. After about 10 seconds the tile is one level lower and you get a pile of dirt on it.
-- **Fill:** put a pile of dirt on a tile and use the stone rammer on it. The dirt is packed in, the tile rises one level and becomes tamped earth. The rammer reminds you to do this when you tamp a spot lower than yours.
-
-Each tile can be dug down or built up by at most two levels from the natural ground, so ridges and cliffs can be eased but not removed. Ground next to water, or with snow, a floor, a crop or anything solid on it, cannot be graded. Levelling an area means planning cuts and fills and carrying dirt from the high spots to the low ones.
-
-### What slows you down
-
-Use the **Check Movement** verb (IC tab) to see what is slowing you and by how much. It lists each cause as a share of your normal step, gives your step time next to an unhindered one, says what the tile under you is and how high it stands, and shows how much each neighbouring tile rises or falls.
-
-The usual causes, roughly from largest to smallest:
-
-- **Hunger and thirst.** Until your food and water are each over about half full, you are slowed far more than by any gentle hill, and more the emptier you are.
-- **Hills.** Each level you climb in a tile costs more than the last: one level is about half again as slow as flat ground, two levels about twice as slow. Downhill is faster.
-- **Water, mud and snow.** Wading, flood water and flooded trenches are slow. Dirt and grass turn to mud in the rain in most climates. Snow slows you unless you wear snowshoes, and snowshoes are clumsy off the snow.
-- **Injuries and pain**: broken or missing limbs, unsplinted ribs, shock and heavy pain.
-- **Load and gear**: carrying a lot of weight, bulky armour or clothing, shields, a full backpack, wet clothes, or pulling or carrying something.
-- **Low mood**, drowsiness and some traits.
-
-**Making a fast path.** Tamping and grading make a hill easier, but they never make it flat: tamped earth keeps the hill and only halves the cost of climbing, and grading moves a tile at most two levels. For the fastest path, lay a floor or road over the ground (wood, stone, a dirt road and the like). Built ground counts as level, so walking onto, off or along it ignores the hill, and it never turns to mud. Where you can't build, tamp the uphill tiles and follow the gentlest slope.
+Walking speed on slopes, tripping, sight lines, bullet drop, tamping paths, grading hills and the **Check Movement** verb work the same way here as on the Americas: see [Hills](The_Americas.md#hills).
 
 ## Weather
 

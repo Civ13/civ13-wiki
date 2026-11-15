@@ -8,6 +8,7 @@ Maps are grouped the way the in-game map vote groups them: pick the era or mode 
 ## Nomads & Persistent Worlds
 
 - [Nomads Maps](maps/Nomads_Maps.md)
+- [North and South America](maps/The_Americas.md)
 - [Gaia](maps/Gaia.md)
 - [Wasteland](maps/Wasteland.md)
 

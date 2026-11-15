@@ -3,7 +3,7 @@
 Specialist traders are outside dealers who keep a trading post in your settlement. Each dealer takes only certain coins and buys and sells only certain kinds of goods. Use them to turn loot into coin, and coin into supplies you can't make yet.
 
 ```admonish info
-Trading posts are built on [Civilizations & Nomads](../gamemodes/Civilizations_and_Nomads.md) worlds, including Gaia and the other lands.
+Trading posts are built on [Civilizations & Nomads](../gamemodes/Civilizations_and_Nomads.md) worlds, including North and South America and the other lands.
 ```
 
 ## Getting started

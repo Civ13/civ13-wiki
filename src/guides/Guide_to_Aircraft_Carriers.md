@@ -1,6 +1,6 @@
 # Aircraft Carriers
 
-An aircraft carrier is a ship forty tiles long and nine wide that is laid down whole at a **shipyard office** and sails as one block across the ocean. It has three decks on three levels: a **hangar deck** below the waterline with six watertight compartments, the **flight deck** at the surface, which is a runway from stern to bow, and an **island** on the level above with the ship's wheel. [Light planes](Guide_to_Aircraft.md) take off from the deck, land on its arresting wires and ride two elevators down to the hangar. Carriers need a world with a level below the sea and open sky above it: at the moment that is **Gaia**, the main Nomads persistent world.
+An aircraft carrier is a ship forty tiles long and nine wide that is laid down whole at a **shipyard office** and sails as one block across the ocean. It has three decks on three levels: a **hangar deck** below the waterline with six watertight compartments, the **flight deck** at the surface, which is a runway from stern to bow, and an **island** on the level above with the ship's wheel. [Light planes](Guide_to_Aircraft.md) take off from the deck, land on its arresting wires and ride two elevators down to the hangar. Carriers need a world with a level below the sea and open sky above it: at the moment that is only **[Gaia](../maps/Gaia.md)**, one of the persistent lands. North and South America have no level below the sea.
 
 ## Research and materials
 

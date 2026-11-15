@@ -8,7 +8,7 @@ On a server that is not linked to other lands, trails lead nowhere and none of t
 
 Your character lives in one land at a time, its **home**.
 
-- **New characters start on the mainland.** To live anywhere else, travel there.
+- **New characters start on the mainland,** [North America](../maps/The_Americas.md). To live anywhere else, travel there.
 - If you join a land that is not your character's home, the game tells you which land your character belongs to and links you to it.
 - **Travelling moves your home** with your character.
 - **When you die,** your home stays in the land where you died if you have an assigned bed there, and your next character starts beside that bed. Without a bed, your home goes back to the mainland. Sleep in a free bed to make it yours (see [Saving your character](../Starter_Guide.md#saving-your-character)).
@@ -19,7 +19,7 @@ Open **OOC > Regions** (or press **Esc** and choose **Regions**) to see every la
 
 ## Talking to other lands
 
-**OOC chat is shared by every land in the group.** An OOC message you send shows in every other land too, marked with the name of the land it came from, such as **[Gaia]**. Lines from your own land have no mark. OOC from every land also reaches the community Discord, marked with its land; messages from Discord show in the OOC of every land. Everything said in character stays in its own land; radio reaches another land only through a working long-range relay station at both ends.
+**OOC chat is shared by every land in the group.** An OOC message you send shows in every other land too, marked with the name of the land it came from, such as **[North America]**. Lines from your own land have no mark. OOC from every land also reaches the community Discord, marked with its land; messages from Discord show in the OOC of every land. Everything said in character stays in its own land; radio reaches another land only through a working long-range relay station at both ends.
 
 ## Using a trail
 
