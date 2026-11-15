@@ -184,6 +184,7 @@ Left alone, your mood drifts toward a resting level. With nothing going for you 
 | A varied diet (see **Check Diet** in the IC tab) | Raises it somewhat |
 | Being clean | Raises it somewhat |
 | Being warm and dry | Raises it somewhat |
+| Ten minutes in clothes that suit the season and climate: warm layers such as a coat in the cold (and a warm hat where it is bitterly cold), light clothes and shoes in the heat, and no coat once it is mild | Raises it somewhat |
 | A roof over your head, or a lit fire to sit by at night | Raises it somewhat |
 | A tame animal close by, such as a dog, a horse or livestock | Raises it somewhat |
 | Art you can see nearby: paintings, rock art, statues and monuments | Raises it a little for each piece, up to three |
