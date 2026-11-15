@@ -62,6 +62,28 @@ On these lands a flushing toilet needs a drain, or it backs up onto the floor.
 - **Septic tanks** (6 concrete, **Public Health**). A sealed tank that takes the place of a cesspit. It fouls no wells, holds three times as much, and slowly digests what it holds, so it rarely needs digging out.
 - **Keep sewage away from wells.** A well fouls if an open ditch that carries waste runs within two tiles of it, if a cesspit holding waste is within two tiles, or if a drain empties into the water within four tiles. Covered stone drains do not foul anything along their length.
 
+## Aqueducts
+
+An aqueduct carries river water by gravity to a town below it. Every piece is built from the crafting menu once your people know **Irrigation**. Lay the pieces on touching tiles from the river to where the water is wanted.
+
+- **Intake** (4 stone). Build it on the bank of a river or lake. Sea and coast water won't do, and swamp water is foul.
+- **Noria** (12 wood). A water wheel set on a flowing river lifts the water two levels above the river. Still water doesn't turn it.
+- **Channel** (2 stone). The ordinary run along the ground. Water can't climb: it only flows into a channel on ground no higher than the water, and it settles to the ground's level as it goes.
+- **Arches** (5 stone) and **timber flume** (3 wood). Raised runs that keep the water at its level across a valley or low ground. People can walk underneath.
+- **Qanat shaft** (3 stone). An underground run that keeps the water's level through a hill.
+- **Clay pipe** (1 clay) and **lead pipe** (1 lead, **Sanitation**). Pipes carry water down a dip and back up to the level it came in at. Lead pipes slowly put lead into the water drawn from a fountain or tap beside them.
+
+Water reaches the pieces about once a minute, and everything beside a wet piece is fed:
+
+- A **public fountain** (6 stone) fills only from the aqueduct. Draw water with a bucket or drink from it.
+- A **water tap** (2 bronze, **Sanitation**) fills the same way and holds half as much.
+- A **public bath** (4 stone, **Hygiene**) fills and drains about five minutes after the water stops. Undress and bathe in it to get clean and in a better mood. A lit brazier or fire beside it warms the water for a better soak.
+- A **cistern** beside a channel fills up.
+- A **mill wheel** beside a channel turns as a mill race, even away from a river.
+- A clogged **sewer drain** beside a channel is flushed clear.
+
+Keep bodies and waste out of the channels. Anything rotting in a piece fouls all the water below it, and foul water from a fountain or bath can make people ill until the channel is cleaned. Breaking any piece cuts off the water to everything below it, so guard the line in a war.
+
 ## Rivers in flood
 
 - **Faster current.** A high river carries swimmers, empty rafts and anything left in the water twice as far. At low water the current is weak.
