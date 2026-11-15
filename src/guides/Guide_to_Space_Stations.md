@@ -1,6 +1,6 @@
 # Space Stations
 
-From 1969 a party can put its own space station in orbit, live aboard it, and grow it up, down and outward. A station is a set of sealed habitat modules on its own patch of orbit, with power, life support and a thruster that keeps it from sinking. Orbit is its own land in the region group, so you fly there the same way you fly to the Moon.
+From 1969 a party can put its own space station in orbit, live aboard it, and grow it up, down and outward. A station is a set of sealed habitat modules on its own patch of orbit, with power, life support and a thruster that keeps it from sinking. Orbit is its own land in the region group, so you fly there the same way you fly to [the Moon](Guide_to_the_Moon.md).
 
 ## Research
 
@@ -18,8 +18,8 @@ The station transceiver is researched like the long-range radio relay (see [Comm
 
 ## Getting to orbit
 
-1. Build a **launch pad** (40 steel) and use it to pick the orbit as its destination. An admin must approve the pad before anyone can fly.
-2. Build a **launch complex office** (40 steel) within 3 tiles of the approved pad. Use it to start your party's station project.
+1. Build a **launch pad** (40 steel) and use it to pick the orbit as its destination. The pad is ready at once.
+2. Build a **launch complex office** (40 steel) within 3 tiles of the pad. Use it to start your party's station project.
 3. Hand the office the materials: **180 steel, 40 glass, 40 copper and 60 electronics**. When the last of it is in, the station is ready on the pad.
 4. Members of the party use the office to fly up. The first member to arrive founds the station on a free part of orbit, and everyone after them arrives at the same hatch.
 
@@ -142,7 +142,7 @@ The **reusable rocket** (120 electronics) carries eight crew and a ten-item hold
 
 ## Cargo freighter (from 2013)
 
-The **cargo freighter** (60 electronics) is a rocket with no crew. It flies a hold of up to 20 items to another world for your party. Build it beside an approved launch pad and load the hold by using items on it. The hold takes the same goods as a lander's hold. Fill it with 200 units of rocket propellant or methalox, then use it and choose **Launch**. The freighter is used up.
+The **cargo freighter** (60 electronics) is a rocket with no crew. It flies a hold of up to 20 items to another world for your party. Build it beside a launch pad set for its destination and load the hold by using items on it. The hold takes the same goods as a lander's hold. Fill it with 200 units of rocket propellant or methalox, then use it and choose **Launch**. The freighter is used up.
 
 - **To orbit**, the cargo lands in a crate beside your station's return hatch.
 - **To another world**, it lands beside your party's launch complex office there, or at that world's usual arrival point.
@@ -154,7 +154,7 @@ A **freight dispatcher** (20 electronics) runs a launch pad as a standing route,
 
 ## Satellites
 
-A **satellite launcher** (50 electronics) puts one satellite into orbit for your world. Build a **ground station** (25 electronics) within 7 tiles of your launch pad. Point the approved pad at orbit, load a satellite into the launcher and fill it with 150 units of rocket propellant or methalox, then use it and choose **Launch**. The satellite then works through that ground station. A ground station holds one satellite of each kind.
+A **satellite launcher** (50 electronics) puts one satellite into orbit for your world. Build a **ground station** (25 electronics) within 7 tiles of your launch pad. Point the pad at orbit, load a satellite into the launcher and fill it with 150 units of rocket propellant or methalox, then use it and choose **Launch**. The satellite then works through that ground station. A ground station holds one satellite of each kind.
 
 | Satellite | From | What it does |
 | --- | --- | --- |

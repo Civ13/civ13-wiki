@@ -50,6 +50,7 @@ New to the game? Start with [How to Play](New_Player_Guide.md), then the [Starte
 - [Aircraft](guides/Guide_to_Aircraft.md)
 - [Aircraft Carriers](guides/Guide_to_Aircraft_Carriers.md)
 - [Space Stations](guides/Guide_to_Space_Stations.md)
+- [The Moon & Mars](guides/Guide_to_the_Moon.md)
 - [Travel Between Lands](guides/Guide_to_Travel.md)
 - [Map Making](guides/Guide_to_Map_Making.md)
 
