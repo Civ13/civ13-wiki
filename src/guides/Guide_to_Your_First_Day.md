@@ -76,7 +76,19 @@ With the axe you can chop trees for **wood logs**. A flint spearhead used on a s
 - **Drink straight from fresh water.** Click a river, lake or pond tile with an empty hand on **Grab intent**. Never drink salt water. Raw water can give you **cholera**: about a 15% chance per drink from ordinary water, 30% from jungle rivers and flooded ground, and 45% from swamps.
 - **Make it safe.** With Pottery & Cookware, make a **wooden mug** to drink from and a **bucket** to carry water. Boil water in a clay **cooking pot** on a campfire before drinking it. The [Starter Guide](../Starter_Guide.md#water) explains clay and boiling step by step.
 - **Milk** never needs boiling. Use a bucket on a cow, ewe or goat on **Help intent**.
-- **Wells** give clean water as long as nobody leaves dung within four tiles.
+- **Wells** give clean water as long as nobody leaves dung within four tiles. You can dig your own: see below.
+
+### Digging a well
+
+You do not need to find a puddle to have a well. Stand where you want it, use a **shovel** in your hand and choose **Well**. Each time you do, the hole goes one spit deeper and leaves a dirt pile, and you are told what the earth at the bottom is like: **dry** (water is a long way down, try lower ground), **damp** (a few spits more), **wet** (one more spit) or **water seeps in**.
+
+- **Where to dig.** Water lies about a spit under low ground beside rivers and lakes, and deeper the higher you climb: about one spit more for every two levels of hill. Desert and other dry country hold it deeper, jungle a little nearer the surface. Hilltops have none within reach.
+- **Waterhole.** A bare hole stands only **2 spits** deep. Its water is muddy, like a puddle's: boil it. It fills slowly.
+- **Timber-lined well.** Stand on the hole and build a **timber well lining** (4 wood, Primitive Construction). The water is clean, it fills twice as fast, and it can be dug to **5 spits**.
+- **Stone well.** Build a stone, sandstone or marble **well** on a waterhole or a timber well. It can be dug to **8 spits**.
+- **Deeper is safer.** A well holds more and refills faster the more water stands in it. A river in flood lifts the water in the wells near it and a low river drops it. A **dry season** or a **heat wave** draws the water down a spit, so a well that only just reaches water goes dry then; one dug a spit or two past the water keeps going. Examine a well to see how deep it is and how much water stands in it.
+- **Deep water.** When the water is more than 2 spits down you cannot drink from your hands: lower a mug or a bucket.
+- Use the shovel on a well to dig it deeper or to fill it in.
 
 If you catch cholera, see [Medical](Guide_to_Medical.md#diseases).
 
