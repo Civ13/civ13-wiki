@@ -183,11 +183,14 @@ Left alone, your mood drifts toward a resting level. With nothing going for you 
 | A varied diet (see **Check Diet** in the IC tab) | Raises it somewhat |
 | Being clean | Raises it somewhat |
 | Being warm and dry | Raises it somewhat |
+| A roof over your head, or a lit fire to sit by at night | Raises it somewhat |
+| A tame animal close by, such as a dog, a horse or livestock | Raises it somewhat |
+| Art you can see nearby: paintings, rock art, statues and monuments | Raises it a little for each piece, up to three |
 | Being filthy, or having fleas | Lowers it |
 | Being sick, or in lasting pain | Lowers it |
 | Going hungry or thirsty | Lowers it a lot |
 
-A bed, a varied diet, regular washing and dry clothes together are enough to rest in a good mood. Being only a bit dirty neither helps nor hurts.
+A bed, a varied diet, regular washing and dry clothes together are enough to rest in a good mood. Being only a bit dirty neither helps nor hurts. A home with a roof, an animal and some art on the walls takes it as high as living conditions can.
 
 #### Lifting your mood for a while
 
@@ -196,8 +199,10 @@ These lift your mood on top of the resting level. A modest lift fades slowly, ov
 1. Good **[complex foods](guides/Guide_to_Cooking.md)** like boiled rice, roasted meat steak, noodles, and sandwiches.
 2. Washing with soap, and a soak in a bath, especially a warm one.
 3. Music, a board game with someone, a shared feast, and herb teas.
-4. Smoking tobacco.
-5. Drugs, such as cocaine and opium. They lift mood the most, but the high is short and they are addictive.
+4. Reading a book that has some real writing in it, about once every twenty minutes.
+5. Eating food you like next to a table, about once every ten minutes.
+6. Smoking tobacco.
+7. Drugs, such as cocaine and opium. They lift mood the most, but the high is short and they are addictive.
 
 Things that can decrease mood:
 
