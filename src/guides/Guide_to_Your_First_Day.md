@@ -33,7 +33,7 @@ A short [in-game tutorial](../New_Player_Guide.md#in-game-tutorial) runs on your
 
 Every recipe belongs to a chapter, such as **Basic Toolmaking** or **Basic Furniture**. You learn a chapter by studying it from a book. There are three ways to get one:
 
-1. **Found your own faction.** Open the **Faction** tab and use **Create Faction**. Pick a name, draw a symbol if you like, then press **Found the faction**. The founder immediately gets the **Stone Age master book**, which holds every Stone Age chapter, and a **pencil**. You can do this alone; you don't need other players.
+1. **Found your own faction.** Open the **Faction** tab and use **Create Faction**. Pick a name, draw a symbol if you like, then press **Found the faction**. The founder immediately gets the **Stone Age master book**, which holds every Stone Age chapter, and a **writing slate**. You can do this alone; you don't need other players.
 2. **Join someone who has a book.** A book isn't used up by studying, so one book can teach a whole tribe. Ask a faction to lend you theirs, or to let you study from it on their research bench. If they know a chapter, they can stand beside you while you study it to make it faster.
 3. **Buy or trade for one.** Books and single chapter pages are ordinary items. Anyone can rip a chapter out of a book and sell, swap or give it away.
 
