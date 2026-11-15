@@ -589,7 +589,7 @@ Every land has its own riches. Smaller lands are richer in ore and more often hi
 
 The continents lie across the sea from one another, and a ship can carry you between them. Every continent has a coast: North and South America, Gaia, Europe, Asia, the Desert (its north coast) and the Jungle (its west coast). Bring a ship you [built yourself](#building-your-own-hull) within 4 tiles of the map edge, click the tiller and choose **Set out on a voyage**. Every other continent is at the top of the list, with its direction and how long the voyage takes. Gaia is about 6 minutes from North America under sail, Europe 5 from Gaia and Asia 7 from Europe; engines are faster.
 
-The usual voyage rules apply: she needs a rigged mast or a running engine, and food for everyone aboard. One sailor is enough. She arrives anchored off the coast that faces where you came from. Your character lives in the land you sail to from then on; sail back to return.
+The usual voyage rules apply: she needs a rigged mast or a running engine, and food for everyone aboard. One sailor is enough. Everything aboard sails with her: what the crew wear and carry, loose gear on her deck and whatever is in her chests. Only animals, bodies and things that are not items (such as a barrel standing on deck) have to be put ashore first; the tiller names them and points them out on deck. She arrives anchored off the coast that faces where you came from. Your character lives in the land you sail to from then on; sail back to return.
 
 ### Settle, claim or abandon
 
