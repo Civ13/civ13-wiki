@@ -44,6 +44,18 @@ or your connection may have dropped. If the server was only busy, a green
 **Connection restored** line follows once it answers again. If no restored
 line comes, reconnect.
 
+## As a ghost
+
+Ghosts can hear and see more than the living. Three settings in
+**Preferences** choose how far that reaches:
+
+- **Ghost ears**: hear all speech, or only speech nearby.
+- **Ghost sight**: see every emote on the map, or only emotes nearby.
+- **Ghost animal noises**: hear animals from everywhere, or only animals
+  near you. Turn this to **Nearby** to keep seeing every player emote without
+  the barking, mooing and chirping from across the map. The **Toggle Animal
+  Noises** verb in the **Ghost** tab switches it quickly.
+
 ## Tips
 
 - A **Combat** tab with only "warnings and combat" ticked makes it easier to
