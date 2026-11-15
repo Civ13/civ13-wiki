@@ -9,7 +9,7 @@ power.
 
 In the default global catalog, **2 raw wood** makes a wooden knife. A Stone Age hatchet costs **2 stone** through baseline Basic Tools; use it to split **2 raw wood into 1 plank**. A starter research bench costs **8 planks**. At a tier-zero bench, **Basic Agriculture** has no prerequisite and costs **95 study ticks**, unlocking the **4-plank wooden plough**. Faction permissions, bench upgrades, map catalogs and skills still apply. Established factions do not gain this research merely because another faction advances the era.
 
-Use a knife on a small bush with **Help intent** for random seeds; the bush regrows its seed supply after **10 minutes**. Continental, Pangea, New World, Mediterranean, Gaia, Europe, North America and South America use biome seed catalogs when this forage route is present. Pangea also has placed seed stacks; check actual resources on your map. Healing herbs use jungle-bush forage or planting a herb stack, consuming one herb, rather than random herb seeds. Seeds still need suitable soil, biome and season.
+Use a knife on a small bush with **Help intent** for random seeds; the bush regrows its seed supply after **10 minutes**. Continental, Pangea, New World, Mediterranean, Gaia, Europe, Asia, North America and South America use biome seed catalogs when this forage route is present. Pangea also has placed seed stacks; check actual resources on your map. Healing herbs use jungle-bush forage or planting a herb stack, consuming one herb, rather than random herb seeds. Seeds still need suitable soil, biome and season.
 
 ### Wild plants
 
@@ -228,7 +228,7 @@ Each harvest also trains farming, and a skilled farmer gathers more. Above 1.0 s
 Different biomes have different plants that could be cultivated in them.
 Take notice, that some plants grow only in certain seasons. Biome
 restriction applies on Continental, Pangea, New World, Mediterranean, Europe,
-Gaia, North America and South America. Check the crop's listed biomes and seasons on these maps.
+Asia, Gaia, North America and South America. Check the crop's listed biomes and seasons on these maps.
 
 Wet (winter and spring) and dry (summer and fall) seasons apply to the
 Desert, Savanna and Jungles biomes.
