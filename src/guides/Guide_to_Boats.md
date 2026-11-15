@@ -508,7 +508,7 @@ Click the tiller to sail:
 | Choice | What it does |
 | --- | --- |
 | **Weigh anchor / Drop anchor** | A new hull lies at anchor and never moves until it is weighed |
-| **Slow ahead**, **Half ahead**, **Full ahead**, **All stop** | Under way she glides along her heading one tile at a time with every floor, wall, crate and person aboard: a tile every **15 seconds** at slow ahead, every **7.5** at half and every **5** at full. Half ahead needs sails, oars or an engine, full ahead needs engines or oars (below) |
+| **Slow ahead**, **Half ahead**, **Full ahead**, **All stop** | Under way she creeps smoothly along her heading with every floor, wall, crate and person aboard, and her crew can keep walking her deck as she goes: a tile every **15 seconds** at slow ahead, every **7.5** at half and every **5** at full. Half ahead needs sails, oars or an engine, full ahead needs engines or oars (below) |
 | **Head north / east / south / west** | She comes about around the tiller five seconds later; everything aboard turns with her |
 | **Sea chart** | Where she is, the ships her lookout sees and every harbour on this sea (see [Harbours and the sea chart](#harbours-and-the-sea-chart)) |
 | **Make for a berth** | Slides her alongside a mooring post within 20 tiles |
