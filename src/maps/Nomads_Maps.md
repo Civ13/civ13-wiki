@@ -1,6 +1,6 @@
 # Nomads Maps
 
-Europe, Jungle, Desert and Asia are also persistent lands, in the same group as [North and South America](The_Americas.md) and [Gaia](Gaia.md). Each keeps its own world and research, its rivers rise and flood (see [Rivers & Floods](../guides/Guide_to_Floods.md)), and you reach it by trail (see [The lands](../guides/Guide_to_Travel.md#the-lands)).
+Europe, Jungle, Desert and Asia are also persistent lands, in the same group as [North and South America](The_Americas.md) and [Gaia](Gaia.md). Each keeps its own world and research, and rivers rise and flood on all but the Desert, which has none (see [Rivers & Floods](../guides/Guide_to_Floods.md)), and you reach it by trail (see [The lands](../guides/Guide_to_Travel.md#the-lands)).
 
 ## Temperate
 
@@ -37,6 +37,7 @@ Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/do
   - You may encounter mice, bears, goats, snakes, frogs, leeches,
     horses, camels, and alligators.
   - The round always starts in the Wet Season.
+  - On the persistent Desert land, roofs carry up to four floors and planes fly on the air level above. The Desert land has no rivers.
   - The desert has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [North and South America](The_Americas.md#hills).
 
 ## Jungle
@@ -52,6 +53,8 @@ A dense tropical rainforest. You can only farm on the floodplains and during the
 season. Wildlife is deadly here\! Stay away from panthers, mosquitoes
 (as they carry malaria) and ants (will eat your food). Crossing rivers
 without a bridge is considered unsafe - piranhas are abundant.
+
+On the persistent Jungle land, roofs carry up to four floors and planes fly on the air level above.
 
 The jungle has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [North and South America](The_Americas.md#hills).
 
@@ -195,6 +198,8 @@ Section of Nomads_World project (3/4).
 Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/nomads_asia__z01__full.png">z=1 (15680 × 8160 PNG)</a>.
 </figcaption>
 </figure>
+
+Asia is a persistent land. Roofs carry up to four floors, planes fly on the air level above, and mined-out mountain floor keeps giving stone and regrowing ore seams, as on [North and South America](The_Americas.md). Crops, mushrooms and wild seeds follow climate and season, as on Gaia and Europe.
 
 Asia has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [North and South America](The_Americas.md#hills).
 

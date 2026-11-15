@@ -20,10 +20,11 @@ Your character lives in one land at a time, its **home**.
 | [North America](../maps/The_Americas.md) | The mainland. New characters start here. One surface level with hills, rivers that flood and one level of open air above for upper floors and flight. | You start here. |
 | [South America](../maps/The_Americas.md) | The southern half of the same continent, built the same way. | Walk south across the isthmus (see [Walking between North and South America](../maps/The_Americas.md#walking-between-north-and-south-america)). |
 | [Gaia](../maps/Gaia.md) | A land of several continents across the sea to the east, with hills, flooding rivers, a level underground, a seabed for submarines and buildings up to four floors high. | Sail there from the east coast of either America (see [Sailing between the Americas and Gaia](Guide_to_Boats.md#sailing-between-the-americas-and-gaia)), or take a trail. |
-| [Europe](../maps/Nomads_Maps.md#europe), [Jungle](../maps/Nomads_Maps.md#jungle), [Desert](../maps/Nomads_Maps.md#desert) and [Asia](../maps/Nomads_Maps.md#asia) | Lands of one climate each, with hills and their own plants and wildlife. Europe grows a cave level the first time someone digs down. | By trail (see [Marking out a new trail](#marking-out-a-new-trail)). |
+| [Europe](../maps/Nomads_Maps.md#europe), [Jungle](../maps/Nomads_Maps.md#jungle), [Desert](../maps/Nomads_Maps.md#desert) and [Asia](../maps/Nomads_Maps.md#asia) | Lands of one climate each, with hills and their own plants and wildlife. Asia, Jungle and Desert allow buildings up to four floors high and have an air level for planes; on Asia, mined-out mountain floor keeps giving stone and ore. Europe has no upper floors, but grows a cave level the first time someone digs down. | By trail (see [Marking out a new trail](#marking-out-a-new-trail)). |
 | New lands across the sea | Lands found by a ship's crew, which they can settle, claim or abandon. | A sea voyage (see [Voyages to new lands](Guide_to_Boats.md#voyages-to-new-lands)). |
 | Rail yard | Each party's own train berth. | Your party's train (see [Party trains](#party-trains)). |
-| Orbit, the Moon and Mars | Space: party stations in orbit, and two airless worlds to land on. | By rocket, from 1969 for orbit and the Moon and from 2026 for Mars (see [Space Stations](Guide_to_Space_Stations.md)). |
+| Orbit | Party space stations. | By rocket from a launch pad, from 1969 (see [Space Stations](Guide_to_Space_Stations.md)). |
+| The Moon and Mars | Two cold worlds to survey and settle in sealed habitats. | By rocket from a launch pad, from 1969 for the Moon and 2026 for Mars. No trail leads there (see [The Moon & Mars](Guide_to_the_Moon.md)). |
 | Raid worlds | Dangerous zones to loot and leave. Nobody lives there. | Through some trails (see [Raid worlds](#raid-worlds)). |
 
 Every land keeps its own research and its own era, so carry your books with you (see [What you can take](#what-you-can-take)).
@@ -73,7 +74,7 @@ Anyone can build a **trail marker** from **10 wood** (construction section). Tra
 2. The staff are asked to approve it. They may approve it, change where it leads, or reject it.
 3. Once approved, the marker opens and works like any other trail, both for leaving and for arriving travellers.
 
-Only the player who marked out a trail can change an unanswered request. You can have at most three trails waiting at once, and must wait about ten minutes between requests. Trail markers never lead to the rail yard; only a party's own train goes there.
+Only the player who marked out a trail can change an unanswered request. You can have at most three trails waiting at once, and must wait about ten minutes between requests. Trail markers only join lands on the same world: they never lead to the rail yard, orbit, the Moon or Mars.
 
 ## Factions and colonies
 

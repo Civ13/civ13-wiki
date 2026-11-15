@@ -32,7 +32,7 @@ Each ore in a rock wall rolls on its own, so one mined wall can drop several kin
 
 ## Old mountain floor and ore seams
 
-On the North and South America lands, the ground left behind once a mountain has been mined away is still worth working. Use a pickaxe on that bare floor. Each job takes twice as long as breaking a rock wall.
+On the North and South America and Asia lands, the ground left behind once a mountain has been mined away is still worth working. Use a pickaxe on that bare floor. Each job takes twice as long as breaking a rock wall.
 
 - Most of the old floor is bedrock and gives **6-10 stone** every time. It never runs out.
 - About one tile in twelve is an **ore seam**. Mining the rock above a seam reveals it ("A vein of copper runs on down into the floor here."), and a faint ore mark stays on the tile. Each job on a seam gives **4-8 ore** and some stone. Coal gives 8-12, saltpeter, sulphur and lead 3-4, and silver and gold 1-2.
