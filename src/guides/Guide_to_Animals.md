@@ -74,6 +74,7 @@ A **carriage** is pulled by a team of horses or oxen. It seats a driver and has 
 - **Hitch the team:** Drag a horse, cow or bull onto the carriage. A team is up to four animals of one kind, horses or oxen, and they stand in pairs in front of the carriage, so they need room there. Drag a hitched animal off the carriage to untie it.
 - **Drive:** Drag yourself onto the carriage to take the driver's bench. You are handed the **reins**.
   - Press **Z** (activate held object) with the reins to start at a walk, and again to trot or canter.
+  - The carriage, its team and a cart hitched behind it glide smoothly along rather than jumping from tile to tile.
   - Press **C** (secondary activation) to slow down, and again at a walk to stop.
   - The direction keys turn the carriage. It needs room for its new shape and its team to turn, and you must slow to a walk to turn it right round.
 - **Passengers and cargo:** Drag a person, a crate or a barrel onto the carriage to load it. Click the carriage with an empty hand to get off, or to take cargo off. You step down beside the carriage.
