@@ -179,6 +179,7 @@ Left alone, your mood drifts toward a resting level. With nothing going for you 
 | ---------------- | --------------------------- |
 | You last slept on a bedroll | Raises it a little |
 | You last slept in a proper bed | Raises it somewhat |
+| The bed was padded with cloth or leather | Raises it a little more |
 | The bed had a bedsheet on it | Raises it a little more |
 | A varied diet (see **Check Diet** in the IC tab) | Raises it somewhat |
 | Being clean | Raises it somewhat |
