@@ -47,7 +47,7 @@ The small sail is in the cloth (or wool) crafting menu, not in vehicle parts. En
 - **Rivers flow** on North America, South America, Gaia, Europe, Jungle and Asia. Every few seconds the current carries loose items and swimmers one tile downstream, but not boats or anyone aboard one. Animal carcasses stay where they fell, so you can butcher a kill in the shallows. Lakes and ponds are still. Faint streaks slide along flowing water to show which way it runs, and examining the water tells you too.
 - **The sea has currents** on North America, South America, Gaia, Europe and Asia. A belt of water a few tiles off the coast flows along the shore. See [Sea currents and swimming](#sea-currents-and-swimming).
 - Rafts and finished boats can't be pushed or pulled, so build them where you mean to launch them.
-- A flooded trench is navigable, but a boat can't cross a step where a canal goes up or down without a [pound lock](Guide_to_Trenches.md#pound-locks). Dig Dig a channel from a lake or the sea to a sheltered building spot, or around a ship to give it room to turn.
+- A flooded trench is navigable, but a boat can't cross a step where a canal goes up or down without a [pound lock](Guide_to_Trenches.md#pound-locks). Dig a channel from a lake or the sea to a sheltered building spot, or around a ship to give it room to turn.
 
 ## Lighthouses
 
