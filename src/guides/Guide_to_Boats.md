@@ -55,11 +55,13 @@ The small sail is in the cloth (or wool) crafting menu, not in vehicle parts. En
 
 **Swimming.** On the open-world maps you can walk out of your depth and swim in deep water. Swimming is tiring:
 
-- In calm water you can swim for about 50 seconds. In rain a little less, and in a storm about half as long.
-- You are warned when you are getting tired and again when you are nearly spent. If you are still in deep water after that you go under and start to drown.
-- Standing in the shallows, on land, or on a deck or raft gets your strength back in under half a minute.
+- In calm water an untrained swimmer lasts about 50 seconds. In rain a little less, and in a storm about half as long. Heavy armour or a bulky suit tires you faster.
+- You are warned when you are getting tired and again when you are nearly spent. After that you slip under and hold your breath: about 10 seconds for a beginner. Reach the shallows, a boat or a lifejacket in that time or you start to drown.
+- Standing in the shallows, on land, or on a deck or raft gets your strength and breath back.
 - A **lifejacket** keeps you afloat for as long as you like.
 - Anyone unconscious in deep water drowns straight away, so pull the wounded out.
+
+**The swimming skill.** Swimming is a skill like the others, shown in your Stats. It goes from 100 up to 250. A better swimmer tires more slowly (about 100 seconds afloat at 200), swims faster, gets their strength back sooner and holds their breath longer (up to a minute). You learn by swimming through new water while you play: floating on the spot or paddling up and down a pond teaches nothing. The first swim in a while in each kind of water (a river, the sea, a flood, a storm sea, the seabed) teaches a little extra, and swimming beside a better swimmer teaches twice as fast. It takes about an hour of real swimming to master, and becoming skilled, expert and a master at it each teach you Natural Science.
 
 Deep water is slow to cross, so that is not far. Swim to a nearby boat or across a channel, not across the sea. On battle maps deep water can't be entered at all.
 
@@ -379,6 +381,39 @@ To go deeper, build a **hard dive suit** (20 steel) and a **hard dive helmet** (
 **Getting out in trouble.** If you can't get back to your boat, use **Drop Weights and Ascend** (IC tab). After about 15 seconds you swim up to the open sea straight above, as long as nothing is floating there. The dress keeps you afloat and breathing while your air lasts, so swim for a boat or the shore.
 
 Anything you drop on the seabed stays where it fell.
+
+### Free diving
+
+You don't need a suit to visit the shelf. Swimming in the open sea, use **Dive** (IC tab) and after two seconds you are on the seabed straight below, holding your breath. You need to be rested: not nearly spent, and with your breath back from the last dive.
+
+- Your breath lasts as long as your swimming skill allows: about 10 seconds for a beginner, up to a minute for a master. You are warned when your chest starts to burn.
+- Down there you swim as fast as you do at the surface. Pick up whatever has sunk to the seabed: lost tools, cargo, weapons.
+- Anyone can reach the shelf. **Open water** needs a swimming skill of 200. The deep and the abyss are only for sealed suits.
+- Use **Surface** to swim back up: about 3 seconds from the shelf and 6 from open water, and it uses breath on the way.
+- If your breath runs out you claw your way up half drowned. Under a boat or raft there is no way up, so you drown where you are. Anyone who passes out down there drowns.
+
+Diving teaches swimming too, open water more than the shelf.
+
+### Scuba diving
+
+**Scuba Diving** research (it needs Submarines) unlocks lighter gear for swimming the seabed instead of walking it:
+
+- **Dive mask**: 2 glass.
+- **Swim fins**: 3 plastic. They make swimming and wading much faster but walking on land clumsy, so take them off ashore.
+- **Scuba set**: 6 steel. An air cylinder with a regulator, worn on your back. Refill it where you refill diving bottles.
+
+![Offline render using Civ13 sprites: the diving dress, the hard dive suit and the new scuba kit (dive mask, scuba set and swim fins) each seen from four sides, above the eight item icons](../images/civ13-scuba-gear-sprites.png)
+
+The third row is the scuba kit: dive mask, scuba set and swim fins.
+
+Wear the mask and a scuba set with air in it, then **Dive** from the open sea as a free diver would. You breathe from the set, so there is no breath to hold, and you can reach **open water** at any skill. The deep still needs a hard dive suit. A full set lasts about 10 minutes, longer for a good swimmer who breathes calmly (about 14 minutes at swimming skill 200). If it runs dry you are back to holding your breath.
+
+**The bends.** Breathing compressed air in open water builds up in your body. Coming straight up after a long dive out there gives you **the bends**: aching joints, failing strength, harm to the body, and after a bad case your legs give way. It can kill if you ignore it. Lying down helps it pass. To avoid it:
+
+- Spend time on the shelf on your way back. The shelf lets your body clear (a safety stop), and you are told when you have waited long enough.
+- Or use **Ascend Slowly** (IC tab) instead of Surface. You rise with a safety stop on the way, 20 seconds to a minute depending on how long you were down and how good a swimmer you are.
+
+Short dives and dives on the shelf never give you the bends.
 
 ### Sea life
 
