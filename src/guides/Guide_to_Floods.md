@@ -52,6 +52,9 @@ On these lands a flushing toilet needs a drain, or it backs up onto the floor.
 - **Stone drain.** A drain covered with stone slabs, built from 2 stone once your people know **Sanitation**. It joins ditches and other drains the same way.
 - **Where it goes.** Lay the drain from beside the toilet to a river, a lake or the sea, where it spills into the water, or to a **cesspit** (dig one with a shovel). A gap anywhere in the line stops the flow.
 - **Cesspits** fill up. Examine one to see how full it is, and dig it out with a shovel when it is full. What comes out is compost for your fields.
+- **Draining low ground.** A drain laid in a hollow carries away the rainwater pooled there, as long as it runs to a river, lake or sea. Ditches drain slowly, stone drains faster and **brick sewers** (3 stone bricks, once your people know **Imperial Architecture**) fastest. In a heavy storm a small drain can run full; toilets on it then back up for a while.
+- **Flap gates.** When the river floods over the end of a drain, it pushes back up the drain: low ground fills and toilets surge. Hang a **flap gate** (3 wood, **Sanitation**) on the end of the drain where it meets the water. It shuts against the river and opens again when the river falls.
+- **Clogs.** Drains silt up now and then; ditches most, brick sewers least. Examine a drain to see if it is choked, and dig it clear with a shovel.
 - **Keep sewage away from wells.** A well fouls if an open ditch that carries waste runs within two tiles of it, if a cesspit holding waste is within two tiles, or if a drain empties into the water within four tiles. Covered stone drains do not foul anything along their length.
 
 ## Rivers in flood
