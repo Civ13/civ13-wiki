@@ -32,10 +32,16 @@ The catch: if you fire from a trench while **prone**, your bullet hits the trenc
 
 ## Water in trenches
 
-On Nomads, Civilizations and colony maps, a trench dug next to water, or next to another flooded trench, floods. A flooded trench:
+On Nomads, Civilizations and colony maps, a trench dug next to water, or next to another flooded trench, floods, as long as that water stands at least as high as the trench's own ground. Water doesn't run uphill, so a canal can't climb a hill by itself. A flooded trench:
 
 - can be drunk from, or used to fill containers, though saltwater is not safe to drink;
 - lets boats travel through it, so you can dig a canal from the sea.
+
+A dry trench beside an [aqueduct](Guide_to_Floods.md#aqueducts) channel also floods, if the channel's water is at least as high, so you can feed a canal from higher ground.
+
+### Pound locks
+
+Where the ground steps up or down, a canal's water sits at two levels and no boat can cross the step. Build a **pound lock** (12 stone, Construction, needs **Wagons & Ships**) on the flooded canal tile at the step. The chamber stands at the lower or the upper level, and boats move between it and the side it matches. Click the lock and wait ten seconds to fill or empty it to the other level. Examine it to see which side it is open to. Several locks in a row climb several steps.
 
 For crops, use **irrigation channels** instead. They carry water without blocking movement. See [Farming](Guide_to_Farming.md#watering).
 

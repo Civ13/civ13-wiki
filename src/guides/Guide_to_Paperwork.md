@@ -17,6 +17,7 @@ Writing is performed on paper using any standard writing utensil.
   - **Pens** come in a few different colours, black or blue by default,
     and some departments are provided with red pens. Pens have a variety
     of functions!
+  - **Clay tablets** (1 clay, needs **Pottery & Cookware**) take writing like paper and can't burn. Write on one with a **reed stylus** (1 wood, same research) or any pen. Fire it in an oven or kiln and it bakes hard: the writing stays, but nothing more can be added.
   - **Crayons** work much like pens, except that they are always bold,
     and lack the list, horizontal rule, and small tags.
 

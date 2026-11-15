@@ -47,7 +47,11 @@ The small sail is in the cloth (or wool) crafting menu, not in vehicle parts. En
 - **Rivers flow** on North America, South America, Gaia, Europe, Jungle and Asia. Every few seconds the current carries loose items and swimmers one tile downstream, but not boats or anyone aboard one. Animal carcasses stay where they fell, so you can butcher a kill in the shallows. Lakes and ponds are still. Faint streaks slide along flowing water to show which way it runs, and examining the water tells you too.
 - **The sea has currents** on North America, South America, Gaia, Europe and Asia. A belt of water a few tiles off the coast flows along the shore. See [Sea currents and swimming](#sea-currents-and-swimming).
 - Rafts and finished boats can't be pushed or pulled, so build them where you mean to launch them.
-- A flooded trench is navigable. Dig a channel from a lake or the sea to a sheltered building spot, or around a ship to give it room to turn.
+- A flooded trench is navigable, but a boat can't cross a step where a canal goes up or down without a [pound lock](Guide_to_Trenches.md#pound-locks). Dig a channel from a lake or the sea to a sheltered building spot, or around a ship to give it room to turn.
+
+## Lighthouses
+
+A **lighthouse beacon** (4 iron, needs **Iron Smithing**) is a fire basket for the top of a tower. Feed it wood (10 minutes each) or coal and charcoal (20 minutes each), up to two hours, and light it with any open flame. At night everyone on water within 120 tiles is told which way the light lies, at most once every five minutes. A **reflector lamp** (6 bronze, needs **Optics and Instruments**) does the same out to 200 tiles. Wall it in with **lantern room glazing** (4 glass, needs **Glassworking**), a pane you can see through.
 
 ## Sea currents and swimming
 
