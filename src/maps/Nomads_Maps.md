@@ -38,6 +38,13 @@ Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/do
     horses, camels, and alligators.
   - The round always starts in the Wet Season.
   - On the persistent Desert land, roofs carry up to four floors and planes fly on the air level above. The Desert land has no rivers.
+  - The persistent Desert land has a sea coast along its north edge: open sea, a few tiles of shallows and a beach, where ships can land.
+
+<figure>
+<img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/coasts/desert_north_coast.png" width="675" height="675" loading="lazy" alt="Part of the Desert land's north edge: deep blue sea, a pale band of shallows and a sandy beach above dunes, oases and a rocky ridge">
+<figcaption>The Desert land's north coast.</figcaption>
+</figure>
+
   - The desert has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [North and South America](The_Americas.md#hills).
 
 ## Jungle
@@ -54,7 +61,12 @@ season. Wildlife is deadly here\! Stay away from panthers, mosquitoes
 (as they carry malaria) and ants (will eat your food). Crossing rivers
 without a bridge is considered unsafe - piranhas are abundant.
 
-On the persistent Jungle land, roofs carry up to four floors and planes fly on the air level above.
+On the persistent Jungle land, roofs carry up to four floors and planes fly on the air level above. Its west edge is a sea coast: open sea, a few tiles of shallows and a beach, where ships can land.
+
+<figure>
+<img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/coasts/jungle_west_coast.png" width="900" height="900" loading="lazy" alt="Part of the Jungle land's west edge: a strip of deep sea, shallows and beach beside jungle, rivers, lakes and rocky hills">
+<figcaption>The Jungle land's west coast.</figcaption>
+</figure>
 
 The jungle has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [North and South America](The_Americas.md#hills).
 
