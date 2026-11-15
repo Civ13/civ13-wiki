@@ -2,7 +2,7 @@
 
 North America and South America are the main persistent lands. Each is its own world on its own server, drawn loosely after the real continents, and the two meet at the isthmus. **New characters start in North America**, on a random patch of safe open ground, which can be one of the islands. South America is a walk away: head south down the isthmus and keep going. Both lands start in the Stone Age, and every recipe is studied from a book first; [Your First Day](../guides/Guide_to_Your_First_Day.md) walks a new character through it.
 
-[Gaia](Gaia.md) lies across the sea to the east: build a ship and sail there from either east coast (see [Sailing between the Americas and Gaia](../guides/Guide_to_Boats.md#sailing-between-the-americas-and-gaia)). The other lands are listed in [Travel Between Lands](../guides/Guide_to_Travel.md#the-lands).
+[Gaia](Gaia.md) lies across the sea to the east: build a ship and sail there from either east coast (see [Sailing between the continents](../guides/Guide_to_Boats.md#sailing-between-the-continents), or fly there: [Flying to another continent](../guides/Guide_to_Aircraft.md#flying-to-another-continent)). The other lands are listed in [Travel Between Lands](../guides/Guide_to_Travel.md#the-lands).
 
 ## The two lands
 

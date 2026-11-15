@@ -575,11 +575,11 @@ While she is at sea she lies at anchor off the coast and nobody steers. The till
 
 Every land has its own riches. Smaller lands are richer in ore and more often hide something rare, such as gems, a rich vein of gold or silver, or diamonds; larger lands grow food better. Each land is known for a few kinds of ore, which turn up as rich lodes when you mine there, and for a few kinds of game, which are plentiful there.
 
-### Sailing between the Americas and Gaia
+### Sailing between the continents
 
-Gaia lies across the sea to the east of the Americas, and the way there is by ship. Bring a ship you [built yourself](#building-your-own-hull) within 4 tiles of the edge of North or South America, click the tiller and choose **Set out on a voyage**. **Gaia** is at the top of the list, with how long the voyage takes: about 6 minutes from North America and 8 from South America under sail, less under engines. From Gaia, North and South America are on the same list.
+The continents lie across the sea from one another, and a ship can carry you between them. From west to east: North and South America, Gaia, Europe and Asia. Bring a ship you [built yourself](#building-your-own-hull) within 4 tiles of the map edge, click the tiller and choose **Set out on a voyage**. Every other continent with a coast is at the top of the list, with its direction and how long the voyage takes. Gaia is about 6 minutes from North America under sail, Europe 5 from Gaia and Asia 7 from Europe; engines are faster. The Jungle and the Desert have no sea coast, so they can only be reached overland or by [air](Guide_to_Aircraft.md#flying-to-another-continent).
 
-The usual voyage rules apply: she needs a rigged mast or a running engine, and food for everyone aboard. One sailor is enough for this crossing. She arrives anchored off Gaia's west coast, or off the east coast of the Americas on the way back. Your character lives in the land you sail to from then on; sail back to return.
+The usual voyage rules apply: she needs a rigged mast or a running engine, and food for everyone aboard. One sailor is enough. She arrives anchored off the coast that faces where you came from. Your character lives in the land you sail to from then on; sail back to return.
 
 ### Settle, claim or abandon
 
