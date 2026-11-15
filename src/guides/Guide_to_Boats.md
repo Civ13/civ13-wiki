@@ -577,7 +577,7 @@ Every land has its own riches. Smaller lands are richer in ore and more often hi
 
 ### Sailing between the continents
 
-The continents lie across the sea from one another, and a ship can carry you between them. From west to east: North and South America, Gaia, Europe and Asia. Bring a ship you [built yourself](#building-your-own-hull) within 4 tiles of the map edge, click the tiller and choose **Set out on a voyage**. Every other continent with a coast is at the top of the list, with its direction and how long the voyage takes. Gaia is about 6 minutes from North America under sail, Europe 5 from Gaia and Asia 7 from Europe; engines are faster. The Jungle and the Desert have no sea coast, so they can only be reached overland or by [air](Guide_to_Aircraft.md#flying-to-another-continent).
+The continents lie across the sea from one another, and a ship can carry you between them. Every continent has a coast: North and South America, Gaia, Europe, Asia, the Desert (its north coast) and the Jungle (its west coast). Bring a ship you [built yourself](#building-your-own-hull) within 4 tiles of the map edge, click the tiller and choose **Set out on a voyage**. Every other continent is at the top of the list, with its direction and how long the voyage takes. Gaia is about 6 minutes from North America under sail, Europe 5 from Gaia and Asia 7 from Europe; engines are faster.
 
 The usual voyage rules apply: she needs a rigged mast or a running engine, and food for everyone aboard. One sailor is enough. She arrives anchored off the coast that faces where you came from. Your character lives in the land you sail to from then on; sail back to return.
 
