@@ -68,22 +68,15 @@ You can set off only with a BYOND account (not as a guest), awake, at full healt
 
 ### What you can take
 
-Only things that can be rebuilt exactly at the other end travel. Everything must be worn, held or in a pocket or belt slot. A bag you wear or hold travels with what is in it, as long as everything inside could travel on its own; a bag inside a bag has to come out first.
+You take everything you wear, hold or carry in pockets, belt and bags, just as it is: clothing with its colours, accessories and anything in its pockets, filled waterskins and bottles, baskets and bags with whatever is inside (even a bag inside a bag), loaded guns, tools, books with their chapters and notes, ore, bones, coins and food, eaten or not.
 
-| Travels | Notes |
-| --- | --- |
-| Clothing | Except storage pieces such as webbing. |
-| Coins | Copper, silver and gold. |
-| Material stacks | Wood, stone, clay, rope, cloth, leather, copper, tin, bronze, zinc, brass, iron, steel, silver and gold. |
-| Medical stacks | Bruise packs, gauze, advanced trauma kits, advanced burn kits and splints. |
-| Packaged food and medicine | Snacks, canned drinks, plastic bottles, syringes and pills, but only untouched: not bitten, emptied or refilled. |
-| Common tools | Crowbar, wrench, screwdriver, wirecutters, welding tool and hammer. |
-| Tools and weapons made of a material | Knives, axes, pickaxes, shovels, swords, spears and the like keep their material, quality and wear, and an assembled tool keeps its head and handle. |
-| Research books | A subject book or a manual, as long as nothing has been written in it. |
-| Bags | Backpacks, pouches, quivers and other bags, with up to 60 things inside that could travel themselves. |
-| Guns and ammunition | Guns only when unloaded. Magazines travel when they hold nothing but live rounds of their own type. Loose arrows, bolts and cartridges travel when they are whole and unchanged (a poisoned or otherwise tipped arrow stays). |
+A few things stay behind:
 
-You can take at most 40 items. If something cannot travel, the trail lists what to leave behind first.
+- Animals. A creature carried in a bag cannot come; let it out first. When you walk over the edge of a land, a mount, one led animal and a cart can come along (see [Walking to a neighbouring land](#walking-to-a-neighbouring-land)).
+- Things that are not items, such as a barrel or a crate you are not pulling.
+- An unusually heavy load. You can take at most 40 worn or held things, and if all of it together is too much to send, the trail says so.
+
+If something cannot travel, the trail lists what to leave behind first.
 
 ## Marking out a new trail
 
