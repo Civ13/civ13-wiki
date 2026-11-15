@@ -51,7 +51,7 @@ line comes, reconnect.
 - Each kind of chat keeps its own recent history, so a busy fight will not
   push older OOC or dead chat lines out of their tabs.
 - On a server linked to other lands, OOC from another land shows that land's
-  name in brackets, such as **[Gaia]** (see [Travel Between Lands](Guide_to_Travel.md#talking-to-other-lands)).
+  name in brackets, such as **[North America]** (see [Travel Between Lands](Guide_to_Travel.md#talking-to-other-lands)).
 - Right-click someone next to you and choose **High Five** or **Fist Bump**. They answer by choosing the same on you within five seconds.
 - **IC > Emotes** opens a window of emote buttons. Emotes that need a target, such as *point or *hug, are still typed in Say.
 - See [Hotkeys](../Hotkeys.md) for the keys that open the chat input bar.

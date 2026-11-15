@@ -99,6 +99,7 @@
 - [Maps Overview](maps_overview.md)
     - [Nomads & Persistent Worlds]()
         - [Nomads Maps](maps/Nomads_Maps.md)
+        - [North and South America](maps/The_Americas.md)
         - [Gaia](maps/Gaia.md)
         - [Wasteland](maps/Wasteland.md)
     - [Colony & Pioneers]()

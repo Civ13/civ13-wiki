@@ -3,7 +3,7 @@
 On persistent worlds, knowledge is written down instead of handed out. Nobody can craft anything they haven't studied, research is written into books, and the world only leaves the Stone Age when someone discovers the way out. This guide covers studying, researching, writing and copying books, and the scholar's trade.
 
 ```admonish info
-This applies to persistent worlds such as [Gaia](../maps/Gaia.md) and the regions connected to it. Round maps such as [Civilizations & Nomads](../gamemodes/Civilizations_and_Nomads.md) still use the faction [Research](Guide_to_Research.md) tree. The node names, prerequisites and prototypes in that guide's [node reference](Guide_to_Research.md#full-node-reference) are the same here.
+This applies to persistent worlds such as [North and South America](../maps/The_Americas.md) and the other lands connected to them. Round maps such as [Civilizations & Nomads](../gamemodes/Civilizations_and_Nomads.md) still use the faction [Research](Guide_to_Research.md) tree. The node names, prerequisites and prototypes in that guide's [node reference](Guide_to_Research.md#full-node-reference) are the same here.
 ```
 
 ## Contents

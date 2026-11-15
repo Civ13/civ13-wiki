@@ -12,7 +12,7 @@ Civilization 13 (formerly 1713) is a free multiplayer game based on Space Statio
 
 <ol class="wiki-steps">
 <li><strong>Install BYOND</strong><p><a href="https://www.byond.com/download/">Download BYOND</a> and install the Windows client. BYOND lists Linux as a hosting platform rather than a game client; macOS is not listed as a supported player platform.</p></li>
-<li><strong>Learn the basics</strong><p><a href="rules/Rules.md">Read the server rules</a> and <a href="New_Player_Guide.md">learn how to play</a>. The <a href="Starter_Guide.md">Starter Guide</a> covers your first hour as a nomad, and <a href="guides/Guide_to_Your_First_Day.md">Your First Day</a> walks you through getting a research book, food, water and shelter on persistent worlds such as Gaia.</p></li>
+<li><strong>Learn the basics</strong><p><a href="rules/Rules.md">Read the server rules</a> and <a href="New_Player_Guide.md">learn how to play</a>. The <a href="Starter_Guide.md">Starter Guide</a> covers your first hour as a nomad, and <a href="guides/Guide_to_Your_First_Day.md">Your First Day</a> walks you through getting a research book, food, water and shelter on persistent worlds such as North and South America.</p></li>
 <li><strong>Choose a server</strong><p>These links open BYOND when the client is installed: <a href="byond://civ13.com:1715">Join RP / Nomads</a> or <a href="byond://civ13.com:1714">Join TDM</a>.</p></li>
 </ol>
 
@@ -55,6 +55,7 @@ Maps are grouped the way the in-game vote groups them. Each heading opens the ma
 <div class="wiki-map-grid">
 <section class="wiki-map-group"><h3><img src="images/icons/politician.png" alt="" width="36" height="36"><a href="maps_overview.md#nomads--persistent-worlds">Nomads & Persistent Worlds</a></h3><ul>
 <li data-type="RP"><a href="maps/Nomads_Maps.md">Nomads Maps</a></li>
+<li data-type="RP"><a href="maps/The_Americas.md">North and South America</a></li>
 <li data-type="RP"><a href="maps/Gaia.md">Gaia</a></li>
 <li data-type="RP"><a href="maps/Wasteland.md">Wasteland</a></li>
 </ul></section>

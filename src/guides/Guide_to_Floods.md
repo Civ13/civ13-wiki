@@ -1,6 +1,6 @@
 # Rivers & Floods
 
-On lands with hills, such as [Gaia](../maps/Gaia.md), rivers rise and fall. A long rain or a spring thaw can push a river over its banks and onto the low ground beside it. This page covers when rivers rise, what floodwater does to you, and how to keep your home out of it.
+On lands with hills, such as [North and South America](../maps/The_Americas.md), rivers rise and fall. A long rain or a spring thaw can push a river over its banks and onto the low ground beside it. This page covers when rivers rise, what floodwater does to you, and how to keep your home out of it.
 
 ## When rivers rise
 
@@ -70,7 +70,7 @@ On these lands a flushing toilet needs a drain, or it backs up onto the floor.
 ## Keeping dry
 
 - **Build high.** The banks just above a river are the first land to flood. A step or two of height keeps a home dry through most floods.
-- **Raise the ground.** Put a pile of dirt on a tile and pack it with a stone rammer to raise it one level (see [Gaia](../maps/Gaia.md)). Raised ground stays dry until the flood rises above its new height.
+- **Raise the ground.** Put a pile of dirt on a tile and pack it with a stone rammer to raise it one level (see [Tamping paths and grading hills](../maps/The_Americas.md#tamping-paths-and-grading-hills)). Raised ground stays dry until the flood rises above its new height.
 - **Build a wall.** A finished dirt, sandbag, rock or sandstone half-wall holds back floodwater one level higher than the ground it stands on, and a concrete half-wall a level and a half. A line of them along a bank keeps the land behind dry until the river rises over the top. A gap anywhere in the line lets the water through. Palisades let water pass between their stakes.
 - **Build on stilts or a plinth.** A **stilt platform** (4 wood, once your people know **Primitive Construction**) keeps everything on it dry until the water outside stands two levels deep. A **stone plinth** (4 stone, **Stone Masonry**) does the same for one level. Build your floors, walls and stores on top.
 - **Sluice gates.** A **sluice gate** (6 wood, **Irrigation**) set in a gap in a levee holds the river back like the bank around it while it is shut. Draw it up with an empty hand to let floodwater onto the fields behind on purpose: the water leaves fertile silt where it stands. Shut it again to keep the next flood out.

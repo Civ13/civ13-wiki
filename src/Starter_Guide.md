@@ -1,7 +1,7 @@
 # Starter Guide
 
 ```admonish info
-This guide mostly pertains to survival in the sandbox [Civilizations and Nomads](gamemodes/Civilizations_and_Nomads.md) game mode. On persistent worlds such as [Gaia](maps/Gaia.md), every recipe has to be studied from a book first: start with [Your First Day](guides/Guide_to_Your_First_Day.md).
+This guide mostly pertains to survival in the sandbox [Civilizations and Nomads](gamemodes/Civilizations_and_Nomads.md) game mode. On persistent worlds such as [North and South America](maps/The_Americas.md), every recipe has to be studied from a book first: start with [Your First Day](guides/Guide_to_Your_First_Day.md).
 ```
 
 ## Spawning in
@@ -322,7 +322,7 @@ The Status tab has some general info about the ongoing round, both OOC and IC:
 - time of day
 - current season, with how far into it you are and roughly how long until it changes
 - your **Diet energy** bonus (see [Balanced diet](guides/Guide_to_Cooking.md#balanced-diet))
-- on persistent worlds such as Gaia, **Last save**: when the world was last saved (UTC) and how long ago, shown under World activity and Joining
+- on persistent worlds such as North and South America, **Last save**: when the world was last saved (UTC) and how long ago, shown under World activity and Joining
 
 To see which version of the game the server runs, use the **Server Revision** verb in the OOC tab. It shows the commit (with a link to it on GitHub), what it changed, when the server was last updated and how long the world has been running.
 

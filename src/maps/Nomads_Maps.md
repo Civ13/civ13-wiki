@@ -35,7 +35,7 @@ Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/do
   - You may encounter mice, bears, goats, snakes, frogs, leeches,
     horses, camels, and alligators.
   - The round always starts in the Wet Season.
-  - The desert has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [Gaia](Gaia.md#hills).
+  - The desert has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [North and South America](The_Americas.md#hills).
 
 ## Jungle
 
@@ -51,7 +51,7 @@ season. Wildlife is deadly here\! Stay away from panthers, mosquitoes
 (as they carry malaria) and ants (will eat your food). Crossing rivers
 without a bridge is considered unsafe - piranhas are abundant.
 
-The jungle has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [Gaia](Gaia.md#hills).
+The jungle has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [North and South America](The_Americas.md#hills).
 
 ## Divide (Jungle-Desert)
 
@@ -151,7 +151,7 @@ There is even a temperate biome based off of central europe (France/Germany/nort
 
 Large rivers cover the continent and 7x7 water ways for bridges(tanks and cars) exist on the large rivers.
 
-Europe has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [Gaia](Gaia.md#hills).
+Europe has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [North and South America](The_Americas.md#hills).
 
 Europe starts with only the surface. The first time someone uses a shovel to dig a tunnel down, a cave level forms underneath the whole continent, with rock to mine, open pockets and veins of hard rock. Later tunnels lead into the same caves, and a tunnel dug up from the caves comes out on the surface.
 
@@ -194,7 +194,7 @@ Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/do
 </figcaption>
 </figure>
 
-Asia has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [Gaia](Gaia.md#hills).
+Asia has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [North and South America](The_Americas.md#hills).
 
 ## Karafuto
 
@@ -209,6 +209,7 @@ Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/do
 
 These variants have individual map pages. They are outside the standard Nomads map-vote list; each page identifies its authored status separately from current hosting.
 
+- [North and South America](The_Americas.md)
 - [Gaia](Gaia.md)
 - [Oil Rush (Extended)](Oil_Rush.md)
 - [Frozen Wasteland](Frozen_Wasteland.md) - archived authored variant.

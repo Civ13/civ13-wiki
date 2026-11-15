@@ -1,6 +1,6 @@
 # Your First Day
 
-This guide takes a new character through the first day on a persistent world such as [Gaia](../maps/Gaia.md), where the world starts in the Stone Age and knowledge is kept in books. It covers getting a research book, food, water, shelter, early tools and a safe place to sleep, in the order you will need them.
+This guide takes a new character through the first day on a persistent world such as [North and South America](../maps/The_Americas.md), where the world starts in the Stone Age and knowledge is kept in books. It covers getting a research book, food, water, shelter, early tools and a safe place to sleep, in the order you will need them.
 
 ```admonish info
 On persistent worlds **you can't craft anything you haven't studied**. A new character knows nothing, so the first thing to do is get a book. Round maps such as [Civilizations & Nomads](../gamemodes/Civilizations_and_Nomads.md) work differently: start with the [Starter Guide](../Starter_Guide.md) there.
@@ -169,5 +169,5 @@ While you sleep properly your hunger and thirst don't drop. You can't sleep whil
 
 - [Books and Scholars](Guide_to_Books_and_Scholars.md)
 - [Starter Guide](../Starter_Guide.md)
-- [Gaia](../maps/Gaia.md)
+- [North and South America](../maps/The_Americas.md)
 - [Crafting](Guide_to_Crafting.md)
