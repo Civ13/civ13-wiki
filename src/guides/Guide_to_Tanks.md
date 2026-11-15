@@ -136,6 +136,16 @@ For possibly better explanation with a moving visual aid, take a gander at this 
 
 <video controls preload="metadata" width="640" src="https://github.com/civ13/civ13-wiki/releases/download/assets/tank_maneuvering.mp4">Your browser cannot play this video. <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/tank_maneuvering.mp4">Download tank_maneuvering.mp4</a>.</video>
 
+### Doors
+
+Tanks, trucks and cars have doors you can work by hand. Examine a vehicle to see whether its door is open, shut or locked, and who is holding it.
+
+- **From outside**, use an empty hand on the door. This works on any intent except grab, which climbs onto the roof. An open door swings shut. A shut door that isn't locked pulls open. A locked door won't move.
+- **Locks**: a vehicle with a key or a door code keeps its shut doors locked. The key unlocks the door and swings it open. Used on an open door, or on a shut one that isn't locked, the key locks it. A door shut by hand is not locked. A door with no lock never locks.
+- **Holding the door shut**: from inside, use the door on **grab intent**, or the **Hold Car Door** verb (IC tab). The door goes into your hand. Use it in hand, or **Tighten or Loosen Grip**, to brace it. Drop it, or use the verb again, to let go.
+- **Yanking it open**: anyone outside who pulls on a held door starts a tug of war. Each pull takes a moment. The stronger side is more likely to win, and pulling with both hands free helps. A tight grip holds much better than a loose one. A grip taken or tightened a second ago isn't braced yet, so a quick yank can catch it. Every pull you hold off tires your arm, and the arm recovers if the pulling stops.
+- You let go of the door if you leave your seat's tile for outside the vehicle, pass out, or are tied up. A fall can shake a loose hold free. A blow to your hand can break even a tight grip.
+
 ### Towing
 
 A vehicle that will not move by itself, with no fuel, a dead engine or a broken track, can be towed by another.
