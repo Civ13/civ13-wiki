@@ -59,7 +59,7 @@ Some builds need a second material as well as the one you are holding. A raft ne
 
 ## Machine parts
 
-Gear sets, shafts, bearings, springs and drive belts are items you make from a material of your choice. Examine a part to see how much work it does and how long it lasts compared with the standard one; steel is the standard for gears, shafts, bearings and springs, and leather for belts.
+Gear sets, shafts, bearings, springs, drive belts and wheels are items you make from a material of your choice. Examine a part to see how much work it does and how long it lasts compared with the standard one; steel is the standard for gears, shafts, bearings and springs, and leather for belts.
 
 | Part | By hand | At an anvil, under **Parts** | Cast in a parts mold |
 | --- | --- | --- | --- |
@@ -68,12 +68,17 @@ Gear sets, shafts, bearings, springs and drive belts are items you make from a m
 | Bearing | Wood (2) and 1 animal fat, with a chisel | Bronze, iron or steel (2), as a bushing | Copper, bronze, brass, iron or steel |
 | Spring | - | Bronze, iron or steel (2) | - |
 | Drive belt | Rope (3), leather (2) or cloth (3), with a knife | Bronze, iron or steel (3), as a drive chain | - |
+| Wheel | Wood (3), with a hatchet and a chisel | Bronze, iron or steel (4) | Copper, bronze, brass, iron or steel |
 
 - **By hand:** hold the stack, open its crafting menu and look in **Machine parts**. The tool can be held, worn or at your feet.
 - **At an anvil:** use bronze, iron or steel on the anvil and pick **Parts**.
 - **Cast:** shape an **unfired parts mold** from 3 clay (in **Molds**, with Bronze Working), fire it like any other mold, fill it from a blacksmith pot and use it on an anvil. You pick the shape there. Brass now pours into every mold at the same cost as bronze.
 
 Wooden parts are the cheapest and the weakest: a wooden gear set does about two fifths of the work of a steel one and wears out five times as fast. Bronze and brass come close to iron. Metals that are too soft, such as lead, tin and gold, cannot be made into gears, shafts or bearings at all. Carving parts by hand needs Basic Toolmaking; springs need Bronze Working.
+
+An **iron-shod wheel** is a wooden wheel with an iron tyre: hold 2 iron with a wheel and a hammer to hand, and pick it in **Machine parts**. It lasts twice as long as the bare wooden wheel.
+
+Wheels go into bicycles. A **pedal bicycle** needs 8 steel or aluminium, two wheels and a drive belt or chain, fitted with a wrench; an aluminium one is about 15% quicker. A **running bike** needs 6 wood and two wheels and comes with the Carts research: it has no pedals or chain and is slower than a bicycle. See [Pedal bicycles](Guide_to_Crafting.md#pedal-bicycles).
 
 ## Lathes
 
