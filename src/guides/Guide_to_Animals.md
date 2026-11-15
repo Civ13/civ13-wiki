@@ -40,7 +40,9 @@ The dog's owner and members of its faction can give orders. The owner's orders t
 
 ## Riding horses
 
-Horses can be ridden by anyone; they do not need to be tamed first.
+Horses on battle maps come ready to ride. Horses that live wild on the open land have to be broken in first: a wild horse won't take a saddle, tack or a leash.
+
+- **Breaking in:** feed it by hand, and drag yourself onto it to swing up bareback. A wild horse always bucks you off, bruising you and knocking you down, but every feeding and every throw brings it closer to tame.
 
 - **Mount:** Click and drag your own character onto the horse. It takes a few seconds, and you cannot mount while lying down or prone.
 - **Ride:** Move as normal. A ridden horse can trample people in its way.
@@ -48,6 +50,17 @@ Horses can be ridden by anyone; they do not need to be tamed first.
 - **Pull a rider off:** Click someone else's horse with an empty hand. After a few seconds they are knocked to the ground.
 
 If the horse dies, its rider falls off and is knocked down. Keep your horse fed and away from gunfire.
+
+### Mares, stallions and foals
+
+Every horse is a mare or a stallion, and has its own **speed** and **stamina**. Examine a tame grown horse up close to judge it: fleet, steady or slow, and tireless, sound or soon winded. A faster horse is quicker to ride, and a hardier one gets less hungry pulling a carriage or cart.
+
+- **Breeding:** a tame mare standing next to a tame grown stallion will now and then come into foal, as long as the herd around her isn't crowded. Examining her shows when she is in foal. The foal is born about an hour later.
+- **Foals** take after both parents, a little better or worse, so breeding your fastest and hardiest horses gives better ones over time. A foal can't be ridden until it grows up, about two hours after birth.
+
+### Horseshoes
+
+An unshod horse slows down on stone roads, gravel, rock and mine floors. Use a set of **horseshoes** (2 iron, **Iron Smithing**) on a tame grown horse to shoe it; shod, it keeps its full pace there. Shoes wear out after a long time on hard ground and the horse casts them as **worn horseshoes**, so keep a spare set.
 
 ### Saddles
 
