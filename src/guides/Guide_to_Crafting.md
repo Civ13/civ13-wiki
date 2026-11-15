@@ -1208,7 +1208,7 @@ Work runs in real time, so it carries on while you are offline. Each room does o
 
 <hr>
 
-A **pedal bicycle** is a one-person vehicle that runs on your own legs: no engine, no fuel. Build it from **12 steel** in the "vehicle parts" category. It needs the **Factories** node of the [tech tree](Guide_to_Research.md) ([legacy research](../gamemodes/Civilizations_and_Nomads.md#research): Industrial 95).
+A **pedal bicycle** is a one-person vehicle that runs on your own legs: no engine, no fuel. Build it from **8 steel**, two **wheels** and a **drive belt or chain**, with a wrench to hand, in the "vehicle parts" category. The wheels and the belt are [machine parts](Guide_to_Tool_Materials.md#machine-parts) and can be in your other hand or at your feet. Built from 8 aluminium instead, the bicycle is about 15% quicker. A wooden **running bike** (6 wood and two wheels, Carts research) has no pedals: you ride it the same way, more slowly. It needs the **Factories** node of the [tech tree](Guide_to_Research.md) ([legacy research](../gamemodes/Civilizations_and_Nomads.md#research): Industrial 95).
 
 ![Offline render using Civ13 sprites: the pedal bicycle on a road, parked and ridden, facing each direction](../images/civ13-pedal-bicycle-sprites.png)
 
