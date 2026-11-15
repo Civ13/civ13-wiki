@@ -202,6 +202,27 @@ To couple the car, right-click its front end and choose **Hitch**, the same as a
 
 Stop the train, uncouple the car from the cars on both sides and clear everything off its deck, furniture included. Then use a **crowbar** on the car to pack it back into a kit. A kit that was taken apart comes back without furniture, so keep the furniture you removed and put it back aboard.
 
+## Heavy locomotives
+
+Heavy locomotives are full-size engines, three tiles wide and four long. They are driven with the same controls as the small locomotive and are no faster, but each pulls about twice the train, carries more fuel and survives explosions.
+
+![The three heavy locomotives seen from above, each shown with its cab open and with its cab roof on: green steam locomotive, blue diesel locomotive and camouflaged armored locomotive](../images/civ13-heavy-locomotives.png)
+
+| Kit | Cost | Research | Fuel | Notes |
+| --- | --- | --- | --- | --- |
+| Heavy steam locomotive kit | 45 steel | **Rail & Steam** node, or industrial research **101** | Coal, wood planks, branches (holds 250) | Boiler in front, cab third, coal bunker at the back. |
+| Heavy diesel locomotive kit | 50 steel | **Combustion Engine** node, or industrial research **115** | Diesel or biodiesel (holds 300 units) | The fastest engine. Cab at the front, with a walkway down each side of the hood. |
+| Heavy armored locomotive kit | 80 steel | **Field Artillery** node, or industrial **101** and military **109** | Coal, wood planks, branches (holds 300) | The strongest puller and the slowest. Bullets do nothing to it, and its cab doors stop bullets from outside. |
+
+- **Assemble** the kit like a platform car: put it on straight track with three more straight tiles behind it and a clear tile either side, face the way the engine should point and hit it with a **hammer**.
+- **Drive from the cab.** Step into the cab, or stand beside it, and click the locomotive to open the controls. The rest of the body is solid, apart from the diesel's walkways.
+- **Fuel** goes in from anywhere beside the engine. Click it with coal or wood for the steam engines, or with a container of diesel for the diesel. A coal tender hitched into the train feeds the steam engines as usual.
+- **Couple** wagons and cars behind it with **Hitch**, as with any locomotive. A second engine in the train adds its pull.
+- **Keep clear of the line.** A heavy locomotive is as wide as a platform car, and it hits anyone standing beside the rails as well as on them.
+- **Damage.** Explosions wear the engine and its body down. A wrecked engine dies and a wrecked body section stops the train until it is welded. A **welding tool** repairs both.
+
+A heavy locomotive can't be packed back into a kit, and it is too long for a rail warehouse.
+
 ## Rail warehouse
 
 A rail warehouse stores cars and locomotives off the line, together with everything on board, so a yard doesn't need long sidings. Trains drive straight through it: unload cars from the back of a train, or couple stored cars back on to make up a new one.
