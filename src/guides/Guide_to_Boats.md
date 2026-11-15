@@ -151,6 +151,8 @@ These controls work on both the motor outrigger and the RHIB. See [Hotkeys](../H
 
 A bigger engine moves faster: engines of 300 cc or more are quickest, and engines of 200 cc or more beat the smallest ones. The boat stops when the next tile isn't water.
 
+Boats glide smoothly rather than jumping from tile to tile, the same way you walk. When you turn, the boat keeps its sideways place, so you can line it up anywhere. Out of gear, it drifts on for about half a tile before it stops.
+
 **Cargo:** each outrigger or RHIB can carry **one** loose structure, such as a crate or a small cannon. Drag it onto the boat to load it. Click the boat to unload it beside you.
 
 ## Modular ships

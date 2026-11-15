@@ -1297,6 +1297,7 @@ Mount your bike by click-dragging your icon onto the bike. You can get off by cl
 handle bars in hand (this also shuts off the bike. Two clicks - shut off
 the bike, then another on to get off).You **turn on/increase speed of the
 bike by pressing Z**. You can **stop/decrease speed by pressing C**.
+The bike glides smoothly instead of jumping tile by tile. When you turn, it keeps its sideways place, so you can park it anywhere. Taken out of gear, it rolls on for about half a tile before it stops.
 Drive safe out there!
 
 ### Modular ships
