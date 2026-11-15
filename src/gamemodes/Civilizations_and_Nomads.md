@@ -17,7 +17,7 @@ In Nomads, everyone spawns without any predetermined roles or **[Factions](#fact
 
 You can stay factionless (a nomad), create your own faction, or join an existing one. Only members of a faction can research new technologies and accumulate research points.
 
-A map may have one or more ethnicities, each speaking its own language initially incomprehensible to a speaker of a different language. On certain maps you can choose who you spawn as; on other maps it is random.
+A land has several peoples, each speaking its own language, which a speaker of a different language cannot understand at first. On most lands you choose your people when you arrive; see [Peoples and Languages](../guides/Guide_to_Peoples_and_Languages.md).
 
 There is no predetermined goal.
 

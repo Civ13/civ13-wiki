@@ -6,7 +6,7 @@ This guide mostly pertains to survival in the sandbox [Civilizations and Nomads]
 
 ## Spawning in
 
-- When you spawn, you will be told the languages you know. Your appearance and language will be determined by your spawn location.
+- When you spawn, you will be told the languages you know. On most lands you choose your people, which gives you your mother tongue; see [Peoples and Languages](guides/Guide_to_Peoples_and_Languages.md).
 - Your **hunger** and **thirst** bars start full, and drain as you work.
 - You start out with nothing but age-appropriate clothes on your person. Your first priority will be gathering flint to make a flint axe.
   - Find a large rock and click it with an empty hand on **Grab intent** — you should be able to gather some flint.
