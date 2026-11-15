@@ -36,6 +36,18 @@ Click **Tabs...** at the right end of the tab row to open the tab settings:
 Your tabs are saved on your own computer, so they are still there the next
 time you play.
 
+## Chat history
+
+The chat keeps your recent lines when you move to another land, reconnect,
+or use **OOC > Reload Chat**. They come back at the top of the chat window,
+slightly faded, above a line saying **Earlier chat from your last connection
+is above.** Your tabs still filter them as usual.
+
+Links in those older lines no longer work, because they pointed at things in
+the land you left. Web links still open. History older than a day is not
+brought back, and **OOC > Clear Chat** clears the saved history as well as the
+window. The history is kept on your own computer, under your own account.
+
 ## Connection warnings
 
 If the server stops answering for about 20 seconds, the chat prints a red
