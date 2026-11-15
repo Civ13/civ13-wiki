@@ -30,6 +30,16 @@ Output fills matching stacks up to their limits. A tile holds at most **12 outpu
 
 Each ore in a rock wall rolls on its own, so one mined wall can drop several kinds of ore at once, for example coal together with iron. Coal is twice as common as it used to be. Some walls now give no ore at all, because the drops cluster.
 
+## Old mountain floor and ore seams
+
+On the North and South America lands, the ground left behind once a mountain has been mined away is still worth working. Use a pickaxe on that bare floor. Each job takes twice as long as breaking a rock wall.
+
+- Most of the old floor is bedrock and gives **6-10 stone** every time. It never runs out.
+- About one tile in twelve is an **ore seam**. Mining the rock above a seam reveals it ("A vein of copper runs on down into the floor here."), and a faint ore mark stays on the tile. Each job on a seam gives **4-8 ore** and some stone. Coal gives 8-12, saltpeter, sulphur and lead 3-4, and silver and gold 1-2.
+- A seam holds **six loads**. When it is worked out it gives stone only, and one load comes back every **20 minutes**. Examine a seam to see whether it is rich, thinning or worked out.
+- Seams of the same ore cluster together, so one hillside may be a copper district and the next an iron district. Iron and calamine seams can be worked from age 1, and coal, saltpeter, sulphur and lead seams from age 2. Until then such a seam gives only stone.
+- Gems, flint, obsidian, diamonds and other rare finds still come only from fresh rock, and fresh rock is about twice as productive, so unmined mountains remain the better dig.
+
 ## Digging for dirt underground
 
 Dirt piles make dirt walls and barricades, turn into clay with water, and fill graded ground back up. On the surface you scoop them from dirt ground with a shovel or cut them out of a hill. Underground there is more:
