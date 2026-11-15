@@ -66,6 +66,14 @@ Copper cable loses no power. With Electricity research you can also make cable c
 - Cable of one metal only joins cable of the same metal. Use a **cable connector** to join two metals, as for two colors.
 - Examine a cable to see its metal and the grid's total loss. Cutting a cable gives back a piece of the same metal.
 
+### Wire drawing bench
+
+<img src="../images/Wire_drawing_bench.png">
+
+A **wire drawing bench** makes far more cable from the same metal. Build it from **8 wood**, with **4 iron** and **1 shaft** held or at your feet; you need Electricity research. Fasten it with a wrench, then use copper, iron, aluminium, silver or gold on it. Each unit of metal becomes a **25 metre** coil, where working it by hand gives 10, and it is quicker too. The bench keeps drawing until the metal in your hand runs out or you step away.
+
+A treadwheel, horse gin, mill wheel or windmill turning next to the bench speeds it up. See [Mechanical power](Guide_to_Pottery_and_Lime.md#mechanical-power).
+
 ## Transformers, outlets, poles and power meters
 
 A **distribution transformer** (10 iron, Electricity research) powers machines without running a cable to each one. Lay a cable, put the transformer on that tile and fasten it with a wrench. Every machine within 5 tiles that draws power then runs from that cable, as long as no wall, closed door or window stands on the straight line between them. Machines built or moved into its reach join by themselves. Machines that move out of reach, or that lose sight of the transformer when it is unfastened, lose its power. Click it to look for machines again, and examine it to see how many it feeds. A machine that already has its own cable keeps it.
