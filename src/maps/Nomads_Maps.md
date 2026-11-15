@@ -58,8 +58,12 @@ Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/do
 
 A dense tropical rainforest. You can only farm on the floodplains and during the dry
 season. Wildlife is deadly here\! Stay away from panthers, mosquitoes
-(as they carry malaria) and ants (will eat your food). Crossing rivers
-without a bridge is considered unsafe - piranhas are abundant.
+(as they carry malaria) and ants (will eat your food). Piranhas live in
+the middle of the wider rivers. If something nips your leg, that is your
+warning: get out of the water, because the bites grow worse the longer you
+stay, and a swarm can strip a foot or leg off someone who lingers in open
+water. Wading near the bank is safer, jumping over a narrow river avoids
+them entirely, and a bridge, boat or raft keeps you out of reach.
 
 On the persistent Jungle land, roofs carry up to four floors and planes fly on the air level above. Its west edge is a sea coast: open sea, a few tiles of shallows and a beach, where ships can land.
 
