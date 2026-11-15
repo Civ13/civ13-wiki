@@ -190,6 +190,13 @@ Four wooden pieces let you pipe water long before electricity:
 | Wooden cistern | Cooperage | 10 wood | A holding tank. |
 | Water trough | Cooperage | 4 wood | A water tap: fill a container, drink on grab intent or wash your hands. |
 
+From **Bronze Working** a smith can also raise a **metal holding tank** from 10 copper, bronze, lead or iron. It works like any holding tank, with two cautions:
+
+- A **lead tank** slowly poisons what is piped into it, the same way lead pipe does. Do not drink from it.
+- **Acid eats iron.** An iron tank loses a little of any strong acid piped into it. Keep acid in copper, bronze or steel.
+
+Examine a tank to see either warning.
+
 A simple supply is an intake at the river, a run of pipe, a hand pump beside the pipe and a trough in the village. Water from a river is still unboiled at the trough.
 
 A **piped washing machine** (8 steel) also needs the pipes: each wash takes 20 units of pumped water, and it will not start while it is disconnected or short of water, even with water left inside. Examine it to see how much it holds. Washing machines already placed on a map have their own supply and need no pipes.
