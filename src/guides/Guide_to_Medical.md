@@ -499,7 +499,7 @@ of decreased effectiveness or success.
 Alternatives: Knife, Bone Knife, Glass Shard
 
 **Hemostat** 
-Alternatives: Rope, Torch
+Alternatives: Catgut, Rope, Torch
 
 **Retractor** 
 Alternatives: Crowbar, Wood Handle, Fork
@@ -567,6 +567,19 @@ on the head or limbs, for obvious reasons.
 - Scalpel
 - Retractor
 - Cautery
+
+### Keeping removed organs
+
+A removed organ starts to spoil at once. Examine it to see how fresh it is and its blood type. A spoiled organ carries an infection into whoever receives it, and a recipient with an incompatible blood type rejects it. The surgeon is warned about both before the transplant goes ahead.
+
+- An **organ box** (2 cloth) holds one organ and keeps it clean, so it spoils much more slowly.
+- A **refrigerator** or **freezer** slows spoiling a lot, even with the organ inside a box. A refrigerator without power helps less.
+- Nothing makes a spoiled organ fresh again, and a dead organ stays dead.
+- An organ left on the ground is cleared away after a few minutes.
+
+### Catgut
+
+Use a sausage casing in your hand to twist it into two lengths of catgut. Catgut ties off bleeders and mends torn veins better than rope does.
 
 ### Tendons
 

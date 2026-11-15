@@ -73,6 +73,7 @@ You don't have to wait at the bench for the whole time. From the Stone Age on, t
   - In a book, the record adds a twentieth of a chapter to a subject of that discipline whose groundwork you know. If more than one fits, you choose.
   - On a sheet it becomes naturalist's notes. Use them on a bench researching any subject of that discipline.
   - A book takes each kind of find once, and finds can fill three tenths of a chapter at most, so look for different animals, plants and stones.
+  - A **preserved specimen** on an **anatomy table** counts for Medicine. To make one, hold a whole raw organ in one hand and an open preserve jar holding at least 10 units of spirits or vinegar in the other, then use the organ on the anatomy table. The specimen can't be eaten or transplanted afterwards. Each specimen can be recorded three times. Every kind of organ is a different find, and an animal's heart is the same find as a human heart.
 - **Compare notes.** When two books on the same bench each hold part of the same chapter, two scholars who could both research that subject can stand beside the bench and use **Compare Notes** (right-click the bench). The fuller book gains half of what the other one holds, and the other book keeps its own work. You need light, and both of you must be able to read both books. Each book can be compared once per subject. Both scholars learn from it.
 
 Later subjects have their own [field work](#field-work).
