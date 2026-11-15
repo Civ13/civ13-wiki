@@ -38,6 +38,21 @@ Hold a stack of the metal, open its crafting menu and look in **Tools**. The too
 
 Compared with the usual tool, copper works at about two thirds of the speed, bronze a little under full speed and steel a little over. You feel it when you saw logs into planks and when you fasten or unfasten something with a wrench.
 
+## Soft tools wear out
+
+A tool softer than what it cuts still works, but badly. You wait about four seconds before it bites, and the tool takes heavy wear each time.
+
+| Work | Tool | Too soft | Cuts cleanly |
+| --- | --- | --- | --- |
+| Carving rock walls, cave floors and stone walls | Chisel | Bone, copper | Stone, bronze, iron, steel |
+| Carving marble or sandstone walls | Chisel | Bone, copper | Stone, bronze, iron, steel |
+| Cutting copper, aluminium, silver or gold cable | Wirecutters | - | Bronze, iron, steel |
+| Cutting iron cable, barbed wire or chain-link fence | Wirecutters | Bronze | Iron, steel |
+
+- A tool in a metal that lasts less well than its usual one also wears a little on every such job, even when it is hard enough.
+- Examine a tool to see whether it shows some wear, is worn or is nearly worn out. A worn-out tool breaks.
+- Nothing here applies when you strike on harm intent.
+
 ## Recipes that need a second material
 
 Some builds need a second material as well as the one you are holding. A raft needs 2 rope and a carriage needs 20. The second material can be in your other hand, worn on you or lying at your feet. It is only taken when the build finishes, so a cancelled build costs you nothing. The Crafting window lists what a recipe still needs.
