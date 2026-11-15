@@ -167,22 +167,46 @@ Click this icon to see your current mood and **[hygiene](guides/Guide_to_Hygiene
 
 A game of **senet** (3 wood, needs **Basic Furniture**) or **chess** (4 wood, needs **Fine Arts & Leisure**) lifts the mood of both players. Use the board with someone standing beside it; after twenty seconds one of you wins.
 
-The same click lists what has been affecting your mood lately, such as the food you ate, fleas, hard work or seeing someone die. Each cause shows whether it is lifting or lowering your mood, how strongly, and whether it is still ongoing or fading. Chat also tells you when a cause starts to change your mood and when it no longer does, and when the mood icon changes it names the main reason.
+The same click lists what has been affecting your mood lately, such as the food you ate, a good wash or seeing someone die. Each cause shows whether it is lifting or lowering your mood, how strongly, and whether it is still ongoing or fading. Chat also tells you when a cause starts to change your mood and when it no longer does, and when the mood icon changes it names the main reason.
 
-If you constantly feel depressed or hear weird audio randomly, your mood is very low. Here are ways to improve it:
+Your mood is one of five levels: horrible, bad, neutral, good or excellent. Neutral has no effect at all. A good or excellent mood raises every skill, a bad or horrible one lowers them and slows your walking, and in a horrible mood you start to hear things.
 
-1. Drugs, such as cocaine and opium. Smoking tobacco also helps.
-2. Good **[complex foods](guides/Guide_to_Cooking.md)** like boiled rice, roasted meat steak, noodles, and sandwiches.
-3. Alcohol, like vodka and sake.
+#### Where your mood settles
+
+Left alone, your mood drifts toward a resting level. With nothing going for you that level is neutral. On maps where you get hungry, how you live moves it, and the mood click lists each thing that is raising or lowering it:
+
+| Living condition | Effect on your resting mood |
+| ---------------- | --------------------------- |
+| You last slept on a bedroll | Raises it a little |
+| You last slept in a proper bed | Raises it somewhat |
+| The bed had a bedsheet on it | Raises it a little more |
+| A varied diet (see **Check Diet** in the IC tab) | Raises it somewhat |
+| Being clean | Raises it somewhat |
+| Being warm and dry | Raises it somewhat |
+| Being filthy, or having fleas | Lowers it |
+| Being sick, or in lasting pain | Lowers it |
+| Going hungry or thirsty | Lowers it a lot |
+
+A bed, a varied diet, regular washing and dry clothes together are enough to rest in a good mood. Being only a bit dirty neither helps nor hurts.
+
+#### Lifting your mood for a while
+
+These lift your mood on top of the resting level. A modest lift fades slowly, over about ten minutes. A big high burns off quickly, so piling up treats does not last.
+
+1. Good **[complex foods](guides/Guide_to_Cooking.md)** like boiled rice, roasted meat steak, noodles, and sandwiches.
+2. Washing with soap, and a soak in a bath, especially a warm one.
+3. Music, a board game with someone, a shared feast, and herb teas.
+4. Smoking tobacco.
+5. Drugs, such as cocaine and opium. They lift mood the most, but the high is short and they are addictive.
 
 Things that can decrease mood:
 
 1. Other people's stench (when they have a cloud of filth around them, it decreases your mood and you get a message that they smell).
-2. Your own stench.
-3. Low **hygiene**.
-4. Killing others (drastically decreases mood, especially cutting someone's head off).
-5. Eyeing detached body parts and gore.
-6. Mood also slowly decreases on its own while you are awake. It does not drop while your character is asleep, though good things still raise it.
+2. Killing others (drastically decreases mood, especially cutting someone's head off).
+3. Eyeing detached body parts and gore.
+4. Soiling yourself, vomiting and withdrawal from drugs.
+
+Mood does not drop while your character is asleep, though good things still raise it.
 
 {{#warning}}
 Seeing too much extreme gore can lead to PTSD, which is incurable. After a while, you may start hallucinating and having catatonic breakdowns. Antidepressants and drugs only temporarily block these effects.
