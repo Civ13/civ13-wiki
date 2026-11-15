@@ -87,7 +87,9 @@ You do not need to find a puddle to have a well. Stand where you want it, use a 
 - **Timber-lined well.** Stand on the hole and build a **timber well lining** (4 wood, Primitive Construction). The water is clean, it fills twice as fast, and it can be dug to **5 spits**.
 - **Stone well.** Build a stone, sandstone or marble **well** on a waterhole or a timber well. It can be dug to **8 spits**.
 - **Deeper is safer.** A well holds more and refills faster the more water stands in it. A river in flood lifts the water in the wells near it and a low river drops it. A **dry season** or a **heat wave** draws the water down a spit, so a well that only just reaches water goes dry then; one dug a spit or two past the water keeps going. Examine a well to see how deep it is and how much water stands in it.
-- **Deep water.** When the water is more than 2 spits down you cannot drink from your hands: lower a mug or a bucket.
+- **Deep water.** When the water is more than 2 spits down you cannot drink from your hands: lower a mug or a bucket, which takes longer the deeper the water is.
+- **Windlass and pail.** Stand on a lined well and build a **windlass and pail** (4 wood and 2 rope, Cooperage & Containers). One winding fills your whole bucket whatever the depth, and you can drink at the well again.
+- **Hand pump.** A **cast iron hand pump** (6 iron, Iron Tools) built on a lined well does the same in half the time. It takes the place of a windlass.
 - Use the shovel on a well to dig it deeper or to fill it in.
 
 If you catch cholera, see [Medical](Guide_to_Medical.md#diseases).
