@@ -30,7 +30,7 @@ Wartime cars (see [Wartime cars](#wartime-cars)):
 | Piece | Cost | Notes |
 | --- | --- | --- |
 | Railway sleepers | 1 wood | The wooden ties for one tile of track. |
-| Rails | 1 iron | A pair of rails for one tile of track. |
+| Rails | 1 iron | A pair of rails for one tile of track. A [rolling mill](Guide_to_Metallurgy.md#rolling-mill) makes two pairs from one iron, or three from one steel. |
 | Rail switcher (to left or right) | 2 iron | A junction that a lever can switch between going straight and turning off. |
 | Rail rotator platform | 3 iron | Turns whatever wagon is standing on it. |
 | Train lever | 1 iron | Flips every switcher within two tiles. |

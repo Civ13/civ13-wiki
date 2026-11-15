@@ -206,3 +206,21 @@ Three later machines also stand next to an anvil and take work off the smith. Fa
 - A steam hammer replaces a trip hammer: only the better of the two counts.
 - Click a machine with an empty hand, or examine it, to see whether it is ready.
 - No piece takes less than a second, however many machines help.
+
+### Rolling mill
+
+<img src="../images/Rolling_mill.png">
+
+A **rolling mill** squeezes hot metal between two heavy rolls, and makes long stock from less metal than forging it.
+
+- Build it from **16 iron**, with **2 gear sets**, **2 shafts** and **2 bearings** held or at your feet. You need to know **Railways and Steam Locomotion**.
+- Fasten it with a wrench next to a treadwheel, horse gin, mill wheel or windmill. It only rolls while that machine is turning, and a faster one rolls faster. See [Mechanical power](Guide_to_Pottery_and_Lime.md#mechanical-power).
+- Use iron or steel on it. It keeps rolling until the metal in your hand runs out or you step away, and the stock lands on the mill's tile.
+
+| Metal used | The mill rolls | By hand |
+| --- | --- | --- |
+| 1 iron | 2 pairs of [rails](Guide_to_Trains.md) | 1 pair |
+| 1 steel | 3 pairs of rails | - |
+| 10 steel | 1 [hull armour plate](Guide_to_Space_Stations.md) | 15 steel |
+
+You still need the research for what you roll, as you would to forge it.
