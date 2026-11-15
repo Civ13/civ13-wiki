@@ -38,6 +38,17 @@ Hold a stack of the metal, open its crafting menu and look in **Tools**. The too
 
 Compared with the usual tool, copper works at about two thirds of the speed, bronze a little under full speed and steel a little over. You feel it when you saw logs into planks and when you fasten or unfasten something with a wrench.
 
+## Sickle and hoe
+
+Both come with the **Basic Agriculture** research and are made from the stack you hold, under **Tools**.
+
+| Tool | Made from | What it does |
+| --- | --- | --- |
+| Sickle | 2 copper, bronze, iron or steel, with 1 wood and a hammer to hand | Harvests like a knife and also reaps ripe plants of the same crop beside the one you cut: 2 with copper, 3 with bronze or iron, 4 with steel. |
+| Hoe | 2 wood, or 2 copper, bronze, iron or steel | Breaks ground for planting the way a plough does. A wooden hoe works at two thirds of a plough's speed and a metal one about matches it. It is small enough to hang from a belt. |
+
+Examine a sickle to see how many neighbours it reaps.
+
 ## Soft tools wear out
 
 A tool softer than what it cuts still works, but badly. You wait about four seconds before it bites, and the tool takes heavy wear each time.
