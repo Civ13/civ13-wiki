@@ -79,7 +79,7 @@ Deep water is slow to cross, so that is not far. Swim to a nearby boat or across
 4. Repeat char and hollow three times. After the third time the log is a canoe.
 5. Drag it into the water and climb in. It carries two people and one crate.
 
-<img src="../images/Paddle.png"> Craft a **paddle** from 2 wood. If the person steering holds a paddle, the canoe moves much faster.
+<img src="../images/Paddle.png"> Craft a **paddle** from 2 wood. If the person steering holds a paddle, the canoe moves much faster. Steer the canoe like a [raft](#raft): hold a direction key to paddle, and let go to drift to a stop.
 
 A canoe is for rivers, lakes and the shallows along a coast. It won't go out onto the open sea, and on salt water it stays ashore in a strong wind until the wind drops.
 
@@ -87,7 +87,7 @@ A canoe is for rivers, lakes and the shallows along a coast. It won't go out ont
 
 1. Craft a **raft** from 10 wood logs at the water's edge.
 2. Drag yourself onto the raft to climb aboard. A raft carries only you.
-3. Paddle with the **direction keys**. Each step must land on water.
+3. Hold a **direction key** to paddle that way; the raft glides smoothly while you hold it and drifts to a stop within about half a tile when you let go. It only goes onto water.
 4. Click the raft to get off.
 
 On some maps the open sea is closed to rafts, and you will be told you can't go further. To recover the wood, hit the raft with a hammer: you get 5 planks and a rope back.

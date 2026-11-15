@@ -1215,7 +1215,7 @@ A **pedal bicycle** is a one-person vehicle that runs on your own legs: no engin
 The bicycle parked (top) and ridden (bottom). Offline render using Civ13 sprites, not a live screenshot.
 
 1.  With one hand free, click-drag your character onto the bicycle. You take the **handlebars** in that hand.
-2.  **Press Z** (use the handlebars) to start pedaling, and steer with the direction keys. The bicycle keeps rolling the way you face.
+2.  **Press Z** (use the handlebars) to start pedaling, and steer with the direction keys. The bicycle keeps rolling the way you face, gliding smoothly rather than jumping from tile to tile. When you turn it keeps its sideways place, so you can line it up anywhere.
 3.  **Press C**, or Z again, to brake. Click the bicycle to get off.
 
 What makes it fast or slow:
