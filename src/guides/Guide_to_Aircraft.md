@@ -85,9 +85,19 @@ The HUD shows the plane's height while you are in the pilot's seat, such as **LO
 - **Low flight (height 15 and below):** the plane flies among the hills. Anything ahead that reaches its height is flown into: a hillside, a tree or a wall (3 levels above the ground it stands on), or an upper storey. A **Terrain ahead** warning tells you the height of ground within 5 tiles in front of you that you would hit, so climb above it in time. Anyone can shoot at a plane in low flight.
 - **Cruise (above 15):** past the top of the hill scale the plane cruises over every hill, tree and rooftop, and only heavy weapons reach it. It cannot sink back into low flight over an upper storey or the highest peaks, and you have to come down to low flight before you can land. The pilot sees the ground below from the cockpit, and people on the ground see the plane's shadow pass over them.
 - **Stalling:** a plane that flies slower than **second gear** for 3 seconds, or whose engine stops, stalls and crash-lands on the nearest clear ground below. You get one warning to throttle up first.
-- **Map edge:** the plane stops at the edge of the world and warns you. Turn back at once, because a plane that stays there stalls.
+- **Map edge:** the plane stops at the edge of the world and warns you. Turn back at once, because a plane that stays there stalls, or [fly on to another continent](#flying-to-another-continent).
 - **Speed:** on the ground a plane taxis at a car's pace. In low flight it is a little faster than a car, and at cruise it flies **twice as fast as a car** at full throttle.
 - **Fuel:** flying burns fuel faster than driving, low flight burns the most, and a heavier load burns more. A full tank lasts about four minutes of low flight. Watch the tank, because an engine that runs dry in the air is a stall.
+
+## Flying to another continent
+
+Every continent can be reached by air: North and South America, Gaia, Europe, Asia, the Jungle and the Desert.
+
+1. Fly within 8 tiles of the edge of the map.
+2. Use **Fly to another land** on the control column. It lists each continent you can reach, its direction and its distance in tiles.
+3. Pick one. The flight burns about 20 seconds of cruise fuel for each tile, so fill the tank before a long flight. With too little fuel you are told so and keep flying where you are.
+
+Everyone aboard flies with you, with what they carry and what is stowed in the hold. Animals cannot make the flight, and a plane too big for a hangar, or with something loose aboard, is refused. You arrive in the air near the edge of the other continent, still flying the same way, with the controls in your hands. Your character lives in the land you fly to from then on; fly back to return.
 
 ## Weight
 

@@ -6,7 +6,7 @@ Gaia is one of the persistent lands in the same group as [North and South Americ
 
 ## Getting there
 
-Gaia lies across the sea to the east of the Americas. Build a ship, bring it near the east edge of North or South America and set out on a voyage: Gaia is at the top of the list, about 6 minutes' sailing from North America and 8 from South America (see [Sailing between the Americas and Gaia](../guides/Guide_to_Boats.md#sailing-between-the-americas-and-gaia)). You arrive anchored off Gaia's west coast, and sail back the same way. A trail marked out by players can also lead here once the staff approve it (see [Marking out a new trail](../guides/Guide_to_Travel.md#marking-out-a-new-trail)).
+Gaia lies across the sea to the east of the Americas. Build a ship, bring it near the east edge of North or South America and set out on a voyage: Gaia is on the list, about 6 minutes' sailing from North America and 7 from South America (see [Sailing between the continents](../guides/Guide_to_Boats.md#sailing-between-the-continents)). You arrive anchored off Gaia's west coast, and sail back the same way. A plane can fly here too (see [Flying to another continent](../guides/Guide_to_Aircraft.md#flying-to-another-continent)). A trail marked out by players can also lead here once the staff approve it (see [Marking out a new trail](../guides/Guide_to_Travel.md#marking-out-a-new-trail)).
 
 ## Map layout
 
