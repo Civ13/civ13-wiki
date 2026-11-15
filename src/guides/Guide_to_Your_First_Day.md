@@ -90,7 +90,8 @@ You do not need to find a puddle to have a well. Stand where you want it, use a 
 - **Deep water.** When the water is more than 2 spits down you cannot drink from your hands: lower a mug or a bucket, which takes longer the deeper the water is.
 - **Windlass and pail.** Stand on a lined well and build a **windlass and pail** (4 wood and 2 rope, Cooperage & Containers). One winding fills your whole bucket whatever the depth, and you can drink at the well again.
 - **Hand pump.** A **cast iron hand pump** (6 iron, Iron Tools) built on a lined well does the same in half the time. It takes the place of a windlass.
-- Use the shovel on a well to dig it deeper or to fill it in.
+- Use the shovel on a dug well to dig it deeper.
+- **Removing a well.** Use a **hammer** on any well to take down its windlass or pump, then again to break up the lining; you get about half the materials back. A dug well is left as a bare waterhole, which a shovel fills in. A well built over a spring leaves its puddle behind.
 
 If you catch cholera, see [Medical](Guide_to_Medical.md#diseases).
 
