@@ -1,6 +1,6 @@
 # Rivers & Floods
 
-On lands with hills, such as [North and South America](../maps/The_Americas.md), rivers rise and fall. A long rain or a spring thaw can push a river over its banks and onto the low ground beside it. This page covers when rivers rise, what floodwater does to you, and how to keep your home out of it.
+On lands with hills, such as [North and South America](../maps/The_Americas.md), [Gaia](../maps/Gaia.md), Europe, Jungle, Desert and Asia, rivers rise and fall. A long rain or a spring thaw can push a river over its banks and onto the low ground beside it. This page covers when rivers rise, what floodwater does to you, and how to keep your home out of it.
 
 ## When rivers rise
 

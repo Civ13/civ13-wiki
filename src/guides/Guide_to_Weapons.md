@@ -1271,7 +1271,8 @@ Mustard
 <td style="text-align: center">
 
 A man-made agent which causes chemical burning of the skin, eyes, and
-throat, very nasty stuff.
+throat, very nasty stuff. It also burns bare arms, legs and hands, as
+does white phosphorus, so cover up.
 
 </td>
 </tr>

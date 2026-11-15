@@ -2,9 +2,11 @@
 
 Gaia is the authored Nomads map named **Nomads (Gaia)**. Its surface is **z=2**; **z=1** is the underground layer.
 
-**Map status:** Authored variant, outside the standard Nomads map-vote list. The authored layout shown here does not establish which map is currently hosted.
+Gaia is one of the persistent lands in the same group as [North and South America](The_Americas.md). It is not in the round map vote. New characters start in North America, not here.
 
-Gaia is one of the persistent lands in the same group as [North and South America](The_Americas.md), but new characters no longer start here: they start in North America. Reach Gaia as described in [Travel Between Lands](../guides/Guide_to_Travel.md).
+## Getting there
+
+Gaia lies across the sea to the east of the Americas. Build a ship, bring it near the east edge of North or South America and set out on a voyage: Gaia is at the top of the list, about 6 minutes' sailing from North America and 8 from South America (see [Sailing between the Americas and Gaia](../guides/Guide_to_Boats.md#sailing-between-the-americas-and-gaia)). You arrive anchored off Gaia's west coast, and sail back the same way. A trail marked out by players can also lead here once the staff approve it (see [Marking out a new trail](../guides/Guide_to_Travel.md#marking-out-a-new-trail)).
 
 ## Map layout
 
@@ -28,6 +30,10 @@ Gaia's surface has hills. Light comes from the north-west, so slopes facing nort
 The land follows the map. Beaches and marshes are low and flat, and the coastal plain behind them rolls into gentle hills. The rocky ranges are high plateaus: where a range stands close to the sea its sides are steep, a hard climb of a few tiles, while from inland and through the passes at the ends of a range the climb is long and gentle. Rocky shores can be cliffs, rivers run through gorges with one high bank, the desert's lakes sit in craters with steep rims, and long ridges cross the larger continents with a steep face on one side and an easy slope on the other.
 
 Walking speed on slopes, tripping, sight lines, bullet drop, tamping paths, grading hills and the **Check Movement** verb work the same way here as on the Americas: see [Hills](The_Americas.md#hills).
+
+## Rivers and floods
+
+Gaia's rivers rise after long rain and in the spring thaw, and spill onto the low ground beside them, as on the Americas. Cellars and mines near a rising river seep water. See [Rivers & Floods](../guides/Guide_to_Floods.md).
 
 ## Weather
 
