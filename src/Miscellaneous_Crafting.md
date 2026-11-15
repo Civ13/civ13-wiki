@@ -193,17 +193,18 @@ its ready-made version, so the list of garments grows as you learn more.
 
 | Knowledge | Garments |
 | --- | --- |
-| Weaving | loincloth, long tunic, tribal robe, shirt, knee tunic, cloak, hood, bandana, beanie |
+| Weaving | loincloth, long tunic, tribal robe, shirt, knee tunic, cloak, hood, bandana, beanie, round hat, pointed hat |
 | Classical Dress | shendyt, celtic trousers, toga, stola, gown, skullcap, veil, keffiyeh |
-| Tailoring | arabic tunic, haori, renaissance outfit, short colonial outfit, poncho, haori jacket, colonial jacket, colonial coat, jacket, coat, beret, feathered cap, hennin |
-| Fine Garments | tunic, layered, buttoned and laced dresses, pontifical robes, pyjamas, colonial outfit, noble hat, infantry cap |
+| Tailoring | arabic tunic, haori, renaissance outfit, short colonial outfit, poncho, haori jacket, colonial jacket, colonial coat, jacket, coat, beret, feathered cap, hennin, soft hat |
+| Fine Garments | tunic, layered, buttoned and laced dresses, pontifical robes, pyjamas, colonial outfit, noble hat, infantry cap, tall hat |
 | Textile Mills | victorian uniform, peaked cap |
 | Ready-Made Clothing | modern, baggy and short modern outfits, cloth jacket, blazer, hoodie, field cap |
 | Synthetic Fabrics | tracksuit jacket |
 
 Hats take one or two sheets. The feathered cap's feather, the keffiyeh's
 checks and the peaked cap's band and badge each take their own colour, and a
-veil covers the hair.
+veil covers the hair. Round, pointed, soft and tall hats are put together
+from pieces of your choice; see [Hats from pieces](#hats-from-pieces).
 
 ### Fabric and dyes
 
@@ -243,6 +244,30 @@ fabric, and the menu shows how much. A few pieces need more knowledge than
 the garment itself: V necks, breeches and checks need
 **Tailoring**; high collars, lapels, double buttons and cuffed sleeves need
 **Fine Garments**; and a sash needs **Classical Dress**.
+
+### Hats from pieces
+
+Round, pointed, soft and tall hats start as a bare crown. **Pieces** adds up
+to five parts to it, and each part takes its own colour under **Colours**, so
+one hat can carry six colours.
+
+<img src="images/tailored_hats.png" alt="Ten tailored hats from all four sides: brimmed, feathered, fur trimmed, striped, cocked and peaked hats on round, tall, pointed and soft crowns">
+
+| Part | Choices |
+| --- | --- |
+| Pattern | plain, stripes, panels |
+| Band | none, band, fur trim |
+| Brim | none, narrow brim, wide brim, peak, cocked brim |
+| Flaps | none, ear flaps, neck cloth |
+| Decoration | none, feather, plume, badge, ribbons |
+
+Every part fits every crown, so a soft hat with a cocked brim and a plume, a
+tall hat with a narrow brim and a band, or a round hat with fur trim and ear
+flaps are all the same few choices. A wide brim, a cocked brim, ear flaps and
+a neck cloth each take one more sheet of fabric. Panels, the wide brim,
+feathers and ribbons need **Tailoring**; the neck cloth and badge need
+**Classical Dress**; the cocked brim and plume need **Fine Garments**; and
+the peak needs **Textile Mills**.
 
 **Naming a design.** Before cutting, choose **Name** to give your design its
 own name of up to 32 letters. The finished garment carries that name, and
