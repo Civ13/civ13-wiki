@@ -22,7 +22,7 @@ Rain also gathers in **hollows**: low ground with no way out. A long storm can l
 | Ankle-deep | A little slower, and your feet get wet. |
 | Knee-deep | Slower again. |
 | Waist-deep | As slow as a flooded deck. |
-| Over your head | You must swim. You tire and drown just as in deep water. |
+| Over your head | You must swim. You tire, slip under holding your breath, and drown just as in deep water. Good swimmers last longer. |
 
 Boots made for wading help in shallow water, as they do in a river's shallows. A boat, a lifejacket or a diving suit keeps you up in deep floodwater. Use **Check Movement** (IC tab) to see how deep the floodwater under you is and how much it slows you.
 
