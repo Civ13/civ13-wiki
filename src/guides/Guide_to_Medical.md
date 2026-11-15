@@ -482,6 +482,12 @@ learn how to keep people from ending up sick and useless.
   
 - **Food poisoning**: Cooked food, clean water and healing tea.
   
+- **Swallowed poison**: Throwing up brings back much of what is still
+    in the stomach, so poison that has not been absorbed yet leaves
+    with it and the patient feels a little better. Feeding someone
+    more food or drink than their stomach can hold makes them throw
+    it all back up, along with some of what they had already eaten.
+  
 - **Flu:** Causes victims to suffer from weakness or even fever,
     fevers will worsen depending on certain factors, weather and
     fullness. The flu can be cured, it can also cause people to become
