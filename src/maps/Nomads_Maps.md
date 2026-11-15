@@ -158,6 +158,8 @@ Large rivers cover the continent and 7x7 water ways for bridges(tanks and cars) 
 
 Europe has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [North and South America](The_Americas.md#hills).
 
+Europe is a persistent land. Roofs carry up to four floors and planes fly on the air level above.
+
 Europe starts with only the surface. The first time someone uses a shovel to dig a tunnel down, a cave level forms underneath the whole continent, with rock to mine, open pockets and veins of hard rock. Later tunnels lead into the same caves, and a tunnel dug up from the caves comes out on the surface.
 
 Section of Nomads_World project (1/4)
@@ -199,7 +201,7 @@ Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/do
 </figcaption>
 </figure>
 
-Asia is a persistent land. Roofs carry up to four floors, planes fly on the air level above, and mined-out mountain floor keeps giving stone and regrowing ore seams, as on [North and South America](The_Americas.md). Crops, mushrooms and wild seeds follow climate and season, as on Gaia and Europe.
+Asia is a persistent land. Roofs carry up to four floors, planes fly on the air level above, and mined-out mountain floor keeps giving stone and regrowing ore seams, as on [North and South America](The_Americas.md). Crops, mushrooms and wild seeds follow climate and season, as on Gaia and Europe. Like Europe, Asia starts with only the surface: the first time someone uses a shovel to dig a tunnel down, a cave level forms underneath the whole land, and later tunnels lead into the same caves.
 
 Asia has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [North and South America](The_Americas.md#hills).
 
