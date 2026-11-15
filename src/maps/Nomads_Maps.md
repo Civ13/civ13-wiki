@@ -1,5 +1,7 @@
 # Nomads Maps
 
+Europe, Jungle, Desert and Asia are also persistent lands, in the same group as [North and South America](The_Americas.md) and [Gaia](Gaia.md). Each keeps its own world and research, its rivers rise and flood (see [Rivers & Floods](../guides/Guide_to_Floods.md)), and you reach it by trail (see [The lands](../guides/Guide_to_Travel.md#the-lands)).
+
 ## Temperate
 
 <figure>

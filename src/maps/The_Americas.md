@@ -2,7 +2,7 @@
 
 North America and South America are the main persistent lands. Each is its own world on its own server, drawn loosely after the real continents, and the two meet at the isthmus. **New characters start in North America**, on a random patch of safe open ground, which can be one of the islands. South America is a walk away: head south down the isthmus and keep going. Both lands start in the Stone Age, and every recipe is studied from a book first; [Your First Day](../guides/Guide_to_Your_First_Day.md) walks a new character through it.
 
-Other lands in the same group, such as [Gaia](Gaia.md), are reached as described in [Travel Between Lands](../guides/Guide_to_Travel.md).
+[Gaia](Gaia.md) lies across the sea to the east: build a ship and sail there from either east coast (see [Sailing between the Americas and Gaia](../guides/Guide_to_Boats.md#sailing-between-the-americas-and-gaia)). The other lands are listed in [Travel Between Lands](../guides/Guide_to_Travel.md#the-lands).
 
 ## The two lands
 
@@ -19,7 +19,8 @@ Each land is a single surface level with open sky above it.
 - **No caves below.** Mountains are rock you mine at ground level, so neither land has an underground level and you cannot dig down.
 - **One upper floor.** A roof carries one floor above it, and [planes](../guides/Guide_to_Aircraft.md) fly on the air level over the land.
 - **No diving.** There is no seabed level under the sea, so submarines stay on the surface, and aircraft carriers and freighters cannot be built here. Those need [Gaia](Gaia.md).
-- **Wild plants and animals** grow from each area's climate, so the jungle, the taiga and the desert each have their own trees, bushes, crops and wildlife.
+- **Wild plants and animals** grow from each area's climate, so the jungle, the taiga and the desert each have their own trees, bushes, crops and wildlife. In the savanna and the desert, the fertile banks along the rivers can be ploughed, and desert scrub bushes give desert seeds.
+- **Mountains keep giving.** Mined-out mountain floor can still be worked with a pickaxe for stone, and ore seams in it come back over time (see [Old mountain floor and ore seams](../guides/Guide_to_Resource_Extraction.md#old-mountain-floor-and-ore-seams)).
 
 ## Map layout
 
@@ -47,7 +48,11 @@ Some things to know:
 - You need a BYOND account (not a guest), and you must be awake and not restrained.
 - Your wounds come with you. Unlike a trail, you do not need to be at full health to walk across.
 - **Riders take their mount along** if it carries nothing: it stands beside you on the far side, and you get back on. A mount with saddlebags or anything else on it stays behind.
-- **Vehicles, carts and anything you drag cannot cross.** Get down or let go and walk on.
+- **A led animal follows you.** One tame animal you lead by hand, close beside you, crosses with its name and health if nobody rides it and it carries nothing. Wild animals stay behind.
+- **Hand carts and travois** that you pull by hand cross with their load, shut inside. Everything in the load must be something that could travel on its own (the same list as above); if not, the game names what to unload first. A cart hitched behind a horse or carriage must be unhitched and pulled by hand.
+- **Bicycles.** Ride or wheel a bicycle or running bike to the edge: you get off and wheel it across, and it stands beside you on the far side.
+- **Carriages.** Drive the team to the edge and the driver is asked. The carriage crosses with its team in harness (horses or cattle) and the shut crates on its seats; the driver climbs back up on the far side. Passengers must get down and walk across themselves, and anything aboard that cannot travel, such as a barrel or a hitched cart, keeps the carriage on this side.
+- **Motor vehicles and anything else you drag cannot cross.** Get down or let go and walk on.
 - If the other land is asleep, your arrival wakes it. If it is stopped, the crossing is closed and the staff are told someone is waiting.
 - The crossing is closed for a moment while the world saves.
 

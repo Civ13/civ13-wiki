@@ -13,6 +13,21 @@ Your character lives in one land at a time, its **home**.
 - **Travelling moves your home** with your character.
 - **When you die,** your home stays in the land where you died if you have an assigned bed there, and your next character starts beside that bed. Without a bed, your home goes back to the mainland. Sleep in a free bed to make it yours (see [Saving your character](../Starter_Guide.md#saving-your-character)).
 
+## The lands
+
+| Land | What it is | How to get there |
+| --- | --- | --- |
+| [North America](../maps/The_Americas.md) | The mainland. New characters start here. One surface level with hills, rivers that flood and one level of open air above for upper floors and flight. | You start here. |
+| [South America](../maps/The_Americas.md) | The southern half of the same continent, built the same way. | Walk south across the isthmus (see [Walking between North and South America](../maps/The_Americas.md#walking-between-north-and-south-america)). |
+| [Gaia](../maps/Gaia.md) | A land of several continents across the sea to the east, with hills, flooding rivers, a level underground, a seabed for submarines and buildings up to four floors high. | Sail there from the east coast of either America (see [Sailing between the Americas and Gaia](Guide_to_Boats.md#sailing-between-the-americas-and-gaia)), or take a trail. |
+| [Europe](../maps/Nomads_Maps.md#europe), [Jungle](../maps/Nomads_Maps.md#jungle), [Desert](../maps/Nomads_Maps.md#desert) and [Asia](../maps/Nomads_Maps.md#asia) | Lands of one climate each, with hills and their own plants and wildlife. Europe grows a cave level the first time someone digs down. | By trail (see [Marking out a new trail](#marking-out-a-new-trail)). |
+| New lands across the sea | Lands found by a ship's crew, which they can settle, claim or abandon. | A sea voyage (see [Voyages to new lands](Guide_to_Boats.md#voyages-to-new-lands)). |
+| Rail yard | Each party's own train berth. | Your party's train (see [Party trains](#party-trains)). |
+| Orbit, the Moon and Mars | Space: party stations in orbit, and two airless worlds to land on. | By rocket, from 1969 for orbit and the Moon and from 2026 for Mars (see [Space Stations](Guide_to_Space_Stations.md)). |
+| Raid worlds | Dangerous zones to loot and leave. Nobody lives there. | Through some trails (see [Raid worlds](#raid-worlds)). |
+
+Every land keeps its own research and its own era, so carry your books with you (see [What you can take](#what-you-can-take)).
+
 ## Seeing the other lands
 
 Open **OOC > Regions** (or press **Esc** and choose **Regions**) to see every land in the group: what kind of land it is, whether it is up, asleep or stopped, and how many players are there. A **Join** link next to a land that is up or asleep takes you to its server; an asleep land wakes when someone arrives. Press **Refresh** at the bottom to check every land again; the window shows how many seconds ago they were last checked.
@@ -33,17 +48,20 @@ You can set off only with a BYOND account (not as a guest), awake, at full healt
 
 ### What you can take
 
-Only things that can be rebuilt exactly at the other end travel. Everything must be worn, held or in a pocket or belt slot; nothing may be packed inside anything else.
+Only things that can be rebuilt exactly at the other end travel. Everything must be worn, held or in a pocket or belt slot. A bag you wear or hold travels with what is in it, as long as everything inside could travel on its own; a bag inside a bag has to come out first.
 
 | Travels | Notes |
 | --- | --- |
-| Clothing | Except storage pieces such as webbing. Backpacks and other containers stay behind. |
+| Clothing | Except storage pieces such as webbing. |
 | Coins | Copper, silver and gold. |
-| Material stacks | Wood, stone, clay, rope, cloth, leather, copper, tin, bronze, iron, steel, silver and gold. |
+| Material stacks | Wood, stone, clay, rope, cloth, leather, copper, tin, bronze, zinc, brass, iron, steel, silver and gold. |
 | Medical stacks | Bruise packs, gauze, advanced trauma kits, advanced burn kits and splints. |
 | Packaged food and medicine | Snacks, canned drinks, plastic bottles, syringes and pills, but only untouched: not bitten, emptied or refilled. |
 | Common tools | Crowbar, wrench, screwdriver, wirecutters, welding tool and hammer. |
-| Guns and ammunition | Guns only when unloaded. Magazines travel when they hold nothing but live rounds of their own type. |
+| Tools and weapons made of a material | Knives, axes, pickaxes, shovels, swords, spears and the like keep their material, quality and wear, and an assembled tool keeps its head and handle. |
+| Research books | A subject book or a manual, as long as nothing has been written in it. |
+| Bags | Backpacks, pouches, quivers and other bags, with up to 60 things inside that could travel themselves. |
+| Guns and ammunition | Guns only when unloaded. Magazines travel when they hold nothing but live rounds of their own type. Loose arrows, bolts and cartridges travel when they are whole and unchanged (a poisoned or otherwise tipped arrow stays). |
 
 You can take at most 40 items. If something cannot travel, the trail lists what to leave behind first.
 
