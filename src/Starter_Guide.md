@@ -235,6 +235,8 @@ Crackling fires will keep you warm even without a coat.
 - A **brazier** (made with **stone**) provides more heat and warms you within three tiles.
 - Both campfire and brazier are refueled by adding **wood**, **coal**, or **charcoal**. Braziers can also be refueled with **paper- and cloth-based items**.
 - A campfire or fire pit burns one **wood log** every 8 minutes, so about **5 logs** keep it going through a whole night. Examine the fire to see roughly how many minutes of fuel it has left.
+- To make **charcoal**, build a **charcoal clamp** from **4 wood** (it needs Primitive Construction). Stack up to **20 wood logs** on it, then light it by hand or with a flame. It is covered with earth and smoulders for about **5 minutes**, then every **2 logs** come out as **1 charcoal**.
+  - You can't add logs or dig it out while it smoulders. A **shovel** takes down an unlit clamp and gives back its logs.
 
 ### Dangerous animals
 
