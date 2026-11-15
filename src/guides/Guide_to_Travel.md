@@ -20,7 +20,7 @@ Your character lives in one land at a time, its **home**.
 | [North America](../maps/The_Americas.md) | The mainland. New characters start here. One surface level with hills, rivers that flood and one level of open air above for upper floors and flight. | You start here. |
 | [South America](../maps/The_Americas.md) | The southern half of the same continent, built the same way. | Walk south across the isthmus (see [Walking between North and South America](../maps/The_Americas.md#walking-between-north-and-south-america)). |
 | [Gaia](../maps/Gaia.md) | A land of several continents across the sea to the east, with hills, flooding rivers, a level underground, a seabed for submarines and buildings up to four floors high. | Sail there (see [Sailing between the continents](Guide_to_Boats.md#sailing-between-the-continents)), fly there (see [Flying to another continent](Guide_to_Aircraft.md#flying-to-another-continent)), or take a trail. |
-| [Europe](../maps/Nomads_Maps.md#europe), [Jungle](../maps/Nomads_Maps.md#jungle), [Desert](../maps/Nomads_Maps.md#desert) and [Asia](../maps/Nomads_Maps.md#asia) | Lands of one climate each, with hills and their own plants and wildlife. All four allow buildings up to four floors high and have an air level for planes. On Europe and Asia, the first tunnel someone digs down opens a cave level, and on Asia mined-out mountain floor keeps giving stone and ore. | By plane (see [Flying to another continent](Guide_to_Aircraft.md#flying-to-another-continent)) or by trail (see [Marking out a new trail](#marking-out-a-new-trail)). or by ship (see [Sailing between the continents](Guide_to_Boats.md#sailing-between-the-continents)). |
+| [Europe](../maps/Nomads_Maps.md#europe), [Jungle](../maps/Nomads_Maps.md#jungle), [Desert](../maps/Nomads_Maps.md#desert) and [Asia](../maps/Nomads_Maps.md#asia) | Lands of one climate each, with hills and their own plants and wildlife. All four allow buildings up to four floors high and have an air level for planes. On Europe and Asia, the first tunnel someone digs down opens a cave level, and on Asia mined-out mountain floor keeps giving stone and ore. | On foot where the land carries on (see [Walking to a neighbouring land](#walking-to-a-neighbouring-land)), by ship (see [Sailing between the continents](Guide_to_Boats.md#sailing-between-the-continents)), by plane (see [Flying to another continent](Guide_to_Aircraft.md#flying-to-another-continent)) or by trail (see [Marking out a new trail](#marking-out-a-new-trail)). |
 | New lands across the sea | Lands found by a ship's crew, which they can settle, claim or abandon. | A sea voyage (see [Voyages to new lands](Guide_to_Boats.md#voyages-to-new-lands)). |
 | Rail yard | Each party's own train berth. | Your party's train (see [Party trains](#party-trains)). |
 | Orbit | Party space stations. | By rocket from a launch pad, from 1969 (see [Space Stations](Guide_to_Space_Stations.md)). |
@@ -28,6 +28,25 @@ Your character lives in one land at a time, its **home**.
 | Raid worlds | Dangerous zones to loot and leave. Nobody lives there. | Through some trails (see [Raid worlds](#raid-worlds)). |
 
 Every land keeps its own research and its own era, so carry your books with you (see [What you can take](#what-you-can-take)).
+
+## Walking to a neighbouring land
+
+Where one land carries on into the next, you can simply walk across. There is no gate or trail post: walk to the very edge of the map on dry land (wading just beside it works too) and the game asks whether you want to travel on.
+
+| From | Walk off the | Into |
+| --- | --- | --- |
+| North America | south edge, at the isthmus | South America, north edge |
+| South America | north edge, at the isthmus | North America, south edge |
+| Europe | east edge | Asia, west edge |
+| Asia | west edge, northern half | Europe, east edge |
+| Asia | west edge, southern half | the Desert, east edge |
+| Desert | east edge | Asia, west edge (southern half) |
+| Desert | south edge | the Jungle, north edge |
+| Jungle | north edge | the Desert, south edge |
+
+You come out three tiles inside the facing edge of the other land, about as far along it as you were, always on dry ground. Everything else works as for [walking between North and South America](../maps/The_Americas.md#walking-between-north-and-south-america): you take what you wear and carry, a mount, one led animal, a hand cart, a bicycle or a carriage, your wounds come with you, and the other land must be running or asleep.
+
+Seas are not walked: Gaia, and the crossing between Asia and North America, are reached by ship or plane.
 
 ## Seeing the other lands
 
