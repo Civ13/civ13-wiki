@@ -22,7 +22,7 @@ For renewable penicillin, extract charcoal and ethanol: **1 charcoal + 2 ethanol
 
 A grain or flour starter can ferment without existing yeast. Let the culture grow before withdrawing a yeast container if you want to retain it; each container holds 50 enzyme. Distilling 4 beer produces 2 ethanol. The starter jar needs glass and **Pottery Storage**; apothecary equipment follows **Herbalism** and **Apothecary**. The softwood ethanol-distillery recipe uses the legacy Economy & Production threshold of 45 where that research mode applies.
 
-Plague and flu spread to healthy humans standing within two tiles of a sick person or a body that died of it; immunity and sterile-mask protection still apply. Typhus comes only from fleas and cholera only from swallowed unboiled water, so neither spreads from person to person; malaria and zombie infection do not either. Each mouthful of contaminated food or drink is one chance to catch it, larger for bigger doses, and Strong Immune System lowers it.
+Flu passes to someone standing right next to a sick person, and a sneeze can carry it two tiles; walls stop both. Plague spreads to anyone within two tiles of a sick person or a body that died of it, but not through walls. A sterile mask stops your own sneezes and halves your chance of catching either. Weak Immune System doubles the chance of catching any illness and Strong Immune System cuts it to a fifth, and recent resistance to an illness also lowers the odds of catching it again. Typhus comes only from fleas and cholera only from swallowed unboiled water, so neither spreads from person to person; malaria and zombie infection do not either. Each mouthful of contaminated food or drink is one chance to catch it, larger for bigger doses, and Strong Immune System lowers it.
 
 A sick person's blood and raw flesh carry their illness. Blood drawn from someone with plague, typhus, cholera or malaria infects whoever it is injected into, and drinking it is a chance to catch it (malaria only passes by injection). Meat butchered from a sick body carries plague, typhus, cholera or intestinal worms. Cooking meat in an oven or pot kills every germ in it.
 
@@ -406,8 +406,9 @@ A disease caused by water-borne bacteria.
 Just a normal flu.
 
   - Caught from being dirty.
-  - Easily transmitted from person to person. A single person can
-    contaminate an entire village!
+  - Passes to people standing right next to you, and a sneeze can
+    carry it two tiles. Walls stop it. Keep the sick apart and wear a
+    sterile mask.
   - Will very probably not kill you, but can be an annoyance, causing
     blurred vision, blackouts, and fever.
   - Manageable by eating and drinking until full, and resting (buckling
