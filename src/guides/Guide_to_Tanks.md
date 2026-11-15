@@ -69,6 +69,7 @@ together.
 right. This is different from WASD(W to go forward, S to go back, you
 know the drill) control, so it may take some time to master. It is
 advised to drive jeeps first to get used to the driving system.
+* Cars, trucks, buses and tanks roll smoothly instead of jumping from tile to tile. Take one out of gear and it coasts on a little, slowing, and stops square on the next tile. A turn squares it on its tiles first.
 * You can run over trees/buildings with your tank and it does not
 damage your tank.
 * You can insta gib/kill any infantry if you run over them.
