@@ -198,3 +198,16 @@ use electronics or copper wire on it to repair it (crafting 100).
 - **Checking the link:** examine the relay to see its key, its condition and
 whether each other land is linked, has no key set, has no working relay, or
 is down.
+
+## Clocks and bells
+
+Before radios, people told the time and raised alarms with these. Each can be crafted once its research is done.
+
+| Piece | Recipe | Research | Use |
+| --- | --- | --- | --- |
+| Sundial | 3 stone | Stone Masonry | Click or examine it to read the hour. It only works outdoors in the morning, at midday and in the afternoon, under a clear sky. |
+| Water clock | 4 clay | Pottery & Cookware | Fill it with water, up to 120 units; one drains each minute. While it holds water it reads the time to the half hour, day or night. |
+| Hourglass | 1 glass | Glassworking | Turn it in your hand and it tells you when a minute has passed. |
+| Tower clock | 15 iron | Optics & Instruments | Wind it by hand (5 seconds) for two hours of running. It strikes each hour on a bell within two tiles. |
+| Clock face | 3 wood | Optics & Instruments | Hang it on a wall like a sign. It shows the time to the half hour while a running tower clock is within 7 tiles. |
+| Bell | 8 bronze | Bronze Working | Ring it by hand as an alarm. Everyone within 60 tiles who is more than 7 tiles away hears it and is told which way it lies. |

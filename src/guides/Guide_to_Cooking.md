@@ -119,6 +119,8 @@ Check **[here](../Food_Decay_Times.md)** for the decay times for different **uns
 
 Decay time of products stored in any containers is **doubled**.
 
+An **ice house** (10 wood, needs **Cooperage & Containers**) needs no power. Pack **snow piles** into it, each good for an hour of cold, up to ten hours. While it holds snow, food inside keeps about as long as in a freezer crate, longer than in a powered fridge. The snow melts a minute at a time unless it is freezing out; examine the ice house to see how much is left. Once it has melted, it keeps food like any other crate.
+
 Decay time for the food stored in a fridge is **eight time longer!**. **A fridge must be [connected](Guide_to_Crafting.md#wiring) to a [power source](Guide_to_Crafting.md#engines) to work!** If fridge not connected, it will still better than a regular container: decay time is **tripled**.
 
 ## Campfire, Oven and Wood Stove
