@@ -119,6 +119,21 @@ The hand mill, the large mill, the large and powered saw mills, the loom, the pr
 
 Pipe can be made of bamboo, logs, lead, copper, iron or steel. Tougher material carries more of a pump's flow, a network runs at its weakest pipe, and lead pipe slowly poisons the water. See [Factory Automation](Guide_to_Factory_Automation.md#pipes-of-other-materials-and-plumbing-before-electricity) for the table and the hand pump, wooden intake, cistern and water trough.
 
+## Cannon barrels
+
+With the **Cannon** research you can make the cannon from more than steel. Hold the stack, open its crafting menu and look in **Siege Weapons**.
+
+| Cannon | Made from | Barrel lasts | How it ends |
+| --- | --- | --- | --- |
+| Cannon (steel) | 35 steel | No limit | It does not wear. |
+| Iron cannon | 35 iron | About 204 shots | No warning. Once it has fired about half of that, any shot has a small chance to burst it. |
+| Bronze cannon | 35 bronze | About 101 shots | The barrel starts to bulge at three quarters, splits when spent, and bursts on the shot after. |
+| Iron-hooped wooden cannon | 12 wood, 4 iron and a hammer | About 5 shots | The same warnings as bronze. |
+
+- Examine a cannon to read its barrel, how many shots it is good for and its condition.
+- A bursting barrel explodes where the cannon stands and destroys it. Stop firing a bulged barrel and stand clear of an old iron one.
+- Artillery and tank guns always have steel barrels.
+
 ## Sparks
 
 Iron, steel and flint throw sparks. If you strike a barrel that holds gunpowder or fuel with a tool made of one of them while on **Harm intent**, there is a small chance each blow sets it off. Tools of bronze, copper, wood and bone never spark, so keep a bronze or copper set for work around powder and fuel. Examine a barrel to see whether its contents are dangerous. Filling, pouring and carrying a barrel are always safe.
