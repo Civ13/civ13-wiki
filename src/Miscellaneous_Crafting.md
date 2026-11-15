@@ -167,7 +167,8 @@ see [Civilizations and Nomads](gamemodes/Civilizations_and_Nomads.md#general).
 
 ## Tailoring your own clothes
 
-Design, cut and sew clothing, overclothes and hats in your own colours. You need
+Design, cut and sew clothing, overclothes, hats, gloves, footwear and belts in
+your own colours. You need
 **Weaving** to start a project, and each garment needs the same knowledge as
 its ready-made version, so the list of garments grows as you learn more.
 
@@ -309,5 +310,81 @@ knowledge for that garment, its pieces and its dyes.
 
 Stand still and keep the project in your hand while cutting or sewing. If you
 are interrupted, the project and any finished cutting are kept, so just start
-that step again. A finished garment cannot be recoloured, but it takes the
-usual clothing accessories such as sashes, aprons and capes.
+that step again. A finished garment takes the usual clothing accessories such
+as sashes, aprons and capes, and a tailor can still make
+[minor alterations](#minor-alterations) to it.
+
+### Gloves, footwear and belts
+
+Gloves, shoes, boots and belts are designed the same way, from leather. Open
+the leather crafting menu and make a **tailoring project** under **Clothing**
+for one leather sheet, then add more leather sheets for bigger items. Gloves
+can also be made from a woolcloth project, and a waist sash from a cloth or
+woolcloth one. A project only lists what its material can make, and leather
+shows its own tan through every dye.
+
+<img src="images/tailored_accessories.png" alt="Tailored gloves, long gloves, shoes, boots, tall boots, belts, wide belts and waist sashes in different colours and pieces, worn from all four sides and as loose items">
+
+| Item | Knowledge | Sheets | Pieces |
+| --- | --- | --- | --- |
+| Gloves | Weaving | 2 | cuff (turned, gauntlet or fur), back (padded or striped), capped fingertips |
+| Long gloves | Tailoring | 3 | top (banded or fur), back (padded or striped), capped fingertips |
+| Shoes | Classical Dress | 2 | thick sole, toe cap, fastening (laced, buckled or strapped) |
+| Boots | Fine Garments | 3 | thick sole, toe cap, fastening, cuff (turned or fur) |
+| Tall boots | Fine Garments | 4 | thick sole, toe cap, fastening, cuff (turned or fur) |
+| Belt | Weaving | 1 | pattern (studded or striped), buckle (square, round or plate), hanging end |
+| Wide belt | Tailoring | 2 | pattern, buckle, hanging end |
+| Waist sash | Classical Dress | 1 | stripes, fringed ends |
+
+A gauntlet cuff and a plate buckle each take one more sheet. Padded backs,
+capped fingertips, laces, studs, hanging ends and fringes need **Tailoring**;
+buckled fastenings and round buckles need **Classical Dress**; toe caps,
+gauntlet cuffs and plate buckles need **Fine Garments**.
+
+These designs change the look only. Tailored gloves, shoes and boots protect
+and keep you warm exactly like plain leather ones, and a tailored belt or sash
+is worn on the belt slot and carries pouches like a plain leather belt. They
+can be named, traced onto sewing patterns and kept in your pattern book like
+any other design.
+
+### Restyling bags, quivers and bandoliers
+
+A tailor can restyle a finished **leather backpack**, **leather satchel**,
+**duffel bag**, **rucksack**, **quiver**, **hide sling bag**, **bandolier** or
+**shoulder belt**. Special versions of these, such as scale satchels, cannot
+be restyled.
+
+<img src="images/tailored_bags.png" alt="Backpack, satchel, duffel bag, rucksack, quiver, sling bag, bandolier and shoulder belt, plain and in three dyed styles, as loose items and worn from all four sides">
+
+1. Hold an uncut tailoring project in one hand and the bag in the other.
+2. Use the bag on the project.
+3. Pick a dye for the **Fabric**, a dye for the **Straps** and a **Trim**
+   colour. A bandolier and a shoulder belt have straps and studs only. Choose
+   **As it was made** to put a part back.
+4. Choose **Sew the changes**. After about 4 seconds the bag is restyled.
+
+Each job takes one sheet from the project, of any material, and uses the dyes
+you know. A project with only one sheet is used up. Restyling changes the look
+only: the bag holds what it held before and is worn the same way, and buckles
+and toggles keep their own colour. Examining a restyled bag names its dyes.
+
+### Minor alterations
+
+A tailor can also change a finished tailored garment, hat, pair of gloves,
+footwear or belt without sewing a new one. Hold an uncut tailoring project of
+the **same material** as the garment in one hand and the garment in the other,
+then use the garment on the project. The same preview appears while you
+choose.
+
+- **Colours** re-dyes a part, and **Pieces** swaps a piece for another.
+- One job changes at most **two parts**, takes one sheet from the project and
+  about 4 seconds. Do another job to change more.
+- An alteration is never a new garment. The garment, its name and its designer
+  stay the same; a piece that needs extra fabric, such as long sleeves, legwear
+  or a hood, cannot be added; and nothing that changes what the garment covers
+  can be swapped.
+- You need the knowledge for any new dye or piece you choose. Colours already
+  on the garment can stay even if you could not make them yourself.
+
+Clothing that was not tailored cannot be altered. Since the garment has to be
+in the tailor's hands, its owner hands it over for the work.
