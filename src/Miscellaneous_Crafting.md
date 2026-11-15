@@ -162,6 +162,8 @@ Every finished flag has a **design code**, a short line of text starting with
 choose **Show Design Code** to copy it. To make the same flag again, choose
 **Use a design code** on a new flag maker, or on a blank flag on a pole, and
 paste it in.
+Faction symbols for banners have their own codes, starting with `C13SYMBOL/`;
+see [Civilizations and Nomads](gamemodes/Civilizations_and_Nomads.md#general).
 
 ## Tailoring your own clothes
 

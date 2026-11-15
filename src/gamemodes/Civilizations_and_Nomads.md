@@ -78,7 +78,8 @@ Work smart, not hard!
 
 #### General
 
-* To **Create** a faction, open the **Faction tab** and click **Create Faction**. Choose a name for it, as well as symbols and colours for your faction's banner.
+* To **Create** a faction, open the **Faction tab** and click **Create Faction**. Choose a name for it and draw your faction's symbol on the 32x32 canvas, or stamp one of the classic shapes and draw over it. Your banner colours are taken from the drawing. As Leader you can change the symbol later with **Modify Faction Symbol** on the **Faction tab**.
+* Both symbol canvases have **Copy design code** and **Paste design code**. The design code is the symbol written out as text, starting with `C13SYMBOL/`, so you can keep it outside the game and use it again for a new faction or on another land. Pasting only fills the canvas: in **Modify Faction Symbol**, press **Save** to put it on your banners. A code keeps up to 16 colours; a busier symbol keeps its 16 most used colours.
 * To join a faction, you must be **Recruited** by its leader or by a member who has the **Recruitment** permission, or join through one of its [recruitment stations](#recruitment-stations). If you are already in another faction, accepting moves you over and you join as an ordinary member, without any rank or permissions you had before.
 * You can leave a faction by clicking **Abandon Faction** on the **Faction tab**. Take note, that **you will not be able to rejoin the same faction for 24 hours!**
 * Creating a faction makes you the default **Leader**.
