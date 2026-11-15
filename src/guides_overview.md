@@ -14,6 +14,7 @@ New to the game? Start with [How to Play](New_Player_Guide.md), then the [Starte
 - [Character & Skills](guides/Guide_to_Character.md)
 - [Exercise & Training](guides/Guide_to_Exercise.md)
 - [Slang](guides/Guide_to_Slang.md)
+- [Peoples and Languages](guides/Guide_to_Peoples_and_Languages.md)
 
 ## Production & Crafting
 

@@ -42,7 +42,7 @@ P.S. 20 is a lie, it is 2**<u>.</u>**0
 | Pistol       | - Chance to hit a target with a pistol                       | - Shooting targets with a pistol                             |
 | Bows         | - Chance to hit a target with a bow                          | - Pincushioning targets with arrows                          |
 | Medical      | - Extra healing bonus when using healing items<br /> - Ability to perform surgeries at all, success chance during a surgery step | - Performing surgeries on people (not necessarily living)    |
-| Philosophy   | - Ability to found a religion<br />- Ability to write **[language books](#languages)** | - Writing and reading scientific literature                  |
+| Philosophy   | - Ability to found a religion | - Writing and reading scientific literature                  |
 | Machine gun  | - Chance to hit a target with a machine gun                  | - Pumping targets full of lead                               |
 | Farming      | - Ability to check plants' water level<br />- Ploughing speed<br />- Seeds and crops per harvest | - Planting seeds<br />- Ploughing fields<br />- Harvesting crops |
 | Hunting      | - Meat and fat from butchering animals                       | - Butchering dead animals                                    |
@@ -83,15 +83,13 @@ Playstyle traits suit a way of playing. Each one costs nothing because it comes 
 
 ## Languages
 
-There may be more than one ethnicity on a given map, and each ethnicity speaks its own language. On some maps you can choose who you spawn as, which, basically, equals to choosing a starting language.  On others spawning is random. Furthermore, on some maps you can choose two languages at the start, a "primary" (also determines ethnicity) and a "secondary" one.
+Your character belongs to a people, and your people's language is your mother tongue. You know every language to a score from 0 to 100: you can speak one from 25 (Broken), read and write paper in it from 60 (Conversational), and you are fluent from 90.
 
-**You can learn a new language by listening to it being spoken by others** (first option, takes about 20-30 minutes of continuous listening in total; learning progress is saved). Some languages, for example, German and Dutch, have a degree of mutual similarity, so that a speaker of one language have some initial grasp of the other and can learn it faster. 
+**Learning a language takes days, not minutes.** You pick it up by hearing and speaking with people who know it better, by taking lessons from a fluent speaker (**Teach Language**), from a language book, and by studying writing. Related languages, such as German and Dutch, give you a head start in each other.
 
-As you learn a new language, you will start understanding more and more of it.
+The IC tab has the following commands regarding languages: **Check Default Language**, **Check Known Languages**, **Set Default Language** and **Teach Language**.
 
-**Another option is reading a suitable language book.**  You can write one if you know at least two languages and have 1.35 of the philosophy skill. Reading or writing one needs light: at night or in a dark room, bring a candle, lamp or torch. 
-
-The IC tab has the following commands regarding languages: **Check Default Language**, **Check Known Languages** and **Set Default Language**.
+See [Peoples and Languages](Guide_to_Peoples_and_Languages.md) for the peoples of each land, the levels and every way to learn.
 
 ## Combat
 

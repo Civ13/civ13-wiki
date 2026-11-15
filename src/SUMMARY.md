@@ -17,6 +17,7 @@
         - [Character & Skills](guides/Guide_to_Character.md)
         - [Exercise & Training](guides/Guide_to_Exercise.md)
         - [Slang](guides/Guide_to_Slang.md)
+        - [Peoples and Languages](guides/Guide_to_Peoples_and_Languages.md)
     - [Production & Crafting]()
         - [Crafting](guides/Guide_to_Crafting.md)
         - [Metallurgy](guides/Guide_to_Metallurgy.md)
