@@ -102,6 +102,12 @@ Melee is decided by your combat settings on the HUD, explained in full in [Chara
 
 If you are sparring with a friend, turn on **Pulling punches** in the IC tab so unarmed hits do no harm.
 
+### Charges, braced spears and shield walls
+
+- **Mounted charge:** ride a horse straight in one direction for four steps with a spear, pike or halberd in your active hand, and you strike the first person standing in your path. The blow hits hard, knocks them down and drives them back a tile. A shield facing you can turn it aside. Turning or slowing down loses the charge.
+- **Brace:** with a spear, pike or halberd in hand, use **Brace** in the IC tab and face the oncoming riders. For ten seconds, or until you move, a horse charging into you runs onto your point: the horse is hurt and its rider is thrown to the ground. A deployed sarissa or pike counts as braced the whole time.
+- **Shield wall:** a shield blocks more often for every comrade standing right beside you, to your left or right, who also holds a shield and faces the same way, up to two. This works against blows, arrows and crossbow bolts alike, so keep the line straight and shoulder to shoulder.
+
 ## Cover
 
 - **Trenches** are the best protection on many maps. Someone standing in a trench can only be hit in the head by a shooter at a distance, and someone prone in a trench cannot be hit by distant fire at all. See [Trenches & Fortifications](Guide_to_Trenches.md).
