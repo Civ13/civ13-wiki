@@ -575,6 +575,12 @@ While she is at sea she lies at anchor off the coast and nobody steers. The till
 
 Every land has its own riches. Smaller lands are richer in ore and more often hide something rare, such as gems, a rich vein of gold or silver, or diamonds; larger lands grow food better. Each land is known for a few kinds of ore, which turn up as rich lodes when you mine there, and for a few kinds of game, which are plentiful there.
 
+### Sailing between the Americas and Gaia
+
+Gaia lies across the sea to the east of the Americas, and the way there is by ship. Bring a ship you [built yourself](#building-your-own-hull) within 4 tiles of the edge of North or South America, click the tiller and choose **Set out on a voyage**. **Gaia** is at the top of the list, with how long the voyage takes: about 6 minutes from North America and 8 from South America under sail, less under engines. From Gaia, North and South America are on the same list.
+
+The usual voyage rules apply: she needs a rigged mast or a running engine, and food for everyone aboard. One sailor is enough for this crossing. She arrives anchored off Gaia's west coast, or off the east coast of the Americas on the way back. Your character lives in the land you sail to from then on; sail back to return.
+
 ### Settle, claim or abandon
 
 A new land is undecided until its crew choose:
