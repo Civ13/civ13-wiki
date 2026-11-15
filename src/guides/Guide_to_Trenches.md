@@ -59,3 +59,16 @@ A tunnel shaft you dig with a shovel is an open **pit** with no ladder down. Cli
 - Leave a covered route back to your own lines so the wounded can be moved out.
 
 See [Construction](Guide_to_Construction.md#fences-barricades-and-barriers) for barricade recipes, and [Combat](Guide_to_Combat.md#cover) for using cover in a fight.
+
+## Sieges and castles
+
+Once your people know **Siege Engines**, you can build a battering ram, a ballista and a siege tower. **Fortifications** adds the trebuchet and the castle gate pieces. Everything here is built from wood except the murder hole.
+
+- **Battering ram** (30 wood). Push it up against a gate, door, barricade or built wall, face it there and swing it. Each swing takes three seconds and hits harder for every person standing beside the ram, up to four. A full crew breaks a gate in three swings.
+- **Ballista** (25 wood) and **ballista bolts** (2 wood). Fasten it with a hammer, load a bolt and loose it. The bolt flies straight ahead for up to 24 tiles and can pass through two people.
+- **Siege tower** (60 wood). Push it against a wall and face it there, then lower its drop bridge. Anyone standing beside the tower can climb it and land on the first clear tile beyond the wall. The tower blocks sight, so the defenders can't see who is gathering behind it. Moving or turning it raises the bridge again.
+- **Trebuchet** (80 wood). A bigger catapult: it throws from 30 to 140 tiles and hits harder, but takes longer to wind.
+- **Portcullis** (12 wood) and **drawbridge** (15 wood). Heavy castle gates that can't be opened by hand. Build a **gate winch** (8 wood) beside them; working it raises or drops every portcullis and drawbridge within two tiles. A shut portcullis stops people but not arrows, and a raised drawbridge also blocks sight. For a moat, dig a ditch in front of the gate, let the river flood it and span it with the drawbridge.
+- **Murder hole** (3 stone). Pour a container of liquid through it onto the floor below, or onto the tile in front on a single floor. With a lit fire or brazier beside it, the liquid is boiling: water scalds, and oil burns much worse.
+
+**Undermining.** Dig a tunnel under an enemy wall, gate or barricade on the floor above, and it collapses into your tunnel about 30 seconds later. A **mine support** beside the tunnel holds it up, and pulling out or burning that prop brings it down at once. Defenders can dig their own tunnels to find and stop the miners.
