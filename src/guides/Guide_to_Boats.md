@@ -561,6 +561,14 @@ From there you can:
 - **Sail for a land** your chart shows. Each land lists its size (tiny or small), its climate, its kind of country (coastal plain, river delta, highlands, fjord coast...) and how long the voyage takes: about **a minute for each square of the chart** under sail. A ship driven at full ahead by her engines takes about 40 seconds a square.
 - **Scout unknown water** to the north, east, south or west. She sails 4 squares out and back (8 minutes); what her crew saw goes on your chart.
 
+Any crew may open a new land; nobody has to approve it. A few rules keep the sea from filling up:
+
+- Your crew opens **one new land at a time**. While a land you opened is still undecided, [settle, claim or abandon it](#settle-claim-or-abandon) before you open another.
+- After opening a land, your crew can open the next one **3 hours** later. Lands that are already open can be sailed for at any time.
+- After she makes landfall, a ship stays at least **15 minutes** before she can put to sea again.
+- Only a few lands are awake at once. A land that stands empty for an hour may be **laid up** when its harbour is needed; nothing on it is lost. The chart marks it as laid up, and it is made ready again while a ship sails for it. If your character lives on a laid-up land, press Join and it is made ready within a few minutes.
+- If every harbour is busy, the tiller tells you so and she stays under your hand. Try again a little later, or sail for a land that is already open.
+
 ### Rations and the sea
 
 Every crew member eats **one ration for each square** of the voyage, and any food aboard counts: in the hold, in crates or in your pack. If she carries too little, the tiller warns you before she sails. The food is eaten when she arrives; if she was short, everyone lands hungry. Nobody starves at sea.
@@ -588,7 +596,8 @@ A new land is undecided until its crew choose:
 | Choice | How | What it means |
 | --- | --- | --- |
 | **Settle** | Click the tiller and choose **Settle this land**. It needs a mooring post on the coast and beds slept in by **3 different people** within 40 tiles of it. | The land stays for good and appears on everyone's chart, so any ship can reach it. Beds there keep their sleepers' homes. |
-| **Claim** | A faction leader who sailed here plants their **colony charter**. | The land becomes your faction's colony. Each faction can claim **one** land, and each land takes one faction. |
+| **Claim** | A faction leader who sailed here plants their **colony charter**. | The land becomes your faction's colony. Each faction can claim **one** land, and each land has one claimant. |
+| **Claim it for yourself** | Click the tiller and choose **Claim this land**. It needs a mooring post on the coast and **your own bed** within 40 tiles of it. | The land is yours and stays for good, on everyone's chart. Each person can claim **one** land, besides the one their faction claims. **Give up your claim** at a tiller there frees you to claim another; the land stays, settled. |
 | **Give up the claim** | The colony's leader clicks its charter and gives the claim up. | The charter comes down and the land stays, settled and open to any faction's claim. Your faction may then claim another land. |
 | **Abandon** | When you sail away from an undecided land, the captain is asked whether to abandon it. | The land is gone for good: nobody can sail there again, and anything left there is lost. |
 
