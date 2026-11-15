@@ -234,6 +234,7 @@ Crackling fires will keep you warm even without a coat.
 - A **campfire** warms you when you are right next to it, or within one tile.
 - A **brazier** (made with **stone**) provides more heat and warms you within three tiles.
 - Both campfire and brazier are refueled by adding **wood**, **coal**, or **charcoal**. Braziers can also be refueled with **paper- and cloth-based items**.
+- A campfire or fire pit burns one **wood log** every 8 minutes, so about **5 logs** keep it going through a whole night. Examine the fire to see roughly how many minutes of fuel it has left.
 
 ### Dangerous animals
 
