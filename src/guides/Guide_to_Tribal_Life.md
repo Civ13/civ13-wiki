@@ -30,6 +30,8 @@ Deeds include bringing down a big or dangerous beast, hollowing out a dugout can
 
 A shovel levels the mound again; a second go digs up the grave as before.
 
+**Buried alive.** Anyone still alive when a grave is filled over them is buried alive, whether they lie in the open or are shut in a coffin. A closed coffin holds a few minutes of air, but bare earth only gives you one held breath. After that you suffocate until you die, someone digs the grave up, or you claw your way out by pressing **Resist** again and again. In a coffin you first have to force the lid, and a locked coffin won't open from inside. A burial mound on top means twice as much earth to dig through, and every push uses up air.
+
 <img src="../images/Cairn.png"> A **cairn** is a heap of stones raised as a marker. When you build one you can give it a name and say what it marks.
 
 ## Feasts
