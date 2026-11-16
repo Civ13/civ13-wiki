@@ -83,6 +83,13 @@ Some traits come as opposite pairs, and you can't take both halves of a pair:
 
 **Squeamish** (gives back 1) makes seeing someone maimed hurt your mood twice as much. Thick Skinned and Squeamish can't be taken with Hardened Fighter, and Strong Back can't be taken with Quartermaster.
 
+### Eyesight traits
+
+- **Nearsighted** (gives back 2): everything past a few tiles fades into grey fog that grows darker toward the edges of your screen. You can still make out shapes in the fog. If you stand still for a moment you squint and the fog thins by about half.
+- **Farsighted** (gives back 1): you squint at a paper or book for a moment before you can read it. Studying, writing and copying take 50% longer.
+
+Corrective glasses or a monocle fix both traits while you wear them. Both can be crafted once your people know glassworking. Neither trait can be taken with Blind, but you can take both together.
+
 ### Playstyle traits
 
 Playstyle traits suit a way of playing. Each one costs nothing because it comes with its own drawback, and you can take only one of them. Most drawbacks only slow how fast a skill trains, so you can still learn everything. Mood effects, food use and the Wanderer's stamina bonus apply on maps where you get hungry.
