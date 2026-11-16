@@ -1581,6 +1581,18 @@ Windows and shutters don't take them.
 - Doors burn by what they are made of: wooden doors burn fast, metal doors
   slowly and stone doors hardly at all.
 
+#### Smoke
+
+- A fire fills the room around it with smoke that spreads from tile to tile,
+  thinner the further it goes. Walls, shut windows and shut rated fire doors
+  stop it, so fire doors keep smoke in the part of the building that is
+  burning. An ordinary shut door lets a thin wisp seep round it; an open door
+  or open window lets it through.
+- Thick smoke blocks sight. Breathing it makes you cough, and thick smoke
+  chokes you. A gas mask keeps you breathing.
+- Out in the open smoke clears quickly. Indoors it hangs about until the fire
+  is out, then slowly thins; open doors and windows to let it out.
+
 ### Taking doors down
 
 An unlocked, unbarred or open door can be taken off its hinges in 15 seconds: use a
