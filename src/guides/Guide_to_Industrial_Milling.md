@@ -38,4 +38,28 @@ The machine works one load per cycle until it runs out of feed, water or drive. 
 
 From then on, stamped gold-bearing quartz and silver-bearing ore come out as amalgam and amalgam tailings, with no washing step. About half of the metal is caught, and a little quicksilver is lost with each load. When the quicksilver runs out, the mill crushes ore as usual.
 
+## The hydraulic monitor
+
+<img src="../images/Hydraulic_monitor.png"> A **hydraulic monitor** (15 iron) blasts a whole river bank down at once.
+
+1. Build it on a tile that is right beside fresh river water and next to a mill wheel, treadwheel, horse gin or windmill.
+2. Bolt it down with a wrench.
+3. Use **Turn Nozzle** to aim it at an uncovered dirt or sand tile.
+4. Work it with an empty hand.
+
+The jet tears that tile down into **6 loads of pay dirt** in one go. The land pays a heavy price for it.
+
+- <img src="../images/Stripped_bank.png"> The tile becomes a **stripped bank** of bare gravel. Nothing grows on it, and it never gives pay dirt or anything else again.
+- The silt fouls the river downstream.
+
+## The cyanide vat
+
+<img src="../images/Cyanide_vat.png"> A **cyanide vat** (8 wood) gets the last gold out of old tailings. It only works from the Early Modern age.
+
+1. Pour water and cyanide into the vat.
+2. Put a sheet of zinc in its zinc box. One sheet lasts for 10 loads.
+3. Use **tailings** or **amalgam tailings** on the vat.
+
+Each load uses 1 unit of cyanide and some water. About one load in seven gives a lump of gold ore, and the tailings are used up. Cyanide kills, so keep it out of reach. Draining the vat or breaking it spills its cyanide into the river.
+
 Press and retort the amalgam as described in [Amalgamation](Guide_to_Amalgamation.md#getting-the-metal-out). Keep the drum, the plates and their tailings away from water that people drink or fish.
