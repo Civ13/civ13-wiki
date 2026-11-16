@@ -53,7 +53,11 @@ Use raw meat or raw fish on your pole or rod to bait it. A net takes no bait. On
 
 ### Fishing from a boat
 
-Stand on a boat on the water (a ship or small boat, moored or under way) and cast into the open water beside it, not onto the hull. The open ocean is wide and bites come less often there than on the coast, so bait helps. See [Boats & Ships](Guide_to_Boats.md) for building a boat.
+Stand on a boat on the water and cast into the open water beside it, not onto the hull. The open ocean is wide and bites come less often there than on the coast, so bait helps. See [Boats & Ships](Guide_to_Boats.md) for building a boat.
+
+* **Trolling:** on a ship that is under way, use a pole or rod on the water and you tow the line astern instead of casting. Stay aboard, near the rail, until the wait is over. **Slow ahead** is the best speed, better than fishing at anchor; half ahead is ordinary; at full ahead the lure skips and little bites. Whatever you hook comes from the water the ship is passing over, so trolling spreads your fishing across many stretches. Spears and nets do not work under way.
+* **Engines scare fish.** With an engine running aboard, moving or not, bites come much less often. Boats under sail or oars are quiet. Stop the engine before you fish.
+* **Sonar:** a submarine's sonar ping also reports the fish in the water above it, and points toward richer water when the stretch overhead is thin.
 
 A **fish weir** set in a river catches a few fish on its own while you are away. It takes them from the river around it, so it stays empty where the water has been fished out. See [Trapping](Guide_to_Trapping.md#fish-weirs).
 
