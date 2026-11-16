@@ -25,6 +25,7 @@ Use **4 clay** on the bench and choose a brick. Ten seconds later you have **eig
 
 - **Clay blocks** and **bricks** cost the same clay as by hand, but come eight at a time.
 - **Cement bricks** need <img src="../images/Quicklime.png"> **quicklime**. Use quicklime on the bench to fill its tub (it holds 20). Each batch of eight cement bricks then takes 4 clay and 2 quicklime. By hand, a single cement brick takes 4 clay.
+- **By hand**, clay bricks and cement bricks are mixed wet: each one also takes 10 units of water from a bucket or bowl you hold or stand on. It's free while you work beside running water: a river with a current, an aqueduct, a fountain, a tap or a sink. Paper sheets take water the same way.
 
 Fire the bricks to finish them.
 
