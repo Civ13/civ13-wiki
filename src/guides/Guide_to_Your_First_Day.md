@@ -139,6 +139,21 @@ Rope comes from the crude twine you twist from grass cuttings or sinew. Make the
 
 To move a bigger load, build a **travois** (Primitive Construction, 8 logs, soft wood or bamboo): two poles lashed into a drag with a hide platform. It works like a crate: open it, put up to 15 things on its tile, close it, then **Ctrl-click** it to pull it behind you.
 
+## Storing things
+
+You don't need Cooperage to keep things safe at home. These containers open their own storage window: click one with an empty hand to see what is inside, click it with an item to put the item in, and drag things out of the window to take them.
+
+| Container | Chapter | Made from | Holds | Good for |
+| --- | --- | --- | --- | --- |
+| **Woven basket** | Weaving | 3 rope, 6 leaves, 4 bamboo or 4 planks | 7 things, up to normal size | Everyday odds and ends. It is light enough to drag about. |
+| **Clay storage jar** | Pottery & Cookware | 3 clay, fired in a kiln or oven | 6 small things, such as grain, seeds, food and beads | Food keeps twice as long, and fire can't touch it. The fired jar is set down beside the oven. |
+| **Hewn log chest** | Basic Furniture | 6 logs | 10 things, up to large tools and weapons | Gear too long for a basket |
+| **Storage pit** | Primitive Construction | A **pit lining** (4 leaves or 2 leather) | 14 things, up to normal size | The most room of any early store. The cool earth keeps food a little longer. |
+
+To dig a storage pit, hold a shovel or digging stick in one hand and use the pit lining on bare ground next to you (grass, dirt, sand or snow). A pit can't be moved. Fill it back in with a shovel to remove it, and whatever was inside comes out.
+
+Right-click a container and choose **Dump Out**, or **Alt-click** it, to tip everything onto the floor at once. A broken container spills what it held.
+
 ## Sleeping and logging off
 
 **Don't just log off.** Your character stays in the world, asleep on the ground, where it can be robbed or killed and still slowly gets hungry.
