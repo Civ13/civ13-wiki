@@ -35,7 +35,7 @@ Every firing wears the retort's clay seal. A badly worn seal cracks: the retort 
 
 ## Mercury poisoning
 
-Breathing mercury fumes, and to a lesser degree swallowing liquid mercury, builds up a **mercury burden** in your body. It drains on its own, but slowly. About a tenth of it goes each hour.
+Breathing mercury fumes, drinking from or eating fish from a river fouled with it, and to a lesser degree swallowing liquid mercury, builds up a **mercury burden** in your body. It drains on its own, but slowly. About a tenth of it goes each hour.
 
 | Stage | Signs |
 | --- | --- |
