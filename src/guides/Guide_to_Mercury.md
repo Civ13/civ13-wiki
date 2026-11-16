@@ -52,3 +52,7 @@ How to stay safe:
 - If you start to shake, stop working with mercury and let your body clear it.
 
 A doctor's handbook used on a patient shows mercury poisoning and its stage.
+
+**Dimercaprol** draws mercury out of the body much faster. A 5 unit dose clears a large part of the burden. It can only be made from the Modern Medicine age, by mixing glycerol, bromine and sodium sulfide in equal parts.
+
+For the crafts that use quicksilver, see [Quicksilver Crafts](Guide_to_Quicksilver_Crafts.md).

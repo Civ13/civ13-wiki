@@ -32,6 +32,7 @@
         - [Mercury](guides/Guide_to_Mercury.md)
         - [Ore Dressing](guides/Guide_to_Ore_Dressing.md)
         - [Placer Mining](guides/Guide_to_Placer_Mining.md)
+        - [Quicksilver Crafts](guides/Guide_to_Quicksilver_Crafts.md)
         - [Pouches, Belts & Gemstones](guides/Guide_to_Pouches_and_Gemstones.md)
         - [Painting](guides/Guide_to_Painting.md)
         - [Research](guides/Guide_to_Research.md)
