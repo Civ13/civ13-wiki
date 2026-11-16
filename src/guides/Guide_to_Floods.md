@@ -69,7 +69,7 @@ What goes into a river travels with it. A drain that has carried waste lately, a
 
 - **Scum.** Fouled river water shows a film of scum, thicker the worse it gets. Examine the water up close to be sure.
 - **Big rivers dilute.** The same sewage barely touches a wide river but makes a small stream foul.
-- **Effects.** Foul water carries more germs for anyone who drinks or washes in it, an aqueduct drawing from it is fouled, and fish grow back more slowly there.
+- **Effects.** Foul water carries more germs for anyone who drinks or washes in it, an aqueduct drawing from it is fouled, and fish grow back more slowly there. A well within three tiles of foul river water draws the filth through the bank and turns dirty. Scrub it with soap once the river runs clean again.
 - **What to do.** Put a settling tank on your outfalls, pull bodies out of the river, and if the town upstream is fouling your water, take it from somewhere else.
 
 ## Aqueducts
