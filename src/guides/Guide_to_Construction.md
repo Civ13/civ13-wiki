@@ -863,6 +863,8 @@ sandstorms, as well as a nice cool shade.
 Roofs are supported by walls, wooden roof supports and stone pillars and
 columns. ***Wooden mine supports do not hold the buildable roof!***
 
+Roofing piles up, up to 25 pieces in one pile, and the pile's name shows how many it holds. Drop roofing on a pile of the same roofing and it joins the pile. Use the roofing in your hand on more of the same roofing to pick up all of it from that tile. To take a single piece off a pile you are holding, click the pile with your other, empty hand. Each roof tile you build uses one piece. Roof tiles fired in a kiln come out in one pile.
+
 ### Weathering and repairs
 
 Walls and roofs made of fibre (straw, thatch and the like), earth and timber slowly wear out with the weather. Fibre lasts 16 game years, earth 32 and timber 64. Examine a wall or roof to see how many seasons it has left; in its last year it warns you and names the item that repairs it, and people nearby get a warning when a piece enters its last year and again in its last season.
@@ -876,7 +878,7 @@ A worn building gives fair warning before anything falls:
 - **A roof that loses a worn-out support sags first.** Everyone who can see it is warned, and it falls about a minute later unless you put a wall or support under it in time. A roof whose support is knocked down, burnt or dismantled still falls within seconds.
 - A worn-out roof falls apart whether or not it is supported.
 
-- **Roofs** are repaired with matching roofing: use it on the roof, or use it while facing the roof. The roofing is used up.
+- **Roofs** are repaired with matching roofing: use it on the roof, or use it while facing the roof. One piece of roofing is used up.
 - **Walls** are repaired with their building material. The repair costs the missing share of what the wall took to build, at least one unit.
 
 <table>
