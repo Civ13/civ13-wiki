@@ -73,7 +73,6 @@ Decay (minutes)
 &nbsp; &nbsp; • 1 phosphorus, 1 sugar and 1 saltpeter &#91;potassium&#93; will react to 0.4 chemsmoke; that reaction will take all reagents from holder and they will used in created smoke<br>
 &nbsp; &nbsp; • <i>it's not a joke, but 1 sugar, 1 carbon and 1 acetone will react to 3 &#8243;&#8243; reagent (annihilated)!</i><br>
 &nbsp; &nbsp; • <i>2 sugar, 3 egg yolk and 10 flour must react to sweet dough, but will annihilated; also egg yolk is unobtainable now</i><br>
-&nbsp; &nbsp; • <i>1 sugar and 1 water will not react to 2 mead (with 5 enzyme as catalyst), because inherited with another &#8243;mead&#8243; reaction from honey, that is unobtainable now</i><br>
 &nbsp; &nbsp; • <i>1 lemon juice, 1 sugar and 1 water will react to 3 lemonade, but lemon juice is unobtainable now</i>
 </details></small>
 </td>
@@ -707,8 +706,7 @@ To maximize the amount of fuel in a bloomery, furnace (not iron furnace), or ove
 but there are no standard ways to extract nutriment from food</i><br>
 &nbsp; &nbsp; • <i>10 berry juice will react to 10 grenadine (with 5 enzyme as catalyst), but berry juice is unobtainable now</i><br>
 &nbsp; &nbsp; • <i>10 watermelon juice will react to 5 watermelon liquor (with 5 enzyme as catalyst), but watermelon juice is unobtainable now</i><br>
-&nbsp; &nbsp; • <i>1 sugar and 1 water will not react to 2 mead (with 5 enzyme as catalyst), because inherited with another &#8243;mead&#8243; reaction from honey</i><br>
-&nbsp; &nbsp; &nbsp; &nbsp; *<i>&#8243;mead&#8243; reaction needs 2 honey and 2 water without any enzymes, they will react to 2 mead</i>
+&nbsp; &nbsp; • <i>1 honey and 1 water make 2 mead must, which ferments into mead in a closed wooden barrel (faster with yeast)</i>
 </details></small>
 </td>
 <td>30</td>
