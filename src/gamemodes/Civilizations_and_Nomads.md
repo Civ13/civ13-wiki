@@ -259,7 +259,7 @@ craftables (over 700!) with all the costs and necessary research
 levels, check **[Full Crafting List](../Full_Crafting_List.md)**.
 
 #### Industrial
-- 8: forks, knives, spoons. copper coins, Copper hatchet & spear **(requires 8 in Military too)**
+- 8: forks, knives, spoons. Copper hatchet & spear **(requires 8 in Military too)**
 - 14: chair, wood chest, bookcase, target dummy
 - 15: dice, bow
 - 17: gold and silver hatchets and spears **(requires 16 points in Military too)**

@@ -172,6 +172,8 @@ A **resource forge** is a separate structure (one serves your whole faction, not
 | Silver | 1 |
 | Gold | 4 |
 
+Those values are for full-weight coins. A debased coin counts only for the metal in it (see [Money & Coins](Guide_to_Money.md#debased-coins)).
+
 When you interact with the forge, you're prompted for how many coins to melt (so a full purse isn't accidentally vaporized in one click).
 
 **Cost to grant the Nth bonus bench slot:**
