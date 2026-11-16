@@ -16,12 +16,18 @@ Butchering, using the toilet and picking up dung leave your hands dirty. Gloves 
 
 The first bite of each meal with dirty hands can give you food poisoning, and hands that touched waste can give you cholera or worms. Wash your hands first: use a sink or tap, or click any fresh water with an empty hand on **Help intent**. Any wash at a bath or shower cleans your hands too.
 
+## Bathing in rivers and lakes
+
+Undress, stand in fresh water and use **Bathe** (IC tab). After fifteen seconds you are clean: running river water gets you properly clean, still water a little less. Soap makes it a full wash. Bathing in foul water, like a swamp or a river with scum on it, can make you ill.
+
+Getting properly clean gives you a small mood lift for being freshly bathed.
+
 ## Bucket and the like
 
 1. Fill a bucket with at least 30 units of clean water. Use well water, or boil water collected from a puddle or river in a pot.
 2. Remove your clothing before washing. Find a private spot first.
 3. Target your chest on Harm intent and click yourself with the bucket.
-4. Repeat as needed. Several washes, usually three, help remove the visible cloud of dirt and improve hygiene.
+4. A bucket wash gets you only part of the way clean. For a full wash, bathe in a river, use a bath or shower, or use soap.
 
 ## Shower
 
@@ -39,7 +45,7 @@ Bath materials depend on the epoch. Search for "bath" in the [Full Crafting List
 2. Click the bath to fill it with water.
 3. Step inside and stay for a few seconds. Buckling is optional.
 
-Baths made from more advanced materials clean more effectively. In increasing order: wood, stone, copper, bronze and steel.
+Every bath and shower gets you equally clean. On the persistent world a bath or shower needs water: pour it in with a bucket, or build it beside running water (a river with a current, an aqueduct channel, a fountain, a tap or a sink) and it fills itself. Each run takes a tubful, 100 units, or 80 for bronze and steel baths, so better baths use less water.
 
 ## Soap
 
