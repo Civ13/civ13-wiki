@@ -943,6 +943,8 @@ the roof. An additional "Turf" tab will appear in the upper right corner - click
 will collapse! Collapsing roof may severely injure and even kill those
 in the roofed area, or even standing next to it.**
 
+**To take down a roof support, pillar or column, click it with a hammer** (not on harm intent, which strikes it instead). A wooden or bamboo support takes a few seconds, a stone one longer, and you get back the 2 wood, bamboo, stone, marble, sandstone or obsidian it cost; a concrete pillar gives nothing back. The game will not let you take down a support while a roof near it stands on it alone: put up another support or a wall nearby first, or take the roof down.
+
 ### Upper storeys
 
 A roof is also the floor of the storey above it. Each roof tile you build adds a walkable **upper floor** on the level above, and the game says "finishes building the roof and upper floor" when it does. Before you build, the roof builder tells you whether a floor will be added and, if not, why. The game refuses a roof that the structure below cannot carry and tells you why, before any material is used. Roofs that already stand are not affected by these rules.
