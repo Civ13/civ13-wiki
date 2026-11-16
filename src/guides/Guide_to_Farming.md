@@ -219,7 +219,7 @@ At 1.3 or higher skill, you will be able to tell when a plant is sufficiently we
 
 At 1.3, dead crops also advise uprooting before replanting. At 1.6, living crops give qualitative water and depleted-soil guidance; 2.2 reveals numerical water and nutrition. Mushrooms report their water exemption. Soil advice reflects the crop's last nutrition sample, so fertilizer appears in diagnostics after the next growth cycle.
 
-Harvest a ready crop, or uproot an unready or dead one, with a knife, hatchet, bayonet or scythe. This removes the plant; it is not a perennial harvest.
+Harvest a ready crop, or uproot an unready or dead one, with a knife, hatchet, bayonet or scythe. This removes the plant.
 
 Each harvest also trains farming, and a skilled farmer gathers more. Above 1.0 skill, every 0.01 adds 1% more seeds and crops: at 1.5 a crop gives about half again as much, and at 2.0 or higher it gives double (for example 4 seeds instead of 2). The bonus stacks with the extra crops from well-fed soil.
 

@@ -56,7 +56,7 @@ batch before loading another.
 
 Cut logs into planks with the usual tools. A **hatchet** consumes **2 log units**
 for **1 plank and 2 bark pieces**; a **saw** consumes **1 log unit** for **4 planks
-and 1 bark piece**. Bark is a byproduct of paid log cutting, not a free supply.
+and 1 bark piece**.
 
 Use an accessible reagent vessel containing at least **10 units of water** with
 one bark piece, using either interaction above. **1 bark + 10 water** produces

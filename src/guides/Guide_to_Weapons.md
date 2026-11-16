@@ -1147,16 +1147,16 @@ Insert a compatible magazine and chamber a round as required by the gun. Check t
 - Rounds marked **(AP)**, armor piercing, deal less damage but beat about one more armor tier and pass through one more layer of cover. Use them against armored targets.
 - Rounds marked **(HP)**, hollow point, deal more damage to unprotected targets but are easily stopped by armor and do not pass through bodies or cover.
 - Examine a round to see its tradeoff, and a magazine to count the AP and HP rounds in it.
-- A round your armor stops does not wound, stun or leave shrapnel in you, but the impact can still knock you down, so armor is not a reason to stand in the open.
+- A round your armor stops does not wound you, but the impact can still knock you down.
 - Shrapnel from a hit lodges in the body part that was hit.
 
-For reagent handling and gunpowder production, consult the [chemistry guide](Guide_to_Chemistry.md). A barrel is a container, not a substitute for checking the recipe.
+For reagent handling and gunpowder production, consult the [chemistry guide](Guide_to_Chemistry.md).
 
 ## Weapon types and how to use them.
 
 ### Pistols
 
-Pistols are compact weapons for close-range defence. Their limited ammunition and range make them a poor substitute for a rifle in an open-field engagement. Carry spare ammunition and avoid relying on a guaranteed hit.
+Pistols are compact weapons for close-range defence. They are no match for a rifle in the open. Carry spare ammunition.
 
 ### Submachine Gun
 
@@ -1164,11 +1164,11 @@ Submachine guns suit short-range fighting in rooms and alleys. Automatic fire in
 
 ### Semi-Auto/Automatic Rifles
 
-Rifles offer flexibility across different engagement distances. Use semi-automatic fire for controlled shots and automatic fire for close engagements or suppression. Firing more bullets does not make every bullet more accurate.
+Rifles offer flexibility across different engagement distances. Use semi-automatic fire for controlled shots and automatic fire for close engagements or suppression.
 
 ### Bolt-Action Rifles:
 
-Bolt-action rifles reward careful positioning and deliberate shots. Keep distance where possible and account for the time between shots. Cover still matters, and an empty rifle is a strong argument for bringing spare ammunition.
+Bolt-action rifles reward careful positioning and deliberate shots. Keep distance where possible and account for the time between shots. Bring spare ammunition.
 
 ### Machine Guns
 
@@ -1178,10 +1178,9 @@ Long bursts heat the barrel. You are warned when it gets hot, and once it is red
 
 **Cover and positioning:**
 
-- Entrenchment and sandbags reduce the chance of being hit; they do not make you invulnerable.
-- Resting is not a guarantee of protection from gunfire.
+- Entrenchment and sandbags make you harder to hit.
 - An enemy you can see may also be able to see you. Avoid staying exposed while repeatedly exchanging shots.
-- Bullets can penetrate some obstacles. Do not assume a wall always stops incoming fire.
+- Bullets can go through some walls.
 
 ## Grenades and What to do with them:
 

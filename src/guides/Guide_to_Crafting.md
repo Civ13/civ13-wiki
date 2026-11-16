@@ -1210,9 +1210,9 @@ Work runs in real time, so it carries on while you are offline. Each room does o
 
 A **pedal bicycle** is a one-person vehicle that runs on your own legs: no engine, no fuel. Build it from **8 steel**, two **wheels** and a **drive belt or chain**, with a wrench to hand, in the "vehicle parts" category. The wheels and the belt are [machine parts](Guide_to_Tool_Materials.md#machine-parts) and can be in your other hand or at your feet. Built from 8 aluminium instead, the bicycle is about 15% quicker. A wooden **running bike** (6 wood and two wheels, Carts research) has no pedals: you ride it the same way, more slowly. It needs the **Factories** node of the [tech tree](Guide_to_Research.md) ([legacy research](../gamemodes/Civilizations_and_Nomads.md#research): Industrial 95).
 
-![Offline render using Civ13 sprites: the pedal bicycle on a road, parked and ridden, facing each direction](../images/civ13-pedal-bicycle-sprites.png)
+![The pedal bicycle on a road, parked and ridden, facing each direction](../images/civ13-pedal-bicycle-sprites.png)
 
-The bicycle parked (top) and ridden (bottom). Offline render using Civ13 sprites, not a live screenshot.
+The bicycle parked (top) and ridden (bottom).
 
 1.  With one hand free, click-drag your character onto the bicycle. You take the **handlebars** in that hand.
 2.  **Press Z** (use the handlebars) to start pedaling, and steer with the direction keys. The bicycle keeps rolling the way you face, gliding smoothly rather than jumping from tile to tile. When you turn it keeps its sideways place, so you can line it up anywhere.
@@ -1237,9 +1237,9 @@ Pedaling stops when you run out of stamina, let go of the handlebars, or meet so
 
 A **pedal airship** is a one-person gas bag over a basket, with a propeller you turn with your own legs. Build it from **30 cloth** in the "vehicle parts" category. It needs the **Factories** node of the [tech tree](Guide_to_Research.md) ([legacy research](../gamemodes/Civilizations_and_Nomads.md#research): Industrial 95). It only flies where [aircraft](Guide_to_Aircraft.md) can; anywhere else it stays on the ground.
 
-![Offline render using Civ13 sprites: the pedal airship on grass, landed and ridden, facing each direction](../images/civ13-pedal-airship-sprites.png)
+![The pedal airship on grass, landed and ridden, facing each direction](../images/civ13-pedal-airship-sprites.png)
 
-The airship landed (top) and ridden (bottom). Offline render using Civ13 sprites, not a live screenshot.
+The airship landed (top) and ridden (bottom).
 
 1.  With one hand free, click-drag your character onto the airship. You take the **tiller** in that hand.
 2.  **Press C** to rise. It takes a few seconds and a little stamina, and needs open sky straight above: no roof or upper floor.

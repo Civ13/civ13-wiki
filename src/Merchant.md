@@ -12,7 +12,7 @@ Agree on the goods, quantity and price before completing a trade. Keep enough mo
 
 Use the import menu and export offer as reference points, rather than assuming every item has a fixed price. Taxes and export offers affect what you actually pay or receive.
 
-For example, if you buy goods for 80 reales and receive 100 reales when exporting them, your profit is 20 reales. That is a 20% margin on the sale, or a 25% markup on your purchase cost. This is an illustration, not a guaranteed price for a particular item.
+For example, if you buy goods for 80 reales and receive 100 reales when exporting them, your profit is 20 reales. That is a 20% margin on the sale, or a 25% markup on your purchase cost.
 
 You can bargain firmly without treating every customer as an enemy. Explain your offer, leave room for negotiation and decide whether a smaller profit is worth a steady supplier. Repeat business is usually easier than finding someone who has not heard about your last deal.
 

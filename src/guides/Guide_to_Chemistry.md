@@ -34,7 +34,7 @@ Gather wild papaya seeds in jungle or savanna, plant and tend them using [farmin
 | Separate in centrifuge | 5 unpurified gelatin | 4 purified gelatin |
 | Finish at the bench | 4 purified gelatin + 1 water **or purified ethanol** | 5 solid gelatin |
 
-Ordinary ethanol and blood plasma are not substitutes for the named finishing solvent and protease feedstocks. A third finishing route uses purified gelatin with both water and purified ethanol.
+Ordinary ethanol and blood plasma will not do. A third finishing route uses purified gelatin with both water and purified ethanol.
 
 ### Gelatin bandages
 
