@@ -29,6 +29,17 @@ Each stretch of water, about 16 by 16 tiles, shares one stock of fish. The more 
 
 Different water holds different amounts. The coast is the richest water, then deep rivers and lakes, then shallow rivers and the open ocean. Swamps hold very little, and frozen water cannot be fished.
 
+### Season, weather and the river
+
+The water tells you when conditions are unusual; look at it before you cast.
+
+* **Autumn salmon run:** in autumn the salmon run up the rivers. Rivers and lakes fish much better, nearly everything you land is salmon, and the fish come back faster. It is the time to fill the smokehouse.
+* **Rain:** fish rise to feed in the rain, and bites come more often on any water.
+* **Storms:** the sea is too rough to fish well, and rivers are somewhat worse too.
+* **A river in flood:** high, brown water fishes badly. Wait for it to drop.
+* **A low river:** the fish gather in the deep pools, which fish a little better than usual.
+* **After a flood:** where a river has spilled over its banks, look in the ankle-deep water at the flood's edge. Now and then a fish is left flapping there, free for the taking.
+
 ### What bites where
 
 * **Rivers and lakes:** salmon and ordinary fish.
