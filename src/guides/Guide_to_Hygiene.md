@@ -6,6 +6,16 @@ Crafting options depend on the map, epoch, skills and research mode.
 
 You can wash with a bucket of clean water (pots and barrels also work), a shower or a bath. [Soap](../Miscellaneous_Crafting.md#lard-soap) improves washing.
 
+## Getting dirty
+
+You get dirty slowly just by living, faster in hot weather, and mostly from work. Farming and mining dirty you a little, butchering more, and using the toilet more still. A miner or butcher will want a wash at the end of the day.
+
+## Dirty hands
+
+Butchering, using the toilet and picking up dung leave your hands dirty. Gloves keep them clean. Examine yourself to check.
+
+The first bite of each meal with dirty hands can give you food poisoning, and hands that touched waste can give you cholera or worms. Wash your hands first: use a sink or tap, or click any fresh water with an empty hand on **Help intent**. Any wash at a bath or shower cleans your hands too.
+
 ## Bucket and the like
 
 1. Fill a bucket with at least 30 units of clean water. Use well water, or boil water collected from a puddle or river in a pot.
