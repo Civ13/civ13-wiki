@@ -1346,6 +1346,36 @@ with a key (the iron and jail doors currently) - more details below.
 </tbody>
 </table>
 
+### Door fittings
+
+Any door can be fitted with one closing part. Hold the fitting in your active
+hand and its tool in the other hand, then click the door; the door must be
+open or unlocked. The same tool takes the fitting off again.
+
+| Fitting | Made from | What it does | Tool |
+| --- | --- | --- | --- |
+| Counterweight closer | 3 rope | Pulls the door shut 6 seconds after it was opened | Hammer |
+| Spring closer | 3 iron or bronze | Slams the door shut after 4 seconds | Screwdriver |
+| Hydraulic closer | 4 steel | Eases the door shut after 2 to 10 seconds; click it with a screwdriver to set the delay | Screwdriver |
+| Spring hinges | 2 iron or bronze | The door swings shut a second after nobody is in the doorway | Screwdriver |
+
+- A door never closes on someone standing in the doorway. It waits until the
+  doorway is clear.
+- To hold a sprung door open, use grab intent on the open door. It stays open
+  while you keep that hand on it and stay next to it. Drop the hold or walk
+  away and it shuts.
+- A **wedge** (1 wood, or 1 iron) used on an open door with a closer keeps it
+  open. Click the door with an empty hand to pull the wedge out, or kick it
+  out with harm intent.
+
+### Taking doors down
+
+An unlocked or open door can be taken off its hinges in 15 seconds: use a
+hammer on wooden, bamboo, bone and stone doors, and a wrench on metal doors,
+with any intent but harm. You get back its fittings and about three quarters
+of its material, less if it was damaged. Faction doors and blast doors can't
+be taken down by hand.
+
 ## Windows
 
 A window frame is built first. To add glass, click the window frame with
