@@ -26,7 +26,8 @@ Set traps away from your camp, where animals actually live.
 <img src="../images/Fish_weir.png"> A **fish weir** is a fence of stakes and wicker that fish swim into and can't find their way out of. Set the weir stakes in shallow fresh water, such as a river or lake. Deep water, salt water and ice don't work.
 
 * About every 15 minutes there is a good chance another fish is caught, fewer in winter.
-* It holds up to 4 fish. Click it with an empty hand to scoop them out.
+* It holds up to 4 fish, salmon or ordinary fish. Click it with an empty hand to scoop them out.
+* The fish come from the stretch of river the weir stands in. If that water has been fished out, the weir stays empty until the fish return; look at the weir or the water to tell.
 * Click an empty weir with an empty hand to pull it up and move it.
 
 Unlike a [fish pen](Guide_to_Fishing.md#fish-pens), a weir needs no stocking or feeding, but it never holds many fish.

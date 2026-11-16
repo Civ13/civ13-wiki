@@ -11,9 +11,10 @@ Fish live in the water itself. Any river, lake or sea can be fished; there is no
 * Equip yourself with one of the fishing tools.
 * Stand next to water: on the bank, in the shallows, on a bridge or pier, or on a boat.
 * Click the water with the tool and wait. A cast takes about 15 seconds with a pole or net and 12 with a modern rod. Bites are not guaranteed.
+* A pole, rod or spear lands one fish at a time. A **fishing net** can bring up as many as three in one throw, so it feeds more people, and it empties a stretch of water faster.
 * A sharpened stick, harpoon or flint spear only works in shallow water. A line reaches deep water too, as long as you have a deck, bridge or pier under you.
 
-Alternately, you can build a **fishing cage** in water for a more passive approach.
+Alternately, you can build a **fishing cage** in water for a more passive approach. Its fish come out of the same water you would fish with a line, so a cage in a fished-out stretch brings up only shellfish, crabs, lobster and the like until the fish come back.
 
 ### Reading the water
 
@@ -37,13 +38,13 @@ Different water holds different amounts. The coast is the richest water, then de
 
 ### Bait
 
-Use raw meat or raw fish on your pole, net or rod to bait it. One piece lasts three casts, used up whether or not anything bites, and makes bites much more likely on any water.
+Use raw meat or raw fish on your pole or rod to bait it. A net takes no bait. One piece lasts three casts, used up whether or not anything bites, and makes bites much more likely on any water.
 
 ### Fishing from a boat
 
 Stand on a boat on the water (a ship or small boat, moored or under way) and cast into the open water beside it, not onto the hull. The open ocean is wide and bites come less often there than on the coast, so bait helps. See [Boats & Ships](Guide_to_Boats.md) for building a boat.
 
-A **fish weir** set in a river catches a few fish on its own while you are away. See [Trapping](Guide_to_Trapping.md#fish-weirs).
+A **fish weir** set in a river catches a few fish on its own while you are away. It takes them from the river around it, so it stays empty where the water has been fished out. See [Trapping](Guide_to_Trapping.md#fish-weirs).
 
 ## Fish pens
 
@@ -83,7 +84,7 @@ Ways of parting fish and the like with their element.
 <tr>
 <td><img src="../images/fishing_net.png"></td>
 <td><b>Fishing net</b></td>
-<td>Made with 4 rope. About as good as the pole.</td>
+<td>Made with 4 rope. Each throw can land up to three fish, though any one of them is a little less likely than a bite on a pole. Takes no bait.</td>
 </tr>
 <tr>
 <td><img src="../images/fishing_rod.png"></td>
