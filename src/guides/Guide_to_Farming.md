@@ -304,6 +304,10 @@ A colony grows and fills its combs while it has flowers, crops and trees to fora
 
 To harvest, smoke the hive with a smoke bundle or torch, then cut a comb out with a knife (or slowly by hand). The combs are built into the hive, so every comb you cut also kills some of the young bees and weakens the colony. Cut without smoke and the bees chase you. Leave enough combs in autumn for the colony to last until spring.
 
+#### Pollination
+
+Many crops need insects to set their best crop: apples, cherries, apricots, oranges, limes, lemons, watermelons, pumpkins, zucchini, beans, tomatoes, red peppers, coffee, cocoa, cotton and flax. When you harvest one of these with a bee colony within five tiles, there is a good chance of one extra fruit, or one extra bundle of cotton or flax. The stronger the colony, the better the chance. A busy kept hive does the most, and a wild nest in a nearby tree helps too. Grains, corn, rice, grapes and olives pollinate by wind or by themselves, so bees don't change their harvest. Experienced farmers can tell from examining a flowering crop whether bees are working it.
+
 ### Honey, beeswax and candles
 
 - **Honey**: click an open bowl, pot or bucket with a honeycomb to squeeze 10 honey into it. Honey goes into jam and mead, and counts toward the sweet part of your diet. A **crushed comb** is left in your hand.
