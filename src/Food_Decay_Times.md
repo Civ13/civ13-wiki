@@ -47,10 +47,10 @@ Decay (minutes)
 </tr>
 <tr>
 <td>
-<img src="images/food/coffee.png">
+<img src="images/food/green_coffee.png">
 </td>
-<td><b>Green coffee</b> <small>(contains 15 coffee) - <i>food (satisfaction +8)</i> - <b>jungle • savanna • desert • semi-arid</b> - will grow at all seasons</small><br>
-• put in liquid container to make 15 coffee<br>
+<td><b>Green coffee</b> <small>- <i>food</i> - <b>jungle • savanna • semi-arid</b> - will grow at all seasons</small><br>
+• roast in a fire into roasted coffee beans, grind them in a mortar into 3 coffee grounds, then brew the grounds in boiling water (1 grounds + 4 water = 5 coffee)<br>
 <small><details><summary>show/hide coffee reactions</summary>
 &nbsp; &nbsp; • 2 coffee and 1 ice will react to 3 iced coffee<br>
 &nbsp; &nbsp; • 1 irish cream and 1 coffee will react to 2 irish coffee<br>
