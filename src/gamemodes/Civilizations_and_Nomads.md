@@ -98,6 +98,8 @@ A faction grows by building a hall. Craft a **faction hall seat** from **20 wood
 
 From the longhouse on, the hall must stand under a roof. If the hall is destroyed, the faction loses its stages and cannot take in new members beyond 10 until it builds again; nobody is removed. Each [colony](../guides/Guide_to_Travel.md#factions-and-colonies) your faction holds in another land adds room for 5 more members. Examine the hall to see how many members the faction may have and what the next stage needs.
 
+To move the hall, the leader (or an officer allowed to move the faction's hall and fixtures) right-clicks it and chooses **Fasten or Unfasten**, pulls it to its new place, and fastens it again. It keeps its stage and any materials already handed in. While it stands loose it counts for nothing, and anyone can pull it away, so fasten it again quickly; only the leader or such an officer can. The same works for the nation assembly seat, recruitment stations, the colony charter and the faction strongbox.
+
 #### Nations
 
 In the connected lands of the wider world, factions can band together into a **nation**. Each faction keeps its own leader, research, members and treasury, and factions of one nation can still disagree or fight; the nation is what they stand for together. A nation can hold factions from different lands. Leaders use **Nation** on the **Faction tab**:
@@ -165,7 +167,7 @@ On Nomads maps you can right-click someone next to you and choose **Offer Adopti
 **Faction Offices** on the **Faction tab** lists your faction's offices, who holds them, and any election under way.
 
   - A faction starts with a **Treasurer**, who keeps the [strongbox](../guides/Guide_to_Money.md#faction-treasury), and a **Registrar**, who keeps the [land register](../guides/Guide_to_Money.md#land-and-deeds).
-  - The leader can create up to 12 offices, such as Judge or Herald, and choose what each one may do. The choices are keeping the treasury, keeping the land register, cutting and revoking [seals](../guides/Guide_to_Paperwork.md), cutting coin dies, holding court, issuing papers, and making treaties.
+  - The leader can create up to 12 offices, such as Judge or Herald, and choose what each one may do. The choices are keeping the treasury, keeping the land register, cutting and revoking [seals](../guides/Guide_to_Paperwork.md), cutting coin dies, holding court, issuing papers, making treaties, and moving the faction's hall and fixtures.
   - The leader appoints members to offices, for a set number of days or with no limit, and can dismiss them.
   - A [faction seal](../guides/Guide_to_Paperwork.md) cut for an office gives that office's powers to whoever carries it. To lend an office, hand over its seal. Revoke the seal to take it back.
   - The leader can call an **election** for the leadership or for any office. The leader can also set a **term**. Once a leader has served longer than the term, or if no one leads, any member can call a leadership election.
