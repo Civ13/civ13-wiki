@@ -1287,8 +1287,12 @@ the cost and the material.
 the direction (how it looks when built while facing either N, S, W or E.
 "All" means a door always looks the same.)**
 
-Only the doors marked as "locked" in the crafting menu could be locked
-with a key (the iron and jail doors currently) - more details below.
+When you finish building a door, you are asked which side is the **inside**:
+the side in front of you, the side behind you, or neither (for an inner door
+or a gate). An arrow briefly marks the inside tile, and examining the door
+later tells you which way its inside faces and which side you are on. The
+hinges and fittings go on the inside. Any door can take a fitted lock (see
+**Locks** below); the jail doors still come tied to a key, as described below.
 
 <table>
 <tbody>
@@ -1338,7 +1342,7 @@ with a key (the iron and jail doors currently) - more details below.
 <b>Key and keychain</b></td>
 <td>Key and keychain are made with iron ingots. Keys are used to lock certain doors, wooden cabinets, crates, lockers and large barrels - click them with the key.
 <ul>
-<li>To construct a lockable door, first make a key.</li>
+<li>To construct a lockable jail door, first make a key.</li>
 <li>Enter the combination for the key, which is, basically, a password.</li>
 <li>Hold the key in the non-active hand, then build a locked door with the iron in the active hand.</li>
 <li>Now the door is tied to the key and could be opened and closed with it.</li>
@@ -1370,13 +1374,53 @@ open or unlocked. The same tool takes the fitting off again.
   open. Click the door with an empty hand to pull the wedge out, or kick it
   out with harm intent.
 
+### Locks
+
+Locks are separate items. You fit them to a shut door, closet, crate, chest,
+basket, jar or other storage. Hold the lock in your active hand and its tool,
+if it needs one, in the other hand, then click what you want to lock. A keyed
+lock still has its key inside: use the lock in hand to take the key out
+before you fit it.
+
+| Lock | Made from | Opens with | Tool to fit |
+| --- | --- | --- | --- |
+| Wooden pin lock | 3 wood | Its wooden key | Hammer |
+| Warded lock | 3 iron | Its iron key; a skeleton key often turns it | Screwdriver |
+| Tumbler lock | 3 steel | Its tumbler key only | Screwdriver |
+| Spring latch | 4 iron | Its iron key; it locks itself whenever the door shuts | Screwdriver |
+| Combination lock | 3 steel | The combination you set | Screwdriver |
+| Padlock | 2 iron | Its iron key | None |
+| Combination padlock | 2 steel | The combination you set | None |
+| Knot seal | 1 rope | Anyone can untie it, but whoever tied it last is remembered | None |
+| Clay seal | 1 clay | Stops nobody, but shows when it has been broken | None |
+| Hidden catch | 2 wood | Its maker, and anyone who has found it; others must search | Hammer |
+
+Each kind of key only fits its own kind of lock: wooden keys fit pin locks,
+iron keys fit warded locks, latches and padlocks, and tumbler keys fit tumbler
+locks.
+
+- **Doors:** the keyhole goes on the side you fit the lock from, so fit it from
+  outside. From the other side there is a thumb-turn: use the **Lock or
+  Unlock** verb, or just open the door, which turns it for you.
+- **Copying keys:** use a key on a key blank of the same kind (wood, iron or
+  tumbler) to file a copy.
+- **Combinations:** use a combination lock or padlock in hand to set its code
+  (3 or 4 letters or numbers) before you fit it.
+- **Taking a lock off:** use the **Remove Lock** verb with its tool in hand,
+  from inside or while it is unlocked.
+- **Breaking locks:** wirecutters on harm intent cut a padlock off, and a knife
+  cuts through a knot. A crowbar on harm intent forces a locked chest or crate
+  open, but this breaks the lock and damages the container.
+
 ### Taking doors down
 
 An unlocked or open door can be taken off its hinges in 15 seconds: use a
 hammer on wooden, bamboo, bone and stone doors, and a wrench on metal doors,
-with any intent but harm. You get back its fittings and about three quarters
-of its material, less if it was damaged. Faction doors and blast doors can't
-be taken down by hand.
+with any intent but harm. This only works from the inside, where the hinges
+are. From outside you have to break the door down. A door with no inside
+(an inner door or a gate) can be taken down from either side. You get back
+its fittings, its lock and about three quarters of its material, less if it
+was damaged. Faction doors and blast doors can't be taken down by hand.
 
 ## Windows
 
