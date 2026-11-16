@@ -18,7 +18,9 @@ Alternately, you can build a **fishing cage** in water for a more passive approa
 
 ### Reading the water
 
-Look at water within a couple of tiles and you can tell how well stocked it is:
+Well-stocked water shows it. Watch the surface for **rings** where fish rise, a **fish leaping** clear now and then, and **gulls** wheeling over a shoal on the coast. The more signs you see on a stretch, the more fish it holds; water that lies still has been fished out.
+
+For a closer reading, look at water within a couple of tiles and you can tell how well stocked it is:
 
 * **Alive with fish** - a full stretch, the best odds.
 * **Fish move below the surface** - still worth fishing.
