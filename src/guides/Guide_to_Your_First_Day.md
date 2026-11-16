@@ -165,6 +165,8 @@ Opening any bag, basket, chest or other container shows the storage window. The 
 
 Moving things takes a moment. Bigger things take longer, things going to or from your hands, pockets and belt are quicker, and taking from someone else's bags is slower. Moves wait their turn along the bottom of the window, and **Cancel all** stops them. Walking away, or being stunned or tied up, also stops them.
 
+**Searching.** You always know what is in your hands, pockets and worn gear, and what lies on the floor. In a container someone else filled, though, the things show as grey **?** boxes of their size until you have looked at them. Opening the container (or pressing **Search** on it) looks through it one thing at a time, and bigger things take longer to make out. You can't take, find or dump anything before you have seen it. Whatever someone else puts back into a shared store has to be looked at again, and after the server restarts you have to search other people's containers again.
+
 A container that is too small or too full refuses what you drop on it and says why. A locked container shows nothing of what is inside.
 
 If you prefer the old storage strip along the bottom of the screen, use **Storage Window** in the OOC tab. Use it again to switch back.
