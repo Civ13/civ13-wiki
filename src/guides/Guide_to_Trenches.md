@@ -86,4 +86,12 @@ Once your people know **Siege Engines**, you can build a battering ram, a ballis
 
 **Dropping things.** Anything dropped through a murder hole or off a ledge falls on whoever is below: stones and logs hurt badly, and a helmet helps.
 
+**Gateway traps.**
+
+- **Drop trapdoor** (6 wood) and **trap lever** (3 wood), from Fortifications. Fit the trapdoor over an open pit (dig one with a pit cover and a shovel, and stake it for worse), or over a hole in an upper floor. While it is shut, people walk over it safely. Pulling a lever within three tiles drops it, and the lever also works from the floor above. Everyone standing on it falls into the pit or down to the level below, and anyone who walks onto it while it is open falls too. Push the lever back to shut it.
+- **Portcullis.** A portcullis dropped on someone hurts them badly and knocks them down.
+- **Caltrops** (1 iron, from Bronze Working). Use them in your hand to scatter them where you stand, or throw them. Stepping on them hurts your foot and slows you, and boots halve the wound. A horse that treads on them goes lame for half a minute and may throw its rider. Gathering them up again takes a moment.
+- **Ladder fork** (3 wood, from Siege Engines). From the top of the wall, use it on an enemy siege ladder to push the ladder off in three seconds, and whoever is climbing it falls. A spear, pike or halberd works too.
+- **Pit traps.** Anyone can dig one, not only tribes. Your own people, or your own side on a team map, never fall into your pits.
+
 **Undermining.** Dig a tunnel under an enemy wall, gate or barricade on the floor above, and it collapses into your tunnel about 30 seconds later. A **mine support** beside the tunnel holds it up, and pulling out or burning that prop brings it down at once. Defenders can dig their own tunnels to find and stop the miners.
