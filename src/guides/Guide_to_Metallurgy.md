@@ -27,7 +27,7 @@ The primary component of metalworking is **[molds](#molds)**. At the very least,
 * Take the mold and click a suitable(1) anvil with it(2). 
 * Select a metal item to make(3).
 
-(1): Some metals could only be worked on a more advanced anvil. For example, iron items are produced on the iron and steel anvils, not on the stone one. See the **[Anvils](#anvils)** section.
+(1): Some metals could only be worked on a more advanced anvil. For example, iron items are produced on the iron, steel-faced and steel anvils, not on the stone one. See the **[Anvils](#anvils)** section.
 
 (2): To make other items that are not cast via molds, click the anvil with metal ingots or sheets.
 
@@ -173,9 +173,14 @@ Using iron, steel, bronze or kevlar sheets on an anvil opens the **Crafting wind
 <td>Made with 20 iron. Used to work tin, copper, zinc, bronze, brass, gold, silver and iron.</td>
 </tr>
 <tr>
+<td><img src="../images/anvil_steelfaced.png"></td>
+<td><b>Steel-faced</b></td>
+<td>An iron anvil with a hardened steel face welded on. Once you know Steelmaking, use 5 steel sheets on an iron anvil to weld the face on; it stays where it stands. Used to work everything the iron anvil does, plus steel and lead.</td>
+</tr>
+<tr>
 <td><img src="../images/anvil_steel.png"></td>
 <td><b>Steel</b></td>
-<td>Made with 25 steel. Used to work all kinds of metals, plus <b><a href="Guide_to_Crafting.md#acidic-bath">kevlar</a></b>.</td>
+<td>Solid cast steel, made with 25 steel from the Industrial Age on. Used to work all kinds of metals, plus <b><a href="Guide_to_Crafting.md#acidic-bath">kevlar</a></b>.</td>
 </tr>
 </tbody>
 </table>
