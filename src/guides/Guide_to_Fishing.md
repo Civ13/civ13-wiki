@@ -42,6 +42,15 @@ The water tells you when conditions are unusual; look at it before you cast.
 * **A low river:** the fish gather in the deep pools, which fish a little better than usual.
 * **After a flood:** where a river has spilled over its banks, look in the ankle-deep water at the flood's edge. Now and then a fish is left flapping there, free for the taking.
 
+### Great shoals
+
+Now and then the sea comes alive: gulls gather in a crowd, fish leap everywhere, and the water reads as **a great shoal passing through**. Fish it while it lasts.
+
+* Under a shoal bites come much more often, and most of what you land is herring.
+* Much of the catch comes from the shoal, not from the water's own stock, so even a fished-out stretch gives fish while a shoal is over it.
+* A shoal moves on after a few minutes. Each one keeps to its own circuit of the sea and comes back to the same water at the same hours every day, so it pays to remember when and where you met one.
+* Shoals keep to salt water. A submarine's sonar reports a shoal overhead, or the bearing and distance of one nearby.
+
 ### What bites where
 
 * **Rivers and lakes:** salmon, trout and ordinary fish. Their deep water also holds catfish.
