@@ -42,6 +42,7 @@
     - [Food & Animals]()
         - [Cooking](guides/Guide_to_Cooking.md)
         - [Farming](guides/Guide_to_Farming.md)
+        - [Beekeeping](guides/Guide_to_Beekeeping.md)
         - [Pollution](guides/Guide_to_Pollution.md)
         - [Fishing](guides/Guide_to_Fishing.md)
         - [Trapping](guides/Guide_to_Trapping.md)

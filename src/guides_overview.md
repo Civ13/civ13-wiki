@@ -43,6 +43,7 @@ New to the game? Start with [How to Play](New_Player_Guide.md), then the [Starte
 
 - [Cooking](guides/Guide_to_Cooking.md)
 - [Farming](guides/Guide_to_Farming.md)
+- [Beekeeping](guides/Guide_to_Beekeeping.md)
 - [Pollution](guides/Guide_to_Pollution.md)
 - [Fishing](guides/Guide_to_Fishing.md)
 - [Trapping](guides/Guide_to_Trapping.md)
