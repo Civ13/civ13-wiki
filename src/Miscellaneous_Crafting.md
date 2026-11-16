@@ -14,7 +14,8 @@ Finished leather you already own remains usable without further processing.
 
 - Raw hides or pelts from [animal harvesting](guides/Guide_to_Ranching.md#harvesting-dead-animals).
   Adult male and female turkeys each give **1 raw hide piece**; turkey chicks
-  give **no hide**. Species pelts retain their existing yields and uses.
+  give **no hide**. Hide pieces follow the animal's size, from 1 for a fox to 11 for a cow; see
+  [hide yields](guides/Guide_to_Ranching.md#hide-yields). Each piece is about 60 cm square.
 - A held sharp tool, such as a knife or sharpened flint, for scraping.
 - An accessible **open reagent vessel** containing water or tannin as required
   below. Wood mugs, canteens, buckets and other suitable open liquid containers
@@ -35,7 +36,7 @@ counter do not count; use an ordinary reagent vessel for these steps.
 
 | Step | Action and cost | Result |
 | --- | --- | --- |
-| Scrape | Use a held sharp tool on a nearby raw hide or pelt. The action takes **50 ticks**, normally five seconds, and consumes **1 piece** only on successful completion. | **1 prepared hairless hide** |
+| Scrape | Use a held sharp tool on a nearby raw hide or pelt. Each piece takes **50 ticks**, normally five seconds, and is consumed only on successful completion. Scraping carries on through the stack, one piece at a time, until it is done or you stop. | **1 prepared hairless hide** |
 | Wash | Use an accessible reagent vessel containing at least **5 units of water** with a prepared hide, using either interaction above. This consumes **1 prepared hide** and **5 water**. | **1 wet hide** |
 | Dry | Put a held wet-hide stack on the tanning rack. The whole stack, up to **50 pieces**, takes **300 ticks**, normally 30 seconds. Retrieve it with an empty hand when ready. | The same number of **dry hides** |
 | Tan | Use an accessible reagent vessel containing at least **5 units of tannin** with a dry hide, using either interaction above. This consumes **1 dry hide** and **5 tannin**. | **1 ordinary leather sheet** |

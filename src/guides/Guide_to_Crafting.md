@@ -182,7 +182,7 @@ Pioneers, only the Blacksmith can use the anvil.
 <tr>
 <td><img src="../images/ore_collector.png"></td>
 <td><b>Ore collector</b></td>
-<td>Made with 5 leather sheets. Used to pick up ore from the ground in a more efficient manner. Have the ore collector in your active hand, stand over the ore on the ground, then click the collector, or press Ctrl-Z or Z in the hotkeys mode. The ore will be put in the collector whose ingenious design allows to exceed the normal stacking limit (50 units per one stack) for its contents.</td>
+<td>Made with 2 leather sheets. Used to pick up ore from the ground in a more efficient manner. Have the ore collector in your active hand, stand over the ore on the ground, then click the collector, or press Ctrl-Z or Z in the hotkeys mode. The ore will be put in the collector whose ingenious design allows to exceed the normal stacking limit (50 units per one stack) for its contents.</td>
 </tr>
 <tr>
 <td><img src="../images/engine_maker.png"></td>
@@ -195,7 +195,7 @@ Pioneers, only the Blacksmith can use the anvil.
 ### More tools and everyday items
 
 - **Saw:** 3 iron, in the tools category, once your civilization has reached the Bronze Age. Woodworking and hide work accept it like a hatchet.
-- **Leather gloves:** 3 leather, in the gloves category, in every age.
+- **Leather gloves:** 1 leather, in the gloves category, in every age.
 - **Found items you can now make:** screwdriver, lockpick, legcuffs, tin whistle, police tape, bag valve mask, empty pill pack (fill it by hand with up to 6 pills of one kind), stethoscope, glass jar, small telescope, shamisen, pencil, fancy pen, comb, black and purple lipstick, video camera and bar stools in eight colours, each behind its matching research. Mixing 20 corn oil with 2 lye makes a bar of soap, and 20 olive oil with 2 lye makes deluxe soap (see [Hygiene](Guide_to_Hygiene.md#soap)).
 - **Megaphone:** 3 steel, in the tools category, after Electricity. Hold it in either hand and your speech carries 14 tiles instead of 7.
 - **Glowsticks:** 1 plastic each, in green, blue, red or yellow, after Synthetics. Use one in hand to bend it and it glows for about half an hour. It cannot be switched off, gives off no heat and cannot set anything alight.

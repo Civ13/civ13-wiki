@@ -25,7 +25,7 @@ When two pouches hang from the same belt or garment, the second one sits on your
 | Belt | How to make it | Needs |
 | --- | --- | --- |
 | Leather belt | 1 leather, **Storage** tab | Basic Toolmaking |
-| Shoulder belt | 2 leather, **Storage** tab | Basic Toolmaking |
+| Shoulder belt | 1 leather, **Storage** tab | Basic Toolmaking |
 | Tool loop | 1 leather, **Storage** tab | Basic Toolmaking |
 
 - **Leather belt.** You wear it in the belt slot, and it stays on even if you take your clothes off. Use a pouch on it to hang the pouch there. Other people can see the pouches on you. To take something off the belt, use **Remove Accessory** on it.

@@ -5,10 +5,10 @@ A tribe is more than a camp. Remember the great deeds of its people, honour its 
 | Item | Made from | Research |
 | --- | --- | --- |
 | <img src="../images/Cairn.png"> Cairn | 5 stone | Ritual Worship |
-| <img src="../images/Feasting_mat.png"> Feasting mat | 3 leather | Ritual Worship |
+| <img src="../images/Feasting_mat.png"> Feasting mat | 4 leather | Ritual Worship |
 | <img src="../images/Bone_flute.png"> Bone flute | 1 bone | Ritual Worship |
-| <img src="../images/Frame_drum.png"> Frame drum | 2 leather | Ritual Worship |
-| <img src="../images/Barter_mat.png"> Barter mat | 2 leather | Basic Toolmaking |
+| <img src="../images/Frame_drum.png"> Frame drum | 1 leather | Ritual Worship |
+| <img src="../images/Barter_mat.png"> Barter mat | 3 leather | Basic Toolmaking |
 | <img src="../images/Stone_beads.png"> Stone beads | 1 stone | Regalia & Heraldry |
 | <img src="../images/Bone_beads.png"> Bone beads | 1 bone | Regalia & Heraldry |
 
