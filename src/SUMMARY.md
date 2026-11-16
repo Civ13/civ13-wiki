@@ -28,6 +28,7 @@
         - [Flint](guides/Guide_to_Flint.md)
         - [Obsidian](guides/Guide_to_Obsidian.md)
         - [Amalgamation](guides/Guide_to_Amalgamation.md)
+        - [Industrial Milling](guides/Guide_to_Industrial_Milling.md)
         - [Mercury](guides/Guide_to_Mercury.md)
         - [Ore Dressing](guides/Guide_to_Ore_Dressing.md)
         - [Placer Mining](guides/Guide_to_Placer_Mining.md)
