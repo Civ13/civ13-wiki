@@ -8,11 +8,11 @@ A room is the roofed space around you, closed in by walls, doors and windows. Ea
 
 | Comfort | What counts |
 | --- | --- |
-| A covered floor | Wood, stone, marble, tiles or carpet over at least half the floor |
+| A covered floor | Wood, stone, marble, tiles, carpet or woven rugs over at least half the floor |
 | Finished walls | At least half the walls limewashed or painted (see below) |
 | A light | A lamp, lantern, brazier, torch stand or fireplace |
 | A bed, a seat and a table | All three; a bedroll is not a bed |
-| A work of art | A painting, a statue or rock art, in the room or on its walls |
+| A work of art | A painting, a tapestry, a woven rug, a glazed or painted pot set down, a statue or rock art, in the room or on its walls |
 | A living plant | A filled plant pot or flowers |
 | A named house | A custom sign with a name on it, on a wall or inside |
 | A clean room | No more than a couple of stains or bits of rubbish |
@@ -50,3 +50,27 @@ A coat lasts about two weeks. After that it looks worn and patchy, and the walls
 - Use a sheet of cloth on a cloth curtain to dye it.
 
 The dyes are the same ones you know for tailoring. Weaving gives the natural dyes. Classical Dress and Fine Garments add more, and Textile Mills lets you mix any colour.
+
+## Arranging things
+
+Use **Nudge Object** (IC tab) next to a piece of furniture, a picture, a sign or something lying on the floor to shift it a couple of pixels at a time, up to a quarter of a tile from where it sits. A picture or sign on a wall stays on its wall. **Reset** puts it back on the grid.
+
+## Pottery of your own design
+
+1. Make an **unfired clay vessel** from 3 clay, by hand or on the potter's wheel (Pottery & Cookware).
+2. Use it in hand to work it:
+   - **Shape**: a cup, bowl, jug, jar, vase, amphora, pilgrim flask or storage jar.
+   - **Paint band**: paint a band round the pot with the pigments you carry, as you would a painting (see **[Painting](Guide_to_Painting.md)**). Anything left in the clay colour stays bare.
+   - **Glaze**: dip it in a slip or glaze. White and red ochre slip need nothing more. Pottery & Cookware adds black gloss and wood-ash glaze, Glassworking adds turquoise, amber and green lead glazes, and Fine Arts & Leisure adds celadon, tin white and cobalt blue.
+3. Fire it in an oven or kiln. It becomes a working container, from a 30 unit cup to a 200 unit storage jar.
+
+A glazed or painted pot set down on a floor or table counts as a work of art.
+
+## Rugs and tapestries
+
+1. Make a **warp** from cloth (Weaving): a small rug (2 cloth), a runner two tiles long (3), a large rug two tiles by two (6), a tapestry (2) or a wide tapestry two tiles across (3).
+2. Hold the warp beside a **loom** and use it. Weave the design pixel by pixel with the dyes you know for tailoring, and their blends. Give it a title and finish it.
+3. Use a finished rug on a floor tile next to you to lay it. It stretches east, and a large rug north too. Use **Roll Up Rug** on it to take it back.
+4. Hang a tapestry on a wall in front of you like a painting. A wide tapestry hangs on a wall to your north, and the wall must run on to your right.
+
+Rugs count as a covered floor where they lie and as art. Tapestries count as art like any picture on the wall.

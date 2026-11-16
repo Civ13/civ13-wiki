@@ -15,7 +15,7 @@ Fasten or unfasten a station with a wrench. To take a wheel, bench, bellows or s
 
 ## Potter's wheel
 
-Use **clay** on the wheel and choose what to throw: pots, cups, bowls, jugs, pitchers, vases, cooking pots and crocks. You only see the wares you already know how to make.
+Use **clay** on the wheel and choose what to throw: pots, cups, bowls, jugs, pitchers, vases, cooking pots, crocks and vessels of your own design (see **[Making a Home](Guide_to_Homes.md#pottery-of-your-own-design)**). You only see the wares you already know how to make.
 
 Each piece costs the same clay as shaping it by hand but takes a third of the time. The wheel keeps turning out the same ware until your clay runs out or you step away. The pieces come off unfired, so put them in a fire as usual to finish them.
 
