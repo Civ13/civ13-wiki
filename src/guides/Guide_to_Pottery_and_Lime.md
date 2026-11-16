@@ -17,17 +17,21 @@ Fasten or unfasten a station with a wrench. To take a wheel, bench, bellows or s
 
 Use **clay** on the wheel and choose what to throw: pots, cups, bowls, jugs, pitchers, vases, cooking pots, crocks and vessels of your own design (see **[Making a Home](Guide_to_Homes.md#pottery-of-your-own-design)**). You only see the wares you already know how to make.
 
-Each piece costs the same clay as shaping it by hand but takes a third of the time. The wheel keeps turning out the same ware until your clay runs out or you step away. The pieces come off unfired, so put them in a fire as usual to finish them.
+Each piece costs the same clay as shaping it by hand but takes a third of the time. The wheel keeps turning out the same ware until your clay or its water runs out, or you step away. The pieces come off unfired, so put them in a fire as usual to finish them.
 
 ## Brick mould bench
 
-Use **4 clay** on the bench and choose a brick. Ten seconds later you have **eight** unfired bricks, and the bench keeps going while you have clay.
+Use **4 clay** on the bench and choose a brick. Ten seconds later you have **eight** unfired bricks, and the bench keeps going while you have clay and it has water.
 
 - **Clay blocks** and **bricks** cost the same clay as by hand, but come eight at a time.
 - **Cement bricks** need <img src="../images/Quicklime.png"> **quicklime**. Use quicklime on the bench to fill its tub (it holds 20). Each batch of eight cement bricks then takes 4 clay and 2 quicklime. By hand, a single cement brick takes 4 clay.
 - **By hand**, clay bricks and cement bricks are mixed wet: each one also takes 10 units of water from a bucket or bowl you hold or stand on. It's free while you work beside running water: a river with a current, an aqueduct, a fountain, a tap or a sink. Paper sheets take water the same way.
 
 Fire the bricks to finish them.
+
+## Water for the wheel and the bench
+
+The potter's wheel and the brick mould bench each have a water tub. The wheel uses 10 units per piece and holds 150; the bench uses 20 per batch and holds 100. Pour water in with a bucket, pipe it in, or build the station beside running water (a river with a current, an aqueduct channel, a fountain, a tap or a sink) so it never runs dry. Examine a station to see how much water it holds.
 
 ## Bellows
 

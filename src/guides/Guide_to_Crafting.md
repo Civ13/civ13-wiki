@@ -674,7 +674,7 @@ level of the crafting skill before you are able to use them.
 <tr>
 <td width="5%"><img src="../images/retting_trough.png"></td>
 <td width="10%"><b>Retting trough</b></td>
-<td>Made with 8 wood logs. Used to soak fiberous plants into retted fabric. Two units of cotton or flax produce one bundle of retted fabric, which could be turned into <b><a href="../Full_Crafting_List.md#cloth">Cloth</a></b> at the <b><a href="Guide_to_Crafting.md#loom">loom</a></b>.</td>
+<td>Made with 8 wood logs. Used to soak fiberous plants into retted fabric. Two units of cotton or flax produce one bundle of retted fabric, which could be turned into <b><a href="../Full_Crafting_List.md#cloth">Cloth</a></b> at the <b><a href="Guide_to_Crafting.md#loom">loom</a></b>. Each batch soaks in 30 units of water; the trough holds 90. Pour water in with a bucket, pipe it in, or build the trough beside running water (a river with a current, an aqueduct channel, a fountain, a tap or a sink).</td>
 </tr>
 </tbody>
 </table>
