@@ -186,13 +186,14 @@ Left alone, your mood drifts toward a resting level. With nothing going for you 
 | Being warm and dry | Raises it somewhat |
 | Ten minutes in clothes that suit the season and climate: warm layers such as a coat in the cold (and a warm hat where it is bitterly cold), light clothes and shoes in the heat, and no coat once it is mild | Raises it somewhat |
 | A roof over your head, or a lit fire to sit by at night | Raises it somewhat |
+| A cosy, comfortable, fine or splendid home that you last slept in (replaces the roof; see **[Making a Home](guides/Guide_to_Homes.md)**) | Raises it more, the finer the home |
 | A tame animal close by, such as a dog, a horse or livestock | Raises it somewhat |
 | Art you can see nearby: paintings, rock art, statues and monuments | Raises it a little for each piece, up to three |
 | Being filthy, or having fleas | Lowers it |
 | Being sick, or in lasting pain | Lowers it |
 | Going hungry or thirsty | Lowers it a lot |
 
-A bed, a varied diet, regular washing and dry clothes together are enough to rest in a good mood. Being only a bit dirty neither helps nor hurts. A home with a roof, an animal and some art on the walls takes it as high as living conditions can.
+A bed, a varied diet, regular washing and dry clothes together are enough to rest in a good mood. Being only a bit dirty neither helps nor hurts. A home with a roof, an animal and some art on the walls takes it near the top, and a fine or splendid home takes it a little higher still.
 
 #### Lifting your mood for a while
 

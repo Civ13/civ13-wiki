@@ -46,6 +46,7 @@ New to the game? Start with [How to Play](New_Player_Guide.md), then the [Starte
 ## Building & Transport
 
 - [Construction](guides/Guide_to_Construction.md)
+- [Making a Home](guides/Guide_to_Homes.md)
 - [Boats & Ships](guides/Guide_to_Boats.md)
 - [Trains](guides/Guide_to_Trains.md)
 - [Aircraft](guides/Guide_to_Aircraft.md)
