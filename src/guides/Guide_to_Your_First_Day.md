@@ -171,6 +171,8 @@ A container that is too small or too full refuses what you drop on it and says w
 
 **Crates, chests and closets.** Click a crate, chest, closet, cabinet or fridge to open its lid and see it in the storage window: nothing spills out, and closing the lid again leaves the floor alone. Right-click one and choose **Gather** to pack the loose things on its tile into it, or **Dump Out** to tip everything out. A crate holds a set number of things, whatever their size. Mailboxes, coffins, body bags, sandbags and dumpsters work as before.
 
+**Why bother?** A room with a basket, jar or chest and little left on the floor counts as a tidy room toward [home comfort](Guide_to_Homes.md). A basket, wooden chest or crate that catches fire burns away with everything flammable inside; metal and stone things drop out. Clay jars don't burn.
+
 If you prefer the old storage strip along the bottom of the screen, use **Storage Window** in the OOC tab. Use it again to switch back.
 
 ## Sleeping and logging off
