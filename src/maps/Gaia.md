@@ -25,7 +25,7 @@ Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/do
 
 ## Hills
 
-Gaia's surface has hills. Light comes from the north-west, so slopes facing north-west are lighter and slopes facing south-east are in shadow. Flat ground, water and beaches are not shaded.
+Gaia's surface has hills. Soft lines on the ground follow each height level: where the lines sit close together the slope is steep, and where there are none the ground is flat. Light comes from the north-west, so lines and slopes facing north-west are a warm, lighter colour and those facing south-east are darker. Water and beaches are not shaded.
 
 The land follows the map. Beaches and marshes are low and flat, and the coastal plain behind them rolls into gentle hills. The rocky ranges are high plateaus: where a range stands close to the sea its sides are steep, a hard climb of a few tiles, while from inland and through the passes at the ends of a range the climb is long and gentle. Rocky shores can be cliffs, rivers run through gorges with one high bank, the desert's lakes sit in craters with steep rims, and long ridges cross the larger continents with a steep face on one side and an easy slope on the other.
 
