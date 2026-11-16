@@ -83,6 +83,13 @@ Some traits come as opposite pairs, and you can't take both halves of a pair:
 
 **Squeamish** (gives back 1) makes seeing someone maimed hurt your mood twice as much. Thick Skinned and Squeamish can't be taken with Hardened Fighter, and Strong Back can't be taken with Quartermaster.
 
+### Eyesight traits
+
+- **Nearsighted** (gives back 2): everything past a few tiles fades into grey fog that grows darker toward the edges of your screen. You can still make out shapes in the fog. If you stand still for a moment you squint and the fog thins by about half.
+- **Farsighted** (gives back 1): you squint at a paper or book for a moment before you can read it. Studying, writing and copying take 50% longer.
+
+Corrective glasses or a monocle fix both traits while you wear them. Both can be crafted once your people know glassworking. Neither trait can be taken with Blind, but you can take both together.
+
 ### Playstyle traits
 
 Playstyle traits suit a way of playing. Each one costs nothing because it comes with its own drawback, and you can take only one of them. Most drawbacks only slow how fast a skill trains, so you can still learn everything. Mood effects, food use and the Wanderer's stamina bonus apply on maps where you get hungry.
@@ -125,6 +132,22 @@ Two more free traits change how a character studies. Each has its own strengths 
 | ----- | -------- | ---- |
 | Autistic | Chapters in your special interest take 20% less time to study. Your special interest is your field of study, or a discipline you choose with **Choose field of study** | The first chapter after you switch to a different discipline takes 35% longer. Going back to a chapter you started, or to your special interest, never costs |
 | ADHD | The first minute of a reading sitting goes 30% faster, and the first five minutes at a research bench 20% faster | Reading slows by 20% after three minutes in one sitting, and bench work by 10% after twenty minutes. A minute away from reading, or two from the bench, starts a fresh sitting |
+
+### Trades
+
+A trade is an optional free trait for hands-on work. You can take one in character setup, or later with **Choose trade** (IC tab). You can have only one trade, and it can be combined with a field of study. A trade only changes how long the work takes; it never changes your crafting skill or which recipes you can make.
+
+| Trade | Its own work takes | Covers |
+| ----- | ------------------ | ------ |
+| Mechanic | 40% less time | Building and repairing vehicles, aircraft and engines, submarine hull repairs, vehicle keys |
+| Gunsmith | 30% less time | Gunsmith bench work, black powder gun assembly, fletching |
+| Smith | 25% less time | Anvil work and the metal workbench |
+| Tailor | 25% less time | Dressmaking, and crafting from cloth, wool, hides and leather |
+| Carpenter | 8% less time | Crafting from wood and stone, and woodworking |
+
+- The work of the other four trades takes 10% longer. Work that belongs to no trade is unchanged.
+- Trades for rarer work get bigger boosts. An all-rounder comes out about even or a little slower with any trade; a trade pays off for someone who mostly does one kind of work.
+- You can drop your trade at any time. After any change, you must wait 7 real days before picking a new one.
 
 ## Languages
 
