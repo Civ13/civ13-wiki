@@ -260,7 +260,7 @@ While nobody is connected to a world, its animals wait: they don't move, get hun
 <td>
 <img src="../images/mouse.png">
 </td>
-<td>*Bites you* O-oh I spread you m-my plague, sowwy uwu.</td>
+<td>Lives in nests and burrows and runs from people. See [Mice & Pests](Guide_to_Mice.md).</td>
 </tr>
 <tr>
 <td>Penguin</td>

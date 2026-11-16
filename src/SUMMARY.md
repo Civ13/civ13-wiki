@@ -47,6 +47,7 @@
         - [Trapping](guides/Guide_to_Trapping.md)
         - [Ranching](guides/Guide_to_Ranching.md)
         - [Animals, Dogs & Mounts](guides/Guide_to_Animals.md)
+        - [Mice & Pests](guides/Guide_to_Mice.md)
     - [Building & Transport]()
         - [Construction](guides/Guide_to_Construction.md)
         - [Making a Home](guides/Guide_to_Homes.md)

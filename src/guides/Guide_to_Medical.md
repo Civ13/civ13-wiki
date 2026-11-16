@@ -355,7 +355,7 @@ advanced medicine doesn't exist.
 The rarest and the most dangerous disease. It leaves you weak and
 collapsing for a long time unless treated with penicillin.
 
-  - Caught from eating raw mice. Or standing too long near one.
+  - Caught from fleas: sleeping or lying near a flea-ridden mouse nest, or digging one out bare-handed (see [Mice & Pests](Guide_to_Mice.md#fleas-and-plague)).
   - Transmits from person to person.
   - It can be spotted by the lumps on your skin and vomiting blood.
   - If you survive, you will get immunity.

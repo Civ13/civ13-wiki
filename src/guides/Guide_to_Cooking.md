@@ -104,7 +104,7 @@ See the **[Full Crafting List](../Full_Crafting_List.md)** for more details abou
 
 ~~Store in a cool, dry place, away from direct sunlight.~~
 
-Most foods will spoil and decay (read, vanish from existence) if left in the open. Some preserved, as well as canned food are an exception and will last as long the world does (until the end of the round). Scattered food may also attract pests, such as mice.
+Most foods will spoil and decay (read, vanish from existence) if left in the open. Some preserved, as well as canned food are an exception and will last as long the world does (until the end of the round). Food left loose or in open baskets near a mouse nest gets eaten and gnawed; clay storage jars keep mice out (see [Mice & Pests](Guide_to_Mice.md)).
 
 Finding a formerly bursting-at-the-seams pantry devoid of its delicious contents may very well reduce a hungry soul to tears. Fortunately, there are ways to extend the shelf life of your food stock, which boil down to storing food inside any crate or a fridge.
 
