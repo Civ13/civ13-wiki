@@ -50,6 +50,17 @@ Keys don't fit a strongbox and it can't be unbolted. Someone outside the faction
 - **Dues.** The leader can set weekly dues. Members pay by holding coins and choosing **Pay dues from my hand**. The box records who paid, but nobody is forced to pay. That's up to the faction.
 - **Ledger.** Any member can read who collected, paid and changed what, along with the coin in the box and the taxes waiting.
 
+### Bills and notes
+
+A treasury can pay in paper, so merchants don't have to carry sacks of coin. At the strongbox, a treasurer chooses **Draw bills or notes**:
+
+- **Write a bill of exchange** for 1 to 500 silver. It uses one blank sheet of paper in your hands or at your feet.
+- **Print treasury notes**: up to 20 notes of one value at a time. You must stand beside a printing press, and each note uses a blank sheet.
+
+Anyone can bring a bill or note to that faction's strongbox and use it on the box to be paid in coin, whether or not they belong to the faction. The box pays only with the coin inside it. If it can't cover the whole bill, it pays what it can, and the rest stays owed on the bill until the box is refilled. A treasury that promises more than it holds will see the first people to redeem get paid while everyone else waits. The ledger shows the coin in the box next to what is promised on open bills.
+
+Every bill is numbered in the faction's register. Copies and forgeries are worthless, and examining a bill tells you if the register doesn't know it.
+
 ## Land and deeds
 
 A faction can register land and hand it out by deed.
