@@ -68,6 +68,8 @@ See [Construction](Guide_to_Construction.md#fences-barricades-and-barriers) for 
 
 ## Sieges and castles
 
+For how to lay out and hold a castle with these pieces, see [Defending a Castle](Guide_to_Castles.md).
+
 Once your people know **Siege Engines**, you can build a battering ram, a ballista and a siege tower. **Fortifications** adds the trebuchet and the castle gate pieces. Everything here is built from wood except the murder hole.
 
 - **Battering ram** (30 wood). Push it up against a gate, door, barricade or built wall, face it there and swing it. Each swing takes three seconds and hits harder for every person standing beside the ram, up to four. A full crew breaks a gate in three swings.
