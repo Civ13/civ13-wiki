@@ -1091,7 +1091,7 @@ At **ages 3 and 4**, with **Gunsmithing** unlocked, you can assemble a flintlock
 | Musket stock | Plank Tools menu | 3 softwood, 240 ticks |
 | Pistol barrel | Iron on an anvil, choose flintlock parts | 20 iron |
 | Musket barrel | Iron on an anvil, choose flintlock parts | 30 iron |
-| Flintlock mechanism | Steel on a steel anvil | 2 steel |
+| Flintlock mechanism | Steel on a steel-faced or steel anvil | 2 steel |
 
 Existing blacksmith skill and job restrictions apply. Gather flint from rocks with **Grab intent**, then strike a rock with it until sharpened.
 
