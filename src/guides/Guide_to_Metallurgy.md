@@ -180,6 +180,14 @@ Using iron, steel, bronze or kevlar sheets on an anvil opens the **Crafting wind
 </tbody>
 </table>
 
+### Quench tub
+
+A **quench tub** is a wooden tub of water that stands next to an anvil. Make one from 8 soft wood once you know Iron Smithing, set it beside the anvil and fasten it with a wrench or hammer.
+
+- Fill it with a bucket (it holds 60 units), pipe water to it, or build it beside running water such as a river with a current, an aqueduct channel, a fountain, a tap or a sink, so it never runs dry. Examine it to see how much it holds.
+- Every **iron** or **steel** piece you forge on that anvil is quenched as it comes off. It uses 10 units of water, and the piece comes out hardened at **Excellent** quality, so it hits harder.
+- Without a tub, or with the tub dry, forging works as usual. Bronze, copper and the other soft metals gain nothing from quenching, and cast pieces from molds are not quenched.
+
 ### Trip hammer
 
 <img src="../images/Trip_hammer.png">
