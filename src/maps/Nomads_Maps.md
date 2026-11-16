@@ -176,7 +176,7 @@ Europe has hills: slopes are shaded, climbing is slower and descending quicker, 
 
 Europe is a persistent land. Roofs carry up to four floors and planes fly on the air level above.
 
-Europe starts with only the surface. The first time someone uses a shovel to dig a tunnel down, a cave level forms underneath the whole continent, with rock to mine, open pockets and veins of hard rock. Later tunnels lead into the same caves, and a tunnel dug up from the caves comes out on the surface.
+Under Europe lies solid rock. Use a shovel to dig a tunnel down and the rock opens up as you dig, with open pockets and veins of hard rock; a tunnel dug up from below comes out on the surface (see [Digging down](../guides/Guide_to_Resource_Extraction.md#digging-down)).
 
 Section of Nomads_World project (1/4)
 

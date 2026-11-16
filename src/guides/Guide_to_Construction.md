@@ -940,8 +940,7 @@ How many storeys a land allows:
 
 | Land | Storeys |
 | --- | --- |
-| [Gaia](../maps/Gaia.md), Europe, Asia, the Desert and the Jungle | up to four, if the supports carry them (see below) |
-| [North and South America](../maps/The_Americas.md) | two: the ground floor and one upper floor. A roof on the upper floor shelters it but adds no floor above. |
+| Every land, including [Gaia](../maps/Gaia.md) and [North and South America](../maps/The_Americas.md) | up to four, if the supports carry them (see below) |
 
 #### Building a second storey, step by step
 
