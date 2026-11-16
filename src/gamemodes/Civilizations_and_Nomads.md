@@ -170,6 +170,24 @@ On Nomads maps you can right-click someone next to you and choose **Offer Adopti
   - The leader can call an **election** for the leadership or for any office. The leader can also set a **term**. Once a leader has served longer than the term, or if no one leads, any member can call a leadership election.
   - An election lasts 30 minutes. Members **stand** as candidates and **vote**, one vote each. The most votes wins, and a tie goes to whoever stood first. An elected leader takes over the faction. An elected officer serves for the faction's term.
 
+#### Laws and courts
+
+**Faction Justice** on the **Faction tab** holds your faction's laws and court record.
+
+  - The leader writes the faction's laws (up to 20) and can repeal them. Every member online hears about each change.
+  - Any member can read the laws, the warrants, outlaws and fines, and the record of past rulings.
+  - Anyone with the **justice** power can hold a trial: the leader, a Judge or any office given that power, or someone carrying that office's seal. Stand beside a **gavel block** (1 wood, paper & printing). Pick the accused from people nearby, the charge, the verdict and the sentence. The judge gets a written judgment to seal.
+  - Sentences are:
+      - a fine of up to 500 silver
+      - jail for up to 30 minutes
+      - banishment
+      - outlawry
+      - a warning
+  - Fines are paid at the faction's [strongbox](../guides/Guide_to_Money.md#faction-treasury) with **Pay a fine from my hand**. Anyone can pay one, even for someone else.
+  - For jail, shut the convict behind a door and use **Cell Timer** on it. Judges can set cell timers as well as the leader.
+  - Judges can issue a **warrant**, which prints a wanted poster, and can **pardon** someone.
+  - Examining someone shows if a faction has a warrant out for them or has declared them an outlaw. The game doesn't punish anyone by itself. The faction carries out its own rulings.
+
 #### As a Member
 
   - You can ask the leader to give you **officer permissions**.
