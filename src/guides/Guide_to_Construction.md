@@ -1515,6 +1515,34 @@ locks.
 - **Removing them:** a hammer takes brackets or a bolt off again, from their
   own side, while they are not in use.
 
+### Fire doors
+
+| Item | Made from | Research |
+| --- | --- | --- |
+| Iron-clad fire door | 15 iron | Steelmaking |
+| Steel fire door | 15 steel | Modern Construction |
+| Fusible link | 1 brass | Steelmaking |
+| Fire seals | 2 wool cloth | Steelmaking |
+| Panic bar | 3 steel | Factories |
+
+- **Fire-rated:** a fire door stops fire for 30 minutes (iron-clad) or an
+  hour (steel), but only while it is shut, its closer and seals are whole, and
+  it stands between masonry, stone, brick, concrete or metal walls. Examine it
+  to see whether it is rated and, if not, why.
+- While rated, fire can't spread onto its tile and it takes only a small
+  share of the heat. Fire beside it uses up its rating; when that runs out the
+  seals burn and it burns like any iron or steel door. Use fire seals on it to
+  restore the full rating.
+- It shuts itself after every passage, and its closer can't be taken off.
+- **Fusible link:** use it on an open door that has a closer to hold the door
+  open. When fire comes within two tiles the link melts and the door swings
+  shut. An empty hand unhooks it.
+- **Panic bar:** hold a screwdriver in your other hand and use the bar on any
+  door from the side it should go on. From that side, pushing the door opens
+  it even when it is locked or bolted. From the other side it changes nothing.
+- Doors burn by what they are made of: wooden doors burn fast, metal doors
+  slowly and stone doors hardly at all.
+
 ### Taking doors down
 
 An unlocked, unbarred or open door can be taken off its hinges in 15 seconds: use a
@@ -1522,7 +1550,7 @@ hammer on wooden, bamboo, bone and stone doors, and a wrench on metal doors,
 with any intent but harm. This only works from the inside, where the hinges
 are. From outside you have to break the door down. A door with no inside
 (an inner door or a gate) can be taken down from either side. You get back
-its fittings, its lock, brackets and bolt, and about three quarters of its material, less if it
+its fittings, its lock, brackets, bolt and panic bar, and about three quarters of its material, less if it
 was damaged. Faction doors and blast doors can't be taken down by hand.
 
 ## Windows
