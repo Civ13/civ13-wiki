@@ -932,7 +932,23 @@ in the roofed area, or even standing next to it.**
 
 ### Upper storeys
 
-On maps that allow building upward, a roof is also the floor of the storey above it, and a building can rise to **four storeys**. The game refuses a roof that the structure below cannot carry and tells you why, before any material is used. Roofs that already stand are not affected by these rules.
+A roof is also the floor of the storey above it. Each roof tile you build adds a walkable **upper floor** on the level above, and the game says "finishes building the roof and upper floor" when it does. Before you build, the roof builder tells you whether a floor will be added and, if not, why. The game refuses a roof that the structure below cannot carry and tells you why, before any material is used. Roofs that already stand are not affected by these rules.
+
+How many storeys a land allows:
+
+| Land | Storeys |
+| --- | --- |
+| [Gaia](../maps/Gaia.md), Europe, Asia, the Desert and the Jungle | up to four, if the supports carry them (see below) |
+| [North and South America](../maps/The_Americas.md) | two: the ground floor and one upper floor. A roof on the upper floor shelters it but adds no floor above. |
+
+#### Building a second storey, step by step
+
+1. **Plan the foundation now** if you might ever want a third storey: lay a stone, brick or concrete floor wherever a ground-floor wall or pillar will stand (see Foundations below). You cannot add it under a wall later without taking the wall down.
+2. Build the ground-floor walls or pillars. Walls hold the roof tiles right next to them; a stone pillar reaches 2 tiles and a wooden roof support 3.
+3. Roof the whole footprint, **including the tiles the walls stand on**: stand inside, face each tile and use the roof builder. A tile with no roof has no floor above it, so roofing only the inside leaves you nowhere to put the upper walls.
+4. Get onto the upper floor (see [Getting between storeys](#getting-between-storeys)).
+5. Build the upper walls or pillars **on that floor, on top of or right next to** the walls below. A wall standing on open air holds nothing.
+6. Roof the upper storey the same way. Every tile needs a wall or pillar right next to it, or supports on two sides.
 
 How high a building may go depends on its weakest support:
 
@@ -941,11 +957,13 @@ How high a building may go depends on its weakest support:
 | Wood, bamboo, straw, earth and tent walls, wooden and Nordic roof supports, doors | 2 storeys |
 | Stone, brick, clay, sandstone, marble and concrete walls, stone and concrete pillars, columns | 4 storeys |
 
-- **Foundations:** a third or fourth storey needs ground-floor supports that stand on rock or on a stone, brick, marble, sandstone, slate, concrete or steel floor. Lay that floor first, then build the wall or pillar on it. Supports on soil, sand, grass or a wood floor carry two storeys at most.
+- **Foundations:** a third or fourth storey needs ground-floor supports that stand on rock or on a stone, brick, marble, sandstone, slate, concrete or steel floor. Lay that floor first, then build the wall or pillar on it. Supports on soil, sand, grass or a wood floor carry two storeys at most, whatever they are made of: a fortress brick wall built straight on grass still stops at two.
 - **Supports above supports:** a wall or pillar on an upper floor only counts when a support strong enough for that storey stands on the floor below it, on the same tile or right next to it, all the way down to the ground. A stone wall above a wooden one is only as strong as the wood.
 - **Spans:** from the second storey up, a single distant pillar is not enough. Each new roof tile needs a wall or pillar right next to it, or supports within reach on two different sides. Ground-floor roofs keep the plain rule shown in the image above.
 
 A sound four-storey house therefore starts with a stone floor, has stone walls or pillars on every storey standing over the ones below, and has no room wider than its pillars can hold from two sides.
+
+**Adding a foundation to a standing house:** put a wooden roof support inside first so nothing falls, then take down one ground-floor wall at a time with a hammer, lay a stone or brick floor on that tile and rebuild the wall on it.
 
 #### Getting between storeys
 
