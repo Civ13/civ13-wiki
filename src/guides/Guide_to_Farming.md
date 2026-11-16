@@ -290,6 +290,20 @@ If you reach in without smoke, the bees chase you and sting. Only the person who
 
 Felling a tree that holds a nest drops its combs on the ground, and the colony leaves.
 
+### Keeping bees
+
+Once your people know **Basic Agriculture**, you can keep bees in a hive near your fields. There are three kinds, all in the tools category:
+
+- **Log hive**: 6 soft wood. Holds up to 6 combs.
+- **Clay hive**: 6 clay, dried in the sun. It holds up to 8 combs and won't burn.
+- **Skep**: 8 leaves, woven into a straw dome. Holds up to 5 combs.
+
+A new hive is empty. To get bees, wait for a **swarm**. In spring, or at the start of the wet season, strong colonies split. Half the bees leave and hang in a humming cluster near their old home for about 20 minutes. Both kept hives and wild nests swarm. Pull an empty hive right next to the cluster, then click the swarm to shake it in. Swarming bees are calm and don't sting. Once bees move in, the hive is fixed in place.
+
+A colony grows and fills its combs while it has flowers, crops and trees to forage within a few tiles, in spring and summer or the wet season. Without forage it dwindles. Through autumn and winter, or the dry season, it lives on its stored combs. If it runs out, it starves and dies. Examine a hive to see how it is doing. Skilled farmers can read its strength and stores exactly.
+
+To harvest, smoke the hive with a smoke bundle or torch, then cut a comb out with a knife (or slowly by hand). The combs are built into the hive, so every comb you cut also kills some of the young bees and weakens the colony. Cut without smoke and the bees chase you. Leave enough combs in autumn for the colony to last until spring.
+
 ### Honey, beeswax and candles
 
 - **Honey**: click an open bowl, pot or bucket with a honeycomb to squeeze 10 honey into it. Honey goes into jam and mead, and counts toward the sweet part of your diet. A **crushed comb** is left in your hand.
