@@ -141,7 +141,7 @@ To move a bigger load, build a **travois** (Primitive Construction, 8 logs, soft
 
 ## Storing things
 
-You don't need Cooperage to keep things safe at home. These containers open their own storage window: click one with an empty hand to see what is inside, click it with an item to put the item in, and drag things out of the window to take them.
+You don't need Cooperage to keep things safe at home. Click one of these containers with an empty hand to open it in the storage window, or click it with an item to put the item straight in.
 
 | Container | Chapter | Made from | Holds | Good for |
 | --- | --- | --- | --- | --- |
@@ -153,6 +153,21 @@ You don't need Cooperage to keep things safe at home. These containers open thei
 To dig a storage pit, hold a shovel or digging stick in one hand and use the pit lining on bare ground next to you (grass, dirt, sand or snow). A pit can't be moved. Fill it back in with a shovel to remove it, and whatever was inside comes out.
 
 Right-click a container and choose **Dump Out**, or **Alt-click** it, to tip everything onto the floor at once. A broken container spills what it held.
+
+### The storage window
+
+Opening any bag, basket, chest or other container shows the storage window. The left side lists **you**: both hands, the bags and belt you wear, and your pockets. The right side lists what is **nearby**: containers on the tiles around you, bags lying on the floor, the bags of anyone unconscious or tied up next to you, and loose things on the floor.
+
+- **Drag** a thing onto a container to move it there. Or click several things to select them, then press **Move here** on the container they should go to. Enter moves your selection to the container you used last.
+- **Take all** puts everything from a nearby container away: into the first bag you wear that has room, then your pockets, then your hands.
+- **Dump out** asks first, then tips the container's things onto the floor.
+- The **find** box at the top shows only things whose name matches.
+
+Moving things takes a moment. Bigger things take longer, things going to or from your hands, pockets and belt are quicker, and taking from someone else's bags is slower. Moves wait their turn along the bottom of the window, and **Cancel all** stops them. Walking away, or being stunned or tied up, also stops them.
+
+A container that is too small or too full refuses what you drop on it and says why. A locked container shows nothing of what is inside.
+
+If you prefer the old storage strip along the bottom of the screen, use **Storage Window** in the OOC tab. Use it again to switch back.
 
 ## Sleeping and logging off
 
