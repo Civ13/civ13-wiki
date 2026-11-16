@@ -111,12 +111,8 @@ A lit campfire or fire pit under the open sky can send smoke signals. Hold leath
 
 ## Abandoned debris
 
-Discarded rubbish and empty, unrecoverable spent casings become eligible to decay after **4 actual season changes** on maps with changing seasons. Examine them after **2 changes** to see the warning. Maps without an active seasonal cycle instead warn after **6 hours** and allow decay after **12 hours of running-server time**. Decay processing can take additional time after the threshold.
+Rubbish and empty spent casings left lying around rot away after **4 season changes**, and you can see a warning when you examine them after **2**. Where the seasons do not change, the warning comes after **6 hours** and they rot away after **12**.
 
-Pick up or move eligible debris for a fresh recovery window. Native bags, backpacks, ammunition storage and closed closets or crates preserve contents. Open closets dump their contents onto the ground; dumpsters dispose of contents. Restored items receive a fresh window after loading.
+Picking up or moving debris resets its clock. Things kept in bags, backpacks, ammunition boxes and closed closets or crates are safe. Useful items, such as tools, crops, containers, vehicles, money, loaded ammunition and arrows or bolts, never rot away.
 
-This process covers rubbish and qualifying spent casings. Useful tools, component tools, crops, corpses, containers, vehicles, money, loaded ammunition and recoverable arrows or bolts do not decay through this system.
-
-Human bodies use a separate [corpse and remains process](Guide_to_Medical.md#human-bodies-and-remains), with recovery warnings, protected storage and gear preservation.
-
-Natural season transitions age debris. An admin's forced season change defaults to **Keep decay age**; **Advance decay age** explicitly counts that change, while Cancel makes no change.
+For dead bodies, see [Human bodies and remains](Guide_to_Medical.md#human-bodies-and-remains).

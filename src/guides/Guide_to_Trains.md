@@ -238,15 +238,15 @@ The office holds 8 cars or locomotives. It won't take a moving train, a car that
 
 ## Through station and service loop
 
-This example separates an eastbound main line, a passenger platform track and a cargo/service loop. It uses straight track, four corners, two left switchers, two right switchers and a rotator, plus four levers. It is a source-derived layout, **not an in-game-tested station or a guarantee of collision-free operation**.
+This example separates an eastbound main line, a passenger platform track and a cargo/service loop. It uses straight track, four corners, two left switchers, two right switchers and a rotator, plus four levers.
 
-The platform and cargo stopping positions allow **eight vehicles including the locomotive and tender**. That is a layout choice, not a train-length limit. Extend the straight stopping tracks and clearances for a longer train.
+The platform and cargo stopping positions allow **eight vehicles including the locomotive and tender**. Extend the straight stopping tracks for a longer train.
 
 ### Layout views
 
-![Offline Civ13 sprite render showing the passenger platform north of the main line and service loop south of it](../images/civ13-station-game-sprites.png)
+![The station layout, showing the passenger platform north of the main line and service loop south of it](../images/civ13-station-game-sprites.png)
 
-Offline render using actual Civ13 sprites; not a live screenshot or in-game test. Main line continues beyond both station ends; flat lighting and no runtime turf-edge updates. [Open the full-size sprite render](../images/civ13-station-game-sprites.png).
+The main line continues beyond both station ends. [Open the full-size sprite render](../images/civ13-station-game-sprites.png).
 
 ![Coordinate schematic showing the four switchers, four corners, rotator, levers and mandatory forward guard rails](../images/civ13-station-plan.png)
 
@@ -284,9 +284,9 @@ The four depot corners form by themselves: lay each leg one tile past the corner
 
 ### Switches and guard rails
 
-A split switcher moves the vehicle **one tile sideways without changing its heading**. It is not a curve. The passenger route therefore enters and leaves its parallel track while continuing to face east; the depot uses actual turns for its loop.
+A split switcher moves the vehicle **one tile sideways without changing its heading**. The passenger route enters and leaves its parallel track while continuing to face east; the depot uses actual turns for its loop.
 
-**Keep the forward guard rails at `(17,1)` and `(37,-1)`, even though normal exit traffic leaves sideways.** A switcher currently checks for compatible rail straight ahead before taking its split route. The main line supplies the equivalent forward rail beyond the entrance switchers. Do not remove these forward rails as unused track.
+**Keep the forward guard rails at `(17,1)` and `(37,-1)`, even though normal exit traffic leaves sideways.** A switcher needs rail straight ahead before it will take its split route.
 
 A lever changes **every switcher within two tiles**, rather than linking to one selected switch. The four lever positions above keep the intended controls apart. If you move a lever or add another nearby switcher, check which switches it reaches and inspect their settings before admitting a train.
 

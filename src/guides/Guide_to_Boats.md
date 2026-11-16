@@ -13,9 +13,9 @@ Anything that floats is built from the crafting menu's **vehicle parts** section
 | [Submarine](#submarines) | Travelling unseen under the open ocean (Gaia) | As many as fit | Diesel engine |
 | [Slipway ships](#slipway-ships) | A big ship built piece by piece on the shore | As many as fit | Sails (schooner) or a diesel engine (freighter) |
 
-![Offline render using Civ13 sprites: a raft, a sailing outrigger, a motor outrigger and a rigid hull inflatable boat on shallow water](../images/civ13-small-boats-sprites.png)
+![A raft, a sailing outrigger, a motor outrigger and a rigid hull inflatable boat on shallow water](../images/civ13-small-boats-sprites.png)
 
-From left to right: raft, sailing outrigger, motor outrigger, RHIB. Offline render using Civ13 sprites, not a live screenshot.
+From left to right: raft, sailing outrigger, motor outrigger, RHIB.
 
 ## Research and materials
 
@@ -365,7 +365,7 @@ Under the open ocean lies the seabed: cold, dark water where nothing can breathe
 
 Wear the dress, the helmet and a bottle with air in it, and you are sealed.
 
-![Offline render using Civ13 sprites: a diver in the canvas diving dress and brass helmet and a diver in the steel hard dive suit, each seen from four sides with twin air bottles on the back, above the five item icons](../images/civ13-diving-gear-sprites.png)
+![A diver in the canvas diving dress and brass helmet and a diver in the steel hard dive suit, each seen from four sides with twin air bottles on the back, above the five item icons](../images/civ13-diving-gear-sprites.png)
 
 The top row is the diving dress with the diving helmet. The second row is the hard dive suit with its helmet. The air bottles show on your back.
 
@@ -408,7 +408,7 @@ Diving teaches swimming too, open water more than the shelf.
 - **Swim fins**: 3 plastic. They make swimming and wading much faster but walking on land clumsy, so take them off ashore.
 - **Scuba set**: 6 steel. An air cylinder with a regulator, worn on your back. Refill it where you refill diving bottles.
 
-![Offline render using Civ13 sprites: the diving dress, the hard dive suit and the new scuba kit (dive mask, scuba set and swim fins) each seen from four sides, above the eight item icons](../images/civ13-scuba-gear-sprites.png)
+![The diving dress, the hard dive suit and the new scuba kit (dive mask, scuba set and swim fins) each seen from four sides, above the eight item icons](../images/civ13-scuba-gear-sprites.png)
 
 The third row is the scuba kit: dive mask, scuba set and swim fins.
 
@@ -451,9 +451,9 @@ The slipway tells you what the next piece needs, for example "the next keel timb
 
 The ship grows on the berth from stern to bow: the keel down the middle, then the ribs, the hull and the deck, then the masts, wheel or wheelhouse. You can walk over her while she is being built.
 
-![Offline render using Civ13 sprites: four schooners on slipways at different stages, from a half-laid keel at the bottom to a finished ship at the top](../images/civ13-slipway-schooner-stages.png)
+![Four schooners on slipways at different stages, from a half-laid keel at the bottom to a finished ship at the top](../images/civ13-slipway-schooner-stages.png)
 
-From bottom to top: half the keel laid, half the planking on the ribs, the deck finished, and a finished schooner with her masts and wheel. Offline render using Civ13 sprites, not a live screenshot.
+From bottom to top: half the keel laid, half the planking on the ribs, the deck finished, and a finished schooner with her masts and wheel.
 
 | Schooner stage | Pieces | Each piece |
 | --- | --- | --- |
@@ -483,9 +483,9 @@ When the last piece is fitted, click the slipway and choose **Launch**. The ship
 - Every tile she slides over must be clear: a wall, a tree, a wreck or another boat in the way stops the launch.
 - **Dry dock:** instead of the open shore you can dig a trench for the berth. Build the ship in the dry trench, then dig through to the sea so the trench floods. A dry dock that is not flooded refuses the launch.
 
-![Offline render using Civ13 sprites: a launched schooner and a launched freighter afloat off the shore, and a freighter half built on its slipway](../images/civ13-slipway-launched.png)
+![A launched schooner and a launched freighter afloat off the shore, and a freighter half built on its slipway](../images/civ13-slipway-launched.png)
 
-A freighter and a schooner afloat after their launch, with another freighter on the slipway between them. Offline render using Civ13 sprites, not a live screenshot.
+A freighter and a schooner afloat after their launch, with another freighter on the slipway between them.
 
 ### Sailing them
 

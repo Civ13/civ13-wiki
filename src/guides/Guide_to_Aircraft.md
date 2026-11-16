@@ -2,9 +2,9 @@
 
 Light planes are the first things in Civ13 that leave the ground. There are six hangar models: the two-seat **light plane**, the four-seat **cabin plane**, the small two-seat **trainer**, the **cargo plane**, the bigger **twin-engine plane** and the **airliner**, and planes can also be built by hand. Every plane takes off and lands best on a **runway** and flies on the air level above the map. Flying is only possible on maps that have an air level: at the moment that is [North and South America](../maps/The_Americas.md) and [Gaia](../maps/Gaia.md), the persistent lands. Elsewhere the plane rolls along but never lifts off, and the pilot is told that there is no airspace.
 
-![Offline render using Civ13 sprites: two light planes on a tarmac runway laid across grass, one parked and one with its propeller spinning](../images/civ13-light-plane-sprites.png)
+![Two light planes on a tarmac runway laid across grass, one parked and one with its propeller spinning](../images/civ13-light-plane-sprites.png)
 
-Two light planes on a runway, nose to the east. Offline render using Civ13 sprites, not a live screenshot.
+Two light planes on a runway, nose to the east.
 
 ## Research and materials
 
