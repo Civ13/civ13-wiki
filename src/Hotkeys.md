@@ -71,7 +71,7 @@ Movement is free: holding a movement key slides you smoothly at walking or runni
 
 ## Walking to a spot
 
-**Ctrl+click** a spot you can see and your character walks there by the quickest way, up to 32 tiles away. The route goes round walls, locked doors, deep water, lava, drops and fires, and it prefers fast ground: it keeps to roads and floors over snow, mud and wading, and goes round a steep hill when that is quicker than climbing it. Click something you can't stand on, such as a wall, a table or a tree, and you stop next to it. Ctrl+clicking something right next to you still pulls it, as before.
+**Ctrl+click** a spot you can see and your character walks there by the quickest way, up to 32 tiles away. The route goes round walls, deep water, lava, drops and fires, and through a shut door only when it would open for you: never a locked, barred or held door, or a shut window. It prefers fast ground: it keeps to roads and floors over snow, mud and wading, and goes round a steep hill when that is quicker than climbing it. Click something you can't stand on, such as a wall, a table or a tree, and you stop next to it. Ctrl+clicking something right next to you still pulls it, as before.
 
 You walk or run at your usual pace and pull anything you were already pulling. You stop when you arrive, when you press any movement key, when you get hurt, when a hostile animal comes close, or when the way stays blocked. You can't set off while a hostile animal is already close, while driving, or while buckled, restrained or crouching. Use **Check Movement** (IC tab) to see what slows you down on the way.
 
