@@ -73,7 +73,7 @@ With the axe you can chop trees for **wood logs**. A flint spearhead used on a s
 
 ## Water
 
-- **Drink straight from fresh water.** Click a river, lake or pond tile with an empty hand on **Grab intent**. Never drink salt water. Raw water can give you **cholera**: about a 15% chance per drink from ordinary water, 30% from jungle rivers and flooded ground, and 45% from swamps.
+- **Drink straight from fresh water.** Click a river, lake or pond tile with an empty hand on **Grab intent**. Never drink salt water. Raw water can give you **cholera**: about a 15% chance per drink from still water, half that from a river with a current (15% from a flowing jungle river), more from still water in summer heat, 30% from flooded ground and 45% from swamps. Look closely at the water to tell which it is: "The water runs clear and quick" is the best you will find.
 - **Make it safe.** With Pottery & Cookware, make a **wooden mug** to drink from and a **bucket** to carry water. Boil water in a clay **cooking pot** on a campfire before drinking it. The [Starter Guide](../Starter_Guide.md#water) explains clay and boiling step by step.
 - **Milk** never needs boiling. Use a bucket on a cow, ewe or goat on **Help intent**.
 - **Wells** give clean water as long as nobody leaves dung within four tiles. You can dig your own: see below.
