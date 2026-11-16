@@ -44,10 +44,11 @@ The water tells you when conditions are unusual; look at it before you cast.
 
 ### What bites where
 
-* **Rivers and lakes:** salmon and ordinary fish.
-* **The coast:** ordinary fish and some cod.
-* **The open ocean:** mostly cod. A baited line sometimes brings up a squid.
-* **Swamps:** ordinary fish.
+* **Rivers and lakes:** salmon, trout and ordinary fish. Their deep water also holds catfish.
+* **Jungle rivers:** catfish, salmon and ordinary fish.
+* **The coast:** herring, ordinary fish and some cod.
+* **The open ocean:** mostly cod. A baited line sometimes brings up a squid or a **tuna**; a line towed from a ship under way hooks tuna more often still.
+* **Swamps:** catfish and ordinary fish.
 
 ### Bait
 
@@ -145,6 +146,26 @@ All those aquatic edibles.
 <td><img src="../images/cod.png"></td>
 <td><b>Cod</b></td>
 <td>A large fish of the sea, most common in the open ocean. Can be <b><a href="Guide_to_Cooking.md#basic">salted</a></b> to preserve.</td>
+</tr>
+<tr>
+<td><img src="../images/trout.png"></td>
+<td><b>Trout</b></td>
+<td>A speckled fish of rivers and lakes.</td>
+</tr>
+<tr>
+<td><img src="../images/catfish.png"></td>
+<td><b>Catfish</b></td>
+<td>A big whiskered bottom feeder from deep fresh water, jungle rivers and swamps. More meat than most fish; a knife cuts it into four fillets.</td>
+</tr>
+<tr>
+<td><img src="../images/herring.png"></td>
+<td><b>Herring</b></td>
+<td>A small silver fish that shoals along the coast. Cuts into two fillets.</td>
+</tr>
+<tr>
+<td><img src="../images/tuna.png"></td>
+<td><b>Tuna</b></td>
+<td>The prize of the open ocean. It only takes a baited line or one towed from a moving ship. Far more meat than any other fish; a knife cuts it into six fillets.</td>
 </tr>
 <tr>
 <td><img src="../images/lobster.png"></td>
