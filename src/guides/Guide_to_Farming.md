@@ -304,6 +304,23 @@ A colony grows and fills its combs while it has flowers, crops and trees to fora
 
 To harvest, smoke the hive with a smoke bundle or torch, then cut a comb out with a knife (or slowly by hand). The combs are built into the hive, so every comb you cut also kills some of the young bees and weakens the colony. Cut without smoke and the bees chase you. Leave enough combs in autumn for the colony to last until spring.
 
+#### Frame hives
+
+With **Advanced Agriculture**, you can keep bees the modern way, in a painted wooden **frame hive**. The bees build their comb on removable frames, so you can take honey without cutting the comb out. The kit is all in the tools category:
+
+- **Frame hive**: 8 soft wood. Holds up to 10 frames.
+- **Hive frame**: 1 soft wood.
+- **Hive tool**: 1 iron. Prises the lid off or on, and takes an empty hive apart. A crowbar also works on the lid.
+- **Bee smoker**: 2 iron. Pack it with leaves, light it from a flame, and use it on any hive or wild nest. Each load of leaves smoulders for about three minutes, and you can snuff it in hand.
+- **Honey extractor**: 8 iron.
+- **Nucleus box**: 3 soft wood.
+
+To stock a frame hive, shake a swarm into it like any other hive. You can also catch a swarm in an empty nucleus box and tip it into the hive later with the lid off. Put frames in with the lid off, then close it again. The bees only store honey on frames, and an open hive barely fills. Frames that already have comb on them fill about twice as fast as new ones.
+
+To harvest, smoke the hive, take the lid off, then click it to lift out each full frame. Reaching into a hive without smoke brings the bees out at you. Load up to four full frames into the honey extractor and click it to crank. Each frame gives 20 honey and comes back as a drawn frame, ready to go straight back in the hive. Draw the honey off by clicking the extractor with an open bucket, pot or bowl. You can also cut the comb off a full frame with a knife, which gives a honeycomb and a bare frame.
+
+A colony at 60% strength or more can be split. Smoke it, take the lid off and click it with an empty nucleus box to take half the bees. Tip the box into an empty frame hive to start a second colony. Plenty of empty frames also keeps a strong colony from swarming away in spring.
+
 #### Pollination
 
 Many crops need insects to set their best crop: apples, cherries, apricots, oranges, limes, lemons, watermelons, pumpkins, zucchini, beans, tomatoes, red peppers, coffee, cocoa, cotton and flax. When you harvest one of these with a bee colony within five tiles, there is a good chance of one extra fruit, or one extra bundle of cotton or flax. The stronger the colony, the better the chance. A busy kept hive does the most, and a wild nest in a nearby tree helps too. Grains, corn, rice, grapes and olives pollinate by wind or by themselves, so bees don't change their harvest. Experienced farmers can tell from examining a flowering crop whether bees are working it.
