@@ -68,6 +68,7 @@ Use raw meat or raw fish on your pole or rod to bait it. A net takes no bait. On
 Stand on a boat on the water and cast into the open water beside it, not onto the hull. The open ocean is wide and bites come less often there than on the coast, so bait helps. See [Boats & Ships](Guide_to_Boats.md) for building a boat.
 
 * **Trolling:** on a ship that is under way, use a pole or rod on the water and you tow the line astern instead of casting. Stay aboard, near the rail, until the wait is over. **Slow ahead** is the best speed, better than fishing at anchor; half ahead is ordinary; at full ahead the lure skips and little bites. Whatever you hook comes from the water the ship is passing over, so trolling spreads your fishing across many stretches. Spears and nets do not work under way.
+* **Trawling:** a **trawl net** is dragged behind a ship that is making way at slow or half ahead. Use it on the water astern and stay aboard until the haul comes in, about 20 seconds. One haul can bring up as many as six fish from the water the ship is passing over. It takes no bait, engine noise does not spoil it, and it does not work at anchor or at full ahead. It never catches tuna. Nothing empties a stretch of water faster, so keep moving and let the grounds behind you recover.
 * **Engines scare fish.** With an engine running aboard, moving or not, bites come much less often. Boats under sail or oars are quiet. Stop the engine before you fish.
 * **Sonar:** a submarine's sonar ping also reports the fish in the water above it, and points toward richer water when the stretch overhead is thin.
 
@@ -112,6 +113,11 @@ Ways of parting fish and the like with their element.
 <td><img src="../images/fishing_net.png"></td>
 <td><b>Fishing net</b></td>
 <td>Made with 4 rope. Each throw can land up to three fish, though any one of them is a little less likely than a bite on a pole. Takes no bait.</td>
+</tr>
+<tr>
+<td><img src="../images/Trawl_net.png"></td>
+<td><b>Trawl net</b></td>
+<td>Made with 12 rope (Rail &amp; Steam research). Dragged behind a ship under way at slow or half ahead; one haul can land up to six fish. Takes no bait. See <b><a href="#fishing-from-a-boat">fishing from a boat</a></b>.</td>
 </tr>
 <tr>
 <td><img src="../images/fishing_rod.png"></td>
