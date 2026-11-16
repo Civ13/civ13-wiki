@@ -6,27 +6,42 @@ Remember to check the **[Guide to Cooking](Guide_to_Cooking.md)** once you come 
 
 ## Fishing
 
+Fish live in the water itself. Any river, lake or sea can be fished; there is no special tile to look for.
+
 * Equip yourself with one of the fishing tools.
-* Head to a waterbody.
-* Locate a tile teeming with fish.
-* Click the tile with the fishing tool... again... and again.
+* Stand next to water: on the bank, in the shallows, on a bridge or pier, or on a boat.
+* Click the water with the tool and wait. A cast takes about 15 seconds with a pole or net and 12 with a modern rod. Bites are not guaranteed.
+* A sharpened stick, harpoon or flint spear only works in shallow water. A line reaches deep water too, as long as you have a deck, bridge or pier under you.
 
 Alternately, you can build a **fishing cage** in water for a more passive approach.
 
-If you have fished out a tile completely and there is no more fish, come back later - clueless creatures should appear at the same spot.
+### Reading the water
+
+Look at water within a couple of tiles and you can tell how well stocked it is:
+
+* **Alive with fish** - a full stretch, the best odds.
+* **Fish move below the surface** - still worth fishing.
+* **A few shapes move below** - fished hard; bites are getting rare.
+* **Nothing stirs** - fished out. Move along.
+
+Each stretch of water, about 16 by 16 tiles, shares one stock of fish. The more of it you take, the harder the rest are to catch, and fish come back on their own over time. A stretch left half full recovers fastest, about a fish every four minutes. A stretch fished to nothing recovers very slowly, and only while the water next to it still has fish. Fish a little from several stretches rather than emptying one.
+
+Different water holds different amounts. The coast is the richest water, then deep rivers and lakes, then shallow rivers and the open ocean. Swamps hold very little, and frozen water cannot be fished.
+
+### What bites where
+
+* **Rivers and lakes:** salmon and ordinary fish.
+* **The coast:** ordinary fish and some cod.
+* **The open ocean:** mostly cod. A baited line sometimes brings up a squid.
+* **Swamps:** ordinary fish.
+
+### Bait
+
+Use raw meat or raw fish on your pole, net or rod to bait it. One piece lasts three casts, used up whether or not anything bites, and makes bites much more likely on any water.
 
 ### Fishing from a boat
 
-You can also fish the open sea from a boat, without looking for a fish-filled tile.
-
-* Stand on a boat on the water (a ship or small boat, moored or under way).
-* Click open, deep saltwater next to the boat with a fishing pole, rod or net.
-* A cast takes about 15 seconds (12 with a modern rod). Bites are not guaranteed; a rod bites more often than a pole.
-* You usually catch cod or ordinary raw fish.
-
-**Bait:** use raw meat, offal or raw fish on your pole to bait it. One piece lasts three casts, used up whether or not anything bites, and makes bites much more likely. Baited lines sometimes bring up a squid.
-
-Each stretch of sea (about 8 by 8 tiles) only holds three fish. A fish comes back every ten minutes, so keep the boat moving. See [Boats & Ships](Guide_to_Boats.md) for building a boat.
+Stand on a boat on the water (a ship or small boat, moored or under way) and cast into the open water beside it, not onto the hull. The open ocean is wide and bites come less often there than on the coast, so bait helps. See [Boats & Ships](Guide_to_Boats.md) for building a boat.
 
 A **fish weir** set in a river catches a few fish on its own while you are away. See [Trapping](Guide_to_Trapping.md#fish-weirs).
 
@@ -53,12 +68,12 @@ Ways of parting fish and the like with their element.
 <tr>
 <td width="5%"><img src="../images/sharpened_stick.png"></td>
 <td><b>Sharpened stick</b></td>
-<td>The least effective way to catch fish. See <b><a href="Guide_to_Crafting.md#tools">here</a></b> to learn the art of making a sharpened stick.</td>
+<td>The least effective way to catch fish, and only in shallow water. See <b><a href="Guide_to_Crafting.md#tools">here</a></b> to learn the art of making a sharpened stick.</td>
 </tr>
 <tr>
 <td><img src="../images/Bone_harpoon.png"></td>
 <td><b>Harpoon or flint spear</b></td>
-<td>Stand by a fishing spot and use a harpoon (a bone harpoon is made from 4 bone) or a flint spear on it to spear a fish. Each strike takes about 10 seconds and lands a fish about a third of the time, which is better than a sharpened stick.</td>
+<td>Stand by shallow water and use a harpoon (a bone harpoon is made from 4 bone) or a flint spear on it to spear a fish. Each strike takes about 10 seconds and lands a fish about a third of the time in well-stocked water, which is better than a sharpened stick. Deep water cannot be speared.</td>
 </tr>
 <tr>
 <td><img src="../images/fishing_pole.png"></td>
@@ -97,12 +112,12 @@ All those aquatic edibles.
 <tr>
 <td><img src="../images/salmon.png"></td>
 <td><b>Salmon</b></td>
-<td>A kind of fish usually found in jungle waters.</td>
+<td>A kind of fish found in rivers and lakes.</td>
 </tr>
 <tr>
 <td><img src="../images/cod.png"></td>
 <td><b>Cod</b></td>
-<td>A large fish found in deep saltwater, usually in colder regions. Can be <b><a href="Guide_to_Cooking.md#basic">salted</a></b> to preserve.</td>
+<td>A large fish of the sea, most common in the open ocean. Can be <b><a href="Guide_to_Cooking.md#basic">salted</a></b> to preserve.</td>
 </tr>
 <tr>
 <td><img src="../images/lobster.png"></td>
