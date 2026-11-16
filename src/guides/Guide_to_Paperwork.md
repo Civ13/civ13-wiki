@@ -48,7 +48,7 @@ Anyone with a pen can fill it in later. Choose **Fill in a blank**, pick the bla
 
 ### Stamps and seals
 
-Use an ink stamp or a wax seal on a paper to stamp it. A wax seal (an envelope seal or a seal matrix) needs a stick of sealing wax in your other hand and uses a little of it each time; ink stamps need nothing. See the [Guide to Farming](Guide_to_Farming.md) for making sealing wax. The mark shows on the sheet and in the reader, and it stays when the world saves and when the paper is copied. A sheet holds up to 12 stamps, and a crumpled sheet can't be stamped. You can also stamp the top sheet of a clipboard, or the open page of a paper bundle.
+Use an ink stamp or a wax seal on a paper to stamp it. A wax seal (an envelope seal or a seal matrix) needs a stick of sealing wax in your other hand and uses a little of it each time; ink stamps need nothing. See the [Guide to Beekeeping](Guide_to_Beekeeping.md#honey-beeswax-candles-and-mead) for making sealing wax. The mark shows on the sheet and in the reader, and it stays when the world saves and when the paper is copied. A sheet holds up to 12 stamps, and a crumpled sheet can't be stamped. You can also stamp the top sheet of a clipboard, or the open page of a paper bundle.
 
 ### Faction seals
 
