@@ -159,6 +159,17 @@ On Nomads maps you can right-click someone next to you and choose **Offer Adopti
       - **Giving Titles**
       - **Recruitment** - lets them invite people into the faction. It does not make them a leader: they get no treasury, tax or permission powers.
 
+#### Offices and elections
+
+**Faction Offices** on the **Faction tab** lists your faction's offices, who holds them, and any election under way.
+
+  - A faction starts with a **Treasurer**, who keeps the [strongbox](../guides/Guide_to_Money.md#faction-treasury), and a **Registrar**, who keeps the [land register](../guides/Guide_to_Money.md#land-and-deeds).
+  - The leader can create up to 12 offices, such as Judge or Herald, and choose what each one may do. The choices are keeping the treasury, keeping the land register, cutting and revoking [seals](../guides/Guide_to_Paperwork.md), and cutting coin dies.
+  - The leader appoints members to offices, for a set number of days or with no limit, and can dismiss them.
+  - A [faction seal](../guides/Guide_to_Paperwork.md) cut for an office gives that office's powers to whoever carries it. To lend an office, hand over its seal. Revoke the seal to take it back.
+  - The leader can call an **election** for the leadership or for any office. The leader can also set a **term**. Once a leader has served longer than the term, or if no one leads, any member can call a leadership election.
+  - An election lasts 30 minutes. Members **stand** as candidates and **vote**, one vote each. The most votes wins, and a tie goes to whoever stood first. An elected leader takes over the faction. An elected officer serves for the faction's term.
+
 #### As a Member
 
   - You can ask the leader to give you **officer permissions**.

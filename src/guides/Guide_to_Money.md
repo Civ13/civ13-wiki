@@ -11,7 +11,7 @@ A **trading balance** (2 wood) weighs metal sheets and coins in **shekels** and 
 Coins aren't crafted from a sheet. They are struck at an anvil with a **coin die**.
 
 1. Craft a coin die from 1 bronze (economy & production). It needs Trade & Coinage.
-2. Your faction's leader uses the uncut die in hand and cuts it with the faction's mark. From then on it is the *coin die of your faction*.
+2. Your faction's leader, or an officer trusted with the mint, uses the uncut die in hand and cuts it with the faction's mark. From then on it is the *coin die of your faction*.
 3. Stand beside an anvil, hold the die, and use it on copper, silver or gold sheets.
 4. Choose how many sheets to strike. For silver or gold, also choose how fine the coins should be.
 
@@ -39,7 +39,7 @@ A faction keeps its money as coin in a **strongbox** (10 wood, economy & product
 
 1. Build a strongbox where it can be guarded.
 2. Your faction's leader uses it with an empty hand and chooses **Make it the treasury**. It is then bolted down and locked. A faction has one treasury box. Making a new one turns the old one back into a plain chest.
-3. The leader can open it, and so can anyone holding a [faction seal](Guide_to_Paperwork.md) cut for the keeper's office. That office is "Treasurer" unless the leader names another. Revoked seals don't open it.
+3. The leader can open it, and so can the faction's treasurers. That means anyone appointed to an office with the treasury power, such as the Treasurer, or anyone carrying a [faction seal](Guide_to_Paperwork.md) of such an office. Revoked seals don't open it. See [offices and elections](../gamemodes/Civilizations_and_Nomads.md#offices-and-elections).
 
 Keys don't fit a strongbox and it can't be unbolted. Someone outside the faction can still pry it open with a crowbar or hammer. That takes a minute, and every member online is warned.
 
@@ -55,7 +55,7 @@ Keys don't fit a strongbox and it can't be unbolted. Someone outside the faction
 A faction can register land and hand it out by deed.
 
 1. Set a **boundary stone** (2 stone, economy & production) at each of two opposite corners of the plot. It needs Trade & Coinage.
-2. The faction's registrar uses one stone and picks the other. A plot is 2 to 32 tiles on a side and can't overlap another registered plot. The registrar is the leader, or anyone holding a [faction seal](Guide_to_Paperwork.md) cut for the office "Registrar".
+2. The faction's registrar uses one stone and picks the other. A plot is 2 to 32 tiles on a side and can't overlap another registered plot. The registrar is the leader, someone appointed to an office with the land register power (such as the Registrar), or anyone carrying a [faction seal](Guide_to_Paperwork.md) of such an office.
 3. The registrar names the plot and gets its **deed**.
 
 Whoever holds the deed holds the land. To sell land, hand over its deed. Standing beside a keyed door or a chest on the plot, the holder can use the deed to lock or unlock it. Deeds don't work on jail doors or the faction strongbox. Examine a deed to check it against the register.

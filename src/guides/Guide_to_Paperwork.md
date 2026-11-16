@@ -54,7 +54,7 @@ Use an ink stamp or a wax seal on a paper to stamp it. The mark shows on the she
 
 A **seal matrix** is carved from 1 softwood under paper & printing, once you have Papermaking. On its own it works like a plain wax seal.
 
-A faction leader can turn an uncut matrix into one of the faction's seals. Use it in hand, pick **Cut as a seal**, and name the office it speaks for, such as Leader, Treasurer or Registrar. It then reads "seal of *faction* (*office*)" and gets a number. A faction can have up to 24 seals in use at once, so the leader can hand copies to the people who act for it.
+A faction leader, or an officer trusted with seals, can turn an uncut matrix into one of the faction's seals. Use it in hand, pick **Cut as a seal**, and name the office it speaks for, such as Leader, Treasurer or Registrar. It then reads "seal of *faction* (*office*)" and gets a number. A faction can have up to 24 seals in use at once, so the leader can hand copies to the people who act for it.
 
 Each time a cut seal is pressed onto a paper, the paper records which faction, office and seal number it came from, and on what day.
 
@@ -67,7 +67,7 @@ To check a paper, stand next to it and use **Check Seals**. It lists the names s
 
 Check Seals also counts any stamps that carry no record. That means an ordinary stamp, a printed copy or a forgery: a copy shows the seal's picture, but not its record.
 
-Anyone holding a cut seal can use it, so keep yours safe. If one is lost or stolen, the leader uses any matrix in hand and picks **Revoke a seal**. Papers it sealed before then stay genuine, and anything it seals afterwards checks as void. The same menu lists all of the faction's seals.
+Anyone holding a cut seal can use it, so keep yours safe. If one is lost or stolen, the leader (or an officer trusted with seals) uses any matrix in hand and picks **Revoke a seal**. Papers it sealed before then stay genuine, and anything it seals afterwards checks as void. The same menu lists all of the faction's seals.
 
 ### Envelopes, bundles and filing cabinets
 
