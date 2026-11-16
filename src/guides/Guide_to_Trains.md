@@ -144,7 +144,7 @@ Examine the locomotive to see its notch, reverser, speed and whether the train i
 ### Hitting things
 
 - The faster and heavier the train, the harder it hits. A train creeping along shoves a person off the rails with a bruise and stops in front of crates and furniture without breaking them.
-- At speed it throws people clear of the track, badly hurt or worse, and keeps going. It smashes anything solid in its way and stops there.
+- At speed it throws people clear of the track, badly hurt or worse, and keeps going. It smashes anything solid in its way and stops there. A wall, pillar, door or barricade on the line takes the blow like a ram: a fast train breaks through a weak wall and keeps going, while a strong one stops it. A broken wall can bring down the roof it held.
 - A train that runs into another at speed damages both of them.
 - Set the levers before you leave. A switcher set to split sends the train onto the side track. Look before you start, and warn people near the line.
 

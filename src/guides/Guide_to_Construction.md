@@ -1081,6 +1081,69 @@ It stops early at water, a wall, anything in the way or a tile that already has 
 
 **Steam shovel.** Fasten it with a wrench, then click it with an **empty hand**. It digs the loose dirt and sand out of the bare ground within 2 tiles and heaps it at its foot: up to 12 dirt piles or sand in a job. It does not dig under floors.
 
+## Damage and collapse
+
+Walls, pillars, doors and roofs can be broken by more than tools and fire.
+
+- **Crashes and rams.** A car, truck, bus, tank or train that drives into a wall, pillar, door or barricade hits it with a force that depends on its weight and speed. A part that gives way lets the vehicle through, one gear slower; a part that holds stops it dead. Either way the vehicle's front takes damage and the people inside are thrown about. A plane flying low into a building does the same, then breaks up where it hit, and a fuelled plane sets wood and thatch alight.
+- **Materials.** Thatch, straw and cloth give way first, then wood, then clay and earth, then stone and brick, then concrete; metal walls are the toughest. A cracked wall shows its damage and can be repaired like any other.
+- **Map buildings.** The walls of the map's own buildings can be broken this way too.
+- **Collapse.** When a wall or pillar goes, every roof that relied on it creaks and sheds dust for a few seconds, then falls if nothing else holds it. A falling roof hurts anyone under it and lands on the floor below; a heavy roof can break a weak floor and bring that storey down too, with the walls and pillars standing on it. A worn-out support still sags for about a minute first, so there is time to prop it.
+- **Rubble.** A collapse leaves rubble you can walk over. Clear it by hand or with a shovel to get back part of what it was built from.
+
+### Pillars, buttresses and corbels
+
+Roof supports and stone or concrete pillars are solid: people, animals and vehicles cannot pass through them, so leave room to walk round them. Shots sometimes hit a pillar instead of passing it.
+
+These are built against a wall of the building, facing it. Build them from the material's crafting menu while facing the wall; they turn to the wall they serve. Examine one to see which wall it braces.
+
+| Part | Made from | Research | What it does |
+| --- | --- | --- | --- |
+| **Buttress** | 6 stone | Stone Masonry | Built right against a stone, brick or concrete wall. The wall carries one storey more than its material would, and stands twice as well against a blow that pushes it towards the buttress. |
+| **Flying buttress** | 10 stone | Imperial Architecture | A pier two tiles out from a stone, brick or concrete wall, with an arch to it. It does what a buttress does, and the wall holds an upper floor one tile further out, for a wider hall without inner pillars. |
+| **Stone corbel** | 1 stone | Stone Masonry | A bracket under the edge of any built wall. The wall holds an upper floor one tile further out: a balcony or an overhanging storey. |
+| **Wooden corbel** | 1 wood | Primitive Construction | The same in timber. It burns. |
+
+If a buttress or corbel is broken, the roofs it helped hold check whether they still stand.
+
+## Cables and pipes through walls and floors
+
+A built wall can carry one power cable and one pipe inside it.
+
+1. **Cut a chase.** Use a chisel or a pickaxe on the wall, not on Harm intent. Wood and clay walls take a chisel; stone, brick, concrete and metal walls need a pickaxe and take longer. The chase costs the wall a tenth of its strength.
+2. **Run a cable.** Stand straight in front of the chased wall and use a cable coil on it. One cable runs through the wall in the direction you face and joins the cables on either side.
+3. **Fit a pipe.** Build the clay or lead water pipe, factory pipe or sewer pipe on your own tile beside the wall, then use a wrench on the wall, not on Harm intent. The pipe slides into the wall and joins its neighbours as before.
+
+Examine the wall to see what runs through it. When the wall breaks, the cable snaps and the pipe bursts.
+
+**Through floors.** A **floor sleeve** (1 clay, Irrigation) lets pipes cross between storeys. Set one sleeve on a tile and another at the same spot on the level above or below, and the pipes on the two tiles join. Factory pipes join both ways, since a pump drives them. Aqueduct water and drains only run downhill: a water pipe or drain over a sleeve feeds the one under the sleeve below, never the other way. To bring water up a storey, pump it through factory pipes or fill a cistern upstairs. Power already crosses between storeys through cable risers; see the [Guide to Power](Guide_to_Power.md).
+
+## Keeping a building warm
+
+A roof keeps off the rain, but on its own it only breaks the wind, a few degrees warmer than outside. Warmth comes from a closed room: the roofed tiles inside its walls, doors and windows. Use **Judge This Room** (IC tab) to see how well a room holds its warmth.
+
+**What the room is built from.** Each wall, door and window round the room counts:
+
+| Edge | Holds warmth |
+| --- | --- |
+| Caves and the map's own walls | Very well |
+| Earth, clay, adobe, sandbag and snow walls | Very well |
+| Stone, brick, thatch and hide walls | Well |
+| Wood and concrete walls; a closed door | Fairly well |
+| Bamboo and cloth walls; glass windows; metal walls | Poorly |
+
+**Draughts.** An open door, an empty window frame, a missing wall or a roofed floor that runs straight out under the sky is a gap. A room with a gap is draughty and keeps only half its warmth. Close the door behind you.
+
+**Making it warmer.**
+
+- **Line the walls.** Use 2 straw, cloth or wool on a built wall, not on Harm intent, to line it. Wool keeps in the most. A wall takes one lining, and examining it shows what it is lined with.
+- **Curtains.** A closed curtain over a window keeps in more than glass alone, and one hung in a doorway or an empty frame stops most of the draught. An open curtain does not.
+- **Tapestries and floors.** A tapestry on a wall, and rugs, boards or carpet over most of the floor, help a little.
+
+**Fires.** A lit brazier, heat source, fireplace, big oven or running engine heats the room it stands in. A small, well-built room is warmed by one hearth; a large or draughty hall needs several fires, and a brazier in a barn with open doors does little. Out in the open, a fire only warms people within two tiles of it.
+
+Thick walls work the other way in hot lands: a closed earth or stone room stays cooler than the open in a desert summer.
+
 ## Floors
 
 No more sloshing or plodding through the mud and snow! Walk the
@@ -1504,6 +1567,20 @@ and additional details.**
 </table>
 
 ## Fences, barricades and barriers
+
+<u><b>Bollards</b></u>
+
+A bollard is a short post that stops vehicles while people and animals walk between them. Build bollards in a row in front of a wall, a gate or a market to keep cars, trucks and carts out. A vehicle that hits a bollard or a barricade spends its force there before it reaches what stands behind it.
+
+| Bollard | Made from | Research | Strength |
+| --- | --- | --- | --- |
+| **Wooden bollard** | 2 wood | Primitive Construction | Light; it burns |
+| **Stone bollard** | 2 stone | Stone Masonry | Sturdy |
+| **Iron bollard** | 3 iron | Iron Smithing | Sturdier |
+| **Concrete bollard** | 2 concrete | Reinforced Concrete | The strongest; stops most tanks |
+
+Sandbags, jersey barriers, rock and sandstone barricades, palisades, stone and brick railings and snow walls also take vehicle hits, each by its material.
+
 
 <u><b>Fences</b></u>
 

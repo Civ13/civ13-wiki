@@ -25,7 +25,7 @@ The room rates as **bare**, **cosy**, **comfortable**, **fine** or **splendid** 
 
 Shape a **clay wash basin** from 3 clay, by hand or on the potter's wheel, and fire it like a pot. Hold the fired basin and use it to set it down where you stand. A wooden **washstand** (6 soft wood, Hygiene research) holds a basin and a pitcher. Fill either with a bucket, pipe water to it, or set it beside running water. On **Help intent**, click it to wash your hands, or target another body part to wash that. Each wash takes a little water: a basin holds 30 units and a washstand 50, at 5 a wash.
 
-Stand in a room and use **Judge This Room** (IC tab) to see how it would rate and what is missing.
+Stand in a room and use **Judge This Room** (IC tab) to see how it would rate and what is missing. It also tells you how well the room holds its warmth, whether it is draughty, and whether its fire is big enough; see [Keeping a building warm](Guide_to_Construction.md#keeping-a-building-warm).
 
 ## What a good home does
 
