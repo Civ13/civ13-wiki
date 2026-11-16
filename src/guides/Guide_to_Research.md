@@ -252,7 +252,7 @@ The first bonus slot costs 300 silver-equivalent, the second costs 600, the thir
 | Weaving | 0 | 60 | 0 | Analysis | - |
 | Furriery | 1 | 95 | 0 | Analysis | Weaving |
 
-**Weaving** (basic) stays on the Main tree as the textiles gateway — it covers basic weaving and the basic tailoring tools (e.g. the loom). **Furriery** (fur coats, fur hats and fur caps from pelts) is also on the Main tree, so it comes with the era like other Main-tree nodes and players without a faction can make warm clothes. The advanced tailoring nodes are in the standalone **Tailoring** tree (see below).
+**Weaving** (basic) stays on the Main tree as the textiles gateway — it covers basic weaving and the basic tailoring tools (e.g. the loom). **Furriery** (fur coats from any pelt, white pelts included, plus fur hats and fur caps) is also on the Main tree, so it comes with the era like other Main-tree nodes and players without a faction can make warm clothes. The advanced tailoring nodes are in the standalone **Tailoring** tree (see below).
 
 #### Furniture
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
