@@ -152,6 +152,16 @@ You don't need Cooperage to keep things safe at home. Click one of these contain
 
 To dig a storage pit, hold a shovel or digging stick in one hand and use the pit lining on bare ground next to you (grass, dirt, sand or snow). A pit can't be moved. Fill it back in with a shovel to remove it, and whatever was inside comes out.
 
+**Racks** hold one kind of thing each and show what hangs on them. They work in the storage window like any other container, but take no lock.
+
+| Rack | Chapter | Made from | Holds |
+| --- | --- | --- | --- |
+| **Peg post** | Primitive Construction | 3 logs | 4 hats, clothes, bags or tools |
+| **Tool rack** | Basic Furniture | 4 logs | 5 tools |
+| **Weapon rack** | Basic Furniture | 5 logs | 4 weapons, bows, guns or shields |
+| **Coat stand** | Fine Furniture | 4 logs | 4 coats, cloaks, hats or bags |
+| **Clothes rail** | Fine Furniture | 5 logs | 5 pieces of clothing |
+
 Right-click a container and choose **Dump Out**, or **Alt-click** it, to tip everything onto the floor at once. A broken container spills what it held.
 
 ### The storage window
