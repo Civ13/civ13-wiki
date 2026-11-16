@@ -48,7 +48,7 @@ Anyone with a pen can fill it in later. Choose **Fill in a blank**, pick the bla
 
 ### Stamps and seals
 
-Use an ink stamp or a wax seal on a paper to stamp it. The mark shows on the sheet and in the reader, and it stays when the world saves and when the paper is copied. A sheet holds up to 12 stamps, and a crumpled sheet can't be stamped. You can also stamp the top sheet of a clipboard, or the open page of a paper bundle.
+Use an ink stamp or a wax seal on a paper to stamp it. A wax seal (an envelope seal or a seal matrix) needs a stick of sealing wax in your other hand and uses a little of it each time; ink stamps need nothing. See the [Guide to Farming](Guide_to_Farming.md) for making sealing wax. The mark shows on the sheet and in the reader, and it stays when the world saves and when the paper is copied. A sheet holds up to 12 stamps, and a crumpled sheet can't be stamped. You can also stamp the top sheet of a clipboard, or the open page of a paper bundle.
 
 ### Faction seals
 
@@ -71,7 +71,7 @@ Anyone holding a cut seal can use it, so keep yours safe. If one is lost or stol
 
 ### Envelopes, bundles and filing cabinets
 
-You can write on a paper inside an open envelope you are holding, or on the open page of a paper bundle you are holding (also inside a folder you hold). Turn the page to write on another sheet. A sealed envelope keeps its wax seal through a save.
+You can write on a paper inside an open envelope you are holding, or on the open page of a paper bundle you are holding (also inside a folder you hold). Turn the page to write on another sheet. To seal a closed envelope, hold a stick of sealing wax in your other hand and use an envelope seal on it. The seal takes the colour of the wax. A sealed envelope keeps its wax seal through a save.
 
 Filing cabinets and document drawers list their papers in alphabetical order. Use **Read** next to a paper to read it without taking it out.
 

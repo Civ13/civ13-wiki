@@ -330,6 +330,15 @@ Many crops need insects to set their best crop: apples, cherries, apricots, oran
 - **Honey**: click an open bowl, pot or bucket with a honeycomb to squeeze 10 honey into it. Honey goes into jam and mead, and counts toward the sweet part of your diet. A **crushed comb** is left in your hand.
 - **Beeswax**: hold the crushed comb over a flame (click a campfire, torch or candle with it) to melt it into a cake of **beeswax**.
 - **Candles**: click the beeswax with rope to dip a **beeswax candle**. It burns about 40% longer than an ordinary candle.
+- **Sealing wax**: click the beeswax with a bucket, pot or bowl holding at least 5 pitch from a tar kiln, then pick a pigment (red, black, blue, green, pink or white). You get a stick that is good for about 10 seals. Wax seals on letters and papers need a stick in your other hand (see the [Guide to Paperwork](Guide_to_Paperwork.md)).
+- **Mead**: honey stirred into water makes **mead must**, not mead. Pour the must into a wooden barrel and put the lid on. It ferments a little every couple of minutes. Add some yeast from a fermentation starter jar to the barrel and it ferments about three times faster. Mead left in a closed crock sours into vinegar, so store it in the barrel or in bottles.
+
+#### Beekeeping clothes
+
+- **Bee veil** (3 cloth, hats, **Tailoring**): a broad hat with fine gauze hanging all round, so bees can't reach your face or neck.
+- **Beekeeper suit** (6 cloth, jackets & vests, **Textile Mills**): a loose white suit closed at the wrists and ankles.
+
+A veil or a suit each cuts your chance of being stung far more than an ordinary hat or coat. Wear both, plus gloves, and stings become rare. They can't be avoided completely.
 
 ## Preserves
 

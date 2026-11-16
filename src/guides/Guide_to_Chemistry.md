@@ -187,7 +187,7 @@ This table does not list every bench recipe. Use the workflows above and the rec
 | Margarita |  2u. tequilla 1u. limejuice | none | none | 3 | margarita |
 | Red Mead |  1u. blood 1u. mead | none | none | 2 | red_mead |
 | Garum |  1u. sodiumchloride 2u. fish |  5u. enzyme | none | 2 | garum |
-| mead |  2u. honey 2u. water |  5u. enzyme | none | 2 | mead |
+| Mead must |  1u. honey 1u. water | none | none | 2 | honey_must |
 | Iced Beer |  5u. beer 1u. ice | none | none | 6 | iced_beer |
 | Cafe Latte |  1u. coffee 1u. milk | none | none | 2 | cafe_latte |
 | Andalusia |  1u. rum 1u. whiskey 1u. lemonjuice | none | none | 3 | andalusia |
