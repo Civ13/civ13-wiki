@@ -14,7 +14,18 @@ You get dirty slowly just by living, faster in hot weather, and mostly from work
 
 Butchering, using the toilet and picking up dung leave your hands dirty. Gloves keep them clean. Examine yourself to check.
 
-The first bite of each meal with dirty hands can give you food poisoning, and hands that touched waste can give you cholera or worms. Wash your hands first: use a sink or tap, or click any fresh water with an empty hand on **Help intent**. Any wash at a bath or shower cleans your hands too.
+The first bite of each meal with dirty hands can give you food poisoning, and hands that touched waste can give you cholera or worms. Wash your hands first: use a sink or tap, click any fresh water with an empty hand on **Help intent**, or target a hand and click yourself with a bucket of clean water. Any wash at a bath or shower cleans your hands too.
+
+## Washing one part of the body
+
+The body part you target says what you mean to do. On **Help intent**, target any part and:
+
+- click yourself, or someone next to you, with a bucket, pot or cup of clean water. Each wash uses a little water; or
+- click a sink, tap, fountain or fresh water to wash that part of yourself.
+
+Washing a hand cleans it. Washing any other part cleans the blood off the clothes over it, or makes you a little cleaner where the skin is bare. Rinsing a wound with clean water washes out some of its germs, which lowers the chance it becomes infected. Hold soap in your other hand to disinfect the wound fully and get cleaner. Once a wound is already infected, washing will not cure it; you need medicine.
+
+To drink from a cup, canteen or bucket, or to give someone else a drink, target the **mouth**.
 
 ## Bathing in rivers and lakes
 
