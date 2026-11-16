@@ -50,6 +50,13 @@ Dirt piles make dirt walls and barricades, turn into clay with water, and fill g
 
 Frozen rock is too hard for a shovel; break it with a pickaxe. A dug-out tunnel can cave in like a mined one, so put up mine supports.
 
+### Filling tunnels back in
+
+- **Close a hole:** use a dirt pile on a tunnel entrance or dug hole. Each pile takes a couple of seconds and four piles close it for good. Examine the hole to see how many piles it still needs; the count is kept across saves. If a wooden ladder is fitted, you get it back when the hole closes.
+- **Pack a tunnel:** below ground, hold a shovel on help or grab intent with a dirt pile in your other hand (or lying on the tile) and use the shovel on an open tunnel floor next to you. After about 6 seconds the tile is packed solid with earth. The tile must be empty of people and objects, and a hole right above it must be closed first. Packed earth can be dug out again for its one dirt pile.
+
+Groundwater cannot seep into packed earth, so packing a tunnel that runs under a river stops it flooding there. See [Floods](Guide_to_Floods.md).
+
 ## Stone crushing
 
 Surplus stone blocks can be crushed for a chance of sand, ore and rare minerals: by hand with a **stone crusher** (Resource Processing), or with a **powered stamp mill** (Electricity) that arms and belts can feed. See [Factory Automation](Guide_to_Factory_Automation.md#stone-crushing).
