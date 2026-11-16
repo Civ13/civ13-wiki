@@ -17,9 +17,10 @@ A room is the roofed space around you, closed in by walls, doors and windows. Ea
 | A named house | A custom sign with a name on it, on a wall or inside |
 | A place to wash | A wash basin or washstand with water in it, a sink or tap, a shower, a bath or a public bath |
 | A clean room | No more than a couple of stains or bits of rubbish, and no pit latrine, outhouse or dung in the room |
+| A tidy room | A basket, jar, chest, crate or closet to keep things in, and no more than 5 things left lying on the floor |
 | Sound walls | No cracked or badly weathered walls |
 
-The room rates as **bare**, **cosy**, **comfortable**, **fine** or **splendid** depending on how many it has. Any nine of the ten make it splendid.
+The room rates as **bare**, **cosy**, **comfortable**, **fine** or **splendid** depending on how many it has. Any nine of the eleven make it splendid.
 
 ### Wash basins and washstands
 
@@ -35,7 +36,7 @@ Stand in a room and use **Judge This Room** (IC tab) to see how it would rate an
 
 ## Upkeep
 
-Keep the room clean and the walls in repair, and renew the wash on the walls now and then. Rubbish, stains and cracked walls each cost the room a point until you deal with them. Walls weather over the years and can be repaired with their building material (see **[Construction](Guide_to_Construction.md)**).
+Keep the room clean and the walls in repair, and renew the wash on the walls now and then. Rubbish, stains, cracked walls and things left lying about each cost the room a point until you deal with them. Walls weather over the years and can be repaired with their building material (see **[Construction](Guide_to_Construction.md)**).
 
 ## Limewash, paint and stain
 
