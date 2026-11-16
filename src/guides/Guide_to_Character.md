@@ -85,7 +85,7 @@ Playstyle traits suit a way of playing. Each one costs nothing because it comes 
 
 Your character belongs to a people, and your people's language is your mother tongue. You know every language to a score from 0 to 100: you can speak one from 25 (Broken), read and write paper in it from 60 (Conversational), and you are fluent from 90.
 
-**Learning a language takes days, not minutes.** You pick it up by hearing and speaking with people who know it better, by taking lessons from a fluent speaker (**Teach Language**), from a language book, and by studying writing. Related languages, such as German and Dutch, give you a head start in each other.
+**Learning a language on your own takes days; a fluent teacher gets you there in about fifteen minutes.** You pick it up by hearing and speaking with people who know it better, by taking lessons from a fluent speaker (**Teach Language**), from a language book, and by studying writing. Related languages, such as German and Dutch, give you a head start in each other.
 
 The IC tab has the following commands regarding languages: **Check Default Language**, **Check Known Languages**, **Set Default Language** and **Teach Language**.
 
