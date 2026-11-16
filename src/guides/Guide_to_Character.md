@@ -133,6 +133,22 @@ Two more free traits change how a character studies. Each has its own strengths 
 | Autistic | Chapters in your special interest take 20% less time to study. Your special interest is your field of study, or a discipline you choose with **Choose field of study** | The first chapter after you switch to a different discipline takes 35% longer. Going back to a chapter you started, or to your special interest, never costs |
 | ADHD | The first minute of a reading sitting goes 30% faster, and the first five minutes at a research bench 20% faster | Reading slows by 20% after three minutes in one sitting, and bench work by 10% after twenty minutes. A minute away from reading, or two from the bench, starts a fresh sitting |
 
+### Trades
+
+A trade is an optional free trait for hands-on work. You can take one in character setup, or later with **Choose trade** (IC tab). You can have only one trade, and it can be combined with a field of study. A trade only changes how long the work takes; it never changes your crafting skill or which recipes you can make.
+
+| Trade | Its own work takes | Covers |
+| ----- | ------------------ | ------ |
+| Mechanic | 40% less time | Building and repairing vehicles, aircraft and engines, submarine hull repairs, vehicle keys |
+| Gunsmith | 30% less time | Gunsmith bench work, black powder gun assembly, fletching |
+| Smith | 25% less time | Anvil work and the metal workbench |
+| Tailor | 25% less time | Dressmaking, and crafting from cloth, wool, hides and leather |
+| Carpenter | 8% less time | Crafting from wood and stone, and woodworking |
+
+- The work of the other four trades takes 10% longer. Work that belongs to no trade is unchanged.
+- Trades for rarer work get bigger boosts. An all-rounder comes out about even or a little slower with any trade; a trade pays off for someone who mostly does one kind of work.
+- You can drop your trade at any time. After any change, you must wait 7 real days before picking a new one.
+
 ## Languages
 
 Your character belongs to a people, and your people's language is your mother tongue. You know every language to a score from 0 to 100: you can speak one from 25 (Broken), read and write paper in it from 60 (Conversational), and you are fluent from 90.
