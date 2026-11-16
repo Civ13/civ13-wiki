@@ -1408,18 +1408,53 @@ locks.
   (3 or 4 letters or numbers) before you fit it.
 - **Taking a lock off:** use the **Remove Lock** verb with its tool in hand,
   from inside or while it is unlocked.
-- **Breaking locks:** wirecutters on harm intent cut a padlock off, and a knife
-  cuts through a knot. A crowbar on harm intent forces a locked chest or crate
-  open, but this breaks the lock and damages the container.
+- **Getting past a lock without its key:**
+  - A lockpick works on keyed locks if you are dexterous enough. Pin locks are
+    the easiest and tumbler locks the hardest.
+  - A skeleton key often turns a warded lock.
+  - A knife slipped into the gap, on any intent but harm, pushes back a spring
+    latch from outside.
+  - Use the **Lock or Unlock** verb on disarm intent to listen to a dial and
+    crack its combination. This is slow.
+  - Wirecutters on harm intent cut a padlock off, and a knife on harm intent
+    cuts through a knot.
+  - A crowbar on harm intent prises a padlock off a door, or forces a locked
+    chest or crate open. Forcing a container breaks the lock and damages it.
+  - Some unusually well-made locks resist all of this.
+
+### Bars, bolts and bracing
+
+| Fitting | Made from | Holds against | Tool to fit |
+| --- | --- | --- | --- |
+| Bar brackets | 2 wood | - | Hammer |
+| Wooden bar | 3 wood | 150 damage | - |
+| Iron bar | 3 iron | 400 damage | - |
+| Slide bolt | 2 iron | 100 damage | Hammer |
+
+- **Brackets and bolts** go on the side of the door you stand on when you fit
+  them. You can have brackets on both sides.
+- **Barring:** with the door shut, use a bar on it from the brackets' side to
+  drop it in. The door then won't open from either side. Only someone on the
+  bar's side can lift it out again, with an empty hand.
+- **Bolting:** on the bolt's side, use grab intent on the shut door to shoot
+  the bolt, and an empty hand to draw it back.
+- **Breaking in:** kicks, blows, rams and siege engines wear down the bars and
+  bolt before the door itself. When a bar snaps, the door is free.
+- **Bracing:** use grab intent with an empty hand on a shut door to hold it
+  shut with your body. Anyone pulling from the other side has to beat your
+  strength. Tighten your grip to hold harder, but you tire with every pull.
+  Drop the hold to let go.
+- **Removing them:** a hammer takes brackets or a bolt off again, from their
+  own side, while they are not in use.
 
 ### Taking doors down
 
-An unlocked or open door can be taken off its hinges in 15 seconds: use a
+An unlocked, unbarred or open door can be taken off its hinges in 15 seconds: use a
 hammer on wooden, bamboo, bone and stone doors, and a wrench on metal doors,
 with any intent but harm. This only works from the inside, where the hinges
 are. From outside you have to break the door down. A door with no inside
 (an inner door or a gate) can be taken down from either side. You get back
-its fittings, its lock and about three quarters of its material, less if it
+its fittings, its lock, brackets and bolt, and about three quarters of its material, less if it
 was damaged. Faction doors and blast doors can't be taken down by hand.
 
 ## Windows
