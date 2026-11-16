@@ -50,7 +50,24 @@ P.S. 20 is a lie, it is 2**<u>.</u>**0
 
 ## Traits
 
-You can select traits on the character setup screen before spawning. Positive (advantageous) traits have to be balanced with negative (disadvantageous)  traits. Selecting a trait gives the description of its effects.
+You choose traits in **Character Setup** before you join: press **Setup Character & Preferences** in the lobby, or **Character Preferences Setup** in the OOC tab. The window has three tabs.
+
+- **Character**: your name, gender, age, blood type, skin tone, eyes, hair and facial hair, with a preview you can turn around. **Randomise appearance** rolls a new look.
+- **Traits**: every trait as a card with what it does and what it costs.
+- **Settings**: HUD style, mouse cursor, frame rate, the tutorial and your sound and chat choices. These can be changed at any time.
+
+![The Character tab of Character Setup](../images/Character_setup_character.png)
+
+Perks cost points and drawbacks give points back. The top of the Traits tab shows your perks, your drawbacks and the difference. You can take a perk first and pay for it afterwards, but you can't join while you are over. Free traits cost nothing.
+
+![The Traits tab of Character Setup](../images/Character_setup_traits.png)
+
+- **Take** adds a trait and **Remove** drops it. The names under **Your traits** can also be removed with their x.
+- Some traits can't be held together. Their button reads **Swap in** and the card says which trait it replaces. In a **Pick one** group, such as Playstyle, **Choose instead** replaces your current pick.
+- The list on the left jumps to one group. **Find a trait** searches names and descriptions, and **Perks**, **Drawbacks** and **Free** narrow the list.
+- **Random set** rolls a balanced set and **Clear all** drops everything.
+
+Your body and traits are set when you join. To change them, wait until that character has died.
 
 Some traits come as opposite pairs, and you can't take both halves of a pair:
 
