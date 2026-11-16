@@ -27,6 +27,7 @@
         - [Resource Extraction](guides/Guide_to_Resource_Extraction.md)
         - [Flint](guides/Guide_to_Flint.md)
         - [Obsidian](guides/Guide_to_Obsidian.md)
+        - [Mercury](guides/Guide_to_Mercury.md)
         - [Pouches, Belts & Gemstones](guides/Guide_to_Pouches_and_Gemstones.md)
         - [Painting](guides/Guide_to_Painting.md)
         - [Research](guides/Guide_to_Research.md)
