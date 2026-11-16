@@ -68,6 +68,7 @@ New to the game? Start with [How to Play](New_Player_Guide.md), then the [Starte
 - [Leading a Squad](guides/Guide_to_Leadership.md)
 - [Weapons](guides/Guide_to_Weapons.md)
 - [Trenches & Fortifications](guides/Guide_to_Trenches.md)
+- [Defending a Castle](guides/Guide_to_Castles.md)
 - [Tanks](guides/Guide_to_Tanks.md)
 - [Nomad Raiders & Caravans](guides/Guide_to_Nomad_Visitors.md)
 
