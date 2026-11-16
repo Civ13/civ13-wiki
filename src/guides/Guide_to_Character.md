@@ -80,8 +80,11 @@ Some traits come as opposite pairs, and you can't take both halves of a pair:
 | Bookworm (2): studying a research chapter takes 15% less time | Dyslexic (2): studying a research chapter takes 25% longer |
 | Steady Hands (2): medical skill x1.15 | Butterfingers (2): crafting and medical skill x0.9 |
 | Strong Back (1): pulling carts, crates and bodies slows you 20% less | Bad Back (1): pulling slows you 25% more |
+| Sting Resistant (1): bee stings hurt a third as much and never knock you down | Bee Sting Allergy (2): stings hurt twice as much, and from the second sting you collapse, choking, for a while (it never kills) |
 
 **Squeamish** (gives back 1) makes seeing someone maimed hurt your mood twice as much. Thick Skinned and Squeamish can't be taken with Hardened Fighter, and Strong Back can't be taken with Quartermaster.
+
+Two more allergies each give back 1 point. **Hay Fever** sets you sneezing now and then outdoors in spring or the wet season, and blurs your eyes for a moment. **Shellfish Allergy** brings out an itchy rash and makes you throw up when you eat crab or lobster.
 
 ### Eyesight traits
 

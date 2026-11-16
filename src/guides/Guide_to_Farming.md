@@ -278,6 +278,24 @@ Coffee grows wild in **jungle** and **savanna**, and you can forage its seeds th
 
 Coffee keeps you awake and alert, warms you, gives you back a little energy and lifts your mood slightly. Drinking too much at once gives you the jitters. Mix it with milk for a café latte or with ice for iced coffee.
 
+## Wild bees and honey
+
+Wild honeybees nest in hollows in the trunks of living trees in temperate, taiga, jungle and savanna lands. Look for a dark hole low on a trunk with bees streaming in and out. A nest holds up to four combs. They fill again slowly in spring and summer, or in the wet season, but not in autumn, winter or the dry season.
+
+1. **Make smoke.** Craft a **smoke bundle** from 2 leaves (tools category) and light it from any flame, such as a campfire, torch or candle. It smoulders for about three minutes. A lit torch works too.
+2. **Smoke the nest.** Click the nest with the smouldering bundle or torch. The bees stay calm for about 45 seconds.
+3. **Take a comb.** Click the nest with an empty hand, or faster with a knife or axe. Each try gives one **honeycomb**, and sometimes a piece of **brood comb**, which is good food in its own right. Take the last comb and the colony leaves. A new swarm may move into the empty hollow after a few hours of good weather, so leave a comb behind if you want to come back.
+
+If you reach in without smoke, the bees chase you and sting. Only the person who disturbed them is chased. Clothes on your head, face, body and hands keep many stings off. Run far enough away, or jump into water, and they give up. A lot of stings at once can knock you down, but stings never kill. See the sting traits in the [Guide to Character](Guide_to_Character.md#traits).
+
+Felling a tree that holds a nest drops its combs on the ground, and the colony leaves.
+
+### Honey, beeswax and candles
+
+- **Honey**: click an open bowl, pot or bucket with a honeycomb to squeeze 10 honey into it. Honey goes into jam and mead, and counts toward the sweet part of your diet. A **crushed comb** is left in your hand.
+- **Beeswax**: hold the crushed comb over a flame (click a campfire, torch or candle with it) to melt it into a cake of **beeswax**.
+- **Candles**: click the beeswax with rope to dip a **beeswax candle**. It burns about 40% longer than an ordinary candle.
+
 ## Preserves
 
 Once your group knows **Pottery & Cookware**, you can make a **clay crock** from 3 clay (kitchen category) and fire it in a kiln, and a **preserve jar** from 1 glass.
