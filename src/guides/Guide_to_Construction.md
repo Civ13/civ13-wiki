@@ -1610,6 +1610,32 @@ and additional details.**
 </tbody>
 </table>
 
+### Opening windows and shutters
+
+| Item | Made from | Research | Goes on |
+| --- | --- | --- | --- |
+| Casement window | 4 glass | Glassworking | An empty plain, metal, stone, sandstone, marble or red sandstone frame |
+| Wooden shutters | 4 wood | Primitive Construction | Any window frame |
+| Iron shutters | 4 iron | Iron Smithing | Any window frame |
+
+Stand in the empty frame to build one. Like a door, you are asked which side is
+the inside.
+
+- **Casement:** two glazed sashes that open and shut by hand. Shut, you can see
+  through it but nothing gets past. Open, air and thrown things pass, and people
+  climb through: walk into it, or drag yourself onto it, and you come out on the
+  other side after a moment. A frame with a casement can't also take a fixed
+  pane.
+- **Shutters:** shut, nobody sees in or out. Open, whatever is behind them
+  decides: an empty frame lets people through, glass does not. To glaze a
+  shuttered frame, use the glass on the shutters.
+- **Locking:** casements and shutters take the same locks, latches, bar
+  brackets, bars and slide bolts as doors, with the same inside and outside
+  rules (see [Locks](#locks) and [Bars, bolts and bracing](#bars-bolts-and-bracing)).
+  A spring latch is the usual window catch. Closers, wedges, fusible links and
+  panic bars are only for doors.
+- Walking into a shut window or shutters doesn't open them; use your hand.
+
 ## Fences, barricades and barriers
 
 <u><b>Bollards</b></u>
