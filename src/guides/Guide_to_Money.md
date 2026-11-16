@@ -61,6 +61,16 @@ Anyone can bring a bill or note to that faction's strongbox and use it on the bo
 
 Every bill is numbered in the faction's register. Copies and forgeries are worthless, and examining a bill tells you if the register doesn't know it.
 
+## Money changers
+
+Every faction strikes its own coin, so traders often carry coin that a market won't take. A **money changer's table** (6 wood, economy & production) swaps one faction's coin for another's. It needs Trade & Coinage.
+
+1. Build the table and click it with an empty hand to keep it as yours. It locks, and only you can open it.
+2. Put struck coin in it by using coins on it.
+3. Choose **Set a rate** for each coin you will buy. The rate is a share of the coin's weighed worth, from 1% to 200%. Pay under 100% and you keep the difference.
+
+Anyone can examine the table to see its rates and which coin is in its till. To change money, use your coins on the table and pick which coin you want back. You are paid in whole coins from the till, never more than the rate. The coins you hand over stay in the table, and a table can only pay with coin someone put there. **Give up the table** leaves its coin inside for the next person to claim it. Like a strongbox, an open table can be emptied by anyone.
+
 ## Land and deeds
 
 A faction can register land and hand it out by deed.

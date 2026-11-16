@@ -105,6 +105,7 @@ In the connected lands of the wider world, factions can band together into a **n
 * **Found a nation**: stand within a few steps of the leader of another faction from your land, name the nation, and both agree. You become its head.
 * **Apply to a nation**: the leaders of its member factions vote. Over half of them saying yes admits you; half or more saying no refuses you. An application not decided within 3 days lapses.
 * **Vote for a head**: the head speaks for the nation, chosen when over half of the member factions agree. It gives no power over the other factions.
+* **Vote on a common money**: over half of the member factions can adopt one member's coin as the nation's common money. Nation view shows it, and money changers list it next to their rate for that coin.
 * **Secede**: leave at any time. Your faction cannot apply to that nation again for 3 days. A nation left with one faction dissolves.
 
 Answers arrive within a few minutes, once the lands have conferred. A colony's members belong to their faction's nation, but only the leader in the faction's own land can act for it. Examining someone shows which nation they are a citizen of.
