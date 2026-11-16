@@ -26,6 +26,7 @@ New to the game? Start with [How to Play](New_Player_Guide.md), then the [Starte
 - [Resource Extraction](guides/Guide_to_Resource_Extraction.md)
 - [Flint](guides/Guide_to_Flint.md)
 - [Obsidian](guides/Guide_to_Obsidian.md)
+- [Amalgamation](guides/Guide_to_Amalgamation.md)
 - [Mercury](guides/Guide_to_Mercury.md)
 - [Ore Dressing](guides/Guide_to_Ore_Dressing.md)
 - [Placer Mining](guides/Guide_to_Placer_Mining.md)
