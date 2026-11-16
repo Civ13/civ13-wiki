@@ -6,7 +6,7 @@ Six workshop stations make clay, glass, stone and furnace work faster. Everythin
 | --- | --- | --- | --- |
 | <img src="../images/Potters_wheel.png"> | **Potter's wheel** | 6 wood | Pottery & Cookware |
 | <img src="../images/Brick_mould_bench.png"> | **Brick mould bench** | 6 wood | Brickmaking |
-| <img src="../images/Bellows.png"> | **Bellows** | 3 leather | Bronze Working |
+| <img src="../images/Bellows.png"> | **Bellows** | 2 leather | Bronze Working |
 | <img src="../images/Lime_kiln.png"> | **Lime kiln** | 20 stone | Stone Masonry |
 | <img src="../images/Glassblowing_bench.png"> | **Glassblowing bench** | 6 wood | Glassworking |
 | <img src="../images/Masons_saw.png"> | **Mason's saw** | 8 wood | Stone Masonry |

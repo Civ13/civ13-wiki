@@ -53,7 +53,7 @@ The Stone Age master book has twelve chapters. None of them needs another chapte
 | **Basic Furniture** | **Bed** (4 planks), **brazier** (stone), tables, chairs and the writing desk |
 | **Pottery & Cookware** | **Wooden mug** (1 log), **bucket** (2 planks), clay pots and cups, the clay **cooking pot**, waterskin, wooden bowl |
 | **Primitive Construction** | **Log walls** (4 logs, built in steps), **roof supports** (2 logs), the **wood roof builder** (1 plank), doors, fences, wooden floors and stairs, **mine supports**, **torches**, the **travois** |
-| **Weaving** | Fur coat, fur boots and pelt hats, the **leather bedroll** (4 leather), tents, hammocks, loincloths and leaf clothing, and your first bags: the **grass carry net**, **hide sling bag** and **pack basket** |
+| **Weaving** | Fur coat, fur boots and pelt hats, the **leather bedroll** (5 leather), tents, hammocks, loincloths and leaf clothing, and your first bags: the **grass carry net**, **hide sling bag** and **pack basket** |
 
 Later, add **Stone Arms** (spears, bone knife, bone and stone pickaxes, chipping flint on a rock), **Archery** (bows and arrows), **Herbalism** (bandages, splints, the drying rack), **Primitive Armor**, **Field Defenses** and **Ritual & Worship**. The [Research](Guide_to_Research.md#full-node-reference) node reference lists every chapter.
 
@@ -130,9 +130,9 @@ You start with only your hands and pockets. Each of these holds more than the on
 | Gear | Chapter | Made from | Worn on | Holds |
 | --- | --- | --- | --- | --- |
 | **Grass carry net** | Weaving | 3 rope | Belt | 6 small things |
-| **Hide sling bag** | Weaving | 3 pelts of almost any animal, or 3 leather | Back | 3 normal-sized or 7 small things |
+| **Hide sling bag** | Weaving | 2 pelts of almost any animal, or 2 leather | Back | 3 normal-sized or 7 small things |
 | **Pack basket** | Weaving | 4 logs, soft wood or bamboo | Back | 4 normal-sized or 9 small things |
-| **Leather backpack** | Cooperage & Containers (Bronze Age) | 6 leather | Back | 2 large things, or more smaller ones |
+| **Leather backpack** | Cooperage & Containers (Bronze Age) | 4 leather | Back | 2 large things, or more smaller ones |
 | **Pack frame** | Cooperage & Containers (Bronze Age) | 6 logs or soft wood | Back | 3 large things, but it slows your walk a little |
 
 Rope comes from the crude twine you twist from grass cuttings or sinew. Make the carry net from a stack of rope.
@@ -148,7 +148,7 @@ You don't need Cooperage to keep things safe at home. Click one of these contain
 | **Woven basket** | Weaving | 3 rope, 6 leaves, 4 bamboo or 4 planks | 7 things, up to normal size | Everyday odds and ends. It is light enough to drag about. |
 | **Clay storage jar** | Pottery & Cookware | 3 clay, fired in a kiln or oven | 6 small things, such as grain, seeds, food and beads | Food keeps twice as long, and fire can't touch it. The fired jar is set down beside the oven. |
 | **Hewn log chest** | Basic Furniture | 6 logs | 10 things, up to large tools and weapons | Gear too long for a basket |
-| **Storage pit** | Primitive Construction | A **pit lining** (4 leaves or 2 leather) | 14 things, up to normal size | The most room of any early store. The cool earth keeps food a little longer. |
+| **Storage pit** | Primitive Construction | A **pit lining** (4 leaves or 3 leather) | 14 things, up to normal size | The most room of any early store. The cool earth keeps food a little longer. |
 
 To dig a storage pit, hold a shovel or digging stick in one hand and use the pit lining on bare ground next to you (grass, dirt, sand or snow). A pit can't be moved. Fill it back in with a shovel to remove it, and whatever was inside comes out.
 
@@ -189,7 +189,7 @@ If you prefer the old storage strip along the bottom of the screen, use **Storag
 
 **Don't just log off.** Your character stays in the world, asleep on the ground, where it can be robbed or killed and still slowly gets hungry.
 
-1. Make a **bed** (Basic Furniture, 4 planks) or a **leather bedroll** (Weaving, 4 leather) and stand on it. Sleeping in a free bed makes it yours.
+1. Make a **bed** (Basic Furniture, 4 planks) or a **leather bedroll** (Weaving, 5 leather) and stand on it. Sleeping in a free bed makes it yours.
 2. Put away anything in your hands.
 3. Use **Sleep** in the IC tab and stay connected for the two minutes it takes.
 4. Use **Wake Up** when you come back.

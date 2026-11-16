@@ -135,7 +135,7 @@
 <td>
 <img src="../images/Bola.png">
 </td>
-<td>Three stones on cords, made from <b>2 leather</b> or <b>2 rope</b>. Throw it at someone and it tangles their legs: they cannot run until they <b>Resist</b> free (about 6 seconds), and they may trip. Animals hit by it stumble and fall for a moment. You can pick the bola up again afterwards.</td>
+<td>Three stones on cords, made from <b>1 leather</b> or <b>2 rope</b>. Throw it at someone and it tangles their legs: they cannot run until they <b>Resist</b> free (about 6 seconds), and they may trip. Animals hit by it stumble and fall for a moment. You can pick the bola up again afterwards.</td>
 <td>5000 B.C. - 313 B.C.</td>
 <td>Yes</td>
 <td></td>
@@ -155,7 +155,7 @@
 <td>
 <img src="../images/Slingstaff.png">
 </td>
-<td>A sling lashed to a staff, made from <b>4 leather</b>. It needs both hands and fires more slowly than a hand sling, but its stones hit noticeably harder.</td>
+<td>A sling lashed to a staff, made from <b>1 leather</b>. It needs both hands and fires more slowly than a hand sling, but its stones hit noticeably harder.</td>
 <td>5000 B.C. - 313 B.C.</td>
 <td>Yes</td>
 <td>Rocks</td>
@@ -907,7 +907,7 @@ Craft a weapon light from **1 electronics** in the **Weapons** menu after **Cons
 
 ### Gun sling
 
-Craft a gun sling from **2 leather** in the **Weapons** menu after **Gunsmithing**. Hold the gun in one hand and use the sling in the other to fit it. Only guns you can wear on your shoulder or back take one. If you are knocked down, stunned or knocked out and drop a slung gun, it stays on your shoulder or back as long as that slot is free.
+Craft a gun sling from **1 leather** in the **Weapons** menu after **Gunsmithing**. Hold the gun in one hand and use the sling in the other to fit it. Only guns you can wear on your shoulder or back take one. If you are knocked down, stunned or knocked out and drop a slung gun, it stays on your shoulder or back as long as that slot is free.
 
 ### Modular gun parts
 
