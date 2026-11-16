@@ -40,6 +40,22 @@ On the North and South America and Asia lands, the ground left behind once a mou
 - Seams of the same ore cluster together, so one hillside may be a copper district and the next an iron district. Iron and calamine seams can be worked from age 1, and coal, saltpeter, sulphur and lead seams from age 2. Until then such a seam gives only stone.
 - Gems, flint, obsidian, diamonds and other rare finds still come only from fresh rock, and fresh rock is about twice as productive, so unmined mountains remain the better dig.
 
+## Digging down
+
+Every land with ground under it has an underground level of solid rock beneath the surface. To get there, stand on diggable ground with a shovel in hand, use the shovel (click it in your hand) and pick **Tunnel**. After about 20 seconds (faster with strength and crafting skill) you break through into the rock below and a tunnel entrance leads down. Underground, do the same to dig a tunnel back up to the surface.
+
+Down there the rock opens up only where you dig: each tile you mine or dig out shows the rock around it, and now and then you break into a natural cave. What lies under a tile depends on what is on the surface above it:
+
+| Above | Below |
+| --- | --- |
+| Dry ground | Ordinary cave rock to mine or dig |
+| A deep lake or river | Wet rock. Breaking it lets the water pour into your tunnel. |
+| Shallows, swamp or coast water | Wet earth that slowly seeps water into the tunnel |
+| The sea | Solid seabed rock |
+| Lava | Searing hot rock that cannot be dug and burns anyone who touches it |
+
+A tunnel down stops when it hits solid stone or hot rock, and you cannot dig up into water or lava; the game tells you why, so try another spot. Pack a flooding tunnel with dirt to stop the water (see [Filling tunnels back in](#filling-tunnels-back-in)).
+
 ## Digging for dirt underground
 
 Dirt piles make dirt walls and barricades, turn into clay with water, and fill graded ground back up. On the surface you scoop them from dirt ground with a shovel or cut them out of a hill. Underground there is more:

@@ -14,10 +14,10 @@ North America and South America are the main persistent lands. Each is its own w
 | Middle and east | Temperate forest, the great lakes and a long river system draining the middle | Jungle along the great river basin, then savanna and dry scrub |
 | South | Jungle down the narrowing land to the isthmus, and islands in the warm sea | Temperate grassland and a cold cape with ice at the bottom |
 
-Each land is a single surface level with open sky above it.
+Each land is one surface level, with rock below it and open sky above it.
 
-- **No caves below.** Mountains are rock you mine at ground level, so neither land has an underground level and you cannot dig down.
-- **One upper floor.** A roof carries one floor above it, and [planes](../guides/Guide_to_Aircraft.md) fly on the air level over the land.
+- **Caves below.** Dig a tunnel down with a shovel to reach the rock under the land (see [Digging down](../guides/Guide_to_Resource_Extraction.md#digging-down)). What you find depends on the surface above: lakes and rivers flood a tunnel dug under them.
+- **Up to four floors.** Roofs carry up to four floors, and [planes](../guides/Guide_to_Aircraft.md) fly on the air level over the land.
 - **No diving.** There is no seabed level under the sea, so submarines stay on the surface, and aircraft carriers and freighters cannot be built here. Those need [Gaia](Gaia.md).
 - **Wild plants and animals** grow from each area's climate, so the jungle, the taiga and the desert each have their own trees, bushes, crops and wildlife. In the savanna and the desert, the fertile banks along the rivers can be ploughed, and desert scrub bushes give desert seeds.
 - **Mountains keep giving.** Mined-out mountain floor can still be worked with a pickaxe for stone, and ore seams in it come back over time (see [Old mountain floor and ore seams](../guides/Guide_to_Resource_Extraction.md#old-mountain-floor-and-ore-seams)).

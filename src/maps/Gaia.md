@@ -1,6 +1,6 @@
 # Gaia
 
-Gaia is the authored Nomads map named **Nomads (Gaia)**. Its surface is **z=2**; **z=1** is the underground layer.
+Gaia is the authored Nomads map named **Nomads (Gaia)**. Its surface is **z=2**; **z=1** is the underground layer. The underground is solid rock that opens up as you dig (see [Digging down](../guides/Guide_to_Resource_Extraction.md#digging-down)); the map images below were drawn before that and show older caves.
 
 Gaia is one of the persistent lands in the same group as [North and South America](The_Americas.md). It is not in the round map vote. New characters start in North America, not here.
 
@@ -19,8 +19,6 @@ Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/do
 
 ## What Gaia has that the Americas do not
 
-- **An underground level** (z=1) below the surface, with rock to mine.
-- **Taller buildings.** A roof can carry up to four floors above the ground.
 - **A seabed under the deep ocean**, so [submarines](../guides/Guide_to_Boats.md#submarines) can dive, and [aircraft carriers](../guides/Guide_to_Aircraft_Carriers.md) and freighters with a hold below the waterline can be built.
 
 ## Hills
