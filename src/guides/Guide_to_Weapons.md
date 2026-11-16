@@ -125,7 +125,7 @@
 <td>
 <img src="../images/Bone_harpoon.png">
 </td>
-<td>A barbed bone point on a shaft, made from <b>4 bone</b>. Throw it, or use it on a fishing spot to <a href="Guide_to_Fishing.md#equipment">spear fish</a>.</td>
+<td>A barbed bone point on a shaft, made from <b>4 bone</b>. Throw it, or use it on shallow water to <a href="Guide_to_Fishing.md#equipment">spear fish</a>.</td>
 <td>5000 B.C. - 313 B.C.</td>
 <td>Yes</td>
 <td></td>
