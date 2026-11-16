@@ -61,6 +61,16 @@ On these lands a flushing toilet needs a drain, or it backs up onto the floor.
 - **Settling tanks** (6 stone bricks, **Germ Theory**). Set one on the end of a drain where it spills into the water, and the waste settles out as sludge instead of fouling the water downstream. Dig the sludge out with a shovel when it fills; it makes compost. Open ditches upstream still foul wells near them.
 - **Septic tanks** (6 concrete, **Public Health**). A sealed tank that takes the place of a cesspit. It fouls no wells, holds three times as much, and slowly digests what it holds, so it rarely needs digging out.
 - **Keep sewage away from wells.** A well fouls if an open ditch that carries waste runs within two tiles of it, if a cesspit holding waste is within two tiles, or if a drain empties into the water within four tiles. Covered stone drains do not foul anything along their length.
+- **Upstream and downstream.** On a river with a current, a drain only fouls wells and aqueduct intakes downstream of where it empties. Take your water above your own outfall.
+
+## Pollution downstream
+
+What goes into a river travels with it. A drain that has carried waste lately, a body or carcass left in the water, and waste dropped in it all foul the stretch of river they lie in, and the water carries that filth down to the next stretch and the one after. Left alone, it clears within a quarter of an hour or so.
+
+- **Scum.** Fouled river water shows a film of scum, thicker the worse it gets. Examine the water up close to be sure.
+- **Big rivers dilute.** The same sewage barely touches a wide river but makes a small stream foul.
+- **Effects.** Foul water carries more germs for anyone who drinks or washes in it, an aqueduct drawing from it is fouled, and fish grow back more slowly there.
+- **What to do.** Put a settling tank on your outfalls, pull bodies out of the river, and if the town upstream is fouling your water, take it from somewhere else.
 
 ## Aqueducts
 
