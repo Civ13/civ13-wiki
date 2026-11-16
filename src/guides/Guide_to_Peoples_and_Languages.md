@@ -45,25 +45,25 @@ Use **Set Default Language** in the IC tab to choose which language you speak.
 
 ## Learning a language
 
-Learning is slow on purpose: a second language is something a character earns over several days. Nothing ever lowers a score.
+On your own, a second language takes several days of living among its speakers. A fluent teacher is much faster. Nothing ever lowers a score.
 
 | Way to learn | Gain | Limit per real day, per language |
 | --- | --- | --- |
 | **Hearing** someone who speaks it better than you | About 6 points an hour among speakers | 12, shared with speaking |
 | **Speaking** it to someone who speaks it better | A little per line they hear | 12, shared with hearing |
-| **Lessons** with the **Teach Language** command | 1 point per two-minute lesson | 8 |
+| **Lessons** with the **Teach Language** command | 6 points per one-minute lesson, never past the teacher's own score | 90 |
 | **Language book** | 5 points per sitting, up to Broken | 10, shared with studying writing |
 | **Study Writing** on a paper written in the language | A little per study, up to Broken | 10, shared with the language book |
 
 Hearing and speaking slow to half speed once you are Conversational.
 
-**Lessons.** A fluent speaker stands next to the learner and uses **Teach Language** in the IC tab. The learner accepts, and both stay put for about two minutes. Lessons count on top of what you pick up by listening, so a learner with a teacher gets there much faster.
+**Lessons.** A fluent speaker stands next to the learner and uses **Teach Language** in the IC tab. The learner accepts, and both stay put for about a minute. About fifteen lessons take a beginner to Fluent, so a patient teacher can get someone there in one sitting. Lessons count on top of what you pick up by listening.
 
 **Language books.** Someone who is at least Conversational in two languages can write a language book with a pen. A reader who knows one of the two languages uses the book in hand to learn the other. A book only takes you as far as Broken; the rest you learn from people. Reading and writing need light.
 
 **Study Writing.** Hold a paper with writing you can't read and right-click it to study it. Like a language book, writing teaches you up to Broken.
 
-Roughly, living among speakers gets you from nothing to Conversational in about a week, and daily lessons cut that to about three days.
+Roughly, living among speakers gets you from nothing to Conversational in about a week, while ten one-minute lessons do it in ten minutes.
 
 ## Paper and books
 
