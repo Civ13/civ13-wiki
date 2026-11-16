@@ -21,7 +21,7 @@ The first bite of each meal with dirty hands can give you food poisoning, and ha
 The body part you target says what you mean to do. On **Help intent**, target any part and:
 
 - click yourself, or someone next to you, with a bucket, pot or cup of clean water. Each wash uses a little water; or
-- click a sink, tap, fountain or fresh water to wash that part of yourself.
+- click a sink, tap, fountain, wash basin or fresh water to wash that part of yourself.
 
 Washing a hand cleans it. Washing any other part cleans the blood off the clothes over it, or makes you a little cleaner where the skin is bare. Rinsing a wound with clean water washes out some of its germs, which lowers the chance it becomes infected. Hold soap in your other hand to disinfect the wound fully and get cleaner. Once a wound is already infected, washing will not cure it; you need medicine.
 

@@ -15,10 +15,15 @@ A room is the roofed space around you, closed in by walls, doors and windows. Ea
 | A work of art | A painting, a tapestry, a woven rug, a glazed or painted pot set down, a statue or rock art, in the room or on its walls |
 | A living plant | A filled plant pot or flowers |
 | A named house | A custom sign with a name on it, on a wall or inside |
-| A clean room | No more than a couple of stains or bits of rubbish |
+| A place to wash | A wash basin or washstand with water in it, a sink or tap, a shower, a bath or a public bath |
+| A clean room | No more than a couple of stains or bits of rubbish, and no pit latrine, outhouse or dung in the room |
 | Sound walls | No cracked or badly weathered walls |
 
-The room rates as **bare**, **cosy**, **comfortable**, **fine** or **splendid** depending on how many it has. All nine make it splendid.
+The room rates as **bare**, **cosy**, **comfortable**, **fine** or **splendid** depending on how many it has. Any nine of the ten make it splendid.
+
+### Wash basins and washstands
+
+Shape a **clay wash basin** from 3 clay, by hand or on the potter's wheel, and fire it like a pot. Hold the fired basin and use it to set it down where you stand. A wooden **washstand** (6 soft wood, Hygiene research) holds a basin and a pitcher. Fill either with a bucket, pipe water to it, or set it beside running water. On **Help intent**, click it to wash your hands, or target another body part to wash that. Each wash takes a little water: a basin holds 30 units and a washstand 50, at 5 a wash.
 
 Stand in a room and use **Judge This Room** (IC tab) to see how it would rate and what is missing.
 
