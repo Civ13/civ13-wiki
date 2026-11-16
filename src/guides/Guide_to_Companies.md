@@ -36,7 +36,7 @@ Build a **stock market** from 25 soft wood (economy & production category). In t
 
 Sales build up in the company's undistributed profits. **Distribute** splits that pool between the shareholders by their shares. Each shareholder then uses **Withdraw** to collect their part, paid in gold coins with silver for the change.
 
-When you withdraw, your faction takes its **business tax**. Faction leaders set the sales tax and business tax (0-30% each) and withdraw the collected taxes from the stock market's Faction Treasury section.
+When you withdraw, your faction takes its **business tax**. Faction leaders set the sales tax and business tax (0-30% each). A faction with a [treasury strongbox](Guide_to_Money.md#faction-treasury) collects its taxes there as coin. Without one, the leader withdraws them from the stock market's Faction Treasury section.
 
 ## Giving shares away
 
