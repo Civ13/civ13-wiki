@@ -196,8 +196,10 @@ On Nomads maps you can right-click someone next to you and choose **Offer Adopti
   - Anyone with the **papers** power can issue papers to a person standing beside them. That means the leader, an office given that power, or someone carrying that office's seal. Each one uses a blank sheet of paper from your hands or at your feet.
       - **Citizenship papers** last until they are revoked.
       - A **travel pass** lasts 1 to 30 days.
+      - A **building permit** or **trading licence** lasts 1 to 30 days, or until revoked.
   - Papers name their holder and only work for that person, so stolen or copied papers open nothing. Examine papers to check whether they're still in force. The papers power can revoke any papers.
   - Stand beside your faction's doors to set who they open for: members only, members and citizens, or members, citizens and pass holders. Papers only count when held in your hands or worn, not packed in a bag.
+  - Permits aren't required unless the papers power chooses **Require permits on our land**. That can require a **building permit** to build on the faction's registered plots, a **trading licence** to set up a market stall there, or both. Members never need one, and neither does whoever carries the plot's deed. Permits don't open border doors.
 
 #### Treaties
 
