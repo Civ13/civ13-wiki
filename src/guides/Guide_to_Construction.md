@@ -1375,6 +1375,18 @@ later tells you which way its inside faces and which side you are on. The
 hinges and fittings go on the inside. Any door can take a fitted lock (see
 **Locks** below); the jail doors still come tied to a key, as described below.
 
+Doors are built in one step, then finished by fitting parts to them: a
+closer, spring hinge or doorstop ([Door fittings](#door-fittings)), a lock
+([Locks](#locks)), bar brackets or a slide bolt ([Bars, bolts and
+bracing](#bars-bolts-and-bracing)), and a peep-hole, hatch, mail slot or pet
+door. Fire doors are their own assembly ([Fire doors](#fire-doors)). Opening
+windows and shutters take the same locks and bars ([Opening windows and
+shutters](#opening-windows-and-shutters)), and so do trapdoors and hatches
+between levels ([Getting between storeys](#getting-between-storeys)). Every
+fitting shows on the door, and examining it lists them and which side each
+is on. Ctrl+click routes only pass through a shut door that would open for
+you.
+
 <table>
 <tbody>
 <tr>
