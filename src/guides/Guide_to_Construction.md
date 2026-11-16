@@ -972,6 +972,9 @@ A sound four-storey house therefore starts with a stone floor, has stone walls o
 - **Climb down:** stand at the edge of an upper floor with a free hand and click the open air next to you with grab intent, or use **IC > Climb Down**. After a few seconds you are on the ground below that spot. It only works for a single storey onto clear ground. Walking off the edge instead is a hard fall.
 - **Wooden ladder:** craft a wooden ladder (4 wood) and use it on the open air next to an upper floor, or on the ground under open space. It stands between the two levels: click either end to climb, and walking onto the top end doesn't make you fall. Click an end with grab intent and a free hand to take the ladder down again.
 - **Stairs:** see Stairs under [Floors](#floors) below. Leave the space above them open.
+- **Up and down buttons:** the HUD has an up arrow and a down arrow. They use whichever of the ways above is at hand: a ladder on or beside you, stairs under you, a wall beside you with a floor on top, or an open edge beside you. The down arrow also gets you out of a tree or off the top of a vehicle. Hover over a button to see what it will do. A button is greyed out when there is no way up or down from where you stand. You can also give both a key under **OOC > Keybindings**.
+
+<img src="../images/hud_up_down.png" alt="The up and down buttons, lit and greyed out">
 
 #### Hoisting heavy loads
 
