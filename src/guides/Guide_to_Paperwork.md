@@ -50,6 +50,25 @@ Anyone with a pen can fill it in later. Choose **Fill in a blank**, pick the bla
 
 Use an ink stamp or a wax seal on a paper to stamp it. The mark shows on the sheet and in the reader, and it stays when the world saves and when the paper is copied. A sheet holds up to 12 stamps, and a crumpled sheet can't be stamped. You can also stamp the top sheet of a clipboard, or the open page of a paper bundle.
 
+### Faction seals
+
+A **seal matrix** is carved from 1 softwood under paper & printing, once you have Papermaking. On its own it works like a plain wax seal.
+
+A faction leader can turn an uncut matrix into one of the faction's seals. Use it in hand, pick **Cut as a seal**, and name the office it speaks for, such as Leader, Treasurer or Registrar. It then reads "seal of *faction* (*office*)" and gets a number. A faction can have up to 24 seals in use at once, so the leader can hand copies to the people who act for it.
+
+Each time a cut seal is pressed onto a paper, the paper records which faction, office and seal number it came from, and on what day.
+
+To check a paper, stand next to it and use **Check Seals**. It lists the names signed on the paper and says what each seal is:
+
+- **Genuine**: the seal is in use by that faction.
+- **Void**: the seal was pressed after its faction revoked it.
+- **Does not match**: the faction's records list that seal number for a different office.
+- **Unknown**: the faction never cut that seal.
+
+Check Seals also counts any stamps that carry no record. That means an ordinary stamp, a printed copy or a forgery: a copy shows the seal's picture, but not its record.
+
+Anyone holding a cut seal can use it, so keep yours safe. If one is lost or stolen, the leader uses any matrix in hand and picks **Revoke a seal**. Papers it sealed before then stay genuine, and anything it seals afterwards checks as void. The same menu lists all of the faction's seals.
+
 ### Envelopes, bundles and filing cabinets
 
 You can write on a paper inside an open envelope you are holding, or on the open page of a paper bundle you are holding (also inside a folder you hold). Turn the page to write on another sheet. A sealed envelope keeps its wax seal through a save.
