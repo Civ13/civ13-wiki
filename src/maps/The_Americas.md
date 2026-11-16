@@ -58,7 +58,7 @@ Some things to know:
 
 ## Hills
 
-Both lands have hills. Light comes from the north-west, so slopes facing north-west are lighter and slopes facing south-east are in shadow. Flat ground, water and beaches are not shaded.
+Both lands have hills. Soft lines on the ground follow each height level: where the lines sit close together the slope is steep, and where there are none the ground is flat. Light comes from the north-west, so lines and slopes facing north-west are a warm, lighter colour and those facing south-east are darker. Water and beaches are not shaded.
 
 The land follows the map. Beaches and marshes are low and flat, and the ground climbs gently away from the rivers and lakes. The mountain chains rise highest, and the passes through them are the easiest way across.
 
