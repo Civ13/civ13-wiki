@@ -81,6 +81,34 @@ Playstyle traits suit a way of playing. Each one costs nothing because it comes 
 | Wanderer | Stamina recovers 50% faster while you are on the move; you use 10% less food | Your mood settles lower once you have stayed within 20 tiles of one spot for 45 minutes |
 | Rallying Voice | When you shout (end a line with !), friendly people who hear you get a small mood lift, at most once every 2 minutes each | Your mood settles lower when nobody is within 3 tiles. Can't be taken with Introverted |
 
+
+### Fields of study
+
+On [persistent worlds](Guide_to_Books_and_Scholars.md), a scholar can focus on one research discipline. A field of study is entirely optional and costs nothing. You can take one in character setup, or later with **Choose field of study** (IC tab). You can have only one, and Basic Mathematics is never affected.
+
+| Field | Research speed in its discipline |
+| ----- | -------------------------------- |
+| Engineer | Engineering x1.1 |
+| Strategist | Military Science x1.2 |
+| Naturalist | Natural Science x1.3 |
+| Agronomist | Agriculture x1.4 |
+| Physician | Medicine x1.4 |
+
+- Scholarship in your field grows 25% faster.
+- In the other four disciplines, research runs at x0.9, scholarship grows 25% slower, and their chapters take 15% longer to study.
+- Smaller disciplines get bigger boosts. An all-rounder who researches everything is a little slower with any field than with none; a field pays off for a scholar who mostly works in one discipline.
+- You can drop your field at any time. After any change, you must wait 7 real days before picking a new one.
+- Engineer can't be taken with Tinkerer.
+
+### Study traits
+
+Two more free traits change how a character studies. Each has its own strengths and costs, and they can be combined with any field of study or playstyle trait.
+
+| Trait | Strength | Cost |
+| ----- | -------- | ---- |
+| Autistic | Chapters in your special interest take 20% less time to study. Your special interest is your field of study, or a discipline you choose with **Choose field of study** | The first chapter after you switch to a different discipline takes 35% longer. Going back to a chapter you started, or to your special interest, never costs |
+| ADHD | The first minute of a reading sitting goes 30% faster, and the first five minutes at a research bench 20% faster | Reading slows by 20% after three minutes in one sitting, and bench work by 10% after twenty minutes. A minute away from reading, or two from the bench, starts a fresh sitting |
+
 ## Languages
 
 Your character belongs to a people, and your people's language is your mother tongue. You know every language to a score from 0 to 100: you can speak one from 25 (Broken), read and write paper in it from 60 (Conversational), and you are fluent from 90.

@@ -219,6 +219,10 @@ Research trains six disciplines, from 0 to 100: **Basic Mathematics, Engineering
 - You gain skill by working at a bench, by studying chapters, by writing them and by [hands-on work](#learning-by-doing) that goes into a book. Work far below your level teaches you less, and half of what you learn also goes to Basic Mathematics.
 - **Mastering a body skill teaches its discipline.** When one of your skills reaches 150 you become skilled and gain 4 levels; at 200 you become an expert and gain 8; at 250, the most a skill can reach, you are a master and gain 12. Medical teaches Medicine, crafting teaches Engineering, farming and hunting teach Agriculture, philosophy teaches Basic Mathematics, and swords, bows, rifles, pistols, machine guns and throwing teach Military Science. Each step pays a discipline once, so a second weapon skill does not pay Military Science again.
 
+### Fields of study
+
+If you want to focus, you can take an optional field of study: **Engineer, Strategist, Naturalist, Agronomist** or **Physician**. Take one in character setup, or later with **Choose field of study** (IC tab). It speeds research in its discipline (x1.1 for Engineering up to x1.4 for Medicine and Agriculture) and makes scholarship there grow 25% faster. In exchange, the other disciplines research at x0.9, grow 25% slower and take 15% longer to study. Basic Mathematics is never affected. Your field shows in the Scholarship tab. You can drop it at any time, and after any change you must wait 7 real days before picking a new one. The Autistic and ADHD traits also change how you study. See [Fields of study](Guide_to_Character.md#fields-of-study) and [Study traits](Guide_to_Character.md#study-traits).
+
 ## Practice
 
 You can also train a discipline by hand. Hold its practice tool and use it in hand for a 45 second session. Each session costs some stamina, needs light and trains only that discipline. A writing desk beside you shortens the session, and your master standing nearby doubles what you learn.
