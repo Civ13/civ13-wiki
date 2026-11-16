@@ -1,6 +1,6 @@
 # Pouches, Belts & Gemstones
 
-Small pouches keep herbs, stones, ore and coins close at hand, and belts carry them. Lanyards and wrist loops keep small tools from getting lost. Gemstones turn up while mining. Once cut, they are valuable to trade and can be set into clothing, jewellery and necklaces.
+Small pouches keep herbs, stones, ore and coins close at hand, and belts carry them. Lanyards and wrist loops keep small tools from getting lost, and fire kits, sheaths, needle cases and hones you wear keep tools ready to use. Gemstones turn up while mining. Once cut, they are valuable to trade and can be set into clothing, jewellery and necklaces.
 
 ## Pouches
 
@@ -80,6 +80,57 @@ While your hand is through the loop, a tool that slips from your grip or is knoc
 If you drop a tied item, or it is knocked out of your hand, it falls back onto the lanyard instead of the ground. To set it down for good, use **Untie Lanyard** (IC tab) with the item in your hand. Putting it in a bag or handing it to someone also unties it. Each garment takes one lanyard.
 
 You can't throw a tied item. Untie it, or slip your hand out of the loop, first.
+
+## Tools you wear
+
+People have always carried their everyday tools on their bodies: a fire kit at the belt, a knife in the boot, a needle case on a cord, a whetstone around the neck. A tool you wear counts as **at hand**. The tool doesn't need to be in your other hand when an action calls for it, as long as it is:
+
+- in a pouch or loop on your leather belt, or in your belt slot;
+- in a pouch in your hip slot;
+- hanging from your clothes, coat or shoes, or carried on a chatelaine.
+
+Tools in a backpack or a pocket don't count, because you have to unpack them first.
+
+### Fire kits
+
+| Kit | How to make it | Needs |
+| --- | --- | --- |
+| Fire pouch | 1 leather, **Storage** tab | Basic Toolmaking |
+| Fire drill | 1 wood, **Tools** tab | Basic Toolmaking |
+| Strike-a-light pouch | 1 iron | Iron Tools |
+
+- **Fire pouch.** A small pouch packed with tinder fungus and pyrite, like the one the Iceman carried 5,000 years ago. It holds flint, a fire drill, a fire striker and small flint tools. Keep a flint inside, then hold a candle, pipe or cigarette against the pouch you are wearing to light it. Each strike takes a second and usually catches. With a fire drill inside instead of a flint, it takes about four seconds and always works.
+- **Fire drill.** A wooden spindle and hearth board. Use it in your hand and spin it for about four seconds to raise an ember. The ember lasts five seconds and lights a candle or pipe.
+- **Strike-a-light pouch.** A fire pouch with a steel striker riveted along its base. It catches more often than the plain fire pouch.
+
+Both pouches count toward the two pouches a belt or garment can hold. Campfires, ovens and torches still light by hand.
+
+### Knife sheaths
+
+| Sheath | How to make it | Worn | Needs |
+| --- | --- | --- | --- |
+| Knife sheath | 1 leather, **Weapon Accessories** tab | on a belt or clothes | Basic Toolmaking |
+| Neck sheath | 1 leather, **Storage** tab | on clothes, at the chest | Basic Toolmaking |
+| Boot sheath | 1 leather, **Weapon Accessories** tab | sewn into shoes or boots | Iron Tools |
+| Sleeve sheath | 1 leather, **Weapon Accessories** tab | sewn into a coat sleeve | Iron Tools |
+
+The neck, boot and sleeve sheaths hold one **small** knife, such as a flint, obsidian, bone, copper or iron knife. Sickles and butcher, meat, bread, bowie and hook knives are too big. A sleeve sheath can hold the bone awl instead.
+
+Use a boot sheath on your shoes, or a sleeve sheath on your coat, to sew it in. Each shoe or coat takes one. To draw the knife, click the worn shoes or coat with an empty hand. The neck sheath works the same way when it is the only thing on your clothes; otherwise use its tile. Boot and sleeve sheaths are hidden from view, but anyone who examines your shoes or coat can see the sheath and what is in it.
+
+### Sewing and sharpening
+
+| Item | How to make it | Needs |
+| --- | --- | --- |
+| Needle case | 1 bone | Basic Toolmaking |
+| Pendant hone | 1 stone | Bronze Working |
+| Chatelaine | 2 iron | Iron Tools |
+
+- **Needle case.** A bone tube you wear on your clothes. It holds the bone needle and some sinew. When you mend clothing with the bone needle, it uses sinew from the case when your other hand holds no sinew or leather. It never takes leather from your other pouches.
+- **Pendant hone.** A small whetstone on a cord. Use a chipped blade on the hone, or on the clothes it hangs from, to sharpen it just as you would on a flint.
+- **Chatelaine.** A clasp with three short chains, worn on your clothes. It holds a small knife, keys, a needle case, a pendant hone or shears. Anything hanging from it counts as at hand.
+
+Using the bone needle on a damaged garment mends it, and using a chipped blade on your worn clothes hones it if you wear a hone. In both cases the tool stays in your hand instead of going into a pouch.
 
 ## Gemstones
 

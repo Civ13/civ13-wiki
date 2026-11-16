@@ -59,7 +59,7 @@ These tools are made in the Stone and Bronze Ages, after **Basic Toolmaking**.
 
 A fire striker is a curved piece of steel that throws sparks when struck against flint. Make one from **1 steel** in the **Tools** tab once **Iron Tools** has been researched.
 
-Hold a flint in your other hand and use the striker. Most strikes throw sparks, which stay hot for about five seconds. During that time the striker lights candles, pipes and cigarettes like a lighter does. It needs no lighter fluid, but each strike has a small chance to wear the flint away. Campfires and torches still light by hand.
+Hold a flint in your other hand, or wear one in a pouch at your belt, hip or clothes, and use the striker. Most strikes throw sparks, which stay hot for about five seconds. During that time the striker lights candles, pipes and cigarettes like a lighter does. It needs no lighter fluid, but each strike has a small chance to wear the flint away. Campfires and torches still light by hand. A [fire pouch](Guide_to_Pouches_and_Gemstones.md#fire-kits) does the same job without a striker.
 
 ## Gunflint in flintlocks
 
