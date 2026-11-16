@@ -52,7 +52,7 @@ The Stone Age master book has twelve chapters. None of them needs another chapte
 | **Basic Toolmaking** | The **stone hatchet** (2 stone), **wood handle**, **wooden spade** and bone shovel, **wooden ladder**, knives, the **tanning rack** and leather, the **dehydrator** for drying meat, fishing rods and nets, rope |
 | **Basic Furniture** | **Bed** (4 planks), **brazier** (stone), tables, chairs and the writing desk |
 | **Pottery & Cookware** | **Wooden mug** (1 log), **bucket** (2 planks), clay pots and cups, the clay **cooking pot**, waterskin, wooden bowl |
-| **Primitive Construction** | **Log walls** (6 logs), **roof supports** (2 logs), the **wood roof builder** (1 plank), doors, fences, wooden floors and stairs, **mine supports**, **torches**, the **travois** |
+| **Primitive Construction** | **Log walls** (4 logs, built in steps), **roof supports** (2 logs), the **wood roof builder** (1 plank), doors, fences, wooden floors and stairs, **mine supports**, **torches**, the **travois** |
 | **Weaving** | Fur coat, fur boots and pelt hats, the **leather bedroll** (4 leather), tents, hammocks, loincloths and leaf clothing, and your first bags: the **grass carry net**, **hide sling bag** and **pack basket** |
 
 Later, add **Stone Arms** (spears, bone knife, bone and stone pickaxes, chipping flint on a rock), **Archery** (bows and arrows), **Herbalism** (bandages, splints, the drying rack), **Primitive Armor**, **Field Defenses** and **Ritual & Worship**. The [Research](Guide_to_Research.md#full-node-reference) node reference lists every chapter.

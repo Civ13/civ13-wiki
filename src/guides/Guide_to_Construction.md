@@ -113,7 +113,7 @@ apply a weapon with high damage.
 
 <u><b>Straw</b></u>
 
-Made with 4 wood logs. Very primitive, but it still provides shelter, if
+Made with 1 wood log and 4 hay or straw. Very primitive, but it still provides shelter, if
 a flimsy one.
 
 <table>
@@ -127,8 +127,17 @@ a flimsy one.
 
 <u><b>Log</b></u>
 
-Made with 6 wood logs. A sturdy wall, if slightly crude. Corner is the
+The strongest timber wall, raised in steps. 4 wood logs per tile, then an axe and a little clay, hay or straw. Corner is the
 same for all directions.
+
+1. Choose **log wall** or **log wall corner** in the wood crafting menu. This lays the **sill**, the bottom log (1 log). It is low, so shots often fly over it.
+2. Use a log on the sill to add the first courses. The wall is now waist high.
+3. Use another log to add the upper courses. The wall is head high and blocks sight.
+4. Use a fourth log to lay the **top plate**. The wall is now full height.
+5. Use an **axe or hatchet** on it to notch and fit the corners. This makes it as strong as it gets.
+6. **Chink** the gaps between the logs with 1 clay, or 2 hay or straw. Until then the wind blows through: a room walled with unchinked logs loses much more warmth.
+
+Notching and chinking can be done in either order. A hammer takes a half-built wall down and gives back the logs laid so far. A 6x7 cabin, about 20 by 24 feet, takes about 88 logs with its roof supports.
 
 <table>
 <tbody>
@@ -143,8 +152,8 @@ same for all directions.
 
 <u><b>Wood</b></u>
 
-Made with 10 wood planks attached to a wall frame. Being out of planks, this wall is more refined
-than the log one.
+Made with 4 wood planks attached to a wall frame, so 6 planks in all. Lighter and weaker than a log wall,
+but it needs much less timber: with a saw, 6 planks come from about one and a half logs.
 
 <table>
 <tbody>
@@ -164,7 +173,7 @@ than the log one.
 
 <u><b>Wall frame</b></u>
 
-Made with 1 wooden plank. Used as a base to build various walls, windows,
+Made with 2 wooden planks. Used as a base to build various walls, windows,
 doors and doorways, such as medieval and shoji. More details below.
 
 <table>
@@ -278,7 +287,7 @@ logs and choose a design.
 
 <u><b>Aztec</b></u>
 
-Made with 8 wood logs. Useful for creating your very own altepetl.
+Carved into a finished log wall. Once a log wall is notched and chinked, use a **chisel** on it and choose Aztec. Useful for creating your very own altepetl.
 
 <table>
 <tbody>
@@ -322,7 +331,7 @@ Made with 6 stones.
 
 <u><b>Egyptian</b></u>
 
-Made with 6 sandstones.
+Made with 8 sandstones.
 <img src="../images/townsite_city_region_hieroglyph.png">
 <img src="../images/o33.png">
 <img src="../images/a35.png">
@@ -350,7 +359,7 @@ mirrored accordingly.)
 
 <u><b>Nordic</b></u>
 
-Made with 8 wood logs. For all your Långhus and mead hall needs.
+Carved into a finished log wall. Once a log wall is notched and chinked, use a **chisel** on it and choose Nordic. For all your Långhus and mead hall needs.
 
 <table>
 <tbody>
@@ -554,7 +563,7 @@ available (icons will be mirrored accordingly.)
 
 <u><b>Sandstone fortress</b></u>
 
-Made with 8 sandstones and 8 stones.
+Made with 12 sandstones.
 
 <table>
 <tbody>
@@ -719,7 +728,7 @@ accordingly.)
 
 <u><b>Fortress</b></u>
 
-Made with 8 stones. One of the strongest walls. For the archway,
+Made with 12 stones. One of the strongest walls. For the archway,
 directions N and W are also available (icons will be mirrored
 accordingly.)
 
@@ -816,7 +825,7 @@ accordingly.)
 
 An advanced construction material. Take 1 batch of clay bricks in your
 hand and click it, or press Ctrl-Z or Z in the hotkeys mode. This will
-start building a wall where you stand. Add 1 more batch to finish.
+start building a wall where you stand. Add 5 more batches, one course at a time, to finish (6 in all). Examine the wall to see how many are laid.
 
 <table>
 <tbody>
