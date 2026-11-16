@@ -164,7 +164,7 @@ On Nomads maps you can right-click someone next to you and choose **Offer Adopti
 **Faction Offices** on the **Faction tab** lists your faction's offices, who holds them, and any election under way.
 
   - A faction starts with a **Treasurer**, who keeps the [strongbox](../guides/Guide_to_Money.md#faction-treasury), and a **Registrar**, who keeps the [land register](../guides/Guide_to_Money.md#land-and-deeds).
-  - The leader can create up to 12 offices, such as Judge or Herald, and choose what each one may do. The choices are keeping the treasury, keeping the land register, cutting and revoking [seals](../guides/Guide_to_Paperwork.md), and cutting coin dies.
+  - The leader can create up to 12 offices, such as Judge or Herald, and choose what each one may do. The choices are keeping the treasury, keeping the land register, cutting and revoking [seals](../guides/Guide_to_Paperwork.md), cutting coin dies, holding court, and issuing papers.
   - The leader appoints members to offices, for a set number of days or with no limit, and can dismiss them.
   - A [faction seal](../guides/Guide_to_Paperwork.md) cut for an office gives that office's powers to whoever carries it. To lend an office, hand over its seal. Revoke the seal to take it back.
   - The leader can call an **election** for the leadership or for any office. The leader can also set a **term**. Once a leader has served longer than the term, or if no one leads, any member can call a leadership election.
@@ -187,6 +187,17 @@ On Nomads maps you can right-click someone next to you and choose **Offer Adopti
   - For jail, shut the convict behind a door and use **Cell Timer** on it. Judges can set cell timers as well as the leader.
   - Judges can issue a **warrant**, which prints a wanted poster, and can **pardon** someone.
   - Examining someone shows if a faction has a warrant out for them or has declared them an outlaw. The game doesn't punish anyone by itself. The faction carries out its own rulings.
+
+#### Census and papers
+
+**Faction Papers** on the **Faction tab** keeps your faction's census and its papers.
+
+  - Any member can read the **census**, which shows each member's join date, dues paid and plots registered to them, along with each office, who holds it and how many papers are in force.
+  - Anyone with the **papers** power can issue papers to a person standing beside them. That means the leader, an office given that power, or someone carrying that office's seal. Each one uses a blank sheet of paper from your hands or at your feet.
+      - **Citizenship papers** last until they are revoked.
+      - A **travel pass** lasts 1 to 30 days.
+  - Papers name their holder and only work for that person, so stolen or copied papers open nothing. Examine papers to check whether they're still in force. The papers power can revoke any papers.
+  - Stand beside your faction's doors to set who they open for: members only, members and citizens, or members, citizens and pass holders. Papers only count when held in your hands or worn, not packed in a bag.
 
 #### As a Member
 
