@@ -1527,6 +1527,32 @@ locks.
 - **Removing them:** a hammer takes brackets or a bolt off again, from their
   own side, while they are not in use.
 
+### Peep-holes, hatches, mail slots and pet doors
+
+| Feature | Made from | Research |
+| --- | --- | --- |
+| Peep-hole | 1 brass | Optics & Instruments |
+| Judas hatch | 2 iron | Iron Smithing |
+| Mail slot | 1 brass | Bronze Working |
+| Pet door | 2 wood | Primitive Construction |
+
+Hold a screwdriver in your other hand and use the feature on the door from
+the side it should serve, normally the inside. Every feature on one door
+serves the same side. A screwdriver from that side takes one off again.
+Windows and shutters don't take them.
+
+- **Peep-hole:** Alt-click the shut door, or right-click it and pick Look
+  Through, to see who is outside. Step away to stop. Nobody outside can see
+  in.
+- **Judas hatch:** right-click the door and pick Slide Hatch. While it is open,
+  both sides can see and talk through the shut door.
+- **Mail slot:** from outside, use a letter, paper, photo or other tiny item on
+  the shut door to post it. It drops inside, or into a closed crate or a bag
+  standing there.
+- **Pet door:** cats, small dogs, poultry and other small animals can walk
+  through the shut door; people can't. Right-click the door and pick Lock Pet
+  Door to keep them in or out.
+
 ### Fire doors
 
 | Item | Made from | Research |
@@ -1562,7 +1588,7 @@ hammer on wooden, bamboo, bone and stone doors, and a wrench on metal doors,
 with any intent but harm. This only works from the inside, where the hinges
 are. From outside you have to break the door down. A door with no inside
 (an inner door or a gate) can be taken down from either side. You get back
-its fittings, its lock, brackets, bolt and panic bar, and about three quarters of its material, less if it
+its fittings, its lock, brackets, bolt, panic bar and other features, and about three quarters of its material, less if it
 was damaged. Faction doors and blast doors can't be taken down by hand.
 
 ## Windows
