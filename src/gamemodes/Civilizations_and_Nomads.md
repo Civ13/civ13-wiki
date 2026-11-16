@@ -164,7 +164,7 @@ On Nomads maps you can right-click someone next to you and choose **Offer Adopti
 **Faction Offices** on the **Faction tab** lists your faction's offices, who holds them, and any election under way.
 
   - A faction starts with a **Treasurer**, who keeps the [strongbox](../guides/Guide_to_Money.md#faction-treasury), and a **Registrar**, who keeps the [land register](../guides/Guide_to_Money.md#land-and-deeds).
-  - The leader can create up to 12 offices, such as Judge or Herald, and choose what each one may do. The choices are keeping the treasury, keeping the land register, cutting and revoking [seals](../guides/Guide_to_Paperwork.md), cutting coin dies, holding court, and issuing papers.
+  - The leader can create up to 12 offices, such as Judge or Herald, and choose what each one may do. The choices are keeping the treasury, keeping the land register, cutting and revoking [seals](../guides/Guide_to_Paperwork.md), cutting coin dies, holding court, issuing papers, and making treaties.
   - The leader appoints members to offices, for a set number of days or with no limit, and can dismiss them.
   - A [faction seal](../guides/Guide_to_Paperwork.md) cut for an office gives that office's powers to whoever carries it. To lend an office, hand over its seal. Revoke the seal to take it back.
   - The leader can call an **election** for the leadership or for any office. The leader can also set a **term**. Once a leader has served longer than the term, or if no one leads, any member can call a leadership election.
@@ -198,6 +198,17 @@ On Nomads maps you can right-click someone next to you and choose **Offer Adopti
       - A **travel pass** lasts 1 to 30 days.
   - Papers name their holder and only work for that person, so stolen or copied papers open nothing. Examine papers to check whether they're still in force. The papers power can revoke any papers.
   - Stand beside your faction's doors to set who they open for: members only, members and citizens, or members, citizens and pass holders. Papers only count when held in your hands or worn, not packed in a bag.
+
+#### Treaties
+
+**Faction Treaties** on the **Faction tab** keeps the treaties made in your land.
+
+  - Anyone can read every treaty: its terms, the parties, who signed for each and when, and what has happened to it since.
+  - Anyone with the **diplomacy** power (the leader, an office given that power, or someone carrying that office's seal) can draft a treaty with one to five other factions. Give it a title and terms. Your faction signs as soon as you draft it.
+  - Each other faction's diplomacy power reads the draft and signs or refuses it. Once every party has signed, the treaty is in force. The members of every party hear about each step.
+  - A party can **renounce** a treaty in force and give a reason. The treaty stays on record, marked as renounced, along with who broke it and why.
+  - You can write out a copy of a treaty on a blank sheet of paper and seal it.
+  - The game doesn't enforce treaties. The factions do.
 
 #### As a Member
 
