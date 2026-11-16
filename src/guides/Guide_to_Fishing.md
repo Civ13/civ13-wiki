@@ -29,7 +29,7 @@ For a closer reading, look at water within a couple of tiles and you can tell ho
 
 Each stretch of water, about 16 by 16 tiles, shares one stock of fish. The more of it you take, the harder the rest are to catch, and fish come back on their own over time. A stretch left half full recovers fastest, about a fish every four minutes. A stretch fished to nothing recovers very slowly, and only while the water next to it still has fish. Fish a little from several stretches rather than emptying one.
 
-Different water holds different amounts. The coast is the richest water, then deep rivers and lakes, then shallow rivers and the open ocean. Swamps hold very little, and frozen water cannot be fished.
+Different water holds different amounts. The coast is the richest water, then deep rivers and lakes, then shallow rivers and the open ocean. Swamps hold very little. Frozen water must be fished through a hole in the ice.
 
 ### Season, weather and the river
 
@@ -52,6 +52,15 @@ The water tells you when conditions are unusual; look at it before you cast.
 ### Bait
 
 Use raw meat or raw fish on your pole or rod to bait it. A net takes no bait. One piece lasts three casts, used up whether or not anything bites, and makes bites much more likely on any water.
+
+### Ice fishing
+
+<img src="../images/Ice_hole.png"> Frozen water cannot be fished from above, but the fish are still under the ice.
+
+* Use an axe, a pickaxe or a chisel on the ice to cut an **ice hole**. It takes a few seconds.
+* Use a fishing pole or rod on the hole to lower a line. Bait works as usual. Nets and spears do not fit.
+* Bites come a little less often than in open water. The fish under the ice are the same stock the water has in summer, so a stretch you emptied in autumn is still thin.
+* A hole freezes over again after about twenty minutes. Cut a new one, here or further along.
 
 ### Fishing from a boat
 
