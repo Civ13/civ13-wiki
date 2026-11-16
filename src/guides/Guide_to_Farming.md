@@ -268,6 +268,16 @@ Once your group knows **Herbalism**, you can craft a stone **mortar and pestle**
 
 Sunflower and linseed oil fuel lanterns, oil lamps and torches like the other plant oils.
 
+## Coffee
+
+Coffee grows wild in **jungle** and **savanna**, and you can forage its seeds there. Plant them in jungle, savanna or semi-arid soil. A harvest gives **green coffee**, a handful of coffee cherries. They are not a drink yet:
+
+1. **Roast** the green coffee in a lit campfire, stove or oven. It comes out as **roasted coffee beans**, which never spoil. You can chew them for a small pick-me-up, but roasting them a second time burns them.
+2. **Grind** the roasted beans in a mortar and pestle. Each handful gives 3 units of **coffee grounds**.
+3. **Brew** the grounds with water. Use a small pot on a lit campfire or stove; the coffee is ready when the pot finishes boiling. You can also use a wooden mug with a hot stone (the mug's hot-stone action). Each unit of grounds turns 4 units of water into 5 units of coffee, so one handful of beans makes 15 units. If there isn't enough water, the leftover grounds wait for more.
+
+Coffee keeps you awake and alert, warms you, gives you back a little energy and lifts your mood slightly. Drinking too much at once gives you the jitters. Mix it with milk for a café latte or with ice for iced coffee.
+
 ## Preserves
 
 Once your group knows **Pottery & Cookware**, you can make a **clay crock** from 3 clay (kitchen category) and fire it in a kiln, and a **preserve jar** from 1 glass.
@@ -715,12 +725,12 @@ Skilled farmers (high Farming skill, with Basic Agriculture researched) can craf
 <td style="text-align:center">O</td>
 <td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
 <td>All</td>
 <td style="text-align:center">80</td>
-<td>A stimulant, temporarily increase movement speed.</td>
+<td>Roast, grind and brew into coffee. Grows wild in jungle and savanna.</td>
 </tr>
 <tr>
 <td>Tree</td>
