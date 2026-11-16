@@ -44,7 +44,7 @@ Both come with the **Basic Agriculture** research and are made from the stack yo
 
 | Tool | Made from | What it does |
 | --- | --- | --- |
-| Sickle | 2 copper, bronze, iron or steel, with 1 wood and a hammer to hand | Harvests like a knife and also reaps ripe plants of the same crop beside the one you cut: 2 with copper, 3 with bronze or iron, 4 with steel. |
+| Sickle | 2 copper, bronze, iron or steel, with 1 wood (a log or a sawn plank) and a hammer to hand | Harvests like a knife and also reaps ripe plants of the same crop beside the one you cut: 2 with copper, 3 with bronze or iron, 4 with steel. |
 | Hoe | 2 wood, or 2 copper, bronze, iron or steel | Breaks ground for planting the way a plough does. A wooden hoe works at two thirds of a plough's speed and a metal one about matches it. It is small enough to hang from a belt. |
 
 Examine a sickle to see how many neighbours it reaps.
