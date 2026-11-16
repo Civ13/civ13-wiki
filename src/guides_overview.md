@@ -48,6 +48,7 @@ New to the game? Start with [How to Play](New_Player_Guide.md), then the [Starte
 - [Trapping](guides/Guide_to_Trapping.md)
 - [Ranching](guides/Guide_to_Ranching.md)
 - [Animals, Dogs & Mounts](guides/Guide_to_Animals.md)
+- [Mice & Pests](guides/Guide_to_Mice.md)
 
 ## Building & Transport
 
