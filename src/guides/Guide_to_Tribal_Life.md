@@ -55,3 +55,14 @@ Hold a **bone flute** or **frame drum** and use it in hand to play. Everyone nea
 If either offer changes, both agreements are cleared, so nobody can swap something out at the last moment. If a trader walks away, they drop out of the trade and their goods are left on the mat's tile. You can also choose **Take back my offer** or **Leave the trade**.
 
 Strings of **stone beads** and **bone beads** stack and make handy trade goods, along with salt, pelts and flint tools.
+
+### Weighing metal
+
+Before anyone strikes coins, metal is money by its weight. A **trading balance** is made from 2 wood (economy & production) and is one of the first things you can craft.
+
+- Use the balance on metal sheets or coins, or hold them in your other hand and use the balance in hand. It tells you their weight in **shekels** and what they are worth in silver.
+- One coin weighs one shekel. A sheet of metal weighs 10 shekels.
+- One shekel of silver is worth 1 silver. A shekel of gold is worth 4, and a shekel of copper is worth a tenth. Tin, bronze, brass, iron and lead are worth a little too.
+- Use the balance on a barter mat to weigh both offers at once. It also tells you how many other things it can't put a price on. Using the balance on the mat doesn't offer the balance itself.
+
+The balance only measures. You and the other trader still settle on the price, such as "twenty shekels of copper for a goat."
