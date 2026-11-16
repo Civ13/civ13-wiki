@@ -73,6 +73,8 @@ Most bricks and blocks are made with **[Clay](../Full_Crafting_List.md#clay)**, 
 
   - Cook until done.
 
+Bricks, cement bricks and clay blocks pile up like roofing, fired or unfired: up to 25 in one pile, and the pile's name shows how many it holds. Drop a brick on a pile of the same bricks and it joins the pile. Use the pile in your hand on more of the same bricks to pick up all of them from that tile. To take a single brick off a pile you are holding, click the pile with your other, empty hand. Laying a foundation or adding to a wall uses one brick from the pile. A whole pile of unfired bricks goes in the fire at once and comes out as one pile (each clay block still makes two), and the brick mould bench turns out each batch as one pile.
+
 **Hover the mouse cursor over the icon to see the material cost.**
 
 <table>
@@ -879,7 +881,7 @@ A worn building gives fair warning before anything falls:
 - A worn-out roof falls apart whether or not it is supported.
 
 - **Roofs** are repaired with matching roofing: use it on the roof, or use it while facing the roof. One piece of roofing is used up.
-- **Walls** are repaired with their building material. The repair costs the missing share of what the wall took to build, at least one unit.
+- **Walls** are repaired with their building material. The repair costs the missing share of what the wall took to build, at least one unit. A pile of a wall's own bricks or clay blocks repairs it too and gives up only the bricks the repair needs.
 
 <table>
 <tbody>
