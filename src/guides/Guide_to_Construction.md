@@ -1123,7 +1123,7 @@ A built wall can carry one power cable and one pipe inside it.
 
 Examine the wall to see what runs through it. When the wall breaks, the cable snaps and the pipe bursts.
 
-**Through floors.** A **floor sleeve** (1 clay, Irrigation) lets pipes cross between storeys. Set one sleeve on a tile and another at the same spot on the level above or below, and the pipes on the two tiles join. Factory pipes join both ways, since a pump drives them. Aqueduct water and drains only run downhill: a water pipe or drain over a sleeve feeds the one under the sleeve below, never the other way. To bring water up a storey, pump it through factory pipes or fill a cistern upstairs. Power already crosses between storeys through cable risers; see the [Guide to Power](Guide_to_Power.md).
+**Through floors.** A **floor sleeve** (1 clay, Irrigation) lets pipes cross between storeys. Set one sleeve on a tile and another at the same spot on the level above or below, and the pipes on the two tiles join. Factory pipes join both ways, since a pump drives them. Aqueduct water and drains only run downhill: a water pipe or drain over a sleeve feeds the one under the sleeve below, never the other way. To bring water up a storey, pump it through factory pipes or fill a cistern upstairs. A **floor drain** lets spilt water and slops run down to the drains; see [Sewers](Guide_to_Floods.md#sewers). Power already crosses between storeys through cable risers; see the [Guide to Power](Guide_to_Power.md).
 
 ## Keeping a building warm
 
