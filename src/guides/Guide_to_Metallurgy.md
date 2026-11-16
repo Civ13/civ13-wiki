@@ -152,6 +152,43 @@ Brass ingots are used for ammunition casings, instruments such as the trombone a
 * Work pig iron at the iron or steel anvil into usable steel sheets.
 * To cast steel tools or weapons with molds, **put steel sheets in a jug or a pot and melt them in a kiln**.
 
+### Tamahagane (steel from iron sand)
+
+Steel does not need iron ore. Smiths in Japan made it from black iron sand in a clay furnace called a **tatara**.
+
+#### Iron sand
+<img src="../images/iron_sand.png">
+
+From the Classical Age on, iron sand is gathered, never mined. Asia's rivers and coasts give more of it than other lands.
+
+| How | Where | You get |
+| --- | --- | --- |
+| Hold a wooden bowl and use **Pan river sediment**, then pick **Iron sand** | Dirt or sand beside shallow fresh water | 3 iron sand per two-minute pan (5 on Asia) |
+| **Sift soil for resources** (by hand or with a sieve), then pick **Iron sand** | Beach sand | 2 iron sand per sift (4 on Asia) |
+| Use the **washing channel** with an empty hand | A channel built beside shallow fresh water | 2 iron sand per 30 seconds (4 on Asia) |
+| Use ordinary sand on a washing channel, or on a wooden bowl while standing beside shallow fresh water | Anywhere with fresh water | 1 iron sand for every 5 sand (2 on Asia) |
+
+<img src="../images/kanna_channel.png"> The **washing channel** is a wooden sluice trough (6 wood, Tatara Smelting research). Running water carries the light soil away and the heavy black sand settles behind the riffles. Each spot gives 20 loads before the soil there is washed out. After that, one load comes back every minute. A hammer takes the channel apart.
+
+An ordinary **bloomery** also smelts iron sand: every 2 iron sand become 1 sponge iron. The blast furnace will not take it.
+
+#### The tatara
+<img src="../images/tatara.png"> <img src="../images/tatara_on.png">
+
+The **tatara** is a clay furnace made from 20 clay once you know **Tatara Smelting** (Iron Smithing first). It is built for a single firing.
+
+1. **Charge it by turns.** Put in charcoal, then iron sand on top, and repeat. It holds up to 30 of each. Charge it at least 3 times, or it makes only half the kera. Only iron sand matched by charcoal smelts.
+2. **Light it** with at least 3 charcoal and 3 iron sand inside. The firing lasts ten minutes. You can keep charging it for the first five.
+3. **Work the bellows.** Set bellows beside the tatara and keep pumping them through the firing (one pump blows for a minute and a half). With no blast you get 1 kera for every 6 iron sand. With the bellows going all the way through you get 1 for every 3.
+4. **Break it open.** When the fire dies the furnace is spent. Break it with a hammer or pickaxe to get the **kera**, some **pig iron** (1 for every 10 iron sand) and 5 clay back. Then build a new one for the next firing.
+
+#### Kera and tamahagane
+<img src="../images/kera.png"> <img src="../images/tamahagane.png">
+
+Use **kera** on an iron anvil to break and sort it. Half of it is **tamahagane**, three tenths is soft wrought iron, and the rest is slag. Then use tamahagane on the anvil to fold it: every 3 chunks become **2 steel sheets**. The pig iron from the tatara works into steel like any other pig iron.
+
+To forge things from that steel you need an anvil that works steel. Tatara Smelting also lets you weld a steel face onto an iron anvil (see [Anvils](#anvils)).
+
 ## Anvils
 Anvils are used to forge armor and weapons across the centuries, from ancient swords to muskets and makeshift AK-47s. See the **[Guide to Weapons](Guide_to_Weapons.md)** for more information on specific weapons and their availability in different ages.
 
@@ -175,7 +212,7 @@ Using iron, steel, bronze or kevlar sheets on an anvil opens the **Crafting wind
 <tr>
 <td><img src="../images/anvil_steelfaced.png"></td>
 <td><b>Steel-faced</b></td>
-<td>An iron anvil with a hardened steel face welded on. Once you know Steelmaking, use 5 steel sheets on an iron anvil to weld the face on; it stays where it stands. Used to work everything the iron anvil does, plus steel and lead.</td>
+<td>An iron anvil with a hardened steel face welded on. Once you know Steelmaking or Tatara Smelting, use 5 steel sheets on an iron anvil to weld the face on; it stays where it stands. Used to work everything the iron anvil does, plus steel and lead.</td>
 </tr>
 <tr>
 <td><img src="../images/anvil_steel.png"></td>
@@ -192,6 +229,10 @@ A **quench tub** is a wooden tub of water that stands next to an anvil. Make one
 - Fill it with a bucket (it holds 60 units), pipe water to it, or build it beside running water such as a river with a current, an aqueduct channel, a fountain, a tap or a sink, so it never runs dry. Examine it to see how much it holds.
 - Every **iron** or **steel** piece you forge on that anvil is quenched as it comes off. It uses 10 units of water, and the piece comes out hardened at **Excellent** quality, so it hits harder.
 - Without a tub, or with the tub dry, forging works as usual. Bronze, copper and the other soft metals gain nothing from quenching, and cast pieces from molds are not quenched.
+
+#### Clay hardening
+
+Once you know **Japanese Swordsmithing** (Steel Blades and Tatara Smelting first), a steel **katana, wakizashi, tachi, tanto or naginata** forged beside a watered quench tub can be clay-hardened. Hold clay in your other hand or leave it on the anvil's tile. The blade is coated thin at the edge and thick at the spine before the quench. It uses 1 clay and the tub's water, and comes out harder than plain quenching makes it, with a hamon line along the edge. Japanese Swordsmithing also teaches the **tachi**, the older long cavalry sword.
 
 ### Trip hammer
 
