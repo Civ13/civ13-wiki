@@ -43,6 +43,7 @@
         - [Animals, Dogs & Mounts](guides/Guide_to_Animals.md)
     - [Building & Transport]()
         - [Construction](guides/Guide_to_Construction.md)
+        - [Making a Home](guides/Guide_to_Homes.md)
         - [Boats & Ships](guides/Guide_to_Boats.md)
         - [Trains](guides/Guide_to_Trains.md)
         - [Aircraft](guides/Guide_to_Aircraft.md)
