@@ -144,6 +144,16 @@ On maps that allow custom factions, a faction can take members through a **recru
 
 On Nomads maps you can right-click someone next to you and choose **Offer Adoption**. If they accept, their last name becomes yours. An adopted character can use **Un-adopt Yourself** in the IC tab to get their original name back. You cannot adopt someone who is already adopted, and you need a last name to offer.
 
+#### Changing your name
+
+You can take a new name, for a new faith, a trade, a fresh start or any other reason.
+
+  - **In a faction:** ask whoever keeps your faction's papers (see **Census and papers** below). Stand beside them; they choose **Record a change of name** in **Faction Papers**, you type your new name, and you get a written record of the change. Your papers keep working and now show your new name.
+  - **In no faction:** use **Take a new name** in the IC tab.
+  - After a change you must wait 7 real days before changing again. You can't take a name someone else in the region already goes by.
+  - Your old name stays on record. Your own locks, traps and crew places on boats still know you, and warrants or fines against you still stand.
+  - Taking a new name ends an adopted family name for good, so **Un-adopt Yourself** goes away.
+
 #### As a Leader
 
   - You can invite people to your faction by getting close to them, **right-clicking** them, and selecting **Recruit** from the menu.
@@ -201,6 +211,7 @@ On Nomads maps you can right-click someone next to you and choose **Offer Adopti
       - A **travel pass** lasts 1 to 30 days.
       - A **building permit** or **trading licence** lasts 1 to 30 days, or until revoked.
   - Papers name their holder and only work for that person, so stolen or copied papers open nothing. Examine papers to check whether they're still in force. The papers power can revoke any papers.
+  - The papers power also records a **change of name** for a member standing beside them, using a blank sheet. The census lists the changes on record.
   - Stand beside your faction's doors to set who they open for: members only, members and citizens, or members, citizens and pass holders. Papers only count when held in your hands or worn, not packed in a bag.
   - Permits aren't required unless the papers power chooses **Require permits on our land**. That can require a **building permit** to build on the faction's registered plots, a **trading licence** to set up a market stall there, or both. Members never need one, and neither does whoever carries the plot's deed. Permits don't open border doors.
 
