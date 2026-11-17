@@ -43,7 +43,7 @@ P.S. 20 is a lie, it is 2**<u>.</u>**0
 | Pistol       | - Chance to hit a target with a pistol                       | - Shooting targets with a pistol                             |
 | Bows         | - Chance to hit a target with a bow                          | - Pincushioning targets with arrows                          |
 | Medical      | - Extra healing bonus when using healing items<br /> - Ability to perform surgeries at all, success chance during a surgery step | - Performing surgeries on people (not necessarily living)    |
-| Philosophy   | - Ability to found a religion | - Writing and reading scientific literature                  |
+| Philosophy   | - Ability to found a religion<br />- Writing language books (1.35) | - Writing and reading scientific literature<br />- Where knowledge comes from books: finishing a chapter you had not studied before, tutoring someone through one, writing or copying a chapter and comparing notes. New chapters teach far more than repeats |
 | Machine gun  | - Chance to hit a target with a machine gun                  | - Pumping targets full of lead                               |
 | Farming      | - Ability to check plants' water level<br />- Ploughing speed<br />- Seeds and crops per harvest | - Planting seeds<br />- Ploughing fields<br />- Harvesting crops |
 | Hunting      | - Meat and fat from butchering animals                       | - Butchering dead animals                                    |
