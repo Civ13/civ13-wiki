@@ -111,6 +111,12 @@ Stand beside the fire, never in it, and work along the edge that is moving towar
 
 A lit campfire or fire pit under the open sky can send smoke signals. Hold leather or cloth and click the burning fire: one piece burns away and a column of smoke rises over the fire for a few seconds. Everyone awake and outdoors on the same level within 300 tiles is told which way the smoke is and roughly how far, from close by to very far off. People indoors do not see it, and a fire under a roof cannot send one. A fire on a roof is seen 100 tiles further for each storey it stands above the ground, and people outdoors on the ground below see it as well. After each signal the fire needs about half a minute before the next. Anyone can read the smoke, friend or foe, so agree on what your signals mean beforehand. The fire tells you whether anyone was outdoors to see your signal, and examining a lit fire under the open sky reminds you how to send one.
 
+### Inviting newcomers
+
+On the mainland, each smoke signal also asks whether you want to **invite newcomers**. Anyone can say yes; you do not need a faction. For the next 30 minutes new characters can then choose to start a short walk from your fire, and you are told when one is on the way and from which direction. Signal again to keep the invitation going.
+
+The invitation only holds while the fire stays lit under the open sky and someone awake stays within about 15 tiles of it. It ends at once if the fire goes out, is roofed over, moved or dismantled. Newcomers arrive as nomads, so greet them and recruit them in person. **Check Faction List** marks factions whose fire is calling.
+
 ## Abandoned debris
 
 Rubbish and empty spent casings left lying around rot away after **4 season changes**, and you can see a warning when you examine them after **2**. Where the seasons do not change, the warning comes after **6 hours** and they rot away after **12**.
