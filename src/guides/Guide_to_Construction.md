@@ -947,7 +947,7 @@ in the roofed area, or even standing next to it.**
 
 ### Upper storeys
 
-A roof is also the floor of the storey above it. Each roof tile you build adds a walkable **upper floor** on the level above, and the game says "finishes building the roof and upper floor" when it does. Before you build, the roof builder tells you whether a floor will be added and, if not, why. The game refuses a roof that the structure below cannot carry and tells you why, before any material is used. Roofs that already stand are not affected by these rules.
+A roof is also the floor of the storey above it. Each roof tile you build adds a walkable **upper floor** on the level above, and the game says "finishes building the roof and upper floor" when it does. Before you build, the roof builder tells you whether a floor will be added and, if not, why. To finish an upper floor, stand on it and build a wood, stone or other floor there: it replaces the plain upper floor and the roof below stays. The game refuses a roof that the structure below cannot carry and tells you why, before any material is used. Roofs that already stand are not affected by these rules.
 
 How many storeys a land allows:
 
@@ -1170,7 +1170,7 @@ civilized way, swiftly and with resonant "top-top" footfalls! Not only
 that - floors on the surface prevent digging upwards from the
 underground. **Floors can be removed with the hammer.**
 
-A tile holds one floor. To lay a different floor, remove the old one with the hammer first.
+A tile holds one floor. To lay a different floor, remove the old one with the hammer first. A floor cover or the upper floor of a storey is the exception: stand on it and build any other floor, such as a wood floor, and the new floor replaces it. The floor cover is used up, and an upper floor keeps the roof below it.
 
 <table>
 <tbody>
