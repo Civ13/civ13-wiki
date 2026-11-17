@@ -171,10 +171,23 @@ Platform cars are full-size railway carriages: **three tiles wide and four tiles
 | Dining car kit | 20 steel | A galley with a stove, sink, fridge and counter, and two booths. |
 | Storage car kit | 18 steel | Cabinets and large crates, each behind its own compartment door. |
 
+### Long cars
+
+Long cars are **eight tiles long**, twice the length of the others, and weigh twice as much. They are built, coupled and ridden the same way.
+
+![Two trains of long cars: a steam locomotive with a boxcar, an open wagon and a bogie flatcar, and a diesel locomotive with two bogie coaches and a boxcar with its roof off](../images/civ13-long-cars.png)
+
+| Kit | Cost | What you get |
+| --- | --- | --- |
+| Bogie flatcar kit | 22 iron | A long open plank deck with railings at each end, for machines, vehicles and long loads. |
+| Open wagon kit | 26 iron | Plank sides all round to keep loose cargo aboard. The drop doors in the middle of each side open for loading. |
+| Boxcar kit | 30 iron | A roofed goods van with closed ends. The sliding doors in the middle of each side open for loading. |
+| Bogie coach kit | 26 steel | Twelve seats either side of a carpeted aisle, with a vestibule and doors at each end. |
+
 ### Putting a car together
 
-1. Carry or drag the kit onto the track. It needs **four tiles of straight track**: the tile under the kit and the three behind it.
-2. Leave a **clear tile on both sides** of those four tiles for the deck.
+1. Carry or drag the kit onto the track. A car needs **four tiles of straight track**, and a long car **eight**: the tile under the kit and the rest behind it. Examine a kit to see how long its car is.
+2. Leave a **clear tile on both sides** of those tiles for the deck.
 3. Stand facing the way the car should point and hit the kit with a **hammer**. A car can face either way in a train.
 
 To couple the car, right-click its front end and choose **Hitch** to join the car ahead, or its rear end to join the car behind. The middle of a car can't be unhitched.
@@ -233,7 +246,7 @@ A rail warehouse stores cars and locomotives off the line, together with everyth
 
 ![A train standing in a rail warehouse: a locomotive pulling a storage car, a passenger coach and a loaded platform car, with the office post in the wall beside the track](../images/civ13-rail-warehouse.png)
 
-1. **Build the office** (15 iron; **Rail & Steam** node, or industrial research **101**) facing the track, with **one tile between the office and the rails**. The track running past it, **six tiles each way**, is the warehouse bay (13 tiles, room for three platform cars and a locomotive). Use a wrench on an empty office to turn it. Build walls and a roof around the bay if you like, but leave the track open at both ends and keep a clear tile either side of the rails.
+1. **Build the office** (15 iron; **Rail & Steam** node, or industrial research **101**) facing the track, with **one tile between the office and the rails**. The track running past it, **six tiles each way**, is the warehouse bay (13 tiles, room for three platform cars and a locomotive, or one long car and one platform car). Use a wrench on an empty office to turn it. Build walls and a roof around the bay if you like, but leave the track open at both ends and keep a clear tile either side of the rails.
 2. **Drive the train in** and stop it with the cars you want to put away inside the bay. Get everyone off them.
 3. **Use the office.** Choose a car to put away, or **Put away the whole train**. Cars always come off the **back** of the train: whatever is standing on a car goes with it, crates and their contents included.
 4. **Couple a car back on** from the same menu. It rolls onto the track behind the train in the bay, facing the way the train heads, and is hitched to it. If the bay is empty, it rolls to the far end.
