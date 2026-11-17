@@ -184,6 +184,25 @@ Right-click, **Hitch** still works too.
 - Two cars couple only if **both** couplings that meet are whole. A car with a broken or missing coupling can still be hitched by its other end.
 - Explosions damage the couplings of the cars they catch.
 
+### Shunting
+
+Making up a train is called shunting, and a yard does it all day.
+
+- **Come up slowly and you buffer up.** A train that creeps up to standing cars at a crawl stops against them, and nothing is damaged. Open the throttle one notch, then close it and let the train roll the last few tiles. Faster than a crawl it is a bump, and faster still the cars are knocked rolling (see [Runaway cars](#runaway-cars)).
+- **Then couple by hand**, or let automatic couplers do it.
+
+#### Automatic couplers
+
+An **automatic coupler** is a steel knuckle that takes the place of the hook and screw link. It costs 6 steel (**Assembly Line** node, or industrial research **140**).
+
+![A train joined by automatic couplers, a broken one on the last car, a car standing apart with its couplers open, and a spare on the ground](../images/civ13-train-automatic-couplers.png)
+
+- **Fitting one**: click the free end of a car with the coupler in your hand. It changes places with the coupling that was there, which drops at your feet. It wears, breaks, mends and comes off like any coupling.
+- **They lock by themselves.** Push two automatic couplers together slowly and they couple, and the train stops there. Nobody has to stand between the cars. Too fast and they do not catch: the cars are knocked away instead.
+- **Rolling cars couple too.** A car let go down a siding locks onto the cars it rolls up against.
+- **The lever lets go at once.** Click a locked automatic coupler and the cars part straight away, with no wait. It still won't let go while an engine is pulling. On a coasting train the cars you let go roll on by themselves, which is how a shunter sends cars into a siding without stopping.
+- Both ends that meet must be automatic. An automatic coupler and a hook and screw link still couple, but only by hand.
+
 ## Driving
 
 **Click the locomotive** to open its controls. On the big steam engines the controls are shared between three places in the cab (see [Cab crew](#cab-crew)).
