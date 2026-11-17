@@ -234,6 +234,18 @@ An engine can only pull as hard as its wheels grip the rails. Open the throttle 
 - **Sand the rails** when you need the grip: the wheels hold for the next eight tiles, which is enough to get a heavy train moving. Once the train is rolling at a fair speed it no longer slips.
 - **The sandbox holds 20 uses.** The engine's controls show how many are left. Use **sand** on the locomotive to fill it up again.
 
+### Snow on the line
+
+Snow that falls and settles on the track slows a train. The car at the front pushes into it, and the train keeps to **three quarters** of its speed in light snow and **half** in deep snow until it is back on clear track.
+
+![A snowplough on the front of a steam engine heading east and one heading north, and a snowplough standing on the ground](../images/civ13-train-snowplough.png)
+
+A **snowplough** (10 iron, on the **Rail & Steam** node or industrial research **101**) clears the snow off each tile as the train passes, so the train keeps its speed and the line behind it is open for the next one.
+
+- **To fit it**, stop the train and click the **coupling** at a free end of an engine or car with the snowplough.
+- **It only works at the end that leads the train.** Fit it to the front of the engine for running forward. A train that backs up a long way wants one on its last car as well.
+- **To take it off**, click that coupling with a **wrench**.
+
 ### Runaway cars
 
 Cars keep rolling. Nothing stops a wagon just because it is no longer coupled to an engine.
