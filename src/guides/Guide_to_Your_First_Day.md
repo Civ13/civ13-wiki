@@ -223,6 +223,10 @@ While you sleep properly your hunger and thirst don't drop. You can't sleep whil
 
 If you are alone and want company, light a campfire or fire pit under the open sky, hold leather or cloth and click the fire. A column of smoke rises, and everyone outdoors a long way off is told which way to walk to reach you. If you see someone else's smoke, walk toward it or answer with a signal of your own. Examining a lit fire reminds you how. The details are in [Smoke signals](Guide_to_Survival.md#smoke-signals).
 
+During your first two days your characters start a short walk from where the most players are gathered outdoors, so other people are usually within reach from the first minute.
+
+When the game asks where your new character should start, look for **Near NAME's signal fire**. Someone at that fire has invited newcomers: choose it and you start a short walk from the fire, and you are told which way it lies. You arrive on your own, not as a member of anything; joining a faction still happens face to face.
+
 ## If you die
 
 **Death clears what your character knew**, but for one real day it can be recovered. Your next character keeps the subjects, scholarship and body skills of the last one if it starts within 150 tiles of where you died, in one of two ways:
