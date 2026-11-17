@@ -310,6 +310,43 @@ A steam engine's fire slowly fills with **clinker**. After a few fireboxes of fu
 
 The clinker drops into the pit and a little of the fire goes with it, so put some fuel on afterwards. An ash pit holds ten cleanings. When it is full, move the engine off it and dig it out with a **shovel**.
 
+### Brake shoes
+
+A brake wears its **shoes** whenever the train moves with it on: a handbrake left pinned down, a brake van's brake wound on down a hill, or the driver's brake on the engine. A set lasts about **300 tiles** of braking.
+
+- **Examine a car or engine** to check. It says when the shoes are worn thin.
+- **Worn out**, the brake grinds metal on metal and holds less than a third of what it should, so the train takes much longer to stop.
+- **To change them**, make a **set of brake shoes** (3 iron), let the handbrake off, and click the standing car with the set.
+
+### Washing out the boiler
+
+The water a steam engine boils leaves **scale** in its boiler. After about a dozen tanks of water the controls say the boiler is **scaling up**, and the fire makes less steam than it should. Left alone the boiler ends up **thick with scale**.
+
+1. Stop the engine beside a **water crane** or **water tower** that holds at least 300 units of water.
+2. Drop the fire and let the boiler cool until the pressure is 25% or lower. From full pressure that takes about a quarter of an hour.
+3. On the fireman's side of the cab, choose **Wash out the boiler**. It takes about half a minute.
+
+The scale is hosed out and the boiler is left clean and full of cold water, ready for the fire to be lit.
+
+### Overhaul
+
+An engine that has worked about **5,000 tiles** starts to knock and blow, and pulls a little less with every trip after that, down to seven tenths of its strength. Examining it says when it is due for an overhaul.
+
+1. Stand the engine in the bay of a [rail warehouse](#rail-warehouse), the stretch of track beside the office post, and stop it.
+2. Hold a **wrench**, with **10 iron or steel** in your other hand for the new parts.
+3. Click the engine with the wrench. The work takes about a minute.
+
+An engine can be overhauled early, from half that distance on.
+
+### Coaling stage and sand bin
+
+Two structures beside the track save carrying fuel and sand to every engine by hand. Both serve whatever stands within two tiles of them. Like the brake shoes, they are on the **Rail & Steam** node, or industrial research **101**.
+
+![A coaling stage empty, part filled and piled high, a sand bin empty and full, a set of brake shoes, and a steam engine standing beside a stage and a bin](../images/civ13-train-depot.png)
+
+- **Coaling stage** (20 wood): click it with **coal or wood** to tip the fuel onto its heap. Stop a steam engine or a walk-on tender beside it and click the stage with an empty hand to fill the tender's bunker and the engine's firebox.
+- **Sand bin** (8 wood): click it with **sand** to fill it. Stop an engine beside it and click the bin with an empty hand to fill the engine's sandbox.
+
 ## Carrying passengers and cargo
 
 - **Storage wagons** (mining cart, tender, transport wagon): click to open their storage, or drag items onto them.
