@@ -97,12 +97,23 @@ The first time you join as a character, a short tutorial walks you through the b
 6. Change your intent.
 7. Open the **Crafting Atlas** (IC tab).
 8. Eat or drink something.
-9. Learn the chat keys and tabs.
-10. Find out where to ask for help.
+9. Break a branch off a tree.
+10. Twist crude twine from grass cuttings.
+11. Sharpen a stick with a sharp flint or a knife.
+12. Build and light a campfire, and stand next to it.
+13. Drink from fresh water.
+14. Learn the chat keys and tabs.
+15. Find out where to ask for help.
+
+Steps 9 to 13 appear on the maps where you settle and live off the land. Each one explains how in chat.
 
 On worlds where research is written into books, one more step covers placing a book on a research bench and studying a chapter.
 
 Use **Got it** or **Skip** in chat to move on. Your progress is saved, so the tutorial picks up where you left off in a later round. To see the current step, stop the tutorial, start it again or **Reset tutorial progress**, open the **Game Menu** with Esc and choose **Tutorial** (also the **Tutorial** verb in the OOC tab). The **Settings** page of character setup shows your tutorial status with a **Reset progress** link.
+
+### Tips when you need them
+
+The first time your character is dangerously cold, soaked, low on food or water, at the bottom of a dug hole, knocked down or holding a crafting material, one blue **Tip** line in chat says what to do. Each tip is shown once. To turn tips off, switch off **Show tips** on the Settings tab of Character Setup.
 
 ### Your first round
 
