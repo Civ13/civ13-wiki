@@ -1,5 +1,7 @@
 # Winter and Long Rounds
 
+New here? Start with the six-line [first night list](Guide_to_Your_First_Day.md#your-first-night): fire, shelter, water, food, warmth and people. This page covers the harder weather that comes after.
+
 ## Staying warm
 
 Cover exposed body parts and wear a coat over ordinary clothing. Overlapping layers add insulation, while shorts and loincloths protect only the parts they cover. Ordinary clothing's cold rating is **240 K**, about **-33 C**; it stops insulating below that temperature. Choose suitable cold-weather equipment for extreme climates.

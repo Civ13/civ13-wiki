@@ -34,6 +34,10 @@ You can also play through **Civ13.exe**, the Civ13 launcher, from the [Civ13 rel
 - When nobody is playing, a server may be asleep. The launcher waits for it to wake up instead of reporting it as unreachable, so give it a moment.
 - While you play, the launcher can show "Playing Civ13" on your Discord profile. Turn this off with **Show on Discord**.
 
+### Your first night
+
+Fire, shelter, water, food, warmth and people, in that order, keep a new character alive until morning. The six-line list with the first action for each is at the top of [Your First Day](guides/Guide_to_Your_First_Day.md#your-first-night) and of the [Starter Guide](Starter_Guide.md#your-first-night).
+
 ### Controls
 
 Check [Hotkeys](Hotkeys.md).
