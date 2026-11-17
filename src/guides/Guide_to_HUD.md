@@ -74,6 +74,11 @@ then drag the strip by its slots, its close button or anything inside it. It can
 be locked like a tile, but not resized. At HUD scales above 100% the strip
 opens above the HUD instead of on top of it.
 
+A stack of more than one thing shows how many it holds as a small number in
+the top-right corner of its slot, in your hands, your worn slots and the
+storage strip. The number turns amber when the stack is full. Handfuls of
+rounds show their count the same way.
+
 While you are editing, clicking a tile does not use it. For example,
 clicking a hand slot will not swap hands. Tiles you place near an edge or
 corner of the screen stay there if your game window changes size.
