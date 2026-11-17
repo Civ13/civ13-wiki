@@ -11,6 +11,7 @@ A tribe is more than a camp. Remember the great deeds of its people, honour its 
 | <img src="../images/Barter_mat.png"> Barter mat | 3 leather | Basic Toolmaking |
 | <img src="../images/Stone_beads.png"> Stone beads | 1 stone | Regalia & Heraldry |
 | <img src="../images/Bone_beads.png"> Bone beads | 1 bone | Regalia & Heraldry |
+| <img src="../images/Chitin_beads.png"> Chitin beads | 1 chitin | Regalia & Heraldry |
 
 ## Deeds on the totem pole
 
@@ -54,7 +55,7 @@ Hold a **bone flute** or **frame drum** and use it in hand to play. Everyone nea
 
 If either offer changes, both agreements are cleared, so nobody can swap something out at the last moment. If a trader walks away, they drop out of the trade and their goods are left on the mat's tile. You can also choose **Take back my offer** or **Leave the trade**.
 
-Strings of **stone beads** and **bone beads** stack and make handy trade goods, along with salt, pelts and flint tools.
+Strings of **stone beads**, **bone beads** and **chitin beads** stack and make handy trade goods, along with salt, pelts and flint tools.
 
 ### Weighing metal
 
