@@ -28,7 +28,7 @@ Output fills matching stacks up to their limits. A tile holds at most **12 outpu
 
 ## Mining several ores
 
-Each ore in a rock wall rolls on its own, so one mined wall can drop several kinds of ore at once, for example coal together with iron. Coal is twice as common as it used to be. Some walls now give no ore at all, because the drops cluster.
+Each ore in a rock wall rolls on its own, so one mined wall can drop several kinds of ore at once, for example coal together with iron. Coal is twice as common as it used to be. Some walls now give no ore at all, because the drops cluster. A wall that gives ore also gives 8-12 stone, and a wall with no ore gives 16-24.
 
 ## Old mountain floor and ore seams
 
