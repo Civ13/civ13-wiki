@@ -165,7 +165,7 @@ An airship is a deck you build yourself, on the ground or in the open air, held 
 ![An airship deck of wooden planks with a helm at the stern and two gas cells over it](../images/civ13-airship-deck.png)
 
 1. Use **airship planks** on clear, dry, level ground beside you, with nothing built or standing on it. Each bundle lays one tile of deck. Keep laying planks edge to edge from the deck you already have. A deck can be up to 60 tiles. You can also start the deck in the air from the top of a **wooden ladder** stood on the ground under open air.
-2. Use **gas cells** on the deck to hang them, one per tile. Each cell holds up 12: every tile of wooden deck counts as 1 and so does every person aboard (see [Airship materials](#airship-materials) for lighter and stronger parts).
+2. Use **gas cells** on the deck to hang them, one per tile. A cell hangs empty: fill it with hydrogen or helium (see [Lifting gas](#lifting-gas)). A full cell holds up 12: every tile of wooden deck counts as 1 and so does every person aboard (see [Airship materials](#airship-materials) for lighter and stronger parts).
 3. Set up the **airship helm** on the deck, facing the way you want the bow to point, and use it to commission the deck as an airship and name her.
 4. On the ground, choose **Lift off** at the helm. She needs enough gas cells and open sky over every tile of her deck, so walk her out from under any roof first: on the ground she creeps along over clear ground only.
 5. At the helm, choose **Cast off**, pick a speed and steer north, east, south or west. Choose **Hold position** to stop her where she is.
@@ -193,6 +193,26 @@ She can also fly higher: build a floor in the open air, stand a ladder on it up 
 | Goldbeater's skin cell | Use 6 sausage casings on a folded gas cell | Holds up 15; each hole costs 5 |
 
 Frames are laid like planks, and one deck can mix them. A wooden deck under a burning gas cell catches fire.
+
+### Lifting gas
+
+A gas cell takes 60 units of gas and lifts in proportion to how full it is. Hydrogen lifts the most but burns; helium lifts a tenth less and never catches fire. A cell holds one gas: take it down with a wrench to let the gas out before switching. All of these are crafted in the **production** category.
+
+| Gas works | How it works |
+| --- | --- |
+| Hydrogen generator (wood) | Pour in sulphuric or hydrochloric acid and drop in iron or zinc. It gives off hydrogen until one runs out |
+| Electrolysis tank (steel) | Cable it to power and give it water: pour it in, pipe it in, or set it beside running water. It splits the water into hydrogen and half as much oxygen |
+| Water-gas retort (steel) | Stoke it with coal or charcoal and give it water. It gives off hydrogen |
+| Helium separator (steel) | Set it beside a working oil well and cable it to power. It slowly draws off helium |
+
+| Storage | How it works |
+| --- | --- |
+| Gasbag (leather) | Use it on a gas works or gas holder to fill it with 60 units, and on a gas cell, gas holder or gas compressor to empty it |
+| Gas cylinder (steel) | Holds 240 units. Only a powered gas compressor fills it |
+| Gas compressor (steel) | Put a cylinder in and cable it to power. It fills the cylinder from a gas holder beside it, from gasbags emptied into it, or from gas piped to it |
+| Gas holder (steel) | Holds 3000 units of one gas. Empty gasbags and cylinders into it or pipe gas in. Couple a **gas hose** to it, then use the hose on gas cells within six tiles, even one level up |
+
+Gas works, gas holders and compressors join [factory pipe networks](Guide_to_Factory_Automation.md) like other machines. Hold a bag or cylinder of oxygen to someone's face to ease their breathing.
 
 ### Airship damage and bombing
 
