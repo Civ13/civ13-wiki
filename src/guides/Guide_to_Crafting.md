@@ -311,10 +311,10 @@ See [Harvesting dead animals](Guide_to_Ranching.md#harvesting-dead-animals) for 
 <tr>
 <td><img src="../images/animal_fat.png"></td>
 <td><b>Animal fat</b></td>
-<td>Harvesting gives at most two fat portions where the animal's fat rules allow it, through either intent. Animal fat is used to produce <b>lard</b>, which, in turn, is used to produce <b>fat oil</b>.<br>
+<td>How much fat an animal gives depends on the animal, through either intent: a wolf or fox gives 1 piece, a sheep, goat or deer 2, a cow, pig or elk 3, a bison, camel or bear 4, a polar bear 5 and a mammoth 8. Young animals give little or none, and a skilled hunter cuts more. Animal fat is used to produce <b>lard</b>, which, in turn, is used to produce <b>fat oil</b>.<br>
 To make <b>lard</b>, take animal fat and click any vessel like barrels, buckets or cooking pots with it. 1 animal fat = 10u of lard.<br>
 To make <b>fat oil</b>, put lard into a cooking pot (a copper one, for instance) and cook it on a campfire or an oven (like boiling water). Every 2u of lard will produce 1u of fat oil.<br>
-Fat oil and lard are used in <b><a href="Guide_to_Cooking.md">cooking</a></b> and <b><a href="../Miscellaneous_Crafting.md">manufacturing</a></b>. Fat oil can also be used as fuel for lanterns and the hot bulb engine.
+Fat oil and lard are used in <b><a href="Guide_to_Cooking.md">cooking</a></b> and <b><a href="../Miscellaneous_Crafting.md">manufacturing</a></b>. Animal fat, lard and fat oil all burn in <b><a href="../Starter_Guide.md#night-time">torches and lamps</a></b>; 1u of fat oil gives as much light as 2u of lard. Fat oil is also fuel for the hot bulb engine. Raw fat spoils quickly, lard and fat oil keep.
 </td>
 </tr>
 </tbody>
