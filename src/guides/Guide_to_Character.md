@@ -22,6 +22,8 @@ The "standard" maximum level of a skill is 2.5, but it may be higher with the ex
 
 Skills are trained by various activities and by reading **scientific literature** on respective subjects (skill books - slates, scrolls and books, depending on the epoch). Strength, dexterity and stamina can also be trained deliberately with [exercise equipment](Guide_to_Exercise.md). The literature written by a character with a higher skill level grants a larger skill boost to the reader. **You can only read literature written by others, not by yourself!**
 
+**In game, open the IC tab and click Skills Guide.** It lists every skill with your current level, what the skill does, what raises it and the next recipes it will let you make. Where knowledge comes from books it also lists each discipline and the next mastery milestone. The Status tab shows the same levels at a glance.
+
 Farming and hunting raise the yield of renewable food. Every 0.01 above 1.0 adds 1% more, so a skill of 1.5 gives half again as much and 2.0 or higher gives double. A skill at or below 1.0 never lowers the yield, and a bad mood lowers the bonus along with the skill.
 
 On persistent worlds, variety and company teach more than repetition:
