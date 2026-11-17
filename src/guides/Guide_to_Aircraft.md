@@ -160,15 +160,16 @@ A plane on the ground can be towed like a car. Park it in line behind a truck or
 
 ## Crewed airships
 
-An airship is a deck you build yourself in the open air, held up by gas cells and steered from a helm. A crew walks around on it while it flies. It flies in the open air above the ground, so only where planes can fly. The planks, gas cells and helm are crafted in the **vehicle parts** category.
+An airship is a deck you build yourself, on the ground or in the open air, held up by gas cells and steered from a helm. A crew walks around on it while it flies. It flies in the open air above the ground, so only where planes can fly. The planks, gas cells and helm are crafted in the **vehicle parts** category.
 
 ![An airship deck of wooden planks with a helm at the stern and two gas cells over it](../images/civ13-airship-deck.png)
 
-1. Stand a **wooden ladder** on the ground under open air and climb it.
-2. From the top of the ladder, use **airship planks** on the open air beside you. Each bundle lays one tile of deck. Keep laying planks edge to edge from the deck you already have. A deck can be up to 60 tiles.
-3. Use **gas cells** on the deck to hang them, one per tile. Each cell holds up 12: every tile of deck counts as 1 and so does every person aboard.
-4. Set up the **airship helm** on the deck, facing the way you want the bow to point, and use it to commission the deck as an airship and name her.
+1. Use **airship planks** on clear, dry, level ground beside you, with nothing built or standing on it. Each bundle lays one tile of deck. Keep laying planks edge to edge from the deck you already have. A deck can be up to 60 tiles. You can also start the deck in the air from the top of a **wooden ladder** stood on the ground under open air.
+2. Use **gas cells** on the deck to hang them, one per tile. Each cell holds up 12: every tile of deck counts as 1 and so does every person aboard.
+3. Set up the **airship helm** on the deck, facing the way you want the bow to point, and use it to commission the deck as an airship and name her.
+4. On the ground, choose **Lift off** at the helm. She needs enough gas cells and open sky over every tile of her deck, so walk her out from under any roof first: on the ground she creeps along over clear ground only.
 5. At the helm, choose **Cast off**, pick a speed and steer north, east, south or west. Choose **Hold position** to stop her where she is.
+6. To come down, hold position and choose **Land**. Every tile under her must be clear, level ground with no tree, building or water. She sinks gently a level at a time.
 
 | Condition | Effect |
 | --- | --- |
@@ -178,7 +179,7 @@ An airship is a deck you build yourself in the open air, held up by gas cells an
 | Upper floors, ladders and the map edge | She stops in front of them |
 | The edge of the deck | Step off and you fall to the ground |
 
-She can also fly higher: build a floor in the open air, stand a ladder on it up to the open air above, and lay her deck from the top of that ladder. However high she flies, the crew sees the ground around her (or any floor or roof built in between), and her shadow falls there. From the deck you can shoot, throw and drop things onto the ground below by aiming at it through the open air, as from a [pedal airship](Guide_to_Crafting.md#fighting-from-the-basket). Board her from a ladder stood up beside her deck. To add planks or take a gas cell down with a wrench, hold position first, then use **Refit the deck** at the helm. **Strike the airship** turns her back into a deck that hangs where it is. An airship saved in flight comes back holding her position.
+She can also fly higher: build a floor in the open air, stand a ladder on it up to the open air above, and lay her deck from the top of that ladder. However high she flies, the crew sees the ground around her (or any floor or roof built in between), and her shadow falls there. From the deck you can shoot, throw and drop things onto the ground below by aiming at it through the open air, as from a [pedal airship](Guide_to_Crafting.md#fighting-from-the-basket). Board her from a ladder stood up beside her deck. To add planks or take a gas cell down with a wrench, hold position first, then use **Refit the deck** at the helm. **Strike the airship** turns her back into a deck that stays where it is. An airship saved in flight comes back holding her position.
 
 ### Airship damage and bombing
 
@@ -186,8 +187,10 @@ She can also fly higher: build a floor in the open air, stand a ladder on it up 
 | --- | --- |
 | Shot from the ground under her deck | About half of shots passing under her strike her when she flies one level up, and half as many for each level higher. A floor or roof between the shooter and her deck shields her. Some hit whoever stands on that tile; most hole the gas cell over it, and each hole costs a quarter of its lift |
 | Fire arrow, fire bolt or incendiary shot | The cell bursts into flame, lifts nothing more, and sets anyone under it alight |
-| Less lift than she needs | She stops and holds her position until cells are patched or replaced, or people get off |
-| Less than half the lift she needs | She breaks up and falls. Everyone and everything aboard drops to the ground, or to a floor in between, and is hurt, worse from higher up, and the deck, cells and helm are wrecked |
+| Less lift than she needs | She stops and sinks a level at a time until cells are patched or replaced, people get off, or she comes to rest on the ground, a floor or a roof |
+| Sinking onto a few trees | Her weight flattens trees under up to a quarter of her deck, but the branches tear the gas cells over them |
+| Sinking onto a forest | Trees under more than a quarter of her deck catch her in the canopy and tear her cells; she hangs there, and breaks up if that leaves her under half her lift |
+| Less than half the lift she needs | She breaks up and falls. Everyone and everything aboard drops to the ground, or to a floor in between, and is hurt, worse from higher up, and the deck, cells and helm are wrecked. Anyone falling onto a tree comes down beside its trunk a little less hurt |
 
 Use **cloth** on a holed gas cell to patch one hole; this works in flight. A burnt cell must be cut away with a wrench and replaced. Your own crew's shots go down, never up into your cells.
 
