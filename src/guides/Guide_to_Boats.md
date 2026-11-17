@@ -563,6 +563,20 @@ A hull you built takes in water through her seams once she is big enough, and so
 - **What it does:** once the bilge is more than damp the water is extra weight for her sails, oars and engines to push, as if her hull were bigger. A boat that made half ahead dry may only make slow ahead knee deep, and she is harder to push off a beach. Water from her seams stops rising when she is awash, half full: neglect makes her wallow but does not sink her. Holes do.
 - **Bailing:** stand on her deck with an **empty bucket** in your hand and click one of her floors. Each bucketful takes three seconds and goes over the side. You keep bailing until the bilge is dry, you walk away or you put the bucket down, and you can bail while she sails. Several people can bail at once. A bucket with anything in it has to be emptied first.
 
+### Bilge pumps
+
+A bucket only goes so far. The pumps that keep a cellar dry also pump a hull's bilge when they are built on her deck. See [floods](Guide_to_Floods.md) for what each one costs and the research it needs.
+
+| Pump | What it does aboard |
+| --- | --- |
+| **Lever pump** | Click it to work the handle. Each three-second stroke lifts two bucketfuls, twice what a bucket does, and you keep pumping until the bilge is dry or you stop. One person at the pump keeps ahead of one hole. |
+| **Steam mine pump** | Feed it coal, charcoal or wood and start it. It lifts 80 bucketfuls a minute while the fire burns, enough to stay ahead of three holes. |
+| **Sump pump** | Lifts 40 bucketfuls a minute on cable power or its battery. It starts by itself when there is water in the bilge and stops when she is dry. |
+
+- A pump works from anywhere on her deck, and you can pump while she sails.
+- The steam and sump pumps only run, and only burn fuel or battery, while someone is aboard or she is under way. A boat left at anchor is as you left her.
+- The tiller counts the pumps on her deck and how many are working.
+
 ### Caulking
 
 A wooden boat or ship keeps the sea out with **tarred oakum** driven into the seams between her planks. Sailing slowly works it loose, and the looser her seams, the faster the bilge fills.
