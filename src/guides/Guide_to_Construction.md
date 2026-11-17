@@ -982,9 +982,9 @@ A sound four-storey house therefore starts with a stone floor, has stone walls o
 #### Getting between storeys
 
 - **Climb up:** face a wall with a free hand and use **IC > Climb Up**, or click the wall with grab intent. You climb onto the floor above it.
-- **Climb down:** stand at the edge of an upper floor with a free hand and click the open air next to you with grab intent, or use **IC > Climb Down**. After a few seconds you are on the ground below that spot. It only works for a single storey onto clear ground. Walking off the edge instead is a hard fall.
+- **Climb down:** stand at the edge of an upper floor with a free hand and click the open air next to you with grab intent, or use **IC > Climb Down**. After a few seconds you are on the ground below that spot. It only works for a single storey onto clear ground or shallow water. Walking off the edge instead is a hard fall.
 - **Wooden ladder:** craft a wooden ladder (4 wood) and use it on the open air next to an upper floor, or on the ground under open space. It stands between the two levels: click either end to climb, and walking onto the top end doesn't make you fall. Click an end with grab intent and a free hand to take the ladder down again.
-- **Stairs:** see Stairs under [Floors](#floors) below. Leave the space above them open.
+- **Stairs:** see Stairs under [Floors](#floors) below. Leave the space above them open. You can build them from below, or from the upper floor by facing an opening in it.
 - **Trapdoors and hatches:** a wooden trapdoor (4 wood, Primitive Construction) or an iron hatch (6 iron, Iron Smithing) closes an opening between levels: the open air over stairs or a ladder, a hole in an upper floor, or a dug hole. Stand beside the opening and use it there, then choose whether its inside is above or below. Shut, it is floor: you can walk across it, nothing falls through, and nobody climbs the stairs or ladder through it. Open, anything lying on it drops through. It won't open while someone stands on it. It takes the same locks, latches, bar brackets, bars and slide bolts as a door (see [Doors](#doors)), with above and below as its two sides. From below, work it from the ladder or stairs under it: click them to push it open, and use keys, locks, bars and tools on them to reach it. It comes out again with a hammer (wooden) or wrench (iron) from its inside.
 - **Looking down:** from an upper floor or a roof you can see the level below through open air, with whoever and whatever is there. It is drawn darker than your own level, and darker again for each level further down, so you can tell what is beside you from what is below you. Nothing below can be clicked from above; clicking open air still means the open air.
 - **Looking up:** with open air straight above you (open sky over a built-up area, a stairwell, a hole in a roof or the foot of a ladder), use **IC > Look Up** or **Alt+click** the up arrow to see the level above: who stands on the roofs and walls around you. A roof or a floor over your head blocks the view. Move, or click the label at the top of the screen, to look back down.
@@ -1343,8 +1343,19 @@ Stairs lead up to the storey above when the space right above them is left
 open (no floor or roof over them) and there is a floor at the top to step onto.
 Walk onto the stairs in the direction you faced when you built them, or click
 them, to climb up; you come out on the floor just past the stairwell. To come
-down, walk from the upper floor onto the open space over the stairs. Stairs
+down, walk from the upper floor onto the open space over the stairs: it shows
+the top step and rails, so you can tell it from a drop. Stairs
 under a roof or ceiling are only decoration.
+
+<img src="../images/stairwell_top.png" alt="The open air over stairs, seen from the floor above, shows the top step, rails and arrows pointing down">
+
+**Building stairs down from an upper floor:** take up a floor tile with a
+hammer to make an opening, stand beside it on the floor and face it, then build
+the stairs. They go on the ground under the opening and lead back up to the tile
+you stand on. The ground under the opening must be clear: take up any floor
+there with a hammer first. It only works one storey down, onto ground or onto a
+floor that is held up from below. You can also climb down first and build the
+stairs from below, facing the side you want to come out on.
 
 <table>
 <tbody>
