@@ -211,7 +211,29 @@ If you are alone and want company, light a campfire or fire pit under the open s
 
 ## If you die
 
-**Death wipes everything your character knew.** Your next character starts with no chapters and has to study again, so keep your books somewhere safe. If you had a bed of your own, your next character starts beside it; otherwise you start again on the mainland (see [Your home land](Guide_to_Travel.md#your-home-land)).
+**Death clears what your character knew**, but for one real day it can be recovered. Your next character keeps the subjects, scholarship and body skills of the last one if it starts within 150 tiles of where you died, in one of two ways:
+
+- **With your faction**, beside its recruitment station. Choose the faction when the game asks where to start.
+- **At your own bed**, if it had been your bed for at least a day before you died. A bed you claim afterwards does not count, and a destroyed bed gives no cover.
+
+Start anywhere else, in another land, or more than a day later, and the new character knows nothing, so keep your books somewhere safe. The message you get when you die, and the starting place question, tell you what you would keep.
+
+Coming back has a cost that depends on how you died:
+
+| How you died | What the next character loses |
+| --- | --- |
+| Starved, thirst, cold, heat, illness or poison | A fifth of what each body skill had gained |
+| Wounds, an animal, a fall | A tenth of what each body skill had gained |
+| Drowned or suffocated | A fifth of scholarship |
+| Burned | A fifth of what crafting and dexterity had gained |
+| Killed by another player | The three subjects learned last and a fifth of scholarship |
+| Body destroyed, or by your own hand | Everything |
+
+A second return within a day of the first costs double.
+
+After any death your next character is **shaken**: for 30 minutes of play it deals half damage to other people. Animals are not affected, so you can still hunt. The Status tab shows the time left.
+
+If you had a bed of your own, your next character starts beside it; otherwise you start again on the mainland (see [Your home land](Guide_to_Travel.md#your-home-land)).
 
 ## First-day checklist
 

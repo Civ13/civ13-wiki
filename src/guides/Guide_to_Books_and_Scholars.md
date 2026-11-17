@@ -38,7 +38,7 @@ You can stop studying at any time: walk away, put the book down or get interrupt
 
 Using a research book in hand opens its window. Alt-click does the same for a book lying next to you. Its chapters are sorted for you: first the ones you can study now (**Ready to study**), then the ones whose prerequisites you still need (**Needs groundwork**), then the ones you already know (**Known**). Each row shows the age, the discipline, how long studying takes and, when it is locked, which chapters to learn first. Type in **Find a chapter** to search by chapter, recipe or discipline, use the buttons under it to show one group, and click a row to see its groundwork and the recipes it teaches. Examining a book shows the same three groups. Recipe compendiums sort their chapters the same way.
 
-**Death wipes everything you know**, both chapters and scholarship. A new character starts with nothing, so keep your books safe and your scholars alive.
+**Death clears everything you know**, both chapters and scholarship. For one day a new character can take most of it back by starting near where you died, beside your faction's recruitment station or at a bed you had held for a day (see [If you die](Guide_to_Your_First_Day.md#if-you-die)). Otherwise a new character starts with nothing, so keep your books safe and your scholars alive.
 
 ## Research benches
 
