@@ -120,7 +120,7 @@ Hitch a **coal tender** anywhere in the train for long routes. Whenever the cham
 ## Building a train
 
 1. Place the locomotive on the rail, facing the way you want to go.
-2. Place each wagon on the rail behind it, facing the same way as the engine.
+2. Place each wagon on the rail behind it. Wagons, cars and engines can face either way along the track: a car coupled in back to front keeps facing the way it does and simply runs tail first.
 3. Right-click a wagon and choose **Hitch** to couple it to the wagon in front of it, or to the wagon behind it if there is nothing in front. Use **Hitch** again to uncouple it. Hitched wagons follow the one ahead.
 
 The locomotive doesn't have to be at the front. Hitched in behind wagons it **pushes** them, and in the middle of a train it drives the wagons on both sides of it.
@@ -132,7 +132,7 @@ The locomotive doesn't have to be at the front. Hitched in behind wagons it **pu
 - **Start the engine** or **Stop the engine**. It needs fuel to start.
 - **Throttle up** and **Throttle down** move between notches 0 and 3. Each notch is a third of the engine's top speed. The train gathers speed over a few tiles rather than jumping to it.
 - **Brake** closes the throttle and brakes. Closing the throttle without braking lets the train coast.
-- **Reverser** sets forward or backward, and only works while the train is standing. Backing up moves the train with its last wagon leading. Set the levers for the way the back of the train will go.
+- **Reverser** sets forward or backward, and only works while the train is standing. Forward is always the way **that engine** faces, wherever it is in the train. Backing up moves the train with the far end leading. Set the levers for the way that end of the train will go.
 
 Examine the locomotive to see its notch, reverser, speed and whether the train is too heavy for it.
 
@@ -142,6 +142,7 @@ Examine the locomotive to see its notch, reverser, speed and whether the train i
 - Every wagon and car adds weight, and so does what it carries: people, cargo, stored items and furniture. A locomotive pulls its own rated load at full speed. Over that, the train is slower, and a train far too heavy for its engine won't start at all: the wheels just spin.
 - **Two engines** make a heavier train fast again. Hitch a second running locomotive anywhere in the train, at the front, in the middle or pushing at the back. It adds its pull and burns its own fuel. The engine whose throttle was opened first drives the train; the other's controls take over once it has stopped.
 - **What leads the train sets its top speed.** A locomotive running forward at the head gets full speed. A locomotive running backward gets three quarters. Wagons pushed ahead of the engine, forward or backing up, get half, unless a running locomotive is at their head.
+- **An engine at each end**, each facing out, lets a train run at full speed both ways without turning anything round. Drive from the engine that faces the way you want to go.
 - **Trains don't stop on the spot.** Braking takes a couple of tiles for a short train, and many more for a long, heavy one. Coasting takes longer still. Start braking well before a station or a junction.
 
 ### Hitting things
@@ -174,7 +175,7 @@ Platform cars are full-size railway carriages: **three tiles wide and four tiles
 
 1. Carry or drag the kit onto the track. It needs **four tiles of straight track**: the tile under the kit and the three behind it.
 2. Leave a **clear tile on both sides** of those four tiles for the deck.
-3. Stand facing the way the car should point (towards the locomotive) and hit the kit with a **hammer**.
+3. Stand facing the way the car should point and hit the kit with a **hammer**. A car can face either way in a train.
 
 To couple the car, right-click its front end and choose **Hitch** to join the car ahead, or its rear end to join the car behind. The middle of a car can't be unhitched.
 
@@ -235,7 +236,7 @@ A rail warehouse stores cars and locomotives off the line, together with everyth
 1. **Build the office** (15 iron; **Rail & Steam** node, or industrial research **101**) facing the track, with **one tile between the office and the rails**. The track running past it, **six tiles each way**, is the warehouse bay (13 tiles, room for three platform cars and a locomotive). Use a wrench on an empty office to turn it. Build walls and a roof around the bay if you like, but leave the track open at both ends and keep a clear tile either side of the rails.
 2. **Drive the train in** and stop it with the cars you want to put away inside the bay. Get everyone off them.
 3. **Use the office.** Choose a car to put away, or **Put away the whole train**. Cars always come off the **back** of the train: whatever is standing on a car goes with it, crates and their contents included.
-4. **Couple a car back on** from the same menu. It rolls onto the track behind the train in the bay and is hitched to it. If the bay is empty, it rolls to the far end.
+4. **Couple a car back on** from the same menu. It rolls onto the track behind the train in the bay, facing the way the train heads, and is hitched to it. If the bay is empty, it rolls to the far end.
 
 The office holds 8 cars or locomotives. It won't take a moving train, a car that sticks out of the bay, a car with people aboard, or a railway gun car with its outriggers down.
 
