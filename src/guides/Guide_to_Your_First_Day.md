@@ -174,9 +174,9 @@ A shut crate, chest or closet tips its things onto the floor when you open it. I
 
 ### The storage window
 
-You can use the storage window instead of the strip: in **Character Setup > Settings**, set **Bags and containers open in** to **Storage window**, or use **Storage Window** in the OOC tab. Use either again to switch back.
+Click a bag or container again while its strip is showing to open the storage window instead. To open the window every time, set **Bags and containers open in** to **Storage window** in **Character Setup > Settings**, or use **Storage Window** in the OOC tab. Use either again to switch back.
 
-With the window on, opening any bag, basket, chest or other container shows the storage window. The left side lists **you**: both hands, the bags and belt you wear, and your pockets. The right side lists what is **nearby**: containers on the tiles around you, bags lying on the floor, the bags of anyone unconscious or tied up next to you, and loose things on the floor.
+The storage window shows every bag and container you can reach at once. The left side lists **you**: both hands, the bags and belt you wear, and your pockets. The right side lists what is **nearby**: containers on the tiles around you, bags lying on the floor, the bags of anyone unconscious or tied up next to you, and loose things on the floor.
 
 - **Drag** a thing onto a container to move it there. Or click several things to select them, then press **Move here** on the container they should go to. Enter moves your selection to the container you used last.
 - **Take all** puts everything from a nearby container away: into the first bag you wear that has room, then your pockets, then your hands.
