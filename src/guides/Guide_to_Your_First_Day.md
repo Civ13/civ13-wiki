@@ -141,7 +141,7 @@ To move a bigger load, build a **travois** (Primitive Construction, 8 logs, soft
 
 ## Storing things
 
-You don't need Cooperage to keep things safe at home. Click one of these containers with an empty hand to open it in the storage window, or click it with an item to put the item straight in.
+You don't need Cooperage to keep things safe at home. Click one of these containers with an empty hand to open it, or click it with an item to put the item straight in.
 
 | Container | Chapter | Made from | Holds | Good for |
 | --- | --- | --- | --- | --- |
@@ -152,7 +152,7 @@ You don't need Cooperage to keep things safe at home. Click one of these contain
 
 To dig a storage pit, hold a shovel or digging stick in one hand and use the pit lining on bare ground next to you (grass, dirt, sand or snow). A pit can't be moved. Fill it back in with a shovel to remove it, and whatever was inside comes out.
 
-**Racks** hold one kind of thing each and show what hangs on them. They work in the storage window like any other container, but take no lock.
+**Racks** hold one kind of thing each and show what hangs on them. They open like any other container, but take no lock.
 
 | Rack | Chapter | Made from | Holds |
 | --- | --- | --- | --- |
@@ -164,9 +164,19 @@ To dig a storage pit, hold a shovel or digging stick in one hand and use the pit
 
 Right-click a container and choose **Dump Out**, or **Alt-click** it, to tip everything onto the floor at once. A broken container spills what it held.
 
+### The storage strip
+
+Opening a bag, basket or other container shows its things in a row of slots along the bottom of the screen, the classic storage strip. Click a thing to take it into your hand, drag it onto a hand, a slot or another bag, or click the strip with something in your hand to put it in. Taking something out takes a moment: bigger things take longer, and taking from someone else's bags is slower.
+
+You always know what is in your own worn gear, and whatever you or your faction put into a container. Anything else shows as a grey **?** tile of its size. Stay put with the strip open and you look through the container one thing at a time, and each **?** turns into the real thing once you have seen it.
+
+A shut crate, chest or closet tips its things onto the floor when you open it. If someone else filled it, you search it first, which takes as long as looking at each thing you haven't seen.
+
 ### The storage window
 
-Opening any bag, basket, chest or other container shows the storage window. The left side lists **you**: both hands, the bags and belt you wear, and your pockets. The right side lists what is **nearby**: containers on the tiles around you, bags lying on the floor, the bags of anyone unconscious or tied up next to you, and loose things on the floor.
+You can use the storage window instead of the strip: in **Character Setup > Settings**, set **Bags and containers open in** to **Storage window**, or use **Storage Window** in the OOC tab. Use either again to switch back.
+
+With the window on, opening any bag, basket, chest or other container shows the storage window. The left side lists **you**: both hands, the bags and belt you wear, and your pockets. The right side lists what is **nearby**: containers on the tiles around you, bags lying on the floor, the bags of anyone unconscious or tied up next to you, and loose things on the floor.
 
 - **Drag** a thing onto a container to move it there. Or click several things to select them, then press **Move here** on the container they should go to. Enter moves your selection to the container you used last.
 - **Take all** puts everything from a nearby container away: into the first bag you wear that has room, then your pockets, then your hands.
@@ -179,11 +189,9 @@ Moving things takes a moment. Bigger things take longer, things going to or from
 
 A container that is too small or too full refuses what you drop on it and says why. A locked container shows nothing of what is inside.
 
-**Crates, chests and closets.** Click a crate, chest, closet, cabinet or fridge to open its lid and see it in the storage window: nothing spills out, and closing the lid again leaves the floor alone. Right-click one and choose **Gather** to pack the loose things on its tile into it, or **Dump Out** to tip everything out. A crate holds a set number of things, whatever their size. Mailboxes, coffins, body bags, sandbags and dumpsters work as before.
+**Crates, chests and closets.** With the window on, click a crate, chest, closet, cabinet or fridge to open its lid and see it in the storage window: nothing spills out, and closing the lid again leaves the floor alone. Right-click one and choose **Gather** to pack the loose things on its tile into it, or **Dump Out** to tip everything out. A crate holds a set number of things, whatever their size. Mailboxes, coffins, body bags, sandbags and dumpsters work as before.
 
 **Why bother?** A room with a basket, jar or chest and little left on the floor counts as a tidy room toward [home comfort](Guide_to_Homes.md). A basket, wooden chest or crate that catches fire burns away with everything flammable inside; metal and stone things drop out. Clay jars don't burn.
-
-If you prefer the old storage strip along the bottom of the screen, use **Storage Window** in the OOC tab. Use it again to switch back.
 
 ## Sleeping and logging off
 
