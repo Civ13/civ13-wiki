@@ -108,7 +108,7 @@ Ships can't pass a bridge. To take a span down again, clear the track, road, veh
 
 ## Fuel
 
-Click the locomotive with fuel to load its combustion chamber, which holds 100 units.
+Click the locomotive with fuel to load its combustion chamber, which holds 100 units. The big steam engines are fired from the firebox door in the cab (see [Cab crew](#cab-crew)).
 
 | Fuel | Units per piece |
 | --- | --- |
@@ -142,7 +142,7 @@ A tender carries the coal and water an engine can't. It must be coupled **direct
 - **Coal tender**: the small one-tile wagon. Its fuel is whatever coal and wood is in its storage, and it carries a little water.
 - **Tender**: built from a **tender kit** on four tiles of straight track, like a platform car. It has a plate at the front to stand on, a coal bunker and a water tank, and holds as much as fifteen fireboxes of fuel and ten engine tanks of water. Click any part of it with coal, wood or a bucket of water to load it. Examine it to see how full it is.
 
-**Nothing feeds the fire for you.** Click the engine with a **shovel** in your hand to throw a load of fuel from the tender into the firebox. Each stroke is about two pieces of coal and you can shovel about once a second, on a moving train too. That is the fireman's job. You can still put fuel in by hand.
+**Nothing feeds the fire for you.** Click the engine with a **shovel** in your hand, standing at the firebox door on the big engines, to throw a load of fuel from the tender into the firebox. Each stroke is about two pieces of coal and you can shovel about once a second, on a moving train too. That is the fireman's job. You can still put fuel in by hand.
 
 The tender's **water** runs to the engine by itself.
 
@@ -185,7 +185,7 @@ Right-click, **Hitch** still works too.
 
 ## Driving
 
-**Click the locomotive** to open its controls:
+**Click the locomotive** to open its controls. On the big steam engines the controls are shared between three places in the cab (see [Cab crew](#cab-crew)).
 
 - **Start the engine** or **Stop the engine**. On a steam locomotive these are **Light the fire** and **Drop the fire**. It needs fuel to start, and a steam locomotive needs water in its boiler.
 - **Injector on** or **Injector off**, on steam locomotives. See [Steam, water and the boiler](#steam-water-and-the-boiler).
@@ -291,13 +291,40 @@ Heavy locomotives are full-size engines, three tiles wide and four long. They ar
 | Heavy armored locomotive kit | 80 steel | **Field Artillery** node, or industrial **101** and military **109** | Coal, wood planks, branches (holds 300) | The strongest puller and the slowest. Bullets do nothing to it, and its cab doors stop bullets from outside. |
 
 - **Assemble** the kit like a platform car: put it on straight track with three more straight tiles behind it and a clear tile either side, face the way the engine should point and hit it with a **hammer**.
-- **Drive from the cab.** Step into the cab, or stand beside it, and click the locomotive to open the controls. The rest of the body is solid, apart from the diesel's walkways.
-- **Fuel** goes in from anywhere beside the engine. Click it with coal or wood for the steam engines, or with a container of diesel for the diesel. With a tender coupled next to a steam engine, click the engine with a shovel to fire it from the tender.
+- **Drive from the cab.** The rest of the body is solid, apart from the diesel's walkways. Step into the diesel's cab, or stand beside it, and click the locomotive to open the controls. The steam engines have a [cab crew](#cab-crew).
+- **Fuel.** Click the diesel with a container of diesel from anywhere beside it. The steam engines are fired from the firebox door in the cab. Water goes into a steam engine from anywhere beside it.
 - **Couple** wagons and cars to it with **Hitch**, as with any locomotive. It can pull from the front, push from the back or help another engine.
 - **Keep clear of the line.** A heavy locomotive is as wide as a platform car, and it hits anyone standing beside the rails as well as on them.
 - **Damage.** Explosions wear the engine and its body down. A wrecked engine dies and a wrecked body section stops the train until it is welded. A **welding tool** repairs both.
 
 A heavy locomotive can't be packed back into a kit, and it is too long for a rail warehouse.
+
+### Cab crew
+
+The cab of a heavy steam, heavy armored or main-line locomotive is three tiles wide, and each tile is a place of work. Click the locomotive from the tile you stand on to work what is there.
+
+| Where you stand | Looking forward | What you work |
+| --- | --- | --- |
+| **Driver's stand** | Right side of the cab | Throttle, brake and reverser. |
+| **Firebox door** | Middle of the cab | **Light the fire** and **Drop the fire**. Coal and wood go in here by hand, the shovel fires from the tender here, and a new fusible plug is fitted here. |
+| **Fireman's side** | Left side of the cab | The injector. |
+
+A driver and a fireman run the engine properly: one keeps a hand on the regulator and the brake while the other feeds the fire and watches the water. One person can do it all, but has to step away from the brake to shovel. The small steam locomotive and the diesel are still worked from one place.
+
+### Main-line steam locomotive
+
+The main-line steam locomotive is the big express engine: six tiles long, faster than any other steam engine and able to pull twice the train of the heavy steam locomotive.
+
+![A green main-line steam locomotive with its tender and a coach seen from above, the engine shown from both ends, and a close view of its cab with the fireman's injector wheels on the left, the firebox door in the middle and the driver's regulator on the right](../images/civ13-mainline-locomotive.png)
+
+| Kit | Cost | Research | Fuel |
+| --- | --- | --- | --- |
+| Main-line steam locomotive kit | 90 steel | **Rail & Steam** node, or industrial research **101** | Coal, wood planks, branches (firebox holds 400) |
+
+- **Assemble** it like the heavy locomotives, on **six** tiles of straight track. The cab is the last section.
+- **It needs a tender.** It has no coal bunker and almost no water of its own. Build a [tender](#tenders-and-water-stops) behind it and couple the two, so the tender's plate meets the back of the cab. The tender's water runs to the engine, and the fireman at the firebox door shovels from the tender.
+- **Raising steam** from cold takes about six minutes on a good fire, so keep the fire in between runs.
+- It has the same [cab crew](#cab-crew) as the heavy steam engines, takes damage and is repaired the same way, and can't be packed back into a kit or stored in a rail warehouse.
 
 ## Rail warehouse
 
