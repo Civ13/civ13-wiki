@@ -39,7 +39,7 @@ Higher **dexterity** makes knapping faster, and higher **crafting** skill makes 
 - **Arrows and bolts.** Use flint arrowheads on an arrow shaft or a bolt. One nodule makes three arrowheads, so knapping gets you more arrows than attaching sharpened flints one at a time. The fletcher's bench accepts flint arrowheads too.
 - **Flint spear.** Use a flint spearhead on a branch to make a flint spear.
 - <img src="../images/Flint_sickle.png"> **Flint sickle.** Use sickle teeth on a branch. It cuts like a flint knife, and when you harvest a ripe crop with it, it also reaps up to two touching ripe crops of the same kind.
-- **Whetstone.** A flint still sharpens blades and tools as before.
+- **Whetstone.** Use a worn blade or tool on a flint to sharpen it back to full condition. Each sharpening wears it down a little, so it can be sharpened less over its life, but sharpening never breaks it. When a tool is worn down too far, the flint refuses it: keep using it until it gives out, then make a new one.
 - <img src="../images/Hand_axe.png"> **Hand axe.** An all-purpose flint tool. It chops trees (slowly), cuts logs into planks like a hatchet, and butchers and skins animals.
 - <img src="../images/Hide_scraper.png"> **Hide scraper.** Keep it in either hand while you skin an animal and you save one extra piece of hide or pelt.
 
