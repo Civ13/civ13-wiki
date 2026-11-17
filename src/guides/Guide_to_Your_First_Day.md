@@ -156,7 +156,7 @@ To move a bigger load, build a **travois** (Primitive Construction, 8 logs, soft
 
 ## Storing things
 
-You don't need Cooperage to keep things safe at home. Click one of these containers with an empty hand to open it, or click it with an item to put the item straight in.
+You don't need Cooperage to keep things safe at home. Click one of these containers with an empty hand to open it, or click it with an item to put the item straight in. Examine a container, or a bag you carry, to read how full it is.
 
 | Container | Chapter | Made from | Holds | Good for |
 | --- | --- | --- | --- | --- |

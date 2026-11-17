@@ -131,7 +131,7 @@ Some particulars about smelting certain ores and working with certain metals.
 #### [Bronze](../Full_Crafting_List.md#bronze)
 <img src="../images/sheet_bronze.png">
 
-Bronze is an alloy of tin and copper. You need to melt **equal amounts**  (1:1 ratio) of tin and copper ore in the same jug or pot to produce bronze. For example, 1 unit of tin and 1 unit of copper make 1 unit of bronze.
+Bronze is an alloy of tin and copper. You need to melt **equal amounts**  (1:1 ratio) of tin and copper ore in the same jug or pot to produce bronze. For example, 1 unit of tin and 1 unit of copper make 1 unit of bronze. If you load more of one metal than the other, the spare stays in the vessel unmelted: pour the bronze out and fire the vessel again to melt it.
 
 #### [Brass](../Full_Crafting_List.md#brass)
 <img src="../images/sheet_brass.png">

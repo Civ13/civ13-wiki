@@ -241,6 +241,12 @@ break keeps holding the bone after the bleeding stops.
 Lost blood comes back twice as fast while the patient is well fed and
 well watered, so give food and clean water after any big bleed.
 
+Blood only starts to come back once every wound has stopped bleeding.
+Deep cuts do not close on their own, so bandage them all; the game
+reminds you while you are short of blood and still bleeding. Blood given
+by syringe must match the patient's blood type. The wrong type sickens
+them instead of helping, and they are told so.
+
 #### Stimulants, pain relievers and cleansing agents.
 
 **Tea:** Tea heals toxins and helps fight drowsiness and
