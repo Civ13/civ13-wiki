@@ -175,7 +175,7 @@ A shut crate, chest or closet tips its things onto the floor when you open it. I
 
 ### The storage window
 
-Double-click a bag or container to open the storage window instead. To open the window every time, set **Bags and containers open in** to **Storage window** in **Character Setup > Settings**, or use **Storage Window** in the OOC tab. Use either again to switch back.
+Double-click a bag or container to open the storage window instead, or right-click it and choose **Open Storage Window**. To open the window every time, set **Bags and containers open in** to **Storage window** in **Character Setup > Settings**, or use **Storage Window** in the OOC tab. Use either again to switch back.
 
 The storage window shows every bag and container you can reach at once. The left side lists **you**: both hands, the bags and belt you wear, and your pockets. The right side lists what is **nearby**: containers on the tiles around you, bags lying on the floor, the bags of anyone unconscious or tied up next to you, and loose things on the floor.
 
