@@ -1197,7 +1197,7 @@ Every depot in a land opens onto the same safe house, so you can ship at one and
 
 #### Safe house rooms
 
-Your safe house has six rooms, and you can build each one up to **level 3**. Click a depot and choose **Safe house rooms and work**. The supplies come from what you hold and from **closed crates** pushed next to the depot. They are taken as soon as you pick an upgrade or a job.
+Your safe house has five rooms, and you can build each one up to **level 3**. Click a depot and choose **Safe house rooms and work**. The supplies come from what you hold and from **closed crates** pushed next to the depot. They are taken as soon as you pick an upgrade or a job.
 
 | Room | Level 1 | Level 2 | Level 3 | What it does |
 | --- | --- | --- | --- | --- |
@@ -1206,7 +1206,6 @@ Your safe house has six rooms, and you can build each one up to **level 3**. Cli
 | **Infirmary** | 20 wood, 10 cloth | 20 cloth, 10 glass | 10 steel, 20 glass | rolls bandages or gauze; carves splints; packs trauma kits |
 | **Kitchen** | 20 wood, 20 stone | 10 iron, 20 stone | 10 steel, 10 glass | dries meat; bakes hardtack; cures hams |
 | **Still** | 20 wood, 10 copper | 20 copper, 10 glass | 10 steel, 20 glass | brews beer; distils vodka; distils whiskey |
-| **Contacts desk** | 10 wood, 100 silver coins | 50 gold coins | 150 gold coins | 5% better prices per level from the [specialist traders](Guide_to_Traders.md), when you buy and when you sell |
 
 Each level of the workshop, infirmary, kitchen and still unlocks one more kind of work:
 

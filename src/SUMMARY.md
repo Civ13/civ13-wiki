@@ -83,7 +83,6 @@
         - [Religion](guides/Guide_to_Religion.md)
         - [Tribal Life](guides/Guide_to_Tribal_Life.md)
         - [Races](guides/Guide_to_Races.md)
-        - [Traders](guides/Guide_to_Traders.md)
     - [Role Guides](role_guides.md)
         - [Governor](Governor.md)
         - [Merchant](Merchant.md)
