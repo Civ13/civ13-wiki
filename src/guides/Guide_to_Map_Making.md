@@ -26,10 +26,31 @@ Use **Read Map** (right-click the map) to look at it without sketching. North is
 
 Examine a map to see which land it charts and roughly how much of it is drawn in.
 
-Use a **pen** on a map to give it a title, such as "Northern hunting grounds".
+## Drawing and writing on a map
+
+Hold the map and a **pen**, pencil, crayon or some pigment, then use the drawing tool on the map and choose **Draw and write notes**. You can also right-click the map and pick **Draw on Map**. With a pen you can also choose **Title** to name the map, such as "Northern hunting grounds".
+
+The map opens with drawing tools above it:
+
+- **Inks.** Pick black, red, blue or purple ink and drag across the map to draw routes, borders or warnings.
+- **Eraser.** Rubs out ink. It never erases the land you sketched.
+- **Write a note.** Click a spot on the map and type a short note, up to 80 characters. It shows as a numbered mark, and the note's text is listed under the map. A map holds up to 30 notes. Click **scratch out** next to a note to remove it.
+- Press **Save drawing** before you close the map, or your new ink is lost.
+
+You need light to draw, the same as for sketching. You can draw on a blank map too. It then belongs to the land you are in, so you can draw a map entirely by hand.
+
+## Copying a map
+
+Copies show everything on the original: the land, the title, the ink and the notes. They work the same way as copying a book.
+
+- **By hand.** Hold a blank map and use it on the map you want to copy. Copying takes about 20 seconds in good light, and the blank map becomes the copy. Anyone can copy a map by hand.
+- **With a printing press.** Put the drawn map in the press as the **Original** and a blank map as the **Copy**, then work the press. It takes as long as printing a book.
+
+The copy has to be a blank map. A map that already has land, ink or notes on it will not take a copy.
 
 ## Tips
 
 - Sketch from a few spread-out spots rather than every few steps; each sketch covers your whole screen.
-- Charted maps are ordinary items. Hand them to new members of your faction, sell them, or keep them in a chest.
+- Charted maps are ordinary items. Copy them for new members of your faction, sell them, or keep them in a chest.
+- Mark water, camps and dangers with notes before you copy a map, so every copy carries them.
 - On maps that save the world, your charts are saved with it.
