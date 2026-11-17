@@ -105,7 +105,7 @@
 <td>
 <img src="../images/Stone_headed_club.png">
 </td>
-<td>A wooden handle with a heavy stone lashed to the end. Made from <b>3 stone</b>. It hits harder than a wood club and sometimes knocks people down, but it swings slowly.</td>
+<td>A wooden handle with a heavy stone lashed to the end. Made from <b>3 stone and a wood handle</b>. It hits harder than a wood club and sometimes knocks people down, but it swings slowly.</td>
 <td>5000 B.C. - 313 B.C.</td>
 <td>Yes</td>
 <td></td>
