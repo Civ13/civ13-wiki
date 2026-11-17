@@ -25,7 +25,7 @@ A nest eats from everything within **5 tiles** of it. Each meal also spoils one 
 | --- | --- |
 | Food or seeds on the floor, ripe crops, woven baskets, racks | Eat freely |
 | Log chests, storage pits, wooden crates and closets | Gnaw in now and then |
-| Clay storage jars, fridges, ice houses, freezers, metal, stone, glass and brick crates, anything you carry | Cannot get in |
+| Clay storage jars, zeer pots, fridges, ice houses, freezers, metal, stone, glass and brick crates, anything you carry | Cannot get in |
 
 A crop eaten by mice loses its harvest, but the plant lives and grows again. Examine a store to see how well it keeps mice out.
 

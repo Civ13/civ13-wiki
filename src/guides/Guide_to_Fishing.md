@@ -71,6 +71,7 @@ Use raw meat or raw fish on your pole or rod to bait it. A net takes no bait. On
 * Use a fishing pole or rod on the hole to lower a line. Bait works as usual. Nets and spears do not fit.
 * Bites come a little less often than in open water. The fish under the ice are the same stock the water has in summer, so a stretch you emptied in autumn is still thin.
 * A hole freezes over again after about twenty minutes. Cut a new one, here or further along.
+* Use a pickaxe, hatchet or chisel on an open hole to cut a **block of ice** from its edge for an ice house, four to a hole (see [Cooking](Guide_to_Cooking.md)).
 
 ### Fishing from a boat
 
