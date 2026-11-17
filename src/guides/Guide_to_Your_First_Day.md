@@ -80,7 +80,7 @@ You can get your first tools before you have studied anything:
 
 1. **Flint.** Click a large rock with an empty hand on **Grab intent** to find a flint. Rocks refill slowly.
 2. **Sharpen it by knapping.** Hold a stone or a second, unsharpened flint, and use it on the flint (in your other hand or on the ground beside you). Choose **Sharp flake**. Knapping can also make a **flint knife**, a **flint spearhead** or three **flint arrowheads**. See [Flint](Guide_to_Flint.md).
-3. **A stick.** Click a tree with an empty hand on **Harm intent** to break off a branch. Click the branch on **Grab intent** to pick the leaves off, then on **Harm intent** to clear the twigs. Use the sharpened flint on the stick to sharpen it.
+3. **A stick.** Click a tree with an empty hand on **Harm intent** to break off a branch. Palm trees give branches too. Each tree holds only a few and they grow back, so move to another tree when one runs out; examining a tree (Shift-click) tells you how many it has left and what else you can do with it. Click the branch on **Grab intent** to pick the leaves off, then on **Harm intent** to clear the twigs. Use the sharpened flint on the stick to sharpen it.
 4. **A binding.** Use the sharpened flint or knife on grass or tall grass to cut **grass cuttings**, then use two cuttings in hand to twist **crude twine**. Butchered animals also give **sinew**, which is stronger.
 5. **Flint axe.** With the twine or sinew in your inventory or on the ground under you, use the sharpened flint on the sharpened stick. A twine binding wears out quickly; sinew or rope lasts much longer.
 
