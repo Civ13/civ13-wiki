@@ -35,6 +35,7 @@ machinery and vehicles.
     - **Unlock era** and **Made at** narrow the list to an age or to one workstation.
     - The list shows the recipes for the map you are on. Tick **Include other maps** to see the versions used elsewhere.
     - **Needs research** marks a recipe your faction or character has not unlocked yet, and names the research. **Retired this era** marks a recipe that is no longer made in the current age.
+    - A recipe that needs a level of skill says so with your own level beside it, for example **Skill: Crafting 170** and **Yours is 112**.
     - The atlas is a reference: skills, tools and your faction still decide what you can craft.
 
   - **[Full Crafting List](../Full_Crafting_List.md)** - contains
