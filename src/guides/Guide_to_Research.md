@@ -102,7 +102,7 @@ Every node completes one of three ways, depending on its **mode**:
 
 The assigned bench ticks forward automatically, once every **10 seconds**, contributing 1 tick per bench per tick. Multiple benches assigned to the *same* node stack additively — two benches on Steelmaking means 2 ticks every 10 seconds toward it, not 1.
 
-A bench must be tier-upgraded to at least the node's **minimum bench tier** before it can work on it at all — see [Bench tiers](#bench-tiers).
+A bench must be at least the node's **minimum bench tier** (the era) before it can work on it at all — see [Bench tiers](#bench-tiers).
 
 ### 2. Build a prototype (Prototype mode — 11 key nodes)
 
@@ -146,17 +146,9 @@ Notes work on any tick-accumulating node — which today means every node except
 
 ## Bench tiers
 
-A bench starts at **tier 0** and can be upgraded up to **tier 8**. Higher-tier nodes require a correspondingly upgraded bench before they can be worked at all (an untiered bench simply can't be assigned a high-tier invention).
+A bench's tier is the **current global era**: Stone Age (era 0) benches are tier 0, Bronze Age (era 1) benches tier 1, and so on, up to tier 8. Higher-tier nodes need a bench of at least their tier before they can be worked at all.
 
-**Era cap:** a bench can never be upgraded above the **current global era** — Stone Age (era 0) caps benches at tier 0, Bronze Age (era 1) at tier 1, and so on, up to the absolute tier-8 ceiling. As the world advances an era, every bench's upgrade cap rises with it. So you can only ever be as advanced as the age you're in.
-
-**Upgrading:** feed the bench copper, silver, or gold **coins** — their value contributes toward the next tier. The cost escalates:
-
-```
-value needed for tier T -> T+1 = 120 x (T + 1)
-```
-
-So tier 0→1 costs 120 value, tier 1→2 costs 240, tier 7→8 costs 960, and so on. Progress accumulates across multiple items fed in — you don't need one single expensive item.
+You don't pay anything to raise it. When the world advances an era, every bench rises to the new tier on its own. So you can only ever be as advanced as the age you're in, and the node's prerequisites and other requirements still apply.
 
 ---
 

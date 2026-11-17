@@ -23,7 +23,7 @@ Anyone holding the die can strike coins with your faction's mark, so guard it li
 
 Silver and gold coins can be struck at 90%, 75% or 50% fine. Each sheet of precious metal then makes more coins, and copper makes up the rest. The copper sheets must be in your hands or at your feet. For example, one sheet of silver at 50% fine needs one copper sheet and strikes 20 coins.
 
-A debased coin looks the same as a full one, but it's only worth the metal in it. Research benches, the resource forge and the coin smelter all count its real metal. A trading balance shows it plainly, as "debased silver (50% fine)", so traders who weigh their coins will catch it.
+A debased coin looks the same as a full one, but it's only worth the metal in it. The resource forge and the coin smelter both count its real metal. A trading balance shows it plainly, as "debased silver (50% fine)", so traders who weigh their coins will catch it.
 
 ### Keeping coins apart
 
