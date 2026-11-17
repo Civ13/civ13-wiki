@@ -626,6 +626,21 @@ A hull is worked from places on her deck, and the helm can ask who is where. Cho
 - Whoever is at the helm or sat at an oar cannot keep the lookout, and neither can anyone lying down.
 - Without a lookout the crew only learns of what is ahead as she comes up on it, so post one before sailing at speed or near a coast. The muster says when nobody is keeping it.
 
+### A foul bottom
+
+Weed and shell grow on the bottom of a boat or ship of 13 tiles or more while she is in use, at anchor or under way. A boat with nobody aboard does not foul, and small craft never do.
+
+| Bottom | What it does |
+| --- | --- |
+| **Clean** | Nothing |
+| **Slimed** | Starts to drag |
+| **Weedy** | Drags like a fifth of her hull more to push |
+| **Foul** | Drags like four tenths of her hull more to push |
+
+- A bare bottom goes from clean to foul over about a day of use. The tiller says how her bottom is, and everyone aboard is told when she turns weedy and when she turns foul.
+- **Scraping:** lay her over shallow water, bring her to a stop, stand on her deck and use a **shovel or a knife** on one of her planks. Each go takes four seconds and cleans three tiles of hull, and you keep going until she is clean or you step away. Her bottom is out of reach on deep water.
+- **Copper sheathing:** on a wooden hull with a clean bottom, lying still in the shallows, use **copper** on a plank with a **hammer** in your other hand. Each sheet covers two tiles and takes three seconds. Fully sheathed, she fouls a tenth as fast. A plated hull cannot be coppered.
+
 ### Caulking
 
 A wooden boat or ship keeps the sea out with **tarred oakum** driven into the seams between her planks. Sailing slowly works it loose, and the looser her seams, the faster the bilge fills.
