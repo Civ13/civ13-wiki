@@ -42,6 +42,7 @@ Wartime cars (see [Wartime cars](#wartime-cars)):
 | Water crane | 8 iron | A standpipe that fills engines and tenders from a water tower nearby. |
 | Fusible plug | 1 lead | Spare safety plug for a steam locomotive's boiler. |
 | Train coupling | 4 iron | Spare coupling for a car end. |
+| Brake wheel | 6 iron | A handbrake you can work while the train is moving. Bolt it to the deck of a platform car (see [Brakes](#brakes)). |
 | Cabin wagon | 4 iron | A covered seat for the driver or passengers. |
 | Flatbed wagon | 4 iron | Carries people, crates and structures. |
 | Transport wagon | 5 iron | A covered storage wagon (8 slots). |
@@ -190,7 +191,7 @@ Right-click, **Hitch** still works too.
 - **Start the engine** or **Stop the engine**. On a steam locomotive these are **Light the fire** and **Drop the fire**. It needs fuel to start, and a steam locomotive needs water in its boiler.
 - **Injector on** or **Injector off**, on steam locomotives. See [Steam, water and the boiler](#steam-water-and-the-boiler).
 - **Throttle up** and **Throttle down** move between notches 0 and 3. Each notch is a third of the engine's top speed. The train gathers speed over a few tiles rather than jumping to it.
-- **Brake** closes the throttle and brakes. Closing the throttle without braking lets the train coast.
+- **Brake** closes the throttle and puts the engine's own brake on. It holds the engine only, so a long train also needs its handbrakes (see [Brakes](#brakes)). Closing the throttle without braking lets the train coast.
 - **Reverser** sets forward or backward, and only works while the train is standing. Forward is always the way **that engine** faces, wherever it is in the train. Backing up moves the train with the far end leading. Set the levers for the way that end of the train will go.
 
 Examine the locomotive to see its notch, reverser, speed, a steam locomotive's pressure and water, and whether the train is too heavy for it.
@@ -202,7 +203,30 @@ Examine the locomotive to see its notch, reverser, speed, a steam locomotive's p
 - **Two engines** make a heavier train fast again. Hitch a second running locomotive anywhere in the train, at the front, in the middle or pushing at the back. It adds its pull and burns its own fuel. The engine whose throttle was opened first drives the train; the other's controls take over once it has stopped.
 - **What leads the train sets its top speed.** A locomotive running forward at the head gets full speed. A locomotive running backward gets three quarters. Wagons pushed ahead of the engine, forward or backing up, get half, unless a running locomotive is at their head.
 - **An engine at each end**, each facing out, lets a train run at full speed both ways without turning anything round. Drive from the engine that faces the way you want to go.
-- **Trains don't stop on the spot.** Braking takes a couple of tiles for a short train, and many more for a long, heavy one. Coasting takes longer still. Start braking well before a station or a junction.
+- **Trains don't stop on the spot.** Braking takes a couple of tiles for an engine on its own, and many more with a long, heavy train behind it. Coasting takes longer still. Start braking well before a station or a junction.
+
+### Brakes
+
+A train stops by how much of its weight is braked. The driver's **Brake** grips the engine and nothing else. That stops a lone engine quickly, but with a dozen cars pushing from behind, the engine's brake is a small part of the train and the stop is long. The rest of the braking is on the cars.
+
+- **Every wagon and car has a handbrake.** Right-click the car and choose **Handbrake** to pin it down or let it off. It takes a couple of seconds, you must be next to the car, and it only works while the train is **standing**. Examining a car tells you when its handbrake is on.
+- **A brake wheel works on the move.** Click a brake wheel to wind the brake of the car it stands on hard on, and click again to wind it off. Its tell-tale shows red when the brake is on and green when it is off.
+- **The more weight is braked, the shorter the stop.** With every car braked, a train stops about as fast as an engine on its own.
+- **Let the brakes off before you leave.** A handbrake left on drags like several extra cars: the train is slow, and with enough of them on it won't start at all. The engine's controls list how many handbrakes are on in the train.
+- **Park with a handbrake on.** A train with any handbrake on cannot be pushed along the line by hand.
+
+#### Brake van
+
+The **brake van** is the guard's car. It has an open veranda at the front and a cabin behind it with a **brake wheel** and a seat. It is built heavy, about twice the weight of an ordinary car, so its brake holds twice as much. Couple one at the back of a train and put a guard in it: when the driver brakes, the guard winds the wheel on, and winds it off again before the train starts.
+
+![A goods train seen from above with a red-roofed brake van at the back, the van with its roof off showing the brake wheel in the cabin, and close views of the wheel wound off with a green tell-tale and wound on with a red one](../images/civ13-brake-van.png)
+
+| Piece | Cost | What you get |
+| --- | --- | --- |
+| Brake van kit | 24 iron | A four-tile guard's van with a veranda, a cabin, a brake wheel and a seat. Built like any other car kit (see [Putting a car together](#putting-a-car-together)). |
+| Brake wheel | 6 iron | A brake wheel on its own. Build it on the deck of any platform car to give that car a brake a rider can work on the move. A **wrench** unbolts it, once its brake is off, so it can be dragged away. |
+
+A long train can carry more than one: a van at the back, and a brake wheel on a car or two further up for extra hands.
 
 ### Hitting things
 
