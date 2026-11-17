@@ -121,6 +121,8 @@ Decay time of products stored in any containers is **doubled**.
 
 A **zeer pot** (4 clay, needs **Pottery & Cookware**) is a Stone Age cooler. It is one clay pot inside another, with sand between them. Fire it in a kiln or oven like a storage jar. It holds five small things. Pour water into it from a bucket, pot or any other open vessel, up to 60 units. While the sand is wet, food inside keeps three times as long as on its own. In desert, semiarid and savanna lands it keeps food four times as long, and in jungles and at sea, where little water evaporates, about two and a half times as long. The sand dries out in about three hours, or about two in the heat and a little faster again in dry lands. It does not dry while it is freezing. Examine the pot to see how long it will stay damp. Dry, it keeps food like a clay storage jar.
 
+A **cellar** keeps food cool without any ice. Anything underground, on the dug level below a land or in its caves, stays around 12 degrees all year: a little colder in winter and a little warmer in summer, but never above 18. Food there keeps longer than it would above ground, in a crate or loose, though not as long as in a cold ice house.
+
 An **ice house** (10 wood, needs **Cooperage & Containers**) needs no power. Pack **snow piles** into it, each good for an hour of cold, or **blocks of ice**, each good for three hours, up to twenty hours. While it holds snow or ice, food inside keeps about as long as in a freezer crate, longer than in a powered fridge. It melts a minute at a time unless it is freezing out. Built underground, or in a cave, where the earth stays cool, it melts four times more slowly, so ice stored in winter lasts far into summer. Examine the ice house to see how much cold is left. Once it has all melted, it keeps food like any other crate.
 
 To get ice, cut an [ice hole](Guide_to_Fishing.md#ice-fishing) in frozen water, then use a pickaxe, hatchet or chisel on the hole to cut a block from its edge. Each hole gives four blocks. A block left lying about in the warm melts away in about forty minutes, so carry it straight to the ice house.
@@ -340,7 +342,7 @@ culinary art!
 <tr>
 <td><img src="../images/Dried_cutlet.png"></td>
 <td>Dried meat cutlets</td>
-<td>Simply take your raw meat cutlets and click on a dehydrator to dry them. In a short time they will come off as dry cutlets.</td>
+<td>Simply take your raw meat cutlets and click on a dehydrator to dry them. In a short time they will come off as dry cutlets. A dehydrator in a roofed room upstairs dries half again as fast.</td>
 </tr>
 <tr>
 <td><img src="../images/pemmican.png"></td>

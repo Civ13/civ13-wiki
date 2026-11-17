@@ -15,7 +15,7 @@ Mice never appear out of rotten food. Rotten food only draws flies, and you will
 - A house nest holds up to **8** mice. With no food in reach it loses a mouse at a time and disappears when it is empty.
 - Mice come out at dusk and at night outdoors, and at any time indoors, a couple per nest. They run home when a person, cat or dog comes close.
 
-Nests only start on dirt, grass, wooden floors or carpet, and never where someone can see. Stone, brick and tiled floors stay clear.
+Nests only start on dirt, grass, wooden floors or carpet, and never where someone can see. Stone, brick and tiled floors stay clear, and so does every floor above the ground floor: food stored upstairs is safe from mice.
 
 ## What mice eat
 

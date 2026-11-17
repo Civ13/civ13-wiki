@@ -19,8 +19,9 @@ A room is the roofed space around you, closed in by walls, doors and windows. Ea
 | A clean room | No more than a couple of stains or bits of rubbish, and no pit latrine, outhouse or dung in the room |
 | A tidy room | A basket, jar, chest, crate or closet to keep things in, and no more than 5 things left lying on the floor |
 | Sound walls | No cracked or badly weathered walls |
+| A quiet bedroom upstairs | A bed in a room above the ground floor, with no stove, oven, forge, anvil, loom, dehydrator or workbench in it |
 
-The room rates as **bare**, **cosy**, **comfortable**, **fine** or **splendid** depending on how many it has. Any nine of the eleven make it splendid.
+The room rates as **bare**, **cosy**, **comfortable**, **fine** or **splendid** depending on how many it has. Any nine of the twelve make it splendid.
 
 ### Wash basins and washstands
 
@@ -33,6 +34,16 @@ Stand in a room and use **Judge This Room** (IC tab) to see how it would rate an
 - **Mood.** A cosy or better home lifts your resting mood more than a plain roof does. It counts all day after you sleep there, like a good bed.
 - **A higher ceiling.** A fine or splendid home lets your mood settle a little higher than living conditions alone otherwise allow.
 - **Well rested.** Waking in a comfortable, fine or splendid home leaves you well rested for half an hour, 45 minutes or an hour. You get your breath back faster and grow hungry and thirsty more slowly.
+
+## Using every storey
+
+Each floor of a house is good for something:
+
+- **The cellar.** A room dug out underground stays cool all year, around 12 degrees, whatever the weather. Food keeps longer there, and it is the coolest place to rest in summer. An ice house built there melts more slowly too. See [Food storage](Guide_to_Cooking.md#food-storage).
+- **The ground floor.** Keep the kitchen and the workshop here. Floods reach the ground floor and the cellar, and grain, seed and flour left on the floor are spoiled by them. Mice only nest on the ground floor.
+- **The rooms upstairs.** Mice never nest upstairs, and floods don't reach it, so it's the safe place for grain and stores. A bed up there, away from stoves and workbenches, makes a quiet bedroom. A chimney built over the hearth below carries its warmth up (see [Keeping a building warm](Guide_to_Construction.md#keeping-a-building-warm)).
+- **The loft.** A dehydrator in a roofed room upstairs dries food half again as fast.
+- **The roof.** You can see the land below from the roof and shoot down at people standing under the open air. Smoke signals sent from a rooftop fire are seen further away, and from the ground as well.
 
 ## Upkeep
 
