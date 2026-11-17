@@ -22,6 +22,9 @@ Two light planes on a runway, nose to the east.
 | Airframe section | 4 steel | Powered Flight | Industrial 126 |
 | Airframe controls | 12 steel | Powered Flight | Industrial 126 |
 | Pilot's seat | 8 steel | Powered Flight | Industrial 126 |
+| Airship planks (one deck tile) | 3 wood | Powered Flight | Industrial 126 |
+| Airship gas cell | 20 cloth | Powered Flight | Industrial 126 |
+| Airship helm | 10 wood | Powered Flight | Industrial 126 |
 
 **Powered Flight** is an Industrial node in the Vehicles line. It needs **Automobiles** and **Combustion Engine**, and Aviation & Rocketry is researched after it. The hangar is in the **production** crafting category and runway in **roads**. The hangar only assembles planes for a faction that has finished the Powered Flight node. With Powered Flight alone it builds the wood-and-cloth **trainer** and **light plane**. The all-metal **cabin**, **cargo** and **twin-engine** planes and the **airliner** also need **Aviation & Rocketry**, and so does a twin-engine plane built by hand.
 
@@ -154,6 +157,28 @@ You need to hold the plane's key to hangar it and to roll it out. Examine the ha
 ## Towing a plane
 
 A plane on the ground can be towed like a car. Park it in line behind a truck or another vehicle, both facing the same way and standing still, within 2 tiles, and use a **rope** on the plane. It then rolls and turns wherever the tug goes, which is handy for pulling a plane out of a hangar bay or along a taxiway without starting its engine. The tug pulls the plane's weight too: a light plane is too heavy for a small car, so use a truck. A plane cannot take off while it is on a tow line, and a plane in the air cannot take one. Right-click either vehicle and choose **Cast Off Tow Line** to let go.
+
+## Crewed airships
+
+An airship is a deck you build yourself in the open air, held up by gas cells and steered from a helm. A crew walks around on it while it flies. It flies on the same air level as planes, so only where planes can fly. The planks, gas cells and helm are crafted in the **vehicle parts** category.
+
+![An airship deck of wooden planks with a helm at the stern and two gas cells over it](../images/civ13-airship-deck.png)
+
+1. Stand a **wooden ladder** on the ground under open air and climb it.
+2. From the top of the ladder, use **airship planks** on the open air beside you. Each bundle lays one tile of deck. Keep laying planks edge to edge from the deck you already have. A deck can be up to 60 tiles.
+3. Use **gas cells** on the deck to hang them, one per tile. Each cell holds up 12: every tile of deck counts as 1 and so does every person aboard.
+4. Set up the **airship helm** on the deck, facing the way you want the bow to point, and use it to commission the deck as an airship and name her.
+5. At the helm, choose **Cast off**, pick a speed and steer north, east, south or west. Choose **Hold position** to stop her where she is.
+
+| Condition | Effect |
+| --- | --- |
+| Not enough gas cells | She cannot cast off or move until more cells are hung or fewer people are aboard |
+| No engine | She drifts along at slow ahead |
+| A running [engine](Guide_to_Crafting.md) on the deck | Half or full ahead, depending on its power against her size. It burns its fuel as she goes. Sails and oars do nothing up here |
+| Upper floors, ladders and the map edge | She stops in front of them |
+| The edge of the deck | Step off and you fall to the ground |
+
+The crew sees the ground below around her, and people on the ground see her shadow. From the deck you can shoot, throw and drop things onto the ground below, as from a [pedal airship](Guide_to_Crafting.md#fighting-from-the-basket). Board her from a ladder stood up beside her deck. To add planks or take a gas cell down with a wrench, hold position first, then use **Refit the deck** at the helm. **Strike the airship** turns her back into a deck that hangs where it is. An airship saved in flight comes back holding her position.
 
 ## Tips
 
