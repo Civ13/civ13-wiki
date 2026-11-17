@@ -29,20 +29,22 @@ Finished leather you already own remains usable without further processing.
 
 Sealed vessels, locked barrels, another player's inventory and nested storage
 cannot supply these liquids. The water or tannin must be in the vessel's actual
-reagent contents. Terrain water and a cooking pot's separate cooking-water
-counter do not count; use an ordinary reagent vessel for these steps.
+reagent contents. A cooking pot's separate cooking-water counter does not
+count. Washing is the one step that also works in open water: see below.
 
 ### Process
 
 | Step | Action and cost | Result |
 | --- | --- | --- |
 | Scrape | Use a held sharp tool on a nearby raw hide or pelt. Each piece takes **50 ticks**, normally five seconds, and is consumed only on successful completion. Scraping carries on through the stack, one piece at a time, until it is done or you stop. | **1 prepared hairless hide** |
-| Wash | Use an accessible reagent vessel containing at least **5 units of water** with a prepared hide, using either interaction above. This consumes **1 prepared hide** and **5 water**. | **1 wet hide** |
+| Wash | Hold a stack of prepared hides and click a river, lake, sea shallows, flooded trench, open ice hole or puddle beside you. Each piece takes **30 ticks**, normally three seconds, and washing carries on through the stack until it is done or you stop. A puddle loses **5 water** per hide; open water is never used up. Or use an accessible reagent vessel containing at least **5 units of water** with a prepared hide, using either interaction above, for **1 prepared hide** and **5 water** at a time. | **1 wet hide** per piece |
 | Dry | Put a held wet-hide stack on the tanning rack. The whole stack, up to **50 pieces**, takes **300 ticks**, normally 30 seconds. Retrieve it with an empty hand when ready. | The same number of **dry hides** |
 | Tan | Use an accessible reagent vessel containing at least **5 units of tannin** with a dry hide, using either interaction above. This consumes **1 dry hide** and **5 tannin**. | **1 ordinary leather sheet** |
 
-Washing and tanning process **one piece per application**. Apply the vessel again
-for another piece. Prepared hairless hides you already own enter at the washing
+Washed hides from open water gather in your free hand, so a river cannot carry
+them off; with that hand full they drop at your feet. Washing with a vessel and
+tanning process **one piece per application**. Apply the vessel again for
+another piece. Prepared hairless hides you already own enter at the washing
 step. Drying alone does not produce finished leather, and splashing a stack does
 not process the whole stack.
 
