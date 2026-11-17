@@ -20,12 +20,16 @@ The first bite of each meal with dirty hands can give you food poisoning, and ha
 
 The body part you target says what you mean to do. On **Help intent**, target any part and:
 
-- click yourself, or someone next to you, with a bucket, pot or cup of clean water. Each wash uses a little water; or
+- click yourself, or someone next to you, with a bucket, pot, mug, cup or glass of clean water. Each wash uses a little water; or
 - click a sink, tap, fountain, wash basin or fresh water to wash that part of yourself.
 
 Washing a hand cleans it. Washing any other part cleans the blood off the clothes over it, or makes you a little cleaner where the skin is bare. Rinsing a wound with clean water washes out some of its germs, which lowers the chance it becomes infected. Hold soap in your other hand to disinfect the wound fully and get cleaner. Once a wound is already infected, washing will not cure it; you need medicine.
 
-To drink from a cup, canteen or bucket, or to give someone else a drink, target the **mouth**.
+To drink from a cup, canteen or bucket, or to give someone else a drink, target the **mouth**. If you click yourself with water on another intent, the message reminds you to switch to **Help intent** to wash instead.
+
+## Seeing where you are dirty
+
+Examine yourself (click the health icon on the right of your screen) to see which parts need washing. Hands show **dirty** or **bloody**. When you are less than clean, every part you have not washed since shows **dirty**, or **filthy** when you are very dirty. Parts under clothes show as **covered**: washing there only cleans the clothes, so take them off first. A washed part stays clean for a while as you go on working. Each wash also tells you how clean you now feel.
 
 ## Bathing in rivers and lakes
 
