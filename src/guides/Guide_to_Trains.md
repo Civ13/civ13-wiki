@@ -285,6 +285,31 @@ A train that is stopped dead at speed is wrecked. It happens when a running trai
 
 Watch the line ahead, keep your speed down where you cannot see far, and start braking early: a heavy train needs a long way to stop.
 
+## Servicing
+
+A train wears as it runs. None of it is urgent on a short trip, but a train that is never looked after gets slower and at last stops.
+
+![Three ash pits between the rails, one empty, one with ash and one full, a fire rake on the ground and a steam engine standing over a pit](../images/civ13-train-servicing.png)
+
+### Oiling
+
+Every wagon, car and engine runs on the oil in its **axle boxes**. One oiling lasts about **600 tiles**.
+
+- **To oil a car**, stand next to it while the train is standing and click it with an open vessel holding at least 5 units of **fat oil, olive oil, corn oil, lard or petroleum**. One go oils the whole car, however long it is.
+- **Examine a car** to check it. It says so when its axle boxes are running dry, which is the time to oil it.
+- **A hot box.** A car that runs out of oil runs hot. Smoke curls from the axle box every so often, and the car drags like two. Anyone riding at the back of the train should watch for the smoke. Stop and oil it.
+- **A seized axle.** Keep running a hot box for about 150 tiles and the axle seizes. The car is then held as if its handbrake were on, and oil alone won't free it. Use a **wrench** on the car to change the bearing, which takes a while, then oil it.
+
+### Cleaning the fire
+
+A steam engine's fire slowly fills with **clinker**. After a few fireboxes of fuel the engine's controls say the fire is **dirty**, and it makes steam more slowly. Left alone it ends up **choked**, making half the steam it should.
+
+1. Build an **ash pit** on a track tile (6 iron) and make a **fire rake** (2 iron). Both are on the **Rail & Steam** node, or industrial research **101**.
+2. Stop the engine over the ash pit.
+3. Stand at the firebox door and click the engine with the fire rake.
+
+The clinker drops into the pit and a little of the fire goes with it, so put some fuel on afterwards. An ash pit holds ten cleanings. When it is full, move the engine off it and dig it out with a **shovel**.
+
 ## Carrying passengers and cargo
 
 - **Storage wagons** (mining cart, tender, transport wagon): click to open their storage, or drag items onto them.
