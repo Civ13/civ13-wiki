@@ -63,10 +63,10 @@ Raised baselines and research tables are saved with the world, so they survive a
 
 A **research bench** is a craftable structure. Assign it one invention from the tree, and it will make progress on that invention — nothing else — until it's done, at which point you reassign it to the next thing.
 
-- **Building one:** costs 8 planks in the default global recipe. You must belong to a faction to build one.
-- **Ownership:** a bench belongs to whichever faction built it. It is *not* shared infrastructure between factions.
+- **Building one:** costs 8 planks in the default global recipe. Anyone can build one, in a faction or not.
+- **Ownership:** a bench built by a faction member belongs to that faction. It is *not* shared infrastructure between factions. A bench built by someone without a faction belongs to nobody until a faction claims it, and it doesn't count toward any faction's cap.
 - **Viewing vs. acting:** anyone can open a bench's interface to see the state of their faction's tree and what's currently being researched. Only the Leader, Research Director, or an appointed Researcher can *change* what a bench is working on, or produce trade goods from it.
-- **Reclaiming an abandoned bench:** if a faction dies out completely (no living members left), any other faction under its own bench cap can claim one of its benches. The claimed bench's old research assignment is cleared.
+- **Claiming a bench:** a faction under its own bench cap can claim a bench that belongs to nobody, or one whose faction has died out completely (no living members left). The claimed bench's old research assignment is cleared.
 
 ### How many benches can a faction have?
 
