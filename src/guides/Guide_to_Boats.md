@@ -62,6 +62,7 @@ A **lighthouse beacon** (4 iron, needs **Iron Smithing**) is a fire basket for t
 - In calm water an untrained swimmer lasts about 50 seconds. In rain a little less, and in a storm about half as long. Heavy armour or a bulky suit tires you faster.
 - You are warned when you are getting tired and again when you are nearly spent. After that you slip under and hold your breath: about 10 seconds for a beginner. Reach the shallows, a boat or a lifejacket in that time or you start to drown.
 - Standing in the shallows, on land, or on a deck or raft gets your strength and breath back.
+- If you lose your connection while swimming, your character treads water for two minutes without tiring. If you are not back by then, the sea washes them up on the nearest shore, exhausted but alive. This happens at most once every ten minutes.
 - A **lifejacket** keeps you afloat for as long as you like.
 - Anyone unconscious in deep water drowns straight away, so pull the wounded out.
 
