@@ -121,7 +121,9 @@ Hitch a **coal tender** anywhere in the train for long routes. Whenever the cham
 
 1. Place the locomotive on the rail, facing the way you want to go.
 2. Place each wagon on the rail behind it, facing the same way as the engine.
-3. Right-click a wagon and choose **Hitch** to couple it to the wagon in front of it. Use **Hitch** again to uncouple it. Hitched wagons follow the one ahead.
+3. Right-click a wagon and choose **Hitch** to couple it to the wagon in front of it, or to the wagon behind it if there is nothing in front. Use **Hitch** again to uncouple it. Hitched wagons follow the one ahead.
+
+The locomotive doesn't have to be at the front. Hitched in behind wagons it **pushes** them, and in the middle of a train it drives the wagons on both sides of it.
 
 ## Driving
 
@@ -130,7 +132,7 @@ Hitch a **coal tender** anywhere in the train for long routes. Whenever the cham
 - **Start the engine** or **Stop the engine**. It needs fuel to start.
 - **Throttle up** and **Throttle down** move between notches 0 and 3. Each notch is a third of the engine's top speed. The train gathers speed over a few tiles rather than jumping to it.
 - **Brake** closes the throttle and brakes. Closing the throttle without braking lets the train coast.
-- **Reverser** sets forward or backward, and only works while the train is standing. Backing up pushes the train with its last wagon leading. Set the levers for the way the back of the train will go.
+- **Reverser** sets forward or backward, and only works while the train is standing. Backing up moves the train with its last wagon leading. Set the levers for the way the back of the train will go.
 
 Examine the locomotive to see its notch, reverser, speed and whether the train is too heavy for it.
 
@@ -138,7 +140,8 @@ Examine the locomotive to see its notch, reverser, speed and whether the train i
 
 - A steam locomotive at full throttle is faster than a carriage or any tank, about as fast as a running person. The armored locomotive is a little slower.
 - Every wagon and car adds weight, and so does what it carries: people, cargo, stored items and furniture. A locomotive pulls its own rated load at full speed. Over that, the train is slower, and a train far too heavy for its engine won't start at all: the wheels just spin.
-- **Two engines** make a heavier train fast again. Hitch a second running locomotive into the train. It adds its pull and burns its own fuel, and the front engine sets the pace.
+- **Two engines** make a heavier train fast again. Hitch a second running locomotive anywhere in the train, at the front, in the middle or pushing at the back. It adds its pull and burns its own fuel. The engine whose throttle was opened first drives the train; the other's controls take over once it has stopped.
+- **What leads the train sets its top speed.** A locomotive running forward at the head gets full speed. A locomotive running backward gets three quarters. Wagons pushed ahead of the engine, forward or backing up, get half, unless a running locomotive is at their head.
 - **Trains don't stop on the spot.** Braking takes a couple of tiles for a short train, and many more for a long, heavy one. Coasting takes longer still. Start braking well before a station or a junction.
 
 ### Hitting things
@@ -173,7 +176,7 @@ Platform cars are full-size railway carriages: **three tiles wide and four tiles
 2. Leave a **clear tile on both sides** of those four tiles for the deck.
 3. Stand facing the way the car should point (towards the locomotive) and hit the kit with a **hammer**.
 
-To couple the car, right-click its front end and choose **Hitch**, the same as an ordinary wagon. The middle of a car can't be unhitched.
+To couple the car, right-click its front end and choose **Hitch** to join the car ahead, or its rear end to join the car behind. The middle of a car can't be unhitched.
 
 ### Riding and doors
 
@@ -217,7 +220,7 @@ Heavy locomotives are full-size engines, three tiles wide and four long. They ar
 - **Assemble** the kit like a platform car: put it on straight track with three more straight tiles behind it and a clear tile either side, face the way the engine should point and hit it with a **hammer**.
 - **Drive from the cab.** Step into the cab, or stand beside it, and click the locomotive to open the controls. The rest of the body is solid, apart from the diesel's walkways.
 - **Fuel** goes in from anywhere beside the engine. Click it with coal or wood for the steam engines, or with a container of diesel for the diesel. A coal tender hitched into the train feeds the steam engines as usual.
-- **Couple** wagons and cars behind it with **Hitch**, as with any locomotive. A second engine in the train adds its pull.
+- **Couple** wagons and cars to it with **Hitch**, as with any locomotive. It can pull from the front, push from the back or help another engine.
 - **Keep clear of the line.** A heavy locomotive is as wide as a platform car, and it hits anyone standing beside the rails as well as on them.
 - **Damage.** Explosions wear the engine and its body down. A wrecked engine dies and a wrecked body section stops the train until it is welded. A **welding tool** repairs both.
 
