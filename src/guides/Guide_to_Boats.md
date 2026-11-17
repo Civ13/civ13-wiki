@@ -577,6 +577,16 @@ A bucket only goes so far. The pumps that keep a cellar dry also pump a hull's b
 - The steam and sump pumps only run, and only burn fuel or battery, while someone is aboard or she is under way. A boat left at anchor is as you left her.
 - The tiller counts the pumps on her deck and how many are working.
 
+### Load and ballast
+
+Everything on the deck of a boat or ship weighs on her: crew, crates and what is in them, guns, engines, masts, cabins built aboard and loose goods. Small craft of 12 tiles or fewer are not weighed.
+
+- **Burden:** she carries half a tile's worth of weight for every tile of hull without noticing. A 30-tile boat has a burden of 15. As a guide, a person is a fifth, a crate a half or more, a gun one and a half, and a full stack of fifty of anything is one.
+- **Deep laden:** past her burden every extra tile of weight is one more tile of hull for her sails, oars and engines to push, so she may drop from half ahead to slow ahead.
+- **Overladen:** past twice her burden she rides so low that the sea slops over her side while she sails. The bilge fills until she is awash, though this alone will not sink her. Lighten her or keep bailing.
+- **Ballast:** a ship of 41 tiles or more needs weight low in her to stand up to her sails: a twentieth of her tiles for every rigged mast. A 60-tile ship with two masts wants 6. Without it she is **crank**: under sail in a strong wind she heels and ships water over the rail. Any cargo counts, and a few stacks of stone are the cheap way.
+- The **tiller** shows her weight against her burden and tells you if she is deep laden, overladen or crank. Everyone aboard is told when she goes a mark deeper.
+
 ### Caulking
 
 A wooden boat or ship keeps the sea out with **tarred oakum** driven into the seams between her planks. Sailing slowly works it loose, and the looser her seams, the faster the bilge fills.
