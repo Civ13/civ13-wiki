@@ -1281,6 +1281,10 @@ The airship landed (top) and ridden (bottom).
 
 If you are pulled from the seat or killed in the air, or the airship is destroyed, it drifts down to the nearest clear ground and nobody is hurt by the landing. Things you drop from it do fall. You need both legs and feet, and you cannot pedal while cuffed.
 
+#### Fighting from the basket
+
+In the air you see the ground below. Click a spot or a person on it with a gun or bow to shoot down at them, or throw things at them in throw mode. The shot or throw sets off from right under the basket, so hills do not get in its way, and your own shots never hit your airship. Anything you drop over the side falls on whoever is below, and a dropped glass bottle bursts where it lands. A lit firebomb sets the ground alight.
+
 #### Shooting airships down
 
 From the ground you see an airship's shadow. Bullets and arrows fired across the tile under it, including lobbed arrows, have about an even chance of striking it. About one hit in four comes up through the basket and wounds the rider. The rest hole the gas bag.
