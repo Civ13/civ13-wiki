@@ -1279,7 +1279,7 @@ The airship landed (top) and ridden (bottom).
 | Upper floors and the map edge | It stops in front of them, unharmed |
 | Out of stamina | You stop pedaling and hover until you have rested |
 
-If you are pulled from the seat or killed in the air, or the airship is destroyed, it drifts down to the nearest clear ground and nobody is hurt by the landing. Things you drop from it do fall. You need both legs and feet, and you cannot pedal while cuffed.
+If you are pulled from the seat or killed in the air, or the airship is destroyed, it drifts down to the nearest clear ground and nobody is hurt by the landing. Over a forest with no clear ground near, it snags in the tree below instead: the gas bag tears on the branches, the rider is thrown down beside the trunk and hurt, and the airship hangs there until the tree is cut down. Things you drop from it do fall. You need both legs and feet, and you cannot pedal while cuffed.
 
 #### Fighting from the basket
 
