@@ -603,6 +603,21 @@ A boat or ship of 13 tiles or more needs something to hold her when you choose *
 - The tiller and the anchor itself tell you whether she is held. An anchor weighs on her like any other load.
 - A hull that was already afloat before anchors had to be built keeps the anchor she always had.
 
+### Handling sail
+
+Every mast on a hull you built carries its sail one of three ways. A new sail is **set full**, and a hull you leave alone sails as she always did. Click a rigged mast to change it; it takes four seconds and you can do it under way.
+
+| Sail | Push | In a strong wind | In a gale |
+| --- | --- | --- | --- |
+| **Set full** | All of it | May tear | May tear |
+| **Reefed** | Six tenths | Safe | May tear, though rarely |
+| **Furled** | None | Safe | Safe |
+
+- **Tearing:** a sail only tears while she is under way. In a strong wind a full sail has about one chance in seven of tearing every half minute, so reef when the weather turns and furl in a gale. Everyone aboard is warned when the wind is strong enough to tear what she is carrying, and again when a sail goes.
+- **A torn sail** pushes less than a third of what it did. Use **two pieces of cloth** on its mast to mend it, which takes six seconds.
+- A furled sail does not count as a rigged mast for [ballast](#load-and-ballast), so furling also stops a crank ship heeling.
+- The tiller lists how her sails are carried and how many are torn. Sails on small craft of 12 tiles or fewer never tear.
+
 ### Caulking
 
 A wooden boat or ship keeps the sea out with **tarred oakum** driven into the seams between her planks. Sailing slowly works it loose, and the looser her seams, the faster the bilge fills.
