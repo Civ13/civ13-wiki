@@ -28,7 +28,7 @@ When two pouches hang from the same belt or garment, the second one sits on your
 | Shoulder belt | 1 leather, **Storage** tab | Basic Toolmaking |
 | Tool loop | 1 leather, **Storage** tab | Basic Toolmaking |
 
-- **Leather belt.** You wear it in the belt slot, and it stays on even if you take your clothes off. Use a pouch on it to hang the pouch there. Other people can see the pouches on you. To take something off the belt, use **Remove Accessory** on it.
+- **Leather belt.** You wear it in the belt slot, and it stays on even if you take your clothes off. Use a pouch on it to hang the pouch there. Other people can see the pouches on you. To take something off the belt, drag its tile from the row described below onto a hand or the floor, or use **Remove Accessory** on the belt.
 - **Shoulder belt.** This strap goes across your body from shoulder to hip. Use it on your clothes to put it on. It doesn't use the belt slot, so you can wear it together with a leather belt. It holds two pouches, or one sword and one pouch.
 - **Tool loop.** A leather loop that hangs from a leather belt and holds one thing made to be worn on a belt, such as a hammer. It can't hold bags, clothing or guns.
 
@@ -45,6 +45,8 @@ A sheath or holster on your belt leaves your clothes free for a harness or chest
 ### Opening one attachment
 
 When a worn belt or garment carries one attachment, clicking it opens that attachment. When it carries several, clicking it shows a row of tiles above your bag window, one tile for each attachment. Point at a tile to see the attachment's name. Click a tile with an empty hand to open or use that attachment (a pouch, sheath or holster) or to take anything else, such as a necklace, off into your hand. Click a tile with an item in your hand to put the item in it. Click the belt or garment again to put the tiles away.
+
+To look at an attachment, **shift-click** its tile. To take one off, drag its tile onto a hand or onto the floor next to you, or right-click the tile and choose **Take Off**. Right-click also offers **Examine Attachment**.
 
 If you click the belt or garment with an item in your hand instead, the item goes into the first attachment that can take it.
 
