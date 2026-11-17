@@ -45,7 +45,8 @@ Using a research book in hand opens its window. Alt-click does the same for a bo
 A **research bench** costs 8 soft wood. Benches belong to nobody: anyone can use any bench, and a bench holds only the work in progress.
 
 1. Put a book on the bench, click a subject in the bench window and press **Research this here**. The research is written into that book. Take the book away and the unfinished work goes with it.
-2. Stay beside the bench. It only makes progress while someone within one tile knows every prerequisite of the subject and holds a writing tool (see [The scholar's trade](#the-scholars-trade)).
+2. Stay near the bench. It makes progress while someone who knows every prerequisite of the subject is within three tiles and in sight of it, with a writing tool (see [The scholar's trade](#the-scholars-trade)). Beside the bench the work runs at full pace; two or three tiles off it runs at three quarters, so you can craft, cook or build close by while it goes on.
+   - To keep both hands free, click the bench with your pencil, pen or writing slate to rest it there. Right-click the bench and choose **Take Writing Tool** to pick it up again.
 3. Speed it up by using **samples** on the bench: existing examples of things the subject unlocks. The first two kinds of sample you take apart for a chapter are worth the most, a fifth of the chapter each. Capstones also need their **prototype** before the chapter is finished, or from Steam Power on a [demonstration](#demonstrations).
 4. When the research is done, the chapter is written into the book. **It teaches nobody**, not even the researcher. Whoever wants it still has to study it.
 
@@ -90,7 +91,7 @@ Nobody forgets anything when an age is lost. Anyone who still knows the lost cap
 
 - **Books on the bench** shows both books and their chapters. A chapter you can study is marked, and clicking any chapter opens its details.
 - **You have** lists what you are holding (writing tool and blank sheets) and your scholarship.
-- **Currently researching** shows the progress bar, a checklist of what the work still needs (a book, a researcher beside the bench, light, an instrument), a warning when supplies have run out, and roughly how long is left at the current pace. **Speed right now** lists everything that sets the pace: the scholar's skill, the writing tool, supplies, related chapters shelved nearby and any helper. Supplies keep the bench at full speed and never add a bonus; without them it runs at half speed. One scholar standing between two benches drives both at once. **Stop researching** halts it; the unfinished work stays in the book.
+- **Currently researching** shows the progress bar, a checklist of what the work still needs (a book, a researcher near the bench, light, an instrument), a warning when supplies have run out, and roughly how long is left at the current pace. **Speed right now** lists everything that sets the pace: the scholar's skill, the writing tool, supplies, related chapters shelved nearby and any helper. Supplies keep the bench at full speed and never add a bonus; without them it runs at half speed. One scholar standing between two benches drives both at once. **Stop researching** halts it; the unfinished work stays in the book.
 - **Find technology** searches by subject, recipe or discipline. The buttons under it show only what is **Ready to study**, what you **Can research**, what is **In progress**, what is **Known** or what is **Not yet** open to you. Switch between **Tree** and **List** to see the subjects as rows or as the tree.
 - Click a subject for its details: the groundwork it needs (click one to jump to it), what researching it needs and whether you meet each point, how long studying, researching and writing it take, what it leads to and the recipes it unlocks.
 - The buttons in the details do the work in one click: **Study this chapter**, **Research this here**, **Add to queue**, **Copy into the other book** and **Write it from memory**. In the list view each row has its own **Study** or **Write** button.
@@ -161,7 +162,7 @@ Five of the largest subjects are meant for a team. Each wants a **second scholar
 | Orbital Flight | Natural Science | A launch rail |
 | Modern Medicine | Natural Science | An operating table |
 
-The second scholar needs half the level that leading a subject of that age in their discipline would take. A lone scholar can still finish: without the second scholar the work runs at a quarter speed, and without the facility at half speed. On every other late subject, a second scholar who could research it too makes the work 25% faster.
+The second scholar needs half the level that leading a subject of that age in their discipline would take. A lone scholar can still finish: without the second scholar the work runs at a quarter speed, and without the facility at half speed. On every other subject, in every age, research goes faster with help: up to two more scholars who could research the subject themselves each add half of their own pace, so a team of three works at up to double speed. The helpers stand at the bench with a writing tool in hand, and they gain scholarship from the work at half the lead's rate. **Speed right now** on the bench shows what the helpers add.
 
 ### Rushing
 
