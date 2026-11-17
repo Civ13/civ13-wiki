@@ -87,7 +87,7 @@ If the world starts saving, the practice room closes and sends you back to the L
 
 ### In-game tutorial
 
-The first time you join as a character, a short tutorial walks you through the basics on your real character. Each step appears in chat and as a line at the top of the screen; click that line to see the step again. Most steps finish by themselves when you do what they ask:
+The first time you join as a character, the game asks three quick questions: how movement should feel, where the name of the thing under your mouse is shown, and which HUD style you want. Pick what suits you or close a question to keep the default; all three can be changed later in **Settings** under **Controls and HUD**. Then a short tutorial walks you through the basics on your real character. Each step appears in chat and as a line at the top of the screen; click that line to see the step again. Most steps finish by themselves when you do what they ask:
 
 1. Walk a few tiles with W, A, S and D.
 2. Look at your health, food, water and stamina on the HUD.
