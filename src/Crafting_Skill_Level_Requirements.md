@@ -1,5 +1,7 @@
 # Crafting Skill Level Requirements
 
+When your skill is too low for a recipe the game names the skill, the level needed and your own, for example "Needs Crafting 170. Yours is 112." The game shows a skill of 1.7 as 170. The Crafting window shows the same line on the recipe before you try it.
+
 <table>
 <tbody>
 <tr>
