@@ -520,7 +520,7 @@ Click the tiller to sail:
 
 | Choice | What it does |
 | --- | --- |
-| **Weigh anchor / Drop anchor** | A new hull lies at anchor and never moves until it is weighed |
+| **Weigh anchor / Drop anchor** | A new hull lies stopped until her anchor is weighed. See [Anchors and mooring](#anchors-and-mooring) for what holds her |
 | **Slow ahead**, **Half ahead**, **Full ahead**, **All stop** | Under way she creeps smoothly along her heading with every floor, wall, crate and person aboard, and her crew can keep walking her deck as she goes: a tile every **15 seconds** at slow ahead, every **7.5** at half and every **5** at full. Half ahead needs sails, oars or an engine, full ahead needs engines or oars (below) |
 | **Head north / east / south / west** | She comes about around the tiller five seconds later; everything aboard turns with her |
 | **Sea chart** | Where she is, the ships her lookout sees and every harbour on this sea (see [Harbours and the sea chart](#harbours-and-the-sea-chart)) |
@@ -586,6 +586,22 @@ Everything on the deck of a boat or ship weighs on her: crew, crates and what is
 - **Overladen:** past twice her burden she rides so low that the sea slops over her side while she sails. The bilge fills until she is awash, though this alone will not sink her. Lighten her or keep bailing.
 - **Ballast:** a ship of 41 tiles or more needs weight low in her to stand up to her sails: a twentieth of her tiles for every rigged mast. A 60-tile ship with two masts wants 6. Without it she is **crank**: under sail in a strong wind she heels and ships water over the rail. Any cargo counts, and a few stacks of stone are the cheap way.
 - The **tiller** shows her weight against her burden and tells you if she is deep laden, overladen or crank. Everyone aboard is told when she goes a mark deeper.
+
+### Anchors and mooring
+
+A boat or ship of 13 tiles or more needs something to hold her when you choose **Drop anchor** at the tiller. Small craft need nothing.
+
+| What holds her | How |
+| --- | --- |
+| **Killick** | 8 planks, vehicle parts, **Oared Ships**. A wooden anchor weighted with a stone. Build it on her deck. Holds 40 tiles of hull. |
+| **Anchor** | 8 iron, vehicle parts, **Wagons & Ships**. Build it on her deck. Holds 100 tiles of hull. |
+| **Mooring post or bollard** | Lie with any part of her within two tiles of one and drop anchor: her lines go to the post. |
+
+- Anchors add up, and together they have to cover every tile of her. A 30-tile boat lies to one killick; a 150-tile ship wants two iron anchors.
+- **Drifting:** with her anchor up and no way on, or with her anchor down and nothing to hold her, she drifts while anyone is aboard: a tile every half minute with the current, or before the wind when it blows at all hard. The shore and other hulls stop her. Everyone aboard is told when she starts to drift.
+- A boat with **nobody aboard stays where she was left**, held or not.
+- The tiller and the anchor itself tell you whether she is held. An anchor weighs on her like any other load.
+- A hull that was already afloat before anchors had to be built keeps the anchor she always had.
 
 ### Caulking
 
