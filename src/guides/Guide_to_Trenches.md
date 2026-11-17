@@ -84,6 +84,8 @@ Once your people know **Siege Engines**, you can build a battering ram, a ballis
 
 **Battlements.** A crenelated wall you build protects the side you were facing while you built it, so face outward. Defenders behind it shoot out over it freely, most shots from outside are stopped, and someone lying down behind it can't be hit at all.
 
+**Parapets.** A **parapet** (4 stone, or 4 sandstone for a sandstone parapet, from Fortifications) is the battlement for the walkway on top of your wall. Stand on the walkway, face out and build it: it runs along the outer edge of the tile you stand on, so a walkway one tile wide keeps its room to walk. It covers whoever stands on that tile the same way a battlement does, and nobody can walk or climb over it, so nobody steps off the wall by accident.
+
 **Pouring from above.** Heat a container first: hold it over a lit brazier, hearth, campfire or stove on grab intent for a few seconds. It stays hot for about two minutes. Boiling water scalds, hot oil burns badly and leaves a slick, and hot pitch sticks and sets people alight. Hot sand gets under armour, and molten lead is the worst of all. Quicklime needs no heating; it burns eyes and blinds. Sand, quicklime and lead sheets go into a container a piece at a time; melt lead before you pour it. A big pot (60 units or more) splashes the tiles around the target too. Oil and pitch slicks burst into flame when a torch or a fire arrow reaches them. Pitch comes from a **tar kiln** (6 stone): load it with ten pieces of wood, light it with a torch, and two minutes later draw off the pitch.
 
 **Dropping things.** Anything dropped through a murder hole or off a ledge falls on whoever is below: stones and logs hurt badly, and a helmet helps.

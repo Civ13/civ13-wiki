@@ -14,7 +14,7 @@ This page walks through laying out and holding a castle. The tools themselves ar
 ## The walls
 
 1. **Build the curtain wall of stone.** Timber burns and straw does nothing. A stone, clay or timber wall can take an arrow slit; stand inside it, square on, and cut the slit with a chisel. Cut slits where the approach is open, a few tiles apart, and keep one archer per slit: only the person right behind it shoots out.
-2. **Crown the wall with battlements.** Build crenelated walls facing outward. Defenders behind them shoot over freely, and lying down makes them safe from arrows.
+2. **Crown the wall with parapets.** Put a floor over the wall so you can walk on top of it. Then, standing on that walkway and facing out, build parapets along its outer edge. Defenders behind them shoot over freely, and lying down makes them safe from arrows. On a wider wall top, full crenelated walls (battlements) do the same job.
 3. **Hang the wall with machicolations** (or cheaper hoardings early on) facing out over the foot of the wall. That is where attackers stand to set ladders and rams.
 
 ## The gateway
