@@ -85,6 +85,14 @@ research levels on the Character tab. If you are not a part of a
 faction, checking the current epoch on the Status tab will give you a
 general idea about the available recipes.
 
+Below the recipes, **Use a tool or station on it** lists the other ways
+to turn the material into something else, such as scraping a raw hide
+with a knife or sawing logs. Click one to see what it makes, which tool or
+station it needs, whether you have one in your hands, on you or next to
+you, and the steps. These are done in the world, not from the window:
+hold the tool and use it on the material. **Open in Atlas** shows the
+full page.
+
 Some recipes also become obsolete over time and, consequently, are
 removed from the list in the later epochs.
 
