@@ -208,8 +208,20 @@ Examine the locomotive to see its notch, reverser, speed, a steam locomotive's p
 
 - The faster and heavier the train, the harder it hits. A train creeping along shoves a person off the rails with a bruise and stops in front of crates and furniture without breaking them.
 - At speed it throws people clear of the track, badly hurt or worse, and keeps going. It smashes anything solid in its way and stops there. A wall, pillar, door or barricade on the line takes the blow like a ram: a fast train breaks through a weak wall and keeps going, while a strong one stops it. A broken wall can bring down the roof it held.
-- A train that runs into another at speed damages both of them.
 - Set the levers before you leave. A switcher set to split sends the train onto the side track. Look before you start, and warn people near the line.
+
+### Crashes
+
+A train that is stopped dead at speed is wrecked. It happens when a running train hits another train, a strong wall or anything else it cannot push through. A light train crashes from a little over half its top speed, and a long, heavy one from much less. Slower than that it only bumps and stops.
+
+- **The front of the train takes the worst of it.** The car that hits takes the full blow, the one behind it half, the third a third, and so on down the train.
+- **Cars come off the rails.** A hard crash derails the leading car, a harder one the first two or three. The train that was hit can lose a car the same way. A derailed car or engine stops its whole train until it is welded: one pass with a **welding tool** on each wrecked section of a car, or one on a heavy locomotive, puts it back. A small one-tile locomotive stays on the rails but its fire goes out.
+- **Couplings break.** The couplings between the leading cars are strained and can snap, which parts the train there. Mend or replace them as usual (see [Couplings](#couplings)).
+- **Riders are thrown.** Everyone aboard is hurt, knocked off their feet and thrown towards the front of the train, hardest in the leading cars. Walls, doors and furniture stop them. Someone buckled into a seat is hurt half as much and stays put, so the back of the train, sitting down, is the safest place to be.
+- **Cargo shifts.** Loose crates and other cargo slide forward and can go over the end of an open car. In a hard crash, cargo secured to a transport wagon breaks loose as well.
+- **The train stops.** Every engine is left standing with its throttle shut.
+
+Watch the line ahead, keep your speed down where you cannot see far, and start braking early: a heavy train needs a long way to stop.
 
 ## Carrying passengers and cargo
 
