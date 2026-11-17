@@ -112,7 +112,7 @@ Ways of parting fish and the like with their element.
 <tr>
 <td><img src="../images/Bone_harpoon.png"></td>
 <td><b>Harpoon or flint spear</b></td>
-<td>Stand by shallow water and use a harpoon (a bone harpoon is made from 4 bone) or a flint spear on it to spear a fish. Each strike takes about 10 seconds and lands a fish about a third of the time in well-stocked water, which is better than a sharpened stick. Deep water cannot be speared.</td>
+<td>Stand by shallow water and use a harpoon (a bone harpoon is made from 4 bone, a chitin harpoon from 3 chitin) or a flint spear on it to spear a fish. Each strike takes about 10 seconds and lands a fish about a third of the time in well-stocked water, which is better than a sharpened stick. Deep water cannot be speared.</td>
 </tr>
 <tr>
 <td><img src="../images/fishing_pole.png"></td>

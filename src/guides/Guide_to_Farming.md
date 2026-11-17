@@ -167,11 +167,12 @@ Furnaces, factories, engines and spilled fuel pollute the ground nearby. On grim
 
 Many kinds of animals leave manure on the ground, which could be used to
 fertilize a field. This is one way to restore nutrition to your soil.
-You can use manure, fertilizer, or dung to nourish it.
+You can use manure, fertilizer, dung or crushed shell to nourish it.
 By fertilizing the soil, you will automatically fertilize all the soil in 3x3, around the soil that you have fertilized.
 
 Manure: 10 points of nutrition,
 Dung: 20 nutrition points,
+Crushed shell: 15 nutrition points for each handful (made from [crab chitin](Guide_to_Ranching.md#chitin-from-crabs-and-beetles)),
 Fertilizer: 60 nutrition points.
 
 The **compost bin** (10 wood, "economy and production" section) also turns food scraps, plant matter (seeds, some plants) and something unpleasant else into fertilizer. Just place it in the bin and wait for a while. Fertilizer could also be used to refuel ovens etc.

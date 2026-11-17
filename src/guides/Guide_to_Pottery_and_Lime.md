@@ -41,11 +41,11 @@ For the next minute and a half, a firing you start in a furnace beside the bello
 
 ## Lime kiln
 
-1. Use **stone** or **marble** on the kiln. It holds 20 blocks.
+1. Use **stone**, **marble** or **crushed shell** on the kiln. It holds 20 in all.
 2. Add fuel: wood, planks, charcoal or coal.
 3. Click the kiln with an empty hand to light it.
 
-After about 40 seconds it leaves one quicklime for each block. Right-click the kiln and choose **Empty** to take an unburnt charge back out.
+After about 40 seconds it leaves one quicklime for each block or handful of shell. Crushed shell comes from [crab chitin](Guide_to_Ranching.md#chitin-from-crabs-and-beetles). Right-click the kiln and choose **Empty** to take an unburnt charge back out.
 
 Quicklime goes into cement bricks at the brick mould bench, and into concrete at a [cement mixer](Guide_to_Construction.md#concrete).
 

@@ -10,6 +10,23 @@ Both routes give the same meat and food byproducts. Grab skinning takes longer a
 
 Butchering trains the **hunting** skill, and a skilled hunter cuts more food from each carcass. Above 1.0 hunting, every 0.01 adds 1% more meat portions (or pig legs and chicken carcasses) and animal fat: at 1.5 you get about half again as much, and at 2.0 or higher double. Organs, bones, sinew, hides and pelts do not change with skill.
 
+### Chitin from crabs and beetles
+
+<img src="../images/Chitin.png"> Crabs, trilobites and phosphor beetles have a hard shell instead of bone. Butchering one leaves **chitin** beside the crab meat: a small crab or a beetle gives **1**, a full-grown crab or a trilobite **2**. A skilled hunter cuts more, the same as with meat.
+
+| Item | Chitin | Research |
+| --- | --- | --- |
+| Chitin mask | 4 | Weaving |
+| Chitin helmet | 7 | Primitive Armor |
+| Chitin armor | 14 | Primitive Armor |
+| Chitin buckler | 7 | Primitive Armor |
+| Chitin shield | 10 | Primitive Armor |
+| <img src="../images/Chitin_harpoon.png"> Chitin harpoon | 3 | Stone Arms |
+| <img src="../images/Chitin_beads.png"> Chitin beads | 1 | Regalia & Heraldry |
+| <img src="../images/Crushed_shell.png"> Crushed shell | 1 | Resource Processing |
+
+The chitin harpoon spears fish like a [bone harpoon](Guide_to_Fishing.md#equipment). **Crushed shell** stacks. Spread a handful on [farm soil](Guide_to_Farming.md#fertilizing) to feed it, or burn it in a [lime kiln](Guide_to_Pottery_and_Lime.md#lime-kiln) for quicklime.
+
 ### Hide yields
 
 A hide comes off in pieces about 60 cm square, the same size as one leather sheet or one pelt in recipes. Bigger animals give more:

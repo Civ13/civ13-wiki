@@ -131,6 +131,16 @@
 <td></td>
 </tr>
 <tr>
+<td>Chitin harpoon</td>
+<td>
+<img src="../images/Chitin_harpoon.png">
+</td>
+<td>A barbed point cut from crab shell on a shaft, made from <b>3 chitin</b>. Throw it, or use it on shallow water to <a href="Guide_to_Fishing.md#equipment">spear fish</a>.</td>
+<td>5000 B.C. - 313 B.C.</td>
+<td>Yes</td>
+<td></td>
+</tr>
+<tr>
 <td>Bola</td>
 <td>
 <img src="../images/Bola.png">
