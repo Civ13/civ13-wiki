@@ -26,7 +26,7 @@ Flu passes to someone standing right next to a sick person, and a sneeze can car
 
 A sick person's blood and raw flesh carry their illness. Blood drawn from someone with plague, typhus, cholera or malaria infects whoever it is injected into, and drinking it is a chance to catch it (malaria only passes by injection). Meat butchered from a sick body carries plague, typhus, cholera or intestinal worms. Cooking meat in an oven or pot kills every germ in it.
 
-Resting buckled to a bed (not a chair) helps the body fight any illness twice as fast. A doctor's handbook used on a patient names the illness, its stage and how to treat it.
+Resting buckled to a bed (not a chair) helps the body fight any illness twice as fast. Being ill does not stop you using **Sleep** in a bed: flu passes twice as fast while you sleep there, and a severe illness or worms simply waits until you wake. A doctor's handbook used on a patient names the illness, its stage and how to treat it.
 
 ## First-Aid
 

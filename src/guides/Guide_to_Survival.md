@@ -107,7 +107,7 @@ Stand beside the fire, never in it, and work along the edge that is moving towar
 
 ## Smoke signals
 
-A lit campfire or fire pit under the open sky can send smoke signals. Hold leather or cloth and click the burning fire: one piece burns away and a column of smoke rises over the fire for a few seconds. Everyone awake and outdoors on the same level within 300 tiles is told which way the smoke is and roughly how far, from close by to very far off. People indoors do not see it, and a fire under a roof cannot send one. A fire on a roof is seen 100 tiles further for each storey it stands above the ground, and people outdoors on the ground below see it as well. After each signal the fire needs about half a minute before the next. Anyone can read the smoke, friend or foe, so agree on what your signals mean beforehand.
+A lit campfire or fire pit under the open sky can send smoke signals. Hold leather or cloth and click the burning fire: one piece burns away and a column of smoke rises over the fire for a few seconds. Everyone awake and outdoors on the same level within 300 tiles is told which way the smoke is and roughly how far, from close by to very far off. People indoors do not see it, and a fire under a roof cannot send one. A fire on a roof is seen 100 tiles further for each storey it stands above the ground, and people outdoors on the ground below see it as well. After each signal the fire needs about half a minute before the next. Anyone can read the smoke, friend or foe, so agree on what your signals mean beforehand. The fire tells you whether anyone was outdoors to see your signal, and examining a lit fire under the open sky reminds you how to send one.
 
 ## Abandoned debris
 
