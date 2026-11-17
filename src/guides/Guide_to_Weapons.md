@@ -1073,20 +1073,34 @@ The bench repairs **25 condition** at a cost of **1 maximum condition**, taking 
 
 ## Reloading Mechanism
 
-### Arquebus ( Late Medieval )
+### Matchlocks, arquebuses and handcannons ( Late Medieval )
+
+This covers the matchlock musket, Jezail, tanegashima, arquebus, handcannon and fire lance.
 
 1. Add **Gunpowder**
 
-   Either from barrel full of **Gunpowder** or **Gunpowder pouch.**
-   
-2. Add **Projectiles** 
+   Click the gun with a container holding gunpowder, such as a barrel or a **gunpowder pouch**.
 
-   Musket balls; **Can be made from any materials.**
-   
-3. Cock the flintlock/musket and **Fire**
+2. Add a **Projectile**
+
+   Click the gun with a **musket ball** or a **stone ball**. You can also skip step 1 and load a **musket cartridge**, which holds both the powder and the ball.
+
+3. **Fire**
+
+   The matchlock musket and tanegashima fire normally once loaded. The Jezail, arquebus, handcannon and fire lance fire when you touch them with a lit torch.
+
+### Flintlocks ( Early Modern )
+
+1. Make **cartridges**
+
+   Flintlocks load paper cartridges, not loose balls: see [Iron projectiles](Guide_to_Crafting.md#iron-projectiles). Muskets take musket cartridges and pistols take pistol cartridges.
+
+2. **Load** the cartridge while the gun is uncocked.
+
+3. Cock the flintlock and **Fire**
 
    **Press Z to cock the musket.**
-   
+
 > Tip: Keep powder in a gunpowder pouch and musket balls within reach. These weapons fire one shot before reloading; have a plan for the reload.
 
 A flintlock's flint wears down after a few dozen shots and then misfires about half the time. Use a sharpened flint on the gun to fit a new one; see [Gunflint in flintlocks](Guide_to_Flint.md#gunflint-in-flintlocks).
