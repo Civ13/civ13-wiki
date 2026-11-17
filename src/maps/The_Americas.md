@@ -84,7 +84,7 @@ On hilly maps bullets also drop with range. Each weapon is sighted for a set dis
 
 ### Tamping paths and grading hills
 
-Craft a **stone rammer** from 2 stone (Tools, once you have studied **Basic Toolmaking**). Click bare dirt with it to pound the tile into **tamped earth** in a few seconds; stronger characters work faster. Tamped earth keeps the shape of the hill, but climbing onto it is about half as hard, and it never turns to mud in the rain. Clear grass with a shovel first, and clear any snow; the rammer will not work on a tile with a crop or a floor on it. A shovel breaks tamped earth back into loose dirt.
+Craft a **stone rammer** from 2 stone and a wood handle (Tools, once you have studied **Basic Toolmaking**). Click bare dirt with it to pound the tile into **tamped earth** in a few seconds; stronger characters work faster. Tamped earth keeps the shape of the hill, but climbing onto it is about half as hard, and it never turns to mud in the rain. Clear grass with a shovel first, and clear any snow; the rammer will not work on a tile with a crop or a floor on it. A shovel breaks tamped earth back into loose dirt.
 
 To change the ground itself, grade it one level at a time:
 

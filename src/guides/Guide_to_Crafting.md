@@ -160,7 +160,7 @@ Pioneers, only the Blacksmith can use the anvil.
 <tr>
 <td><img src="../images/hammer.png"> <img src="../images/clawhammer.png"></td>
 <td><b>Hammer</b></td>
-<td>Made with 5 wood logs. Used to deconstruct floors, fences, beds, chairs, tables, braziers, wooden roof supports and many other things - click something with a hammer to see whether it could be deconstructed. Also used to fix and unfix custom signs, paintings and mirrors in place. A clawhammer (the bottom one) is made with 3 iron ingots and functions as a modern and quicker variant of the hammer. Also, do not be surprised if you see your local <b><a href="Guide_to_Cooking.md#kitchen-implements">chef</a></b> brandishing one.</td>
+<td>Made with 5 wood logs. Used to deconstruct floors, fences, beds, chairs, tables, braziers, wooden roof supports and many other things - click something with a hammer to see whether it could be deconstructed. Also used to fix and unfix custom signs, paintings and mirrors in place. A clawhammer (the bottom one) is made with 3 iron ingots and a wood handle and functions as a modern and quicker variant of the hammer. Also, do not be surprised if you see your local <b><a href="Guide_to_Cooking.md#kitchen-implements">chef</a></b> brandishing one.</td>
 </tr>
 <tr>
 <td><img src="../images/bone_shovel.png"> <img src="../images/shovel.png"></td>
@@ -218,6 +218,7 @@ Pioneers, only the Blacksmith can use the anvil.
 - **Motion detector:** 3 electronics, in the tools category, after Digital Computing. Switch it on and hold it. Anything within seven tiles that has just moved shows to you as a blip, even through walls, while anything keeping still stays hidden.
 - **Labels:** with a pen in your hand, right-click a crate, closet, barrel or bag and choose **Write Label** to add up to 24 letters to its name. Leave the label empty to remove it.
 - **Crafted flint axes and stone hatchets** go straight into your empty active hand when possible.
+- **Wood handles:** hafted tools use up one wood handle held in your hands or worn: hatchets, pickaxes, shovels, spears (not the wood spear), the battle axe, the stone rammer, stone adze and stone-headed club, metal hammers and the clawhammer, metal hoes, the pitchfork and the fire hook. The Crafting window lists the handle with a tick once you have one, and keeps the recipe out of **Ready** until then.
 
 ## Resources
 

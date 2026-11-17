@@ -51,7 +51,7 @@ The hand axe and hide scraper only show up once you know **Basic Toolmaking**.
 | --- | --- | --- |
 | <img src="../images/Digging_stick.png"> Digging stick | 2 wood, **Tools** tab | Breaks ground for planting like a plough, at half the speed. See [Farming](Guide_to_Farming.md#tools). |
 | <img src="../images/Bone_needle.png"> Bone needle and awl | 1 bone | Mends worn clothing. Hold sinew, leather, rawhide or a pelt in your other hand and use the needle on the clothing. Each stitch uses one piece. |
-| <img src="../images/Stone_adze.png"> Stone adze | 3 stone, **Tools** tab | Use it on logs to hew them into finished planks: two planks from two logs, where a hatchet gets one. It is slower than a hatchet, and on harm intent it cuts like one. |
+| <img src="../images/Stone_adze.png"> Stone adze | 3 stone and a wood handle, **Tools** tab | Use it on logs to hew them into finished planks: two planks from two logs, where a hatchet gets one. It is slower than a hatchet, and on harm intent it cuts like one. |
 
 These tools are made in the Stone and Bronze Ages, after **Basic Toolmaking**.
 

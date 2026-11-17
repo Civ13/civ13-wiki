@@ -40,7 +40,7 @@ See the **[Full Crafting List](../Full_Crafting_List.md)** for more details abou
 <tr>
 <td><img src="../images/hammer.png"> <img src="../images/clawhammer.png"></td>
 <td><b>Hammer</b></td>
-<td>Made with 5 wood logs or 3 iron ingots (clawhammer, the bottom one, a modern and quicker variant of the hammer). Beat the crap out of food to rid it of any contaminants (at least sizeable ones)! Required in some culinary processes. Same as knife, has use in other areas - <b><a href="Guide_to_Crafting.md#tools">Guide to Crafting</a></b>.</td>
+<td>Made with 5 wood logs, or 3 iron ingots and a wood handle (clawhammer, the bottom one, a modern and quicker variant of the hammer). Beat the crap out of food to rid it of any contaminants (at least sizeable ones)! Required in some culinary processes. Same as knife, has use in other areas - <b><a href="Guide_to_Crafting.md#tools">Guide to Crafting</a></b>.</td>
 </tr>
 <tr>
 <td><img src="../images/mill.png"></td>

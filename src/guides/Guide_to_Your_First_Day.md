@@ -49,7 +49,7 @@ The Stone Age master book has twelve chapters. None of them needs another chapte
 
 | Chapter | What it gives you on day one |
 | --- | --- |
-| **Basic Toolmaking** | The **stone hatchet** (2 stone), **wood handle**, **wooden spade** and bone shovel, **wooden ladder**, knives, the **tanning rack** and leather, the **dehydrator** for drying meat, fishing rods and nets, rope |
+| **Basic Toolmaking** | The **stone hatchet** (2 stone and a wood handle), **wood handle**, **wooden spade** and bone shovel, **wooden ladder**, knives, the **tanning rack** and leather, the **dehydrator** for drying meat, fishing rods and nets, rope |
 | **Basic Furniture** | **Bed** (4 planks), **brazier** (stone), tables, chairs and the writing desk |
 | **Pottery & Cookware** | **Wooden mug** (1 log), **bucket** (2 planks), clay pots and cups, the clay **cooking pot**, waterskin, wooden bowl |
 | **Primitive Construction** | **Log walls** (4 logs, built in steps), **roof supports** (2 logs), the **wood roof builder** (1 plank), doors, fences, wooden floors and stairs, **mine supports**, **torches**, the **travois** |
