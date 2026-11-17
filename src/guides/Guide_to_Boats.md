@@ -123,6 +123,18 @@ The **RHIB** is built exactly like a motor outrigger, from a **rigid hull inflat
 - An engine of **150 to 600 cc**. See [Boat engines](#boat-engines) for which types fit.
 - A fuel tank of up to **200 units**, such as the 180u medium fuel tank.
 
+## Damaged small boats
+
+Rafts, dugout canoes, outriggers and RHIBs are tight for as long as they are sound. Knock one about and she starts to take water.
+
+- **Damage:** a weapon swung at her in anger (harm intent) or a shot that hits her wears her down. Blows never break her up, but they can leave her a hulk.
+- **Leaking:** below half her strength she ships water as she moves, faster the worse she is. You are told when the water starts coming in and when she is half full. Looking at her tells you how damaged she is and how much water is in her. She takes no water while she lies still.
+- **Swamped:** at ten bucketfuls she lies awash and will not move. You stay aboard and nothing is lost, but she goes nowhere until she is bailed.
+- **Bailing:** use an **empty bucket** on her. Every three seconds takes out three bucketfuls, and you keep going until she is dry or you stop.
+- **Mending:** use **wood or planks** on her, or **cloth** on a RHIB. Each piece takes five seconds and gives back a quarter of her strength. Once she is back above half she stops leaking.
+
+Bigger hulls that you build tile by tile have their own rules: see [Bilge water](#bilge-water) and [Holes and sinking](#holes-and-sinking).
+
 ## Boat engines
 
 Motorboats take any engine made with the [engine maker](Guide_to_Crafting.md#engines). The **steam engine doesn't fit**, because it needs a separate furnace. The type decides which fuel the boat burns. Some types have a minimum size, which rules out the smaller outrigger sizes:
