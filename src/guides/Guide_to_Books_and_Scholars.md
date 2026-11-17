@@ -56,8 +56,7 @@ The first time anyone finishes a capstone chapter, the whole world moves into th
 
 You don't have to wait at the bench for the whole time. From the Stone Age on, things you do out in the world also count as research. Do the work, then stand at a bench that is researching the subject, and your experience is written into the book. Each book takes each piece of work once, and the subject's details in the bench window show how far along you are.
 
-- **Deeds.** The subjects of the first two ages each ask for two or three particular pieces of work that use what you already know. Cooperage wants two tool handles, a set of wooden dowels and a workbench; Field Surgery wants bandages, splints and a mortar and pestle; Early Chemical Cells wants a clay kiln and three unfired clay molds. Together a subject's deeds are worth half of it, and the bench window lists them by name.
-- **Practice.** Later subjects, up to the Industrial Age, count practice instead. Making things a subject builds on counts towards it. For example, making things Basic Toolmaking teaches advances Iron Tools. A subject asks for between 4 and 20 things for each subject it builds on, and practice together is worth half of it. Anything you make in the crafting menu, at an anvil, at a toolsmith's bench or at a fletching bench counts. The bench window lists recipes that count under **Without waiting**, and each time you make one the game tells you it counted and how many you have.
+- **Deeds.** Every subject up to the Industrial Age that builds on earlier ones asks for two or three particular pieces of work that use what you already know. Cooperage wants two tool handles, a set of wooden dowels and a workbench; Brickmaking wants a lime kiln, a mason's saw and three rough stone walls; Wagons & Ships wants a raft, a cart and a carriage; Factories wants a steam engine, a pole lathe and a toolbox. Together a subject's deeds are worth half of it. The bench window lists them by name under **Without waiting**, and each time you finish one the game tells you it counted.
 - **Foraging** advances Basic Toolmaking, Primitive Construction, Pottery & Cookware, Weaving, Herbalism and Basic Agriculture.
 - **Butchering** animals advances Stone Arms, Archery and Primitive Armor.
 
@@ -79,7 +78,7 @@ You don't have to wait at the bench for the whole time. From the Stone Age on, t
 
 Later subjects have their own [field work](#field-work).
 
-**Hands-on work teaches you too.** Each piece of work written into a book, whether practice, foraging, butchering, a prototype, a field study, a recorded find, a sample taken apart at the bench or a demonstration, also raises your own [scholarship](#scholarship) in the subject's discipline. It teaches half again as much as the same progress earned by waiting at the bench, and the skill goes to the person who did the work. Each piece of work teaches you once, so repeating it into a second book adds to the book but not to your skill.
+**Hands-on work teaches you too.** Each piece of work written into a book, whether a deed, foraging, butchering, a prototype, a field study, a recorded find, a sample taken apart at the bench or a demonstration, also raises your own [scholarship](#scholarship) in the subject's discipline. It teaches half again as much as the same progress earned by waiting at the bench, and the skill goes to the person who did the work. Each piece of work teaches you once, so repeating it into a second book adds to the book but not to your skill.
 
 ### Losing an age
 
@@ -286,7 +285,7 @@ Books are still the only way to send knowledge to another land or to keep it aft
 - A scribe doesn't need to be a scholar: anyone can copy chapters at a bench.
 - Got a newcomer and no spare books? Have them stand by while you work, then let them try. A few pieces later they know the trade.
 - New to a discipline? Practise with its tool between study sessions while your stamina recovers.
-- Short on scholarship for the next age? Do the subject's practice, prototypes and field studies yourself instead of waiting at the bench. They teach more.
+- Short on scholarship for the next age? Do the subject's deeds, prototypes and field studies yourself instead of waiting at the bench. They teach more.
 - Keep a bench lit, stocked and next to your bookcases, and research with a pen at a desk nearby.
 - Rip out single chapters to lend or sell, and keep the master book at home.
 
