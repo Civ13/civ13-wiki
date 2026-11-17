@@ -85,6 +85,11 @@ research levels on the Character tab. If you are not a part of a
 faction, checking the current epoch on the Status tab will give you a
 general idea about the available recipes.
 
+A recipe under **Not learned yet** says which technology it needs. Select
+it and press **View in tech tree**: the tech tree opens on that
+technology, with the ones you still have to learn first outlined in
+orange. Press **Details** to see its groundwork and what it unlocks.
+
 Below the recipes, **Use a tool or station on it** lists the other ways
 to turn the material into something else, such as scraping a raw hide
 with a knife or sawing logs. Click one to see what it makes, which tool or
