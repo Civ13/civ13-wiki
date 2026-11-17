@@ -548,8 +548,20 @@ A hull you built takes in water through her seams once she is big enough, and so
 - **When it comes in:** under way, and half as fast while she lies still with someone aboard. A boat at anchor or at a berth with nobody on her deck takes no water at all, so she is as you left her when you come back.
 - **How fast:** left alone under way, a wooden boat is awash in about 45 minutes. Half an hour of sailing lets in about two minutes' worth of bailing for one person on a 30-tile boat; a bigger hull seeps more and wants more hands.
 - **Reading it:** the **tiller** or **steering oar** tells you whether she is a small craft, a boat or a ship and how deep the bilge is: dry, damp, ankle deep, knee deep or awash. Everyone aboard is told when it reaches ankle deep, knee deep and awash.
-- **What it does:** once the bilge is more than damp the water is extra weight for her sails, oars and engines to push, as if her hull were bigger. A boat that made half ahead dry may only make slow ahead knee deep, and she is harder to push off a beach. The water stops rising when she is awash.
+- **What it does:** once the bilge is more than damp the water is extra weight for her sails, oars and engines to push, as if her hull were bigger. A boat that made half ahead dry may only make slow ahead knee deep, and she is harder to push off a beach. Water from her seams stops rising when she is awash, half full: neglect makes her wallow but does not sink her. Holes do.
 - **Bailing:** stand on her deck with an **empty bucket** in your hand and click one of her floors. Each bucketful takes three seconds and goes over the side. You keep bailing until the bilge is dry, you walk away or you put the bucket down, and you can bail while she sails. Several people can bail at once. A bucket with anything in it has to be emptied first.
+
+### Holes and sinking
+
+Any hull you built can be holed, whatever her size and whether she is wood or steel. A tile of her hull whose floor is gone is a hole: shot away, blown out by a mine or a blast, cut out by her own crew, or broken on a reef or in a storm once that plank was already battered. You can see the sea through it, and stepping on it puts you in the water. Walls and cabins knocked down aboard are not holes.
+
+- **The sea comes in fast.** While anyone is aboard or she is under way, each open hole lets in more than one person with a bucket can bail. Everyone aboard is told when she is holed and where, and the tiller counts her holes.
+- **Listing:** three quarters full she lists and makes slow ahead at best.
+- **Patching:** stand on her deck next to the hole with **wood** in your active hand and a **hammer** in the other, and click the open water of the hole. Six seconds and two pieces of wood nail a **hull patch** over it. A patch is a floor again and closes the hole, but it weeps a little, so a patched boat needs somewhat more bailing. If a patch is destroyed the hole is open again.
+- **No refit while holed:** patch her before you refit the hull.
+- **In the shallows** a hull that fills settles on the bottom. She will not sail or turn, but nothing is lost. Patch every hole and bail her to below awash, and she floats again.
+- **On deep water** a hull that fills founders. Her crew is warned every half minute, and after two minutes she goes down unless they have got ahead of the water by then. Bailing her even a little below full stops the count; an open hole will soon start it again, so patch first.
+- **When she goes down** her floors, tiller, masts, engines, guns and everything else built on her are lost. Her crew, loose items and chests are left in the water where she was, with a few timbers. Keep a ship's boat or stay near shore if she is badly hurt.
 
 ### Ship's boats
 
