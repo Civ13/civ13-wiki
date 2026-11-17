@@ -949,6 +949,11 @@ in the roofed area, or even standing next to it.**
 
 A roof is also the floor of the storey above it. Each roof tile you build adds a walkable **upper floor** on the level above, and the game says "finishes building the roof and upper floor" when it does. Before you build, the roof builder tells you whether a floor will be added and, if not, why. To finish an upper floor, stand on it and build a wood, stone or other floor there: it replaces the plain upper floor and the roof below stays. The game refuses a roof that the structure below cannot carry and tells you why, before any material is used. Roofs that already stand are not affected by these rules.
 
+- **Extending an upper floor:** craft a **floor cover** (2 wood), stand at the edge of an upper floor and click the open air beside you with it, or face that spot and use the cover in hand. The new floor gets a roof under it, so the walls and pillars below must be able to hold that roof, and the game tells you if they can't. A roof that has no floor above it yet takes the new floor as its own.
+- **Taking up a floor upstairs:** a hammer takes a finished floor, such as wood or stone, back up to the plain upper floor, and the ceiling below stays. Hammering the plain upper floor itself, or the roof under it from below, removes both, and anything on that tile falls. The game asks before it does that.
+- **Fire upstairs:** a burning finished floor burns down to the plain upper floor, not through the ceiling. The upper floor of a stone or concrete roof does not burn.
+- **Living upstairs:** beds on an upper floor work for Sleep like beds on the ground, and hay bales can be stacked in an upstairs loft.
+
 How many storeys a land allows:
 
 | Land | Storeys |
@@ -980,7 +985,7 @@ A sound four-storey house therefore starts with a stone floor, has stone walls o
 
 A concrete tower goes up to six storeys the same way: lay a concrete or stone floor under every ground-floor wall and pillar, build concrete walls from cement bricks or concrete pillars on every storey, each one over the support below it, and roof every storey, wall tiles included. Every storey must be concrete all the way down: a concrete wall standing on a stone storey is only as strong as the stone. The roof of the sixth storey leaves a walkable roof terrace on top.
 
-**Adding a foundation to a standing house:** put a wooden roof support inside first so nothing falls, then take down one ground-floor wall at a time with a hammer, lay a stone or brick floor on that tile and rebuild the wall on it.
+**Adding a foundation to a standing house:** put a wooden roof support inside first so nothing falls, then take down one ground-floor wall at a time with a hammer, lay a stone or brick floor on that tile and rebuild the wall on it. Taking away a ground-floor wall, pillar or stone floor makes every storey above it check its support again, and any storey that the rest of the house can't carry comes down.
 
 #### Getting between storeys
 
@@ -1197,7 +1202,7 @@ civilized way, swiftly and with resonant "top-top" footfalls! Not only
 that - floors on the surface prevent digging upwards from the
 underground. **Floors can be removed with the hammer.**
 
-A tile holds one floor. To lay a different floor, remove the old one with the hammer first. A floor cover or the upper floor of a storey is the exception: stand on it and build any other floor, such as a wood floor, and the new floor replaces it. The floor cover is used up, and an upper floor keeps the roof below it.
+A tile holds one floor. To lay a different floor, remove the old one with the hammer first. A floor cover or the upper floor of a storey is the exception: stand on it and build any other floor, such as a wood floor, and the new floor replaces it. The floor cover is used up, and an upper floor keeps the roof below it. Upstairs, the hammer takes a finished floor back to the plain upper floor instead of removing it (see [Upper storeys](#upper-storeys)).
 
 <table>
 <tbody>
@@ -1377,7 +1382,8 @@ under a roof or ceiling are only decoration.
 <img src="../images/stairwell_top.png" alt="The open air over stairs, seen from the floor above, shows the top step, rails and arrows pointing down">
 
 **Building stairs down from an upper floor:** take up a floor tile with a
-hammer to make an opening, stand beside it on the floor and face it, then build
+hammer to make an opening (a finished floor first comes back to the plain upper
+floor; hammer that too and confirm), stand beside it on the floor and face it, then build
 the stairs. They go on the ground under the opening and lead back up to the tile
 you stand on. The ground under the opening must be clear: take up any floor
 there with a hammer first. It only works one storey down, onto ground or onto a
