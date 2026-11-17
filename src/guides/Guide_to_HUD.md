@@ -68,7 +68,7 @@ moved or resized yourself stay where you put them.
 
 Bags open in the storage strip, a row of slots over the HUD (see
 [Storing things](Guide_to_Your_First_Day.md#the-storage-strip)). Click the bag
-again while its strip is showing to open the storage window, or pick the window
+again to close its strip, or double-click it to open the storage window. Pick the window
 for every bag in **Character Setup > Settings** (**Bags and containers open in**). You can move the strip too: open the bag before you start editing,
 then drag the strip by its slots, its close button or anything inside it. It can
 be locked like a tile, but not resized. At HUD scales above 100% the strip
