@@ -563,6 +563,17 @@ A hull you built takes in water through her seams once she is big enough, and so
 - **What it does:** once the bilge is more than damp the water is extra weight for her sails, oars and engines to push, as if her hull were bigger. A boat that made half ahead dry may only make slow ahead knee deep, and she is harder to push off a beach. Water from her seams stops rising when she is awash, half full: neglect makes her wallow but does not sink her. Holes do.
 - **Bailing:** stand on her deck with an **empty bucket** in your hand and click one of her floors. Each bucketful takes three seconds and goes over the side. You keep bailing until the bilge is dry, you walk away or you put the bucket down, and you can bail while she sails. Several people can bail at once. A bucket with anything in it has to be emptied first.
 
+### Caulking
+
+A wooden boat or ship keeps the sea out with **tarred oakum** driven into the seams between her planks. Sailing slowly works it loose, and the looser her seams, the faster the bilge fills.
+
+- **Wear:** only time under way wears her seams. A new hull has sound seams. After about an hour of sailing they start working loose, and after a little over two hours they are open and let in twice the water. Everyone aboard is told both times, and the tiller says how her seams are. A hull at anchor does not wear.
+- **Tarred oakum:** use a coil of **rope** on a bucket, pot or other open container holding at least 10 units of **pitch** from a tar kiln. Each coil makes three twists.
+- **Caulking:** bring her to a stop and bail her if she is awash. Stand on her deck with the oakum in your active hand and a **chisel or a hammer** in the other, and click one of her floors. Each twist takes four seconds and tightens three tiles of hull, and you keep going until the job is done or the oakum runs out. A 30-tile boat with open seams wants 7 twists to make her sound again, or 10 in the shallows to make her tight.
+- **On deep water** you can only reach part of her seams, so caulking brings her back to sound and no better.
+- **In the shallows** she can be caulked right down to tight, where she seeps half as fast as a new hull. Lay her over shallow water before a long voyage.
+- Small craft and hulls floored in steel, iron or aluminium have no seams to caulk.
+
 ### Holes and sinking
 
 Any hull you built can be holed, whatever her size and whether she is wood or steel. A tile of her hull whose floor is gone is a hole: shot away, blown out by a mine or a blast, cut out by her own crew, or broken on a reef or in a storm once that plank was already battered. You can see the sea through it, and stepping on it puts you in the water. Walls and cabins knocked down aboard are not holes.
