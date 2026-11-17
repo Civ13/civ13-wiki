@@ -86,6 +86,22 @@ An age lasts only as long as its capstone is written down somewhere. Where an ag
 
 Nobody forgets anything when an age is lost. Anyone who still knows the lost capstone can **write it from memory** into a book, and the world returns to that age at once. A region connected to a mainland never falls below the mainland's age.
 
+### How knowledge spreads
+
+Old knowledge does not stay locked up. Every subject is in one of three states, set by how many ages its own age is behind the world's age. The tech tree and the book and bench windows show the state after the subject's age.
+
+| State | Which subjects | What it means |
+| --- | --- | --- |
+| **Guarded** | The world's age and the one before it | Nothing special. You research it, read it or learn it from someone, as described in this guide. |
+| **Spreading** | Two and three ages behind | Its chapter takes **half the time** to read or to hear read aloud. [Watching and guided work](#teaching-and-apprentices) can teach you the **whole** subject, even a late one. Researching it at a bench goes **three times as fast**. You still need a book, a teacher or a bench. |
+| **Common knowledge** | Four or more ages behind | **Everyone knows it.** A new character starts with it, and everyone else gains it when the world reaches the new age. |
+
+For example, when the world reaches the Industrial Age, every Stone Age subject becomes common knowledge and the Classical and Medieval subjects are spreading. In the Digital Age everything up to WW1 is common, WW2 and the Cold War are spreading, and only the Modern and Digital subjects are guarded.
+
+Common knowledge gives you the subjects only. It does not raise your scholarship or your crafting skills, and you still need the materials, tools and machines. You can write a common subject into a book from memory like anything else you know.
+
+If the world [loses an age](#losing-an-age), nobody forgets what they gained. Characters made afterwards start with less, until the age is won back.
+
 ### The bench window
 
 - **Books on the bench** shows both books and their chapters. A chapter you can study is marked, and clicking any chapter opens its details.
