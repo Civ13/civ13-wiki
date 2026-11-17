@@ -192,6 +192,7 @@ Right-click, **Hitch** still works too.
 - **Injector on** or **Injector off**, on steam locomotives. See [Steam, water and the boiler](#steam-water-and-the-boiler).
 - **Throttle up** and **Throttle down** move between notches 0 and 3. Each notch is a third of the engine's top speed. The train gathers speed over a few tiles rather than jumping to it.
 - **Brake** closes the throttle and puts the engine's own brake on. It holds the engine only, so a long train also needs its handbrakes (see [Brakes](#brakes)). Closing the throttle without braking lets the train coast.
+- **Sand the rails** drops sand under the wheels for the next few tiles so they grip (see [Wheel slip and sand](#wheel-slip-and-sand)).
 - **Reverser** sets forward or backward, and only works while the train is standing. Forward is always the way **that engine** faces, wherever it is in the train. Backing up moves the train with the far end leading. Set the levers for the way that end of the train will go.
 
 Examine the locomotive to see its notch, reverser, speed, a steam locomotive's pressure and water, and whether the train is too heavy for it.
@@ -204,6 +205,24 @@ Examine the locomotive to see its notch, reverser, speed, a steam locomotive's p
 - **What leads the train sets its top speed.** A locomotive running forward at the head gets full speed. A locomotive running backward gets three quarters. Wagons pushed ahead of the engine, forward or backing up, get half, unless a running locomotive is at their head.
 - **An engine at each end**, each facing out, lets a train run at full speed both ways without turning anything round. Drive from the engine that faces the way you want to go.
 - **Trains don't stop on the spot.** Braking takes a couple of tiles for an engine on its own, and many more with a long, heavy train behind it. Coasting takes longer still. Start braking well before a station or a junction.
+
+### Wheel slip and sand
+
+An engine can only pull as hard as its wheels grip the rails. Open the throttle too far on a heavy train that is standing or crawling and the wheels spin: you are told they are slipping, the train gains no speed, and the engine burns fuel for nothing.
+
+- **Start a heavy train gently.** A train near its engine's full load starts on notch 2 and takes notch 3 once it is rolling. A train much too heavy for its engine has to start on notch 1. A light engine or a short train never slips.
+- **Rain and snow make the rails slippery.** In wet weather use a notch lower than you would in the dry.
+- **Sand the rails** when you need the grip: the wheels hold for the next eight tiles, which is enough to get a heavy train moving. Once the train is rolling at a fair speed it no longer slips.
+- **The sandbox holds 20 uses.** The engine's controls show how many are left. Use **sand** on the locomotive to fill it up again.
+
+### Runaway cars
+
+Cars keep rolling. Nothing stops a wagon just because it is no longer coupled to an engine.
+
+- **A train that parts on the move leaves cars rolling.** If a coupling breaks while the train is running, or someone uncouples a car while the train coasts, the part without the engine rolls on by itself the way it was going. It slows down over many tiles, sooner if it is light.
+- **Hit standing cars and they roll away.** Run into cars at more than a crawl and they are knocked rolling down the line, unless a handbrake holds them. To couple up, pin down a handbrake on the cars first, or come up to them very slowly.
+- **A runaway hits whatever is in its way** like any other train, and at speed that is a crash.
+- **Stopping one takes a brake wheel.** A handbrake cannot be pinned down from the ground on a moving car. Someone riding a runaway can wind a brake wheel on, which is one more reason to keep a brake van on the back of the train.
 
 ### Brakes
 
