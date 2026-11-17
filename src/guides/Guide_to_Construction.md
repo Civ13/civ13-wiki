@@ -953,7 +953,8 @@ How many storeys a land allows:
 
 | Land | Storeys |
 | --- | --- |
-| Every land, including [Gaia](../maps/Gaia.md) and [North and South America](../maps/The_Americas.md) | up to four, if the supports carry them (see below) |
+| [Gaia](../maps/Gaia.md), Europe, Asia, the Desert and the Jungle | up to six, if the supports carry them (see below) |
+| [North and South America](../maps/The_Americas.md) | up to four, if the supports carry them |
 
 #### Building a second storey, step by step
 
@@ -969,13 +970,16 @@ How high a building may go depends on its weakest support:
 | Supports | Carry up to |
 | --- | --- |
 | Wood, bamboo, straw, earth and tent walls, wooden and Nordic roof supports, doors | 2 storeys |
-| Stone, brick, clay, sandstone, marble and concrete walls, stone and concrete pillars, columns | 4 storeys |
+| Stone, brick, clay, sandstone and marble walls, stone pillars, columns | 4 storeys |
+| Concrete walls (cement bricks) and concrete pillars | 6 storeys |
 
-- **Foundations:** a third or fourth storey needs ground-floor supports that stand on rock or on a stone, brick, marble, sandstone, slate, concrete or steel floor. Lay that floor first, then build the wall or pillar on it. Supports on soil, sand, grass or a wood floor carry two storeys at most, whatever they are made of: a fortress brick wall built straight on grass still stops at two.
+- **Foundations:** a third storey or higher needs ground-floor supports that stand on rock or on a stone, brick, marble, sandstone, slate, concrete or steel floor. Lay that floor first, then build the wall or pillar on it. Supports on soil, sand, grass or a wood floor carry two storeys at most, whatever they are made of: a fortress brick wall built straight on grass still stops at two.
 - **Supports above supports:** a wall or pillar on an upper floor only counts when a support strong enough for that storey stands on the floor below it, on the same tile or right next to it, all the way down to the ground. A stone wall above a wooden one is only as strong as the wood.
 - **Spans:** from the second storey up, a single distant pillar is not enough. Each new roof tile needs a wall or pillar right next to it, or supports within reach on two different sides. Ground-floor roofs keep the plain rule shown in the image above.
 
 A sound four-storey house therefore starts with a stone floor, has stone walls or pillars on every storey standing over the ones below, and has no room wider than its pillars can hold from two sides.
+
+A concrete tower goes up to six storeys the same way: lay a concrete or stone floor under every ground-floor wall and pillar, build concrete walls from cement bricks or concrete pillars on every storey, each one over the support below it, and roof every storey, wall tiles included. Every storey must be concrete all the way down: a concrete wall standing on a stone storey is only as strong as the stone. The roof of the sixth storey leaves a walkable roof terrace on top.
 
 **Adding a foundation to a standing house:** put a wooden roof support inside first so nothing falls, then take down one ground-floor wall at a time with a hammer, lay a stone or brick floor on that tile and rebuild the wall on it.
 
