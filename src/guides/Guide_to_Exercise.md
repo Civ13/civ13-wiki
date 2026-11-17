@@ -2,36 +2,59 @@
 
 Your **strength**, **dexterity** and **stamina** skills normally grow slowly as you work, fight and travel. Training equipment lets you train them on purpose, in short sets with rest in between. See [Character & Skills](Guide_to_Character.md#skills) for what each skill does.
 
-## Equipment
-
-All four pieces are built from the **sports** section of the crafting menu. They need enough crafting skill and the matching research, and the gym equipment is only available in the Modern era.
-
-| Equipment | Material | Trains | Training limit |
-| --- | --- | --- | --- |
-| Stone lifting weights | 8 stone | Strength | 1.25 |
-| Agility and endurance course marker | 6 wood | Dexterity and stamina | 1.25 |
-| Gym lifting weights | 12 iron | Strength | 1.5 |
-| Gym circuit marker | 8 iron | Dexterity and stamina | 1.5 |
-
-Limits are in the same units as your Stats panel, before mood bonuses. The gym equipment trains a little faster and to a higher limit than the stone and wood versions. Once a skill reaches the equipment's limit, that equipment can no longer train it.
-
 ## Lifting weights
 
-1. Stand next to the weights with an **empty active hand**.
-2. Click the weights to start a repetition. Stay still for **15 seconds**.
-3. Click again for the second and third repetitions.
+Weights are items you carry, made from the **sports** section of the crafting menu.
 
-A set is **three repetitions**. Moving, being interrupted or switching to other equipment cancels the set, and an unfinished set gives no training.
+| Weight | Material | Hands | Suits a strength of | Training limit |
+| --- | --- | --- | --- | --- |
+| Small lifting stone | 2 stone | One | Up to 0.8 | 1.0 |
+| Heavy lifting stone | 5 stone | Both | 0.7 to 1.05 | 1.15 |
+| Great lifting stone | 10 stone | Both | 0.95 and up | 1.25 |
+| Bronze hand weights | 3 bronze | One | 0.4 and up | 1.25 |
+| Iron barbell | 12 iron | Both | 0.9 and up | 1.5 |
+
+Limits are in the same units as your Stats panel, before mood bonuses. The stones need Basic Toolmaking, the hand weights need Bronze Working, and the barbell needs Factories and the Modern era. All but the small stone need some crafting skill to make.
+
+To train:
+
+1. Hold the weight. The two-handed ones need your other hand empty.
+2. Use it in your hand to lift it. Each lift takes about two seconds, and you must stand still for it.
+3. Lift it **six times** for a set. Strength is paid when the set is done.
+
+Take your time between lifts, but a rest of more than half a minute, or putting the weight down, starts the set over.
+
+**Pick the right weight.** Examine a weight to see how it suits you. One that is too heavy slips from your hands. One that has become too light teaches only a quarter as much, so move up through the sizes as you grow. Once your strength reaches a weight's limit it can teach you nothing more.
+
+**Hauling.** Walking about with a heavy stone, a great stone or a barbell in your hands is a workout of its own. Every forty tiles pays a little strength and stamina and costs one fatigue. They are heavy, so you walk more slowly while carrying one.
 
 ## Running a course
 
-The course marker sets out a three-tile square to its northeast.
+An obstacle course is built from pieces you place wherever you like, also from the **sports** section.
 
-1. Stand **on** the marker with an empty active hand and click it. The game tells you which tile to walk to.
-2. Walk to that corner and use **Exercise Step** from the IC tab. Stay still for about **11 seconds**.
-3. Repeat at each corner, going three tiles east, three north, three west and back to the start.
+| Piece | Material | What it does |
+| --- | --- | --- |
+| Course start post | 4 wood and 1 cloth, wool cloth or leather | Starts a run, ends one, and keeps the best time |
+| Course finish post | 3 wood | Ends a run |
+| Log hurdle | 3 wood | Vault it at a run |
+| Balance log | 4 wood | Cross it at a walk |
+| Steel hurdle | 3 steel | A Modern hurdle for a faster, higher course |
 
-A set is **four corners**. You need room for the whole square around the marker.
+The wooden pieces need Primitive Construction. The steel hurdle needs Factories and the Modern era. Right-click an obstacle and choose **Turn Obstacle** to face it the other way. A hammer takes a piece apart.
+
+To run:
+
+1. Touch the **start post**.
+2. Clear at least **three** obstacles.
+   - **Hurdles:** run straight at one to vault it. Now and then you clip it and go sprawling, less often the higher your dexterity. At a walk you clamber over slowly instead.
+   - **Balance logs:** switch to a walk before you step on. Running onto one nearly always throws you off.
+3. Touch a **finish post**, or the start post again if your course is a loop.
+
+Each obstacle counts once a run, and only if there is a clear tile between it and the one before, so spread them out. The run pays dexterity and stamina: more for each obstacle up to eight, and more for a quick pace. Four seconds an obstacle or better earns the most.
+
+A wooden course trains up to **1.25**. In the Modern era, a run that clears at least three steel hurdles trains up to **1.5** and a little faster.
+
+**Best times.** The start post remembers the best run and who made it; examine it to see. A run over more obstacles always takes the record, and over the same number the faster time wins. You can race at any time, even when you are too tired to learn anything from it.
 
 ## Floor exercises
 
@@ -41,7 +64,8 @@ Floor exercises train more slowly than equipment and stop at **1.0**. Past that 
 
 ## Fatigue and rest
 
-- Each completed set adds **2 fatigue**, up to a maximum of 6. At 6 you are too tired to train.
+- Each completed set or course run adds **2 fatigue**, up to a maximum of 6. At 6 you are too tired to gain anything.
+- Each set or run also makes you a little hungrier and thirstier, and you cannot gain while very hungry or thirsty.
 - One fatigue point recovers per minute.
 - The more fatigued you are, the less each set teaches you. Gains are also halved once a skill reaches 1.0.
 - You must be conscious, standing and able to use your hands, and a skill below 0.1 is too low to train.
