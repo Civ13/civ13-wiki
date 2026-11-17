@@ -165,7 +165,7 @@ An airship is a deck you build yourself, on the ground or in the open air, held 
 ![An airship deck of wooden planks with a helm at the stern and two gas cells over it](../images/civ13-airship-deck.png)
 
 1. Use **airship planks** on clear, dry, level ground beside you, with nothing built or standing on it. Each bundle lays one tile of deck. Keep laying planks edge to edge from the deck you already have. A deck can be up to 60 tiles. You can also start the deck in the air from the top of a **wooden ladder** stood on the ground under open air.
-2. Use **gas cells** on the deck to hang them, one per tile. Each cell holds up 12: every tile of deck counts as 1 and so does every person aboard.
+2. Use **gas cells** on the deck to hang them, one per tile. Each cell holds up 12: every tile of wooden deck counts as 1 and so does every person aboard (see [Airship materials](#airship-materials) for lighter and stronger parts).
 3. Set up the **airship helm** on the deck, facing the way you want the bow to point, and use it to commission the deck as an airship and name her.
 4. On the ground, choose **Lift off** at the helm. She needs enough gas cells and open sky over every tile of her deck, so walk her out from under any roof first: on the ground she creeps along over clear ground only.
 5. At the helm, choose **Cast off**, pick a speed and steer north, east, south or west. Choose **Hold position** to stop her where she is.
@@ -180,6 +180,19 @@ An airship is a deck you build yourself, on the ground or in the open air, held 
 | The edge of the deck | Step off and you fall to the ground |
 
 She can also fly higher: build a floor in the open air, stand a ladder on it up to the open air above, and lay her deck from the top of that ladder. However high she flies, the crew sees the ground around her (or any floor or roof built in between), and her shadow falls there. From the deck you can shoot, throw and drop things onto the ground below by aiming at it through the open air, as from a [pedal airship](Guide_to_Crafting.md#fighting-from-the-basket). Board her from a ladder stood up beside her deck. To add planks or take a gas cell down with a wrench, hold position first, then use **Refit the deck** at the helm. **Strike the airship** turns her back into a deck that stays where it is. An airship saved in flight comes back holding her position.
+
+### Airship materials
+
+| Part | Made from | Effect |
+| --- | --- | --- |
+| Airship planks | 3 wood | Weigh 1 per tile and can catch fire |
+| Aluminium airship frame | 3 aluminium | Weighs half as much as planks and does not burn |
+| Steel airship frame | 3 steel | Weighs twice as much as planks, does not burn, and treetops never catch it |
+| Gas cell | 20 cloth | Holds up 12; each hole costs 3 |
+| Rubberised gas cell | Use 5 plastic sheets on a folded gas cell | Holds up 12; each hole costs only 2. Patch it with cloth or plastic |
+| Goldbeater's skin cell | Use 6 sausage casings on a folded gas cell | Holds up 15; each hole costs 5 |
+
+Frames are laid like planks, and one deck can mix them. A wooden deck under a burning gas cell catches fire.
 
 ### Airship damage and bombing
 
