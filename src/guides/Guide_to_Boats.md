@@ -618,6 +618,14 @@ Every mast on a hull you built carries its sail one of three ways. A new sail is
 - A furled sail does not count as a rigged mast for [ballast](#load-and-ballast), so furling also stops a crank ship heeling.
 - The tiller lists how her sails are carried and how many are torn. Sails on small craft of 12 tiles or fewer never tear.
 
+### The watch
+
+A hull is worked from places on her deck, and the helm can ask who is where. Choose **Muster the watch** at the tiller to list everyone aboard and their station: at the helm, at an oar, at a mast, at a pump, at the anchor, in the bow or simply on deck. Anyone can ask; it does not need the ship's papers.
+
+- **Lookout:** on a hull of 13 tiles or more, someone standing in her bow, her two foremost rows of deck, keeps the lookout while she is under way. They see what lies on her course up to twelve tiles ahead and call it to everyone aboard when it is first sighted and again when it is four tiles off or closer.
+- Whoever is at the helm or sat at an oar cannot keep the lookout, and neither can anyone lying down.
+- Without a lookout the crew only learns of what is ahead as she comes up on it, so post one before sailing at speed or near a coast. The muster says when nobody is keeping it.
+
 ### Caulking
 
 A wooden boat or ship keeps the sea out with **tarred oakum** driven into the seams between her planks. Sailing slowly works it loose, and the looser her seams, the faster the bilge fills.
