@@ -263,6 +263,8 @@ Practice is a way to get started, not a way to the top. Each session teaches a l
 
 **Tutoring:** stand beside someone while they study a chapter you know. They finish in two thirds of the time, and if you're still there at the end they gain three times the usual skill and you gain some too. Selling books or tutoring is ordinary trade, so set your own price.
 
+**Reading aloud:** hold a book, open it and press **Read aloud** on a chapter you already know (or right-click the book and choose **Read Chapter Aloud**). Everyone within hearing who has the chapter's groundwork takes it in at half the pace of reading it themselves, and they can keep working while they listen. Walls don't matter, only distance. What they hear counts toward the same chapter in any book, so a listener can finish it by reading later. You need light to read by, you must stay put, and you stop by moving. If you are presenting at a broadcast station, people beside a set tuned to it hear the reading too. You gain a little skill each time a listener finishes.
+
 **Learning a trade by hand:** you can learn a subject from someone who knows it without opening a book, as long as you already know what the subject builds on.
 
 - **Watch.** Stand within 2 tiles while they make one of the subject's things. Each different thing you watch fills 15% of your study of the subject, up to three different things.
