@@ -74,6 +74,8 @@ To make soap, mix 20 units of corn oil with 2 units of lye in a container. Using
 
 Use a pit latrine, wooden outhouse or glass toilet. Keep the area private and clean up afterwards. Open the toilet lid before using it.
 
+**Holding it in:** if you are about to wet or soil yourself and no toilet is near, switch to grab intent, aim at your groin and click yourself with both hands empty. You can hold it for a little while, but you move slowly, your mood drops and your hands are busy. Click again to let go. If you hold on until you can't any longer, the urge only gets worse, so head for a toilet.
+
 **Digging a latrine:**
 
 <img src="../images/pit_latrine.png"><br>
