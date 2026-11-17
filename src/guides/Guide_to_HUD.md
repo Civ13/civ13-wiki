@@ -141,6 +141,12 @@ forest show their names too, as long as you can see part of their canopy.
 To hide the panel completely, use **Toggle Hover Text** in the **OOC** tab.
 Use it again to bring the panel back. The game remembers your choice.
 
+If you would rather read names in one fixed place, use **Hover Text
+Position** in the **OOC** tab and choose **At the bottom of the screen**. The
+name then appears in a line centred just above the bottom row of the HUD
+instead of following the mouse. The same choice is in **Settings** under
+**Controls and HUD**, as **Name under the mouse**.
+
 ## Good to know
 
 - Your layout and scale are saved with your player preferences, so they
