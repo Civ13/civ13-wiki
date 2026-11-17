@@ -1279,7 +1279,19 @@ The airship landed (top) and ridden (bottom).
 | Upper floors and the map edge | It stops in front of them, unharmed |
 | Out of stamina | You stop pedaling and hover until you have rested |
 
-The airship never drops you. If you are pulled from the seat or killed in the air, or the airship is destroyed, it drifts down to the nearest clear ground and nobody is hurt by the landing. Things you drop from it do fall. You need both legs and feet, and you cannot pedal while cuffed.
+If you are pulled from the seat or killed in the air, or the airship is destroyed, it drifts down to the nearest clear ground and nobody is hurt by the landing. Things you drop from it do fall. You need both legs and feet, and you cannot pedal while cuffed.
+
+#### Shooting airships down
+
+From the ground you see an airship's shadow. Bullets and arrows fired across the tile under it, including lobbed arrows, have about an even chance of striking it. About one hit in four comes up through the basket and wounds the rider. The rest hole the gas bag.
+
+| Gas bag | Effect |
+| --- | --- |
+| Each hole | It lifts a fifth less. If you carry more than the holed bag can lift, it sinks to the ground |
+| Four holes | It cannot stay up and sinks to the nearest clear ground. Nobody is hurt |
+| Fire arrows, fire bolts and incendiary slugs | The gas catches fire and the airship falls. The rider is bruised, burnt and set alight |
+
+On the ground, use **cloth** on the airship to stitch a patch over one hole at a time. A burnt gas bag needs six patches. Examine the airship to see how badly it is holed.
 
 ### Motorcycles
 
