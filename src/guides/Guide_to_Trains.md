@@ -125,6 +125,28 @@ Hitch a **coal tender** anywhere in the train for long routes. Whenever the cham
 
 The locomotive doesn't have to be at the front. Hitched in behind wagons it **pushes** them, and in the middle of a train it drives the wagons on both sides of it.
 
+## Couplings
+
+Every wagon, car and engine has a **coupling** at each end. You can see it on the end of the car: a hook with its link hanging free, or a brass screw drawn tight between two hitched cars.
+
+![A train with made couplings between its cars, a broken coupling on the last car, and a car standing apart with one coupling taken off and a spare on the ground](../images/civ13-train-couplings.png)
+
+| You want to | Do this, standing next to the coupling |
+| --- | --- |
+| Couple two cars | Click the coupling with an empty hand. The cars must stand end to end. |
+| Uncouple | Click it with an empty hand and wait a moment. It won't come undone while an engine is pulling: shut the throttle first. |
+| Check it | Shift-click it. |
+| Break it | Hit it with a weapon on harm intent. Each blow wears it down. |
+| Mend it | Use a welding tool on it. |
+| Take it off | Uncouple it, then use a wrench on it. You get the coupling as an item. |
+| Fit one | Click the empty end with a **train coupling** in your hand. Spares cost 4 iron (**Rail & Steam** node, or industrial research **101**). |
+
+Right-click, **Hitch** still works too.
+
+- A **broken coupling parts the train**. The engine runs on with whatever is still hitched to it, and the rest is left standing on the line.
+- Two cars couple only if **both** couplings that meet are whole. A car with a broken or missing coupling can still be hitched by its other end.
+- Explosions damage the couplings of the cars they catch.
+
 ## Driving
 
 **Click the locomotive** to open its controls:
