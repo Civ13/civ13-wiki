@@ -1027,6 +1027,28 @@ Two later cranes carry their own engine. They only haul while they have fuel, ea
 
 With the tower crane, drag the load onto it and pick how many levels to raise or lower it. The load only travels through open air: every level it passes on the way up must be open above the load, and on the way down it follows a gap in the floors within reach of the crane. Examine either crane to see how many hauls of fuel it has left.
 
+#### Lifts
+
+A lift carries you, and whatever stands on the platform with you, up and down a shaft between storeys.
+
+| | Part | Made from | You need to know |
+| --- | --- | --- | --- |
+| <img src="../images/Wooden_lift.png"> | **Wooden lift** | 12 wood | Imperial Architecture |
+| <img src="../images/Lift_bell.png"> | **Lift bell** | 2 wood | Imperial Architecture |
+| <img src="../images/Lift_car.png"> | **Lift car** | 12 iron | Steam Power |
+| <img src="../images/Steam_lift_engine.png"> | **Steam lift engine** | 15 iron | Steam Power |
+| <img src="../images/Electric_lift_motor.png"> | **Electric lift motor** | 10 steel | Electricity |
+| <img src="../images/Lift_call_button.png"> | **Lift call button** | 2 copper | Electricity |
+
+- **The shaft:** build the platform on the bottom storey and leave the same tile open on every storey above it. The platform stops at each storey the open column reaches. Laying a floor across the shaft cuts it off there. While the platform is at a stop, it counts as floor and you can walk over it.
+- **Riding:** stand on the platform and click it, then pick a stop. Everything loose on the platform rides with you. A wooden lift won't take anvils, furnaces, machines and the other loads that need shear legs; an iron **lift car** takes them.
+- **Winding:** on its own, a lift is wound by hand by whoever rides it, which takes 6 seconds a storey. A treadwheel, horse gin, mill wheel or windmill turning beside any stop of the shaft winds it faster.
+- **Steam lift engine:** set it beside any stop of the shaft, bolt it down with a wrench and load it with coal, charcoal or wood like a steam crane. Each storey travelled burns one haul of fuel, and it holds 40. The lift moves about three times faster than by hand.
+- **Electric lift motor:** set it beside any stop, bolt it down with a wrench and connect a powered cable to it. It draws power only while the lift moves, about a second a storey.
+- **Calling the lift:** put a **lift bell** or a **lift call button** beside the shaft on any storey and use it to bring the lift there. With an engine or a motor the lift comes on its own. A hand-wound lift can't: the bell rings, and whoever is on the platform has to wind it down to you.
+
+Examine a lift to see how many stops its shaft has and what drives it, and a steam engine to see how much fuel it has left.
+
 #### Building out over water
 
 A wooden pier or trestle bridge can cross shallow water once you have a **pile driver** (14 wood, Imperial Architecture) and **timber pier spans** (8 wood each). Deep water needs steel or concrete spans. See [Bridges over water](Guide_to_Trains.md#bridges-over-water) for how to lay them.
