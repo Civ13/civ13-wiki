@@ -21,6 +21,10 @@ The bench, dispenser and burner are offered in global and Carib catalogs through
 3. Click the bench and choose the named recipe. Include any catalysts and leave room for the output; the bench scales to the available inputs. Missing inputs, catalysts or output space reject the operation without consuming ingredients.
 4. Use **Remove reaction beaker** when finished. Ejection restores its previous mixing behavior, so remaining reagents can react again. It also clears heat.
 
+## Elements from ore
+
+An empty extraction kit also purifies ore into its element. Use the kit on a stack of iron ore (or sponge or pig iron), silver, gold, copper, tin, calamine, lead, uranium, coal, charcoal, sulphur, saltpeter or bauxite. Each use takes **one** ore from the stack and fills the kit with **5 units**. Saltpeter gives 2.5 potassium and 2.5 nitrogen. The rest of the stack stays, so empty the kit and use it again for more.
+
 ## Gelatin from meat or papaya
 
 An empty extraction kit collects **4 units** from one supported source: collagen from an unspoiled raw meat slab or a cleaned bone (clean a bone with a knife first), Digestive Protease from a vomit decal, or Fruit Protease from an unspoiled papaya. A successful extraction consumes the source. Empty the kit into the bench before reusing it; spoiled or unsupported sources and nonempty kits consume nothing.
