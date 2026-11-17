@@ -27,6 +27,7 @@ Farming and hunting raise the yield of renewable food. Every 0.01 above 1.0 adds
 On persistent worlds, variety and company teach more than repetition:
 
 - **New things teach most.** The first time you craft each different recipe, complete each kind of surgery step or harvest each kind of crop, the skill gain is five times the usual. The next four times are normal, the five after that give half, and from then on a quarter. Making one of everything teaches far more than a hundred of the same knife.
+- **Crafting grows step by step.** However big the thing you make, one craft raises crafting by at most about 2%, so becoming a master crafter takes many crafts.
 - **Work beside a master.** While someone within 2 tiles is awake and at least a quarter better than you at a skill, everything you do with that skill teaches you double. It works for crafting, medical, farming, hunting, throwing, philosophy and the weapon skills, so spar with a better fighter and craft next to a better smith. The master loses nothing.
 - **Mastery teaches scholarship.** Reaching 150, 200 and 250 in a skill gives a large boost to the matching discipline. See [Scholarship](Guide_to_Books_and_Scholars.md#scholarship).
 
