@@ -86,6 +86,15 @@ Use a pit latrine, wooden outhouse or glass toilet. Keep the area private and cl
 
 Fill a pit latrine with four dirt piles to remove it.
 
+**Emptying a latrine:**
+
+A pit latrine or outhouse fills up as it is used. Examine it to see how full it is. A full pit overflows onto the ground, so dig it out before that happens.
+
+- **Night soil:** click the pit with a shovel to dig out one shovelful at a time. Open an outhouse first. Spread night soil on a field like manure, put it in a compost bin, or put it in a barrel with urine to make saltpetre.
+- **Urine:** click the pit with an open bucket, pot or other open container to draw off the urine standing in it.
+
+Night soil is still human waste. Handling it dirties your hands unless you wear gloves, so wash before you eat. Do not leave it lying near water.
+
 **Building an outhouse:**
 
 <img src="../images/outhouse.png"><br>
@@ -98,7 +107,7 @@ Hold at least 35 wood, press **Z**, then choose an outhouse in the **Hygiene** c
 
 Hold glass, press **Z** and choose **Toilet**.
 
-A glass (porcelain) toilet is plumbed: waste in it or on it does not contaminate nearby wells or puddles. Pit latrines and outhouses still do, so keep them away from water.
+A glass (porcelain) toilet is plumbed: waste in it or on it does not contaminate nearby wells or puddles. A pit latrine or outhouse with waste in it fouls wells and puddles within two tiles until it is dug out, so keep them away from water.
 
 ## Shaving
 
