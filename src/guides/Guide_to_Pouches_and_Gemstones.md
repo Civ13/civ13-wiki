@@ -44,7 +44,7 @@ A sheath or holster on your belt leaves your clothes free for a harness or chest
 
 ### Opening one attachment
 
-When a worn belt or garment carries one attachment, clicking it opens that attachment. When it carries several, clicking it shows a row of tiles above your bag window, one tile for each attachment. Click a tile with an empty hand to open or use that attachment, or with an item in your hand to put the item in it. Click the belt or garment again to put the tiles away.
+When a worn belt or garment carries one attachment, clicking it opens that attachment. When it carries several, clicking it shows a row of tiles above your bag window, one tile for each attachment. Point at a tile to see the attachment's name. Click a tile with an empty hand to open or use that attachment (a pouch, sheath or holster) or to take anything else, such as a necklace, off into your hand. Click a tile with an item in your hand to put the item in it. Click the belt or garment again to put the tiles away.
 
 If you click the belt or garment with an item in your hand instead, the item goes into the first attachment that can take it.
 
@@ -177,7 +177,7 @@ Use a chisel on an item with a set stone. After a few seconds the stone comes ou
 | Silver chain necklace | 1 silver | Regalia & Heraldry |
 | Gold chain necklace | 1 gold | Regalia & Heraldry |
 
-Use a necklace on a worn garment to put it on. Others can see it on you.
+Use a necklace on a worn garment to put it on. Others can see it on you. To take it off, use **Remove Accessory** on the garment, or click the necklace's tile with an empty hand when the garment carries more than one attachment.
 
 To give a necklace a pendant, set a cut stone into it as described above, with a chisel in your other hand. The pendant shows in the stone's colour, both in your hand and when worn.
 
