@@ -36,6 +36,13 @@ Click **Tabs...** at the right end of the tab row to open the tab settings:
 Your tabs are saved on your own computer, so they are still there the next
 time you play.
 
+## Repeated messages
+
+When the same message arrives several times in a row, the chat keeps it on one
+line and adds a small counter such as **x2** or **x3** after it, counting each
+copy. A different message in between starts a new line, so the counter only
+ever counts copies that came one after another.
+
 ## Chat history
 
 The chat keeps your recent lines when you move to another land, reconnect,
