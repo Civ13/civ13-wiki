@@ -54,6 +54,8 @@ Every recipe belongs to a chapter, such as **Basic Toolmaking** or **Basic Furni
 
 To study, hold the book, use it in your hand and pick **Study: chapter**. The menu lists the chapters you can study now first, then the ones that need groundwork, then the ones you already know. A Stone Age chapter takes **1 minute**. Stand still until it finishes; you keep the chapter until you die.
 
+In a world that has advanced a long way, you may already know the oldest chapters when you arrive: the game tells you so when you start, and the tech tree marks them as common knowledge. See [How knowledge spreads](Guide_to_Books_and_Scholars.md#how-knowledge-spreads).
+
 ```admonish tip
 Writing supplies need no chapter: once you have **wooden planks**, anyone can make a **pencil** (1 plank), a **sheet of paper** (1 plank), a **blank book** (4 planks) and a **research bench** (8 planks), and a **writing slate** from 2 stone. Planks need no chapter either (see [Tools without a book](#tools-without-a-book)), so a lone player can also start from scratch: make planks, build a bench, put a blank book on it and research Basic Toolmaking yourself. See [Books and Scholars](Guide_to_Books_and_Scholars.md) for research benches, copying books and scholarship.
 ```
