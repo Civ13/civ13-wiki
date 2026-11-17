@@ -36,7 +36,12 @@ Wartime cars (see [Wartime cars](#wartime-cars)):
 | Train lever | 1 iron | Flips every switcher within two tiles. |
 | Mining cart | 10 soft wood | Small storage cart (7 slots). |
 | Steam locomotive | 18 iron | The engine. Burns coal or wood. |
-| Coal tender | 6 iron | Fuel wagon (15 slots) for coal, wood planks and branches. It refuels the engine as the train runs. |
+| Coal tender | 6 iron | Small fuel wagon (15 slots) for coal, wood planks and branches, with a little water. A fireman shovels from it. |
+| Tender kit | 24 iron | Builds a full-size tender with far more coal and water (see [Tenders and water stops](#tenders-and-water-stops)). |
+| Water tower | 30 wood | Holds water beside the track and fills engines and tenders. |
+| Water crane | 8 iron | A standpipe that fills engines and tenders from a water tower nearby. |
+| Fusible plug | 1 lead | Spare safety plug for a steam locomotive's boiler. |
+| Train coupling | 4 iron | Spare coupling for a car end. |
 | Cabin wagon | 4 iron | A covered seat for the driver or passengers. |
 | Flatbed wagon | 4 iron | Carries people, crates and structures. |
 | Transport wagon | 5 iron | A covered storage wagon (8 slots). |
@@ -115,7 +120,7 @@ If a stack would overfill the chamber, it is refused, so split it into a smaller
 
 How much fuel a tile takes depends on the throttle and the load. Idling along costs a quarter of a unit, and full throttle with a fully loaded train costs one unit. An overloaded train costs more. That is about a hundred tiles of hard running per full chamber.
 
-Hitch a **coal tender** anywhere in the train for long routes. Whenever the chamber drops below half, the fireman tops it up from the tender as the train runs.
+For long routes couple a **tender** next to the engine and shovel from it as you go (see [Tenders and water stops](#tenders-and-water-stops)).
 
 ## Steam, water and the boiler
 
@@ -127,6 +132,26 @@ A steam locomotive runs on **steam pressure**, made by boiling water over the fi
 - **Keep the fire up.** With the firebox under half full the pressure falls as you run. A lit fire also burns a little fuel while the engine stands, so drop the fire if you park it for long.
 - **Water.** Working boils the water away. The **injector**, one of the engine's controls, feeds the boiler from the tank as you go and is on to start with. It costs a little steam, so a fireman can turn it off on a hard pull and back on when the driver eases off. Fill the tank by clicking the engine with a bucket or any open vessel of water. A tank lasts about 240 tiles of hard running, a heavy locomotive's about 600.
 - **Never let the boiler run dry.** Everyone nearby is warned when the water is low in the glass. If it runs out with the fire lit, the **fusible plug** melts: steam puts the fire out and the engine is dead where it stands. Nothing explodes. Make a new **fusible plug** (1 lead; **Rail & Steam** node, or industrial research **101**), click the engine with it, then pour in water before you light the fire again. With the engine cold, water goes into the boiler first and then the tank.
+
+## Tenders and water stops
+
+A tender carries the coal and water an engine can't. It must be coupled **directly to the engine**, in front of it or behind it.
+
+![A steam locomotive and its tender standing under a water tower, with an open wagon behind and a water crane further along the line](../images/civ13-train-water-stop.png)
+
+- **Coal tender**: the small one-tile wagon. Its fuel is whatever coal and wood is in its storage, and it carries a little water.
+- **Tender**: built from a **tender kit** on four tiles of straight track, like a platform car. It has a plate at the front to stand on, a coal bunker and a water tank, and holds as much as fifteen fireboxes of fuel and ten engine tanks of water. Click any part of it with coal, wood or a bucket of water to load it. Examine it to see how full it is.
+
+**Nothing feeds the fire for you.** Click the engine with a **shovel** in your hand to throw a load of fuel from the tender into the firebox. Each stroke is about two pieces of coal and you can shovel about once a second, on a moving train too. That is the fireman's job. You can still put fuel in by hand.
+
+The tender's **water** runs to the engine by itself.
+
+To fill up at the trackside:
+
+1. Build a **water tower** next to the line, close enough that the track is within three tiles of it.
+2. Fill the tower. Pour buckets of water into it, or build it within two tiles of fresh water and click it with an empty hand to work its pump. It holds a great deal.
+3. Stop the engine or tender beside the tower and click the tower with an empty hand. Everything within reach is filled.
+4. A **water crane** does the same anywhere within twelve tiles of a tower. Stand it within two tiles of the track. A wrench turns it.
 
 ## Building a train
 
@@ -267,7 +292,7 @@ Heavy locomotives are full-size engines, three tiles wide and four long. They ar
 
 - **Assemble** the kit like a platform car: put it on straight track with three more straight tiles behind it and a clear tile either side, face the way the engine should point and hit it with a **hammer**.
 - **Drive from the cab.** Step into the cab, or stand beside it, and click the locomotive to open the controls. The rest of the body is solid, apart from the diesel's walkways.
-- **Fuel** goes in from anywhere beside the engine. Click it with coal or wood for the steam engines, or with a container of diesel for the diesel. A coal tender hitched into the train feeds the steam engines as usual.
+- **Fuel** goes in from anywhere beside the engine. Click it with coal or wood for the steam engines, or with a container of diesel for the diesel. With a tender coupled next to a steam engine, click the engine with a shovel to fire it from the tender.
 - **Couple** wagons and cars to it with **Hitch**, as with any locomotive. It can pull from the front, push from the back or help another engine.
 - **Keep clear of the line.** A heavy locomotive is as wide as a platform car, and it hits anyone standing beside the rails as well as on them.
 - **Damage.** Explosions wear the engine and its body down. A wrecked engine dies and a wrecked body section stops the train until it is welded. A **welding tool** repairs both.
