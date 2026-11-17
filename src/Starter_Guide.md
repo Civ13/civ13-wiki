@@ -4,6 +4,19 @@
 This guide mostly pertains to survival in the sandbox [Civilizations and Nomads](gamemodes/Civilizations_and_Nomads.md) game mode. On persistent worlds such as [North and South America](maps/The_Americas.md), every recipe has to be studied from a book first: start with [Your First Day](guides/Guide_to_Your_First_Day.md).
 ```
 
+## Your first night
+
+Six things keep a new character alive until morning. Do them in this order.
+
+1. **Fire.** Make a flint axe (see [Spawning in](#spawning-in)), chop a tree for 4 logs and use the logs in your hand to build a **campfire**. Click it with an empty hand to light it. It burns one log every 8 minutes, so about 5 last a whole night.
+2. **Shelter.** Get under a roof before dark or bad weather. A cave is the quickest: roofed ground looks darker. Check that no animal lives there.
+3. **Water.** Click fresh water with an empty hand on **Grab intent** to drink. Clear running water is the safest raw water, and salt water is never safe. Boil it once you have a pot.
+4. **Food.** Pick berries from a bush on **Grab intent**, or kill a small animal such as a rabbit or a bird. Roast meat on the lit campfire before you eat it.
+5. **Warmth.** Watch the temperature icon. If it turns blue, stand next to a lit campfire and keep on any coat you started with. Get out of the rain: wet clothes chill you faster.
+6. **People.** Hold leather or cloth and click a lit campfire under the open sky to send a **smoke signal**. Everyone outdoors a long way off is told which way to walk to reach you.
+
+More on each: [Thirst](#thirst), [Hunger](#hunger), [Temperature](#temperature), [Smoke signals](guides/Guide_to_Survival.md#smoke-signals).
+
 ## Spawning in
 
 - When you spawn, you will be told the languages you know. On most lands you choose your people, which gives you your mother tongue; see [Peoples and Languages](guides/Guide_to_Peoples_and_Languages.md).
