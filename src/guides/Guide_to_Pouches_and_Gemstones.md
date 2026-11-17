@@ -163,6 +163,8 @@ Cut stones are worth much more than rough ones. Diamonds and rubies are worth th
 
 The stone is set into the item, which raises its value and shows when the item is examined. Each item takes one stone.
 
+A gold or silver crown works a little differently: use a cut diamond on it, with or without a chisel, and it becomes an **inlaid crown** that protects a little better. A rough diamond has to be cut first.
+
 ### Taking a stone out
 
 Use a chisel on an item with a set stone. After a few seconds the stone comes out whole and goes into your hand, and the item loses the value it added. You can then set the stone into something else.
