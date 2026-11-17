@@ -534,6 +534,23 @@ Click the tiller to sail:
 - Once commissioned she can sail onto deep salt water. If you strike her out there, the floors are plain planks again and will not last on the deep sea.
 - If the tiller is destroyed she is a raft of planks again. Set a new tiller and commission her.
 
+### Bilge water
+
+A hull you built takes in water through her seams once she is big enough, and somebody has to bail it out. How much work that is depends on her size and what she is made of.
+
+| Hull | Tiles of floor | Water through the seams |
+| --- | --- | --- |
+| Small craft | up to 12 | None |
+| Boat | 13 to 40 | Seeps if she is built of wood |
+| Ship | 41 and up | Seeps if she is built of wood |
+
+- **Steel, iron and aluminium floors** let nothing through. Only tiles floored in wood or other materials seep.
+- **When it comes in:** under way, and half as fast while she lies still with someone aboard. A boat at anchor or at a berth with nobody on her deck takes no water at all, so she is as you left her when you come back.
+- **How fast:** left alone under way, a wooden boat is awash in about 45 minutes. Half an hour of sailing lets in about two minutes' worth of bailing for one person on a 30-tile boat; a bigger hull seeps more and wants more hands.
+- **Reading it:** the **tiller** or **steering oar** tells you whether she is a small craft, a boat or a ship and how deep the bilge is: dry, damp, ankle deep, knee deep or awash. Everyone aboard is told when it reaches ankle deep, knee deep and awash.
+- **What it does:** once the bilge is more than damp the water is extra weight for her sails, oars and engines to push, as if her hull were bigger. A boat that made half ahead dry may only make slow ahead knee deep, and she is harder to push off a beach. The water stops rising when she is awash.
+- **Bailing:** stand on her deck with an **empty bucket** in your hand and click one of her floors. Each bucketful takes three seconds and goes over the side. You keep bailing until the bilge is dry, you walk away or you put the bucket down, and you can bail while she sails. Several people can bail at once. A bucket with anything in it has to be emptied first.
+
 ### Ship's boats
 
 A ship with a deck, whether a [hull you built yourself](#building-your-own-hull), a [slipway ship](#slipway-ships) or an aircraft carrier, can carry a [modular boat](#modular-ships) on her deck and put it back in the water wherever she stops. Craft a **boat davit** (10 wood, vehicle parts, the same research as boats) and build it on her deck. The davit's **cradle** is the patch of deck ahead of it, 3 by 3 tiles to begin with. Click the davit to:
