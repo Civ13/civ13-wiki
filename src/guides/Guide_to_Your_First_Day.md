@@ -18,6 +18,7 @@ On persistent worlds **you can't craft anything you haven't studied**. A new cha
 - [Light](#light)
 - [Carrying more](#carrying-more)
 - [Sleeping and logging off](#sleeping-and-logging-off)
+- [Finding other people](#finding-other-people)
 - [If you die](#if-you-die)
 - [First-day checklist](#first-day-checklist)
 
@@ -202,7 +203,11 @@ A container that is too small or too full refuses what you drop on it and says w
 3. Use **Sleep** in the IC tab and stay connected for the two minutes it takes.
 4. Use **Wake Up** when you come back.
 
-While you sleep properly your hunger and thirst don't drop. You can't sleep while you are ill, have fleas in your clothes, or are too dirty. The full rules are in [Saving your character](../Starter_Guide.md#saving-your-character).
+While you sleep properly your hunger and thirst don't drop. You can't sleep while you have fleas in your clothes or are too dirty. Being ill does not stop you: a severe illness waits while you sleep, and flu passes twice as fast in a bed. The full rules are in [Saving your character](../Starter_Guide.md#saving-your-character).
+
+## Finding other people
+
+If you are alone and want company, light a campfire or fire pit under the open sky, hold leather or cloth and click the fire. A column of smoke rises, and everyone outdoors a long way off is told which way to walk to reach you. If you see someone else's smoke, walk toward it or answer with a signal of your own. Examining a lit fire reminds you how. The details are in [Smoke signals](Guide_to_Survival.md#smoke-signals).
 
 ## If you die
 
