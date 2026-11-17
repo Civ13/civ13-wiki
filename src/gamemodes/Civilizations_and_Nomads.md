@@ -180,7 +180,7 @@ You can take a new name, for a new faith, a trade, a fresh start or any other re
   - The leader can create up to 12 offices, such as Judge or Herald, and choose what each one may do. The choices are keeping the treasury, keeping the land register, cutting and revoking [seals](../guides/Guide_to_Paperwork.md), cutting coin dies, holding court, issuing papers, making treaties, and moving the faction's hall and fixtures.
   - The leader appoints members to offices, for a set number of days or with no limit, and can dismiss them.
   - A [faction seal](../guides/Guide_to_Paperwork.md) cut for an office gives that office's powers to whoever carries it. To lend an office, hand over its seal. Revoke the seal to take it back.
-  - The leader can call an **election** for the leadership or for any office. The leader can also set a **term**. Once a leader has served longer than the term, or if no one leads, any member can call a leadership election.
+  - The leader can call an **election** for the leadership or for any office. The leader can also set a **term**. Any member can call a leadership election if the leader has served longer than the term, if no one leads, or if the leader hasn't played for more than 3 days.
   - An election lasts 30 minutes. Members **stand** as candidates and **vote**, one vote each. The most votes wins, and a tie goes to whoever stood first. An elected leader takes over the faction. An elected officer serves for the faction's term.
 
 #### Laws and courts
