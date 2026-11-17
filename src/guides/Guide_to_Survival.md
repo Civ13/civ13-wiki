@@ -89,6 +89,19 @@ Day/night lighting and outdoor weather appearances update progressively across t
 
 Indoor and map-level lighting exclusions, climate and seasonal weather rules, radiation appearances, and Wasteland Night/Morning effects still apply. These appearance updates do not change season lengths or advance debris age.
 
+## The sun and shadows
+
+On the continents the sun crosses the sky through the day. It rises in the east, stands highest at Midday and sets in the west. Daylight is warm and golden while the sun is low and white when it is high.
+
+Trees cast shadows on the ground away from the sun: long at dawn and dusk, short at noon. On Gaia, hills and ridges cast shadows too, and the slopes facing the sun are lighter than those facing away.
+
+How high the sun climbs depends on where you are and the season:
+- **Summer:** the sun is high and shadows are short.
+- **Winter:** the sun stays low and shadows are long, even at noon.
+- **Hemisphere:** in the northern lands the noon sun is in the south, so shadows point north. In South America it is in the north, so shadows point south. Near the equator, in the Jungle, it is almost overhead.
+
+At night there is no sun and no tree shadows.
+
 ## Fighting fires
 
 A fire burns its tile for a short while, hurts and ignites anyone standing in it, and keeps spreading to neighbouring grass and wooden floors until it is put out or runs out of things to burn. Bare dirt, sand, stone and water do not carry it. Rain helps put fires out. Act early: one burning tile is easy to stop, a long burning front is not.
