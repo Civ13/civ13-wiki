@@ -117,6 +117,17 @@ How much fuel a tile takes depends on the throttle and the load. Idling along co
 
 Hitch a **coal tender** anywhere in the train for long routes. Whenever the chamber drops below half, the fireman tops it up from the tender as the train runs.
 
+## Steam, water and the boiler
+
+A steam locomotive runs on **steam pressure**, made by boiling water over the fire. Click the engine to see its gauges: the fire, the **pressure**, the **water in the glass** (the boiler itself) and the **tank**. Diesel engines have none of this.
+
+- **Raising steam.** A new engine comes filled and in steam. One that has stood with its fire out goes cold in about twenty minutes. Light the fire and wait: from cold it takes about two minutes to reach full pressure, four on a heavy locomotive. A firebox less than half full makes steam more slowly.
+- **Pressure is power.** From 60% up the engine gives everything it has. Below that it gets slower, and under 15% the throttle won't open at all.
+- **Don't wind the engine.** A train at the engine's rated load holds its pressure at full throttle. A heavier train uses steam faster than the fire makes it, so the pressure sinks and the train slows. Ease the throttle down a notch and let it recover.
+- **Keep the fire up.** With the firebox under half full the pressure falls as you run. A lit fire also burns a little fuel while the engine stands, so drop the fire if you park it for long.
+- **Water.** Working boils the water away. The **injector**, one of the engine's controls, feeds the boiler from the tank as you go and is on to start with. It costs a little steam, so a fireman can turn it off on a hard pull and back on when the driver eases off. Fill the tank by clicking the engine with a bucket or any open vessel of water. A tank lasts about 240 tiles of hard running, a heavy locomotive's about 600.
+- **Never let the boiler run dry.** Everyone nearby is warned when the water is low in the glass. If it runs out with the fire lit, the **fusible plug** melts: steam puts the fire out and the engine is dead where it stands. Nothing explodes. Make a new **fusible plug** (1 lead; **Rail & Steam** node, or industrial research **101**), click the engine with it, then pour in water before you light the fire again. With the engine cold, water goes into the boiler first and then the tank.
+
 ## Building a train
 
 1. Place the locomotive on the rail, facing the way you want to go.
@@ -151,12 +162,13 @@ Right-click, **Hitch** still works too.
 
 **Click the locomotive** to open its controls:
 
-- **Start the engine** or **Stop the engine**. It needs fuel to start.
+- **Start the engine** or **Stop the engine**. On a steam locomotive these are **Light the fire** and **Drop the fire**. It needs fuel to start, and a steam locomotive needs water in its boiler.
+- **Injector on** or **Injector off**, on steam locomotives. See [Steam, water and the boiler](#steam-water-and-the-boiler).
 - **Throttle up** and **Throttle down** move between notches 0 and 3. Each notch is a third of the engine's top speed. The train gathers speed over a few tiles rather than jumping to it.
 - **Brake** closes the throttle and brakes. Closing the throttle without braking lets the train coast.
 - **Reverser** sets forward or backward, and only works while the train is standing. Forward is always the way **that engine** faces, wherever it is in the train. Backing up moves the train with the far end leading. Set the levers for the way that end of the train will go.
 
-Examine the locomotive to see its notch, reverser, speed and whether the train is too heavy for it.
+Examine the locomotive to see its notch, reverser, speed, a steam locomotive's pressure and water, and whether the train is too heavy for it.
 
 ### Speed, load and stopping
 
