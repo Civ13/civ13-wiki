@@ -218,7 +218,7 @@ Pioneers, only the Blacksmith can use the anvil.
 - **Motion detector:** 3 electronics, in the tools category, after Digital Computing. Switch it on and hold it. Anything within seven tiles that has just moved shows to you as a blip, even through walls, while anything keeping still stays hidden.
 - **Labels:** with a pen in your hand, right-click a crate, closet, barrel or bag and choose **Write Label** to add up to 24 letters to its name. Leave the label empty to remove it.
 - **Crafted flint axes and stone hatchets** go straight into your empty active hand when possible.
-- **Wood handles:** hafted tools use up one wood handle held in your hands or worn: hatchets, pickaxes, shovels, spears (not the wood spear), the battle axe, the stone rammer, stone adze and stone-headed club, metal hammers and the clawhammer, metal hoes, the pitchfork and the fire hook. The Crafting window lists the handle with a tick once you have one, and keeps the recipe out of **Ready** until then.
+- **Wood handles:** hafted tools use up one wood handle held in your hands or worn: hatchets, pickaxes, shovels, spears (not the wood spear), the battle axe, the stone rammer, stone adze and stone-headed club, metal hammers and the clawhammer, metal hoes, the pitchfork and the fire hook. The Crafting window lists the handle with a tick once you have one, and keeps the recipe out of **Ready** until then. The handle's wood carries into the tool: see [Component work tools](#component-work-tools) below.
 
 ## Resources
 
@@ -450,6 +450,16 @@ For Gunsmithing-era firearm parts, see [Flintlock parts assembly](Guide_to_Weapo
 For optic rails, attachment tools and repair limits, see [Firearm maintenance and configuration](Guide_to_Weapons.md#firearm-maintenance-and-configuration).
 
 Combine a pickaxe, shovel or hatchet head with a handle using the head-on-handle interaction. The ordinary wood handle costs **1 plank**; the **plank handle** costs **2 planks**, and the **reinforced handle** costs **2 iron ingots** with the wrench's research threshold. Head recipes and their own requirements still apply.
+
+The handle you use shapes the finished tool, whether you fit a head by hand or craft the tool from a recipe:
+
+| Handle | Cost | Tools built on it |
+| --- | --- | --- |
+| Wood handle | 1 plank | The usual durability and speed |
+| Plank handle | 2 planks | Last 50% longer and work 25% faster |
+| Reinforced handle | 2 iron ingots | Last 50% longer but work 18% slower |
+
+Speed counts for pickaxes, shovels and hoes. Examine a handle to see what it gives.
 
 The assembled tool retains both component materials and qualities. Its quality is the lower input quality, bounded from 0.5 to 2, and its condition starts at the worse input condition. A better handle cannot erase damage or upgrade a crude head's quality. Handle integrity affects capacity; handle weight affects shovel and pickaxe work speed, while head hardness also affects pickaxe speed. These tradeoffs change work duration and durability, not mineral yield. Hatchet tree-chopping delays keep their existing behavior.
 
