@@ -21,7 +21,7 @@ More on each: [Thirst](#thirst), [Hunger](#hunger), [Temperature](#temperature),
 
 - When you spawn, you will be told the languages you know. On most lands you choose your people, which gives you your mother tongue; see [Peoples and Languages](guides/Guide_to_Peoples_and_Languages.md).
 - Your **hunger** and **thirst** bars start full, and drain as you work.
-- You start out with nothing but age-appropriate clothes on your person. Your first priority will be gathering flint to make a flint axe.
+- You start out with nothing but clothes on your person. They suit your birthplace and the current era: hides or leaf skirts in the Stone Age, then the tunics, robes and wraps of the people of that land. Your first priority will be gathering flint to make a flint axe.
   - Find a large rock and click it with an empty hand on **Grab intent** — you should be able to gather some flint.
   - Sharpen it by **knapping**: hold a stone or a second flint and use it on the flint, then choose **Sharp flake**. Once you know Stone Arms you can also click the rock with the flint until it chips to a sharp edge. See [Flint](guides/Guide_to_Flint.md).
   - Now go to a tree and click it with an empty hand on **Harm intent**. This will pull a branch from the tree and place it on the ground.
@@ -29,7 +29,7 @@ More on each: [Thirst](#thirst), [Hunger](#hunger), [Temperature](#temperature),
   - Use the sharpened flint to sharpen the stick.
   - Get a binding: use the sharpened flint on grass or tall grass for **grass cuttings** and use two in hand to twist **crude twine**, or butcher an animal for **sinew**.
   - With the binding in your inventory or under you, use the sharpened flint on the sharpened stick to make a trusty flint axe — a tool and a weapon. A twine binding wears out quickly; sinew or rope lasts longer.
-- If it's **winter season** or an **Ice Age** map, you also spawn with a **fur coat**. Losing it will mean cold and miserable **death** in the icy outdoors.
+- If you start in the **tundra** or **taiga**, in **winter**, or on an **Ice Age** map, you also spawn with a **fur coat** and fur boots. Losing it will mean cold and miserable **death** in the icy outdoors.
 
 ## Crafting Basics
 
