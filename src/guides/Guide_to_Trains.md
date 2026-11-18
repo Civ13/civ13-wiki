@@ -4,12 +4,14 @@ Rails and steam trains move people, fuel and cargo along a fixed track. The part
 
 ## Research
 
-| Mode | Railway sleepers, rails, rail switchers, rotator platform, lever | Steam locomotive, tender, cabin, flatbed and transport wagons |
+| Mode | Rails, rail switchers, rotator platform, lever | Steam locomotive, tender, cabin, flatbed and transport wagons |
 | --- | --- | --- |
 | [Tech tree](Guide_to_Research.md) | **Rail & Steam** node (Vehicles line) | Industrial research **101** |
 | [Legacy research](../gamemodes/Civilizations_and_Nomads.md#research) | Industrial research **93** | Industrial research **101** |
 
 The wooden mining cart needs Industrial research **93** in either mode.
+
+A wooden wagonway comes earlier (see [Early rails](#early-rails)): railway sleepers, wooden rails and the chaldron wagon need the **Wagons & Ships** node, or Industrial research **22**.
 
 Platform car kits (see [Platform cars](#platform-cars)):
 
@@ -31,6 +33,7 @@ Wartime cars (see [Wartime cars](#wartime-cars)):
 | --- | --- | --- |
 | Railway sleepers | 1 wood | The wooden ties for one tile of track. |
 | Rails | 1 iron | A pair of rails for one tile of track. A [rolling mill](Guide_to_Metallurgy.md#rolling-mill) makes two pairs from one iron, or three from one steel. |
+| Wooden rails | 2 wood | A pair of timber rails for one tile of wagonway. No good under an engine (see [Early rails](#early-rails)). |
 | Rail switcher (to left or right) | 2 iron | A junction that a lever can switch between going straight and turning off. |
 | Rail rotator platform | 3 iron | Turns whatever wagon is standing on it. |
 | Turntable | 20 iron | Turns a whole engine or car on a bridge over a pit (see [Turntables](#turntables)). |
@@ -129,6 +132,49 @@ The pile driver can stand on the shore, in the shallows or on a deck. Hit it wit
 Lay sleepers, rails and spikes on the deck as usual. Track on a bridge joins the rest of the line, so a bridge can carry a line to a station or to the edge of the map. You can also build a road on the deck for cars.
 
 Ships can't pass a bridge. To take a span down again, clear the track, road, vehicles and people off it and hit it with a **hammer**. You get the span back. If a bridge is destroyed by an explosion, any track on that tile falls into the water.
+
+## Early rails
+
+You don't need steam to use a railway. A wagon on rails rolls so easily that one horse can draw a whole string of them, and a small car can be pumped along by hand.
+
+![A hand car on iron track, seen from the side and from the end, and a string of three chaldron wagons on a wooden wagonway](../images/civ13-train-early-rails.png)
+
+### Wooden wagonway
+
+**Wooden rails** (2 wood) are laid exactly like iron ones: sleepers first, wooden rails on top, then spike them down with a hammer (see [Laying track](#laying-track)). The finished track is brown and is called a wagonway. A crowbar takes it up again and gives the timber back.
+
+- Hand cars and wagons drawn by animals **do a wagonway no harm**, however often they run.
+- **An engine ruins it.** A locomotive wears wooden rails eight times as fast as iron, so a wagonway is rough after a few trains and soon not safe at any speed (see [Track wear and platelaying](#track-wear-and-platelaying)). Relay the line in iron before you put steam on it.
+- Wooden and iron track join end to end, so a line can be relaid in iron a tile at a time.
+
+The **chaldron wagon** (12 wood) is the wagon for it: a light wooden wagon with ten spaces for cargo. Couple a string of them like any other wagons.
+
+### Drawing a train with a horse or an ox
+
+A horse or an ox can draw any train that has no engine on it.
+
+1. Bring the animal next to the wagon at **one end** of the train.
+2. **Drag the wagon onto the animal**, or right-click the wagon and choose **Harness Animal**. It takes a few seconds.
+3. **Lead or ride the animal along the track.** Each time it gets ahead, the train rolls one tile after it. The train stops when the animal stops.
+4. To go back the other way, take the animal out of the traces (**Harness Animal** again), walk it round to the other end and harness it there.
+
+- A **horse** draws a train of up to **8** in weight, an **ox** up to **4**. An empty one-tile wagon weighs 1 and a chaldron wagon a little over half that; cargo and riders add to it. A starving animal draws half as much.
+- The heavier the train, the slower a ridden animal goes.
+- **Let every handbrake off first.** The animal comes out of the traces if a brake is on, if it walks more than two tiles away or off the line, or if the train has become too heavy.
+- An animal can't pull a cart and a train at once, and harnesses don't last through a server restart: harness it again afterwards.
+
+### Hand car
+
+A **hand car** (6 iron, **Rail & Steam** node or Industrial research **101**) is a small one-tile car with a pump beam, for inspecting the line or getting a couple of people down it without raising steam.
+
+1. Put it on the track and **climb on**: drag yourself onto it.
+2. **Face the way you want to go** and click the car to pump. Each click is one stroke.
+3. **Keep pumping.** The car rolls on by itself between strokes but slows down, so it needs a stroke every second or two to keep its speed.
+4. **To slow down, face the other way and pump.** A few strokes stop it. To leave it standing, right-click it and pin down its **Handbrake**.
+
+- **Two riders pumping go half as fast again** as one.
+- It can tow a light wagon, but not much: more than 4 in weight, riders included, and it won't move.
+- It is a rail vehicle like any other. It hits what is in its way, and a train will hit it, so keep off a line that engines are using or agree it with the [signalman](#signals-and-single-lines).
 
 ## Fuel
 
