@@ -278,6 +278,25 @@ The **brake van** is the guard's car. It has an open veranda at the front and a 
 
 A long train can carry more than one: a van at the back, and a brake wheel on a car or two further up for extra hands.
 
+### The conductor
+
+A long train needs somebody in charge behind the engine. The conductor, or guard, rides at the back and works with four tools, all from the **Rail & Steam** node.
+
+![The conductor's things: a black guard's journal with a pencil, a steel carriage key, a red ticket book, a ticket, a punched ticket, a ticket punch and a pair of red and green signal flags](../images/civ13-train-conductor.png)
+
+| Item | Cost | What it does |
+| --- | --- | --- |
+| Guard's journal | 1 leather | Use it in your hand aboard or beside a train. It lists the whole train from the front: how many vehicles, how long, its weight against what its engines can pull at full speed, and for each vehicle whether its engine is running, its handbrake is on, an axle box is dry, hot or seized, it is wrecked, or it has locked doors. |
+| Carriage key | 1 iron | Use it on a closed car door to lock or unlock it. One key fits every car. |
+| Ticket book | 1 leather | Use it in your hand to write out a ticket: where to, and the fare you were paid. A book holds 40 tickets. |
+| Ticket punch | 1 iron | Use it on a ticket to punch it, so it can't be used twice. Examine a ticket to see where it is to, the fare, who wrote it and who punched it. |
+| Pair of signal flags | 2 cloth | Use them in your hand and pick a signal. Everyone who can see you sees it, and so does everyone in a cab of the train you are on or beside, however long the train is. |
+
+- **Before leaving**, walk the train with the journal. A handbrake left on, a hot axle box or a train too heavy for its engines all show up in the list.
+- **Locked doors** keep people out of a mail van, a boxcar or a coach they have no ticket for. A locked door still opens by hand from its own tile inside the car, so nobody can be shut in, and that unlocks it. A **crowbar** forces a locked door from outside, slowly and noisily.
+- **Tickets** are between players. Agree a fare, take it by hand, write the ticket and punch it on board.
+- **Flag signals:** green held high is *right away*, red waved is *stop*, green waved slowly from side to side is *set back*, green held steady is *come on slowly*, and red waved hard above the head is *danger, stop at once*.
+
 ### Hitting things
 
 - The faster and heavier the train, the harder it hits. A train creeping along shoves a person off the rails with a bruise and stops in front of crates and furniture without breaking them.
@@ -493,6 +512,7 @@ To couple the car, right-click its front end and choose **Hitch** to join the ca
 ### Riding and doors
 
 - Click a door to open or close it. Side doors are at the front end of each enclosed car, and end doors let you walk from one car to the next.
+- A door can be locked with a [carriage key](#the-conductor).
 - Walls and windows keep you from walking through them, but they don't stop bullets. Armor plate on wartime cars does.
 - Track for platform cars needs a clear tile on each side all the way along, including on curves. If a car's deck would hit a wall, a tree or another train, the whole train grinds to a halt before it moves. People standing beside the track aren't hurt. The deck slides under them and they end up on board.
 
