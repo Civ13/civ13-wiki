@@ -13,6 +13,8 @@ The wooden mining cart needs Industrial research **93** in either mode.
 
 A wooden wagonway comes earlier (see [Early rails](#early-rails)): railway sleepers, wooden rails and the chaldron wagon need the **Wagons & Ships** node, or Industrial research **22**.
 
+Overhead line masts, the electric locomotive and the tram (see [Electric railways](#electric-railways)) need the **Electricity** node, or Industrial research **105**.
+
 Platform car kits (see [Platform cars](#platform-cars)):
 
 | Mode | Platform car, passenger coach | Sleeper, dining and storage cars |
@@ -837,6 +839,47 @@ Heavy and main-line diesel locomotives that are **coupled next to each other** w
 ### Dead-man's handle
 
 Every heavy and main-line diesel has a dead-man's handle. While the train moves, somebody awake and able has to stand in a cab of the working units. If the cabs stay empty, or the driver is knocked out, the power shuts off and the brakes go on within about a dozen tiles. The engine's brake alone stops a long train slowly, so a guard at a [brake van](#brake-van) still matters.
+
+## Electric railways
+
+An electric engine carries no fuel and needs no fire or water. It takes its power from a wire hung over the track, and the wire takes it from the same grid that runs your machines (see [Power](Guide_to_Power.md)). The masts, the electric locomotive and the tram are on the **Electricity** node, or industrial research **105**.
+
+![A cream-roofed tram and a green electric locomotive on a track under an overhead wire carried by two masts, then the locomotive and the tram seen from above with their roofs off and on, and a mast with its arm over a second track](../images/civ13-train-electric.png)
+
+| Craft | Cost | What it is |
+| --- | --- | --- |
+| Overhead line mast | 4 steel | A steel mast with an arm that hangs the wire over the track. |
+| Electric locomotive kit | 55 steel | Four tiles long with a cab at each end. Pulls more than a heavy diesel and is as fast. |
+| Tram kit | 30 steel | Four tiles long. A driving platform at each end, four seats between, and a roof over all of it. |
+
+### Putting up the line
+
+1. Stand an **overhead line mast** two tiles from the rails, square to the track, and use a **wrench** on it. It turns its arm to the track and hangs its wire over the rails for four tiles either way.
+2. Put up another mast every **nine tiles** along the line. Wires that meet join into one line. A wider gap is a stretch with no power.
+3. Feed the line. Stand a **distribution transformer**, a **wall outlet** or a **utility pole** on a powered cable within its reach of any one mast (see [Transformers, outlets, poles and power meters](Guide_to_Power.md#transformers-outlets-poles-and-power-meters)). One fed mast makes the whole line live.
+4. Click or examine a mast to read the line: how many masts it has, how many are fed, how much the trains are drawing and whether the wire is live.
+
+A wrench takes a mast down again. The masts stand clear of the cars, so a train passes them freely.
+
+### Driving under the wire
+
+Build the kit on straight track like any [heavy locomotive](#heavy-locomotives), under the wire. The controls are the same as a diesel's, with one difference:
+
+- **Raise the pantograph** (the bow collector on a tram) where a diesel has Start the engine. It refuses where there is no wire overhead or the line is dead.
+- The engine draws from the grid **by its throttle**: about 5 kW standing with the pantograph up and up to **155 kW** at full throttle for the locomotive, about 2 kW and up to **42 kW** for the tram. Size your generators for every train that will run at once.
+- If the grid can't carry one more engine, that engine gets no power and the trains already running keep theirs. Ease the throttle down a notch and it may take.
+- **Off the end of the wire, or under a dead one, the train coasts.** You can still brake. It picks the power up again by itself under the next live wire, so a short gap costs only a little speed.
+- **Lower the pantograph** when you leave the engine, so it stops drawing.
+
+The electric locomotive is driven from the cab that leads, works [in multiple](#diesels-in-multiple) with other units coupled next to it and has a [dead-man's handle](#dead-mans-handle), like the main-line diesel. It is damaged and repaired like the heavy locomotives.
+
+### The tram
+
+The tram is a small train in one piece, made for a town line. Passengers step on at the open sides of either driving platform and walk through to the seats. It is about as fast as a steam locomotive and has the pull for itself and one trailer car. Drive it from the platform that leads, and change ends to go back.
+
+### The live wire
+
+Don't ride on a car roof under a live wire. When the car moves you touch the wire: you are burned, knocked down and thrown off.
 
 ## Rail warehouse
 
