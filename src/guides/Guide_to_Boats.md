@@ -6,24 +6,23 @@ Anything that floats is built from the crafting menu's **vehicle parts** section
 | --- | --- | --- | --- |
 | [Dugout canoe](#dugout-canoe) | Rivers, lakes and the shallows from the first age | 2 + 1 cargo | Paddling (direction keys) |
 | [Raft](#raft) | Crossing a river or lake early on | 1 | Paddling (direction keys) |
-| [Sailing outrigger](#outriggers) | Cheap travel along a coast | 2 + 1 cargo | Wind |
-| [Motor outrigger](#outriggers) | Fast, wind-free travel | 2 + 1 cargo | Engine |
+| [Outrigger canoe](#outrigger-canoe) | Coasts and open sea crossings | 2 + 1 cargo | Paddling, then a sail or an engine if you add one |
 | [Rigid hull inflatable boat (RHIB)](#rigid-hull-inflatable-boat) | Sturdier motorboat with a bigger engine | 2 + 1 cargo | Engine |
 | [Modular ship](#modular-ships) | Carrying a crew, cargo and guns | As many as fit | Masts and sails, or an engine |
 | [Submarine](#submarines) | Travelling unseen under the open ocean (Gaia) | As many as fit | Diesel engine |
 | [Slipway ships](#slipway-ships) | A big ship built piece by piece on the shore | As many as fit | Sails (schooner) or a diesel engine (freighter) |
 
-![A raft, a sailing outrigger, a motor outrigger and a rigid hull inflatable boat on shallow water](../images/civ13-small-boats-sprites.png)
+![A raft, an outrigger canoe, an outrigger under sail, an outrigger with an outboard engine and a rigid hull inflatable boat on water](../images/civ13-small-boats-sprites.png)
 
-From left to right: raft, sailing outrigger, motor outrigger, RHIB.
+From left to right: raft, outrigger canoe, outrigger under sail, outrigger with an outboard engine, RHIB.
 
 ## Research and materials
 
 | Part | Cost | [Tech tree](Guide_to_Research.md) node | [Legacy research](../gamemodes/Civilizations_and_Nomads.md#research) |
 | --- | --- | --- | --- |
 | Raft | 10 wood logs | Carts | Industrial 22 |
-| Outrigger boat frame | 22 planks | Wagons & Ships | Industrial 22 |
-| Small sail | 15 cloth or 15 wool | Wagons & Ships | Medical 22 |
+| Outrigger canoe | A dugout canoe, 4 wood and 3 rope | Basic Toolmaking | None |
+| Small sail | 15 cloth or 15 wool | Oared Ships | Medical 22 |
 | Wood ship frame | 4 planks per tile | Wagons & Ships | Industrial 41 |
 | Ship rudder control (the wheel) | 10 planks | Wagons & Ships | Industrial 41 |
 | Boathouse (stores boats) | 20 planks | Wagons & Ships | Industrial 41 |
@@ -82,7 +81,7 @@ Deep water is slow to cross, so that is not far. Swim to a nearby boat or across
 
 <img src="../images/Paddle.png"> Craft a **paddle** from 2 wood. If the person steering holds a paddle, the canoe moves much faster. Steer the canoe like a [raft](#raft): hold a direction key to paddle, and let go to drift to a stop.
 
-A canoe is for rivers, lakes and the shallows along a coast. It won't go out onto the open sea, and on salt water it stays ashore in a strong wind until the wind drops.
+A canoe is for rivers, lakes and the shallows along a coast. It won't go out onto the open sea, and on salt water it stays ashore in a strong wind until the wind drops. For the sea, lash an outrigger to it: see [Outrigger canoe](#outrigger-canoe).
 
 ## Raft
 
@@ -93,32 +92,43 @@ A canoe is for rivers, lakes and the shallows along a coast. It won't go out ont
 
 On some maps the open sea is closed to rafts, and you will be told you can't go further. To recover the wood, hit the raft with a hammer: you get 5 planks and a rope back.
 
-## Outriggers
+## Outrigger canoe
 
-An outrigger starts as an **outrigger boat frame** (22 planks). Making a boat frame needs a **Crafting skill of 1.35**, and you name the boat when you craft it. The frame then becomes either a sailing boat or a motorboat. You can't turn one into the other later.
+<img src="../images/Outrigger_canoe.png"> An **outrigger canoe** is a dugout with a float lashed out to one side on two booms. The float keeps her steady, so she can cross the open sea and ride out a strong wind that keeps a plain dugout on the beach. Only a gale on salt water stops her.
 
-### Sailing outrigger
+Build her on a finished [dugout canoe](#dugout-canoe). The canoe has to be empty, and either ashore or in the shallows:
 
-Click the frame with a **small sail**. After a few seconds it becomes a **sailing outrigger**.
+1. Use **4 wood** on the dugout. The two booms and the float are laid on her. She won't move like this.
+2. Use **3 rope** on her to lash the booms to the hull and the float to the booms. She is now an outrigger canoe.
 
-- Drag yourself onto the boat. The first person aboard is the helmsman and takes the **rudder and sail control** in hand, so keep a hand free. A second person can ride as a passenger.
-- Press **Z** (use the item in your hand) to hoist the sails, and press it again to take them in.
-- The boat sails the way **you face**. Turn with the direction keys.
-- Speed depends on the wind. See [Sailing and the wind](#sailing-and-the-wind).
-- If the next tile isn't water, the boat runs aground and the sails come down.
+A hammer knocks unlashed booms off again and gives the wood back.
 
-Hit a sailing outrigger with a hammer to take it apart. You get the sail and 10 planks back.
+She carries two people and one crate and is paddled like a dugout: hold a direction key, and hold a [paddle](#dugout-canoe) to go faster. Steady or not, she is still a small boat and can be [damaged and swamped](#damaged-small-boats).
 
-### Motor outrigger
+To take a dugout or an outrigger canoe apart, empty her and hit her with a hammer. You get about half the wood back, and all the rope, the sail and the engine.
+
+### Adding a sail
+
+Use a **small sail** on an empty outrigger canoe to step a mast. She can't carry a sail and an engine at once.
+
+- From the steering seat, right-click the canoe and choose **Set or Furl Sail**.
+- With the sail set, steer with the direction keys as usual. The wind drives her whenever that is faster than paddling, so a sail never slows you down. See [Sailing and the wind](#sailing-and-the-wind).
+- In a calm you are back to the paddle.
+- **Strike Mast** on the right-click menu takes the mast down and gives the sail back.
+
+### Adding an engine
 
 1. Build an **engine** of **100 to 400 cc** with the engine maker. Smaller or larger engines are refused. See [Boat engines](#boat-engines) for which types fit.
-2. Drag the engine onto the frame.
-3. Click the frame with a **fuel tank of up to 150 units**. The 120u small fuel tank and the bike tanks fit. The boat is finished as soon as the tank goes in.
-4. Fill the tank by clicking the boat with a barrel or other container of the fuel your engine burns. Examine the boat to see how much fuel is left.
+2. Drag the engine onto an empty outrigger canoe that has no mast.
+3. Use a **fuel tank of up to 150 units** on her. The 120u small fuel tank and the bike tanks fit.
+4. Fill the tank by using a barrel or other container of the fuel your engine burns on her. Examine her to see how much fuel is left.
+5. From the steering seat, right-click the canoe and choose **Start or Stop Engine**, then hold a direction key to drive. A bigger engine is faster and burns more fuel for every tile. If the tank runs dry the engine stops and you paddle home.
+
+A **wrench** takes the engine and tank off again.
 
 ## Rigid hull inflatable boat
 
-The **RHIB** is built exactly like a motor outrigger, from a **rigid hull inflatable boat frame** (22 planks, the same Crafting skill 1.35), but it is much sturdier and takes bigger parts:
+The **RHIB** is a sturdy modern motorboat. Craft a **rigid hull inflatable boat frame** (22 planks, Crafting skill 1.35; you name the boat when you craft it), drag an engine onto the frame, then click the frame with a fuel tank. The boat is finished as soon as the tank goes in. Fill the tank by clicking the boat with a container of fuel. It takes:
 
 - An engine of **150 to 600 cc**. See [Boat engines](#boat-engines) for which types fit.
 - A fuel tank of up to **200 units**, such as the 180u medium fuel tank.
@@ -139,7 +149,7 @@ Bigger hulls that you build tile by tile have their own rules: see [Bilge water]
 
 Motorboats take any engine made with the [engine maker](Guide_to_Crafting.md#engines). The **steam engine doesn't fit**, because it needs a separate furnace. The type decides which fuel the boat burns. Some types have a minimum size, which rules out the smaller outrigger sizes:
 
-| Engine type | Smallest you can build | Outrigger (100-400 cc) | RHIB (150-600 cc) |
+| Engine type | Smallest you can build | Outrigger canoe (100-400 cc) | RHIB (150-600 cc) |
 | --- | ---: | --- | --- |
 | 2-stroke gasoline | 49 cc | 100-400 cc | 150-600 cc |
 | 4-stroke gasoline, high-efficiency 4-stroke, ethanol-gasoline | 80-100 cc | 100-400 cc | 150-600 cc |
@@ -151,7 +161,7 @@ An engine of 300 cc or more gives the fastest boat, so a 300-400 cc engine is a 
 
 ## Driving a motorboat
 
-These controls work on both the motor outrigger and the RHIB. See [Hotkeys](../Hotkeys.md) if you use different keys.
+These controls are for the RHIB. An outrigger canoe with an engine is driven from her right-click menu instead: see [Adding an engine](#adding-an-engine). See [Hotkeys](../Hotkeys.md) if you use different keys.
 
 | Action | How |
 | --- | --- |
@@ -166,7 +176,7 @@ A bigger engine moves faster: engines of 300 cc or more are quickest, and engine
 
 Boats glide smoothly rather than jumping from tile to tile, the same way you walk. When you turn, the boat keeps its sideways place, so you can line it up anywhere. Out of gear, it drifts on for about half a tile before it stops.
 
-**Cargo:** each outrigger or RHIB can carry **one** loose structure, such as a crate or a small cannon. Drag it onto the boat to load it. Click the boat to unload it beside you.
+**Cargo:** a RHIB can carry **one** loose structure, such as a crate or a small cannon. Drag it onto the boat to load it. Click the boat to unload it beside you.
 
 ## Modular ships
 
@@ -907,4 +917,4 @@ Sails depend on the wind. The **Status** tab shows the current wind, for example
 | With the wind behind you (northern wind, heading south): **running** | About 1.3 times slower |
 | Into the wind (northern wind, heading north): **beating** | About 3.5 times slower, as she tacks back and forth across the wind |
 
-A stronger wind is faster. A gale is the quickest, and with no wind at all sails barely move. A storm overhead blows a gale. These rules apply to sailing outriggers, sailing ships and the sails on a hull you build yourself. If you need to go upwind, oars or an engine are the reliable choice.
+A stronger wind is faster. A gale is the quickest, and with no wind at all sails barely move. A storm overhead blows a gale. These rules apply to outrigger canoes under sail, sailing ships and the sails on a hull you build yourself. If you need to go upwind, oars or an engine are the reliable choice.
