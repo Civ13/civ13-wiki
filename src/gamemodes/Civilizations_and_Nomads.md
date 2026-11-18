@@ -146,8 +146,9 @@ Each continent is divided into **provinces** that follow the land: coasts, river
 
 * **Stake:** each resident is worth 1 point. A resident is a member who has been in the faction for 3 days, has had their own bed for 3 days within 40 tiles of one of the faction's fastened halls, and plays regularly: 10 hours in all on this land, and 4 hours over at least 3 different days of the last week. Your faction's best hall in the province adds 2 points per stage, never more than its residents there. Factions of one nation add their stake together, but a large group's residents count for less beyond the first 10.
 * **Leading:** a side leads a province with at least 6 points from at least 4 people, 35% of all the stake there and 1.25 times the next side.
-* **Taking and holding:** a side that leads a province for **72 hours** in a row takes it. It keeps it until a rival out-stakes it by the same margin for 72 hours. A holder that drops below 6 points from 4 people is warned and loses the province after **48 hours** unless it recovers, so rebuild destroyed beds and halls quickly. A side holds at most **3** provinces of a land. Leaders are told when their hold slips, recovers, is challenged, taken or lost.
+* **Taking and holding:** a side that leads a province for **72 hours** in a row takes it. It keeps it until a rival out-stakes it by the same margin for 72 hours. A holder that drops below 6 points from 4 people is warned and loses the province after **48 hours** unless it recovers, so rebuild destroyed beds and halls quickly. A side holds at most **3** provinces of a land. A take or a loss that falls due waits for the province's daily [defence window](#sieges-and-defence-windows). Leaders are told when their hold slips, recovers, is challenged, taken or lost.
 * **Stations:** once the preview shown in Province Holdings ends, a recruitment station on a continent works only in a province its side holds, and only when its faction has **3** residents of its own there. An idle station keeps its faction, rules and applications, and examining it says why it is idle. Starting with your faction uses working stations only.
+* **Plots fall to ruin:** once the preview ends, a faction whose registered plots lie in a province where it has had fewer than **3** residents for **14 days** in a row loses those plots. The deeds go void and the buildings stay for anyone to take over. Province Holdings warns you while the days run.
 
 #### Settlements: Camp to City
 
@@ -168,6 +169,17 @@ What a rank gives:
 * **Slower to lose:** if your hold slips you have 48 hours to recover, 60 for a Town and 72 for a City.
 * **More members:** your side's best province adds 3 members a rank to each of its factions' member limits.
 * **Safer beds:** a resident's bed start inside a Town costs 1.5 times what a station start costs, and inside a City 1.25 times, instead of double.
+
+**Upkeep:** a ranked settlement costs coin from its faction's strongbox every week: nothing for a Camp, 50 silver for a Village, 150 for a Town and 400 for a City. Your side's second ranked province on a land costs 1.5 times as much and its third twice. The first week is free. Unpaid upkeep counts as something missing, so the leaders are warned and the settlement drops a rank after 48 hours unless coin is put in the box. The ledger shows when the next payment is due.
+
+#### Sieges and defence windows
+
+Every province your side holds has a daily **defence window** of 3 hours, or 4 when your side holds two or more provinces of the land. The ledger and the war banner show it. A leader chooses its start among the server's busiest hours with **Defence Window** on the **Faction tab**. A change takes effect 3 days later. A province changes hands only during its window, so a side that plays at other hours cannot lose it overnight.
+
+* **Declaring:** a rival leader crafts a **war banner** from wood (in the **economy & production** category), plants it in the province and clicks it to declare. Their faction must be at least 7 days old, have 4 members with 2 hours played on the land, and hold **100 silver** in its strongbox as a deposit. On Gaia only a Town or City can be besieged.
+* **The siege** begins in the first window at least 24 hours after the declaration. The attackers take the seat by standing within 3 tiles of it with no defender there: 10 minutes against a Camp or an unranked seat, 15 against a Village, 20 against a Town and 30 against a City. A defender at the seat pauses the count.
+* **If nobody comes,** the attackers' deposit is spent. If they came but the window closes before they take the seat, the siege fails. Breaking the war banner calls the siege off. Either way, that side must wait 3 days to declare there again.
+* **A taken seat** suspends one rank's benefits for 7 days, and the province cannot be besieged again for 3 days. Against a Camp or an unranked settlement, or when the same side wins twice within 14 days, the holder's hold also starts slipping.
 
 Lands across the sea have no provinces, so stations there always work. A faction's claimed land across the sea stays its own unless the faction leaves it empty (see [Settle, claim or abandon](../guides/Guide_to_Boats.md#settle-claim-or-abandon)).
 
