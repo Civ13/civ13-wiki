@@ -565,6 +565,33 @@ The main-line steam locomotive is the big express engine: six tiles long, faster
 - **Raising steam** from cold takes about six minutes on a good fire, so keep the fire in between runs.
 - It has the same [cab crew](#cab-crew) as the heavy steam engines, takes damage and is repaired the same way, and can't be packed back into a kit or stored in a rail warehouse.
 
+### Main-line diesel locomotive
+
+The main-line diesel is the big engine of the diesel age: six tiles long with a **cab at each end**, twice the pull of the heavy diesel and twice the fuel. It needs no fire, no water and no fireman, so one driver can run a long train.
+
+![Two maroon main-line diesel locomotives coupled together ahead of a coach, seen from above, then one locomotive facing north and south with its cab roofs off and on, and a close view of a cab with its desk, two seats and brake handle](../images/civ13-train-mainline-diesel.png)
+
+| Kit | Cost | Research | Fuel |
+| --- | --- | --- | --- |
+| Main-line diesel locomotive kit | 100 steel | **Combustion Engine** node, or industrial research **115** | Diesel or biodiesel (holds 600 units) |
+
+- **Assemble** it like the heavy locomotives, on **six** tiles of straight track. Fuel it from a container or from a [tank car](#tank-car).
+- **Two cabs.** Click the locomotive from either cab to drive it. A walkway down each side of the hood joins them. Drive from the cab that leads: with nobody in the leading cab the train keeps to three quarters of its speed, so walk to the other end before you run back.
+- It takes damage and is repaired like the heavy locomotives, and can't be packed back into a kit or stored in a rail warehouse.
+
+### Diesels in multiple
+
+Heavy and main-line diesel locomotives that are **coupled next to each other** work as one. Their controls join with the couplings, so nothing else has to be connected. A wagon or car between two diesels breaks the link.
+
+- **Start the engine** or **Stop the engine** in any of their cabs and every linked unit starts or stops with it. A unit with an empty tank or a wrecked engine stays off, and you are told which.
+- **Drive from any cab.** The throttle, brake and reverser in every linked cab work the same train, and the brake holds all the linked units instead of one.
+- Each unit burns its own fuel, so fill them all.
+- Examine a diesel to see how many units are linked.
+
+### Dead-man's handle
+
+Every heavy and main-line diesel has a dead-man's handle. While the train moves, somebody awake and able has to stand in a cab of the working units. If the cabs stay empty, or the driver is knocked out, the power shuts off and the brakes go on within about a dozen tiles. The engine's brake alone stops a long train slowly, so a guard at a [brake van](#brake-van) still matters.
+
 ## Rail warehouse
 
 A rail warehouse stores cars and locomotives off the line, together with everything on board, so a yard doesn't need long sidings. Trains drive straight through it: unload cars from the back of a train, or couple stored cars back on to make up a new one.
