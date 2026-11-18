@@ -297,6 +297,40 @@ A long train needs somebody in charge behind the engine. The conductor, or guard
 - **Tickets** are between players. Agree a fare, take it by hand, write the ticket and punch it on board.
 - **Flag signals:** green held high is *right away*, red waved is *stop*, green waved slowly from side to side is *set back*, green held steady is *come on slowly*, and red waved hard above the head is *danger, stop at once*.
 
+### Signals and single lines
+
+Signals keep trains apart. They need people off the train: a signalman at the post or in a signal box, and somebody at each end of a single line. Everything here is from the **Rail & Steam** node.
+
+![A semaphore signal at danger and at clear, a lever frame, a token instrument, a brass token, a section board and a coil of signal wire](../images/civ13-train-signals.png)
+
+| Item | Cost | What it does |
+| --- | --- | --- |
+| Semaphore signal | 4 iron | A post beside the track with a red arm. Arm level is *danger*: stop. Arm lowered is *clear*. Click it with an empty hand to move the arm. |
+| Lever frame | 10 iron | Works up to 8 signals and switch levers from one place, up to 40 tiles away. |
+| Coil of signal wire | 2 iron | Joins signals and switch levers to a lever frame, and pairs token instruments. It is not used up. |
+| Token instrument | 8 iron | One at each end of a single line. The pair gives out one token between them. |
+| Section board | 3 wood | A board beside the track where a single line begins. |
+
+**Placing signals.** Stand a signal or a board beside the track, on the first tile that a passing train's side leaves clear. Any further out and trains don't read it. Each speaks to trains running one way only: examine it to see which, and use a **wrench** on it to turn it.
+
+**Reading them.** Everyone in a cab is told what a signal shows when the train comes within ten tiles of it. Nothing stops the train for you: the driver has to brake. A train that runs past a signal at danger is seen to do it by everyone nearby, the signal keeps count, and examining it shows how often.
+
+**The signal box.** Use the signal wire on a lever frame, then on each signal and switch lever it is to work. Using the wire on one again takes it off. Click the frame with an empty hand and pick a lever to pull it; examine the frame to see how every lever stands.
+
+- A signal or switch that is wired to a frame no longer moves by hand.
+- Two signals that face each other along the same line can't both be clear, so the frame can't send two trains at each other.
+- A switch can't be moved while a signal within ten tiles of it is clear. Put the signal back to danger first.
+- If a train passes one of its signals at danger, a bell rings at the frame.
+
+**Single lines.** Where trains run both ways on one track, work it by token.
+
+1. Build a token instrument at each end. Use the signal wire on one and then on the other to pair them; they can be up to 150 tiles apart.
+2. Build a section board at each end, facing trains about to enter the single line. Use the wire on an instrument and then on the board to mark it.
+3. Click an instrument with an empty hand to draw the token and give it to the engine crew. While it is out, neither instrument gives another.
+4. At the far end, use the token on the instrument there to put it back. The line is then free for the next train, in either direction.
+
+A cab coming up to a section board is told whether the token is on the engine: in a crew member's pocket or hand, or lying on the engine's floor. A train that passes the board without it is seen to, and the board keeps count.
+
 ### Hitting things
 
 - The faster and heavier the train, the harder it hits. A train creeping along shoves a person off the rails with a bruise and stops in front of crates and furniture without breaking them.
