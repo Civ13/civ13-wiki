@@ -120,6 +120,18 @@ The neck, boot and sleeve sheaths hold one **small** knife, such as a flint, obs
 
 Use a boot sheath on your shoes, or a sleeve sheath on your coat, to sew it in. Each shoe or coat takes one. To draw the knife, click the worn shoes or coat with an empty hand. The neck sheath works the same way when it is the only thing on your clothes; otherwise use its tile. Boot and sleeve sheaths are hidden from view, but anyone who examines your shoes or coat can see the sheath and what is in it.
 
+### Sword sheaths
+
+Sword sheaths are made from leather in the **Weapon Accessories** tab and hang from a belt or clothes. Use **Holster** on the belt or clothes to put a sword away or draw it.
+
+| Sheath | Leather | Holds | Needs |
+| --- | --- | --- | --- |
+| Sword sheath (short) | 1 | short swords: gladius, xiphos, khopesh, Gaelic shortsword, small sword, kukri, bolo | Bronze Arms & Armor |
+| Longer sword sheath | 1 | most one-handed swords, such as the arming sword, sabre, scimitar, cutlass and rapier | Steel Blades |
+| Longsword sheath | 1 | most swords, including longswords | Steel Blades |
+| Katana sheath | 1 | a katana or wakizashi | Steel Blades |
+| Daisho sheath | 2 | a katana and a wakizashi together | Steel Blades |
+
 ### Sewing and sharpening
 
 | Item | How to make it | Needs |
