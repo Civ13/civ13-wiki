@@ -30,6 +30,10 @@ Output fills matching stacks up to their limits. A tile holds at most **12 outpu
 
 Each ore in a rock wall rolls on its own, so one mined wall can drop several kinds of ore at once, for example coal together with iron. Coal is twice as common as it used to be. Some walls now give no ore at all, because the drops cluster. A wall that gives ore also gives 8-12 stone, and a wall with no ore gives 16-24.
 
+## Opening a mined mountain to the sky
+
+Mining into a mountain leaves the rock above you in place, so a dug-out hall stays dark and roofed and needs mine supports. To open it up, use a pickaxe on a mined tile that sits next to open ground. After about 12 seconds (faster with strength and a better pickaxe) the rock overhead is broken away and that spot is outdoors: it gets sun and rain, outdoor crops grow there, and it no longer needs supports. Work inward from the open edge one tile at a time. This gives no stone or ore, and the rock does not grow back, but you can still build a roof over the spot later. Clear away furniture and other structures first; mine supports can stay.
+
 ## Old mountain floor and ore seams
 
 On the North and South America and Asia lands, the ground left behind once a mountain has been mined away is still worth working. Use a pickaxe on that bare floor. Each job takes twice as long as breaking a rock wall.
