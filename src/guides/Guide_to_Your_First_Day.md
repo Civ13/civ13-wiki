@@ -249,7 +249,7 @@ Coming back has a cost that depends on how you died:
 | Killed by another player | The three subjects learned last and a fifth of scholarship |
 | Body destroyed, or by your own hand | Everything |
 
-A second return within a day of the first costs double.
+A bed only partly protects you: **starting at your bed costs double**, while starting beside your faction's recruitment station costs the amount above. A second return within a day of the first also costs double, and the two add up.
 
 After any death your next character is **shaken**: for 30 minutes of play it deals half damage to other people. Animals are not affected, so you can still hunt. The Status tab shows the time left.
 

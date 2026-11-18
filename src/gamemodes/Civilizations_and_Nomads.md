@@ -124,7 +124,7 @@ The best assembly any member faction keeps standing counts. If it burns or loses
 
 #### Starting with your faction
 
-Once you have joined a faction in character, your new characters can start with it. When you join the round, you are asked whether to start **here, on your own** or **with** your faction. Choosing your faction starts you beside one of its [recruitment stations](#recruitment-stations), already a member. You cannot start with a faction you have never joined in play, and the faction needs a placed recruitment station with free space beside it.
+Once you have joined a faction in character, your new characters can start with it. When you join the round, you are asked whether to start **here, on your own** or **with** your faction. Choosing your faction starts you beside one of its [recruitment stations](#recruitment-stations), already a member. You cannot start with a faction you have never joined in play, and the faction needs a working recruitment station (see [Provinces](#provinces)) with free space beside it.
 
 #### Recruitment stations
 
@@ -139,6 +139,17 @@ On maps that allow custom factions, a faction can take members through a **recru
 
   Further rules set a required language and minimum skill levels (0-10) in crafting, farming, medical and combat. Players who don't meet the rules either still go to review or cannot apply, as the leader chooses. **Open recruitment** sets the language and skill rules aside, so everyone eligible counts as matching. Automatic acceptance needs open recruitment or at least one rule.
 * Applications and approved offers expire after **7 days**. Dying ends that character's application.
+
+#### Provinces
+
+Each continent is divided into **provinces** that follow the land: coasts, rivers, lakes, mountain ranges and straits. Choose **Province Holdings** on the **Faction tab** to see which province you stand in, whether you count as one of your faction's residents there (and if not, why), and how much stake every side has in every province.
+
+* **Stake:** each resident is worth 1 point. A resident is a member who has been in the faction for 3 days, has had their own bed for 3 days within 40 tiles of one of the faction's fastened halls, and plays regularly: 10 hours in all on this land, and 4 hours over at least 3 different days of the last week. Your faction's best hall in the province adds 2 points per stage, never more than its residents there. Factions of one nation add their stake together, but a large group's residents count for less beyond the first 10.
+* **Leading:** a side leads a province with at least 6 points from at least 4 people, 35% of all the stake there and 1.25 times the next side.
+* **Taking and holding:** a side that leads a province for **72 hours** in a row takes it. It keeps it until a rival out-stakes it by the same margin for 72 hours. A holder that drops below 6 points from 4 people is warned and loses the province after **48 hours** unless it recovers, so rebuild destroyed beds and halls quickly. A side holds at most **3** provinces of a land. Leaders are told when their hold slips, recovers, is challenged, taken or lost.
+* **Stations:** once the preview shown in Province Holdings ends, a recruitment station on a continent works only in a province its side holds, and only when its faction has **3** residents of its own there. An idle station keeps its faction, rules and applications, and examining it says why it is idle. Starting with your faction uses working stations only.
+
+Lands across the sea have no provinces, so stations there always work. A faction's claimed land across the sea stays its own unless the faction leaves it empty (see [Settle, claim or abandon](../guides/Guide_to_Boats.md#settle-claim-or-abandon)).
 
 #### Family and adoption
 
