@@ -66,7 +66,7 @@ machinery and vehicles.
 - **[Mining](#mining)**
 - **Making swords and pre-1903 firearms** - **[Anvils](Guide_to_Metallurgy.md#anvils)**
 - **Making armor** - **[Anvils](Guide_to_Metallurgy.md#anvils)**
-- **Making guns starting from 1903** - **[Gunsmithing bench](#gunsmithing-bench)**
+- **Making guns in every era** - **[Guide to Gunsmithing](Guide_to_Gunsmithing.md)**
 
 ## Basics
 
@@ -446,7 +446,7 @@ holding a hammer in the other hand.
 
 ### Component work tools
 
-For Gunsmithing-era firearm parts, see [Flintlock parts assembly](Guide_to_Weapons.md#flintlock-parts-assembly).
+For making guns in every era, see the [Guide to Gunsmithing](Guide_to_Gunsmithing.md). For Gunsmithing-era firearm parts, see [Flintlock parts assembly](Guide_to_Weapons.md#flintlock-parts-assembly).
 
 For optic rails, attachment tools and repair limits, see [Firearm maintenance and configuration](Guide_to_Weapons.md#firearm-maintenance-and-configuration).
 
@@ -723,70 +723,10 @@ level of the crafting skill before you are able to use them.
 <tr>
 <td width="5%"><img src="../images/gunbench.png"></td>
 <td width="10%"><b>Gunsmithing bench</b></td>
-<td><b>Skill required: 1.5 + Blueprint</b><br />
-Made with 13 wood logs. Used to assemble custom firearms from separate parts starting from the Early Modern age (1903) and to rechamber guns to a different caliber (click the bench with the gun).
-<ul>
-<li>Take some steel sheets and wood logs and click the bench with them.</li>
-<li>If you have a weapon blueprint, click the bench with it to assemble that weapon.</li>
-<li>If you don't have a blueprint, but have high enough skill (2.5), click the bench with an empty hand while holding 50 gold coins (or equivalent) in the other hand to design a new firearm along with producing a blueprint.</li>
-<li>You will see the list of weapon parts and the amount of materials you have placed. You need to choose a different part at every step. The increase in the material cost, compared to the amount of materials at hand, is displayed after each step. See the tables below for more information on specific parts and their availability in different ages.</li>
-<li>When you have finished choosing the parts, you can select whether you want to use a specific design for the weapon.</li>
-<li>Name the firearm to finish the assembly. The blueprint will also be named the same as the weapon.</li>
-</ul></td>
-</tr>
-<tr>
-<td width="5%"><img src="../images/blueprint.png"></td>
-<td width="10%"><b>Blueprint</b></td>
-<td><b>Skill required: 2.5 + 50 gold coins (or equivalent)</b><br />
-A weapon blueprint is produced every time you design and assemble a firearm at the gunsmithing bench. A blueprint could be used to assemble the previously designed firearm by someone with the lower skill level.</td>
+<td>Made with 13 softwood after <b>Gunsmithing</b>. From WW1 on, design your own gun from a stock, receiver, feeding system and barrel, paid for with wood and steel loaded onto the bench. Designing needs a Crafting skill of 2.5x and coins worth 50 silver, and gives you a <b>blueprint</b>; anyone with 1.5x can then build copies from the blueprint. Click the bench with a gun to rechamber it to another caliber. The parts on offer grow with Cartridge Firearms, Self-Loading Firearms and Automatic Weapons research; see <a href="Guide_to_Gunsmithing.html#the-gunsmithing-bench">the gunsmithing bench</a> for every part and its cost.</td>
 </tr>
 </tbody>
 </table>
-
-<b>Stock</b>
-
-| Type                 | Available | Pros                                              | Cons                                               | Cost           |
-| -------------------- | --------- | ------------------------------------------------- | -------------------------------------------------- | -------------- |
-| Rifle wooden stock   | 1903      | Cheap, stable, accurate                           | Heavy, slow to equip                               | 7 wood logs    |
-| Carbine wooden stock | 1903      | Cheap, good stability                             | Somewhat heavy, less accurate than the rifle stock | 5 wood logs    |
-| Pistol grip          | 1903      | Cheap                                             | Very low stability                                 | 3 steel sheets |
-| Steel stock          | 1943      | Cheap, stable, faster to equip than wooden stocks | Somewhat heavy                                     | 5 steel sheets |
-| Folding stock        | 1979      | Switchable between folded and extended            | Less accurate than fixed stocks even if extended   | 7 steel sheets |
-
-<b>Receiver</b>
-
-| Type                  | Available | Pros                                                | Cons                                                                                 | Cost            |
-| --------------------- | --------- | --------------------------------------------------- | ------------------------------------------------------------------------------------ | --------------- |
-| Bolt-action           | 1903      | Very cheap and accurate                             | Slow reloading (needs to open and close after each shot)                             | 5 steel sheets  |
-| Revolver              | 1903      | Cheap                                               | Reloading slower than semi-automatic pistols; feeding system restricted to revolving | 4 steel sheets  |
-| Small semi-automatic  | 1903      | Somewhat cheap, good for pistols                    | Small range, not very accurate                                                       | 6 steel sheets  |
-| Pump-action           | 1903      | Cheap, reloading faster than bolt-action            | Somewhat slow reloading; feeding system restricted to tubular                        | 5 steel sheets  |
-| Small open bolt       | 1943      | Cheapest fully automatic option                     | Fully automatic only, limited accuracy                                               | 8 steel sheets  |
-| Large semi-automatic  | 1943      | Decent accuracy                                     | Expensive                                                                            | 8 steel sheets  |
-| Large open bolt       | 1943      | High rate of fire                                   | Very expensive, inaccurate                                                           | 11 steel sheets |
-| Dual selective fire   | 1979      | Switchable between semi- and fully automatic        | Very expensive                                                                       | 13 steel sheets |
-| Triple selective fire | 1979      | Switchable between semi-, burst and fully automatic | Very expensive                                                                       | 15 steel sheets |
-
-<b>Feeding system</b>
-
-| Type              | Available | Pros                                                      | Cons                             | Cost            |
-| ----------------- | --------- | --------------------------------------------------------- | -------------------------------- | --------------- |
-| Internal magazine | 1903      | Cheap, can be clip-fed                                    | Low capacity (5 rounds)          | 4 steel sheets  |
-| Tubular           | 1903      | Cheap, higher capacity than internal magazines (8 rounds) | Slow reloading, cannot use clips | 5 steel sheets  |
-| Revolving         | 1903      | Cheap                                                     | Very slow reloading              | 3 steel sheets  |
-| External magazine | 1943      | Fast reloading                                            | Somewhat expensive               | 8 steel sheets  |
-| Large magazine    | 1943      | Accepts high-capacity drum magazines                      | Expensive                        | 10 steel sheets |
-| Open (belt-fed)   | 1943      | Very high capacity                                        | Inaccurate and unstable          | 6 steel sheets  |
-
-<b>Barrel</b>
-
-| Type       | Available | Pros                                                  | Cons                                       | Cost           |
-| ---------- | --------- | ----------------------------------------------------- | ------------------------------------------ | -------------- |
-| Pistol     | 1903      | Cheap                                                 | Lowest range                               | 4 steel sheets |
-| Carbine    | 1903      | Faster to equip than rifle barrels, decent accuracy   | Low range                                  | 5 steel sheets |
-| Rifle      | 1903      | Accurate                                              | Somewhat expensive, somewhat slow to equip | 6 steel sheets |
-| Long rifle | 1943      | Most accurate                                         | Slow to equip                              | 7 steel sheets |
-| Air-cooled | 1943      | Required for machine guns to prevent frequent jamming | Expensive                                  | 9 steel sheets |
 
 ## Projectiles and Gunpowder
 

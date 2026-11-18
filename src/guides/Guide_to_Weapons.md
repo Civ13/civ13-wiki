@@ -1,4 +1,7 @@
 # Guide to Weapons
+
+To make your own guns, from hand cannons to assault rifles, see the [Guide to Gunsmithing](Guide_to_Gunsmithing.md).
+
 ## 5000 B.C. Weapons
 
 <table>
@@ -920,6 +923,8 @@ Craft a weapon light from **1 electronics** in the **Weapons** menu after **Cons
 Craft a gun sling from **1 leather** in the **Weapons** menu after **Gunsmithing**. Hold the gun in one hand and use the sling in the other to fit it. Only guns you can wear on your shoulder or back take one. If you are knocked down, stunned or knocked out and drop a slung gun, it stays on your shoulder or back as long as that slot is free.
 
 ### Modular gun parts
+
+For a step-by-step walkthrough of making and assembling guns in each era, see the [Guide to Gunsmithing](Guide_to_Gunsmithing.md).
 
 These gun families are built from four parts:
 
