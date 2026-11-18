@@ -414,6 +414,31 @@ To catch it, build a **drop pit** (8 iron) on a track tile and stop the hopper o
 
 The hopper wagon kit, a spare door lever (4 iron) and the drop pit are on the **Rail & Steam** node, or industrial research **101**.
 
+### Tank car
+
+A **tank car** (kit: 30 iron, six tiles long) carries liquid by the trainload: water for a dry water stop, oil, fuel, milk or drink. Its tank holds **3,600** units, as much as a dozen or more barrels.
+
+![A tank car heading east and one heading north, each with a black riveted tank between two running boards and a red valve wheel on its front platform, and the valve on its own](../images/civ13-train-tank-car.png)
+
+The tank stands down the middle of the car. You can't walk through it, but a running board with a handrail runs along each side, and both ends are open platforms.
+
+- **To fill it**, click the tank with an open vessel such as a bucket or barrel. Everything in the vessel is poured in.
+- **One plain liquid at a time.** A tank holding water takes only water until it is empty, and it won't take a mixture.
+- **To draw off by hand**, click the tank with an empty open vessel. It comes away full.
+- **A full tank is heavy.** A full tank car weighs three times what it does empty.
+- **Examine the car** to see what it holds and how much. A car with liquid in it can't be packed back into a kit: drain it first.
+
+**The valve.** A tank car is built with a **valve** and hose at the front left corner of its end platform. Stop the train and use the valve with an empty hand to run the tank out:
+
+- **Water** runs into a [water tower](#tenders-and-water-stops) within three tiles, so a tank car can supply a tower that has no water of its own.
+- **Diesel or biodiesel** runs into a [heavy diesel locomotive](#heavy-locomotives) standing within three tiles, until its fuel tank is full.
+
+You can also hold a vessel to the valve to fill or empty the tank the same way as at the tank itself.
+
+**Filling from a tower.** A water tower or water crane fills a tank car standing beside it, as it fills a tender, as long as the tank is empty or already holds water.
+
+The tank car kit and a spare valve (4 iron) are on the **Rail & Steam** node, or industrial research **101**.
+
 ### Putting a car together
 
 1. Carry or drag the kit onto the track. A car needs **four tiles of straight track**, and a long car **eight**: the tile under the kit and the rest behind it. Examine a kit to see how long its car is.
