@@ -626,7 +626,7 @@ Heavy locomotives are full-size engines, three tiles wide and four long. They ar
 - **Keep clear of the line.** A heavy locomotive is as wide as a platform car, and it hits anyone standing beside the rails as well as on them.
 - **Damage.** Explosions wear the engine and its body down. A wrecked engine dies and a wrecked body section stops the train until it is welded. A **welding tool** repairs both.
 
-A heavy locomotive can't be packed back into a kit, and it is too long for a rail warehouse.
+A heavy locomotive can't be packed back into a kit. A [rail warehouse](#rail-warehouse) takes it whole.
 
 ### Cab crew
 
@@ -653,7 +653,7 @@ The main-line steam locomotive is the big express engine: six tiles long, faster
 - **Assemble** it like the heavy locomotives, on **six** tiles of straight track. The cab is the last section.
 - **It needs a tender.** It has no coal bunker and almost no water of its own. Build a [tender](#tenders-and-water-stops) behind it and couple the two, so the tender's plate meets the back of the cab. The tender's water runs to the engine, and the fireman at the firebox door shovels from the tender.
 - **Raising steam** from cold takes about six minutes on a good fire, so keep the fire in between runs.
-- It has the same [cab crew](#cab-crew) as the heavy steam engines, takes damage and is repaired the same way, and can't be packed back into a kit or stored in a rail warehouse.
+- It has the same [cab crew](#cab-crew) as the heavy steam engines, takes damage and is repaired the same way, and can't be packed back into a kit. A rail warehouse takes it whole.
 
 ### Main-line diesel locomotive
 
@@ -667,7 +667,7 @@ The main-line diesel is the big engine of the diesel age: six tiles long with a 
 
 - **Assemble** it like the heavy locomotives, on **six** tiles of straight track. Fuel it from a container or from a [tank car](#tank-car).
 - **Two cabs.** Click the locomotive from either cab to drive it. A walkway down each side of the hood joins them. Drive from the cab that leads: with nobody in the leading cab the train keeps to three quarters of its speed, so walk to the other end before you run back.
-- It takes damage and is repaired like the heavy locomotives, and can't be packed back into a kit or stored in a rail warehouse.
+- It takes damage and is repaired like the heavy locomotives, and can't be packed back into a kit. A rail warehouse takes it whole.
 
 ### Diesels in multiple
 
@@ -691,9 +691,11 @@ A rail warehouse stores cars and locomotives off the line, together with everyth
 1. **Build the office** (15 iron; **Rail & Steam** node, or industrial research **101**) facing the track, with **one tile between the office and the rails**. The track running past it, **six tiles each way**, is the warehouse bay (13 tiles, room for three platform cars and a locomotive, or one long car and one platform car). Use a wrench on an empty office to turn it. Build walls and a roof around the bay if you like, but leave the track open at both ends and keep a clear tile either side of the rails.
 2. **Drive the train in** and stop it with the cars you want to put away inside the bay. Get everyone off them.
 3. **Use the office.** Choose a car to put away, or **Put away the whole train**. Cars always come off the **back** of the train: whatever is standing on a car goes with it, crates and their contents included.
-4. **Couple a car back on** from the same menu. It rolls onto the track behind the train in the bay, facing the way the train heads, and is hitched to it. If the bay is empty, it rolls to the far end.
+4. **Couple a car back on** from the same menu. It rolls onto the track behind the train in the bay, facing the way the train heads, and is hitched to it. If either of the two drawbars that meet has no coupling, or a broken one, the car rolls out but stays unhitched. If the bay is empty, it rolls to the far end.
 
-The office holds 8 cars or locomotives. It won't take a moving train, a car that sticks out of the bay, a car with people aboard, or a railway gun car or crane car with its outriggers down.
+The office holds 8 cars or locomotives. It won't take a moving train, a car that sticks out of the bay, a car with people aboard, a derailed car, or a railway gun car or crane car with its outriggers down.
+
+A **heavy locomotive** goes away whole: the engine and the sections behind it count as one of the 8, and all of it has to stand inside the bay with the engine shut down. A main-line engine is six tiles long, so it fits with room for its four-tile tender behind it. It comes out as it went in, with its fuel, water, sand and wear, and with whatever was standing in its cab.
 
 ## Through station and service loop
 
