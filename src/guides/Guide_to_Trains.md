@@ -462,6 +462,26 @@ You can also hold a vessel to the valve to fill or empty the tank the same way a
 
 The tank car kit and a spare valve (4 iron) are on the **Rail & Steam** node, or industrial research **101**.
 
+### Crane car
+
+A **crane car** (kit: 40 iron, four tiles long) carries a steam **rail crane**, so you can take a hoist anywhere the track goes. It is ballasted and weighs twice as much as an ordinary car of its length.
+
+![A crane car heading east at rest, the same car hauling with its lever thrown, and a crane car heading north](../images/civ13-train-crane-car.png)
+
+1. **Stop the train** and wait a moment for it to settle.
+2. **Pull the outrigger lever** at the front left corner of the car. The crane won't lift until the outriggers are down, and while they are down the whole train stays where it is.
+3. **Stoke the crane.** Use coal, charcoal or wood on it, the same as a [steam crane](Guide_to_Construction.md#hoisting-heavy-loads). Each haul burns one haul of fuel and it holds 40.
+4. **Stand next to the crane and drag the load onto it.** The load must be unfastened and within **five tiles** of the crane. It doesn't have to be beside it.
+5. **Choose where it goes:**
+   - **Swing it onto** another car: the load lands on the nearest clear deck tile of a car beside the crane car.
+   - **Set it down beside the track:** the load lands on the nearest clear ground off the rails.
+   - **Raise** or **lower** it one level through open air, as any crane does.
+6. **Pull the lever again** to raise the outriggers before you set off.
+
+Click the crane with an empty hand to haul up something lying on the level below. Examine it to see how much fuel it has and whether it is ready to lift.
+
+The crane car kit and a spare rail crane are on the **Rail & Steam** node, or industrial research **101**.
+
 ### Putting a car together
 
 1. Carry or drag the kit onto the track. A car needs **four tiles of straight track**, and a long car **eight**: the tile under the kit and the rest behind it. Examine a kit to see how long its car is.
@@ -556,7 +576,7 @@ A rail warehouse stores cars and locomotives off the line, together with everyth
 3. **Use the office.** Choose a car to put away, or **Put away the whole train**. Cars always come off the **back** of the train: whatever is standing on a car goes with it, crates and their contents included.
 4. **Couple a car back on** from the same menu. It rolls onto the track behind the train in the bay, facing the way the train heads, and is hitched to it. If the bay is empty, it rolls to the far end.
 
-The office holds 8 cars or locomotives. It won't take a moving train, a car that sticks out of the bay, a car with people aboard, or a railway gun car with its outriggers down.
+The office holds 8 cars or locomotives. It won't take a moving train, a car that sticks out of the bay, a car with people aboard, or a railway gun car or crane car with its outriggers down.
 
 ## Through station and service loop
 
