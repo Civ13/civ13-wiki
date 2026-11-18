@@ -1417,7 +1417,9 @@ the side in front of you, the side behind you, or neither (for an inner door
 or a gate). An arrow briefly marks the inside tile, and examining the door
 later tells you which way its inside faces and which side you are on. The
 hinges and fittings go on the inside. Any door can take a fitted lock (see
-**Locks** below); the jail doors still come tied to a key, as described below.
+**Locks** below). A jail door built without a key takes any fitted lock, and
+one built tied to a key, as described below, can still take a padlock beside
+its own lock.
 
 Doors are built in one step, then finished by fitting parts to them: a
 closer, spring hinge or doorstop ([Door fittings](#door-fittings)), a lock
@@ -1479,7 +1481,7 @@ you.
 <b>Key and keychain</b></td>
 <td>Key and keychain are made with iron ingots. Keys are used to lock certain doors, wooden cabinets, crates, lockers and large barrels - click them with the key.
 <ul>
-<li>To construct a lockable jail door, first make a key.</li>
+<li>To construct a locked iron door, first make a key. Jail doors can be built the same way, or without a key and fitted with a padlock or other lock afterwards.</li>
 <li>Enter the combination for the key, which is, basically, a password.</li>
 <li>Hold the key in the non-active hand, then build a locked door with the iron in the active hand.</li>
 <li>Now the door is tied to the key and could be opened and closed with it.</li>
