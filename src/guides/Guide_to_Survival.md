@@ -10,6 +10,23 @@ Rain and immersion make you wet, weakening clothing insulation and increasing co
 
 Complete coverage buys time but does not make you immune to cold. A dangerously cold body takes harm even when fully covered. Seek warmth before exposure becomes severe, and account for other injuries and hunger.
 
+### How cold it gets
+
+Each land has its own climate. Temperatures change smoothly through the year: the coldest point is the middle of winter, the warmest is the middle of summer, and spring and fall fall in between. Every day is coldest at early morning and warmest in the afternoon. Under rain or snow the day and night are closer together.
+
+| Land | Mid-winter | Mid-summer | Day to night |
+| --- | --- | --- | --- |
+| Temperate | about -2 C | about 20 C | 10 C |
+| Coast | about 5 C | about 17 C | 5 C |
+| Taiga | about -18 C | about 15 C | 12 C |
+| Tundra | about -28 C | about 8 C | 8 C |
+| Semi-arid | about 5 C | about 26 C | 15 C |
+| Desert | about 13 C | about 34 C | 18 C |
+| Savanna | about 22 C | about 28 C | 12 C |
+| Jungle | about 26 C | about 28 C | 8 C |
+
+On lands with a wet and a dry season, the dry season is the hotter one. These are averages: half the "day to night" figure is added in the afternoon and taken off at dawn, so a desert summer runs from about 25 C at dawn to 43 C in the afternoon. Rain makes the air a little colder. A blizzard is about 10 C colder than the season, and a heat wave about 6 C hotter. High ground is colder too: a few degrees on a hill, and up to about 10 C on the highest ground. The [farmer's almanac](Guide_to_Farming.md#farmers-almanac) lists the typical temperature of each season where you stand.
+
 ## Storms
 
 Weather comes as storms that travel across the land with the wind. Rain, snow or blowing sand falls only under the storm, so one valley can be soaked while the next is dry, and you can walk out from under a storm or wait for it to pass.
