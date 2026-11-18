@@ -10,7 +10,8 @@ This guide follows [Civilizations & Nomads](../gamemodes/Civilizations_and_Nomad
 
 | Era | What you can make | Where | Research |
 | --- | --- | --- | --- |
-| Medieval to Industrial | Fire lance, hand cannon, arquebus, matchlocks | Iron in hand, **Firearms** menu | Gunpowder |
+| Medieval to Industrial | Fire lance, hand cannon, arquebus | Iron in hand, **Firearms** menu | Gunpowder |
+| Medieval to WW1 | Matchlock musket, matchlock tanegashima | Iron in hand, **Firearms** menu | Gunsmithing |
 | Imperial (1713) | Flintlock muskets, musketoons, blunderbusses and pistols | Iron on an anvil, or assembled from parts | Gunsmithing |
 | Industrial (1873) | Revolvers, lever-action repeaters, single-shot rifles, coach gun, Gewehr 71 | Steel on a steel-faced or steel anvil | Rifling |
 | WW1 (1903) onward | Custom guns of your own design | Gunsmithing bench | Cartridge Firearms |
@@ -35,7 +36,7 @@ A gun is no use without ammunition. Gunpowder, musket balls, paper cartridges an
 
 ## Early gunpowder weapons
 
-Once your people know **Gunpowder**, hold iron in your hand, open the crafting menu and look under **Firearms**.
+Once your people know **Gunpowder**, hold iron in your hand, open the crafting menu and look under **Firearms**. Gunpowder unlocks the fire lance, hand cannon and arquebus. The matchlock musket and tanegashima fire much faster than the arquebus and also need **Gunsmithing**.
 
 | Gun | Iron | Available until |
 | --- | --- | --- |
