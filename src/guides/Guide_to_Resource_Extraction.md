@@ -46,6 +46,20 @@ On the continents, each one is rich in its own resources, which turn up **twice 
 
 Everywhere else these are scarcer: copper, tin, coal, calamine, silver, gold and gems turn up at half the usual rate, and saltpeter, sulphur, lead and bauxite at a third (these lower rates phase in over a world's first two weeks). **Iron** is found at the usual rate on every continent. Gaia also keeps tin at the usual rate, so you can reach bronze and iron there on your own, but it has **no bauxite or uranium**: later industry needs trade or a foothold on another continent. This applies to rock walls, gold and silver lodes, gem pockets and mountain seams. Lands across the sea keep their own ores. **Province Holdings** on the Faction tab shows what your continent is rich in.
 
+### Rich provinces
+
+Two or three [provinces](../gamemodes/Civilizations_and_Nomads.md#provinces) of each continent are rich in one of its own resources. There that resource turns up **three times as often** instead of twice. Each rich province also has a **rich seam**, a tile near its middle marked with the ore. Work it with a pickaxe for a load of that ore at a time. It never runs out, but it gives only so many loads a day:
+
+| Holder's settlement | Loads a day |
+| --- | --- |
+| Nobody holds it, or no rank yet | 4 |
+| Camp | 6 |
+| Village | 10 |
+| Town | 16 |
+| City | 24 |
+
+Anyone can work a rich seam, so the side that holds the province will want to guard it. A side's third and later rich provinces on a land give half as many loads. Each ore can be worked from the same age as in a rock wall. **Province Holdings** and the seat's Province ledger name the rich provinces and give each seam's position.
+
 ## Opening a mined mountain to the sky
 
 Mining into a mountain leaves the rock above you in place, so a dug-out hall stays dark and roofed and needs mine supports. To open it up, use a pickaxe on a mined tile that sits next to open ground. After about 12 seconds (faster with strength and a better pickaxe) the rock overhead is broken away and that spot is outdoors: it gets sun and rain, outdoor crops grow there, and it no longer needs supports. Work inward from the open edge one tile at a time. This gives no stone or ore, and the rock does not grow back, but you can still build a roof over the spot later. Clear away furniture and other structures first; mine supports can stay.
