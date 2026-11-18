@@ -23,6 +23,7 @@ From left to right: raft, outrigger canoe, outrigger under sail, outrigger with 
 | Raft | 10 wood logs | Carts | Industrial 22 |
 | Outrigger canoe | A dugout canoe, 4 wood and 3 rope | Basic Toolmaking | None |
 | Small sail | 15 cloth or 15 wool | Oared Ships | Medical 22 |
+| Log rollers | 3 wood | Basic Toolmaking | None |
 | Wood ship frame | 4 planks per tile | Wagons & Ships | Industrial 41 |
 | Ship rudder control (the wheel) | 10 planks | Wagons & Ships | Industrial 41 |
 | Boathouse (stores boats) | 20 planks | Wagons & Ships | Industrial 41 |
@@ -45,8 +46,20 @@ The small sail is in the cloth (or wool) crafting menu, not in vehicle parts. En
 - You **can't craft while standing in deep water**, so build at the shoreline or in the shallows, facing open water.
 - **Rivers flow** on North America, South America, Gaia, Europe, Jungle and Asia. Every few seconds the current carries loose items and swimmers one tile downstream, but not boats or anyone aboard one. Animal carcasses stay where they fell, so you can butcher a kill in the shallows. Lakes and ponds are still. Faint streaks slide along flowing water to show which way it runs, and examining the water tells you too.
 - **The sea has currents** on North America, South America, Gaia, Europe and Asia. A belt of water a few tiles off the coast flows along the shore. See [Sea currents and swimming](#sea-currents-and-swimming).
-- Rafts and finished boats can't be pushed or pulled, so build them where you mean to launch them.
+- Small boats are built on land and dragged to the water. See [Hauling a boat over land](#hauling-a-boat-over-land).
 - A flooded trench is navigable, but a boat can't cross a step where a canal goes up or down without a [pound lock](Guide_to_Trenches.md#pound-locks). Dig a channel from a lake or the sea to a sheltered building spot, or around a ship to give it room to turn.
+
+## Hauling a boat over land
+
+Rafts, canoes, outriggers and RHIBs can be dragged like a crate: pull the boat and walk. Use this to build away from the tide line, to launch, and to beach a boat where the current can't take it.
+
+- **Empty her first.** On land a boat won't budge with anyone or anything aboard.
+- A **raft** or **dugout canoe** is light. One person drags it at a slow walk.
+- An **outrigger canoe** or a **RHIB** is heavy. Alone you crawl. Anyone standing beside her lends a hand: one helper makes her drag like a light boat, and two make her drag like a crate. An engine on her counts as one helper fewer.
+- <img src="../images/Log_rollers.png"> **Log rollers** (3 wood, vehicle parts) do the work of a crew. Use them on an empty beached boat and one person can drag her easily. When she reaches the water she floats off them and they stay on the beach. To get them back sooner, right-click the boat and choose **Take Out Rollers**.
+- Drag her into the shallows and she floats. Afloat, any small boat tows easily, loaded or not.
+
+Looking at a beached boat tells you how she drags.
 
 ## Lighthouses
 
@@ -85,7 +98,7 @@ A canoe is for rivers, lakes and the shallows along a coast. It won't go out ont
 
 ## Raft
 
-1. Craft a **raft** from 10 wood logs at the water's edge.
+1. Craft a **raft** from 10 wood logs, at the water's edge or anywhere you can [drag it](#hauling-a-boat-over-land) from.
 2. Drag yourself onto the raft to climb aboard. A raft carries only you.
 3. Hold a **direction key** to paddle that way; the raft glides smoothly while you hold it and drifts to a stop within about half a tile when you let go. It only goes onto water.
 4. Click the raft to get off.
