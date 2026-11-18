@@ -1,6 +1,6 @@
 # Integrated Circuits
 
-An **integrated circuit** is a small programmable board. Inside it you place components such as adders, comparisons and text tools, and wire them together in a node editor. The **compact remote** is a handheld button with its own circuit built in. Pressing it sends a signal through whatever you have wired up.
+An **integrated circuit** is a small programmable board. Inside it you place components such as adders, comparisons and text tools, and wire them together in a node editor. The **compact remote** is a handheld button that holds one integrated circuit. Pressing it sends a signal through whatever you have wired up.
 
 ## Getting one
 
@@ -9,7 +9,7 @@ An **integrated circuit** is a small programmable board. Inside it you place com
 
 ## The editor
 
-Use an integrated circuit in your hand to open its editor. For a compact remote, Alt-click it. You must be holding it, or standing next to it while it lies on the ground.
+Use an integrated circuit in your hand to open its editor. For a circuit inside a compact remote, Alt-click the remote. You must be holding it, or standing next to it while it lies on the ground.
 
 - **Add a component:** open the component menu and drag a component onto the board. Components are made in the editor and cost nothing extra. A circuit holds up to 64 of them.
 - **Wire it up:** drag from an output (on the right of a component) to an input (on the left of another). An input takes one wire, while an output can feed many inputs. Right-click a port to remove its wires.
@@ -49,7 +49,9 @@ Most components work out their output as soon as an input changes.
 
 ## The compact remote
 
-Use the remote in your hand to press it. Its built-in component has two outputs:
+A new compact remote is empty. Use an integrated circuit on it to put the circuit inside, and the remote adds its button component to that circuit. Use a screwdriver on the remote to take the circuit out again. The button stays with the remote and goes into the next circuit you insert.
+
+Use the remote in your hand to press it. Its button component has two outputs:
 
 - **Signal**, sent each time it is pressed.
 - **User**, whoever pressed it. Wire it into a text input to get their visible name, or into Direction to find where they are.
