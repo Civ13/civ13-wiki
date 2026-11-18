@@ -15,10 +15,12 @@ Use an integrated circuit in your hand to open its editor. For a compact remote,
 - **Wire it up:** drag from an output (on the right of a component) to an input (on the left of another). An input takes one wire, while an output can feed many inputs. Right-click a port to remove its wires.
 - **Set a value:** type into an input that has no wire. Inputs with a fixed set of choices, such as an arithmetic operation, show a dropdown instead.
 - **Fire by hand:** click a signal input to send it a signal straight away.
+- **Mark a person or object:** click an entity input to mark the item in your other hand, or yourself if that hand is empty. Marking the same thing again clears the input.
+- **Read about a component:** the (i) button on a component explains what it does and lists its ports.
 - **Variables:** the variable menu makes named values of a chosen type (up to 32 per circuit). Getter nodes read a variable and setter nodes write it.
 - **Rename:** you can give the circuit a display name.
 
-Port types are colour-coded: numbers, text, lists, signals and "any". A wire only joins ports whose types fit.
+Port types are colour-coded: numbers green, text orange, true/false red, signals teal, lists white, entities (people and objects) purple, choices violet and "any" blue. A wire only joins ports whose types fit. An entity wired into a text input becomes its name.
 
 ## Components
 
@@ -27,6 +29,7 @@ Port types are colour-coded: numbers, text, lists, signals and "any". A wire onl
 | Math | Arithmetic | Add, subtract, multiply, divide, modulo, power, minimum or maximum of A and B. |
 | Math | Comparison | Equal, not equal, greater or less than (or equal). Outputs true or false. |
 | Math | Logic | AND, OR or XOR of two values. |
+| Math | Not | The opposite of a true/false value. |
 | Math | Random | A random whole number between two bounds. |
 | Math | Length | The length of a piece of text or a list. |
 | String | String Concat | Joins two pieces of text. |
@@ -39,6 +42,7 @@ Port types are colour-coded: numbers, text, lists, signals and "any". A wire onl
 | List | List Remove | Removes a value from a list. |
 | List | List Concat | Joins two lists. |
 | List | List Index | The value at a position in a list, counting from 1. |
+| Entity | Direction | The compass direction and distance in tiles to a marked person or object up to 7 tiles away on the same level. |
 | Utility | Delay | Waits 1 to 600 seconds after its trigger, then sends a signal. A new trigger restarts the wait. |
 
 Most components work out their output as soon as an input changes.
@@ -48,13 +52,13 @@ Most components work out their output as soon as an input changes.
 Use the remote in your hand to press it. Its built-in component has two outputs:
 
 - **Signal**, sent each time it is pressed.
-- **User**, the visible name of whoever pressed it.
+- **User**, whoever pressed it. Wire it into a text input to get their visible name, or into Direction to find where they are.
 
-For example, you can wire Signal into a Delay, then the Delay into a List Add that keeps a list of who pressed the button.
+For example, you can wire User into a String Concat and Signal into a Delay to build a message about who pressed the button.
 
 ## Limits
 
 - Text on a wire is cut off at 5,000 characters, and lists hold up to 500 entries.
 - A circuit that feeds back into itself, for example two components triggering each other forever, **overloads**. It goes quiet for about five seconds and warns whoever is holding it.
-- Circuits do not carry objects or people along their wires, only numbers, text and lists.
+- A wire carries a person or object only as a mark. If the thing is destroyed, the mark clears. Lists hold only numbers and text.
 - Circuits are not kept when the world is saved. Note down any design you want to keep.
