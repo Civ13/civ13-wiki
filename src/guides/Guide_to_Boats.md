@@ -535,10 +535,8 @@ A freighter and a schooner afloat after their launch, with another freighter on 
 
 ### Sailing them
 
-Both ships sail like the [aircraft carrier](Guide_to_Aircraft_Carriers.md#sailing): click the **ship's wheel** to weigh anchor, set a speed and turn, and read the chart. The ship moves in hops every 30 seconds with everyone aboard. Register her to your faction in the [ship's papers](Guide_to_Aircraft_Carriers.md#ships-papers) at the wheel so nobody can sail her away while you are gone.
-
-- **Sailing schooner:** two masts and the wheel at the stern. She needs **no fuel**, but makes half ahead at most.
-- **Motor freighter:** the wheel is in the wheelhouse at the stern, and a ladder amidships leads down to the **cargo hold**. Behind a bulkhead door at the back of the hold is the **engine room** with the bunker filling point. Pour **diesel** or **petroleum** into it (400 units). If both the hold and the engine room flood, she sinks.
+- **Sailing schooner:** she comes off the ways as a [hull of your own](#building-your-own-hull): 62 tiles of ship floor, two rigged masts and a **tiller** at the stern, named after her design. Sail her from the tiller like any built hull: she glides smoothly with her crew walking her deck, needs **no fuel**, and her two sails make half ahead on a reach (slower running before the wind or beating into it). Bilge, seams, anchors and rigging work as for any built hull. Register her in the papers at the tiller.
+- **Motor freighter:** she sails like the [aircraft carrier](Guide_to_Aircraft_Carriers.md#sailing): click the **ship's wheel** to weigh anchor, set a speed and turn, and read the chart. She moves in hops every 30 seconds with everyone aboard. The wheel is in the wheelhouse at the stern, and a ladder amidships leads down to the **cargo hold**. Behind a bulkhead door at the back of the hold is the **engine room** with the bunker filling point. Pour **diesel** or **petroleum** into it (400 units). If both the hold and the engine room flood, she sinks. Register her to your faction in the [ship's papers](Guide_to_Aircraft_Carriers.md#ships-papers) at the wheel so nobody can sail her away while you are gone.
 
 ## Building your own hull
 
