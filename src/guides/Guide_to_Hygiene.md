@@ -57,10 +57,13 @@ Remove your clothing, turn the shower on and stand underneath it. Stay for sever
 Bath materials depend on the epoch. Search for "bath" in the [Full Crafting List](../Full_Crafting_List.md). Public baths are larger versions of regular baths.
 
 1. Remove your clothing.
-2. Click the bath to fill it with water.
-3. Step inside and stay for a few seconds. Buckling is optional.
+2. Click the empty bath to fill it with water.
+3. Click the full bath, or drag yourself onto it, to climb in. After ten seconds of soaking you are clean.
+4. Click the bath again, or walk in any direction, to climb out.
 
-Every bath and shower gets you equally clean. On the persistent world a bath or shower needs water: pour it in with a bucket, or build it beside running water (a river with a current, an aqueduct channel, a fountain, a tap or a sink) and it fills itself. Each run takes a tubful, 100 units, or 80 for bronze and steel baths, so better baths use less water.
+A bath holds one person lying down; a public bath fits four. Drag someone else onto a bath to put them in and wash them. Alt-click a bath (or right-click it and choose **Pull the Plug**) to empty it.
+
+Every bath and shower gets you equally clean. On the persistent world a bath or shower needs water: pour it in with a bucket, or build it beside running water (a river with a current, an aqueduct channel, a fountain, a tap or a sink) and it fills itself. Each filling takes a tubful, 100 units, or 80 for bronze and steel baths, so better baths use less water.
 
 ## Soap
 
