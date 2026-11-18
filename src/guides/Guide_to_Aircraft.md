@@ -189,7 +189,7 @@ She can also fly higher: build a floor in the open air, stand a ladder on it up 
 | Aluminium airship frame | 3 aluminium | Weighs half as much as planks and does not burn |
 | Steel airship frame | 3 steel | Weighs twice as much as planks, does not burn, and treetops never catch it |
 | Gas cell | 20 cloth | Holds up 12; each hole costs 3 |
-| Rubberised gas cell | Use 5 plastic sheets on a folded gas cell | Holds up 12; each hole costs only 2. Patch it with cloth or plastic |
+| Rubberised gas cell | Use 5 plastic or rubber sheets on a folded gas cell | Holds up 12; each hole costs only 2. Patch it with cloth or plastic |
 | Goldbeater's skin cell | Use 6 sausage casings on a folded gas cell | Holds up 15; each hole costs 5 |
 
 Frames are laid like planks, and one deck can mix them. A wooden deck under a burning gas cell catches fire.

@@ -231,6 +231,8 @@ Take notice, that some plants grow only in certain seasons. Biome
 restriction applies on Continental, Pangea, New World, Mediterranean, Europe,
 Asia, Gaia, North America and South America. Check the crop's listed biomes and seasons on these maps.
 
+Crops grow about a quarter faster on **Gaia**, the starting continent: they reach harvest sooner, and the harvest window stays as long as anywhere else.
+
 Wet (winter and spring) and dry (summer and fall) seasons apply to the
 Desert, Savanna and Jungles biomes.
 
