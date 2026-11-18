@@ -44,7 +44,7 @@ On the continents, each one is rich in its own resources, which turn up **twice 
 | Desert | sulphur |
 | South America | gold, silver and bauxite |
 
-Everywhere else these are scarcer: copper, tin, coal, calamine, silver, gold and gems turn up at half the usual rate, and saltpeter, sulphur, lead and bauxite at a third. **Iron** is found at the usual rate on every continent. Gaia also keeps tin at the usual rate, so you can reach bronze and iron there on your own, but it has **no bauxite or uranium**: later industry needs trade or a foothold on another continent. This applies to rock walls, gold and silver lodes, gem pockets and mountain seams. Lands across the sea keep their own ores. **Province Holdings** on the Faction tab shows what your continent is rich in.
+Everywhere else these are scarcer: copper, tin, coal, calamine, silver, gold and gems turn up at half the usual rate, and saltpeter, sulphur, lead and bauxite at a third (these lower rates phase in over a world's first two weeks). **Iron** is found at the usual rate on every continent. Gaia also keeps tin at the usual rate, so you can reach bronze and iron there on your own, but it has **no bauxite or uranium**: later industry needs trade or a foothold on another continent. This applies to rock walls, gold and silver lodes, gem pockets and mountain seams. Lands across the sea keep their own ores. **Province Holdings** on the Faction tab shows what your continent is rich in.
 
 ## Opening a mined mountain to the sky
 
