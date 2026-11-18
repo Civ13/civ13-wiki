@@ -359,19 +359,19 @@ Both are from the **Rail & Steam** node. A platform needs nothing special: car d
 
 Both are from the **Rail & Steam** node.
 
-![A line ending at a red buffer stop, and a level crossing with boards between the rails and a white gate on the road at each side, open to the road and then shut across it](../images/civ13-train-trackworks.png)
+![A line ending at a red buffer stop, and a level crossing with boards between the rails and a white gate on the road two tiles out at each side, open to the road and then shut across it](../images/civ13-train-trackworks.png)
 
 | Item | Cost | What it does |
 | --- | --- | --- |
 | Buffer stop | 4 iron | Ends a line. Build it on the last tile of rails; use a **wrench** to turn it. |
 | Crossing boards | 2 wood | Boards between the rails where a road crosses. Build them on the rail tile; a wrench turns them. |
-| Crossing gate | 4 wood | A gate across the road beside the line. |
+| Crossing gate | 4 wood | A gate across the road at a crossing. Build it two tiles from the rails. |
 
 **Buffer stops.** A train brought up to a buffer stop slowly comes to rest against it, and nothing is hurt. It also holds a train that runs into it fairly hard, and examining the stop shows how many hard blows it has taken. A train that hits it at speed smashes it to scrap and is wrecked as in any [crash](#crashes); the rails stay, so build a new stop. Without a stop, a train that runs off the end of the rails at any speed above a crawl [leaves them](#leaving-the-rails).
 
-**Level crossings.** Where a road crosses the line, lay crossing boards on the rail tile and build a gate on the road at each side, on the tile next to the rails. Use a wrench on a gate until it faces the rails (examine it to check).
+**Level crossings.** Where a road crosses the line, lay crossing boards on the rail tile and build a gate on the road at each side, two tiles from the rails: leave one clear tile between the gate and the rails, because wide cars and big engines overhang the track by a tile each side and would hit a shut gate any nearer. Use a wrench on a gate until it faces the rails (examine it to check).
 
-- Click a gate with an empty hand to swing the gates. All the gates within four tiles move together.
+- Click a gate with an empty hand to swing the gates. All the gates within four tiles of each other move together.
 - **Shut across the road**, a gate is solid: nobody walks or drives through it. **Open to the road**, it is out of the way. The gates don't stop trains either way.
 - The gates won't shut while someone or something solid is standing in one of them.
 - Everyone in a cab is told how the gates stand when the train comes within ten tiles of the crossing. A train that runs over a crossing with its gates open to the road is seen to do it, and the gate keeps count.
