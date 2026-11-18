@@ -22,7 +22,7 @@ Things to know:
 
 ## Reading a map
 
-Use **Read Map** (right-click the map) to look at it without sketching. North is up, and a red mark shows where you stand when you are in the land it charts. The legend shows grass, woods, bare earth, sand, snow, water, deep water, ice, rock, lava, roads and buildings.
+Use **Read Map** (right-click the map) to look at it without sketching. North is up, and a red mark shows where you stand when you are in the land it charts. The legend shows grass, woods, bare earth, sand, snow, water, deep water, ice, rock, lava, roads and buildings. Ships and boats come and go, so the map shows the water or land under them instead.
 
 Examine a map to see which land it charts and roughly how much of it is drawn in.
 
