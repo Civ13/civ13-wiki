@@ -350,6 +350,18 @@ A train that is stopped dead at speed is wrecked. It happens when a running trai
 
 Watch the line ahead, keep your speed down where you cannot see far, and start braking early: a heavy train needs a long way to stop.
 
+### Leaving the rails
+
+Speed puts a train on the ground without hitting anything.
+
+![A boxcar off the rails with sprung deck boards, the same car back on the track, and a red rerailing jack](../images/civ13-train-derailed.png)
+
+- **Curves and switches.** A train that takes a curve, or the branch of a switch, at more than about 110 km/h on the cab's speed readout leaves the rails. The first throttle notch of every engine is slow enough for any curve; small one-tile locomotives never get that fast. Shut off and brake well before the curve, because a heavy train takes a long way to slow down.
+- **The end of the track.** Running off the end of the rails at more than about 70 km/h derails the leading car. So does a rail somebody has lifted out of the line. Creep up to the end of a siding, or build a buffer stop there.
+- **What comes off.** The leading car or engine, two of them at one and a half times the limit, three at twice. Riders are thrown about as in a mild crash. Nothing is smashed, but the train can't move until every derailed car is back on the rails. Examine a car to see whether it is off.
+- **Rerailing a car.** Make a **rerailing jack** (6 iron, **Rail & Steam**) and use it on each derailed section of the car in turn. If the rail under a section is gone, lay the track again first.
+- **Rerailing a heavy locomotive.** It is far too heavy for a jack alone. Bring a [crane car](#crane-car) to within five tiles, lower its outriggers and fuel its crane, then use the jack on the engine. The lift uses one haul of the crane's fuel and puts the whole engine back at once.
+
 ## Servicing
 
 A train wears as it runs. None of it is urgent on a short trip, but a train that is never looked after gets slower and at last stops.
