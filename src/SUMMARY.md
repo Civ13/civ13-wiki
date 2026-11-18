@@ -39,6 +39,7 @@
         - [Books and Scholars](guides/Guide_to_Books_and_Scholars.md)
         - [Power & Batteries](guides/Guide_to_Power.md)
         - [Factory Automation](guides/Guide_to_Factory_Automation.md)
+        - [Integrated Circuits](guides/Guide_to_Integrated_Circuits.md)
     - [Food & Animals]()
         - [Cooking](guides/Guide_to_Cooking.md)
         - [Farming](guides/Guide_to_Farming.md)
