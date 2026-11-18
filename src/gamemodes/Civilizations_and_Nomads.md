@@ -503,8 +503,9 @@ Seasons:
     faster rate.
   - Fall: Cooler temperatures, sparse rain and occasional snowfall will
     slow you down.
-  - Winter: Icy temperatures can kill you without a fur coat, some lakes
-    and rivers freeze over, allowing you to walk on them. Constant
+  - Winter: Around freezing by day and colder at night; a coat over your
+    clothes keeps you safe. Some lakes and rivers freeze over, allowing
+    you to walk on them. Constant
     snowfall slows you down, **crops will not grow and animals won't
     respawn**. Chance of blizzards that cause a whiteout, and can kill
     you even with fur coats. Have a shelter ready\!
