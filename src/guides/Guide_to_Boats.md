@@ -738,6 +738,8 @@ A new land is undecided until its crew choose:
 
 A land that nobody settles or claims, and that nobody visits for **7 days**, is abandoned.
 
+**A claimed land stays your faction's** while your faction lives there. If raiders destroy the charter, the colony still stands: members who arrive still join it, nobody else can claim the land, and the colony's leader can plant the charter again. The claim lapses only if fewer than **3** of the colony's members have their own fastened bed there for **14 days** in a row. Members are warned when that starts, and examining the charter shows how long is left. When a claim lapses the charter comes down and the land stays settled, open to any faction's claim.
+
 Until a land is settled or claimed, **dying there sends you back to the mainland**, even if you have a bed there. Your body and gear stay where you fell, and your crew and ship carry on without you.
 
 ### Sailing on
