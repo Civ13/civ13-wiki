@@ -1002,7 +1002,11 @@ A concrete tower goes up to six storeys the same way: lay a concrete or stone fl
 
 #### Hoisting heavy loads
 
-You can pull most things up or down a ladder with you. Anvils, furnaces, kilns, ovens, mills, saw mills, workshop machines, engines, cannon, printing presses and vehicle parts are too heavy for that. They need **shear legs**.
+What you pull comes with you between storeys when it makes sense:
+
+- **Stairs:** people, animals, crates and loose items come up or down with you.
+- **Ladders:** you need both hands for the rungs, so only people, small animals and loose items come along. Crates, furniture and big animals such as horses go by the stairs.
+- **Neither:** anvils, furnaces, kilns, ovens, mills, saw mills, workshop machines, engines, cannon, printing presses and vehicle parts are far too heavy, and wheeled carts and wheelchairs can't be dragged up steps. They need **shear legs** or a lift.
 
 | | Station | Cost | You need to know |
 | --- | --- | --- | --- |
@@ -1015,7 +1019,7 @@ Shear legs move one unfastened object at a time between a storey and the one abo
 
 A haul takes 6 seconds, or 10 for one of the heavy objects above. Stay beside the legs until it finishes. Unfasten a machine with a wrench before you sling it. Light objects such as crates can be hoisted too.
 
-Fasten or unfasten the legs with a wrench, and hit them with a hammer on **Harm intent** to take them apart. The legs themselves are light enough to pull up a ladder.
+Fasten or unfasten the legs with a wrench, and hit them with a hammer on **Harm intent** to take them apart. The legs themselves can be dragged up stairs.
 
 A **treadwheel crane** hoists the same way but reaches **3 tiles**. It takes 16 wood plus a shaft, two bearings and a drive belt, and you need to know Imperial Architecture.
 
