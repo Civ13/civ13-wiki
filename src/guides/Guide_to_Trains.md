@@ -33,6 +33,8 @@ Wartime cars (see [Wartime cars](#wartime-cars)):
 | Rails | 1 iron | A pair of rails for one tile of track. A [rolling mill](Guide_to_Metallurgy.md#rolling-mill) makes two pairs from one iron, or three from one steel. |
 | Rail switcher (to left or right) | 2 iron | A junction that a lever can switch between going straight and turning off. |
 | Rail rotator platform | 3 iron | Turns whatever wagon is standing on it. |
+| Turntable | 20 iron | Turns a whole engine or car on a bridge over a pit (see [Turntables](#turntables)). |
+| Large turntable | 40 iron | A turntable long enough for a main-line engine with its tender. |
 | Train lever | 1 iron | Flips every switcher within two tiles. |
 | Mining cart | 10 soft wood | Small storage cart (7 slots). |
 | Steam locomotive | 18 iron | The engine. Burns coal or wood. |
@@ -377,6 +379,37 @@ Both are from the **Rail & Steam** node.
 - Everyone in a cab is told how the gates stand when the train comes within ten tiles of the crossing. A train that runs over a crossing with its gates open to the road is seen to do it, and the gate keeps count.
 
 **From the signal box.** Use the [signal wire](#signals-and-single-lines) on a lever frame and then on one gate: the whole crossing is then worked by one lever, and no longer by hand. The frame locks it with its signals. A signal that stands up to 20 tiles before the crossing can't be put to clear while the gates are open to the road, and the gates can't be opened to the road while that signal is clear.
+
+### Turntables
+
+![A small turntable: a bridge of rails across a round brick pit with a line leading up to it, then turned a quarter away from that line](../images/civ13-train-turntable.png)
+
+A turntable turns an engine to face the other way, or onto a line that leaves at a right angle. It is a pivot with a bridge of rails across a pit, pushed round by hand.
+
+| Item | Cost | What it takes |
+| --- | --- | --- |
+| Turntable | 20 iron | Five tiles of bridge in a pit five tiles square: a heavy locomotive, a short car or a small engine with a wagon. |
+| Large turntable | 40 iron | Eleven tiles of bridge in a pit eleven tiles square: a main-line engine with its tender, or a long car. |
+
+Both are from the **Rail & Steam** node.
+
+**Building one.**
+
+1. Pick open, firm, dry ground with nothing solid and no track inside the square, and build the turntable on the middle tile.
+2. Use a **wrench** on it to choose whether the bridge will lie north and south or east and west (examine it to check).
+3. Click it with an empty hand to lay the bridge.
+4. Lay your lines up to the edge of the pit, in line with the pivot. A line can come in on any of the four sides. Don't lay track inside the pit.
+
+**Turning.**
+
+1. Run the engine onto the bridge and stop. Everything coupled together has to be on the bridge, so uncouple what won't fit.
+2. Click the pivot or any part of the bridge with an empty hand, from on the bridge or beside it, and choose a quarter turn to the left, a quarter turn to the right, or right round.
+3. Wait while you push. A heavy engine takes longer than an empty bridge, and a second person standing at an end of the bridge halves the time.
+
+- The crew can stay in the cab: people and cargo on the engine or on the bridge go round with it.
+- It won't turn while the train is moving or off the rails, while anyone is standing in the pit off the bridge, or while something solid is in the pit.
+- A line only joins the table while the bridge is lined up with it. Drive at a pit with the bridge turned away and the train [runs off the end of the rails](#leaving-the-rails).
+- The bridge can't be prised up or bent like ordinary track. To move a turntable, clear it and use a **crowbar** on the pivot to take the bridge up.
 
 ### Hitting things
 
