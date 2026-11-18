@@ -75,6 +75,27 @@ Keep the track clear. A moving train stops when it hits anything solid, and it s
 
 A **crowbar** takes track apart one step at a time, giving the parts back: first it pulls the spikes (the rails sit loose on their sleepers again), then it lifts the rails off, then it pries up the sleepers. Switchers and rotators come apart in one go and return their iron. Nothing comes apart while a wagon stands on the tile. If a tile turned the wrong way, pry it up and lay it again.
 
+### Track wear and platelaying
+
+![Three stretches of track: in good order, worn with weeds between the rails, and in a bad way with split sleepers](../images/civ13-train-trackwear.png)
+
+Trains wear the track they run on. Heavy trains wear it faster, fast trains faster still, and curves and switches wear twice as fast as straight track. A line nobody uses stays as it is.
+
+| Track | How you tell | What it means |
+| --- | --- | --- |
+| Good order | Nothing to see. | Any speed the rest of the line allows. |
+| Getting rough | The cab is told the engine rides rough. | A warning only. Pack it soon. |
+| Worn | Weeds and sunk patches between the rails; the cab is warned. | Keep under about 180 km/h on the cab's speed readout, or the train [leaves the rails](#leaving-the-rails). |
+| In a bad way | Split sleepers as well; the cab is warned. | Keep under about 70 km/h, a crawl. |
+
+Examine any piece of track to see how it stands.
+
+**Keeping it up.** This is the platelayer's job, and on a long line it is work for a gang.
+
+- Use a **hammer** on rough or worn track to pack the sleepers and drive the spikes home. It takes a few seconds a tile. One round puts rough track right; worn track may want two.
+- Track in a bad way won't hold packing. Use a set of **railway sleepers** on it to put new ones in: that tile is then as good as new. Sleepers work on worn track too.
+- Neither can be done while a train stands on the tile.
+
 ## Bridges over water
 
 Track needs firm ground, so to cross a river, lake or the open sea you first build a bridge and then lay the track on it the same way as on land.
@@ -437,6 +458,7 @@ Speed puts a train on the ground without hitting anything.
 ![A boxcar off the rails with sprung deck boards, the same car back on the track, and a red rerailing jack](../images/civ13-train-derailed.png)
 
 - **Curves and switches.** A train that takes a curve, or the branch of a switch, at more than about 110 km/h on the cab's speed readout leaves the rails. The first throttle notch of every engine is slow enough for any curve; small one-tile locomotives never get that fast. Shut off and brake well before the curve, because a heavy train takes a long way to slow down.
+- **Worn track.** Worn track taken at more than about 180 km/h, or track in a bad way at more than about 70 km/h, spreads under the train and puts its leading car off. See [Track wear and platelaying](#track-wear-and-platelaying).
 - **The end of the track.** Running off the end of the rails at more than about 70 km/h derails the leading car. So does a rail somebody has lifted out of the line. Creep up to the end of a siding, or build a buffer stop there.
 - **What comes off.** The leading car or engine, two of them at one and a half times the limit, three at twice. Riders are thrown about as in a mild crash. Nothing is smashed, but the train can't move until every derailed car is back on the rails. Examine a car to see whether it is off.
 - **Rerailing a car.** Make a **rerailing jack** (6 iron, **Rail & Steam**) and use it on each derailed section of the car in turn. If the rail under a section is gone, lay the track again first.
