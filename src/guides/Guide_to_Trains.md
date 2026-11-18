@@ -387,9 +387,32 @@ Long cars are **eight tiles long**, twice the length of the others, and weigh tw
 | Kit | Cost | What you get |
 | --- | --- | --- |
 | Bogie flatcar kit | 22 iron | A long open plank deck with railings at each end, for machines, vehicles and long loads. |
-| Open wagon kit | 26 iron | Plank sides all round to keep loose cargo aboard. The drop doors in the middle of each side open for loading. |
+| Open wagon kit | 26 iron | Plank sides all round to keep loose cargo aboard. The drop doors in the middle of each side open for loading. Carries ore, coal or sand in bulk (see [Bulk freight](#bulk-freight)). |
 | Boxcar kit | 30 iron | A roofed goods van with closed ends. The sliding doors in the middle of each side open for loading. |
 | Bogie coach kit | 26 steel | Twelve seats either side of a carpeted aisle, with a vestibule and doors at each end. |
+
+### Bulk freight
+
+Ore, coal and sand don't have to ride as loose piles. An **open wagon** or a **hopper wagon** takes them in bulk: the load becomes one heap in the car, shown from above, and a full wagon carries far more than you could stack on a deck.
+
+![An open wagon full of coal, a hopper wagon empty, part loaded with sand and full of ore, and a drop pit empty and holding coal, ore and sand](../images/civ13-train-bulk-freight.png)
+
+| Car | Holds | How it unloads |
+| --- | --- | --- |
+| Open wagon | 600 | Dug out with a shovel. |
+| Hopper wagon (kit: 28 iron, six tiles long) | 800 | Drops its whole load through the floor, or is dug out with a shovel. |
+
+- **To load**, click the car with a stack of ore, coal, charcoal, sand or another mined mineral. The whole stack is tipped in.
+- **One kind at a time.** A car loaded with coal takes only coal until it is empty.
+- **To dig a load out**, click the car with a **shovel**. Each go puts up to 50 on the ground beside you.
+- **A loaded car is heavy.** A full open wagon weighs nearly twice what it does empty, so count it when you plan the train.
+- **Examine the car** to see what it carries and how much.
+
+**Dropping a hopper's load.** A hopper is built with a **door lever** at its front left corner. Stop the train and pull the lever: the load rumbles out through the floor and lies on the track under the wagon.
+
+To catch it, build a **drop pit** (8 iron) on a track tile and stop the hopper over it. The load then falls into the pit, which holds **3,000** of one kind. Dig the pit out with a shovel from beside the track. If the pit is full or holds something else, the lever tells you and the load stays in the wagon.
+
+The hopper wagon kit, a spare door lever (4 iron) and the drop pit are on the **Rail & Steam** node, or industrial research **101**.
 
 ### Putting a car together
 
