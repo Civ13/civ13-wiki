@@ -59,6 +59,7 @@ You don't have to wait at the bench for the whole time. From the Stone Age on, t
 - **Deeds.** Every subject up to the Industrial Age that builds on earlier ones asks for two or three particular pieces of work that use what you already know. Cooperage wants two tool handles, a set of wooden dowels and a workbench; Brickmaking wants a lime kiln, a mason's saw and three rough stone walls; Wagons & Ships wants a raft, a cart and a carriage; Factories wants a steam engine, a pole lathe and a toolbox. Together a subject's deeds are worth half of it. The bench window lists them by name under **Without waiting**, and each time you finish one the game tells you it counted.
 - **Foraging** advances Basic Toolmaking, Primitive Construction, Pottery & Cookware, Weaving, Herbalism and Basic Agriculture.
 - **Butchering** animals advances Stone Arms, Archery and Primitive Armor.
+- **Mining, smelting and firing** advance the Natural Science subjects. Each ore vein you strike while mining counts toward Early Chemical Cells, Gunpowder and Galvanic Cells. Each ore or metal in a bloomery, blast furnace, kiln or tatara that you light counts toward Steelmaking. Each piece of unfired clay or load of glass sand in an oven or fireplace that you light counts toward Glassworking and Optics & Instruments. Each of these is worth a small share of the subject.
 
 - **Prototypes.** Once a book you carry holds a third of a chapter, you can make that subject's things before you know it, as long as you know what it builds on. The first five things you make from a book each write a share of the chapter into it. After that the book is still your reference, and you can keep making the subject's things from it for as long as you like. Working from a book is slow: the first piece takes twice as long as usual. Each piece you make that way makes the next a little quicker, down to one and a half times as long. Once you finish the chapter and read it, you work at full speed. Making something beside a teacher who knows the subject is never slowed. The subject's things stay listed in the crafting window while a book you carry is working on it. If you can't make one yet, you are told what is missing: the subjects it builds on, or how many points the book still needs.
 - **Trial and error.** You don't have to wait for that first third. Hold or carry a book and use **Attempt a Subject** (Object tab) to open it to a subject whose groundwork you know. While you carry the book you can try to make that subject's things from an empty chapter, in the crafting menu, at an anvil or at a workbench.
@@ -70,6 +71,7 @@ You don't have to wait at the bench for the whole time. From the Stone Age on, t
 
 - **Record a find.** Hold paper, parchment or a book with a pen or pencil in your other hand and use **Record a Find** (Object tab) within two tiles of something wild. After about twenty seconds your record is written down.
   - Living animals count for Agriculture, wild plants for Medicine, ores and rocks for Natural Science, and the night sky, seen outdoors at night, for Basic Mathematics. The sky can be recorded once each season.
+  - Weather and water count for Natural Science too. Stand outdoors in rain, a monsoon, snow, a blizzard, a sandstorm, a gale or a heat wave to record it, once per kind each season. Stand within two tiles of the sea, fresh water, a jungle river, a swamp, floodwater or frozen water to record that water.
   - In a book, the record adds a twentieth of a chapter to a subject of that discipline whose groundwork you know. If more than one fits, you choose.
   - On a sheet it becomes naturalist's notes. Use them on a bench researching any subject of that discipline.
   - A book takes each kind of find once, and finds can fill three tenths of a chapter at most, so look for different animals, plants and stones.
@@ -126,7 +128,9 @@ Most late subjects list one or two pieces of **field work** in their details. Do
 | Flying an aircraft as its pilot | Aviation & Rocketry, Naval Aviation, Missiles, Rocketry, Crewed Flight, Pressure Suits, Drones |
 | Completing surgery steps | Anesthetic Surgery, Modern Medicine, Emergency Medicine |
 | Diagnosing sick patients with a doctor's handbook | Pharmacology, Germ Theory, Public Health, Emergency Medicine |
-| Running syntheses at a reaction bench | Pharmacology, Synthetic Fabrics, Modern Medicine, Life Support, Local Resources |
+| Running syntheses at a reaction bench | Pharmacology, Synthetic Fabrics, Modern Medicine, Life Support, Local Resources, Combustion Engine |
+| Smelting ore or metal | Combustion Engine, Alloys |
+| Striking ore veins while mining | Alloys |
 | Analysing survey samples at a mission console | Planetary Survey and the space subjects after it |
 | Harvesting crops | Soil Science, Crop Breeding |
 
