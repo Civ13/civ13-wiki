@@ -162,13 +162,15 @@ Cattle, goats, sheep and pigs born in the wild are **wild**. A wild animal will 
 
 Grazing animals (cows, bison, goats, sheep, horses and the like) get hungry, graze grass and eat loose grain. You can also feed them wheat, oats, barley or rice by hand. **Bison** need pasture or grain just like cows, and bison cows can be milked the same way.
 
+A patch of grass that has been grazed needs about 20 minutes to grow back before animals will graze it again, so a large herd soon moves on to fresh pasture. Snowy winter grass can still be grazed. Where there is no grass, grazers nibble at bushes, tall grass and desert cacti, and seed eaters such as rabbits, birds and pigs forage seeds from the grass or browse wild plants. Berry bushes are left for people.
+
 Hens and turkey hens lay a limited number of eggs. Feeding seeds to a hen that has stopped laying gives her more eggs.
 
 How well an animal is fed sets how much it produces. A well-fed cow, goat, sheep, pig or bison refills its milk at the full rate, a hungry one (one that is wandering off to look for food) at half the rate, and a starving one gives no milk at all. Hens lay the same way: every time when fed, about half as often when hungry, and not at all when starving. Keep pasture, grain or hay in reach to keep a herd productive.
 
 ### Hay
 
-Hay is stored fodder for when there is no grass to graze, such as in winter or in a pen.
+Hay is stored fodder for when there is no grass to graze, such as in a pen or after a herd has grazed the pasture bare.
 
 - **Making hay:** cut grass with sharpened flint or any sharp knife to get grass cuttings. Tall grass also gives way to other sharp tools. With the cuttings in hand, click open ground next to you to spread up to **20** portions there to dry. After **3 minutes** of dry weather, they turn into the same amount of hay. Rain or snow under open sky stops the drying, but grass under a roof or indoors keeps drying. Adding more cuttings to the pile starts the drying over. Picking the pile up by hand gives back the cuttings.
 - **Feeding:** use hay on a hungry cow, goat, sheep, bison or other grazer to feed it one portion. Grazers also eat hay lying next to them.
