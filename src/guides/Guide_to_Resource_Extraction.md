@@ -46,6 +46,15 @@ On the continents, each one is rich in its own resources, which turn up **twice 
 
 Everywhere else these are scarcer: copper, tin, coal, calamine, silver, gold and gems turn up at half the usual rate, and saltpeter, sulphur, lead and bauxite at a third (these lower rates phase in over a world's first two weeks). **Iron** is found at the usual rate on every continent. Gaia also keeps tin at the usual rate, so you can reach bronze and iron there on your own, but it has **no bauxite or uranium**: later industry needs trade or a foothold on another continent. This applies to rock walls, gold and silver lodes, gem pockets and mountain seams. Lands across the sea keep their own ores. **Province Holdings** on the Faction tab shows what your continent is rich in.
 
+### Rubber trees
+
+Rubber comes only from the jungle. In the jungles of **Africa**, **Asia** and the **Jungle**, every living jungle tree is a rubber tree. Other continents have none; lands across the sea keep theirs.
+
+1. Hold a **knife** in one hand and use an open container (a bucket, bowl or jar) on the tree. It catches **10 units of latex**. A tree can be tapped again after about 20 minutes.
+2. Use a container holding at least 10 latex on a **sulphur rock** to cure one **sheet of rubber**.
+
+Rubber does what plastic sheeting does in these places: a sheet and a copper ingot make **insulated cable**, five sheets rubberise an [airship gas cell](Guide_to_Aircraft.md), and three make **rubber boots**.
+
 ### Rich provinces
 
 Two or three [provinces](../gamemodes/Civilizations_and_Nomads.md#provinces) of each continent are rich in one of its own resources. There that resource turns up **three times as often** instead of twice. Each rich province also has a **rich seam**, a tile near its middle marked with the ore. Work it with a pickaxe for a load of that ore at a time. It never runs out, but it gives only so many loads a day:
@@ -115,6 +124,8 @@ Surplus stone blocks can be crushed for a chance of sand, ore and rare minerals:
 
 Wooden oil wells remain renewable and must sit on an oil spring. Use a barrel on the well to load it; click a loaded well to remove the barrel, or an empty well to connect a nearby barrel. Extraction runs when the spring and contained barrel are valid. The well does not fill unrelated barrels on the ground. Unloading or destroying the well returns its barrel. Saving retains the barrel and petroleum; check the barrel connection after loading before collecting output.
 
+On the continents, oil springs on land flow only on the **desert ground** (desert sand or dust) of **Africa** and the **Desert**. Elsewhere on the continents they run dry for good, after the same two-week phase-in as the scarcer ores, and a well over a dry spring stops. Examine a spring to see whether it still flows. Lands across the sea keep their springs. Offshore rigs work on every continent.
+
 ## Offshore drilling rigs
 
 **Combustion** also unlocks the **offshore drilling rig**, which costs **45 steel**. Lay a steel bridge deck out over deep saltwater, stand on it and build the rig there. Not every stretch of sea holds oil. If the seabed under the deck is dry, the build is refused and nothing is spent, so try another spot further out. Seabed oil fields vary in size: a thin field pumps **10 petroleum**, a good one **20** and a rich one **30** every two minutes. Examine the rig to see which kind it is drilling.
@@ -124,6 +135,8 @@ Rigs need no oil spring and never run dry. Load, remove and connect barrels the 
 ## Hydraulic fracturing
 
 At **Modern**, research **Hydraulic Fracturing**, which requires **Electricity** and **Modern Construction**. Craft the rig from **20 electronics and 20 steel**.
+
+On the continents, fracking works only in **North and South America**, and only in a [province](../gamemodes/Civilizations_and_Nomads.md#provinces) your side holds. It costs the land around it: each batch [pollutes](Guide_to_Pollution.md) the ground within 3 tiles of the rig, so nearby crops slow and then stop growing, and it fouls the groundwater, so wells and puddles within 6 tiles give dirty water for a day. Lands across the sea frack as before.
 
 1. Anchor it beside an undepleted, mineable underground rock tile on the same level.
 2. Connect a cable network with **300 available power**.

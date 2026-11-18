@@ -68,7 +68,7 @@ What is on your feet changes how fast you cross snow, mud and water, and how wel
 | Mukluks | Leather (Stone Age) | Faster in snow, warm, fair grip on ice | Soak up mud and water |
 | Hobnailed boots | Leather (Iron Smithing) | Never slip on ice, sure footing on steep slopes, keep feet dry | A little slower than light shoes |
 | Pattens | Wood (Tailoring) | Lift you clear of mud and puddles, keep feet dry | Wobbly on slopes, no grip on ice |
-| Rubber boots | Plastic (Ready-Made Clothing) | Best in mud and wading, keep feet dry | Little grip on ice, not insulated |
+| Rubber boots | Plastic or rubber (Ready-Made Clothing) | Best in mud and wading, keep feet dry | Little grip on ice, not insulated |
 | Mountaineering boots | Steel (Alloys) | Crampons never slip on ice, best on steep slopes, good in snow, warm | Heavy |
 
 Older footwear counts too. Fur, wool and winter boots are warm and help in snow. Leather, riding, work and military boots shed water and help a little in mud. Geta lift you out of mud. Sandals, flip-flops and slippers are light, but in snow your toes freeze as if barefoot.
