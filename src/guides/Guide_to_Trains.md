@@ -331,6 +331,30 @@ Signals keep trains apart. They need people off the train: a signalman at the po
 
 A cab coming up to a section board is told whether the token is on the engine: in a crew member's pocket or hand, or lying on the engine's floor. A train that passes the board without it is seen to, and the board keeps count.
 
+### Stations, whistle and lamps
+
+![A white station name board on two posts, and a hand lamp shown out, white, red and green](../images/civ13-train-stations.png)
+
+| Item | Cost | What it does |
+| --- | --- | --- |
+| Station name board | 4 wood | Stand it beside the track at a station, on the first tile a passing train's side leaves clear, and use a **pen** on it to write the station's name. Everybody aboard a train that comes within ten tiles of it, from either direction, is told where the train is coming into. |
+| Hand lamp | 2 iron | Use it in your hand to turn the shade: white, red, green, then out. It lights the ground around you in that colour. |
+
+Both are from the **Rail & Steam** node. A platform needs nothing special: car decks are level with the ground, so lay any floor you like beside the track.
+
+**At the driver's stand** there are three more controls:
+
+- **Sound the whistle** (a horn on diesels). The engine has to be running, and a steam engine needs steam. Players up to forty tiles away who can't see the engine are told which way the sound came from. Whistle before a crossing, before you start and when you come into a station.
+- **Ring the bell.** A short-range warning for a yard or a station.
+- **Light the headlamp** and **Put out the headlamp.** The headlamp throws a much wider light ahead of the engine while it moves.
+
+**Running at night.** In the dark a train needs a light at its leading end, or it runs blind at half speed and the cab is told why.
+
+- When an engine leads, light its headlamp.
+- When cars are pushed ahead of the engine, have somebody stand on the leading car with a hand lamp showing **white**, or set the lamp down there.
+- Hang a **red** hand lamp on the last car as a tail lamp: set it down on the deck or have the guard hold it. The guard's journal says whether the tail lamp is showing. A train that passes with no tail lamp may have left part of itself behind.
+- Flags can't be seen in the dark, so the guard signals with the lamp: green held steady is *right away*, white swung across the body is *stop*, red is *danger*.
+
 ### Hitting things
 
 - The faster and heavier the train, the harder it hits. A train creeping along shoves a person off the rails with a bruise and stops in front of crates and furniture without breaking them.
