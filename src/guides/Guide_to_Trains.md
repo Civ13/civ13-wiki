@@ -67,7 +67,7 @@ You never choose which way a tile points. It lines up with the track around it:
 - A tile on its own runs the way you face while laying it.
 - Tiles in the middle of a line never change, so a new line can run right alongside an old one. Build the main line first, then sidings and branches beside it.
 
-Use switchers for branches and a lever within two tiles of each switcher you want to control. Put a **rotator platform** at the end of a line or in a yard to turn wagons around. Click it to rotate it a quarter turn, or right-click it for **Rotate Left** and **Rotate Right**.
+Use switchers for branches and a lever within two tiles of each switcher you want to control. A switcher set to split moves a wagon sideways onto the track beside it, so lay that track first; with nothing there the wagon carries straight on. Put a **rotator platform** at the end of a line or in a yard to turn wagons around. Click it to rotate it a quarter turn, or right-click it for **Rotate Left** and **Rotate Right**.
 
 Keep the track clear. A moving train stops when it hits anything solid, and it smashes what it hits.
 
@@ -436,7 +436,7 @@ Both are from the **Rail & Steam** node.
 
 - The faster and heavier the train, the harder it hits. A train creeping along shoves a person off the rails with a bruise and stops in front of crates and furniture without breaking them.
 - At speed it throws people clear of the track, badly hurt or worse, and keeps going. It smashes anything solid in its way and stops there. A wall, pillar, door or barricade on the line takes the blow like a ram: a fast train breaks through a weak wall and keeps going, while a strong one stops it. A broken wall can bring down the roof it held.
-- Set the levers before you leave. A switcher set to split sends the train onto the side track. Look before you start, and warn people near the line.
+- Set the levers before you leave. A switcher set to split sends the train onto the side track. With no track laid beside it, a split switcher lets the train carry straight on. Look before you start, and warn people near the line.
 
 ### Crashes
 
