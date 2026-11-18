@@ -390,6 +390,29 @@ Long cars are **eight tiles long**, twice the length of the others, and weigh tw
 | Open wagon kit | 26 iron | Plank sides all round to keep loose cargo aboard. The drop doors in the middle of each side open for loading. Carries ore, coal or sand in bulk (see [Bulk freight](#bulk-freight)). |
 | Boxcar kit | 30 iron | A roofed goods van with closed ends. The sliding doors in the middle of each side open for loading. |
 | Bogie coach kit | 26 steel | Twelve seats either side of a carpeted aisle, with a vestibule and doors at each end. |
+| Stock car kit | 30 iron | A livestock van with slatted sides for air and straw on the floor (see [Stock car, ice car and mail van](#stock-car-ice-car-and-mail-van)). |
+| Ice car kit | 34 iron | An insulated white van with an ice bunker and eleven cold lockers for food. |
+| Baggage and mail van kit | 30 iron | Sorting tables and cabinets at the front, side doors in the middle and a baggage room of crates and cabinets behind. |
+| Bogie sleeper car kit | 30 steel | Twelve private compartments, each with a bed and a sliding door, and a vestibule at each end. |
+| Bogie dining car kit | 30 steel | A galley with a stove, sink, fridge and counter, then four tables and six booths. |
+
+![A long sleeper car and a long dining car, each shown with its roof off and on](../images/civ13-train-long-sleeper-dining.png)
+
+### Stock car, ice car and mail van
+
+![A stock car, an ice car and a baggage and mail van, each with its roof off and on, and the ice car's bunker and cold locker shut and open](../images/civ13-train-special-stock.png)
+
+**Stock car.** Open a sliding door in the middle of either side, lead your animals in and shut the door behind them. The slatted sides keep them aboard while the train runs.
+
+**Ice car.** The ice car carries food a long way without it spoiling.
+
+1. Find the **ice bunker**, the grey chest at the front left corner of the car.
+2. Pack it with **snow piles** or **blocks of ice**, the same as an [ice house](Guide_to_Cooking.md#food-storage). Each snow pile is good for an hour of cold and each block for three, up to twenty hours.
+3. Put the food in the white **cold lockers** down both sides of the car.
+
+While the bunker has ice in it, food in the lockers keeps as long as it would in a cold ice house. The car's insulated body makes the ice last four times as long as it would in the open, the same as an ice house underground. If you click a locker with snow or ice, it goes into the bunker for you. Examine a locker to see whether the bunker is still cold, and examine the bunker to see how long its ice will last. When the ice has all melted, the lockers keep food no better than a crate.
+
+**Baggage and mail van.** A van for a passenger train. It comes fitted, and you can rearrange it like any other car.
 
 ### Bulk freight
 
