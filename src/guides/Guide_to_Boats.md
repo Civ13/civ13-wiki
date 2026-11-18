@@ -158,6 +158,14 @@ Rafts, dugout canoes, outriggers and RHIBs are tight for as long as they are sou
 
 Bigger hulls that you build tile by tile have their own rules: see [Bilge water](#bilge-water) and [Holes and sinking](#holes-and-sinking).
 
+## Small boat upkeep
+
+Rafts, dugouts and outrigger canoes wear out as they are used, faster on salt water than on fresh. A boat left alone stays as she is. Look at a boat to see what she needs. All of this work is done with her empty, ashore or in the shallows.
+
+- **Lashings** (rafts and outrigger canoes) work loose. Slack lashings slow her, and loose ones let water in. Use **1 rope** on her to haul them tight again. A new raft is bound with bark and vines, so rope her before a long trip.
+- **A soaked hull** (dugouts and outrigger canoes): the wood takes up water and she gets heavy and slow. Drag her out of the water and she dries over a few minutes. Rub **animal fat** or **tarred oakum** into the hull while she is ashore and she is dry at once, and soaks up water half as fast for a good while after.
+- **A torn sail** (outrigger canoes): a sail left set in a strong wind or a gale can tear, and then it drives nothing. Use **2 cloth** on her to mend it. Furl the sail when it blows hard and it is safe.
+
 ## Boat engines
 
 Motorboats take any engine made with the [engine maker](Guide_to_Crafting.md#engines). The **steam engine doesn't fit**, because it needs a separate furnace. The type decides which fuel the boat burns. Some types have a minimum size, which rules out the smaller outrigger sizes:
