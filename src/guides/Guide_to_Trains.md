@@ -649,6 +649,38 @@ Click the crane with an empty hand to haul up something lying on the level below
 
 The crane car kit and a spare rail crane are on the **Rail & Steam** node, or industrial research **101**.
 
+### Goods yard
+
+A goods yard is what a yard crew builds beside the track so that loading a train is quick work. All of it is on the **Rail & Steam** node, or industrial research **101**.
+
+![Loading stages empty and heaped with coal, ore and sand, a goods crane at rest and hauling, a loading stage beside a hopper wagon, and a livestock ramp at the door of a stock car](../images/civ13-train-goods-yard.png)
+
+**Loading stage** (24 wood). A raised stage with a chute, built beside the track like a [coaling stage](#coaling-stage-and-sand-bin). It holds up to **3,000** of one kind of ore, coal or sand.
+
+- **Heap it up between trains.** Click the stage with a stack to tip it on. It takes one kind at a time.
+- **Load the train.** Stop [open wagons or hoppers](#bulk-freight) within two tiles of the stage and click it with an empty hand. After a few seconds the heap runs down the chute into them. A wagon that already holds something else takes nothing, and a full wagon takes only what it has room for; the rest stays on the stage.
+- **Take it back off** with a shovel, up to 50 a go.
+
+At the other end of the trip, a hopper drops its load into a [drop pit](#bulk-freight).
+
+**Goods crane** (12 iron). A hand crane on an iron post for crates, barrels and machines. Stand it beside the track, then stand next to it and drag an unfastened load within **three tiles** onto it. Choose:
+
+- **Swing it onto** a car: the load lands on the nearest clear deck tile of a car within reach.
+- **Set it down beside the track:** the load comes off a car onto the nearest clear ground.
+- **Raise** or **lower** it one level, as [any hoist](Guide_to_Construction.md#hoisting-heavy-loads) does.
+
+**Livestock ramp** (6 wood). A cleated ramp for getting animals on and off a train without leading them one by one.
+
+1. Build the ramp **two tiles from the rails**, where the door of a [stock car](#stock-car-ice-car-and-mail-van) will stop. Turn it with a wrench until its head faces the track. Examine it to see which way it faces.
+2. Pen your animals within **three tiles** behind the ramp.
+3. Stop the car with its door at the head of the ramp, and **open the door**.
+4. Click the ramp with an empty hand and choose **Drive the animals aboard**. They go up into the car, as many as it has room for. Shut the door behind them.
+5. At the far end, stop at another ramp, open the door and choose **Drive the animals off the car**. They come down into the pen behind it.
+
+The ramp moves farm and wild animals. It leaves people, animals that are out for blood, and any mount with a rider on it.
+
+**Destination cards.** Every car and engine has a card holder. Click a car with a **pen** and write where it is bound or what it carries, in one short line. Examine the car to read its card, and the [guard's journal](#the-conductor) lists each car's card beside it, so a yard crew can see at a glance which cars come off where. Write a blank card to take the old one out.
+
 ### Putting a car together
 
 1. Carry or drag the kit onto the track. A car needs **four tiles of straight track**, and a long car **eight**: the tile under the kit and the rest behind it. Examine a kit to see how long its car is.
