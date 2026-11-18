@@ -263,9 +263,9 @@ Stand next to the wheel and click it to open the helm. A ship starts with its **
 
 | Control | What it does |
 | --- | --- |
-| **Turn Left / Turn Right** | Turns the ship a quarter turn. This only works **while moving**, at most once every 3 seconds, and fails if another ship or obstacle is in the way. |
+| **Turn Left / Turn Right** | Turns the ship a quarter turn. This only works **while moving**, at most once every 3 seconds, and fails if another ship or obstacle is in the way. Ordered between tiles, the turn is made as she reaches the next tile, and she swings round smoothly. |
 | **Reverse** | Sails backwards (astern) on the same heading. Click again to go forwards. |
-| **Anchor** | Drops or lifts the anchor. A ship can't move with the anchor down, and dropping it stops the ship at once. |
+| **Anchor** | Drops or lifts the anchor. A ship can't move with the anchor down, and dropping it stops the ship within a tile. |
 | **Sails** | Hoists or takes in the sails on every mast. |
 | **Engine** | Turns the engine on or off. |
 | **Increase / Decrease Speed** | Engine speed: slow, half and full. Decreasing from slow stops the ship, and decreasing again turns the engine off. |
@@ -275,6 +275,8 @@ Stand next to the wheel and click it to open the helm. A ship starts with its **
 **Under engine:** turn the engine on, lift the anchor, then increase speed.
 
 To stop, drop the anchor or take in the sails. With an engine, decrease the speed to zero. Under engine, the light axis is quicker than the heavy one.
+
+A modular ship glides smoothly over the water with everyone and everything aboard, and her crew can walk her deck as she goes. When she stops she drifts on to the end of the tile she is on.
 
 ### Hazards
 
