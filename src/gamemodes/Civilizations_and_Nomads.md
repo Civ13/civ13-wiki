@@ -149,6 +149,26 @@ Each continent is divided into **provinces** that follow the land: coasts, river
 * **Taking and holding:** a side that leads a province for **72 hours** in a row takes it. It keeps it until a rival out-stakes it by the same margin for 72 hours. A holder that drops below 6 points from 4 people is warned and loses the province after **48 hours** unless it recovers, so rebuild destroyed beds and halls quickly. A side holds at most **3** provinces of a land. Leaders are told when their hold slips, recovers, is challenged, taken or lost.
 * **Stations:** once the preview shown in Province Holdings ends, a recruitment station on a continent works only in a province its side holds, and only when its faction has **3** residents of its own there. An idle station keeps its faction, rules and applications, and examining it says why it is idle. Starting with your faction uses working stations only.
 
+#### Settlements: Camp to City
+
+In a province your side holds, your best hall there is the **seat** of a settlement: everything within 40 tiles of it. Click the hall to open its **Province ledger**, which shows the settlement's rank, what each rank needs with a tick beside what is done, and what the rank gives. A rank rises as soon as everything is in place. If something goes missing, the leaders are warned and the settlement drops a rank after **48 hours** unless it is repaired.
+
+| Rank | Seat | Resident members | Also needs |
+| --- | --- | --- | --- |
+| **Camp** | council fire | 4 | - |
+| **Village** | longhouse | 7 | 3 members' beds under a roof, a well or cistern, a working recruitment station, 4 registered plots, 2 guest beds (fastened, unclaimed) |
+| **Town** | town hall | 11 | a closed wall or palisade ring around the seat with a gate, a roofed upper floor within 10 tiles of a gate (a watchtower), the faction's strongbox with a sales or business tax set, 10 plots, a market stall, 4 guest beds |
+| **City** | capitol | 16 | the whole ring of stone, brick or concrete, 12 arrow slits, gun loops or battlements in it, 2 gates with a portcullis or a murder hole above, 60 paved tiles inside, a research bench, 20 plots, 6 guest beds |
+
+Each rank also needs everything the ranks below it need. Doors inside roofed buildings do not break the ring; a door or castle gate in the open is a gate.
+
+What a rank gives:
+
+* **Harder to take:** a rival needs 1.25 times your stake against a Camp, 1.35 times against a Village, 1.5 against a Town and 1.6 against a City.
+* **Slower to lose:** if your hold slips you have 48 hours to recover, 60 for a Town and 72 for a City.
+* **More members:** your side's best province adds 3 members a rank to each of its factions' member limits.
+* **Safer beds:** a resident's bed start inside a Town costs 1.5 times what a station start costs, and inside a City 1.25 times, instead of double.
+
 Lands across the sea have no provinces, so stations there always work. A faction's claimed land across the sea stays its own unless the faction leaves it empty (see [Settle, claim or abandon](../guides/Guide_to_Boats.md#settle-claim-or-abandon)).
 
 #### Family and adoption
