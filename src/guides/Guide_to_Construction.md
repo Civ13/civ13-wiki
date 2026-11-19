@@ -943,7 +943,9 @@ the roof. An additional "Turf" tab will appear in the upper right corner - click
 will collapse! Collapsing roof may severely injure and even kill those
 in the roofed area, or even standing next to it.**
 
-**To take down a roof support, pillar or column, click it with a hammer** (not on harm intent, which strikes it instead). A wooden or bamboo support takes a few seconds, a stone one longer, and you get back the 2 wood, bamboo, stone, marble, sandstone or obsidian it cost; a concrete pillar gives nothing back. The game will not let you take down a support while a roof near it stands on it alone: put up another support or a wall nearby first, or take the roof down.
+**To take down a roof support, pillar or column, click it with a hammer** (not on harm intent, which strikes it instead). A wooden or bamboo support takes a few seconds, a stone one longer, and you get back the 2 wood, bamboo, stone, marble, sandstone or obsidian it cost; a concrete pillar gives nothing back. The game will not let you take down a support while a roof near it, or a storey above it, stands on it alone: put up another support or a wall nearby first, or take the roof down.
+
+**To take down a wall, click it with a hammer** the same way. A wooden wall takes a few seconds, a stone, brick, clay or concrete wall longer and a metal wall longest; you get back what a broken wall would give, never more than it cost. A wall that a roof, or a storey above, still rests on will not come down: the game tells you how much roof would fall, so put up a pillar or another wall nearby first. Walls that hold nothing up, such as garden walls or an inner wall under a roof that other walls already carry, come down freely.
 
 ### Upper storeys
 
@@ -1157,7 +1159,7 @@ These are built against a wall of the building, facing it. Build them from the m
 | **Stone corbel** | 1 stone | Stone Masonry | A bracket under the edge of any built wall. The wall holds an upper floor one tile further out: a balcony or an overhanging storey. |
 | **Wooden corbel** | 1 wood | Primitive Construction | The same in timber. It burns. |
 
-If a buttress or corbel is broken, the roofs it helped hold check whether they still stand.
+A hammer (not on harm intent) takes a buttress or corbel down, unless a roof stands only because it braces its wall. If a buttress or corbel is broken, the roofs it helped hold check whether they still stand.
 
 ## Cables and pipes through walls and floors
 
