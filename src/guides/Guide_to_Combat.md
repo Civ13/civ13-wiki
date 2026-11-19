@@ -50,16 +50,19 @@ Using your grab on a held hand tightens it into a firm grip. They can still use 
 
 ## Movement modes
 
-Click the movement icon on your HUD, or press **.**, to cycle through the modes. **M** toggles between walking and running, and **,** drops you prone or stands you back up.
+Click the movement icon on your HUD, or press **.**, to cycle through the modes. **M** toggles between walking and running, **Shift+M** starts or stops a sprint, and **,** drops you prone or stands you back up.
 
 | Mode | What it does |
 | --- | --- |
 | **Walk** | Normal pace and normal footstep noise. |
 | **Run** | Faster, but drains stamina, food and water more quickly. |
+| **Sprint** | The fastest pace, about a third faster than running, but it burns stamina four times as fast. You slow to a run when you are out of breath and can't sprint again until you have caught some of it back. The movement icon glows orange while you sprint. |
 | **Sneak** | Slower, and your footsteps make no sound. |
 | **Prone** | You crawl on the ground. You are silent and much harder to hit from more than three tiles away. |
 
-When you take a defensive position, go prone. When you need to cross open ground quickly, run, and stop running before your stamina runs out.
+When you take a defensive position, go prone. When you need to cross open ground quickly, run, and stop running before your stamina runs out. Save sprinting for short dashes.
+
+**Sprinting into things.** Sprint into someone standing and you may knock them over, but you can go down too, or bounce off if they hold their ground. A stronger sprinter hits harder, and a nimble one keeps their feet more often. Sprint into a locked door, a closed gate or a barricade and you ram it with your shoulder, damaging it a little each time; a door you can open just opens. Sprint into a loose crate or locker and you shove it along. Sprint straight into a wall or tree and you stop hard and may fall. Any collision ends your sprint and costs some stamina.
 
 ## Firing a gun
 
