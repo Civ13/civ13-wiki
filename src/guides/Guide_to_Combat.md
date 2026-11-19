@@ -46,6 +46,8 @@ On Grab intent, an empty hand grabs whichever part of the person you are aiming 
 
 Using your grab on a held hand tightens it into a firm grip. They can still use their other hand, but they can't walk away or simply let go: dropping the hand counts as a Resist, and only a successful Resist frees it. A hand can't be gripped any tighter than that. If they pass out, their hand slips free.
 
+**Strength and dexterity** matter in a scuffle. A stronger person tightens a grab faster, breaks free of one more easily and shoves harder, while a more dexterous one blocks and dodges punches more often and is better at knocking things out of someone's hand. Between two evenly matched people the odds are the same as ever, and even a big difference only tilts them.
+
 ## Movement modes
 
 Click the movement icon on your HUD, or press **.**, to cycle through the modes. **M** toggles between walking and running, and **,** drops you prone or stands you back up.
