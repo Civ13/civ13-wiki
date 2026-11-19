@@ -112,6 +112,25 @@ Melee is decided by your combat settings on the HUD, explained in full in [Chara
 
 If you are sparring with a friend, turn on **Pulling punches** in the IC tab so unarmed hits do no harm.
 
+### Protecting your hands
+
+A bare-knuckle punch can hurt your own hand. Most punches land safely, but now and then you bruise your knuckles, and a hard punch to someone's head or to armor can break your hand. Punching an animal carries the same risk.
+
+Anything worn on your hands cushions the blow, and better gloves protect more:
+
+| On your hands | Protection |
+| --- | --- |
+| Nothing, a ring or a watch | None |
+| Latex gloves | Very little |
+| Ordinary cloth gloves | Some |
+| Cloth hand wraps, leather or fur gloves | Good |
+| Leather hand wraps, armored gauntlets | Very good |
+| Boxing gloves | Complete |
+
+To make hand wraps, hold cloth, wool cloth or leather, switch to **grab** intent, aim at one of your hands and click yourself. One sheet wraps both hands in a couple of seconds. Your hands have to be bare first. The wraps stay on until you take them off or drop them, and then they turn back into the same sheet of cloth or leather.
+
+Pulled punches never hurt your hand.
+
 ### Charges, braced spears and shield walls
 
 - **Mounted charge:** ride a horse straight in one direction for four steps with a spear, pike or halberd in your active hand, and you strike the first person standing in your path. The blow hits hard, knocks them down and drives them back a tile. A shield facing you can turn it aside. Turning or slowing down loses the charge.
