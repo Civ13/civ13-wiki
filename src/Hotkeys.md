@@ -45,6 +45,7 @@ This is a list of hotkeys for when the game is on **Hotkey Mode**. Use **Tab** t
 | J, CTRL+J | Change Gun Mode (Aim/Fire) |
 | L, CTRL+L | Attack in facing direction |
 | M | Toggle run/walk |
+| SHIFT+M | Toggle sprinting |
 | N | Change Tactic (Aim/Rush/Charge/Defense) |
 | U | Change Secondary Attack (Bite/Jump/Kick) |
 | V | Change Defense (Parry/Dodge) |
