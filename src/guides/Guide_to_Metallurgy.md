@@ -272,11 +272,11 @@ A **quench tub** is a wooden tub of water that stands next to an anvil. Make one
 
 - Fill it with a bucket (it holds 60 units), pipe water to it, or build it beside running water such as a river with a current, an aqueduct channel, a fountain, a tap or a sink, so it never runs dry. Examine it to see how much it holds.
 - Every **iron** or **steel** piece you forge on that anvil is quenched as it comes off. It uses 10 units of water, and the piece comes out hardened at **Excellent** quality, so it hits harder.
-- Without a tub, or with the tub dry, forging works as usual. Bronze, copper and the other soft metals gain nothing from quenching, and cast pieces from molds are not quenched.
+- Without a tub, or with the tub dry, forging works as usual. Bronze, copper and the other soft metals gain nothing from quenching. Iron and steel pieces made from a mold at the anvil are quenched the same way.
 
 #### Clay hardening
 
-Once you know **Japanese Swordsmithing** (Steel Blades and Tatara Smelting first), a steel **katana, wakizashi, tachi, tanto or naginata** forged beside a watered quench tub can be clay-hardened. Forge it with the steel in your working hand and clay (a clay lump or unfired clay) in your other hand, or leave the clay on the anvil's tile; the tub must be fastened down within a tile of the anvil. If something is missing, the game tells you what. The blade is coated thin at the edge and thick at the spine before the quench. It uses 1 clay and the tub's water, and comes out harder than plain quenching makes it, with a hamon line along the edge. Japanese Swordsmithing also teaches the **tachi**, the older long cavalry sword.
+Once you know **Japanese Swordsmithing** (Steel Blades and Tatara Smelting first), a steel **katana, wakizashi, tachi, tanto or naginata** forged beside a watered quench tub can be clay-hardened. Forge it with the steel (sheets, or a mold of steel) in your working hand and clay (a clay lump or unfired clay) in your other hand, or leave the clay on the anvil's tile; the tub must be fastened down within a tile of the anvil. If something is missing, the game tells you what. The blade is coated thin at the edge and thick at the spine before the quench. It uses 1 clay and the tub's water, and comes out harder than plain quenching makes it, with a hamon line along the edge. Japanese Swordsmithing also teaches the **tachi**, the older long cavalry sword.
 
 ### Trip hammer
 
