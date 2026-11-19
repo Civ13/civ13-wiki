@@ -96,7 +96,9 @@ Molds are made with **[Clay](../Full_Crafting_List.md#clay)** (to make clay, fil
 
 ## Furnaces
 
-Furnaces are operated similarly to the **[campfire and ovens](Guide_to_Crafting.md#campfire-and-ovens)**, apart from that they do not have continuous fire - the fire will go out after an operation is finished. Furnaces require 2 units of fuel per single operation, i.e. at least 2 wood logs or 1 piece of mineral coal. To insert items into a furnace be on help intent.
+Furnaces are operated similarly to the **[campfire and ovens](Guide_to_Crafting.md#campfire-and-ovens)**, apart from that they do not have continuous fire - the fire will go out after an operation is finished. To insert items into a furnace be on help intent.
+
+Bloomeries and blast furnaces burn **charcoal**, **coke** or **wood**. Raw mineral coal is refused, because its sulphur ruins iron. A firing needs one charcoal to bring the furnace to heat, plus one more charcoal for every two ore inside. A log counts as half a charcoal and coke as one and a half. Examine a furnace to see how much fuel its next firing needs. Kilns still burn 2 fuel per firing, and coal works in them.
 
 
 <table>
@@ -114,7 +116,7 @@ Furnaces are operated similarly to the **[campfire and ovens](Guide_to_Crafting.
 <tr>
 <td><img src="../images/blast_furnace.png"></td>
 <td><b>Blast furnace</b></td>
-<td>Made with 25 iron. Used to <strong>only smelt iron</strong> ore into <strong>pig iron</strong>.</td>
+<td>Made with 25 iron (Blast Furnaces & Coke). Used to <strong>only smelt iron</strong> ore into <strong>pig iron</strong>. It needs a water wheel or windmill nearby to drive its bellows.</td>
 </tr>
 </tbody>
 </table>
@@ -144,13 +146,43 @@ Brass ingots are used for ammunition casings, instruments such as the trombone a
 <img src="../images/sheet_iron.png">
 * Smelt raw iron ore in the bloomery to obtain **sponge iron**.
 * Work sponge iron at any anvil into usable iron ingots.
+* Pig iron from a blast furnace is too brittle to hammer. Refine it into iron in a **finery forge** (2 pig iron make 1 iron) or a **puddling furnace** (see [Steelworks](#steelworks)).
 * To cast iron tools or weapons with molds, **put iron ingots in a jug or a pot and melt them in a kiln**.
 
 ### [Steel](../Full_Crafting_List.md#steel)
 <img src="../images/sheet_steel.png">
-* Smelt raw iron ore in the blast furnace to obtain **pig iron**.
-* Work pig iron at the iron or steel anvil into usable steel sheets.
-* To cast steel tools or weapons with molds, **put steel sheets in a jug or a pot and melt them in a kiln**.
+
+Steel is iron with just the right amount of carbon. It is hard to make. Before the steelworks of the industrial age, smiths only had small, slow ways to make it.
+
+* **Steely bloom.** Pump the bellows beside a bloomery before you light it. Some of the sponge iron from a blown firing comes out as **steely bloom**. Sort it on an anvil into **blister steel**.
+* **Carburizing pot** (8 clay, Iron Smithing). Pack wrought iron bars into it with charcoal: one charcoal per bar, plus 4 to hold the heat. Then seal it with an empty hand. After ten minutes the bars come out as **blister steel**, though a few take too little carbon and stay iron. Iron tools packed in with the bars come out **case-hardened** and a little better. A pot sometimes cracks as it cools.
+* **Crucible steel** (Crucible Steel research). Make a crucible from 1 clay and fire it. Pack it with 2 iron and 1 charcoal, then seal it in hand. Set it in a kiln and fire the kiln three times, pumping the bellows before each firing. If the crucible holds, it breaks open on a cake of **fine steel**. Skilled smiths crack fewer crucibles.
+* **Tamahagane**, folded from a tatara bloom, gives **fine steel** (see below).
+* In the industrial age, steel is made in bulk at the [steelworks](#steelworks).
+
+To cast steel tools or weapons with molds, **put steel sheets in a jug or a pot and melt them in a kiln**.
+
+#### Steel grades
+
+| Grade | Made by | What you forge from it |
+| --- | --- | --- |
+| Blister steel | Steely bloom, carburizing pot, cementation furnace | A little worse than usual |
+| Steel | Folding blister steel, Bessemer converter, recycling | Normal |
+| Fine steel | Crucible, tamahagane, open hearth, electric arc furnace | A little better than usual |
+
+To even out blister steel, **fold** it on an anvil that works steel: every 2 bars of blister steel make 1 bar of steel. A quench tub hardens a forged piece by the same step whatever its grade, so fine steel stays the best.
+
+### Steelworks
+
+| Works | Made from | Research | What it does |
+| --- | --- | --- | --- |
+| Coke bank | 15 clay | Blast Furnaces & Coke | Load 5 to 20 coal and light it. Five minutes later every 5 coal are 3 **coke**, which burns hot and clean enough for iron. |
+| Finery forge | 15 iron | Blast Furnaces & Coke | Burns the carbon out of pig iron: 2 pig iron make 1 wrought iron. Burns charcoal or coke. |
+| Cementation furnace | 30 stone | Blast Furnaces & Coke | A big carburizing pot: up to 30 iron bars become blister steel over a long firing. Burns charcoal. |
+| Puddling furnace | 30 stone | Blast Furnaces & Coke | Turns up to 10 pig iron into wrought iron. While it boils, stir it with an empty hand: stirred, 10 pig iron give 8 iron; left alone, only half that. Coal is fine here. |
+| Bessemer converter | 40 iron | Steelmaking | Load 5 to 15 pig iron and coke, then light it. Air roars through the melt. When the flame at the mouth **drops**, tip it with an empty hand: 10 pig iron give 9 steel. Tip too early and it is still pig iron. Tip too late, or not at all, and it burns down to wrought iron. |
+| Open hearth furnace | 50 stone | Open Hearth Steel | Slowly melts pig iron and scrap steel together into **fine steel**. Burns coal, coke or charcoal. |
+| Electric arc furnace | 40 steel | Alloys | Cable it to a powered grid. It melts scrap steel, iron or pig iron into **fine steel**, burns no fuel, and pauses while the power is off. |
 
 ### Tamahagane (steel from iron sand)
 
@@ -185,7 +217,7 @@ The **tatara** is a clay furnace made from 20 clay once you know **Tatara Smelti
 #### Kera and tamahagane
 <img src="../images/kera.png"> <img src="../images/tamahagane.png">
 
-Use **kera** on an iron anvil to break and sort it. Half of it is **tamahagane**, three tenths is soft wrought iron, and the rest is slag. Then use tamahagane on the anvil to fold it: every 3 chunks become **2 steel sheets**. The pig iron from the tatara works into steel like any other pig iron.
+Use **kera** on an iron anvil to break and sort it. Half of it is **tamahagane**, three tenths is soft wrought iron, and the rest is slag. Then use tamahagane on the anvil to fold it: every 3 chunks become **2 fine steel sheets**. The pig iron from the tatara is refined like any other pig iron.
 
 To forge things from that steel you need an anvil that works steel. Tatara Smelting also lets you weld a steel face onto an iron anvil (see [Anvils](#anvils)).
 

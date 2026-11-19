@@ -53,6 +53,7 @@ Arms can load and unload:
 
 - belts, crates, parts bins and fabricators;
 - **bloomeries and blast furnaces**, which take iron ore and fuel and start smelting on their own once both are loaded;
+- **steelworks** (coke banks, finery forges, cementation, puddling and open hearth furnaces, Bessemer converters and electric arc furnaces), which take their charge and fuel and fire on their own once the charge is full (a Bessemer converter still needs someone to tip it, and a puddling furnace someone to stir it);
 - the **powered saw mill**, which holds up to 20 logs and cuts one log a second into planks while powered;
 - the **tanning drum** (see [Tanning drum](#tanning-drum)), which takes hides and bark and leaves leather;
 - the **powered stamp mill** (see [Stone crushing](#stone-crushing));
