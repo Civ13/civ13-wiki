@@ -17,7 +17,7 @@ Your **intent** decides what your empty hand, or the item in it, does when you c
 | --- | --- | --- |
 | 1 | **Help** | Shake them awake, or perform CPR when they are in critical condition or recently dead. A gun you are holding up will not fire reflexively on Help. |
 | 2 | **Disarm** | Aim at the chest to shove them up to one tile away (10 stamina, then a 2 second recovery; the same person can't be shoved again for 3 seconds). Aim anywhere else to try to knock the item out of their hand. A loaded gun can go off in the struggle. |
-| 3 | **Grab** | Grab them. Use the grab in your hand again to tighten it. Grab intent on your *own* bleeding limb applies pressure to slow the bleeding. |
+| 3 | **Grab** | Grab them by the body part you are aiming at. Use the grab in your hand again to tighten it. Aim at an empty hand to hold their hand instead (see [Grabbing](#grabbing)). Grab intent on your *own* bleeding limb applies pressure to slow the bleeding. |
 | 4 | **Harm** | Punch, or attack with the held weapon. |
 
 Keep **Help** intent around teammates and switch to **Harm** only when you mean it.
@@ -37,6 +37,14 @@ The targeting doll on your HUD chooses which body part your attacks aim for. Cli
 Head shots are deadlier but easier to miss. The chest is the most reliable target. Legs and arms slow and disarm an enemy without necessarily killing them.
 
 A punch, blade, bullet or thrown object that lands on someone's **hand** can knock what that hand is holding to the ground. A harder hit makes it more likely. If they are gripping it tightly (see below), the blow breaks their grip instead, and the next one can knock it away.
+
+## Grabbing
+
+On Grab intent, an empty hand grabs whichever part of the person you are aiming at, such as their arm, leg or head. Use the grab in your hand to tighten it, and drop it to let go. The person you grab can break free with **Resist**; the tighter the grab, the harder that is. You can't grab a limb they no longer have.
+
+**Holding hands:** aim at one of their hands while it is empty and grab it. If they are awake and standing, you hold hands, and each of you has the other's hand in yours. When you walk, they come along with you. Either of you can drop the hand to let go, or use it in hand to squeeze. If their hand is full, you grab them by the wrist instead.
+
+Using your grab on a held hand tightens it into a firm grip. They can still use their other hand, but they can't walk away or simply let go: dropping the hand counts as a Resist, and only a successful Resist frees it. A hand can't be gripped any tighter than that. If they pass out, their hand slips free.
 
 ## Movement modes
 
