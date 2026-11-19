@@ -15,11 +15,26 @@ The head sets how fast the tool works. Heads you cast in moulds or assemble from
 | Bone | Slowest | Slowest | Slowest |
 | Flint or stone | Slow | Slow | Slow |
 | Copper | Between stone and iron | Between bone and iron | Between stone and bronze |
-| Bronze | A little slower than iron | A little slower than iron | A little faster than iron |
+| Bronze | A little slower than iron | A little slower than iron | A little slower than iron |
 | Iron | The usual speed | The usual speed | The usual speed |
 | Steel | Fastest | Fastest | Fastest |
 
 A light handle speeds a pick or shovel up a little and a heavy one slows it down. A steel head on a tool you assemble yourself works at the full steel speed.
+
+The **navvy shovel** is the fastest hand shovel, a broad steel blade on a long handle. It takes 3 steel from the **Tools** menu once your people know Machined Tools, and digs about two thirds faster than an iron shovel.
+
+## Who holds the tool
+
+The worker matters as much as the tool. Digging, mining, chopping and tilling all get faster the stronger you are:
+
+| Work | Draws on |
+| --- | --- |
+| Digging, trenching and moving earth | Mostly strength, some stamina |
+| Mining | Mostly strength, a little stamina |
+| Felling trees | Mostly strength, some dexterity |
+| Tilling and ploughing | Mostly farming, some strength |
+
+An average worker with an iron tool works at the usual speed. Someone twice as strong works about twice as fast. A very weak worker is never slower than half speed. The Navvy, Miner and Woodcutter trades speed up their own work further (see [Character](Guide_to_Character.md#trades)). However good the tool and the worker, a job never takes less than a quarter of the usual time.
 
 ## Hand tools in other metals
 
