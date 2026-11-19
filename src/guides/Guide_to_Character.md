@@ -150,8 +150,11 @@ A trade is an optional free trait for hands-on work. You can take one in charact
 | Smith | 25% less time | Anvil work and the metal workbench |
 | Tailor | 25% less time | Dressmaking, and crafting from cloth, wool, hides and leather |
 | Carpenter | 8% less time | Crafting from wood and stone, and woodworking |
+| Navvy | 20% less time | Digging, trenches, channels, wells, tunnels, and raising or lowering ground |
+| Miner | 25% less time | Mining rock, ore seams and cave roofs, and breaking up stone roads |
+| Woodcutter | 20% less time | Felling trees |
 
-- The work of the other four trades takes 10% longer. Work that belongs to no trade is unchanged.
+- The work of the other trades takes 10% longer. Work that belongs to no trade is unchanged.
 - Trades for rarer work get bigger boosts. An all-rounder comes out about even or a little slower with any trade; a trade pays off for someone who mostly does one kind of work.
 - You can drop your trade at any time. After any change, you must wait 7 real days before picking a new one.
 
