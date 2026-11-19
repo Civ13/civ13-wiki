@@ -436,12 +436,12 @@ Anything you drop on the seabed stays where it fell.
 
 ### Free diving
 
-You don't need a suit to visit the shelf. Swimming in the open sea, use **Dive** (IC tab) and after two seconds you are on the seabed straight below, holding your breath. You need to be rested: not nearly spent, and with your breath back from the last dive.
+You don't need a suit to visit the shelf. Swimming in the open sea, use **Dive** (IC tab) or the HUD down arrow and after two seconds you are on the seabed straight below, holding your breath. You need to be rested: not nearly spent, and with your breath back from the last dive.
 
 - Your breath lasts as long as your swimming skill allows: about 10 seconds for a beginner, up to a minute for a master. You are warned when your chest starts to burn.
 - Down there you swim as fast as you do at the surface. Pick up whatever has sunk to the seabed: lost tools, cargo, weapons.
 - Anyone can reach the shelf. **Open water** needs a swimming skill of 200. The deep and the abyss are only for sealed suits.
-- Use **Surface** to swim back up: about 3 seconds from the shelf and 6 from open water, and it uses breath on the way.
+- Use **Surface** (IC tab) or the HUD up arrow to swim back up: about 3 seconds from the shelf and 6 from open water, and it uses breath on the way.
 - If your breath runs out you claw your way up half drowned. Under a boat or raft there is no way up, so you drown where you are. Anyone who passes out down there drowns.
 
 Diving teaches swimming too, open water more than the shelf.
