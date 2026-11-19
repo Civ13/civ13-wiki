@@ -565,6 +565,8 @@ An engine that has worked about **5,000 tiles** starts to knock and blow, and pu
 
 An engine can be overhauled early, from half that distance on.
 
+Overhauled with **5 Inconel** instead of iron or steel (see [Metallurgy](Guide_to_Metallurgy.md#alloy-steels)), the new parts stand the heat and the engine wears half as fast until its next overhaul.
+
 ### Coaling stage and sand bin
 
 Two structures beside the track save carrying fuel and sand to every engine by hand. Both serve whatever stands within two tiles of them. Like the brake shoes, they are on the **Rail & Steam** node, or industrial research **101**.

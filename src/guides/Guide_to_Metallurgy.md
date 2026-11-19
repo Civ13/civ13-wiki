@@ -184,6 +184,18 @@ To even out blister steel, **fold** it on an anvil that works steel: every 2 bar
 | Open hearth furnace | 50 stone | Open Hearth Steel | Slowly melts pig iron and scrap steel together into **fine steel**. Burns coal, coke or charcoal. |
 | Electric arc furnace | 40 steel | Alloys | Cable it to a powered grid. It melts scrap steel, iron or pig iron into **fine steel**, burns no fuel, and pauses while the power is off. |
 
+### Alloy steels
+
+From the Early Modern age, mining sometimes turns up **nickel ore** and **cobalt ore**, and from the World War age **chromite**. Add them to the open hearth or the electric arc furnace beside the charge (up to 20 lumps; examine the furnace to see them). Whatever is not used stays in for the next firing, and **Empty** gives it back.
+
+| Alloy | Where | Add | What it is good for |
+| --- | --- | --- | --- |
+| Nickel steel | Open hearth | 1 nickel ore for every 4 steel tapped | Blades a little better than fine steel. Armour forged from it stops blows a little better and **bullets and arrows much better**. |
+| Maraging steel | Electric arc furnace, from the Cold War age | 1 nickel and 1 cobalt ore for every 2 bars | Comes out **unaged**: set it in a kiln and fire the kiln once to age it hard (up to 20 bars a firing). Aged, it is the best steel for blades and armour. Forged before aging, it is only ordinary steel. |
+| Inconel | Electric arc furnace | 3 nickel ore and 1 chromite for every bar | Not a steel, and not forged: it keeps its strength red hot. Overhaul a locomotive with 5 Inconel and its engine wears half as fast (see [Trains](Guide_to_Trains.md#overhaul)). |
+
+Armour forged on an anvil from any of these steels keeps the better protection, up to a limit.
+
 ### Tamahagane (steel from iron sand)
 
 Steel does not need iron ore. Smiths in Japan made it from black iron sand in a clay furnace called a **tatara**.
