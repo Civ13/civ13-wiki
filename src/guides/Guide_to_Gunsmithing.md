@@ -46,13 +46,13 @@ Once your people know **Gunpowder**, hold iron in your hand, open the crafting m
 | Matchlock musket | 18 | End of WW1 |
 | Matchlock tanegashima | 18 | End of WW1 |
 
-They load loose powder and a ball, or a musket cartridge. See [Matchlocks, arquebuses and handcannons](Guide_to_Weapons.md#matchlocks-arquebuses-and-handcannons--late-medieval-).
+On persistent worlds such as Gaia these guns stay available after the listed age. They load loose powder and a ball, or a musket cartridge. See [Matchlocks, arquebuses and handcannons](Guide_to_Weapons.md#matchlocks-arquebuses-and-handcannons--late-medieval-).
 
 ## Flintlocks
 
 Flintlocks need **Gunsmithing**. There are two ways to make one.
 
-**Forged whole.** In the Imperial Age, use iron on an anvil and choose **guns**:
+**Forged whole.** In the Imperial and Industrial Ages (and later on persistent worlds such as Gaia), use iron on an anvil and choose **guns**:
 
 | Gun | Iron |
 | --- | --- |
@@ -62,7 +62,7 @@ Flintlocks need **Gunsmithing**. There are two ways to make one.
 | Flintlock blunderbuss | 25 |
 | Flintlock musket | 30 |
 
-**Assembled from parts.** In the Imperial and Industrial Ages, a smith can forge the barrel and lock while a woodworker makes the stock:
+**Assembled from parts.** In the Imperial and Industrial Ages (and later on persistent worlds such as Gaia), a smith can forge the barrel and lock while a woodworker makes the stock:
 
 1. Make a **pistol butt** (1 softwood) or **musket stock** (3 softwood) from the softwood **Tools** menu.
 2. On an anvil, choose **flintlock parts** and forge a **pistol barrel** (20 iron) or **musket barrel** (30 iron), and a **flintlock mechanism** (2 steel, on a steel-faced or steel anvil).
