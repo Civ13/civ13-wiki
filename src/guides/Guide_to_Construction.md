@@ -1492,6 +1492,7 @@ you.
 <li>Hold the key in the non-active hand, then build a locked door with the iron in the active hand.</li>
 <li>Now the door is tied to the key and could be opened and closed with it.</li>
 <li>You can make more than one key for a door - just make another key with the same combination.</li>
+<li>Use a pen on a key to write a short label on it, such as "Workshop". The label shows after the key's name, so you can tell keys apart on your keychain. Write an empty label to rub it off.</li>
 </ul></td>
 </tr>
 </tbody>
