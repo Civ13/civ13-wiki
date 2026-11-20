@@ -22,11 +22,12 @@ Two light planes on a runway, nose to the east.
 | Airframe section | 4 steel | Powered Flight | Industrial 126 |
 | Airframe controls | 12 steel | Powered Flight | Industrial 126 |
 | Pilot's seat | 8 steel | Powered Flight | Industrial 126 |
-| Airship planks (one deck tile) | 3 wood | Powered Flight | Industrial 126 |
-| Airship gas cell | 20 cloth | Powered Flight | Industrial 126 |
-| Airship helm | 10 wood | Powered Flight | Industrial 126 |
+| Airship planks (one deck tile) | 3 wood | Lighter-than-Air Flight | Industrial 126 |
+| Airship gas cell | 20 cloth | Lighter-than-Air Flight | Industrial 126 |
+| Airship helm | 10 wood | Lighter-than-Air Flight | Industrial 126 |
+| Gasbag | 4 leather | Lighter-than-Air Flight | Industrial 126 |
 
-**Powered Flight** is an Industrial node in the Vehicles line. It needs **Automobiles** and **Combustion Engine**, and Aviation & Rocketry is researched after it. The hangar is in the **production** crafting category and runway in **roads**. The hangar only assembles planes for a faction that has finished the Powered Flight node. With Powered Flight alone it builds the wood-and-cloth **trainer** and **light plane**. The all-metal **cabin**, **cargo** and **twin-engine** planes and the **airliner** also need **Aviation & Rocketry**, and so does a twin-engine plane built by hand.
+**Powered Flight** is a World War II (1943) node in the Vehicles line. It needs **Combustion Engine**, and Aviation & Rocketry is researched after it. The hangar is in the **production** crafting category and runway in **roads**. The hangar only assembles planes for a faction that has finished the Powered Flight node. With Powered Flight alone it builds the wood-and-cloth **trainer** and **light plane**. The all-metal **cabin**, **cargo** and **twin-engine** planes and the **airliner** also need **Aviation & Rocketry**, and so does a twin-engine plane built by hand.
 
 ## Building the hangar and the plane
 
@@ -160,7 +161,7 @@ A plane on the ground can be towed like a car. Park it in line behind a truck or
 
 ## Crewed airships
 
-An airship is a deck you build yourself, on the ground or in the open air, held up by gas cells and steered from a helm. A crew walks around on it while it flies. It flies in the open air above the ground, so only where planes can fly. The planks, gas cells and helm are crafted in the **vehicle parts** category.
+An airship is a deck you build yourself, on the ground or in the open air, held up by gas cells and steered from a helm. A crew walks around on it while it flies. It flies in the open air above the ground, so only where planes can fly. The planks, gas cells and helm are crafted in the **vehicle parts** category. In tech-tree games, research **Lighter-than-Air Flight** from the Early Modern (1903) age after **Wagons & Ships** and **Utilities**. A faction that already knows **Powered Flight** can also make the basic wooden kit. Lighter-than-Air Flight does not unlock powered aircraft, metal airship frames or the bomb hatch.
 
 ![An airship deck of wooden planks with a helm at the stern and two gas cells over it](../images/civ13-airship-deck.png)
 
@@ -197,6 +198,8 @@ Frames are laid like planks, and one deck can mix them. A wooden deck under a bu
 ### Lifting gas
 
 A gas cell takes 60 units of gas and lifts in proportion to how full it is. Hydrogen lifts the most but burns; helium lifts a tenth less and never catches fire. A cell holds one gas: take it down with a wrench to let the gas out before switching. All of these are crafted in the **production** category.
+
+For a first wooden airship, use the **water-gas retort** unlocked by **Utilities**. Feed it coal or charcoal and water, fill a **leather gasbag** at the retort, then use the filled bag on an empty, hung gas cell. You do not need a powered compressor or gas cylinder for this route.
 
 | Gas works | How it works |
 | --- | --- |
