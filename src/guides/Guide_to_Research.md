@@ -263,7 +263,7 @@ The first bonus slot costs 300 silver-equivalent, the second costs 600, the thir
 | Nuclear Power | 7 | 458 | 6 | **Prototype** (geiger counter) | Electricity, Alloys |
 | Hydraulic Fracturing | 8 | 400 | 7 | Analysis | Combustion Engine, Electricity |
 
-Electricity unlocks the powered soil sifter and river concentrator. Hydraulic Fracturing unlocks the finite petroleum rig; see [Resource Extraction](Guide_to_Resource_Extraction.md) for input and power requirements. Automobiles and Electricity are both needed to use the [automobile workshop](Guide_to_Crafting.md#automobile-workshop). Powered Flight unlocks the aircraft hangar and runway; see [Aircraft](Guide_to_Aircraft.md). Submarines unlocks the submarine pen and the parts to build a submarine by hand; see [Submarines](Guide_to_Boats.md#submarines). Naval Aviation unlocks the shipyard office that lays down a carrier; see [Aircraft Carriers](Guide_to_Aircraft_Carriers.md).
+Electricity unlocks the powered soil sifter and river concentrator. Hydraulic Fracturing unlocks the finite petroleum rig; see [Resource Extraction](Guide_to_Resource_Extraction.md) for input and power requirements. Automobiles and Electricity are both needed to use the [automobile workshop](Guide_to_Crafting.md#automobile-workshop). Lighter-than-Air Flight unlocks the basic [wooden airship kit](Guide_to_Aircraft.md#crewed-airships) before Powered Flight, which unlocks the aircraft hangar and runway. Submarines unlocks the submarine pen and the parts to build a submarine by hand; see [Submarines](Guide_to_Boats.md#submarines). Naval Aviation unlocks the shipyard office that lays down a carrier; see [Aircraft Carriers](Guide_to_Aircraft_Carriers.md).
 
 #### Vehicles
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
@@ -273,6 +273,7 @@ Electricity unlocks the powered soil sifter and river concentrator. Hydraulic Fr
 | Wagons & Ships | 3 | 165 | 2 | Analysis | Carts |
 | Rail & Steam | 4 | 200 | 3 | Analysis | Wagons & Ships, Steam Power |
 | Automobiles | 5 | 235 | 4 | Analysis | Wagons & Ships, Combustion Engine |
+| Lighter-than-Air Flight | 5 | 235 | 4 | Analysis | Wagons & Ships, Utilities |
 | Powered Flight | 6 | 270 | 5 | **Prototype** (small fuel tank) | Combustion Engine |
 | Submarines | 6 | 270 | 5 | Analysis | Wagons & Ships, Combustion Engine, Electricity |
 | Aviation & Rocketry | 7 | 305 | 6 | Analysis | Powered Flight, Alloys |

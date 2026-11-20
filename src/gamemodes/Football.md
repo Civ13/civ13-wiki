@@ -21,6 +21,6 @@ Watch the kickoff and score announcements. Spread out to give teammates passing 
 
 ## Goalkeepers
 
-Goalkeepers can pick up the ball while in their goal area. Moving out of that area with the ball in hand drops it automatically. Coordinate with defenders and return the ball to play rather than leaving the goal unattended.
+Goalkeepers can pick up the ball while in their goal area. Stay on your feet and leave your active hand empty to catch or pick up the ball. Moving out of that area with the ball in hand drops it automatically. Coordinate with defenders and return the ball to play rather than leaving the goal unattended.
 
 If a control does not work, check your equipment, stamina, whether you have the ball and whether play is currently stopped.
