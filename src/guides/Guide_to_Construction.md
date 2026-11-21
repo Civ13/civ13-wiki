@@ -997,6 +997,7 @@ A concrete tower goes up to six storeys the same way: lay a concrete or stone fl
 - **Climb down:** stand at the edge of an upper floor with a free hand and click the open air next to you with grab intent, or use **IC > Climb Down**. After a few seconds you are on the ground below that spot. It only works for a single storey onto clear ground or shallow water. Walking off the edge instead is a hard fall.
 - **Wooden ladder:** craft a wooden ladder (4 wood) and use it on the open air next to an upper floor, or on the ground under open space. It stands between the two levels: click either end to climb, and walking onto the top end doesn't make you fall. Click an end with grab intent and a free hand to take the ladder down again.
 - **Stairs:** see Stairs under [Floors](#floors) below. Leave the space above them open. You can build them from below, or from the upper floor by facing an opening in it.
+- **Ramps:** a longer, gentler way up that takes carts and wheelchairs. See Ramps under [Floors](#floors) below.
 - **Trapdoors and hatches:** a wooden trapdoor (4 wood, Primitive Construction) or an iron hatch (6 iron, Iron Smithing) closes an opening between levels: the open air over stairs or a ladder, a hole in an upper floor, or a dug hole. Stand beside the opening and use it there, then choose whether its inside is above or below. Shut, it is floor: you can walk across it, nothing falls through, and nobody climbs the stairs or ladder through it. Open, anything lying on it drops through. It won't open while someone stands on it. It takes the same locks, latches, bar brackets, bars and slide bolts as a door (see [Doors](#doors)), with above and below as its two sides. From below, work it from the ladder or stairs under it: click them to push it open, and use keys, locks, bars and tools on them to reach it. It comes out again with a hammer (wooden) or wrench (iron) from its inside.
 - **Looking down:** from an upper floor or a roof you can see the level below through open air, with whoever and whatever is there. It is drawn darker than your own level, and darker again for each level further down, so you can tell what is beside you from what is below you. Clicking open air still means the open air, but a gun or bow fired at the open air over someone below drops onto them, and aiming down is steadier than shooting across level ground. Nobody below can shoot up through a floor.
 - **Looking up:** with open air straight above you (open sky over a built-up area, a stairwell, a hole in a roof or the foot of a ladder), use **IC > Look Up** or **Alt+click** the up arrow to see the level above: who stands on the roofs and walls around you. A roof or a floor over your head blocks the view. Move, or click the label at the top of the screen, to look back down.
@@ -1008,9 +1009,11 @@ A concrete tower goes up to six storeys the same way: lay a concrete or stone fl
 
 What you pull comes with you between storeys when it makes sense:
 
-- **Stairs:** people, animals, crates and loose items come up or down with you.
+- **Stairs and earth ramps:** people, animals, crates and loose items come up or down with you.
 - **Ladders:** you need both hands for the rungs, so only people, small animals and loose items come along. Crates, furniture and big animals such as horses go by the stairs.
-- **Neither:** anvils, furnaces, kilns, ovens, mills, saw mills, workshop machines, engines, cannon, printing presses and vehicle parts are far too heavy, and wheeled carts and wheelchairs can't be dragged up steps. They need **shear legs** or a lift.
+- **Timber, stone and concrete ramps:** everything stairs take, plus hand carts, shopping carts and wheelchairs. Someone sitting in a wheelchair can roll up them on their own.
+- **Stone and concrete ramps with a helper:** the heavy things below can be hauled up too, if a second person stands beside you or the load. It takes as long as a heavy hoist.
+- **Otherwise:** anvils, furnaces, kilns, ovens, mills, saw mills, workshop machines, engines, cannon, printing presses and vehicle parts are far too heavy, and wheeled carts and wheelchairs can't be dragged up steps. They need **shear legs**, a lift or a ramp.
 
 | | Station | Cost | You need to know |
 | --- | --- | --- | --- |
@@ -1413,6 +1416,28 @@ stairs from below, facing the side you want to come out on.
 
 Stairs on the images are built while facing **S**; directions **N, W, E** are also available. Hover the mouse cursor over the images to see
 the cost and the material.
+
+<u><b>Ramps</b></u>
+
+A ramp is a slope up to the storey above, built as a straight line of ramp
+sections. Build every section facing the way the ramp climbs, one after
+another, so the last one ends next to the upper floor. Leave open air above
+every section, not only the top one, and have a floor at the top to step onto.
+Walk up the ramp and onto its top section to come out on the floor beyond it;
+walk from that floor onto the open air over the top section to walk back down.
+Examine a section to see whether the ramp is long enough.
+
+A ramp takes far more room than stairs, but it carries more (see
+[Hoisting heavy loads](#hoisting-heavy-loads)):
+
+| | Ramp | Cost per section | Sections | You need to know | Carries |
+| --- | --- | --- | --- | --- | --- |
+| <img src="../images/ramp_earth.png"> | **Earth ramp** | 2 stone | 4 | Primitive Construction | what stairs carry; too rough for wheels |
+| <img src="../images/ramp_timber.png"> | **Timber ramp** | 2 wood | 4 | Carts | carts and wheelchairs too |
+| <img src="../images/ramp_stone.png"> | **Stone ramp** | 2 stone | 8 | Reinforced Concrete | carts, wheelchairs, and heavy machines with a helper |
+| <img src="../images/ramp_concrete.png"> | **Concrete ramp** | 1 concrete | 8 | Reinforced Concrete | the same as a stone ramp |
+
+Stone and concrete sections can be mixed in one ramp.
 
 ## Doors
 
