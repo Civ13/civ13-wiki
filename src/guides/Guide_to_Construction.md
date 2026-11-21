@@ -7,7 +7,9 @@ heaps of rugged stones and those chaotically growing trees could spring
 such smooth, even walls in all their rectangular glory. A natural
 landscape is a wild beast that needs to be reined in, and reined in it
 will be!
-<hr>
+
+---
+
 Construction requires basic knowledge in other areas, such as resource acquirement, which are covered in the **[Guide to Crafting](Guide_to_Crafting.md)**.
 
 There are a few key elements in the area of construction that you could
