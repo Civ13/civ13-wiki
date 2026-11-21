@@ -55,10 +55,15 @@ Weather does not stop at the edge of a land. Neighbouring lands and oceans share
 - **Lightning and thunder.** Heavy rain storms bring lightning. You see the sky flash and hear the thunder a moment later, later the further away it struck. Lightning does not hurt you or start fires.
 - **Wind** rises under a storm and can blow an open umbrella inside out. The wind can blow from any of eight directions. It shifts an eighth of a turn at a time and never swings right round at once.
 
-**Reading the weather ahead.** Three things tell you what is coming before the sky does:
+**Reading the weather ahead.** Each age has better instruments, and the better the instrument, the further and surer its forecast:
 
+- A **rain gauge** (3 bronze, Bronze Working) stands outdoors and catches what falls. Examine it to see how many millimetres of water it holds since you last emptied it, and whether it was snow. Tip it out with an empty hand.
 - A **weather vane** (6 soft wood, Primitive Construction) stands on the ground outdoors and swings to point into the wind. Examine it to learn where the wind is from, how strong it is, and whether the sky upwind is dark. It does nothing under a roof.
-- A **barometer** (8 iron, Optics & Instruments) fits in a pocket. Use it in your hand: a steady needle means no change for a quarter of an hour, a falling needle means weather is on its way and tells you in how many minutes, and a needle dropping fast means a severe storm. Under a storm it tells you how long until it passes.
+- A **barometer** (8 iron, Optics & Instruments) fits in a pocket. Use it in your hand to read the air pressure in hPa and whether it is steady, rising or falling. It tells you about how many minutes, to the nearest five, until weather breaks or passes, up to a quarter of an hour ahead. A big fall means unsettled weather later. Around 1013 hPa is ordinary, below 1000 is stormy and above 1020 is settled.
+- A **thermometer** (1 glass, Optics & Instruments) reads the air. Outdoors it also tells you what the wind, damp or sun make it feel like.
+- A **hygrometer** (2 soft wood, Optics & Instruments) reads how humid the air is and its dew point. On a clear evening or night it tells you whether dew, frost or fog will form.
+- An **anemometer** (6 iron, Steam Power) stands outdoors with spinning cups. Examine it for the wind speed in m/s and km/h, its force on the Beaufort scale, and how much colder the wind makes the air feel.
+- A **weather station** (15 soft wood, Electricity) does all of this at once. Examine it for every reading and a forecast half an hour ahead to the minute, including whether rain, sleet, snow or hail is coming and whether a low or a high is moving in. It writes a line in its log as each part of the day begins; use it with an empty hand to read the log.
 - The **farmer's almanac** has an Outlook line with the same forecast.
 
 A forecast supposes the wind holds. If the wind shifts, the storm can turn away, or toward you. On the lands of Earth and the open oceans, storms hold their course, so a forecast there is steadier.

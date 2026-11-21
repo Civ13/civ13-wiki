@@ -25,9 +25,9 @@ Gilding gives off a lot of vapour. Everyone within two tiles breathes it, but mu
 
 ## Barometer and thermometer
 
-<img src="../images/Thermometer.png"> A newly made **barometer** (8 iron) is empty. Pour **5 units** of quicksilver into it, then use it in your hand to read the column for coming weather.
+<img src="../images/Thermometer.png"> A newly made **barometer** (8 iron) is empty. Pour **5 units** of quicksilver into it, then use it in your hand to read the air pressure in hPa, whether it is rising or falling, and the weather coming.
 
-A **thermometer** (1 glass, Optics and Instruments) is also empty when you make it. It takes **2 units** of quicksilver, and when you use it in your hand it tells you how warm the air is.
+A **thermometer** (1 glass, Optics and Instruments) is also empty when you make it. It takes **2 units** of quicksilver, and when you use it in your hand it tells you how warm the air is, and outdoors what it feels like.
 
 ## Felt hats
 
