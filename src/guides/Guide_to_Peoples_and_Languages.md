@@ -76,6 +76,8 @@ A language can split as the eras pass, the way Latin became French and Spanish. 
 - **It keeps its writing.** A new language writes in the same script as the language it grew from, so papers stay readable both ways.
 - **It can grow further apart.** If the new language's speakers keep to themselves through another era, the two languages understand a little less of each other each time.
 
+**Check Known Languages** shows a **Language families** section once one of your languages has relatives on your land: which language each grew out of, among which people and in which era, which ones you speak, and how much of each other their speakers follow.
+
 Each language can split at most twice on a land. Travellers carry their languages with them, so a land that has never heard a new language learns it from them.
 
 ## Paper and books
