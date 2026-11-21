@@ -1275,6 +1275,22 @@ with a special note being that the wood floor could be set on fire.
 </tbody>
 </table>
 
+A tatami mat can also be laid with a bamboo border already fitted. Each is one floor and costs 1 bamboo.
+The pieces with a border on some sides go down facing one way: stand beside the mat, right-click it
+and choose **Rotate Tatami Trim** to turn the border where you want it.
+
+<table>
+<tbody>
+<tr>
+<td><img src="../images/floor_tatami_edged.png" title="1 bamboo">&emsp;<b>Edged</b></td>
+<td><img src="../images/floor_tatami_corner_inside.png" title="1 bamboo">&emsp;<b>Inside corner</b></td>
+<td><img src="../images/floor_tatami_corner_outside.png" title="1 bamboo">&emsp;<b>Outside corner</b></td>
+<td><img src="../images/floor_tatami_three_sided.png" title="1 bamboo">&emsp;<b>Three-sided</b></td>
+<td><img src="../images/floor_tatami_framed.png" title="1 bamboo">&emsp;<b>Fully framed</b></td>
+</tr>
+</tbody>
+</table>
+
 <u><b>Wood floors</b></u>
 
 <table>
@@ -1284,6 +1300,31 @@ with a special note being that the wood floor could be set on fire.
 <td><img src="../images/floor_fancy_wood.png" title="1.5 wood log">&emsp;<b>Fancy wood</b></td>
 <td><img src="../images/floor_thatch.png" title="0.75 wood log">&emsp;<b>Thatch</b></td>
 <td><img src="../images/floor_thatch_split.png" title="0.75 wood log">&emsp;<b>Thatch split</b></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+Eleven patterned wood floors are made from wood planks, 1 plank each:
+
+<table>
+<tbody>
+<tr>
+<td><img src="../images/floor_wood_narrow_plank.png" title="1 wood plank">&emsp;<b>Narrow plank</b></td>
+<td><img src="../images/floor_wood_basketweave.png" title="1 wood plank">&emsp;<b>Basketweave</b></td>
+<td><img src="../images/floor_wood_dark_herringbone.png" title="1 wood plank">&emsp;<b>Dark herringbone</b></td>
+<td><img src="../images/floor_wood_herringbone.png" title="1 wood plank">&emsp;<b>Herringbone</b></td>
+</tr>
+<tr>
+<td><img src="../images/floor_wood_double_herringbone.png" title="1 wood plank">&emsp;<b>Double herringbone</b></td>
+<td><img src="../images/floor_wood_diamond_parquet.png" title="1 wood plank">&emsp;<b>Diamond parquet</b></td>
+<td><img src="../images/floor_wood_checkered_parquet.png" title="1 wood plank">&emsp;<b>Checkered parquet</b></td>
+<td><img src="../images/floor_wood_pinwheel_parquet.png" title="1 wood plank">&emsp;<b>Pinwheel parquet</b></td>
+</tr>
+<tr>
+<td><img src="../images/floor_wood_woven_strip.png" title="1 wood plank">&emsp;<b>Woven strip</b></td>
+<td><img src="../images/floor_wood_redwood_plank.png" title="1 wood plank">&emsp;<b>Redwood plank</b></td>
+<td><img src="../images/floor_wood_nailed_board.png" title="1 wood plank">&emsp;<b>Nailed board</b></td>
 <td></td>
 </tr>
 </tbody>
@@ -1301,6 +1342,12 @@ with a special note being that the wood floor could be set on fire.
 </tr>
 <tr>
 <td><img src="../images/floor_road.png" title="1 stone">&emsp;<b>Road</b></td>
+<td><img src="../images/floor_cobblestone_light_running.png" title="1 stone">&emsp;<b>Light running cobblestone</b></td>
+<td><img src="../images/floor_cobblestone_light_crosswise.png" title="1 stone">&emsp;<b>Light crosswise cobblestone</b></td>
+<td><img src="../images/floor_cobblestone_dark_crosswise.png" title="1 stone">&emsp;<b>Dark crosswise cobblestone</b></td>
+</tr>
+<tr>
+<td><img src="../images/floor_stone_mossy.png" title="1 stone">&emsp;<b>Mossy old stone</b></td>
 </tr>
 </tbody>
 </table>
@@ -1391,6 +1438,46 @@ randomly selected upon construction.
 <tbody>
 <tr>
 <td><img src="../images/floor_concrete.png" title="1 concrete block">&emsp;<b>Concrete</b></td>
+</tr>
+</tbody>
+</table>
+
+**Terracotta and brick paving** are laid from fired clay tiles:
+
+1. From clay, craft **unfired terracotta tiles** (half a lump of clay each, Pottery & Cookware research).
+2. Fire them in an oven or kiln, the same way as pots and bricks. Each unfired tile comes out as one **terracotta tile**.
+3. Use the terracotta tiles like any other building material and pick a floor.
+
+The border and corner pieces go down facing one way. Stand beside one, right-click it and choose
+**Rotate Terracotta Border** to turn it. Terracotta does not burn, but it breaks sooner than cut stone.
+Brick paving needs Brickmaking research and is the toughest of the three.
+
+<table>
+<tbody>
+<tr>
+<td><img src="../images/floor_terracotta.png" title="1 terracotta tile">&emsp;<b>Terracotta</b></td>
+<td><img src="../images/floor_terracotta_border.png" title="1 terracotta tile">&emsp;<b>Border</b></td>
+<td><img src="../images/floor_terracotta_corner_inside.png" title="1 terracotta tile">&emsp;<b>Inside corner</b></td>
+<td><img src="../images/floor_terracotta_corner_outside.png" title="1 terracotta tile">&emsp;<b>Outside corner</b></td>
+</tr>
+<tr>
+<td><img src="../images/floor_terracotta_inset.png" title="2 terracotta tiles">&emsp;<b>Patterned inset</b></td>
+<td><img src="../images/floor_brick_paving.png" title="1 terracotta tile">&emsp;<b>Brick paving</b></td>
+</tr>
+</tbody>
+</table>
+
+<u><b>Iron floors</b></u>
+
+Both need Iron Smithing research and do not burn. An iron plate floor is the hardest floor short of steel.
+An iron grating is open bars over a drain: when someone walks across it, blood and spills on that tile
+fall through.
+
+<table>
+<tbody>
+<tr>
+<td><img src="../images/floor_iron_plate.png" title="1 iron">&emsp;<b>Iron plate</b></td>
+<td><img src="../images/floor_iron_grating.png" title="1 iron">&emsp;<b>Iron grating</b></td>
 </tr>
 </tbody>
 </table>
