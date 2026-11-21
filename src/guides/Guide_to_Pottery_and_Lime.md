@@ -82,8 +82,24 @@ Each mover is built from wood plus [machine parts](Guide_to_Tool_Materials.md) o
 - Click a mover with an empty hand, or examine it, to see whether it is turning and why not.
 - The treadwheel needs a second person: one treads inside the wheel while the other works the machine.
 - Still water and ice do not turn a mill wheel, and a windmill stands idle in a calm.
-- If two movers reach the same machine, the faster one counts.
+- Each mover has a **strength**: treadwheel 1, horse gin 2, mill wheel 3 (4 when fed by a mill race), windmill 1, 2 or 3 as the wind rises. Most machines draw 1; a trip hammer, rolling mill, stone crusher, water stamp mill or blast furnace draws 2. When the machines on a drive draw more than its movers' strength, they all slow down in proportion. Examine a mover to see its strength, its draw and the speed it gives.
+- Movers standing next to one another, or joined by shafts, add their strength together, and the fastest one sets the pace.
 
 Hit a mover with a hammer on **Harm intent** to take it apart. Movers are too heavy to pull up a ladder.
+
+### Line shafts, gear boxes and clutches
+
+Transmission parts carry a mover's drive to machines further away. Every fastened machine within one tile of any part is driven, and parts join when they stand within one tile of each other, diagonals included. Fasten each part with a wrench. Click an unfastened shaft with an empty hand to turn it round.
+
+| | Part | Made from | Research | What it does |
+| --- | --- | --- | --- | --- |
+| <img src="../images/Line_shaft.png"> | **Wooden line shaft** | 4 wood, 1 bearing | Watermills | Carries the drive. A run with any wooden length turns at most 8 lengths |
+| <img src="../images/Shaft_clutch.png"> | **Shaft clutch** | 5 wood, 1 gear set, 1 bearing | Watermills | A length of shaft you throw in or out by hand. Thrown out, everything past it stops |
+| <img src="../images/Gear_box.png"> | **Gear box** | 8 wood, 2 gear sets, 1 shaft | Watermills | Joins the shafts around it to a gear box directly above or below, so a mill wheel can drive the floor above |
+| <img src="../images/Iron_line_shaft.png"> | **Iron line shaft** | 3 iron, 1 bearing | Machined Tools | An all-iron run turns up to 16 lengths |
+| <img src="../images/Rope_drive_wheel.png"> | **Rope drive wheel** | 4 iron, 1 bearing, 2 rope | Machined Tools | Use rope on it to tie it to another free wheel up to 7 tiles away on the same level; the drive passes between them over walls, roads or water. Use rope on it again to take the rope off |
+
+- A run that is too long binds and carries nothing. Examine a part to see whether it turns.
+- Tie a [lever's cord](Guide_to_Levers_and_Mechanisms.md) to a shaft clutch to throw it in and out from a distance.
 
 The same movers drive a [trip hammer](Guide_to_Metallurgy.md#trip-hammer) beside an anvil.

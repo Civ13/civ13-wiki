@@ -23,7 +23,8 @@ A cord can work:
 * castle drop trapdoors;
 * gate winches, which raise or drop their portcullis or drawbridge at once;
 * bells, which ring an alarm;
-* rock drops.
+* rock drops;
+* shaft clutches, which a lever throws in and out (see [Mechanical power](Guide_to_Pottery_and_Lime.md#mechanical-power)).
 
 To take a cord off, use rope on the trigger again and pick **Cut the cord**; you get the rope back. Examine a trigger to see where its cords run.
 
