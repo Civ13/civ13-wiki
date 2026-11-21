@@ -36,11 +36,14 @@ Storms do not come from nowhere. Areas of low pressure drift across the land wit
 Weather does not stop at the edge of a land. Neighbouring lands and oceans share the same lows, highs and storms, so a storm you watch roll off the edge of the map carries on into the next region, and you can sail or walk on into it. In the middle latitudes, such as Europe, Asia and North America, weather usually moves from west to east. In the tropics and near the poles it usually moves from east to west. On Gaia the big lows and highs come in from the surrounding ocean, but the island's storms are its own.
 
 - **Seeing one coming.** If a storm is heading your way while you are outdoors, you are told which direction it is coming from. The cloud's shadow darkens the ground a little before the rain reaches you.
-- **What falls** depends on the land. The same storm rains on temperate ground, snows on the tundra and raises sand in the desert. It is light at the edge and heaviest in the middle.
+- **What falls** depends on the land and on how cold the air is where you stand. In the desert a storm raises sand. Elsewhere it rains when the air is above about 3 C, falls as sleet just above freezing, and snows when it is colder. So a winter storm may snow at night and rain on a mild afternoon, and hilltops get snow while the valley gets rain. A storm is light at its edge and heaviest in the middle.
+- **Freezing rain.** When the ground is below freezing but milder air is arriving ahead of a low, rain falls and freezes where it lands. It leaves the open ground icy for about ten minutes, longer while it stays cold. Running on it can make you slip unless your boots grip ice well.
+- **Hail.** The heart of a violent summer thunderstorm can hail. Hailstones hurt your head, so take cover or wear a helmet; any helmet or hard hat stops them.
+- **Hills** catch more rain and snow on the side the wind blows against, and the far side lies in a drier rain shadow.
 - **Severe storms** have a core of extreme weather: a blizzard in cold lands, a monsoon in the jungle, a sandstorm in the desert. Get under a roof before the core arrives. Blizzards and sandstorms pass on with the storm.
 - **Heat waves** settle over a place for a while and move on. You get thirstier, crops need more water and there is no dew. You are told when one arrives and when it has passed.
 - **Lightning and thunder.** Heavy rain storms bring lightning. You see the sky flash and hear the thunder a moment later, later the further away it struck. Lightning does not hurt you or start fires.
-- **Wind** rises under a storm and can blow an open umbrella inside out. The wind shifts by a quarter turn at a time and never swings right round at once.
+- **Wind** rises under a storm and can blow an open umbrella inside out. The wind can blow from any of eight directions. It shifts an eighth of a turn at a time and never swings right round at once.
 
 **Reading the weather ahead.** Three things tell you what is coming before the sky does:
 
