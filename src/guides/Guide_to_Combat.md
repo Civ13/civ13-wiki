@@ -87,8 +87,10 @@ In the **Restrain** stance, with grab intent, each click on the person you are h
 4. Click again to force them to the ground.
 5. Click again to tie their hands. You need handcuffs, rope or other restraints in your free hand, on your belt or in a pocket.
 6. If you carry legcuffs, click once more to bind their legs.
+7. If you carry a muzzle or a length of tape, click again to gag them.
+8. If you carry a blindfold, click again to blindfold them.
 
-Then lead them by the grab, or click yourself to carry them over your shoulders. The Restrain stance never tightens a grab past a firm hold, so it can't choke anyone. If they break free, start again from the grab. Following an arrest through takes dexterity well above average or a Student rank in Grappling; without that, the grab works as usual.
+Each of the last three steps uses something from your free hand, belt or pockets and takes a couple of seconds; skip any you have nothing for. Then lead them by the grab, or click yourself to carry them over your shoulders. The Restrain stance never tightens a grab past a firm hold, so it can't choke anyone. If they break free, start again from the grab. Following an arrest through takes dexterity well above average or a Student rank in Grappling; without that, the grab works as usual.
 
 ## Movement modes
 
