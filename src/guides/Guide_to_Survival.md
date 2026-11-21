@@ -55,6 +55,15 @@ A forecast supposes the wind holds. If the wind shifts, the storm can turn away,
 
 Roofs keep all of it off. Rain barrels fill, crops are watered and fires are doused only where the rain is actually falling.
 
+## Fog, mist, dew and frost
+
+The air holds more moisture in some lands than others, and it keeps that moisture as it cools at night.
+
+- **Fog and mist.** On a clear, still night in a humid land the air cools until it can hold no more water, and fog forms on the ground. It settles thickest in valleys, lingers into the morning and burns off by midday. A breeze keeps it from forming, and rain clears it. Over the sea and along the shore, damp air can lie as sea fog even by day while the wind is light. Dry lands such as deserts rarely see any.
+- **Seeing in fog.** Out of doors, mist hazes everything beyond about 5 tiles. In thick fog only the nearest 4 or 5 tiles stay clear, and nothing past about 9 can be seen. At night the fog is dark. Under a roof there is none. At sea, fog and mist shorten a lookout's range too.
+- **Dew.** On a clear, calm night the ground cools and dew settles on it. An open barrel left outdoors with nothing overhead collects it, and a little more in fog, but a windy or cloudy night brings none.
+- **Frost.** On the same clear, calm nights, when the air is near freezing, frost whitens the ground instead. It can nip back young crops; see the [farming guide](Guide_to_Farming.md#frost) for covering them.
+
 ## Rain and wet clothes
 
 Standing in the open during rain slowly soaks you, faster in heavy rain or a monsoon. Being indoors, under a pitched canopy or under a lean-to keeps the rain off entirely. Wet clothing insulates less, and on settlement maps soaked clothes also slow you down.
