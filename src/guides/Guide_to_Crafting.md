@@ -1387,3 +1387,17 @@ wrench to avoid pushing them on accident, but it is not necessary.</b>
 <b>Repairs</b>
 
  - Broken tank tracks could be repaired with the welding tool (made with steel.)
+
+#### Drawing a vehicle sheet
+
+Hold a blank **ship's draught** (1 soft wood, paper & printing) and a pen or pencil, use the draught and choose **Draw a vehicle on the sheet**. A window shows the vehicle from above, front to the top and its left on the left.
+
+- Above the plan, pick the **axis** (light axis, heavy axis or airframe controls), the size (2 to 5 tiles each way; a plane is 3 wide and 3 to 5 long, or 5 wide and 4 long), and the **engine**: its kind and its size in cc, as the engine maker makes it.
+- Pick a frame, a wheel or track, or a part from the palette and click tiles to draw it. Each tile holds one frame, a wheel or track under it, and one part: the engine, a fuel tank, a driver's (or pilot's), gunner's, loader's or commander's seat, a turret with a tank cannon and gunner's seat, or a cargo hold. Right-click takes a part off.
+- Selecting or pointing at anything shows what it is, what it is for and how to make it.
+- The figures show its weight empty and with every seat filled, how much it can move, and what it costs. The **Checks** list says what would stop it being assembled or moving (a gap in the frames, a bare corner, no engine, tank or seat, too much weight) as **Fix**, what will be left out or stall with a full crew as **Warning**, and advice as **Note**. Point at a finding to light its tiles.
+- **Save to the sheet** keeps it. Ready-made sheets (a field car, a cargo truck, a light tank and a light plane) are offered under **Start from**. A vehicle sheet can be copied and pasted as a design code (C13CAR/...).
+
+To build from it, lay the frames and parts by hand, set the axis down on one of the frames and **use the sheet on the axis** to clip it on. Clicking the axis then compares what is laid out with the sheet tile by tile and lists what is still missing or different. **Assemble it** offers the facing that matches the sheet first. **Unclip the sheet** takes it off again.
+
+To copy a vehicle you already have, hold a blank sheet of paper, click its axis and choose **Draw its lines**.
