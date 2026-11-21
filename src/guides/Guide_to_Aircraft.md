@@ -1,6 +1,6 @@
 # Aircraft
 
-Light planes are the first things in Civ13 that leave the ground. There are six hangar models: the two-seat **light plane**, the four-seat **cabin plane**, the small two-seat **trainer**, the **cargo plane**, the bigger **twin-engine plane** and the **airliner**, and planes can also be built by hand. Every plane takes off and lands best on a **runway** and flies on the air level above the map. Flying is only possible on maps that have an air level: at the moment that is [North and South America](../maps/The_Americas.md) and [Gaia](../maps/Gaia.md), the persistent lands. Elsewhere the plane rolls along but never lifts off, and the pilot is told that there is no airspace.
+Light planes are the first things in Civ13 that leave the ground. There are seven hangar models: the two-seat **light plane**, the four-seat **cabin plane**, the small two-seat **trainer**, the **cargo plane**, the bigger **twin-engine plane**, the **airliner** and the **helicopter**, and planes can also be built by hand or from a vehicle sheet. Every plane takes off and lands best on a **runway** and flies on the air level above the map. Flying is only possible on maps that have an air level: at the moment that is [North and South America](../maps/The_Americas.md) and [Gaia](../maps/Gaia.md), the persistent lands. Elsewhere the plane rolls along but never lifts off, and the pilot is told that there is no airspace.
 
 ![Two light planes on a tarmac runway laid across grass, one parked and one with its propeller spinning](../images/civ13-light-plane-sprites.png)
 
@@ -18,6 +18,7 @@ Two light planes on a runway, nose to the east.
 | Cargo plane | 44 aluminium, 16 steel, 6 glass, 2 cloth, 8 cable, 4 unattached wheels | Built at the hangar, after Aviation & Rocketry | Built at the hangar |
 | Twin-engine plane | 64 aluminium, 26 steel, 8 glass, 6 cloth, 14 cable, 4 unattached wheels | Built at the hangar, after Aviation & Rocketry | Built at the hangar |
 | Airliner | 90 aluminium, 26 steel, 14 glass, 12 cloth, 16 cable, 4 unattached wheels | Built at the hangar, after Aviation & Rocketry | Built at the hangar |
+| Helicopter | 80 aluminium, 34 steel, 12 glass, 8 cloth, 20 cable, 4 unattached wheels (its skids) | Built at the hangar, after Rocketry | Built at the hangar |
 | Aircraft bomb casing | 8 steel | Powered Flight | Industrial 126 |
 | Airframe section | 4 steel | Powered Flight | Industrial 126 |
 | Airframe controls | 12 steel | Powered Flight | Industrial 126 |
@@ -51,6 +52,14 @@ The **cargo plane** has the light plane's size, but its fuselage row is three **
 The **twin-engine plane** is **5 tiles** across the wings and 4 long, with an engine and propeller on each wing, the pilot and three passenger seats. The hangar builds it in the **5x5** square northeast of the press, so clear that much room first; a hangar placed for the smaller planes still works. Each engine has its own fuel tank, so fill both. Starting the engine from the control column starts the other engine too, and with both running it lifts more weight. A wing engine with an empty tank stays off. It needs **12 tiles** of runway or **24** of open ground, and to use a runway every tile under it must be runway, so lay it **5 tiles wide**. It is too big to hangar.
 
 The **airliner** is the twin-engine plane with a long cabin: 5 tiles across and **6** long, with the pilot and **six passenger seats** either side of an aisle you can walk down, and a door on each cabin row. The hangar builds it in a **6x6** square northeast of the press. Like the twin it has an engine and a fuel tank on each wing. It needs **16 tiles** of runway, 5 wide, or **30** of open ground, and more when it is loaded. It is too big to hangar.
+
+## The helicopter
+
+After **Rocketry** the hangar also builds a **UH-1 helicopter**: 3 tiles wide and 7 long, with the pilot on the front right, a co-pilot beside them and five cabin seats. It is built in the **7x7** square northeast of the hangar, so clear that much room first. Its turboshaft engine burns **diesel**. It needs no runway: start the engine, and **Climb** spools the rotor up for a few seconds and lifts it straight up. Stopped in the air it hovers and turns on the spot. Descend close to the ground at low speed to set it down on any dry, fairly level ground. If the engine dies in the air it sinks fast and lands hard, so restart it quickly. It is too big to hangar.
+
+## Building a plane from a sheet
+
+A plane drawn on a [vehicle sheet](Guide_to_Crafting.md#drawing-a-vehicle-sheet) can be built at the hangar: use the sheet on the hangar, with the square northeast of it clear as far as the plane is long. See the crafting guide for what it costs.
 
 ## Building a plane by hand
 
