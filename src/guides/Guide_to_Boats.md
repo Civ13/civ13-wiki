@@ -560,6 +560,7 @@ Click the tiller to sail:
 | **Run dark / Show her lights** | Hides her name from other ships, at slow ahead only |
 | **Grapple a ship** | Throws lines at a ship within 3 tiles and holds both fast (see [Grappling and boarding](#grappling-and-boarding)) |
 | **Ship's papers** | Register her so nobody can sail her away while you are gone (see [Ship's papers](Guide_to_Aircraft_Carriers.md#ships-papers)) |
+| **Draw her lines** | Hold a blank sheet of paper: it becomes her **ship's draught** (see [Ship's draughts](#ships-draughts)) |
 | **Refit the hull** | At anchor: surveys the hull again after you added or cut away floors |
 | **Strike the hull** | She stops being a ship; the floors stay where they are |
 
@@ -573,6 +574,15 @@ Click the tiller to sail:
 - Build what you like aboard: walls, a cabin, crates, cannon. Anything standing on her floors rides along at once. New floors that widen the hull join her when you **refit**.
 - **Upper deck:** where the world has a level above the sea, as on Gaia and the Americas, a roof you build over her deck gives a floor on the level above, the same as a roof over a house. That **upper deck** sails and turns with her, along with everyone and everything on it. Hold the roofs up with walls or pillars on her deck, and climb up with a **ladder** built on her deck. The tiller counts the tiles of both decks. She stops and tells you why when a bridge, another floor or anything solid stands in the air ahead of her upper deck. Her deck and upper deck together may be at most **300 tiles**. A ship with an upper deck cannot yet cross the sea or set out on a voyage, so take her roofs down first.
 - **Vehicles:** a car, truck or tank driven onto her floors rides along and turns with her, and drives off the way it then faces. Park it **wholly aboard**: while a vehicle stands half on her floors and half off, she will not move or come about, and everyone aboard is told which vehicle is in the way. The same holds for slipway ships and the aircraft carrier.
+
+### Ship's draughts
+
+A **ship's draught** is a ship drawn on paper: every tile of her hull, the floor it has, what stands on it and where she has deck above, drawn with her bow to the top of the sheet.
+
+- **Drawing one:** hold a blank sheet of paper and click her tiller, then choose **Draw her lines**. Only her crew can draw her, and only while she is commissioned.
+- **Reading it:** examine the sheet, or use it in your hand. It tells you how many tiles she has and whether she is a small craft, a boat or a ship. It also lists the materials her floors and fittings cost to build by hand, and the speed she should make empty under sail on a reach and with every rowing bench manned. If her masts need more weight low in her, it tells you about how much ballast to carry.
+- **Sharing it:** use the sheet and choose **Copy her design code** for a code starting `C13SHIP`, which you can keep outside the game. **Paste a design code** draws a shared ship onto a sheet, replacing what was on it.
+
 - **Wiring:** cables, engines, generators and batteries aboard stay connected when she moves, so lamps and machines keep running under way. A cable that runs from her to the shore parts as soon as she moves. The same holds for slipway ships and the aircraft carrier.
 - Once commissioned she can sail onto deep salt water. If you strike her out there, the floors are plain planks again and will not last on the deep sea.
 - If the tiller is destroyed she is a raft of planks again. Set a new tiller and commission her.
