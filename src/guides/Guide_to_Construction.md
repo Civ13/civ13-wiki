@@ -1005,6 +1005,31 @@ A concrete tower goes up to six storeys the same way: lay a concrete or stone fl
 
 <img src="../images/hud_up_down.png" alt="The up and down buttons, lit and greyed out">
 
+#### Balconies and railings
+
+A balcony is an upper floor that reaches out past its walls: put a [corbel](#pillars-buttresses-and-corbels) under the wall's edge and the wall holds a floor one tile further out. Walking off its edge is a hard fall, so put a railing along it.
+
+**To build a railing, stand on the floor next to the edge and face the drop**, then pick it from the material's crafting menu under **railings**. It runs along that side of the tile you stand on. Each side of a tile takes one railing. Build two on a corner tile, facing each way, to turn the corner.
+
+| Railing | Made from | Research |
+| --- | --- | --- |
+| **Wooden railing** | 2 finished planks | Primitive Construction |
+| **Stone balustrade** | 3 stone | Stone Masonry |
+| **Sandstone balustrade** | 3 sandstone | Stone Masonry |
+| **Brick railing** | fired bricks: use them in hand on a floor and pick **Brick Railing** | Brickmaking |
+| **Wrought iron railing** | 2 iron | Iron Smithing |
+| **Steel pipe railing** | 2 steel | Steelmaking |
+| **Glass balustrade** | 3 glass | Modern Construction |
+
+Every kind also comes as a **gate**, which costs one more of the same material (fired bricks: **Brick Railing Gate**). Click a gate to open or shut it. Use a gate where a ladder or the top of a stair meets the balcony.
+
+- **Nobody walks past a railing.** You can still climb over it with grab intent. If the other side is a drop, the game asks first, because you will fall a storey.
+- **Climbing down** over the open edge past a railing takes a little longer.
+- **Throwing someone over:** a strong grab can throw someone over a railing, and over a balcony that means a fall.
+- **Shots and thrown things fly over** a railing. If you lie down behind a stone, sandstone or brick balustrade, it stops some of the shots coming at you from the far side.
+- **A hammer takes a railing down** and gives back what it cost. A railing falls with the floor it stands on, and a hard enough blow breaks it.
+- Railings work on any floor, not just upstairs: along a roof terrace, a wall walk or the edge of a stairwell.
+
 #### Hoisting heavy loads
 
 What you pull comes with you between storeys when it makes sense:
