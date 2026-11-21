@@ -65,6 +65,19 @@ Hearing and speaking slow to half speed once you are Conversational.
 
 Roughly, living among speakers gets you from nothing to Conversational in about a week, while ten one-minute lessons do it in ten minutes.
 
+## Languages that grow apart
+
+A language can split as the eras pass, the way Latin became French and Spanish. It happens to a nation's own speakers of their mother tongue.
+
+- **Talking among yourselves pulls your speech away.** When the native speakers of a nation mostly hear each other, their way of speaking slowly drifts from everyone else's. It takes days of play, not hours.
+- **Talking with outsiders holds it together.** Hearing people from other nations, or nationless people, who speak the same language well slows the drift, and a lot of such talk undoes it.
+- **The split comes with a new era.** When the world enters a new era, a nation whose speech has drifted far enough, and which has at least five living native speakers, is told its language is becoming one of its own. The nation's leader names it with **Name Our Language** in the IC tab. Naming needs a Discord-verified account (OOC > Verify Discord), and the name can't be changed later.
+- **Nobody loses anything.** The nation's native speakers get the new language as their mother tongue and speak it by default. They still know the old one. Speakers of the old language follow most of the new one, and it is easy to learn from its speakers. It has its own say key, shown in **Check Known Languages**.
+- **It keeps its writing.** A new language writes in the same script as the language it grew from, so papers stay readable both ways.
+- **It can grow further apart.** If the new language's speakers keep to themselves through another era, the two languages understand a little less of each other each time.
+
+Each language can split at most twice on a land. Travellers carry their languages with them, so a land that has never heard a new language learns it from them.
+
 ## Paper and books
 
 - You need to be **Conversational** in a language to read or write paper in it. See [Paperwork](Guide_to_Paperwork.md).
