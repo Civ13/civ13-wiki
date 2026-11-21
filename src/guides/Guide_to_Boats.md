@@ -583,6 +583,8 @@ A **drydock** is a basin you dig at the shore, closed off from the sea by a **do
 
 Once the basin is dry she lies **dry**, just as when she is [hauled out on a slipway](#hauling-a-ship-out-for-repairs). You can caulk her, scrape and copper her bottom and replace her patches. The gate offers **Survey her condition**.
 
+**Keel blocks** (6 wood, construction, Wagons & Ships) can be set on the dock floor or a slipway berth for a ship to rest on. They are for show: she lies dry without them.
+
 To leave, choose **Open the sluices** at the gate. After ten seconds the basin floods again, then choose **Open the gate** and sail out. Even while the basin is flooded, a hull lying wholly inside it counts as at a berth, as in a [boathouse slip](#working-on-a-boat-in-the-boathouse-slip).
 
 ### Building and refitting at a berth
