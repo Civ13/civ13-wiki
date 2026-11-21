@@ -31,6 +31,8 @@ On lands with a wet and a dry season, the dry season is the hotter one. These ar
 
 Weather comes as storms that travel across the land with the wind. Rain, snow or blowing sand falls only under the storm, so one valley can be soaked while the next is dry, and you can walk out from under a storm or wait for it to pass.
 
+Storms do not come from nowhere. Areas of low pressure drift across the land with the wind, and storms gather along their fronts: the air ahead of a low turns milder, and colder air follows behind it. High pressure brings settled, clear weather, and a strong high in summer can stall into a heat wave. On hot, humid afternoons a thunderstorm can also build suddenly overhead, with heavy rain and lightning, and blow itself out in a quarter of an hour or so.
+
 - **Seeing one coming.** If a storm is heading your way while you are outdoors, you are told which direction it is coming from. The cloud's shadow darkens the ground a little before the rain reaches you.
 - **What falls** depends on the land. The same storm rains on temperate ground, snows on the tundra and raises sand in the desert. It is light at the edge and heaviest in the middle.
 - **Severe storms** have a core of extreme weather: a blizzard in cold lands, a monsoon in the jungle, a sandstorm in the desert. Get under a roof before the core arrives. Blizzards and sandstorms pass on with the storm.
