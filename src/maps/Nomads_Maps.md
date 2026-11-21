@@ -159,6 +159,8 @@ A small island for 10-15 players, divided by a lava region, jungle/part swamp, a
 
 ## Europe
 
+The persistent land of Europe in the regions of the world has its own page: see [Europe](../regions/Europe.md). This section describes the Nomads map.
+
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/static-067478b82c7a/nomads__nomads_europe/nomads_europe__all_z_overview.png" width="433" height="592" loading="lazy" alt="Static sprite render of nomads_europe.dmm showing all authored layers: z=1">
 <figcaption>Static map layout of <code>nomads_europe.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
@@ -182,6 +184,8 @@ Section of Nomads_World project (1/4)
 
 ## Africa
 
+The persistent land of Africa in the regions of the world has its own page: see [Africa](../regions/Africa.md). This section describes the Nomads map.
+
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/static-58404f5bd16e/nomads__nomads_africa/nomads_africa__all_z_overview.png" width="960" height="591" loading="lazy" alt="Static sprite render of nomads_africa.dmm showing all authored layers: z=1, 2">
 <figcaption>Static map layout of <code>nomads_africa.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
@@ -194,6 +198,8 @@ Based off of all of Africa: Desert, Savannah, Jungle, Savannah.
 Section of Nomads_World project (2/4)
 
 ## North America
+
+The persistent land of North America in the regions of the world has its own page: see [North America](The_Americas.md). This section describes the Nomads map.
 
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/static-067478b82c7a/nomads__nomads_north_america/nomads_north_america__all_z_overview.png" width="960" height="413" loading="lazy" alt="Static sprite render of nomads_north_america.dmm showing all authored layers: z=1, 2">
@@ -209,6 +215,8 @@ Choose your settlement with the local climate in mind: northern regions need col
 Section of Nomads_World project (3/4).
 
 ## Asia
+
+The persistent land of Asia in the regions of the world has its own page: see [Asia](../regions/Asia.md). This section describes the Nomads map.
 
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/static-58404f5bd16e/nomads__nomads_asia/nomads_asia__all_z_overview.png" width="960" height="592" loading="lazy" alt="Static sprite render of nomads_asia.dmm showing all authored layers: z=1">

@@ -104,7 +104,7 @@ The HUD shows the plane's height while you are in the pilot's seat, such as **LO
 
 ## Flying to another continent
 
-Every continent can be reached by air: North and South America, Gaia, Europe, Asia, the Jungle and the Desert.
+Every land can be reached by air: Gaia, North and South America, Europe, Africa, Asia, Oceania, Greenland and Antarctica (see [Regions of the World](../regions/Regions.md)).
 
 1. Fly within 8 tiles of the edge of the map.
 2. Use **Fly to another land** on the control column. It lists each continent you can reach, its direction and its distance in tiles.

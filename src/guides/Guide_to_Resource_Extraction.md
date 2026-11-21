@@ -36,19 +36,21 @@ On the continents, each one is rich in its own resources, which turn up **twice 
 
 | Continent | Rich in |
 | --- | --- |
-| Gaia | copper |
-| Jungle | tin |
-| North America | iron and lead |
-| Europe | coal and calamine (zinc) |
-| Asia | saltpeter, silver and gemstones |
-| Desert | sulphur |
-| South America | gold, silver and bauxite |
+| [Gaia](../maps/Gaia.md) | copper |
+| [North America](../maps/The_Americas.md) | iron and lead |
+| [South America](../maps/The_Americas.md) | gold, silver and bauxite |
+| [Europe](../regions/Europe.md) | coal and calamine (zinc) |
+| [Africa](../regions/Africa.md) | sulphur and tin |
+| [Asia](../regions/Asia.md) | saltpeter, silver and gemstones |
+| [Oceania](../regions/Oceania.md) | bauxite, uranium and gemstones |
+| [Greenland](../regions/Greenland.md) | calamine (zinc), lead and gold |
+| [Antarctica](../regions/Antarctica.md) | coal |
 
 Everywhere else these are scarcer: copper, tin, coal, calamine, silver, gold and gems turn up at half the usual rate, and saltpeter, sulphur, lead and bauxite at a third (these lower rates phase in over a world's first two weeks). **Iron** is found at the usual rate on every continent. Gaia also keeps tin at the usual rate, so you can reach bronze and iron there on your own, but it has **no bauxite or uranium**: later industry needs trade or a foothold on another continent. This applies to rock walls, gold and silver lodes, gem pockets and mountain seams. Lands across the sea keep their own ores. **Province Holdings** on the Faction tab shows what your continent is rich in.
 
 ### Rubber trees
 
-Rubber comes only from the jungle. In the jungles of **Africa**, **Asia** and the **Jungle**, every living jungle tree is a rubber tree. Other continents have none; lands across the sea keep theirs.
+Rubber comes only from the jungle. In the jungles of **Africa** and **Asia**, every living jungle tree is a rubber tree. Other continents have none; lands across the sea keep theirs.
 
 1. Hold a **knife** in one hand and use an open container (a bucket, bowl or jar) on the tree. It catches **10 units of latex**. A tree can be tapped again after about 20 minutes.
 2. Use a container holding at least 10 latex on a **sulphur rock** to cure one **sheet of rubber**.
@@ -141,7 +143,7 @@ Surplus stone blocks can be crushed for a chance of sand, ore and rare minerals:
 
 Wooden oil wells remain renewable and must sit on an oil spring. Use a barrel on the well to load it; click a loaded well to remove the barrel, or an empty well to connect a nearby barrel. Extraction runs when the spring and contained barrel are valid. The well does not fill unrelated barrels on the ground. Unloading or destroying the well returns its barrel. Saving retains the barrel and petroleum; check the barrel connection after loading before collecting output.
 
-On the continents, oil springs on land flow only on the **desert ground** (desert sand or dust) of **Africa** and the **Desert**. Elsewhere on the continents they run dry for good, after the same two-week phase-in as the scarcer ores, and a well over a dry spring stops. Examine a spring to see whether it still flows. Lands across the sea keep their springs. Offshore rigs work on every continent.
+On the continents, oil springs on land flow only on the **desert ground** (desert sand or dust) of **Africa**. Elsewhere on the continents they run dry for good, after the same two-week phase-in as the scarcer ores, and a well over a dry spring stops. Examine a spring to see whether it still flows. Lands across the sea keep their springs. Offshore rigs work on every continent.
 
 ## Offshore drilling rigs
 
