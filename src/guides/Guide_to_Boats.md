@@ -579,12 +579,16 @@ Click the tiller to sail:
 
 A **ship's draught** is a ship drawn on paper: every tile of her hull, the floor it has, what stands on it and where she has deck above, drawn with her bow to the top of the sheet.
 
-- **Designing one:** craft a blank **ship's draught** (1 wood, paper & printing, with Papermaking). Hold it with a pen, pencil or pigment in your other hand, use it and choose **Draw on the sheet**. A drawing window opens with the sheet as a grid, bow to the top:
-    - lay **plank** or **steel** floors, mark tiles with **deck above**, and place fittings: tiller or steering oar, ship mast, rowing bench, killick, iron anchor, hand bilge pump, plank wall, door, window, crate and bed. Benches and doors take a **facing**;
-    - **Rectangle** fills a box at once, and **Mirror port/starboard** copies what you draw across the middle line;
+- **Designing one:** craft a blank **ship's draught** (1 wood, paper & printing, with Papermaking). Hold it with a pen, pencil or pigment in your other hand, use it and choose **Draw on the sheet**. A drawing window opens with the sheet as a parchment grid, bow to the top, with port and starboard marked on its edges:
+    - pick what to draw from the pictures on the right. Under **Hull**: **plank floor**, **steel floor**, **deck above** and **erase**. Under the other headings, the fittings: tiller or steering oar, ship mast, rowing bench, killick, iron anchor, hand bilge pump, wood crate, bed, plank wall, door and window. A fitting needs a floor under it;
+    - click or drag on the sheet to draw. The tile under the pointer shows what a click will lay, and the line under the sheet names what is already there. **Right-click** takes a fitting off a tile, or the deck above when that tool is picked;
+    - benches and doors take a **facing**: use the arrows, or press **R** to turn the piece. A gold arrow on the sheet shows which way each one faces;
+    - **Box** fills a dragged box at once instead of drawing tile by tile, and **Mirror** copies what you draw across the dashed middle line;
+    - **Fit ship** shows her as large as the window allows and **Whole sheet** shows all of it. The mouse wheel or **+** and **-** zoom, and dragging with the middle button moves the sheet;
+    - **Undo** (Ctrl+Z) and **Redo** (Ctrl+Y) step back and forward, and **Clear** wipes the sheet;
     - **Start from** loads a ready-made rowing galley, sloop or steel cutter to change as you like;
-    - the panel under the tools updates as you draw with her size, what she costs, her speed and anything that stops her being built (she needs exactly one tiller or steering oar, and every tile must touch another);
-    - **Save to the sheet** keeps the drawing, finished or not.
+    - **Her figures** updates as you draw: her size against the most tiles a hull may have, her decks, what she costs, her speed, any ballast she wants, and a green note when she can be built or an orange one listing what stops her (she needs exactly one tiller or steering oar, and every tile must touch another);
+    - **Save to the sheet** keeps the drawing, finished or not. **Unsaved changes** shows beside her name until you do.
 - **Copying a ship afloat:** hold a blank sheet of paper and click her tiller, then choose **Draw her lines**. Only her crew can draw her, and only while she is commissioned.
 - **Reading it:** examine the sheet, or use it in your hand. It tells you how many tiles she has and whether she is a small craft, a boat or a ship. It also lists the materials her floors and fittings cost to build by hand, and the speed she should make empty under sail on a reach and with every rowing bench manned. If her masts need more weight low in her, it tells you about how much ballast to carry.
 - **Sharing it:** use the sheet and choose **Copy her design code** for a code starting `C13SHIP`, which you can keep outside the game. **Paste a design code** draws a shared ship onto a sheet, replacing what was on it.
