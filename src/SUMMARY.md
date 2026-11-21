@@ -40,6 +40,7 @@
         - [Power & Batteries](guides/Guide_to_Power.md)
         - [Factory Automation](guides/Guide_to_Factory_Automation.md)
         - [Integrated Circuits](guides/Guide_to_Integrated_Circuits.md)
+        - [Levers & Mechanisms](guides/Guide_to_Levers_and_Mechanisms.md)
     - [Food & Animals]()
         - [Cooking](guides/Guide_to_Cooking.md)
         - [Farming](guides/Guide_to_Farming.md)
