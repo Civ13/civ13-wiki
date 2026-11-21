@@ -156,6 +156,8 @@ On persistent worlds, the dead and anyone who picks **Observe** in the lobby wat
 
 Observers from the lobby start out where new players arrive.
 
+A small bar at the bottom of the screen shows whether your spirit is still bound, how long until you have moved on, and how far you can drift from your body. Its buttons haunt, jump or return you to your body, and clicking the status starts moving on or respawns you once you are free.
+
 ### Triage tags
 
 When several people are hurt at once, a medic, or anyone with a **medical** skill of 50 or more, can right-click a person next to them and choose **Triage Tag**. The tag shows on the body, and anyone who examines the person sees it.
