@@ -122,6 +122,44 @@ A nation holds **3 factions** at first. To hold more, a member faction builds a 
 
 The best assembly any member faction keeps standing counts. If it burns or loses its roof, the nation can take in fewer factions, but no faction is removed.
 
+#### Nation government
+
+Every nation starts as a **confederation**: the rules above, one vote per member faction. Under **Nation > Government** it can choose another system. Each member faction keeps its own leader, offices and courts whatever the nation's government.
+
+| Government | Head | Needs | What changes |
+| --- | --- | --- | --- |
+| Confederation | none | - | Member factions vote on everything; any member may leave at once. |
+| Theocracy | High Priest | - | The leader of the state faith rules alone. Leaving takes a day's notice. |
+| Monarchy | Monarch | Classical Age | The monarch rules for life, admits members and chooses the money. Holds 1 more faction. Leaving takes 2 days' notice. |
+| Dictatorship | Dictator | Classical Age | The dictator rules alone. Holds 2 more factions. Leaving takes 3 days' notice. |
+| Republic | Consul | Classical Age | A senate of faction leaders votes, each weighted by its active citizens. The consul is elected every 14 days. Holds 1 more faction. |
+| Democracy | Archon | Classical Age | Citizens vote in referendums and elect the archon every 7 days. |
+| Merchant league | Doge | Medieval Age | A council of faction leaders votes, each weighted by its strongbox (no faction over two fifths). The doge is elected every 14 days. Holds 1 more faction. |
+
+A government's age counts when most member factions' lands have reached it. Under a confederation, two thirds of the member factions must agree to a change. A ruler decides alone, and elective governments put it to a vote. A change takes effect a day after it passes, at most once a week. The head must be a citizen with a verified Discord account.
+
+**Citizens.** In elective governments, eligible citizens can vote, stand for election and, in a democracy, propose motions from **Nation > Motions and elections**. An eligible citizen has a verified account, has been a member for 3 days and has played this week. In a democracy, a motion needs over half the votes, with at least a third of eligible citizens taking part. A change of government needs two thirds of the votes, with half of them taking part. In a senate or council, motions pass on the weighted votes of faction leaders, and a change of government still needs two thirds.
+
+**Succession.** A head who stays away too long loses the seat. That is 7 days for a monarch or High Priest and 3 days for the others.
+
+* A monarch's chosen heir (**Name an heir**) takes the throne. With no heir, any verified citizen can claim the empty throne by holding a nation assembly for 30 minutes. Another citizen standing nearby pauses the count.
+* A consul's deputy (**Name a deputy**) stands in while a new election opens. An archon or doge is replaced by an election.
+* An absent dictator's nation falls back to a confederation.
+* A theocracy's seat passes to whoever leads the state faith.
+
+While a ruler's seat is empty, the member factions decide as in a confederation.
+
+**Revolt.** Citizens can overthrow any government:
+
+1. An eligible citizen opens a petition from **Nation > Revolt**, naming the government they want and its head.
+2. Eligible citizens have 2 days to sign it. The petition needs half of the eligible citizens. Against a dictatorship it needs only a third, a merchant league two fifths, a republic two thirds and a democracy three quarters.
+3. Once the petition fills, every citizen is warned. From a day later, the signers have 3 days to hold any member faction's nation assembly for 30 minutes. In a province, this only counts during its defence window. A citizen who did not sign standing within 3 tiles pauses the count.
+4. Success installs the new government at once.
+
+After a filled petition, the nation cannot be petitioned again for a week. Signing is not a crime, only the number of signers is shown, and a failed revolt removes no one from play.
+
+**Secession.** Under any government but a confederation, **Secede** gives notice. **Stay** withdraws it before the notice runs out.
+
 #### Starting with your faction
 
 Once you have joined a faction in character, your new characters can start with it. When you join the round, you are asked whether to start **here, on your own** or **with** your faction. Choosing your faction starts you beside one of its [recruitment stations](#recruitment-stations), already a member. You cannot start with a faction you have never joined in play, and the faction needs a working recruitment station (see [Provinces](#provinces)) with free space beside it.
