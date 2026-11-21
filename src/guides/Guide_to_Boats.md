@@ -1001,7 +1001,15 @@ Both sweeps are bolted to a deck with a wrench, then clicked to stream them over
 
 ## Sailing and the wind
 
-Sails depend on the wind. The **Status** tab shows the current wind, for example "A moderate Northern breeze". The game also announces in chat when the wind changes. The wind is named after the direction it **blows from**, so a northern wind pushes ships south. The ship's wheel and the tiller tell you how the wind stands to her now.
+Sails depend on the wind. The **Status** tab shows the prevailing wind, for example "A moderate Northern breeze", and the game announces in chat when it changes. It can blow from any of eight directions, north, north-east, east and so on round the compass, and turns an eighth of the way at a time. The wind is named after the direction it **blows from**, so a northern wind pushes ships south. The ship's wheel and the tiller tell you how the wind stands to her where she is now.
+
+The wind where you are is not always the prevailing wind:
+
+- **Round storms and low pressure** the wind picks up and swings round them. North of the equator it circles them anticlockwise, south of it clockwise.
+- **Along a coast** a sea breeze blows in off the water on sunny afternoons, and a land breeze blows back out to sea on clear nights. Cloud weakens both.
+- **In hilly country** hilltops and ridges are windier and valleys are sheltered. A valley also turns the wind along its floor, and on clear nights cold air drifts down the slopes into it.
+
+A **weather vane** reads the wind on its own spot. Build one by your harbour or mill to see what the wind is doing there.
 
 | Course | Speed |
 | --- | --- |

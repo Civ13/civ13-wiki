@@ -26,7 +26,7 @@ These feed the cable grid from the weather instead of fuel. Build them outdoors 
 | Photovoltaic panel | Cold War, Automation | 10 electronics | 10 kW in daylight, nothing at night |
 | Wind turbine | Modern, Digital Computing | 30 steel | 45 kW |
 
-Wind output follows the wind speed shown when you examine the generator. The wind charger gives nothing in calm air, its full output in a strong wind, and furls to a fraction of it in a gale. The wind turbine reaches full output in strong winds and keeps it in a gale. Two rotors closer than three tiles share the same air and each loses half its output, so space them out.
+Wind output follows the wind speed where the generator stands, shown when you examine it. Hilltops and coasts catch more wind than sheltered valleys. The wind charger gives nothing in calm air, its full output in a strong wind, and furls to a fraction of it in a gale. The wind turbine reaches full output in strong winds and keeps it in a gale. Two rotors closer than three tiles share the same air and each loses half its output, so space them out.
 
 The **waterwheel generator** runs on a river current. Rivers flow on North America, South America, Gaia, Europe, Jungle and Asia; lakes, ponds, swamps and the sea are still. Examine the water to see which way it flows. To build a wheel, stand on the bank, face a flowing river tile and craft it: the wheel goes into the water in front of you and turns to face the current. It gives its full output day and night as long as its own tile flows, and nothing in still water. Use a cable coil on the wheel from the bank to run the cable ashore.
 
