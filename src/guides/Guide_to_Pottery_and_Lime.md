@@ -102,6 +102,18 @@ Transmission parts carry a mover's drive to machines further away. Every fastene
 - A run that is too long binds and carries nothing. Examine a part to see whether it turns.
 - Tie a [lever's cord](Guide_to_Levers_and_Mechanisms.md) to a shaft clutch to throw it in and out from a distance.
 
+### Counterweight drum and steam engine
+
+Two more movers drive machines the same way as the four above.
+
+| | Mover | Made from | Research | Turns when | Work takes | Strength |
+| --- | --- | --- | --- | --- | --- | --- |
+| <img src="../images/Counterweight_drum.png"> | **Counterweight drum** | 10 wood, 1 gear set, 1 shaft, 2 rope | Watermills | its stone weight is falling | 60% | 1 |
+| <img src="../images/Stationary_steam_engine.png"> | **Stationary steam engine** | 16 iron, 1 gear set, 1 shaft, 2 bearings | Steam Power | it has fuel in its firebox | 35% | 6 |
+
+- **Counterweight drum:** click it with an empty hand on Help intent to crank the weight up. Each 10 seconds of cranking stores about 5 minutes of fall, up to 15 minutes. Click it on any other intent to set or let off its brake. A [lever's cord](Guide_to_Levers_and_Mechanisms.md) can also work the brake: thrown over, it lets the weight fall; thrown back, it holds it.
+- **Stationary steam engine:** stoke it with coal, charcoal or logs. It burns a minute of fuel every minute whether or not anything is working, and holds up to an hour. Coal lasts 4 minutes a piece, charcoal 3, wood 1.
+
 ### Millstones and sash saws
 
 These two machines work on their own while they are driven. Fill the hopper, and nobody has to stand at the machine. Both are built under Watermills, and each draws 2 from its drive.
