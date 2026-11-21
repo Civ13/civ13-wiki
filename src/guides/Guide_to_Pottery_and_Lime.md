@@ -114,18 +114,23 @@ Two more movers drive machines the same way as the four above.
 - **Counterweight drum:** click it with an empty hand on Help intent to crank the weight up. Each 10 seconds of cranking stores about 5 minutes of fall, up to 15 minutes. Click it on any other intent to set or let off its brake. A [lever's cord](Guide_to_Levers_and_Mechanisms.md) can also work the brake: thrown over, it lets the weight fall; thrown back, it holds it.
 - **Stationary steam engine:** stoke it with coal, charcoal or logs. It burns a minute of fuel every minute whether or not anything is working, and holds up to an hour. Coal lasts 4 minutes a piece, charcoal 3, wood 1.
 
-### Millstones and sash saws
+### Hopper machines
 
-These two machines work on their own while they are driven. Fill the hopper, and nobody has to stand at the machine. Both are built under Watermills, and each draws 2 from its drive.
+These machines work on their own while they are driven. Fill the hopper, and nobody has to stand at the machine. Both are built under Watermills, and each draws 2 from its drive.
 
 | | Machine | Made from | Feed | Each step |
 | --- | --- | --- | --- | --- |
 | <img src="../images/Millstones.png"> | **Millstones** | 12 stone, 1 gear set, 1 shaft | Wheat, oats, barley or rice, one at a time or a whole sack at once | Grinds 2 grain into flour (rice comes out as rice) |
 | <img src="../images/Sash_saw.png"> | **Sash saw** | 10 wood, 1 gear set, 1 shaft, 2 iron | Logs | Saws 1 log into 2 planks and a piece of bark |
+| <img src="../images/Fulling_stocks.png"> | **Fulling stocks** | 10 wood, 1 shaft | Wool piles | Beats 2 wool into 2 wool cloth |
+| <img src="../images/Bark_stamps.png"> | **Bark stamps** | 8 wood, 1 shaft, 2 iron | Tree bark | Crushes 2 bark into 4 handfuls of <img src="../images/Tanbark.png"> **tanbark** |
 
 - The hopper holds 20. Click the machine with an empty hand to see how full it is and whether anything is stopping it.
 - A step takes about a minute behind a horse gin, a little less behind a mill wheel, and longer behind a treadwheel or an overloaded drive.
 - It stops once 20 products lie on its tile, and carries on when you clear them away.
 - Take it apart with a hammer on Harm intent and you get back whatever was still in the hopper.
+- Tanbark soaks out tannin just like bark (10 water for 10 tannin a handful), and a tanning drum takes it as bark, so stamping doubles the tannin from your bark.
+- Every hopper has a gate that a [lever's cord](Guide_to_Levers_and_Mechanisms.md) can shut and open. A shut gate holds the feed back until it is opened again.
+- [Factory belts and arms](Guide_to_Factory_Automation.md) can fill the hopper and take the products away. A belt beside the machine that runs away from it carries off each product as it is made.
 
 The same movers drive a [trip hammer](Guide_to_Metallurgy.md#trip-hammer) beside an anvil.

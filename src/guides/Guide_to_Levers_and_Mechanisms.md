@@ -25,6 +25,9 @@ A cord can work:
 * bells, which ring an alarm;
 * rock drops;
 * shaft clutches, which a lever throws in and out, and counterweight drums, whose brake a lever sets and lets off (see [Mechanical power](Guide_to_Pottery_and_Lime.md#mechanical-power)).
+* the hopper gates of millstones, sash saws, fulling stocks and bark stamps: a lever thrown over opens the gate and thrown back shuts it (see [Hopper machines](Guide_to_Pottery_and_Lime.md#hopper-machines));
+* [sluice gates](Guide_to_Floods.md) in a levee: a lever thrown over draws the boards up and thrown back lowers them;
+* relays and mechanism ports (below).
 
 To take a cord off, use rope on the trigger again and pick **Cut the cord**; you get the rope back. Examine a trigger to see where its cords run.
 
