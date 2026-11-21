@@ -134,6 +134,8 @@ To make hand wraps, hold cloth, wool cloth or leather, switch to **grab** intent
 
 Pulled punches never hurt your hand.
 
+You can also toughen your knuckles over time on a makiwara post, a gravel pail or bare rock. See [Hardening your hands](Guide_to_Exercise.md#hardening-your-hands).
+
 ### Charges, braced spears and shield walls
 
 - **Mounted charge:** ride a horse straight in one direction for four steps with a spear, pike or halberd in your active hand, and you strike the first person standing in your path. The blow hits hard, knocks them down and drives them back a tile. A shield facing you can turn it aside. Turning or slowing down loses the charge.

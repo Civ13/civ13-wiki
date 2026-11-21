@@ -50,6 +50,7 @@ P.S. 20 is a lie, it is 2**<u>.</u>**0
 | Farming      | - Ability to check plants' water level<br />- Ploughing speed<br />- Seeds and crops per harvest | - Planting seeds<br />- Ploughing fields<br />- Harvesting crops |
 | Hunting      | - Meat and fat from butchering animals                       | - Butchering dead animals                                    |
 | Throwing     | - Chance to hit a target with throwing weapons                | - Throw weapons designed for throwing                                  |
+| Unarmed      | - Damage of your punches                                      | - Landing punches<br />- Striking a makiwara post, gravel pail or rock to [harden your hands](Guide_to_Exercise.md#hardening-your-hands) |
 
 ## Traits
 
