@@ -1362,7 +1362,10 @@ wrench to avoid pushing them on accident, but it is not necessary.</b>
 6.  **Build a vehicle axis on any frame of the tank** and click it. It
     shows a build sheet: the size of the frame, the parts it found, and
     what the tank still needs before it will drive (an engine, a fuel
-    tank, a driver's seat, a wheel or track on each corner). If the
+    tank, a driver's seat, a wheel or track on each corner). It warns
+    when the engine is too weak for the weight and would stall, when the
+    fuel tank is empty or holds a fuel the engine cannot burn, and notes
+    when there is no vehicle lamp for night driving. If the
     frames cannot be a vehicle, it says why. Choose **Assemble it**, then
     pick which way the front points, a name and a colour. The light axis
     carries 800 weight and the heavy axis 2500.
