@@ -135,16 +135,20 @@ Every nation starts as a **confederation**: the rules above, one vote per member
 | Republic | Consul | Classical Age | A senate of faction leaders votes, each weighted by its active citizens. The consul is elected every 14 days. Holds 1 more faction. |
 | Democracy | Archon | Classical Age | Citizens vote in referendums and elect the archon every 7 days. |
 | Merchant league | Doge | Medieval Age | A council of faction leaders votes, each weighted by its strongbox (no faction over two fifths). The doge is elected every 14 days. Holds 1 more faction. |
+| Council of elders | Eldest | - | Votes like a republic's senate. The eldest is elected every 14 days and may be away a week. Leaving takes a day's notice. |
+| Feudal crown | King | Medieval Age | Like a monarchy, with an heir and a throne to claim. Keeps up to 8 vassal nations, which must serve 28 days before they can declare independence. A little easier to overthrow. Holds 1 more faction. |
+| Constitutional monarchy | Prime Minister | Industrial Age | A parliament votes like a republic's senate. The prime minister is elected every 14 days. Hard to overthrow. Holds 2 more factions. |
+| One-party state | Chairman | Cold War | The chairman rules alone. Holds 3 more factions, but a quarter of citizens are enough to start a revolt. Leaving takes 3 days' notice. |
 
 A government's age counts when most member factions' lands have reached it. Under a confederation, two thirds of the member factions must agree to a change. A ruler decides alone, and elective governments put it to a vote. A change takes effect a day after it passes, at most once a week. The head must be a citizen with a verified Discord account.
 
 **Citizens.** In elective governments, eligible citizens can vote, stand for election and, in a democracy, propose motions from **Nation > Motions and elections**. An eligible citizen has a verified account, has been a member for 3 days and has played this week. In a democracy, a motion needs over half the votes, with at least a third of eligible citizens taking part. A change of government needs two thirds of the votes, with half of them taking part. In a senate or council, motions pass on the weighted votes of faction leaders, and a change of government still needs two thirds.
 
-**Succession.** A head who stays away too long loses the seat. That is 7 days for a monarch or High Priest and 3 days for the others.
+**Succession.** A head who stays away too long loses the seat. That is 7 days for a monarch, king, eldest or High Priest and 3 days for the others.
 
-* A monarch's chosen heir (**Name an heir**) takes the throne. With no heir, any verified citizen can claim the empty throne by holding a nation assembly for 30 minutes. Another citizen standing nearby pauses the count.
-* A consul's deputy (**Name a deputy**) stands in while a new election opens. An archon or doge is replaced by an election.
-* An absent dictator's nation falls back to a confederation.
+* A monarch's or king's chosen heir (**Name an heir**) takes the throne. With no heir, any verified citizen can claim the empty throne by holding a nation assembly for 30 minutes. Another citizen standing nearby pauses the count.
+* A consul's deputy (**Name a deputy**) stands in while a new election opens. An archon, doge, eldest or prime minister is replaced by an election.
+* An absent dictator's nation falls back to a confederation. An absent chairman's seat stays empty until the member factions choose again.
 * A theocracy's seat passes to whoever leads the state faith.
 
 While a ruler's seat is empty, the member factions decide as in a confederation.
@@ -173,8 +177,8 @@ Treaties also decide how nations fight over [provinces](#sieges-and-defence-wind
 * **Imposed:** a nation at war that has won **2 sieges** against the other in the last 14 days can choose **Impose vassalage** on its own. This ends the war and costs the new vassal some legitimacy.
 * **Tribute:** each week, every member faction of the vassal pays a tenth of the coin in its strongbox, up to 100 silver, into the strongbox of one of the overlord's factions in the same land. If the overlord has no strongbox in that land, nothing is paid there.
 * An overlord and its vassal can't declare war on each other. They count as allies, so they never take each other's provinces and they defend each other's besieged seats.
-* The overlord can release a vassal at any time. After 14 days a vassal can **Declare independence**, which frees it, starts a war and raises its legitimacy.
-* A vassal can't have vassals of its own, a nation with vassals can't become a vassal, and an overlord can keep up to 4 vassals.
+* The overlord can release a vassal at any time. After 14 days (28 under a feudal crown) a vassal can **Declare independence**, which frees it, starts a war and raises its legitimacy.
+* A vassal can't have vassals of its own, a nation with vassals can't become a vassal, and an overlord can keep up to 4 vassals (8 for a feudal crown).
 
 **Legitimacy.** Every government except a confederation shows a legitimacy score from 0 to 100, and a new government starts at 50. The score rises when the head plays each day, motions pass and factions join. It falls when the head stays away, the seat stands empty, motions fail and factions secede. Surviving a revolt raises it. The lower the legitimacy, the fewer signatures a revolt petition needs, down to half the usual share. A high score makes revolt harder.
 
