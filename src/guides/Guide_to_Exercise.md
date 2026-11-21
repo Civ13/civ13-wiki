@@ -65,6 +65,27 @@ No equipment? Use **Floor Exercise** in the IC tab and choose **Push-ups** (stre
 
 Floor exercises train more slowly than equipment and stop at **1.0**. Past that you need weights, a skipping rope or a tread wheel. They use the same fatigue as equipment, and you cannot do them while you have an unfinished set on a piece of equipment.
 
+## Hardening your hands
+
+Striking hard things toughens your knuckles, so later punches are less likely to hurt your own hand. The harder the target, the more it teaches you and the more likely it is to hurt you.
+
+| Target | How to get one | Each set adds | Hardens up to | Chance of injury |
+| --- | --- | --- | --- | --- |
+| Makiwara post | 4 wood, **sports** section | 2 | 30 | Low: a bruise |
+| Gravel pail | 3 wood, **sports** section | 3 | 60 | Medium: split knuckles, rarely a break |
+| Bare rock wall | Any natural rock face | 4 | 100 | High: about one injury in four breaks the hand |
+
+The post and the pail need the Martial Disciplines research and no crafting skill. Examine one to see how far it can take you.
+
+To train, empty your active hand, switch to **harm** intent and click the target. A set takes about six seconds; stay still until it ends. Each set also trains your **unarmed** skill, which makes your punches hit harder. Landing real punches trains it too.
+
+- **Wraps and gloves** halve both the chance of injury and what a set teaches. Boxing gloves stop every injury, so they teach nothing.
+- **Fatigue or a hurt hand** doubles the chance of injury. A broken hand cannot train until it heals.
+- Every 10 points of hardening makes a punch less likely to hurt your hand, up to less than half as likely at 100.
+- Hardening fades by one point for each day you go without a set.
+
+Sets share fatigue with the rest of your training.
+
 ## Fatigue and rest
 
 - Each completed set adds **2 fatigue**, up to a maximum of 6. At 6 you are too tired to gain anything.
