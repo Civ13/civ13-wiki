@@ -42,6 +42,8 @@ From the Imperial age, a steel anvil can forge a **proof cuirass** or a **proof 
 
 From the First World War, the armor assembly workbench makes a **resin body shield** from 8 cloth and 4 resin once you know trench warfare. It is a light vest that stops shrapnel and pistol rounds, but not a rifle bullet.
 
+The same workbench makes the **Dayfield body armor** from 4 resin laminate and 6 steel: steel plates between resin-hardened layers. It stops more than the resin shield and is not too heavy. The **heavy Dayfield body armor** takes 6 resin laminate and 14 steel. It can stop a rifle bullet, but it is very heavy. Make resin laminate at a hot press.
+
 ## Armor never goes out of date
 
 Every armor recipe stays craftable from the age it unlocks until the end. Iron, steel and bronze anvils keep offering armor in later ages.
