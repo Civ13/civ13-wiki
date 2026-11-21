@@ -199,6 +199,19 @@ use electronics or copper wire on it to repair it (crafting 100).
 whether each other land is linked, has no key set, has no working relay, or
 is down.
 
+## Data cables
+
+In the Modern era you can link **land data terminals** with physical cable and send short text messages between them. Data cable carries no electricity, and it doesn't connect to cable network terminals or landline phones.
+
+- **Craft** land data cable coils from copper and land data terminals from electronics. **Sealed data cable** (copper and one plastic sheet) works in water as well as on land.
+- **Lay** one coil on each tile of the route, including the tiles under both terminals. Ordinary cable only goes on dry floor; use sealed cable across water.
+- **Shape** each segment with a wrench to cycle through a junction, straights and corners. Examine a segment to see its open ports. Neighbouring segments join only where their ports face each other, never diagonally.
+- **Power** each terminal separately with ordinary electrical cable, then switch it on. A terminal's address is its tile's x.y.z, so place one terminal per tile.
+- **Send** a message of up to 200 characters to any powered terminal on the same cable route. It appears to everyone within three tiles of the recipient, so it isn't private. Each terminal can send once every two seconds.
+- **Cut** a segment with wirecutters to recover it. A broken route stops delivery unless another continuous route remains. A network of more than 256 segments doesn't deliver at all.
+
+**Under the sea.** Sealed cable can also be laid on the open seabed, reached by ordinary diving. To join the surface to the seabed, lay a sealed segment on open deep salt water and another directly beneath it on the seabed, then use a screwdriver on both. Examine either one to see whether they're connected. Keep the powered terminals on dry land.
+
 ## Clocks and bells
 
 Before radios, people told the time and raised alarms with these. Each can be crafted once its research is done.
