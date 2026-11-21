@@ -104,6 +104,17 @@ Common knowledge gives you the subjects only. It does not raise your scholarship
 
 If the world [loses an age](#losing-an-age), nobody forgets what they gained. Characters made afterwards start with less, until the age is won back.
 
+### Learning from things
+
+You slowly come to understand a subject you do not know just by living with its things. It does not matter who made them.
+
+- **Using a thing** from a subject you don't know teaches a little: holding it and working it, firing it, wearing it, or working a structure or machine by hand. The first time with each kind of thing teaches about **5%**, and every later use about **1%**, at most once every couple of minutes.
+- **Being around things** teaches a little too: now and then you notice a new kind of thing near you, about **2%** for each kind.
+- It is slow: at most **10% of one subject a day**.
+- It **never teaches a whole subject on its own**. It can give you up to half of a Stone Age subject, and less of each later age, down to a sliver of the newest ones. The last step always needs a book, a teacher or a bench.
+
+Everything you pick up this way counts toward the same progress as reading the chapter, [watching or working beside someone](#teaching-and-apprentices) or researching it, so it makes those quicker.
+
 ### The bench window
 
 - **Books on the bench** shows both books and their chapters. A chapter you can study is marked, and clicking any chapter opens its details.
