@@ -559,6 +559,18 @@ A freighter and a schooner afloat after their launch, with another freighter on 
 - **Sailing schooner:** she comes off the ways as a [hull of your own](#building-your-own-hull): 62 tiles of ship floor, two rigged masts and a **tiller** at the stern, named after her design. Sail her from the tiller like any built hull: she glides smoothly with her crew walking her deck, needs **no fuel**, and her two sails make half ahead on a reach (slower running before the wind or beating into it). Bilge, seams, anchors and rigging work as for any built hull. Register her in the papers at the tiller.
 - **Motor freighter:** she also comes off the ways as a [hull of your own](#building-your-own-hull), with a steel deck, the wheelhouse at the stern with her **tiller** inside, and a ladder amidships down to her **cargo hold** below the waterline. The hold sails with her, along with everyone and everything in it. Through the door at the back of the hold is the **engine room** with a **diesel engine** and its fuel **barrel**. Pour **diesel** into the barrel (250 units) and click the engine to start it: with it running she makes **full ahead**, and with it stopped she can only be poled along at slow ahead. Sail her from the tiller like any built hull. She glides smoothly and burns fuel as an engine does on any hull. Register her in the papers at the tiller.
 
+### Hauling a ship out for repairs
+
+A [hull you built](#building-your-own-hull) can come back up an empty slipway for work on her bottom.
+
+1. Bring her to a stop no more than 12 tiles off the foot of the ways, with her **bow pointing to the open water** the way the slipway faces. Her stern must line up with the post.
+2. Get enough people beside the post, standing on the shore and not aboard her: one person for every 20 tiles of hull. A horse or an ox counts as two.
+3. Click the post and choose **Haul her out**. After about three seconds for each tile she moves, she is drawn up stern first until her stern sits in front of the post. Anyone aboard rides up with her.
+
+Everywhere she will rest must be dry open ground, and nothing solid can be in the way up the ways.
+
+Hauled out, she lies **dry**. Her bilge drains, and nothing seeps, wears or grows on her. You can [caulk her tight](#caulking), [scrape and copper her bottom](#a-foul-bottom) and [replace her patches](#working-on-a-boat-in-the-boathouse-slip) just as in a boathouse slip. The post offers **Survey her condition**, and **Launch her again** to slide her back down the ways into the water. No keel can be laid on the berth while she is on it.
+
 ## Building your own hull
 
 You can also design a ship yourself. A hull is nothing more than **floors laid over water**, in any shape you like, with a **tiller** on one of them.
@@ -851,7 +863,7 @@ A [hull you built yourself](#building-your-own-hull) that fits wholly inside the
 
 - Her seams can be [caulked](#caulking) right down to tight.
 - Her bottom can be [scraped and coppered](#a-foul-bottom).
-- Her **patches can be replaced for good**. Stand on her deck next to a patch with one piece of **wood** (or one **steel** sheet) in your active hand and a **hammer** in the other, and click the patch. After four seconds it becomes sound planking, or steel plating, and stops weeping. This only works at a berth like the slip.
+- Her **patches can be replaced for good**. Stand on her deck next to a patch with one piece of **wood** (or one **steel** sheet) in your active hand and a **hammer** in the other, and click the patch. After four seconds it becomes sound planking, or steel plating, and stops weeping. This only works at a berth like the slip or a [slipway](#hauling-a-ship-out-for-repairs).
 
 Click the boathouse and choose **Survey her condition** to see each boat in the slip and each stored raft or canoe. It lists what each one needs and what the work costs.
 
