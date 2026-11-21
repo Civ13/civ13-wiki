@@ -9,11 +9,12 @@ A lever, pull cord, pressure plate or tripwire can be tied with rope to the door
 | <img src="../images/Pressure_plate.png"> Pressure plate | 3 stone | Field Defenses | Gives one pull when a stranger or a large animal steps on it |
 | Tripwire alarm | 2 tin | Basic Toolmaking | Rattles, and gives one pull, when a stranger walks through |
 | <img src="../images/Rock_drop.png"> Rock drop | 6 stone | Field Defenses | Drops stones on whoever stands under it when pulled |
+| <img src="../images/Pulley_block.png"> Pulley block | 3 wood | Resource Processing | Lets the cords of a trigger beside it reach one level up or down |
 
 ## Tying cords
 
 1. Build the lever or pull cord, or set the pressure plate or tripwire.
-2. Hold **rope** and click the lever, cord, plate or tripwire. A list shows everything within 7 tiles on the same level that a cord can work.
+2. Hold **rope** and click the lever, cord, plate or tripwire. A list shows everything within 7 tiles on the same level that a cord can work, and on the levels above and below if a pulley block stands beside the trigger.
 3. Pick one. Each cord uses one rope, and up to 4 cords can be tied to one trigger.
 
 A cord can work:
@@ -42,3 +43,16 @@ Click a set plate with an empty hand to prise it back up. Any cords on it come b
 ## Rock drops
 
 A rock drop is a net of stones hung from a frame over one tile. When a cord pulls it, the stones fall on everyone standing there, hurting and knocking them down. Armour helps. Click an emptied rock drop with an empty hand to haul the stones back up.
+
+## Pulley blocks
+
+Build a pulley block within one tile of a lever, pull cord, plate, tripwire or clock. The rope list then also shows doors, bells, gates and rock drops within 7 tiles on the level directly above or below, marked "one level up" or "one level down". Those cords only work while the pulley block stays in place; take it away and they hang slack until it is put back.
+
+## Clock alarms
+
+A water clock or a tower clock can work cords too, so a bell rings or a gate opens at a set time.
+
+1. Use rope on the clock to tie cords, the same way as on a lever.
+2. Use the clock's **Set Alarm** verb and pick an hour.
+
+A water clock gives one pull when that hour begins, as long as it holds water. A tower clock pulls when it strikes, as long as it is wound, and can also be set to pull every hour.
