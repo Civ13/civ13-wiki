@@ -285,7 +285,7 @@ tea, can end up weakening the patient.
 **Coffee:** Will give you that extra caffeine and increase your speed!
 
 **Cocaine:** A powerful stimulant. Very addictive. 2 times worse
-painkiller than opium.
+painkiller than opium. See [Drugs and Stimulants](Guide_to_Drugs.md).
 
 **Peyote Cactus:** Stabilizes critical damage, slight painkiller, and
 makes you see many colors. Also using in tribes gamemode for
@@ -299,7 +299,8 @@ communicating with gods
 includes beer, ale, and rum. Also makes for a great party drink!
 
 **Opium:** Made from poppies and used as an extreme painkiller. Helps a
-lot when patients are mostly suffering from pain.
+lot when patients are mostly suffering from pain. Laudanum, morphine and
+the dangers of opiates are in [Drugs and Stimulants](Guide_to_Drugs.md).
 
 **Willow bark:** Weeping willows grow beside rivers, lakes and swamps in
 temperate and taiga lands. Hold a knife on any intent except harm and
