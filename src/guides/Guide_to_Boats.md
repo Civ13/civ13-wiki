@@ -572,6 +572,19 @@ Everywhere she will rest must be dry open ground, and nothing solid can be in th
 
 Hauled out, she lies **dry**. Her bilge drains, and nothing seeps, wears or grows on her. You can [caulk her tight](#caulking), [scrape and copper her bottom](#a-foul-bottom) and [replace her patches](#working-on-a-boat-in-the-boathouse-slip) just as in a boathouse slip. The post offers **Survey her condition**, and **Launch the (her name) again** to slide her back down the ways into the water. No keel can be laid on the berth while she is on it.
 
+### Drydock
+
+A **drydock** is a basin you dig at the shore, closed off from the sea by a **dock gate**. A [hull you built](#building-your-own-hull) can be floated in, pumped dry and worked on.
+
+1. Dig a **trench** basin inland from the water, big enough for your ship, with one mouth onto open water. It can hold up to 400 tiles. Apart from its mouth, it must not touch any other open water, diagonals included.
+2. Craft a **dock gate** (24 stone, construction, Wagons & Ships) and build it on the flooded trench tile at the mouth. For a wide mouth, set several gates side by side; they work together.
+3. With the gate open, sail her in until **every tile of her lies inside the basin**, then stop her.
+4. Click the gate and choose **Shut the gate**, then **Pump out the dock**. Pumping takes about two seconds for each tile of the basin. Hand bilge pumps within 3 tiles of a gate speed it up a little, and steam or sump pumps a lot.
+
+Once the basin is dry she lies **dry**, just as when she is [hauled out on a slipway](#hauling-a-ship-out-for-repairs). You can caulk her, scrape and copper her bottom and replace her patches. The gate offers **Survey her condition**.
+
+To leave, choose **Open the sluices** at the gate. After ten seconds the basin floods again, then choose **Open the gate** and sail out. Even while the basin is flooded, a hull lying wholly inside it counts as at a berth, as in a [boathouse slip](#working-on-a-boat-in-the-boathouse-slip).
+
 ## Building your own hull
 
 You can also design a ship yourself. A hull is nothing more than **floors laid over water**, in any shape you like, with a **tiller** on one of them.
@@ -867,7 +880,7 @@ A [hull you built yourself](#building-your-own-hull) that fits wholly inside the
 
 - Her seams can be [caulked](#caulking) right down to tight.
 - Her bottom can be [scraped and coppered](#a-foul-bottom).
-- Her **patches can be replaced for good**. Stand on her deck next to a patch with one piece of **wood** (or one **steel** sheet) in your active hand and a **hammer** in the other, and click the patch. After four seconds it becomes sound planking, or steel plating, and stops weeping. This only works at a berth like the slip or a [slipway](#hauling-a-ship-out-for-repairs).
+- Her **patches can be replaced for good**. Stand on her deck next to a patch with one piece of **wood** (or one **steel** sheet) in your active hand and a **hammer** in the other, and click the patch. After four seconds it becomes sound planking, or steel plating, and stops weeping. This only works at a berth like the slip, a [slipway](#hauling-a-ship-out-for-repairs) or a [drydock](#drydock).
 
 Click the boathouse and choose **Survey her condition** to see each boat in the slip and each stored raft or canoe. It lists what each one needs and what the work costs.
 
