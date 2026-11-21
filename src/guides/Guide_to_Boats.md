@@ -579,7 +579,13 @@ Click the tiller to sail:
 
 A **ship's draught** is a ship drawn on paper: every tile of her hull, the floor it has, what stands on it and where she has deck above, drawn with her bow to the top of the sheet.
 
-- **Drawing one:** hold a blank sheet of paper and click her tiller, then choose **Draw her lines**. Only her crew can draw her, and only while she is commissioned.
+- **Designing one:** craft a blank **ship's draught** (1 wood, paper & printing, with Papermaking). Hold it with a pen, pencil or pigment in your other hand, use it and choose **Draw on the sheet**. A drawing window opens with the sheet as a grid, bow to the top:
+    - lay **plank** or **steel** floors, mark tiles with **deck above**, and place fittings: tiller or steering oar, ship mast, rowing bench, killick, iron anchor, hand bilge pump, plank wall, door, window, crate and bed. Benches and doors take a **facing**;
+    - **Rectangle** fills a box at once, and **Mirror port/starboard** copies what you draw across the middle line;
+    - **Start from** loads a ready-made rowing galley, sloop or steel cutter to change as you like;
+    - the panel under the tools updates as you draw with her size, what she costs, her speed and anything that stops her being built (she needs exactly one tiller or steering oar, and every tile must touch another);
+    - **Save to the sheet** keeps the drawing, finished or not.
+- **Copying a ship afloat:** hold a blank sheet of paper and click her tiller, then choose **Draw her lines**. Only her crew can draw her, and only while she is commissioned.
 - **Reading it:** examine the sheet, or use it in your hand. It tells you how many tiles she has and whether she is a small craft, a boat or a ship. It also lists the materials her floors and fittings cost to build by hand, and the speed she should make empty under sail on a reach and with every rowing bench manned. If her masts need more weight low in her, it tells you about how much ballast to carry.
 - **Sharing it:** use the sheet and choose **Copy her design code** for a code starting `C13SHIP`, which you can keep outside the game. **Paste a design code** draws a shared ship onto a sheet, replacing what was on it.
 
