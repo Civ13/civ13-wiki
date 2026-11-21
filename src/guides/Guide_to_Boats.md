@@ -565,11 +565,11 @@ A [hull you built](#building-your-own-hull) can come back up an empty slipway fo
 
 1. Bring her to a stop no more than 12 tiles off the foot of the ways, with her **bow pointing to the open water** the way the slipway faces. Her stern must line up with the post.
 2. Get enough people beside the post, standing on the shore and not aboard her: one person for every 20 tiles of hull. A horse or an ox counts as two.
-3. Click the post and choose **Haul her out**. After about three seconds for each tile she moves, she is drawn up stern first until her stern sits in front of the post. Anyone aboard rides up with her.
+3. Click the post and choose **Haul the (her name) out**. After about three seconds for each tile she moves, she is drawn up stern first until her stern sits in front of the post. Anyone aboard rides up with her.
 
 Everywhere she will rest must be dry open ground, and nothing solid can be in the way up the ways.
 
-Hauled out, she lies **dry**. Her bilge drains, and nothing seeps, wears or grows on her. You can [caulk her tight](#caulking), [scrape and copper her bottom](#a-foul-bottom) and [replace her patches](#working-on-a-boat-in-the-boathouse-slip) just as in a boathouse slip. The post offers **Survey her condition**, and **Launch her again** to slide her back down the ways into the water. No keel can be laid on the berth while she is on it.
+Hauled out, she lies **dry**. Her bilge drains, and nothing seeps, wears or grows on her. You can [caulk her tight](#caulking), [scrape and copper her bottom](#a-foul-bottom) and [replace her patches](#working-on-a-boat-in-the-boathouse-slip) just as in a boathouse slip. The post offers **Survey her condition**, and **Launch the (her name) again** to slide her back down the ways into the water. No keel can be laid on the berth while she is on it.
 
 ## Building your own hull
 
