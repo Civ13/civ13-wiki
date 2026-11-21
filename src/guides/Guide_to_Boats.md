@@ -692,8 +692,8 @@ Weed and shell grow on the bottom of a boat or ship of 13 tiles or more while sh
 | **Foul** | Drags like four tenths of her hull more to push |
 
 - A bare bottom goes from clean to foul over about a day of use. The tiller says how her bottom is, and everyone aboard is told when she turns weedy and when she turns foul.
-- **Scraping:** lay her over shallow water, bring her to a stop, stand on her deck and use a **shovel or a knife** on one of her planks. Each go takes four seconds and cleans three tiles of hull, and you keep going until she is clean or you step away. Her bottom is out of reach on deep water.
-- **Copper sheathing:** on a wooden hull with a clean bottom, lying still in the shallows, use **copper** on a plank with a **hammer** in your other hand. Each sheet covers two tiles and takes three seconds. Fully sheathed, she fouls a tenth as fast. A plated hull cannot be coppered.
+- **Scraping:** lay her over shallow water, bring her to a stop, stand on her deck and use a **shovel or a knife** on one of her planks. Each go takes four seconds and cleans three tiles of hull, and you keep going until she is clean or you step away. Her bottom is out of reach on deep water, unless she lies in a [boathouse slip](#working-on-a-boat-in-the-boathouse-slip).
+- **Copper sheathing:** on a wooden hull with a clean bottom, lying still in the shallows or in a boathouse slip, use **copper** on a plank with a **hammer** in your other hand. Each sheet covers two tiles and takes three seconds. Fully sheathed, she fouls a tenth as fast. A plated hull cannot be coppered.
 
 ### Caulking
 
@@ -703,7 +703,7 @@ A wooden boat or ship keeps the sea out with **tarred oakum** driven into the se
 - **Tarred oakum:** use a coil of **rope** on a bucket, pot or other open container holding at least 10 units of **pitch** from a tar kiln. Each coil makes three twists.
 - **Caulking:** bring her to a stop and bail her if she is awash. Stand on her deck with the oakum in your active hand and a **chisel or a hammer** in the other, and click one of her floors. Each twist takes four seconds and tightens three tiles of hull, and you keep going until the job is done or the oakum runs out. A 30-tile boat with open seams wants 7 twists to make her sound again, or 10 in the shallows to make her tight.
 - **On deep water** you can only reach part of her seams, so caulking brings her back to sound and no better.
-- **In the shallows** she can be caulked right down to tight, where she seeps half as fast as a new hull. Lay her over shallow water before a long voyage.
+- **In the shallows** or in a [boathouse slip](#working-on-a-boat-in-the-boathouse-slip) she can be caulked right down to tight, where she seeps half as fast as a new hull. Lay her over shallow water before a long voyage.
 - Small craft and hulls floored in steel, iron or aluminium have no seams to caulk.
 
 ### Holes and sinking
@@ -817,6 +817,18 @@ To put a boat away, sail it so that **all of it** lies inside the slip, stop it 
 | It is locked with a key you do not carry | Bring its key |
 
 **Take a boat out** puts it back in the slip on the same tiles where it was put away, with its cargo, fuel, name and paint. Those tiles must be clear of people, other boats and anything solid. A keyed boat needs its key to come out.
+
+A raft or dugout kept in the boathouse dries out three times as fast as one left on the shore.
+
+### Working on a boat in the boathouse slip
+
+A [hull you built yourself](#building-your-own-hull) that fits wholly inside the slip, up to 7 by 7 tiles, can't be stored, but she can be worked on there. Bring her to a stop in the slip and she counts as lying in the shallows, however deep the water is:
+
+- Her seams can be [caulked](#caulking) right down to tight.
+- Her bottom can be [scraped and coppered](#a-foul-bottom).
+- Her **patches can be replaced for good**. Stand on her deck next to a patch with one piece of **wood** (or one **steel** sheet) in your active hand and a **hammer** in the other, and click the patch. After four seconds it becomes sound planking, or steel plating, and stops weeping. This only works at a berth like the slip.
+
+Click the boathouse and choose **Survey her condition** to see each boat in the slip and each stored raft or canoe. It lists what each one needs and what the work costs.
 
 ## Harbours and the sea chart
 
