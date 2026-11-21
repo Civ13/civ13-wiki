@@ -33,6 +33,8 @@ Weather comes as storms that travel across the land with the wind. Rain, snow or
 
 Storms do not come from nowhere. Areas of low pressure drift across the land with the wind, and storms gather along their fronts: the air ahead of a low turns milder, and colder air follows behind it. High pressure brings settled, clear weather, and a strong high in summer can stall into a heat wave. On hot, humid afternoons a thunderstorm can also build suddenly overhead, with heavy rain and lightning, and blow itself out in a quarter of an hour or so.
 
+Weather does not stop at the edge of a land. Neighbouring lands and oceans share the same lows, highs and storms, so a storm you watch roll off the edge of the map carries on into the next region, and you can sail or walk on into it. In the middle latitudes, such as Europe, Asia and North America, weather usually moves from west to east. In the tropics and near the poles it usually moves from east to west. On Gaia the big lows and highs come in from the surrounding ocean, but the island's storms are its own.
+
 - **Seeing one coming.** If a storm is heading your way while you are outdoors, you are told which direction it is coming from. The cloud's shadow darkens the ground a little before the rain reaches you.
 - **What falls** depends on the land. The same storm rains on temperate ground, snows on the tundra and raises sand in the desert. It is light at the edge and heaviest in the middle.
 - **Severe storms** have a core of extreme weather: a blizzard in cold lands, a monsoon in the jungle, a sandstorm in the desert. Get under a roof before the core arrives. Blizzards and sandstorms pass on with the storm.
@@ -46,7 +48,7 @@ Storms do not come from nowhere. Areas of low pressure drift across the land wit
 - A **barometer** (8 iron, Optics & Instruments) fits in a pocket. Use it in your hand: a steady needle means no change for a quarter of an hour, a falling needle means weather is on its way and tells you in how many minutes, and a needle dropping fast means a severe storm. Under a storm it tells you how long until it passes.
 - The **farmer's almanac** has an Outlook line with the same forecast.
 
-A forecast supposes the wind holds. If the wind shifts, the storm can turn away, or toward you.
+A forecast supposes the wind holds. If the wind shifts, the storm can turn away, or toward you. On the lands of Earth and the open oceans, storms hold their course, so a forecast there is steadier.
 
 Roofs keep all of it off. Rain barrels fill, crops are watered and fires are doused only where the rain is actually falling.
 
