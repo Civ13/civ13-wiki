@@ -5,7 +5,7 @@ An **integrated circuit** is a small programmable board. Inside it you place com
 ## Getting one
 
 - Research **Digital Computing** on your faction's [tech tree](Guide_to_Research.md).
-- Craft an **integrated circuit** from 4 electronics, or a **compact remote** from 5 electronics. Both are in the electronics section of the crafting menu. Electronic circuits are made from copper; see [Crafting](Guide_to_Crafting.md).
+- Craft an **integrated circuit** from 4 electronics, or a **compact remote** or **mechanism port** from 5 electronics each. Both are in the electronics section of the crafting menu. Electronic circuits are made from copper; see [Crafting](Guide_to_Crafting.md).
 
 ## The editor
 
@@ -57,6 +57,15 @@ Use the remote in your hand to press it. Its button component has two outputs:
 - **User**, whoever pressed it. Wire it into a text input to get their visible name, or into Direction to find where they are.
 
 For example, you can wire User into a String Concat and Signal into a Delay to build a message about who pressed the button.
+
+## The mechanism port
+
+A mechanism port (5 electronics) is a circuit holder that works the [cord mechanisms](Guide_to_Levers_and_Mechanisms.md). Insert a circuit and Alt-click it to edit, just as with the remote. Set it on the floor and use rope on it to tie cords to doors, gates, bells and the like within seven tiles. Its component has:
+
+- **Pull**, an input. A signal here pulls every cord tied to the port, at most once every two seconds.
+- **Mode**, an input. *toggle* works the cords like a pull cord, *throw* like a lever thrown over and *throw back* like a lever thrown back.
+- **Pulled**, an output. It sends a signal when the cord of a lever or pressure plate tied to the port is pulled.
+- **Thrown**, an output. It is true, or false when that cord came from a lever thrown back.
 
 ## Limits
 
