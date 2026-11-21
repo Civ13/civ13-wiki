@@ -38,6 +38,35 @@ Head shots are deadlier but easier to miss. The chest is the most reliable targe
 
 A punch, blade, bullet or thrown object that lands on someone's **hand** can knock what that hand is holding to the ground. A harder hit makes it more likely. If they are gripping it tightly (see below), the blow breaks their grip instead, and the next one can knock it away.
 
+## Combat stances
+
+A combat stance lets your melee attacks choose the body part for you. The stance button sits beside the tactic button on your HUD. Click it to step through the stances, or use **IC > Combat Stance** to pick one from a list. Every character starts in **Manual**.
+
+| Stance | Where your attacks go |
+| --- | --- |
+| **Manual** | Wherever you aim on the targeting doll, as usual. |
+| **Measured** | The best gap in their armour for the weapon you hold. |
+| **Aggressive** | The head. |
+| **Disarming** | The hand holding their weapon, then that arm. |
+| **Low line** | The legs and feet. |
+| **Guarded** | Mostly the chest, and back at the arm or leg that just hit you. |
+| **Restrain** | Their weapon arm. With grab intent, it walks you through an arrest (see [Arresting someone](#arresting-someone)). |
+
+The stance only chooses where you strike. It adds no accuracy and no damage, so a head swing still misses as often as an aimed one. Your swings, punches, kicks, grabs and shoves all follow it, and Help intent never does. The pick reads what you hold, what your opponent wears and where they last hit you; the more dexterous and skilled you are, the more often it picks the best spot. While a stance is on, the targeting doll flashes amber on each part it picks. Clicking the doll or a numpad target puts you back in Manual, and so does the random-target button. Examining someone shows the stance they are in.
+
+### Automatic reactions
+
+A well-trained fighter's stance can also react on its own. This needs weapon skill well above average for the weapon in your hand, or, bare-handed, dexterity well above average or a Student rank in a martial school.
+
+- **Measured** strikes the arm swinging at you, and that swing is spoiled.
+- **Guarded** strikes back after you parry a blow, and after you are hit.
+- **Aggressive** strikes back after you are hit.
+- **Disarming** and **Low line** strike the arm reaching to grab you, and the grab fails.
+
+A martial school's training reacts the same way when your hands are empty, you aren't on Help intent and you haven't clicked for two seconds. A Wing Chun student turns a punch to the chest aside, a boxer slips a punch to the head, a grappler sprawls out of a grab, and a hard-hand fighter blocks a punch and counters. Higher ranks react more often.
+
+A reaction only happens while you are standing, awake and free of any grab, and only against someone in front of you. It never answers someone else's reaction. Each one costs stamina and needs a few seconds before it can happen again.
+
 ## Grabbing
 
 On Grab intent, an empty hand grabs whichever part of the person you are aiming at, such as their arm, leg or head. Use the grab in your hand to tighten it, and drop it to let go. The person you grab can break free with **Resist**; the tighter the grab, the harder that is. You can't grab a limb they no longer have.
@@ -47,6 +76,19 @@ On Grab intent, an empty hand grabs whichever part of the person you are aiming 
 Using your grab on a held hand tightens it into a firm grip. They can still use their other hand, but they can't walk away or simply let go: dropping the hand counts as a Resist, and only a successful Resist frees it. A hand can't be gripped any tighter than that. If they pass out, their hand slips free.
 
 **Strength and dexterity** matter in a scuffle. A stronger person tightens a grab faster, breaks free of one more easily and shoves harder, while a more dexterous one blocks and dodges punches more often and is better at knocking things out of someone's hand. Between two evenly matched people the odds are the same as ever, and even a big difference only tilts them.
+
+### Arresting someone
+
+In the **Restrain** stance, with grab intent, each click on the person you are holding takes the next step of an arrest:
+
+1. Grab them. The stance goes for their weapon arm.
+2. Click them to take a firm hold.
+3. Click again to twist their arm into a jointlock.
+4. Click again to force them to the ground.
+5. Click again to tie their hands. You need handcuffs, rope or other restraints in your free hand, on your belt or in a pocket.
+6. If you carry legcuffs, click once more to bind their legs.
+
+Then lead them by the grab, or click yourself to carry them over your shoulders. The Restrain stance never tightens a grab past a firm hold, so it can't choke anyone. If they break free, start again from the grab. Following an arrest through takes dexterity well above average or a Student rank in Grappling; without that, the grab works as usual.
 
 ## Movement modes
 
