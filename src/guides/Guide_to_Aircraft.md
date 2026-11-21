@@ -27,6 +27,7 @@ Two light planes on a runway, nose to the east.
 | Airship gas cell | 20 cloth | Lighter-than-Air Flight | Industrial 126 |
 | Airship helm | 10 wood | Lighter-than-Air Flight | Industrial 126 |
 | Gasbag | 4 leather | Lighter-than-Air Flight | Industrial 126 |
+| Airship yard | 40 wood | Lighter-than-Air Flight | Industrial 126 |
 
 **Powered Flight** is a World War II (1943) node in the Vehicles line. It needs **Combustion Engine**, and Aviation & Rocketry is researched after it. The hangar is in the **production** crafting category and runway in **roads**. The hangar only assembles planes for a faction that has finished the Powered Flight node. With Powered Flight alone it builds the wood-and-cloth **trainer** and **light plane**. The all-metal **cabin**, **cargo** and **twin-engine** planes and the **airliner** also need **Aviation & Rocketry**, and so does a twin-engine plane built by hand.
 
@@ -240,6 +241,17 @@ Gas works, gas holders and compressors join [factory pipe networks](Guide_to_Fac
 Use **cloth** on a holed gas cell to patch one hole; this works in flight. A burnt cell must be cut away with a wrench and replaced. Your own crew's shots go down, never up into your cells.
 
 The **airship bomb hatch** (steel, vehicle parts) is built on the deck. Load it with up to two filled [aircraft bombs](#arming-the-plane), then pull its ring to drop one straight onto the ground below. A wrench takes a bomb back out.
+
+### Building an airship at the yard
+
+Instead of laying her plank by plank, you can draw an airship on a ship's draught and have an **airship yard** (wood, **production** category, after Lighter-than-Air Flight) build her.
+
+1. Hold a blank **ship's draught** and a pen or pencil, use the draught and choose **Draw an airship on the sheet** (see [Drawing a vehicle sheet](Guide_to_Crafting.md#drawing-a-vehicle-sheet)). The designer shows her deck plan: pick planks, frames, gas cells, a helm, an engine and its fuel tanks, and bomb hatches, and click or drag over the tiles. Choose the engine kind and size and how many people she should carry. The figures show her weight against her lift, her cost and her engine push, and the checks list anything that would stop her flying. Click a finding to see the tiles it means. **Save to the sheet** when she is ready. To copy an airship you already built, choose **Draw her lines** at her helm while holding a blank sheet of paper.
+2. Feed the yard its stock: wood, aluminium, steel, cloth, and plastic or rubber sheets for rubberised cells and sausage casings for goldbeater's skin cells, as the sheet needs. Cable it to a supply with 20 power to spare.
+3. Clear the ground northeast of the yard, as many tiles east as she is wide and north as she is long. It must be dry, level and open, with nothing on it.
+4. Use the sheet on the yard. It refuses a sheet whose checks fail, one your faction lacks the research for, ground that is not clear, or stock it does not have, and says why.
+
+She is laid facing north, commissioned under the sheet's name and held in place. Her gas cells hang empty and her fuel tanks are empty, with each engine connected to the nearest tank. Fill the cells with [lifting gas](#lifting-gas) and the tanks with fuel, then cast off and lift off at her helm.
 
 ## Tips
 
