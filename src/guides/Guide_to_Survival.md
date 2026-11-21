@@ -108,6 +108,29 @@ Day/night lighting and outdoor weather appearances update progressively across t
 
 Indoor and map-level lighting exclusions, climate and seasonal weather rules, radiation appearances, and Wasteland Night/Morning effects still apply. These appearance updates do not change season lengths or advance debris age.
 
+## Time zones and seasons across the lands
+
+All the lands of Earth and Gaia share one clock and one calendar, so they stay in step. A day lasts 2 real hours: Early Morning, Morning, Midday, Afternoon, Evening and Night are 20 minutes each.
+
+Each land keeps its own local time, one hour for every 15 degrees east or west:
+
+| Land | Local time |
+| --- | --- |
+| Pacific Ocean | 11 hours behind |
+| North America | 7 hours behind |
+| South America | 4 hours behind |
+| Greenland | 3 hours behind |
+| Gaia, Atlantic Ocean | 2 hours behind |
+| Antarctica, Arctic Ocean, Southern Ocean | the reference time |
+| Europe, Africa | 1 hour ahead |
+| Indian Ocean | 5 hours ahead |
+| Asia | 6 hours ahead |
+| Oceania | 9 hours ahead |
+
+So when it is Midday in Asia, it can still be Early Morning on Gaia. If you travel far east or west, you may arrive in a different part of the day.
+
+The seasons are opposite in the south. When the northern lands are in summer, South America, Oceania, Antarctica, the Indian Ocean and the Southern Ocean are in winter, and the other way round. Spring in the north is fall in the south.
+
 ## The sun and shadows
 
 On the continents the sun crosses the sky through the day. It rises in the east, stands highest at Midday and sets in the west. Daylight is warm and golden while the sun is low and white when it is high.
