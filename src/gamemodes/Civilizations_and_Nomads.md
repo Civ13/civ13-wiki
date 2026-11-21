@@ -149,6 +149,14 @@ A government's age counts when most member factions' lands have reached it. Unde
 
 While a ruler's seat is empty, the member factions decide as in a confederation.
 
+**Offices of state.** Every government with a head has three offices, filled from **Nation > Offices of state**:
+
+* **Treasurer**: chooses the common money in the ruler's place, or brings it to a vote in an elective government.
+* **Chancellor**: under a ruler, admits or refuses applications in the ruler's place.
+* **Marshal**: guards the nation's assemblies. While the marshal stands within 3 tiles, nobody can make progress claiming a throne or holding a revolt there.
+
+The head appoints a citizen with a verified account. A ruler's appointment stands at once, while a senate, council or the citizens must confirm it by a majority. The head can dismiss an officer and an officer can resign, both at any time. One person holds one office at most, and offices lapse when the government changes.
+
 **Revolt.** Citizens can overthrow any government:
 
 1. An eligible citizen opens a petition from **Nation > Revolt**, naming the government they want and its head.
