@@ -15,6 +15,7 @@
         - [Chat Window & Tabs](guides/Guide_to_Chat.md)
         - [Customizing Your HUD](guides/Guide_to_HUD.md)
         - [Character & Skills](guides/Guide_to_Character.md)
+        - [Accolades & Characters](guides/Guide_to_Accolades_and_Characters.md)
         - [Exercise & Training](guides/Guide_to_Exercise.md)
         - [Slang](guides/Guide_to_Slang.md)
         - [Peoples and Languages](guides/Guide_to_Peoples_and_Languages.md)

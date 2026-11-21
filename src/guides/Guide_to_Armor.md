@@ -36,6 +36,12 @@ A **padded jack** is a quilted cloth jacket worn on your clothes under other arm
 
 Plate over mail closes the gaps that thrusts would otherwise find.
 
+## Armor against guns
+
+From the Imperial age, a steel anvil can forge a **proof cuirass** or a **proof do** (the same armor in the japanese style). It is steel plate on the chest and belly that turns many musket balls, but it is heavy.
+
+From the First World War, the armor assembly workbench makes a **resin body shield** from 8 cloth and 4 resin once you know trench warfare. It is a light vest that stops shrapnel and pistol rounds, but not a rifle bullet.
+
 ## Armor never goes out of date
 
 Every armor recipe stays craftable from the age it unlocks until the end. Iron, steel and bronze anvils keep offering armor in later ages.
