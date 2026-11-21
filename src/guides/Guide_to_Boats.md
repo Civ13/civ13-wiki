@@ -542,7 +542,7 @@ From bottom to top: half the keel laid, half the planking on the ribs, the deck 
 | Engine | 1 | 20 steel, 20 cable |
 | Wheelhouse and fittings | 1 | 10 steel, 10 glass |
 
-To give up on a ship, click the slipway and choose **Abandon**. Everything fitted so far is lost.
+To give up on a ship, click the slipway and choose **Abandon**. She is taken apart, and every material fitted so far, along with anything already paid towards the next piece, is stacked by the post. A ship built from a draught is different: her floors and fittings stay standing where they were built, and only what was paid towards the next piece comes back.
 
 ### Launching
 
@@ -585,11 +585,20 @@ Once the basin is dry she lies **dry**, just as when she is [hauled out on a sli
 
 To leave, choose **Open the sluices** at the gate. After ten seconds the basin floods again, then choose **Open the gate** and sail out. Even while the basin is flooded, a hull lying wholly inside it counts as at a berth, as in a [boathouse slip](#working-on-a-boat-in-the-boathouse-slip).
 
+### Building and refitting at a berth
+
+A [hull of your own](#building-your-own-hull) can be laid down, and refitted, out of the water at a berth:
+
+- **On a slipway** with no keel laid, lay her floors on the dry ground in front of the post. Her **stern must be on the tile in front of the post** and her bow must point the way the slipway faces. Commission her at the tiller and she lies hauled out. When she is ready, choose **Launch the (her name) again** at the post.
+- **In a drydock**, lay her floors anywhere in the basin, dry or flooded. When the dock floods, she floats.
+
+A hull lying on either berth can have floors added or taken up, then be surveyed again at the tiller with **Refit the hull**, just as when she is afloat. Floors that run off the berth onto the shore join her to the land, so leave a gap.
+
 ## Building your own hull
 
 You can also design a ship yourself. A hull is nothing more than **floors laid over water**, in any shape you like, with a **tiller** on one of them.
 
-1. Craft **floor covers** (2 wood each, construction) and lay them over water: a river, a lake or the shallows. Floors cannot be laid on deep salt water, so build near the shore and sail out.
+1. Craft **floor covers** (2 wood each, construction) and lay them over water: a river, a lake or the shallows. You can also lay them on a slipway or in a drydock, see [Building and refitting at a berth](#building-and-refitting-at-a-berth). Floors cannot be laid on deep salt water, so build near the shore and sail out.
 2. Keep the hull **free of the shore**. A floor that touches a floor on land makes it a jetty, and a jetty cannot be commissioned. Leave a one-tile gap and step across, or cut the last plank when you are ready.
 3. Craft a **tiller** (10 planks, vehicle parts) and set it on one of the floors. From the Classical Age a **steering oar** (6 planks, Oared Ships) does the same job. The tiller is the point the ship turns about, so somewhere near the middle is best.
 4. **Close her sides.** A hull of more than 12 tiles is a boat or ship, and every outer edge of her deck needs a **gunwale** before she can be commissioned. Craft a **wooden gunwale** (2 wood, railings) or, on a steel deck, a **steel bulwark** (2 steel, railings, with Steelmaking) and build it along the edge like a railing. A wall, window or door standing on an edge tile closes that tile too, and any other railing or railing gate closes the side it runs along. The quick way is to hold wood or steel and choose **Rail her sides** at the tiller: it fits one on every open side, 2 a side, gunwales on plank deck from wood and bulwarks on steel deck from steel. Rafts and other small craft of up to 12 tiles need no gunwales.

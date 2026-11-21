@@ -1088,7 +1088,7 @@ Instead of feeding everything in at once, a car can be built a piece at a time, 
 | Windows | 1 | 6 / 8 glass |
 | Seats | 1 | 4 / 6 cloth |
 
-Hit the workshop or any part of the car in the bay with the stack the next piece needs, and drag wheels onto either. A short stack is set aside towards the piece, and a long one keeps what it does not use. Examine the workshop or the car to see what the next piece needs. Fitting pieces needs no power. When the last piece is on, clear the bay of people and loose items, then choose **Roll out**. This draws **20 power** like an ordinary assembly, and the car comes out with its key and an empty tank. A car built this way costs the same as one built in one go. A half-built car survives saves. **Abandon** clears the jig, and everything fitted so far is lost.
+Hit the workshop or any part of the car in the bay with the stack the next piece needs, and drag wheels onto either. A short stack is set aside towards the piece, and a long one keeps what it does not use. Examine the workshop or the car to see what the next piece needs. Fitting pieces needs no power. When the last piece is on, clear the bay of people and loose items, then choose **Roll out**. This draws **20 power** like an ordinary assembly, and the car comes out with its key and an empty tank. A car built this way costs the same as one built in one go. A half-built car survives saves. **Abandon** clears the jig and stacks every material fitted so far, along with anything paid towards the next piece, by the workshop.
 
 #### Trucks, carriers and tanks
 
