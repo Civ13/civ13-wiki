@@ -95,6 +95,10 @@ Just plough a plot of land by yourself or by attaching the plough to a cow or bu
 filled with fresh water or plough near a river, put some seeds in the
 ground and watch them grow! Well, it is a bit more nuanced.
 
+### Turning a dirt road into a garden
+
+A plough on **Disarm** intent packs a dirt road. If you change your mind, stand beside a road you packed this way, hold the plough in your active hand and use it on the road on **Help** intent. After the usual tilling time (longer over grass) the road becomes one ordinary ploughed plot, ready to plant and water. You get no materials back, and the soil keeps its current nutrition, so this does not refresh worn-out ground. It only works over plain grass or bare soil that is free of snow, water, crops, other floors and structures. Roads that were already part of the map stay roads; a shovel still removes any dirt road and leaves the ground underneath.
+
 ### Watering
 
 Plants need water, some more, others less. Weather conditions and
