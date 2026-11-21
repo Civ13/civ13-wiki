@@ -165,6 +165,8 @@ The head appoints a citizen with a verified account. A ruler's appointment stand
 
 Each nation decides by its own government. A ruler decides alone. A senate, council or the citizens decide by a majority vote, and in a confederation more than half of the member factions' leaders must agree. One nation's agreement stands as an offer for 7 days, until the other agrees too. Either nation can renounce an alliance, pact or trade treaty on its own. Citizens hear when a treaty starts or ends, and **View nations** lists every nation's treaties.
 
+Treaties also decide how nations fight over [provinces](#sieges-and-defence-windows). A nation allied to the holder, or bound to it by a non-aggression pact, can never take its provinces by stake. One nation can only besiege another while they are at war.
+
 **Legitimacy.** Every government except a confederation shows a legitimacy score from 0 to 100, and a new government starts at 50. The score rises when the head plays each day, motions pass and factions join. It falls when the head stays away, the seat stands empty, motions fail and factions secede. Surviving a revolt raises it. The lower the legitimacy, the fewer signatures a revolt petition needs, down to half the usual share. A high score makes revolt harder.
 
 **Revolt.** Citizens can overthrow any government:
@@ -235,6 +237,7 @@ Every province your side holds has a daily **defence window** of 3 hours, or 4 w
 * **Declaring:** a rival leader crafts a **war banner** from wood (in the **economy & production** category), plants it in the province and clicks it to declare. Their faction must be at least 7 days old, have 4 members with 2 hours played on the land, and hold **100 silver** in its strongbox as a deposit. On Gaia only a Town or City can be besieged.
 * **The siege** begins in the first window at least 24 hours after the declaration. The attackers take the seat by standing within 3 tiles of it with no defender there: 10 minutes against a Camp or an unranked seat, 15 against a Village, 20 against a Town and 30 against a City. A defender at the seat pauses the count.
 * **If nobody comes,** the attackers' deposit is spent. If they came but the window closes before they take the seat, the siege fails. Breaking the war banner calls the siege off. Either way, that side must wait 3 days to declare there again.
+* **Nations and treaties:** a nation can only declare a siege on another nation's province while the two are at war. If they make peace, a pact or an alliance during the siege, it is called off, the deposit is kept and nobody has to wait to declare again. Members of a nation allied to the holder count as defenders at the seat. Allies of the attacker count as attackers, unless they are allied to the holder too, when they defend. Factions outside a nation siege as before.
 * **A taken seat** suspends one rank's benefits for 7 days, and the province cannot be besieged again for 3 days. Against a Camp or an unranked settlement, or when the same side wins twice within 14 days, the holder's hold also starts slipping.
 
 Lands across the sea have no provinces, so stations there always work. A faction's claimed land across the sea stays its own unless the faction leaves it empty (see [Settle, claim or abandon](../guides/Guide_to_Boats.md#settle-claim-or-abandon)).
