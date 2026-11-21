@@ -86,6 +86,35 @@ To train, empty your active hand, switch to **harm** intent and click the target
 
 Sets share fatigue with the rest of your training.
 
+## Martial schools
+
+A martial school is a way of fighting with your bare hands. You follow one school at a time and climb its ranks: **Novice**, **Student**, **Adept** and **Master**.
+
+Each school opens with its own research under Martial Disciplines. A school can be researched from its era onward and stays open in every later era.
+
+| Era | Schools |
+| --- | --- |
+| Stone | Grappling |
+| Classical | Classical Pugilism, Pankration |
+| Medieval | Shaolin Kung Fu |
+| Imperial | Wing Chun, Hard-Hand Striking |
+| Industrial | Savate |
+| WW1 | Judo |
+| WW2 | Military Combatives |
+| Cold War | Krav Maga |
+| Modern | Brazilian Jiu-Jitsu |
+| Digital | Mixed Martial Arts |
+
+**Choosing a school.** Use **Choose martial school** in the IC tab and pick a school you know the research for; you start as a Novice. You can leave your school at any time and keep your progress in it, so you can return later. After any change you wait 7 real days before you can take up a school again.
+
+**Training.** You can train all the way to Master on your own:
+
+- **Practise martial forms** in the IC tab runs through your school's drills. Empty both hands and stay put for about eight seconds. A set tires you like any other exercise, and the more tired you are, the less it teaches.
+- Every punch you land counts a little.
+- Hardening your hands counts a little more.
+
+It takes many hours of practice to become a Master.
+
 ## Fatigue and rest
 
 - Each completed set adds **2 fatigue**, up to a maximum of 6. At 6 you are too tired to gain anything.
