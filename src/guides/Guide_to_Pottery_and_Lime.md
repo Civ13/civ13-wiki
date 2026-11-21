@@ -102,4 +102,18 @@ Transmission parts carry a mover's drive to machines further away. Every fastene
 - A run that is too long binds and carries nothing. Examine a part to see whether it turns.
 - Tie a [lever's cord](Guide_to_Levers_and_Mechanisms.md) to a shaft clutch to throw it in and out from a distance.
 
+### Millstones and sash saws
+
+These two machines work on their own while they are driven. Fill the hopper, and nobody has to stand at the machine. Both are built under Watermills, and each draws 2 from its drive.
+
+| | Machine | Made from | Feed | Each step |
+| --- | --- | --- | --- | --- |
+| <img src="../images/Millstones.png"> | **Millstones** | 12 stone, 1 gear set, 1 shaft | Wheat, oats, barley or rice, one at a time or a whole sack at once | Grinds 2 grain into flour (rice comes out as rice) |
+| <img src="../images/Sash_saw.png"> | **Sash saw** | 10 wood, 1 gear set, 1 shaft, 2 iron | Logs | Saws 1 log into 2 planks and a piece of bark |
+
+- The hopper holds 20. Click the machine with an empty hand to see how full it is and whether anything is stopping it.
+- A step takes about a minute behind a horse gin, a little less behind a mill wheel, and longer behind a treadwheel or an overloaded drive.
+- It stops once 20 products lie on its tile, and carries on when you clear them away.
+- Take it apart with a hammer on Harm intent and you get back whatever was still in the hopper.
+
 The same movers drive a [trip hammer](Guide_to_Metallurgy.md#trip-hammer) beside an anvil.
