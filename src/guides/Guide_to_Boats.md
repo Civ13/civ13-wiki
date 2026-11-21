@@ -1064,7 +1064,7 @@ The wind where you are is not always the prevailing wind:
 - **Along a coast** a sea breeze blows in off the water on sunny afternoons, and a land breeze blows back out to sea on clear nights. Cloud weakens both.
 - **In hilly country** hilltops and ridges are windier and valleys are sheltered. A valley also turns the wind along its floor, and on clear nights cold air drifts down the slopes into it.
 
-A **weather vane** reads the wind on its own spot. Build one by your harbour or mill to see what the wind is doing there.
+A **weather vane** reads the wind on its own spot. Build one by your harbour or mill to see what the wind is doing there. An **anemometer** counts it in m/s and on the Beaufort scale, and a **barometer** warns of a low before the wind gets up: a falling needle means reef early or make for harbour. See [Weather and Climate](Guide_to_Weather.md#wind).
 
 | Course | Speed |
 | --- | --- |

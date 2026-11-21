@@ -89,6 +89,7 @@ New to the game? Start with [How to Play](New_Player_Guide.md), then the [Starte
 - [Hygiene](guides/Guide_to_Hygiene.md)
 - [Winter & Long Rounds](guides/Guide_to_Survival.md)
 - [Rivers & Floods](guides/Guide_to_Floods.md)
+- [Weather & Climate](guides/Guide_to_Weather.md)
 
 ## Society
 

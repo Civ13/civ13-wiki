@@ -82,6 +82,7 @@
         - [Hygiene](guides/Guide_to_Hygiene.md)
         - [Winter & Long Rounds](guides/Guide_to_Survival.md)
         - [Rivers & Floods](guides/Guide_to_Floods.md)
+        - [Weather & Climate](guides/Guide_to_Weather.md)
     - [Society]()
         - [Communications](guides/Guide_to_Communications.md)
         - [Money & Coins](guides/Guide_to_Money.md)
