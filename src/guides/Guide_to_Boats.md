@@ -617,9 +617,10 @@ Click the tiller to sail:
 A **ship's draught** is a ship drawn on paper: every tile of her hull, the floor it has, what stands on it and where she has deck above, drawn with her bow to the top of the sheet.
 
 - **Designing one:** craft a blank **ship's draught** (1 wood, paper & printing, with Papermaking). Hold it with a pen, pencil or pigment in your other hand, use it and choose **Draw on the sheet**. A drawing window opens with the sheet as a parchment grid, bow to the top, with port and starboard marked on its edges:
-    - pick what to draw from the pictures on the right. Under **Hull**: **plank floor**, **steel floor**, **deck above** and **erase**. Under the other headings, the fittings: tiller or steering oar, ship mast, rowing bench, killick, iron anchor, hand bilge pump, wood crate, bed, plank wall, door and window. A fitting needs a floor under it;
+    - pick what to draw from the pictures on the right. Under **Hull**: **plank floor**, **steel floor**, **deck above** and **erase**. Under the other headings, the fittings: tiller or steering oar, ship mast, rowing bench, killick, iron anchor, hand bilge pump, wood crate, bed, plank wall, door, window and gangway. A fitting needs a floor under it;
     - click or drag on the sheet to draw. The tile under the pointer shows what a click will lay, and the line under the sheet names what is already there. **Right-click** takes a fitting off a tile, or the deck above when that tool is picked;
-    - benches and doors take a **facing**: use the arrows, or press **R** to turn the piece. A gold arrow on the sheet shows which way each one faces;
+    - **gunwales** are drawn for you: a boat or ship of more than 12 tiles gets one along every open edge, shown as a gold rim inside her outline and counted under **Sides** in her figures. A wall, door or window on an edge tile closes it instead. A **gangway** goes on an edge tile facing out over the side, and closes that side;
+    - benches, doors and gangways take a **facing**: use the arrows, or press **R** to turn the piece. A gold arrow on the sheet shows which way each one faces;
     - **Box** fills a dragged box at once instead of drawing tile by tile, and **Mirror** copies what you draw across the dashed middle line;
     - **Fit ship** shows her as large as the window allows and **Whole sheet** shows all of it. The mouse wheel or **+** and **-** zoom, and dragging with the middle button moves the sheet;
     - **Undo** (Ctrl+Z) and **Redo** (Ctrl+Y) step back and forward, and **Clear** wipes the sheet;
