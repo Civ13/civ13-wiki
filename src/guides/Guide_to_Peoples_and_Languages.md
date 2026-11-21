@@ -10,14 +10,19 @@ This applies to [Civilizations & Nomads](../gamemodes/Civilizations_and_Nomads.m
 
 When you first arrive on a land you are asked two things:
 
-1. **Which people do you belong to?** You can pick any people of that land, or choose **By birthplace** to belong to the people of the climate you arrived in.
-2. **Name and looks.** Take a name and looks of that people, or keep the ones from your character setup.
+1. **Which people do you belong to?** Where you start decides the choice:
+   - **Among people.** If you start in a settlement, beside a recruitment station or at a bed in town, you are born into that community. The people most common there is the default, and you can pick any other people living there. A nation that has grown a people of its own peoples (see below) has its newcomers born into it.
+   - **In the wild.** You can pick any people of that land, or choose **By birthplace** to belong to the people of the climate you arrived in.
+   - **Coming back.** A new character who starts close to where your last one died keeps that people, if it lives there.
+2. **Name and looks.** Take a name of your people and looks of your birthplace, or keep the ones from your character setup.
 
-Your people gives you your **mother tongue**. It is recorded in your notes under **Origin** together with the land you were born on, and it stays with your character for life.
+Your people gives you your **mother tongue**, your style of name and your starting clothes. Your looks come from your birthplace, never from your people: anyone can look any way. Your people is recorded in your notes under **Origin** together with the land you were born on, and it stays with your character for life. Joining a faction never changes it.
+
+Nobody can see your people by looking at you. Others learn it from your accent, from what you tell them, or by asking.
 
 | Land | Peoples (mother tongue) |
 | --- | --- |
-| Gaia | Northmen (Old Norse), Latins (Latin), Hellenes (Greek), Egyptians (Egyptian), Swahili (Swahili), Yamato (Japanese) |
+| Gaia | Fjordfolk (Old Norse), Hearthlanders (Latin), Isleborn (Greek), Dunefolk (Egyptian), Grasslanders (Swahili), Mistwood Folk (Japanese) |
 | Europe | Northmen (Old Norse), Gaels (Gaelic), Hellenes (Greek), Latins (Latin) |
 | Africa | Swahili (Swahili), Zulu (Zulu), Egyptians (Egyptian), Arabs (Arabic) |
 | Asia | Mongols (Mongolian), Koreans (Korean), Han (Chinese), Persians (Farsi), Yamato (Japanese), Viet (Vietnamese) |
@@ -25,6 +30,20 @@ Your people gives you your **mother tongue**. It is recorded in your notes under
 | South America | Inca (Quechua), Tupi (Tupi), Caribs (Carib) |
 | Jungle | Caribs (Carib), Maya (Mayan) |
 | Desert | Arabs (Arabic), Egyptians (Egyptian) |
+
+On Gaia the peoples are named for the land: Fjordfolk in the tundra and taiga, Hearthlanders in temperate and semiarid country, Isleborn by the sea, Dunefolk in the desert, Grasslanders on the savanna and Mistwood Folk in the jungle.
+
+## Peoples that grow from the world
+
+Peoples are not fixed. Over long stretches of play they split, blend and take people in, much as languages do. Time is counted in years of the world calendar (a year is four seasons, about four real hours), and only years when members actually play count. Research and eras play no part.
+
+- **A people can split.** When a nation's members of one people have no contact with any other faction for about 180 years in a row (roughly a month of play), and there are at least five of them making up at least half the nation, they become a people of their own. Contact means hearing people from other factions, or nationless people, speak, or spending time near them: trade, visits and shared settlements all count. A year with contact halves the count, so splits are rare.
+- **Peoples can blend.** In a nation where two peoples each make up at least a quarter of its members for about 30 played years, a people of both grows. Its mother tongue is the larger group's. Nobody already living changes people: the blend is the people their newcomers are born into.
+- **Naming.** The nation's leader names a new people with **Name Our People** in the IC tab. Naming needs a Discord-verified account (OOC > Verify Discord), and the name can't be changed later. Names of real-world peoples, nations and races, and slurs, are refused. Choose a name of this world.
+- **Raised among.** A character who spends about 20 played years living among another people has "Raised among" that people added to their notes. That people's leader can then welcome them with **Welcome Among Us** in the IC tab. Your people of birth never changes.
+- **Peoples are never a rule.** No skill, price, law, job or door depends on your people.
+
+**Check Known Languages** shows a **Your people** section: your people, the peoples it grew from, related peoples, and who you were raised among or welcomed by.
 
 ## How well you know a language
 
