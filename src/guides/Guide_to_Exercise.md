@@ -134,6 +134,12 @@ Your partner must be awake and playing. Only Masters who have verified their Dis
 
 It takes many hours of practice to become a Master.
 
+**What a school teaches.** From Student on, your school changes how you fight, and the effect grows at Adept and Master:
+
+- **Striking schools** hit harder with punches, and harder still on the targets they drill: Pugilism the head, Wing Chun the chest, Savate the legs, Krav Maga the groin and mouth.
+- **Hard-Hand Striking** also turns hardened hands into extra damage.
+- **Grappling schools** (Grappling, Judo, Brazilian Jiu-Jitsu, and in part Pankration, Military Combatives, Krav Maga and Mixed Martial Arts) tighten their holds faster and break free of holds more easily.
+
 ## Fatigue and rest
 
 - Each completed set adds **2 fatigue**, up to a maximum of 6. At 6 you are too tired to gain anything.
