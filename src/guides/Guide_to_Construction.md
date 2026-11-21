@@ -1469,7 +1469,7 @@ Brick paving needs Brickmaking research and is the toughest of the three.
 
 <u><b>Iron floors</b></u>
 
-Both need Iron Smithing research and do not burn. An iron plate floor is the hardest floor short of steel.
+Both need Iron Smithing research and do not burn. An iron plate floor is the toughest floor short of steel.
 An iron grating is open bars over a drain: when someone walks across it, blood and spills on that tile
 fall through.
 
@@ -1478,6 +1478,39 @@ fall through.
 <tr>
 <td><img src="../images/floor_iron_plate.png" title="1 iron">&emsp;<b>Iron plate</b></td>
 <td><img src="../images/floor_iron_grating.png" title="1 iron">&emsp;<b>Iron grating</b></td>
+</tr>
+</tbody>
+</table>
+
+<u><b>Other stone, metal, glass and rush floors</b></u>
+
+Each takes one unit of its material. None of them burn except rush matting.
+
+| | Floor | Cost | Research | Notes |
+| --- | --- | --- | --- | --- |
+| <img src="../images/floor_rush_matting.png"> | **Rush matting** | 1 leaves | Primitive Construction | The cheapest floor. Weak, and it burns. |
+| <img src="../images/floor_flagstone.png"> | **Flagstone floor** | 1 stone | Stone Masonry | Plain, sturdy paving. |
+| <img src="../images/floor_copper_plate.png"> | **Copper plate floor** | 1 copper | Bronze Working | Softer than iron. |
+| <img src="../images/floor_bronze_plate.png"> | **Bronze tile floor** | 1 bronze | Bronze Working | Tougher than flagstone. |
+| <img src="../images/floor_lead_sheet.png"> | **Lead sheet floor** | 1 lead | Bronze Working | Soft; it breaks sooner than copper. |
+| <img src="../images/floor_obsidian_tile.png"> | **Obsidian tile floor** | 1 obsidian | Imperial Architecture | Hard, but an explosion shatters it. |
+| <img src="../images/floor_glass_block.png"> | **Glass block floor** | 1 glass | Glassworking | The most fragile hard floor. |
+| <img src="../images/floor_steel_tread.png"> | **Steel tread plate** | 1 steel | Reinforced Concrete | The toughest floor. |
+
+<u><b>Pelt rugs</b></u>
+
+A pelt rug takes 2 pelts of one kind and Weaving research. Build it where you stand: it lies on top of
+the floor already there instead of replacing it, and it makes that tile count as a covered floor for a
+home. It burns. Right-click it and choose **Take Up Rug** to get both pelts back.
+
+<table>
+<tbody>
+<tr>
+<td><img src="../images/pelt_rug_bear_brown.png" title="2 brown bear pelts">&emsp;<b>Bear</b></td>
+<td><img src="../images/pelt_rug_bear_black.png" title="2 black bear pelts">&emsp;<b>Black bear</b></td>
+<td><img src="../images/pelt_rug_bear_white.png" title="2 white bear pelts">&emsp;<b>White bear</b></td>
+<td><img src="../images/pelt_rug_wolf.png" title="2 wolf pelts">&emsp;<b>Wolf</b></td>
+<td><img src="../images/pelt_rug_wolf_white.png" title="2 white wolf pelts">&emsp;<b>White wolf</b></td>
 </tr>
 </tbody>
 </table>
