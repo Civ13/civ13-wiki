@@ -144,6 +144,18 @@ You are free to respawn once your body is gone, when it rots away or is destroye
 
 While your spirit is still there, anyone can right-click your body and choose **Pray for Them**. They kneel for 30 seconds, and the gods may answer by bringing you back, with just enough strength to live. Nobody can be brought back without a head.
 
+### Watching as a spirit
+
+On persistent worlds, the dead and anyone who picks **Observe** in the lobby watch the world as a spirit:
+
+- You see only a few steps into the dark around you.
+- You hear only speech and emotes near you, and no radio.
+- **Haunt** follows a living player, and **Jump to Mob** takes you to one. Both are in the **Ghost** tab, which lists players by the name others see them as. While your spirit is still bound to your body, you can only reach people close to it.
+- Solid walls and closed doors stop you.
+- Death notices tell you who died, not where.
+
+Observers from the lobby start out where new players arrive.
+
 ### Triage tags
 
 When several people are hurt at once, a medic, or anyone with a **medical** skill of 50 or more, can right-click a person next to them and choose **Triage Tag**. The tag shows on the body, and anyone who examines the person sees it.

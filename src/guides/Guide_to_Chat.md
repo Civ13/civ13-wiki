@@ -65,7 +65,7 @@ line comes, reconnect.
 
 ## As a ghost
 
-Ghosts can hear and see more than the living. Three settings in
+On round maps, ghosts can hear and see more than the living. Three settings in
 **Preferences** choose how far that reaches:
 
 - **Ghost ears**: hear all speech, or only speech nearby.
@@ -74,6 +74,10 @@ Ghosts can hear and see more than the living. Three settings in
   near you. Turn this to **Nearby** to keep seeing every player emote without
   the barking, mooing and chirping from across the map. The **Toggle Animal
   Noises** verb in the **Ghost** tab switches it quickly.
+
+On persistent worlds such as Gaia, ghosts are spirits: they hear only speech
+and emotes near them, whatever these settings say (see
+[Watching as a spirit](Guide_to_Medical.md#watching-as-a-spirit)).
 
 ## Tips
 
