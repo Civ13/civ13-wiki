@@ -8,19 +8,21 @@ On a server that is not linked to other lands, trails lead nowhere and none of t
 
 Your character lives in one land at a time, its **home**.
 
-- **New characters start on the mainland,** [North America](../maps/The_Americas.md). To live anywhere else, travel there.
+- **New characters start on the mainland,** [Gaia](../maps/Gaia.md). To live anywhere else, travel there.
 - If you join a land that is not your character's home, the game tells you which land your character belongs to and links you to it.
 - **Travelling moves your home** with your character.
 - **When you die,** your home stays in the land where you died if you have an assigned bed there, and your next character starts beside that bed. Without a bed, your home goes back to the mainland. Sleep in a free bed to make it yours (see [Saving your character](../Starter_Guide.md#saving-your-character)).
 
 ## The lands
 
+Every land of Earth, and Gaia in its Atlantic, has a page in [Regions of the World](../regions/Regions.md) covering its climate, peoples, resources and how to get there.
+
 | Land | What it is | How to get there |
 | --- | --- | --- |
-| [North America](../maps/The_Americas.md) | The mainland. New characters start here. One surface level with hills, rivers that flood and one level of open air above for upper floors and flight. | You start here. |
-| [South America](../maps/The_Americas.md) | The southern half of the same continent, built the same way. | Walk south across the isthmus (see [Walking between North and South America](../maps/The_Americas.md#walking-between-north-and-south-america)). |
-| [Gaia](../maps/Gaia.md) | A land of several continents across the sea to the east, with hills, flooding rivers, a level underground, a seabed for submarines and buildings up to four floors high. | Sail there (see [Sailing between the continents](Guide_to_Boats.md#sailing-between-the-continents)), fly there (see [Flying to another continent](Guide_to_Aircraft.md#flying-to-another-continent)), or take a trail. |
-| [Europe](../maps/Nomads_Maps.md#europe), [Jungle](../maps/Nomads_Maps.md#jungle), [Desert](../maps/Nomads_Maps.md#desert) and [Asia](../maps/Nomads_Maps.md#asia) | Lands of one climate each, with hills and their own plants and wildlife. All four allow buildings up to four floors high and have an air level for planes. On Europe and Asia, the first tunnel someone digs down opens a cave level, and on Asia mined-out mountain floor keeps giving stone and ore. | On foot where the land carries on (see [Walking to a neighbouring land](#walking-to-a-neighbouring-land)), by ship (see [Sailing between the continents](Guide_to_Boats.md#sailing-between-the-continents)), by plane (see [Flying to another continent](Guide_to_Aircraft.md#flying-to-another-continent)) or by trail (see [Marking out a new trail](#marking-out-a-new-trail)). |
+| [Gaia](../maps/Gaia.md) | The mainland. New characters start here. A land of several continents in the Atlantic, with a seabed for submarines and the fastest-growing crops. | You start here. Sail there (see [Sailing between the continents](Guide_to_Boats.md#sailing-between-the-continents)), fly there (see [Flying to another continent](Guide_to_Aircraft.md#flying-to-another-continent)), or take a trail. |
+| [North America](../maps/The_Americas.md) and [South America](../maps/The_Americas.md) | Two continents joined at the isthmus, each with hills, flooding rivers and every climate from ice to jungle. | By ship or plane, then on foot between the two (see [Walking between North and South America](../maps/The_Americas.md#walking-between-north-and-south-america)). |
+| [Europe](../regions/Europe.md), [Africa](../regions/Africa.md), [Asia](../regions/Asia.md) and [Oceania](../regions/Oceania.md) | Lands drawn after the real continents, each rich in its own ores. | On foot where the land carries on (see [Walking to a neighbouring land](#walking-to-a-neighbouring-land)), by ship, by plane or by trail (see [Marking out a new trail](#marking-out-a-new-trail)). |
+| [Greenland](../regions/Greenland.md) and [Antarctica](../regions/Antarctica.md) | Islands of ice at the ends of the Earth. | By ship or plane only. |
 | New lands across the sea | Lands found by a ship's crew, which they can settle, claim or abandon. | A sea voyage (see [Voyages to new lands](Guide_to_Boats.md#voyages-to-new-lands)). |
 | Rail yard | Each party's own train berth. | Your party's train (see [Party trains](#party-trains)). |
 | Orbit | Party space stations. | By rocket from a launch pad, from 1969 (see [Space Stations](Guide_to_Space_Stations.md)). |
@@ -37,16 +39,16 @@ Where one land carries on into the next, you can simply walk across. There is no
 | --- | --- | --- |
 | North America | south edge, at the isthmus | South America, north edge |
 | South America | north edge, at the isthmus | North America, south edge |
-| Europe | east edge | Asia, west edge |
-| Asia | west edge, northern half | Europe, east edge |
-| Asia | west edge, southern half | the Desert, east edge |
-| Desert | east edge | Asia, west edge (southern half) |
-| Desert | south edge | the Jungle, north edge |
-| Jungle | north edge | the Desert, south edge |
+| Europe | east edge | Asia, west edge (northern part) |
+| Asia | west edge, northern part | Europe, east edge |
+| Asia | west edge, southern part | Africa, east edge |
+| Africa | east edge, beyond the desert peninsula | Asia, west edge (southern part) |
+| Asia | south edge, among the southern islands | Oceania, north edge |
+| Oceania | north edge, among the northern islands | Asia, south edge |
 
 You come out three tiles inside the facing edge of the other land, about as far along it as you were, always on dry ground. Everything else works as for [walking between North and South America](../maps/The_Americas.md#walking-between-north-and-south-america): you take what you wear and carry, a mount, one led animal, a hand cart, a bicycle or a carriage, your wounds come with you, and the other land must be running or asleep.
 
-Seas are not walked: Gaia, and the crossing between Asia and North America, are reached by ship or plane.
+Seas are not walked: Gaia, Greenland and Antarctica, and the crossing between Asia and North America, are reached by ship or plane.
 
 ## Seeing the other lands
 

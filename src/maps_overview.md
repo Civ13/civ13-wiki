@@ -5,11 +5,21 @@ Start with the [Game Modes Overview](gamemodes/Game_Modes.md) for objectives and
 Maps are grouped the way the in-game map vote groups them: pick the era or mode first, then the map. Nomads rounds run on the [Nomads Maps](maps/Nomads_Maps.md) family; the authored variants listed under *Not in Rotation* are outside the standard Nomads map-vote list, and the other maps there have no active entry in the current vote lists. They stay documented so the pages are ready when a map returns.
 
 <!-- nav:Maps Overview -->
+## Regions of the World
+
+- [Regions Overview](regions/Regions.md)
+- [Gaia](maps/Gaia.md)
+- [North and South America](maps/The_Americas.md)
+- [Europe](regions/Europe.md)
+- [Africa](regions/Africa.md)
+- [Asia](regions/Asia.md)
+- [Oceania](regions/Oceania.md)
+- [Greenland](regions/Greenland.md)
+- [Antarctica](regions/Antarctica.md)
+
 ## Nomads & Persistent Worlds
 
 - [Nomads Maps](maps/Nomads_Maps.md)
-- [North and South America](maps/The_Americas.md)
-- [Gaia](maps/Gaia.md)
 - [Wasteland](maps/Wasteland.md)
 
 ## Colony & Pioneers

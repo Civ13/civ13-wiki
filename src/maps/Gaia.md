@@ -2,11 +2,24 @@
 
 Gaia is the authored Nomads map named **Nomads (Gaia)**. Its surface is **z=2**; **z=1** is the underground layer. The underground is solid rock that opens up as you dig (see [Digging down](../guides/Guide_to_Resource_Extraction.md#digging-down)); the map images below were drawn before that and show older caves.
 
-Gaia is one of the persistent lands in the same group as [North and South America](The_Americas.md). It is not in the round map vote. New characters start in North America, not here.
+Gaia is the mainland of the persistent worlds, one of the [regions of the world](../regions/Regions.md). **New characters start here**, and a character who dies without a bed in another land starts again here. It is not in the round map vote.
 
 ## Getting there
 
-Gaia lies across the sea to the east of the Americas. Build a ship, bring it near the east edge of North or South America and set out on a voyage: Gaia is on the list, about 6 minutes' sailing from North America and 7 from South America (see [Sailing between the continents](../guides/Guide_to_Boats.md#sailing-between-the-continents)). You arrive anchored off Gaia's west coast, and sail back the same way. A plane can fly here too (see [Flying to another continent](../guides/Guide_to_Aircraft.md#flying-to-another-continent)). A trail marked out by players can also lead here once the staff approve it (see [Marking out a new trail](../guides/Guide_to_Travel.md#marking-out-a-new-trail)).
+Gaia lies in the Atlantic, across the sea to the east of the Americas and west of Europe and Africa, with Greenland to its north. It is an island, so no walk leads here. Build a ship, bring it near the edge of any other land's coast and set out on a voyage: Gaia is on the list, about 6 minutes' sailing from North America and 7 from South America (see [Sailing between the continents](../guides/Guide_to_Boats.md#sailing-between-the-continents)). You arrive anchored off Gaia's west coast, and sail back the same way. A plane can fly here too (see [Flying to another continent](../guides/Guide_to_Aircraft.md#flying-to-another-continent)). A trail marked out by players can also lead here once the staff approve it (see [Marking out a new trail](../guides/Guide_to_Travel.md#marking-out-a-new-trail)).
+
+## At a glance
+
+| | |
+| --- | --- |
+| Climate | Every climate, from tundra and taiga to temperate forest, desert, savanna and jungle, across several continents |
+| Local time | 2 hours behind the reference time; northern seasons (see [Time zones and seasons across the lands](../guides/Guide_to_Survival.md#time-zones-and-seasons-across-the-lands)) |
+| Rich in | Copper. Tin and iron are found at the usual rate, so you can reach bronze and iron here on your own, but there is **no bauxite or uranium**: later industry needs trade or a foothold in another land (see [Each continent's ores](../guides/Guide_to_Resource_Extraction.md#each-continents-ores)) |
+| Farming | Crops grow about a quarter faster than anywhere else (see [Farming](../guides/Guide_to_Farming.md)) |
+| Peoples | Gaia has peoples of its own, by climate (see [Peoples and Languages](../guides/Guide_to_Peoples_and_Languages.md)) |
+| Sieges | Only a Town or City can be besieged here (see [Sieges and defence windows](../gamemodes/Civilizations_and_Nomads.md#sieges-and-defence-windows)) |
+
+Gaia is the best place to settle in and stay alive, but not to reach the last ages alone: oil springs on land run dry here as on most lands, and the late ores lie in other lands.
 
 ## Map layout
 

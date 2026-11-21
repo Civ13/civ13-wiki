@@ -1,8 +1,8 @@
 # North and South America
 
-North America and South America are the main persistent lands. Each is its own world on its own server, drawn loosely after the real continents, and the two meet at the isthmus. **New characters start in North America**, on a random patch of safe open ground, which can be one of the islands. South America is a walk away: head south down the isthmus and keep going. Both lands start in the Stone Age, and every recipe is studied from a book first; [Your First Day](../guides/Guide_to_Your_First_Day.md) walks a new character through it.
+North America and South America are two of the [regions of the world](../regions/Regions.md). Each is its own world on its own server, drawn loosely after the real continents, and the two meet at the isthmus: from one, the other is a walk away down the isthmus. New characters start on [Gaia](Gaia.md) and come here by ship or plane. Both lands start in the Stone Age, and every recipe is studied from a book first; [Your First Day](../guides/Guide_to_Your_First_Day.md) walks a new character through it.
 
-[Gaia](Gaia.md) lies across the sea to the east: build a ship and sail there from either east coast (see [Sailing between the continents](../guides/Guide_to_Boats.md#sailing-between-the-continents), or fly there: [Flying to another continent](../guides/Guide_to_Aircraft.md#flying-to-another-continent)). The other lands are listed in [Travel Between Lands](../guides/Guide_to_Travel.md#the-lands).
+[Gaia](Gaia.md) lies across the sea to the east: build a ship and sail there from either east coast (see [Sailing between the continents](../guides/Guide_to_Boats.md#sailing-between-the-continents), or fly there: [Flying to another continent](../guides/Guide_to_Aircraft.md#flying-to-another-continent)). The other lands are listed in [Regions of the World](../regions/Regions.md).
 
 ## The two lands
 
@@ -13,6 +13,9 @@ North America and South America are the main persistent lands. Each is its own w
 | West | Mountain chains with passes through them, dry plains and a desert in the south-west | A mountain chain down the whole coast, with a coastal desert and a high, cold plateau |
 | Middle and east | Temperate forest, the great lakes and a long river system draining the middle | Jungle along the great river basin, then savanna and dry scrub |
 | South | Jungle down the narrowing land to the isthmus, and islands in the warm sea | Temperate grassland and a cold cape with ice at the bottom |
+| Local time | 7 hours behind the reference time; northern seasons | 4 hours behind the reference time; southern seasons, so its summer is the north's winter |
+| Rich in | Iron and lead | Gold, silver and bauxite |
+| Peoples | Inuit, Cherokee, Sioux, Navajo and Aztecs | Inca, Tupi and Caribs |
 
 Each land is one surface level, with rock below it and open sky above it.
 
@@ -20,6 +23,8 @@ Each land is one surface level, with rock below it and open sky above it.
 - **Up to four floors.** Roofs carry up to four floors, and [planes](../guides/Guide_to_Aircraft.md) fly on the air level over the land.
 - **No diving.** There is no seabed level under the sea, so submarines stay on the surface, and aircraft carriers and freighters cannot be built here. Those need [Gaia](Gaia.md).
 - **Wild plants and animals** grow from each area's climate, so the jungle, the taiga and the desert each have their own trees, bushes, crops and wildlife. In the savanna and the desert, the fertile banks along the rivers can be ploughed, and desert scrub bushes give desert seeds.
+- **Ores.** Both lands are rich in their own ores, which turn up twice as often, and both hold twice as much cinnabar as other lands. Other ores are scarcer than usual, except iron (see [Each continent's ores](../guides/Guide_to_Resource_Extraction.md#each-continents-ores)).
+- **Oil.** Springs on land run dry here, but the Americas are the only lands where [fracking](../guides/Guide_to_Resource_Extraction.md#hydraulic-fracturing) works.
 - **Mountains keep giving.** Mined-out mountain floor can still be worked with a pickaxe for stone, and ore seams in it come back over time (see [Old mountain floor and ore seams](../guides/Guide_to_Resource_Extraction.md#old-mountain-floor-and-ore-seams)).
 
 ## Map layout
