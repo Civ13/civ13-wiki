@@ -99,6 +99,10 @@ Down there the rock opens up only where you dig: each tile you mine or dig out s
 
 A tunnel down stops when it hits solid stone or hot rock, and you cannot dig up into water or lava; the game tells you why, so try another spot. Pack a flooding tunnel with dirt to stop the water (see [Filling tunnels back in](#filling-tunnels-back-in)).
 
+## Blasting rock
+
+A **blasting charge** breaks rock faster than a pickaxe. Once your people know **Gunpowder**, make an empty one from 1 wood under **Tools**. Pour 15 units of gunpowder into it from a container, fit a rope fuse, and light the fuse with a flame such as a lit match, torch or lighter. Stand well back: it goes off after 6 seconds. The blast breaks all the underground rock on its tile and the tiles around it, just as if they had been mined, and it hurts anyone close by.
+
 ## Digging for dirt underground
 
 Dirt piles make dirt walls and barricades, turn into clay with water, and fill graded ground back up. On the surface you scoop them from dirt ground with a shovel or cut them out of a hill. Underground there is more:

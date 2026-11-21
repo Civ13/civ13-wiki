@@ -90,7 +90,13 @@ To change the ground itself, grade it one level at a time:
 
 - **Flatten with the rammer:** use the stone rammer on a dirt or tamped-earth tile that is higher than the tile you stand on. After about 10 seconds it is pounded one level lower, stays tamped, and the loose dirt piles up at your feet. Keep ramming until the tile is level with you. On level ground the rammer only tamps.
 - **Cut with a shovel:** use a shovel on **disarm** intent on dirt or tamped earth. After about 10 seconds the tile is one level lower and you get a pile of dirt on it.
-- **Fill:** put a pile of dirt on a tile and use the stone rammer on it. The dirt is packed in, the tile rises one level and becomes tamped earth. The rammer reminds you to do this when you tamp a spot lower than yours.
+- **Fill:** put a pile of dirt on a tile and use the stone rammer on it. The dirt is packed in, the tile rises one level and becomes tamped earth. The rammer reminds you to do this when you tamp a spot lower than yours. With a loaded wheelbarrow beside you, you don't need a pile on the tile: the rammer takes a load from the barrow.
+
+For bigger jobs:
+
+- **Wheelbarrow** (8 wood, **Iron Tools**). The dirt you cut with a shovel goes straight into a wheelbarrow beside you, up to six loads, so you can wheel it to the low spots. See [Tool Materials](../guides/Guide_to_Tool_Materials.md#picks-shovels-and-hatchets).
+- **Slip scraper** (6 iron, **Wagons & Ships**). A steel scoop that a horse or an ox draws, made from iron in the **Logistics** menu. Hitch it to the animal like a cart, then right-click it and choose **Raise or Lower Scraper Blade** (or Alt-click it) to lower the blade. Each step the team takes cuts the tile under the scraper and the tiles either side of it one level, so three steps grade a 3x3 patch. The scoop holds nine loads of earth. To build ground up, raise the blade and click the scraper with an empty hand: it tips one load onto its own tile and each tile beside it, raising them one level as tamped earth. If none of them can be raised, the earth is tipped out in piles.
+- **Steam shovel** (**Steam Power**). Besides digging out loose dirt, it can cut the ground within reach down one level, up to 12 tiles in a job, and heap the earth at its foot. See [Earthworks](../guides/Guide_to_Construction.md#earthworks-steam-roller-and-steam-shovel).
 
 Each tile can be dug down or built up by at most two levels from the natural ground, so ridges and cliffs can be eased but not removed. Ground next to water, or with snow, a floor, a crop or anything solid on it, cannot be graded. Levelling an area means planning cuts and fills and carrying dirt from the high spots to the low ones.
 
