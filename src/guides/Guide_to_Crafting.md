@@ -1045,6 +1045,17 @@ electrical cables.
     connected to the existing network, the generator must be restarted
     to power the new element.
 
+### Aluminium
+
+Aluminium is a light metal for vehicle hulls, aircraft and cable. Its ore, **bauxite**, comes from mined rock from the Industrial age (twice as often under jungle or savanna; see [Resource Extraction](Guide_to_Resource_Extraction.md#each-continents-ores)) and from stone crushers. Both machines below unlock with **Aluminium Refining** research (needs Electricity and Alloys), are built from steel, and run on [cable power](#wiring). Factory arms can load them.
+
+| Machine | Steel | Power | In | Out |
+| --- | ---: | ---: | --- | --- |
+| Alumina digester | 15 | 10 | 2 bauxite and 1 unit of sodium hydroxide or lye | 1 alumina |
+| Reduction pot | 20 | 40 | 1 alumina, and 1 coal or charcoal for every 2 ingots | 1 aluminium ingot |
+
+Use bauxite or alumina and coal or charcoal on the machine to load it, and pour the caustic into the digester. Each batch takes about 10 seconds. A machine without power waits, and one that runs out of an input stops. The digester leaves a puddle of red mud every 10 batches. The reduction pot draws about everything a steam engine gives, so plan a real power plant. Alumina fired in a kiln makes ceramic tiles for [composite armour](#composite-armour).
+
 ## Electronic circuits
 
 <table>
@@ -1102,11 +1113,11 @@ The workshop also builds eleven heavier or military vehicles. They are only buil
 | Double-decker bus | 2x5 | 22 steel | 4 wheels | 22 steel, 12 cable | 14 glass | 10 cloth | - | 110 |
 | Armoured car | 2x3 | 24 steel | 4 wheels | 24 steel, 10 cable | - | 4 cloth | - | 120 |
 | Tankette | 2x3 | 28 steel | 4 tank tracks | 28 steel, 10 cable | - | 4 cloth | - | 140 |
-| Tracked carrier | 3x4 | 36 steel | 4 tank tracks | 36 steel, 12 cable | - | 6 cloth | - | 180 |
-| Light tank | 2x4 | 30 steel | 4 tank tracks | 30 steel, 12 cable | - | 4 cloth | 70 steel | 220 |
+| Tracked carrier | 3x4 | 28 aluminium | 4 tank tracks | 40 steel, 12 cable | - | 6 cloth | - | 40 (and 112 aluminium) |
+| Light tank | 2x4 | 30 steel | 4 tank tracks | 30 steel, 12 cable | - | 4 cloth | 40 steel | 190 |
 | Medium tank | 3x4 | 46 steel | 4 tank tracks | 46 steel, 14 cable | - | 6 cloth | 70 steel | 300 |
-| Heavy tank | 3x4 | 62 steel | 4 tank tracks | 62 steel, 14 cable | - | 6 cloth | 70 steel | 380 |
-| Main battle tank | 3x4 | 78 steel | 4 tank tracks | 78 steel, 16 cable | - | 6 cloth | 70 steel | 460 |
+| Heavy tank | 3x4 | 62 steel | 4 tank tracks | 62 steel, 14 cable | - | 6 cloth | 100 steel | 410 |
+| Main battle tank | 3x4 | 78 steel | 4 tank tracks | 78 steel, 16 cable | - | 6 cloth | 130 steel | 520 |
 
 The double-decker bus is longer than the usual bay: its project needs a clear **5x5** square to the workshop's northeast. Stairs inside it lead up to the **upper deck**: stand on them and click them to go up, and click them again from above to come back down. See [Combat](Guide_to_Combat.md#cover) for riding on top of vehicles.
 
@@ -1115,6 +1126,22 @@ Tracked models take **tank tracks** in place of wheels: craft them from steel in
 Like cars, they roll out with a key and an **empty fuel tank**. Shell racks come empty and no machine guns, ammunition or supplies are included, so bring your own shells and fuel before you take a tank out.
 
 A tank's turret is the same **tank turret** players craft, already fitted with a tank cannon and a gunner's and a loader's seat. Every vehicle in this table counts as hand-built, so its owners can click the axis to pick a **Turret style**, **Fit new parts** such as a commander's seat stood on the turret's tile, or **Take it apart** and rebuild it, as described under [Modular tanks](#modular-tanks).
+
+#### Aluminium hulls
+
+Once you know **Aluminium Refining**, starting any of these projects asks whether to build the hull in **steel** or **aluminium**. An aluminium hull pays four fifths of the chassis and bodywork steel in [aluminium](#aluminium) ingots; the engine and the turret and gun stay steel. It weighs about half as much as steel, so the vehicle drives faster, but its walls stop fewer shots (about 0.6 of the armour) and break a little sooner. The tracked carrier is always aluminium.
+
+What a vehicle carries also sets its pace. A vehicle with a normal load drives at its usual speed. Heavy cargo or extra people standing on the deck slow it down, and a light hull speeds it up; a very light vehicle gets one extra top gear. Someone sitting in a seat counts half as much as someone standing. Examine a vehicle's frame to see how its load affects it.
+
+#### Composite armour
+
+With **Composite Armour** research (Military, needs Modern Armor and Mechanized Warfare) you can plate any armoured vehicle wall:
+
+1. Put **alumina** in a lit kiln. Each firing turns every measure of alumina in it into one **ceramic armour tile**, up to 40 at a time.
+2. Use a stack of tiles on **prepared Kevlar**: two tiles and one sheet bond into a **composite armour panel**.
+3. Use a panel on a frame of a tank, armoured car, carrier or other vehicle with armoured walls, choose the wall, and wait a few seconds.
+
+Each wall takes one panel. It adds half the wall's armour again (at least 20) and some health, and weighs half what that much extra steel would, so a plated tank is much tougher but a little slower. Examining the frame shows which walls are covered.
 
 ### Vehicle garage
 
