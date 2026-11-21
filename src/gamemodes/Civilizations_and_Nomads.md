@@ -165,10 +165,12 @@ The head appoints a citizen with a verified account. A ruler's appointment stand
 
 Each nation decides by its own government. A ruler decides alone. A senate, council or the citizens decide by a majority vote, and in a confederation more than half of the member factions' leaders must agree. One nation's agreement stands as an offer for 7 days, until the other agrees too. Either nation can renounce an alliance, pact or trade treaty on its own. Citizens hear when a treaty starts or ends, and **View nations** lists every nation's treaties.
 
+**Legitimacy.** Every government except a confederation shows a legitimacy score from 0 to 100, and a new government starts at 50. The score rises when the head plays each day, motions pass and factions join. It falls when the head stays away, the seat stands empty, motions fail and factions secede. Surviving a revolt raises it. The lower the legitimacy, the fewer signatures a revolt petition needs, down to half the usual share. A high score makes revolt harder.
+
 **Revolt.** Citizens can overthrow any government:
 
 1. An eligible citizen opens a petition from **Nation > Revolt**, naming the government they want and its head.
-2. Eligible citizens have 2 days to sign it. The petition needs half of the eligible citizens. Against a dictatorship it needs only a third, a merchant league two fifths, a republic two thirds and a democracy three quarters.
+2. Eligible citizens have 2 days to sign it. The petition needs half of the eligible citizens. Against a dictatorship it needs only a third, a merchant league two fifths, a republic two thirds and a democracy three quarters, at a legitimacy of 50. **Nation > Revolt** shows the share needed now.
 3. Once the petition fills, every citizen is warned. From a day later, the signers have 3 days to hold any member faction's nation assembly for 30 minutes. In a province, this only counts during its defence window. A citizen who did not sign standing within 3 tiles pauses the count.
 4. Success installs the new government at once.
 
