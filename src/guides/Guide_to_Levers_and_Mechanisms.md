@@ -61,3 +61,12 @@ A water clock gives one pull when that hour begins, as long as it holds water. A
 ## Cam drums
 
 <img src="../images/Cam_drum.png"> A cam drum (6 wood, 1 gear set, 1 shaft, Watermills) is a pegged barrel that pulls its cords one after another while a treadwheel, horse gin, mill wheel, windmill, counterweight drum or line shaft turns it. Tie cords to it with rope as you would to a lever, then click it with an empty hand to set it running or stop it. Behind a horse gin it pulls a cord about every 10 seconds; a faster drive pulls sooner. Use it to ring a set of bells in turn, or to open and shut doors on a cycle.
+
+## Relays
+
+<img src="../images/Relay.png"> A relay (3 copper, Electricity) is a copper knife switch for an electric lamp, outlet or other device on a cable. Set it on the same tile as the device. While the relay is open the device has no power, and once it is closed again the device draws power as before. Throw it by hand, or tie a cord to it: a lever thrown over closes it, a lever thrown back opens it, and a pull cord or pressure plate flips it. A pressure plate at a door can light the lamps inside, for example.
+
+## Mechanism ports
+
+A mechanism port (5 electronics, Digital Computing) joins the cords to an [integrated circuit](Guide_to_Integrated_Circuits.md). Set it on the floor, put a circuit inside it, and use rope on it to tie cords as you would on a lever. A signal on its **Pull** input pulls those cords, at most once every two seconds. A lever's or pressure plate's cord tied to the port sends a signal out of its **Pulled** output. Picking the port up drops its cords.
+
