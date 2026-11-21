@@ -23,6 +23,10 @@ A light handle speeds a pick or shovel up a little and a heavy one slows it down
 
 The **navvy shovel** is the fastest hand shovel, a broad steel blade on a long handle. It takes 3 steel from the **Tools** menu once your people know Machined Tools, and digs about two thirds faster than an iron shovel.
 
+The **mattock** is a pick-mattock, a broad adze blade and a pick on a long haft. Make it from 3 copper, bronze, iron or steel under **Tools** once your people know **Bronze Working**. It does every job a shovel does and breaks ground faster than a shovel of the same metal, with an iron mattock about a third faster than an iron shovel. It is clumsy with loose earth, though: shovelling up piles, filling tunnels back in and filling roads go at half speed. Carry a shovel as well for that work.
+
+The **wheelbarrow** (8 wood, **Iron Tools**) carries six loads of dirt or sand. Dirt and sand you dig with a shovel go straight into a wheelbarrow you are pulling or standing beside, instead of piling up on the ground. You can also put a dirt pile or some sand in it by hand. Click it with an empty hand to tip one load out onto its tile.
+
 ## Who holds the tool
 
 The worker matters as much as the tool. Digging, mining, chopping and tilling all get faster the stronger you are:

@@ -1139,7 +1139,10 @@ Two steam machines do the heavy groundwork. Pull each into place, then use coal,
 
 It stops early at water, a wall, anything in the way or a tile that already has a floor. If you walk off before it finishes, no road is laid.
 
-**Steam shovel.** Fasten it with a wrench, then click it with an **empty hand**. It digs the loose dirt and sand out of the bare ground within 2 tiles and heaps it at its foot: up to 12 dirt piles or sand in a job. It does not dig under floors.
+**Steam shovel.** Fasten it with a wrench, then click it with an **empty hand**. Choose a job:
+
+- **Dig loose earth:** it digs the loose dirt and sand out of the bare ground within 2 tiles and heaps it at its foot: up to 12 dirt piles or sand in a job. It does not dig under floors.
+- **Cut the ground down a level:** it lowers up to 12 tiles of bare ground within reach by one level, never the tile it stands on, and heaps the earth at its foot as dirt piles. The usual limits on grading apply (see [Tamping paths and grading hills](../maps/The_Americas.md#tamping-paths-and-grading-hills)).
 
 ## Damage and collapse
 
