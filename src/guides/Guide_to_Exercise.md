@@ -107,11 +107,30 @@ Each school opens with its own research under Martial Disciplines. A school can 
 
 **Choosing a school.** Use **Choose martial school** in the IC tab and pick a school you know the research for; you start as a Novice. You can leave your school at any time and keep your progress in it, so you can return later. After any change you wait 7 real days before you can take up a school again.
 
-**Training.** You can train all the way to Master on your own:
+**Training.** You can train all the way to Master on your own, and company or gear only makes it faster:
 
 - **Practise martial forms** in the IC tab runs through your school's drills. Empty both hands and stay put for about eight seconds. A set tires you like any other exercise, and the more tired you are, the less it teaches.
 - Every punch you land counts a little.
 - Hardening your hands counts a little more.
+
+- **Training gear** teaches faster than forms. Empty your active hand, switch to **harm** intent and click the gear for a six-second drill set. Gear never hurts your hand.
+
+| Gear | How to make it | Needs |
+| --- | --- | --- |
+| Heavy bag | 4 leather, **sports** section | Martial Disciplines, some crafting skill |
+| Wooden dummy | 8 wood, **sports** section | Wing Chun research, more crafting skill |
+
+A set on the wooden dummy teaches a little more than one on the heavy bag.
+
+**Training together** is faster:
+
+| Company | Speed |
+| --- | --- |
+| Another player of your school within 2 tiles | x1.5 |
+| A Master of your school within 2 tiles | x2 |
+| Landing punches on a Master of your school | x2.5 |
+
+Your partner must be awake and playing. Only Masters who have verified their Discord account (**Verify Discord** in the OOC tab) give the Master bonuses.
 
 It takes many hours of practice to become a Master.
 
