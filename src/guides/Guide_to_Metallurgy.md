@@ -186,7 +186,7 @@ To even out blister steel, **fold** it on an anvil that works steel: every 2 bar
 
 ### Alloy steels
 
-From the Early Modern age, mining sometimes turns up **nickel ore** and **cobalt ore**, and from the World War age **chromite**. Add them to the open hearth or the electric arc furnace beside the charge (up to 20 lumps; examine the furnace to see them). Whatever is not used stays in for the next firing, and **Empty** gives it back.
+From the industrial age, once Open Hearth Steel can be researched, mining sometimes turns up **nickel ore**. **Cobalt ore** follows from the Early Modern age and **chromite** from the World War age. Add them to the open hearth or the electric arc furnace beside the charge (up to 20 lumps; examine the furnace to see them). Whatever is not used stays in for the next firing, and **Empty** gives it back.
 
 | Alloy | Where | Add | What it is good for |
 | --- | --- | --- | --- |

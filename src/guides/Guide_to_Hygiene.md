@@ -114,7 +114,7 @@ A glass (porcelain) toilet is plumbed: waste in it or on it does not contaminate
 
 ## Shaving
 
-Cast a razor using a [knife mold](Guide_to_Metallurgy.md#molds), then click yourself with it on **Help intent**. Yesterday's dinner is better kept on a plate than in your beard.
+Cast a razor using a [knife mold](Guide_to_Metallurgy.md#molds), then click yourself with it on **Help intent**. A preview window shows your new hairstyle and facial hair from the front and side as you pick them; press **Apply cut** to start cutting, or **Cancel** to keep your current look. Yesterday's dinner is better kept on a plate than in your beard.
 
 Hair and beards grow back slowly while you play: a shaved face grows a short beard after about three hours, then grows to medium, long and very long about every three hours after that. Head hair grows one length about every four hours. The razor only offers styles your hair is long enough for, so a shaved face has to grow out before you can trim it into a beard.
 
