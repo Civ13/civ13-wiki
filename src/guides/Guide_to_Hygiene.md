@@ -114,7 +114,15 @@ A glass (porcelain) toilet is plumbed: waste in it or on it does not contaminate
 
 ## Shaving
 
-Cast a razor using a [knife mold](Guide_to_Metallurgy.md#molds), then click yourself with it on **Help intent**. A preview window shows your new hairstyle and facial hair from the front and side as you pick them; press **Apply cut** to start cutting, or **Cancel** to keep your current look. Yesterday's dinner is better kept on a plate than in your beard.
+Cast a razor using a [knife mold](Guide_to_Metallurgy.md#molds). Hold it, aim at the **head**, and click yourself on any intent except **Harm**. The **Haircut** window opens:
+
+- The figure on the left is you without headwear. Use the arrows to turn it to the front, side and back, and switch between **Now** and **After the cut** to compare.
+- Click a picture on the right to try a hairstyle or facial hair. Your current style is marked **Now**. The length buttons and the **Find a style** box narrow a long list.
+- The left panel lists what will change. Press **Start cutting** and stand still for about eight seconds, or press **Cancel** to keep your current look. Nothing changes until the cut finishes.
+
+![The Haircut window with a new hairstyle and beard picked](../images/Haircut_window.png)
+
+Click someone standing next to you the same way to cut their hair; you see the same window for them, and you must stay beside them until the cut finishes. The window closes if you put the razor away. Yesterday's dinner is better kept on a plate than in your beard.
 
 Hair and beards grow back slowly while you play: a shaved face grows a short beard after about three hours, then grows to medium, long and very long about every three hours after that. Head hair grows one length about every four hours. The razor only offers styles your hair is long enough for, so a shaved face has to grow out before you can trim it into a beard.
 
