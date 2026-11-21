@@ -605,6 +605,17 @@ A hull lying on either berth can have floors added or taken up, then be surveyed
 
 Do the work by hand, at the usual cost. A floor lifted at a berth is not a leak. Choose **Refit the hull** at the tiller to survey her new lines, and the marks are checked again. **Check the refit** lists what is left, and **Clear the refit marks** rubs them out. Once she matches her draught, the marks are gone. Only her main deck is compared, and the marks do not survive a server restart.
 
+### Yard office
+
+A **yard office** (30 wood, construction, Workshops) turns the slipways, boathouses and dock gates within **15 tiles** of it into a shipyard:
+
+- **Faster work.** Work in its reach takes two thirds of the usual time: fitting pieces on a slipway, hauling a ship up the ways, replacing patches, and pumping out or flooding a dock.
+- **Shared stock.** Hit the office with wood, steel, iron, planks, aluminium, glass, rope, cloth or cable to store it. At a slipway post in reach, **Fit from the yard stock** fits piece after piece from what the office holds. Take any material back out from the office's menu.
+- **Draught shelf.** Hit the office with a ship's draught to file it (up to 20). Take any one back down from its menu.
+- **Survey the yard** lists the berths in reach and the ships they hold.
+
+The yard office is not the shipyard office that lays down an aircraft carrier.
+
 ## Building your own hull
 
 You can also design a ship yourself. A hull is nothing more than **floors laid over water**, in any shape you like, with a **tiller** on one of them.
