@@ -157,6 +157,14 @@ While a ruler's seat is empty, the member factions decide as in a confederation.
 
 The head appoints a citizen with a verified account. A ruler's appointment stands at once, while a senate, council or the citizens must confirm it by a majority. The head can dismiss an officer and an officer can resign, both at any time. One person holds one office at most, and offices lapse when the government changes.
 
+**Treaties.** Nations deal with each other from **Nation > Foreign affairs**:
+
+* **Alliance**, **non-aggression pact** and **trade treaty**: both nations must agree, and none can be made while they are at war.
+* **War**: one nation declares it alone, which ends any alliance or pact between them.
+* **Peace**: both nations must agree, and it ends the war.
+
+Each nation decides by its own government. A ruler decides alone. A senate, council or the citizens decide by a majority vote, and in a confederation more than half of the member factions' leaders must agree. One nation's agreement stands as an offer for 7 days, until the other agrees too. Either nation can renounce an alliance, pact or trade treaty on its own. Citizens hear when a treaty starts or ends, and **View nations** lists every nation's treaties.
+
 **Revolt.** Citizens can overthrow any government:
 
 1. An eligible citizen opens a petition from **Nation > Revolt**, naming the government they want and its head.
