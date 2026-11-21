@@ -110,7 +110,7 @@ Each school opens with its own research under Martial Disciplines. A school can 
 **Training.** You can train all the way to Master on your own, and company or gear only makes it faster:
 
 - **Practise martial forms** in the IC tab runs through your school's drills. Empty both hands and stay put for about eight seconds. A set tires you like any other exercise, and the more tired you are, the less it teaches.
-- Every punch you land counts a little.
+- Every punch you land counts a little. Fighting only teaches so much in a day, though: punches on anyone but a verified Master of your school stop counting after a while, until the next day.
 - Hardening your hands counts a little more.
 
 - **Training gear** teaches faster than forms. Empty your active hand, switch to **harm** intent and click the gear for a six-second drill set. Gear never hurts your hand.
@@ -119,8 +119,9 @@ Each school opens with its own research under Martial Disciplines. A school can 
 | --- | --- | --- |
 | Heavy bag | 4 leather, **sports** section | Martial Disciplines, some crafting skill |
 | Wooden dummy | 8 wood, **sports** section | Wing Chun research, more crafting skill |
+| Wrestling mat | 6 leather, **sports** section | Grappling research, some crafting skill |
 
-A set on the wooden dummy teaches a little more than one on the heavy bag.
+A set on the wooden dummy teaches a little more than one on the heavy bag. The wrestling mat lies flat on the floor; it teaches grappling schools as much as the dummy, and other schools only half as much.
 
 **Training together** is faster:
 
@@ -132,7 +133,7 @@ A set on the wooden dummy teaches a little more than one on the heavy bag.
 
 Your partner must be awake and playing. Only Masters who have verified their Discord account (**Verify Discord** in the OOC tab) give the Master bonuses.
 
-It takes many hours of practice to become a Master.
+It takes many hours of practice to become a Master. The first time you become a Master of any school, you also gain a large boost to Military Science, once per character.
 
 **What a school teaches.** From Student on, your school changes how you fight, and the effect grows at Adept and Master:
 
