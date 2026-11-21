@@ -167,6 +167,15 @@ Each nation decides by its own government. A ruler decides alone. A senate, coun
 
 Treaties also decide how nations fight over [provinces](#sieges-and-defence-windows). A nation allied to the holder, or bound to it by a non-aggression pact, can never take its provinces by stake. One nation can only besiege another while they are at war.
 
+**Vassals.** One nation can become another's vassal, also from **Foreign affairs**:
+
+* **By agreement:** one nation chooses **Take as a vassal** and the other **Become their vassal**, in either order. A nation losing a war can surrender this way, which ends the war.
+* **Imposed:** a nation at war that has won **2 sieges** against the other in the last 14 days can choose **Impose vassalage** on its own. This ends the war and costs the new vassal some legitimacy.
+* **Tribute:** each week, every member faction of the vassal pays a tenth of the coin in its strongbox, up to 100 silver, into the strongbox of one of the overlord's factions in the same land. If the overlord has no strongbox in that land, nothing is paid there.
+* An overlord and its vassal can't declare war on each other. They count as allies, so they never take each other's provinces and they defend each other's besieged seats.
+* The overlord can release a vassal at any time. After 14 days a vassal can **Declare independence**, which frees it, starts a war and raises its legitimacy.
+* A vassal can't have vassals of its own, a nation with vassals can't become a vassal, and an overlord can keep up to 4 vassals.
+
 **Legitimacy.** Every government except a confederation shows a legitimacy score from 0 to 100, and a new government starts at 50. The score rises when the head plays each day, motions pass and factions join. It falls when the head stays away, the seat stands empty, motions fail and factions secede. Surviving a revolt raises it. The lower the legitimacy, the fewer signatures a revolt petition needs, down to half the usual share. A high score makes revolt harder.
 
 **Revolt.** Citizens can overthrow any government:
