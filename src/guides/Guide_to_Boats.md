@@ -971,9 +971,10 @@ Bring your ship alongside another so that **3 tiles of open water or less** lie 
 - **Both ships are held fast.** Neither moves, comes about or makes for a berth while the lines hold, whatever her telegraph says. When they are let go, a ship with her anchor up and a speed rung sails on.
 - **Boarding lines** lie across the gap. Walk over them to board her, or to be boarded. Whoever stands on a line when it parts goes into the water.
 - The ship that threw the lines chooses **Cast off the grapple** at her helm and is free at once.
-- The ship that was caught chooses **Cut the grapple** at her helm, or anyone clicks one of the boarding lines with an empty hand. Cutting takes five seconds.
+- The ship that was caught chooses **Cut the grapple** at her helm, or anyone clicks one of the boarding lines with an empty hand. Cutting takes five seconds, and **3 seconds more for every grapnel** holding the lines.
 - A line that is destroyed parts the ships, and so does striking or sinking either of them.
 - After her lines are let go a ship needs **one minute** to coil them before she can grapple again.
+- **Grapnels:** craft a **grapnel** (3 iron, vehicle parts, Iron Smithing). Standing on your ship's deck, click another ship within **5 tiles** with it in hand to throw it. It catches about three times in five; a miss is hauled back to try again. A grapnel that catches throws your lines on her as the helm does, even while the helm's lines are still being coiled, or adds to the lines already holding the two ships. Either crew can throw more grapnels onto the lines to make them slower to cut. The hooks come back to the deck of the ship that threw the lines when they part.
 
 A ship takes one set of lines at a time. Grappling is an order like setting a speed, so on a registered ship it answers only to her crew, but anyone can cut a line they can reach. The lines do not last through a server restart.
 
