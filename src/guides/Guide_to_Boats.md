@@ -325,13 +325,32 @@ You can also build a submarine without a pen, the way you build a [modular ship]
 | Submarine battery bank | 8 |
 | Submarine air bank | 8 |
 
-1. Lay **submarine hull sections** on surface water, one per tile, in a rectangle **3 wide**. Make it **5 long** for a Scout or **7 long** for an Explorer. Any other size is refused.
-2. Stand the parts on the sections: a **ship rudder control** (the wheel), an engine with its fuel tank, and a **ballast and periscope station**. Without the station she sails but can't dive. A battery bank, an air bank, lockers and bunks are optional. The bank gauges only show readings; the battery and air work without them.
+1. Lay **submarine hull sections** on surface water, one per tile, in a rectangle **3 wide**. Make it **5 long** for a Scout or **7 long** for an Explorer. For any other length from 4 to 7, or your own layout, clip a [submarine sheet](#designing-a-submarine-on-a-sheet) to the controls first.
+2. Stand the parts on the sections: a **ship rudder control** (the wheel), an engine with its fuel tank, and a **ballast and periscope station**. Without the station she sails but can't dive. Battery banks, air banks, lockers and bunks are optional, but every bank counts: see [Battery, floodlights and depth](#battery-floodlights-and-depth).
 3. Place the **submarine controls** on any section and click them. Choose **Assemble it**, pick which way the bow points along the long side, and name her.
 
 Each section becomes the part of the hull its place calls for, the same as a pen-built boat: the glass bow, the control room, the lock-out hatches amidships, the watertight doors and the engine room. Place the parts with that plan in mind, because the two stern corners become **sealed tanks** that nobody can reach.
 
 A hand-built boat dives, surfaces and docks like one from the pen. To rebuild her, surface, stop the engine, click the controls and choose **Take it apart**. The sections keep their shapes and can be assembled again facing another way. Her station and gauges come loose too.
+
+### Designing a submarine on a sheet
+
+A [ship's draught](#ships-draughts) can hold a submarine instead of a ship, so you can plan her inside before you build her.
+
+- **Drawing one:** hold a blank ship's draught with a pen, pencil or pigment in your other hand, use it and choose **Draw a submarine on the sheet**. The window shows her plan 3 sections across, bow at the top and starboard on the right:
+    - pick her **length**, from 4 to 7 sections;
+    - under **Sections**, make a section **Hull** or a **Lock-out hatch**. Hatches go only in her side sections, not in the bow row or the engine room;
+    - under **Across the bow side**, put a **Bulkhead**, a watertight **Door** or nothing across the front edge of a section;
+    - under **Fittings**, stand a ship's wheel, a ballast and periscope station, a battery bank, an air bank, a locker or a berth in a section. **Right-click** takes a fitting out;
+    - **Start from** loads the Scout or the Explorer to change as you like, and **Undo** steps back;
+    - the summary shows what she costs, her banks and hatches, and what still stops her being built. **Save to the sheet** keeps the drawing.
+- **What every boat has:** the glass bow on her first row, steel hull down both sides (open where a hatch is), and the stern row as her engine room: the diesel and its fuel tank in the middle with sealed tanks either side. You don't draw those.
+- **The rules:** she needs exactly one wheel, one ballast and periscope station and at least one lock-out hatch. A bulkhead right across her with no door is refused, because nobody could reach the rooms behind it.
+- **Building her:** use the sheet on loose **submarine controls** to clip it to them. Lay hull sections 3 wide and as long as the sheet, stand her wheel, station, banks and other fittings where the sheet shows them, put the engine and fuel tank in the middle of the stern row, and assemble her as above. Each section takes the shape the sheet gives it.
+- **Copying a boat afloat:** hold a blank sheet of paper, use her ballast and periscope station and choose **Draw her lines**.
+- **Sharing it:** use the sheet and choose **Copy her design code** for a code starting `C13SUB`. **Paste a design code** accepts ship and submarine codes.
+
+A slipway only builds ships, so it refuses a submarine sheet.
 
 ### Finding your way around
 
@@ -376,7 +395,9 @@ Once the hatches close for a dive, the crew breathe the air sealed inside the hu
 
 ### Battery, floodlights and depth
 
-**Battery.** Underwater, the motors, the floodlights and the sonar all run on the boat's battery. The diesel charges it whenever the boat is on the surface, and a flat battery charges in about two minutes. If the battery goes flat while you're submerged, the boat stops dead where it is, so blow the ballast and surface to charge it.
+**Battery.** Underwater, the motors, the floodlights and the sonar all run on the boat's battery. The diesel charges it whenever the boat is on the surface, and a Scout's flat battery charges in about two minutes. If the battery goes flat while you're submerged, the boat stops dead where it is, so blow the ballast and surface to charge it.
+
+**Banks.** Her hull holds half a bank of battery and half a bank of air on its own. Each **battery bank** and **air bank** standing in her adds a full bank, so the Scout and Explorer, with one of each, hold a bank and a half. Fit more banks to stay down longer; a bigger battery also takes longer to charge.
 
 **Floodlights.** The sea below is pitch dark. Switch the floodlights on or off at the ballast and periscope station. They throw a white beam from the helm at the bow while the boat is submerged and slowly drain the battery.
 
