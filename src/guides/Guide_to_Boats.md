@@ -594,6 +594,17 @@ A [hull of your own](#building-your-own-hull) can be laid down, and refitted, ou
 
 A hull lying on either berth can have floors added or taken up, then be surveyed again at the tiller with **Refit the hull**, just as when she is afloat. Floors that run off the berth onto the shore join her to the land, so leave a gap.
 
+**Refitting to a draught.** A hull at any berth (a boathouse slip, a slipway or a drydock) can be rebuilt to a [ship's draught](#ships-draughts). Hold the draught at her tiller and choose **Mark out a refit**. The draught is laid over her, with its tiller on hers and its bow pointing her way, and every tile of her main deck that differs is chalked:
+
+| Mark | Work |
+| --- | --- |
+| Green | Lay a floor here, with the fitting the draught shows |
+| Red | Lift the floor and anything on it |
+| Amber | Change the floor or fitting for another |
+| Faint amber | Turn the fitting to face another way |
+
+Do the work by hand, at the usual cost. A floor lifted at a berth is not a leak. Choose **Refit the hull** at the tiller to survey her new lines, and the marks are checked again. **Check the refit** lists what is left, and **Clear the refit marks** rubs them out. Once she matches her draught, the marks are gone. Only her main deck is compared, and the marks do not survive a server restart.
+
 ## Building your own hull
 
 You can also design a ship yourself. A hull is nothing more than **floors laid over water**, in any shape you like, with a **tiller** on one of them.
