@@ -107,7 +107,7 @@ On some maps the open sea is closed to rafts, and you will be told you can't go 
 
 ## Outrigger canoe
 
-<img src="../images/Outrigger_canoe.png"> An **outrigger canoe** is a dugout with a float lashed out to one side on two booms. The float keeps her steady, so she can cross the open sea and ride out a strong wind that keeps a plain dugout on the beach. Only a gale on salt water stops her.
+<img src="../images/Outrigger_canoe.png"> An **outrigger canoe** is a dugout with a float lashed out to one side on two booms. The float keeps her steady, so she can cross the open sea, including the ocean where rafts are turned back, and ride out a strong wind that keeps a plain dugout on the beach. Only a gale on salt water stops her.
 
 Build her on a finished [dugout canoe](#dugout-canoe). The canoe has to be empty, and either ashore or in the shallows:
 
