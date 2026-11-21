@@ -71,6 +71,7 @@ New to the game? Start with [How to Play](New_Player_Guide.md), then the [Starte
 - [Combat Basics](guides/Guide_to_Combat.md)
 - [Leading a Squad](guides/Guide_to_Leadership.md)
 - [Weapons](guides/Guide_to_Weapons.md)
+- [Armor](guides/Guide_to_Armor.md)
 - [Making Guns](guides/Guide_to_Gunsmithing.md)
 - [Trenches & Fortifications](guides/Guide_to_Trenches.md)
 - [Defending a Castle](guides/Guide_to_Castles.md)
