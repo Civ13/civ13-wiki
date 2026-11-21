@@ -85,7 +85,9 @@ On the North and South America and Asia lands, the ground left behind once a mou
 
 ## Digging down
 
-Every land with ground under it has an underground level of solid rock beneath the surface. To get there, stand on diggable ground with a shovel in hand, use the shovel (click it in your hand) and pick **Tunnel**. After about 20 seconds (faster with strength and crafting skill) you break through into the rock below and a tunnel entrance leads down. Underground, do the same to dig a tunnel back up to the surface.
+Every land with ground under it has four underground levels of solid rock beneath the surface. To get to the first, stand on diggable ground with a shovel in hand, use the shovel (click it in your hand) and pick **Tunnel**. After about 20 seconds (faster with strength and crafting skill) you break through into the rock below and a tunnel entrance leads down.
+
+Underground, pick **Tunnel** again and choose **Down** to dig a shaft into the next level, or **Up** to dig back toward the level above. Each level down takes about 10 seconds longer to break into than the one above it, and the fourth level is the deepest. Every level has its own rock, veins and natural caves, so a find on one level says nothing about the level below.
 
 Down there the rock opens up only where you dig: each tile you mine or dig out shows the rock around it, and now and then you break into a natural cave. What lies under a tile depends on what is on the surface above it:
 
@@ -97,7 +99,7 @@ Down there the rock opens up only where you dig: each tile you mine or dig out s
 | The sea | Solid seabed rock |
 | Lava | Searing hot rock that cannot be dug and burns anyone who touches it |
 
-A tunnel down stops when it hits solid stone or hot rock, and you cannot dig up into water or lava; the game tells you why, so try another spot. Pack a flooding tunnel with dirt to stop the water (see [Filling tunnels back in](#filling-tunnels-back-in)).
+Only the first level feels the water above it; the deeper levels lie under its rock, so lakes, rivers and shallows do not reach them. The sea floor and lava go all the way down. A tunnel down stops when it hits solid stone or hot rock, and you cannot dig up into water or lava; the game tells you why, so try another spot. Pack a flooding tunnel with dirt to stop the water (see [Filling tunnels back in](#filling-tunnels-back-in)).
 
 ## Blasting rock
 
