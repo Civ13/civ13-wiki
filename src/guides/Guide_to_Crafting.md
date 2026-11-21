@@ -846,7 +846,7 @@ that see the **[Guide to Chemistry](Guide_to_Chemistry.md)**.
 
 Muskets, cannons and musket-ball cartridges still need ordinary gunpowder.
 
-**Recovering brass:** fired pistol and rifle cartridges, and spent shotgun shells, can be loaded again. Use a spent casing in hand to turn it into an empty casing, or click spent casings (or the tile they lie on) with a stack of empty casings of the same size to gather them all. Shotgun shells count as rifle casings. Live rounds and casings still in a box, magazine or gun are left alone.
+**Recovering brass:** fired pistol and rifle cartridges, and spent shotgun shells, can be loaded again. Use a spent casing in hand to turn it into an empty casing, or click spent casings (or the tile they lie on) with a stack of empty casings of the same size to gather them all. Shotgun shells count as rifle casings. Live rounds and casings still in a box, magazine or gun are left alone. Semi-automatic and automatic guns, machine guns included, throw each spent casing onto the tile you fire from, and up to 12 pile up on one tile. Bolt, lever and pump guns drop theirs when you work the action, and revolvers keep theirs until you unload them. A tank gun leaves an empty cannon casing of the shell's calibre after each shot, and a field gun leaves an empty artillery casing. Both can be filled again.
 
 ## Machinery
 
