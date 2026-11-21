@@ -89,6 +89,17 @@ Every land with ground under it has four underground levels of solid rock beneat
 
 Underground, pick **Tunnel** again and choose **Down** to dig a shaft into the next level, or **Up** to dig back toward the level above. Each level down takes about 10 seconds longer to break into than the one above it, and the fourth level is the deepest. Every level has its own rock, veins and natural caves, so a find on one level says nothing about the level below.
 
+The deeper you go, the richer the ores, though each one still needs the age it normally needs:
+
+| Level | Richer in |
+| --- | --- |
+| First | The ordinary mix of ores, flint and bauxite |
+| Second | Iron, copper, tin, calamine and lead, and twice as much coal |
+| Third | Silver, gold, gemstones, diamonds and uranium, and sulphur and saltpetre |
+| Fourth | The richest silver and gold, the most diamonds, gemstones and uranium, and more nickel, cobalt, chromite, cinnabar and obsidian |
+
+Flint and bauxite lie near the top: there is less bauxite on every level below the first, and no flint below the second.
+
 Down there the rock opens up only where you dig: each tile you mine or dig out shows the rock around it, and now and then you break into a natural cave. What lies under a tile depends on what is on the surface above it:
 
 | Above | Below |
