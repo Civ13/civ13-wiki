@@ -27,6 +27,16 @@ Each land has its own climate. Temperatures change smoothly through the year: th
 
 On lands with a wet and a dry season, the dry season is the hotter one. These are averages: half the "day to night" figure is added in the afternoon and taken off at dawn, so a desert summer runs from about 25 C at dawn to 43 C in the afternoon. Rain makes the air a little colder. A blizzard is about 10 C colder than the season, and a heat wave about 6 C hotter. High ground is colder too: a few degrees on a hill, and up to about 10 C on the highest ground. The [farmer's almanac](Guide_to_Farming.md#farmers-almanac) lists the typical temperature of each season where you stand.
 
+### Wind, humidity and sun
+
+Out of doors you feel more than the air's temperature, and your body warms or cools toward what you feel:
+
+- **Wind chill.** When the air is 10 C or colder, wind carries your warmth away. A cold morning at -2 C in a strong wind feels like about -10 C. A coat, cloak or rain gear over your clothes keeps most of the wind off: an ordinary suit stops a little, a coat about half, fur and leather coats more, and oilskins and rain coats most of it. Indoors and under a roof there is no wind chill.
+- **Humid heat.** When the air is 27 C or hotter and damp, sweat stops cooling you, so a muggy 32 C afternoon feels like about 40 C. Dry heat does not do this.
+- **The sun.** On a clear midday or afternoon at 20 C or warmer, the sun adds about 3 C. A brimmed or draped hat, such as a straw hat, rice hat, sombrero, cowboy hat, pith helmet, keffiyeh or turban, shades you, and a light robe, tunic or toga shades you more. A loose robe also lets out some of the humid heat. Shade under a roof or an open umbrella keeps the sun off.
+
+When the wind, humid heat or sun is getting to you, you are told so, and what would help. A thermometer still reads the air itself.
+
 ## Storms
 
 Weather comes as storms that travel across the land with the wind. Rain, snow or blowing sand falls only under the storm, so one valley can be soaked while the next is dry, and you can walk out from under a storm or wait for it to pass.
