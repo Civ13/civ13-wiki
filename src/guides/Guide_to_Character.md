@@ -53,10 +53,11 @@ P.S. 20 is a lie, it is 2**<u>.</u>**0
 
 ## Traits
 
-You choose traits in **Character Setup** before you join: press **Setup Character & Preferences** in the lobby, or **Character Preferences Setup** in the OOC tab. The window has three tabs.
+You choose traits in **Character Setup** before you join: press **Setup Character & Preferences** in the lobby, or **Character Preferences Setup** in the OOC tab. The window has four tabs.
 
 - **Character**: your name, gender, age, blood type, skin tone, eyes, hair and facial hair, with a preview you can turn around. **Randomise appearance** rolls a new look.
 - **Traits**: every trait as a card with what it does and what it costs.
+- **Birth chart**: the sign your character is born under. See [Birth charts](#birth-charts).
 - **Settings**: HUD style, mouse cursor, frame rate, the tutorial and your sound and chat choices. These can be changed at any time.
 
 ![The Character tab of Character Setup](../images/Character_setup_character.png)
@@ -157,6 +158,31 @@ A trade is an optional free trait for hands-on work. You can take one in charact
 - The work of the other trades takes 10% longer. Work that belongs to no trade is unchanged.
 - Trades for rarer work get bigger boosts. An all-rounder comes out about even or a little slower with any trade; a trade pays off for someone who mostly does one kind of work.
 - You can drop your trade at any time. After any change, you must wait 7 real days before picking a new one.
+
+## Birth charts
+
+Every new character is born under one of twelve signs, one for each season of the year. Your sign leans your starting skills a little: one skill +10 and two +5, one skill -10 and two -5, from the usual starting level of 100. Every sign adds and takes away the same amount, so none is better than another, only different. Skills still grow with use, so a sign is a head start and a character, not a limit.
+
+Your sign's +10 skill also trains 5% faster and its -10 skill 5% slower. This does not apply to a skill whose training speed one of your traits already changes, such as farming with Green Thumb, or any skill with Quick Learner or Slow Learner. The trait's effect is used instead.
+
+By default your sign is drawn at random when you are born. Players who have verified their Discord account (**Verify Discord** in the OOC tab) may choose their sign in the **Birth chart** tab of Character Setup. Your sign is written in your Notes and stays with your character for life. A new character can be born under a different sign.
+
+| Sign | Season | Strengths | Weaknesses | Suits |
+| :--- | :--- | :--- | :--- | :--- |
+| The Ox | Early spring | Strength +10, Farming +5, Stamina +5 | Dexterity -10, Philosophy -5, Swimming -5 | Ploughman, hauler and builder |
+| The Hearth | Mid spring | Farming +10, Medical +5, Crafting +5 | Hunting -10, Swords -5, Bows -5 | Keeper of a settled village |
+| The Hare | Late spring | Dexterity +10, Stamina +5, Throwing +5 | Strength -10, Swords -5, Crafting -5 | Scout, runner and messenger |
+| The Heron | Early summer | Swimming +10, Hunting +5, Dexterity +5 | Crafting -10, Strength -5, Rifle -5 | Fisher, sailor and diver |
+| The Stag | Mid summer | Bows +10, Hunting +5, Stamina +5 | Medical -10, Philosophy -5, Crafting -5 | Archer and woodland hunter |
+| The Spear | Late summer | Swords +10, Strength +5, Throwing +5 | Philosophy -10, Medical -5, Farming -5 | Warrior and guard |
+| The Anvil | Early autumn | Crafting +10, Strength +5, Philosophy +5 | Swimming -10, Bows -5, Hunting -5 | Smith, mason and toolmaker |
+| The Serpent | Mid autumn | Medical +10, Dexterity +5, Philosophy +5 | Swords -10, Strength -5, Farming -5 | Healer and herbalist |
+| The Wolf | Late autumn | Hunting +10, Dexterity +5, Swords +5 | Farming -10, Crafting -5, Medical -5 | Hunter, raider and pack leader |
+| The Owl | Early winter | Philosophy +10, Medical +5, Crafting +5 | Strength -10, Stamina -5, Swords -5 | Scholar, researcher and teacher |
+| The Bear | Mid winter | Stamina +10, Strength +5, Swimming +5 | Dexterity -10, Bows -5, Philosophy -5 | Long marches and heavy labour |
+| The Hawk | Late winter | Rifle +10, Pistol +5, Dexterity +5 | Stamina -10, Farming -5, Swimming -5 | Marksman of the gunpowder ages |
+
+Birth charts apply to characters in Nomads and Civilizations games. Characters made before birth charts were added have been given a sign without any change to their skills.
 
 ## Languages
 
