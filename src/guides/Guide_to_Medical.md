@@ -136,6 +136,14 @@ Some things keep a person dead for good:
 
 Lethal wounds and heavy blood loss only have to be treated first: bandage and heal the body, or give blood, then try again. The revived wake up later, weak and near death, with more brain damage the longer they were gone, so keep treating them. They keep their name and what they knew.
 
+### After you die on a persistent world
+
+On persistent worlds such as Gaia, death doesn't send you straight back to the lobby. Your spirit stays with your body: you can't respawn yet, and as a ghost you can't wander more than 15 tiles from your body or its grave.
+
+You are free to respawn once your body is gone, when it rots away or is destroyed. You are also freed if someone brings you back. Otherwise press **Respawn** and choose **Move on**. After 5 minutes you can respawn.
+
+While your spirit is still there, anyone can right-click your body and choose **Pray for Them**. They kneel for 30 seconds, and the gods may answer by bringing you back, with just enough strength to live. Nobody can be brought back without a head.
+
 ### Triage tags
 
 When several people are hurt at once, a medic, or anyone with a **medical** skill of 50 or more, can right-click a person next to them and choose **Triage Tag**. The tag shows on the body, and anyone who examines the person sees it.
