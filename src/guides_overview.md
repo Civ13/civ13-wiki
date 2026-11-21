@@ -34,6 +34,7 @@ New to the game? Start with [How to Play](New_Player_Guide.md), then the [Starte
 - [Placer Mining](guides/Guide_to_Placer_Mining.md)
 - [Quicksilver Crafts](guides/Guide_to_Quicksilver_Crafts.md)
 - [Pouches, Belts & Gemstones](guides/Guide_to_Pouches_and_Gemstones.md)
+- [Resins, Silk & Fabrics](guides/Guide_to_Resins_and_Fabrics.md)
 - [Painting](guides/Guide_to_Painting.md)
 - [Research](guides/Guide_to_Research.md)
 - [Books and Scholars](guides/Guide_to_Books_and_Scholars.md)
