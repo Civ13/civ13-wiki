@@ -24,7 +24,7 @@ A cord can work:
 * gate winches, which raise or drop their portcullis or drawbridge at once;
 * bells, which ring an alarm;
 * rock drops;
-* shaft clutches, which a lever throws in and out (see [Mechanical power](Guide_to_Pottery_and_Lime.md#mechanical-power)).
+* shaft clutches, which a lever throws in and out, and counterweight drums, whose brake a lever sets and lets off (see [Mechanical power](Guide_to_Pottery_and_Lime.md#mechanical-power)).
 
 To take a cord off, use rope on the trigger again and pick **Cut the cord**; you get the rope back. Examine a trigger to see where its cords run.
 
@@ -57,3 +57,7 @@ A water clock or a tower clock can work cords too, so a bell rings or a gate ope
 2. Use the clock's **Set Alarm** verb and pick an hour.
 
 A water clock gives one pull when that hour begins, as long as it holds water. A tower clock pulls when it strikes, as long as it is wound, and can also be set to pull every hour.
+
+## Cam drums
+
+<img src="../images/Cam_drum.png"> A cam drum (6 wood, 1 gear set, 1 shaft, Watermills) is a pegged barrel that pulls its cords one after another while a treadwheel, horse gin, mill wheel, windmill, counterweight drum or line shaft turns it. Tie cords to it with rope as you would to a lever, then click it with an empty hand to set it running or stop it. Behind a horse gin it pulls a cord about every 10 seconds; a faster drive pulls sooner. Use it to ring a set of bells in turn, or to open and shut doors on a cycle.
