@@ -39,6 +39,8 @@ Build the bellows on a tile next to a bloomery, blast furnace, kiln or lime kiln
 
 For the next minute and a half, a firing you start in a furnace beside the bellows takes a quarter less time and a quarter less fuel. Pump first, then light the furnace. One set of bellows blows on every furnace next to it.
 
+Bellows that a treadwheel, horse gin, mill wheel or windmill drives, beside it or along a [line shaft](#mechanical-power), blow on their own: every firing started beside them gets the blast without anyone pumping.
+
 ## Lime kiln
 
 1. Use **stone**, **marble** or **crushed shell** on the kiln. It holds 20 in all.
@@ -116,7 +118,7 @@ Two more movers drive machines the same way as the four above.
 
 ### Hopper machines
 
-These machines work on their own while they are driven. Fill the hopper, and nobody has to stand at the machine. Both are built under Watermills, and each draws 2 from its drive.
+These machines work on their own while they are driven. Fill the hopper, and nobody has to stand at the machine. They are built under Watermills unless the table says otherwise, and each draws 2 from its drive.
 
 | | Machine | Made from | Feed | Each step |
 | --- | --- | --- | --- | --- |
@@ -124,6 +126,7 @@ These machines work on their own while they are driven. Fill the hopper, and nob
 | <img src="../images/Sash_saw.png"> | **Sash saw** | 10 wood, 1 gear set, 1 shaft, 2 iron | Logs | Saws 1 log into 2 planks and a piece of bark |
 | <img src="../images/Fulling_stocks.png"> | **Fulling stocks** | 10 wood, 1 shaft | Wool piles | Beats 2 wool into 2 wool cloth |
 | <img src="../images/Bark_stamps.png"> | **Bark stamps** | 8 wood, 1 shaft, 2 iron | Tree bark | Crushes 2 bark into 4 handfuls of <img src="../images/Tanbark.png"> **tanbark** |
+| <img src="../images/Power_loom.png"> | **Power loom** | 12 iron, 1 gear set, 1 shaft, 1 bearing (**Textile Mills**) | Cotton, retted fibre or silk thread | Weaves 4 into cloth or silk (its hopper holds 40) |
 
 - The hopper holds 20. Click the machine with an empty hand to see how full it is and whether anything is stopping it.
 - A step takes about a minute behind a horse gin, a little less behind a mill wheel, and longer behind a treadwheel or an overloaded drive.
