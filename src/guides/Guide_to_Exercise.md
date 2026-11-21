@@ -28,44 +28,47 @@ Take your time between lifts, but a rest of more than half a minute, or putting 
 
 **Hauling.** Walking about with a heavy stone, a great stone or a barbell in your hands is a workout of its own. Every forty tiles pays a little strength and stamina and costs one fatigue. They are heavy, so you walk more slowly while carrying one.
 
-## Running a course
+## Skipping rope
 
-An obstacle course is built from pieces you place wherever you like, also from the **sports** section.
+A **skipping rope** is made from 2 rope in the **sports** section of the crafting menu. It needs Basic Toolmaking and no crafting skill.
 
-| Piece | Material | What it does |
-| --- | --- | --- |
-| Course start post | 4 wood and 1 cloth, wool cloth or leather | Starts a run, ends one, and keeps the best time |
-| Course finish post | 3 wood | Ends a run |
-| Log hurdle | 3 wood | Vault it at a run |
-| Balance log | 4 wood | Cross it at a walk |
-| Steel hurdle | 3 steel | A Modern hurdle for a faster, higher course |
+1. Hold the rope with your other hand empty.
+2. Use it in your hand to skip. Each skip takes about two seconds, and you must stand still for it.
+3. Skip **six times** for a set. The set pays dexterity and a little stamina, up to **1.25**.
 
-The wooden pieces need Primitive Construction. The steel hurdle needs Factories and the Modern era. Right-click an obstacle and choose **Turn Obstacle** to face it the other way. A hammer takes a piece apart.
+As with weights, a rest of more than half a minute, or putting the rope down, starts the set over.
 
-To run:
+## Tread wheels and treadmills
 
-1. Touch the **start post**.
-2. Clear at least **three** obstacles.
-   - **Hurdles:** run straight at one to vault it. Now and then you clip it and go sprawling, less often the higher your dexterity. At a walk you clamber over slowly instead.
-   - **Balance logs:** switch to a walk before you step on. Running onto one nearly always throws you off.
-3. Touch a **finish post**, or the start post again if your course is a loop.
+A **tread wheel** is a big wooden wheel you walk inside. It trains you while you stay in one place, like a treadmill.
 
-Each obstacle counts once a run, and only if there is a clear tile between it and the one before, so spread them out. The run pays dexterity and stamina: more for each obstacle up to eight, and more for a quick pace. Four seconds an obstacle or better earns the most.
+| Equipment | Material | Needs | Training limit |
+| --- | --- | --- | --- |
+| Tread wheel | 8 wood | Primitive Construction, some crafting skill | 1.25 |
+| Treadmill | 6 steel | Factories, the Modern era, high crafting skill | 1.5 |
 
-A wooden course trains up to **1.25**. In the Modern era, a run that clears at least three steel hurdles trains up to **1.5** and a little faster.
+Both are built from the **sports** section, one to a tile. Right-click one and choose **Turn Around** to face it another way. A hammer takes it apart.
 
-**Best times.** The start post remembers the best run and who made it; examine it to see. A run over more obstacles always takes the record, and over the same number the faster time wins. You can race at any time, even when you are too tired to learn anything from it.
+To train:
+
+1. Click the wheel to step in. You face the way the wheel faces.
+2. Hold the movement key for that direction. You stay where you are, the wheel turns, and every stride counts.
+3. **Forty strides** make a set.
+
+**Run or walk.** Strides at a run pay dexterity and stamina. Strides at a walk pay only a little stamina, so switch to running for the full workout.
+
+If you stop for more than five seconds, the set starts over. To get off, press any other direction, or click the wheel again to step off the back. Getting off ends the set. Only one person can use a wheel at a time.
 
 ## Floor exercises
 
 No equipment? Use **Floor Exercise** in the IC tab and choose **Push-ups** (strength) or **Sit-ups** (stamina). A set is **three repetitions of 8 seconds**. Stay still on dry ground until it finishes.
 
-Floor exercises train more slowly than equipment and stop at **1.0**. Past that you need weights or a course. They use the same fatigue as equipment, and you cannot do them while you have an unfinished set on a piece of equipment.
+Floor exercises train more slowly than equipment and stop at **1.0**. Past that you need weights, a skipping rope or a tread wheel. They use the same fatigue as equipment, and you cannot do them while you have an unfinished set on a piece of equipment.
 
 ## Fatigue and rest
 
-- Each completed set or course run adds **2 fatigue**, up to a maximum of 6. At 6 you are too tired to gain anything.
-- Each set or run also makes you a little hungrier and thirstier, and you cannot gain while very hungry or thirsty.
+- Each completed set adds **2 fatigue**, up to a maximum of 6. At 6 you are too tired to gain anything.
+- Each set also makes you a little hungrier and thirstier, and you cannot gain while very hungry or thirsty.
 - One fatigue point recovers per minute.
 - The more fatigued you are, the less each set teaches you. Gains are also halved once a skill reaches 1.0.
 - You must be conscious, standing and able to use your hands, and a skill below 0.1 is too low to train.
