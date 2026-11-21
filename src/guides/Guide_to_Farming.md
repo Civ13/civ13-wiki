@@ -192,6 +192,20 @@ Any roof shelters crops from blizzards and sandstorms, but no rain falls
 under a roof, so roofed crops must be watered by hand or from fresh water
 within two tiles.
 
+### Frost
+
+On a clear, still night when the air drops to about freezing, frost can **nip a growing crop back** by one stage, at most once a night. A ripe crop is not harmed by a light frost. A **hard freeze**, at about -4 C or colder, kills a crop whatever its stage, in any weather. Winter-hardy crops such as turnips, trees and mushrooms are not hurt, and neither is anything under a roof or a greenhouse's glass. Wind and cloud keep a light frost away.
+
+To protect a crop, use one of these on it:
+
+| Use on the crop | Cover | Keeps off about |
+| --- | --- | --- |
+| 1 straw or hay | Straw mulch | 2 degrees of frost |
+| 2 cloth | Cloth row cover | 3 degrees |
+| 2 glass | Glass cloche | 5 degrees |
+
+A crop takes one cover at a time. Click it with an **empty hand** to take the cover off; you get the material back, and you also get it back when you harvest or uproot the crop. Examining a crop names its cover and tells you if frost has nipped it.
+
 ### Greenhouses
 
 A crop under a **glass roof** keeps growing out of season, at half speed, as
