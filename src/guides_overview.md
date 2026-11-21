@@ -83,6 +83,7 @@ New to the game? Start with [How to Play](New_Player_Guide.md), then the [Starte
 
 - [Medical](guides/Guide_to_Medical.md)
 - [Chemistry](guides/Guide_to_Chemistry.md)
+- [Drugs and Stimulants](guides/Guide_to_Drugs.md)
 - [Radiation](guides/Guide_to_Radiation.md)
 - [Hygiene](guides/Guide_to_Hygiene.md)
 - [Winter & Long Rounds](guides/Guide_to_Survival.md)
