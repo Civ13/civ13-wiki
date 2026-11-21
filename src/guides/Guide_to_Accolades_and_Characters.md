@@ -79,6 +79,8 @@ Your characters are **kin**, and that is public: anyone who examines one of them
 
 Your characters share one leadership seat. While one of them leads a faction, none of the others can found or lead another one.
 
+Your characters count as one person for a province's stake and for the members a faction needs to declare a siege, however many of them live there.
+
 Factions led by the same player share one limit on the provinces they can hold in a land, and no group of factions can hold more than half of a land's provinces.
 
 Splitting one group into several factions, or using kin, to get around claim limits is structuring. It is not allowed, and admins will step in to break it up.
