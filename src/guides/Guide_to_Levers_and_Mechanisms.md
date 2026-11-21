@@ -1,0 +1,44 @@
+# Levers & Mechanisms
+
+A lever, pull cord, pressure plate or tripwire can be tied with rope to the doors, gates and bells around it, so that working it opens, shuts or rings them from a distance. Hang a rock drop over a doorway and a stranger stepping on your plate gets a load of stones on their head. All of it can be built from the first age on.
+
+| Part | Made from | Research | What it does |
+| --- | --- | --- | --- |
+| <img src="../images/Lever.png"> Lever | 3 wood | Basic Toolmaking | Throw it to open what it is tied to; throw it back to shut it again |
+| <img src="../images/Pull_cord.png"> Pull cord | 1 rope | Basic Toolmaking | Each pull opens what is shut and shuts what is open |
+| <img src="../images/Pressure_plate.png"> Pressure plate | 3 stone | Field Defenses | Gives one pull when a stranger or a large animal steps on it |
+| Tripwire alarm | 2 tin | Basic Toolmaking | Rattles, and gives one pull, when a stranger walks through |
+| <img src="../images/Rock_drop.png"> Rock drop | 6 stone | Field Defenses | Drops stones on whoever stands under it when pulled |
+
+## Tying cords
+
+1. Build the lever or pull cord, or set the pressure plate or tripwire.
+2. Hold **rope** and click the lever, cord, plate or tripwire. A list shows everything within 7 tiles on the same level that a cord can work.
+3. Pick one. Each cord uses one rope, and up to 4 cords can be tied to one trigger.
+
+A cord can work:
+
+* doors, windows, shutters and trapdoors (not doors with keypads, key slots or faction locks);
+* castle drop trapdoors;
+* gate winches, which raise or drop their portcullis or drawbridge at once;
+* bells, which ring an alarm;
+* rock drops.
+
+To take a cord off, use rope on the trigger again and pick **Cut the cord**; you get the rope back. Examine a trigger to see where its cords run.
+
+## Working them
+
+* A **lever** stays where you put it. Thrown over, it opens doors, drops trapdoors and raises gates, rings bells and lets rock drops go. Thrown back, it shuts the doors and trapdoors and drops the gates again.
+* A **pull cord** gives one pull. Each door or gate it is tied to swaps between open and shut. A plate or tripwire works the same way.
+* A door that is barred, locked or held shut by someone stays shut. A trapdoor never opens under someone standing on it; build a castle drop trapdoor for that.
+* A pull cord or plate needs a couple of seconds before it can pull again.
+
+## Pressure plates
+
+Hold the pressure plate and use it in your hand to set it into the ground where you stand. The plate remembers who set it: you and your own people (your civilization, or your side on a battle map) can walk over it safely. Anyone else, and any medium or large animal, sets it off.
+
+Click a set plate with an empty hand to prise it back up. Any cords on it come back as rope.
+
+## Rock drops
+
+A rock drop is a net of stones hung from a frame over one tile. When a cord pulls it, the stones fall on everyone standing there, hurting and knocking them down. Armour helps. Click an emptied rock drop with an empty hand to haul the stones back up.
