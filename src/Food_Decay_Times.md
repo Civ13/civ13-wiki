@@ -372,7 +372,7 @@ Decay (minutes)
 </tr>
 <tr>
 <td><img src="images/stacks/poppy.png"></td>
-<td><b>Poppy</b> <small>(not a reagent container) - <i>stackable material</i> - <b>jungle • savanna • desert</b> - will grow at all seasons</small><br>
+<td><b>Poppy</b> <small>(not a reagent container) - <i>stackable material</i> - <b>temperate • sea • semi-arid • desert • savanna</b> - will grow at all seasons</small><br>
 • craft an opium ball out of 3, that will contain 5 opium<br>
 &nbsp; &nbsp; • put opium ball in pipe to smoke or eat as is (5 opium)<br>
 <small><details><summary>show/hide opium reactions</summary>
@@ -383,7 +383,7 @@ Decay (minutes)
 </tr>
 <tr>
 <td><img src="images/stacks/tobacco_green.png"></td>
-<td><b>Tobacco fresh leaves</b> <small>(not a reagent container) - <i>stackable material</i> - <b>desert • jungle • savanna • semi-arid</b> - will grow at all seasons</small><br>
+<td><b>Tobacco fresh leaves</b> <small>(not a reagent container) - <i>stackable material</i> - <b>temperate • sea • semi-arid • savanna • jungle</b> - will grow at all seasons</small><br>
 • hang it on a dehydrator to dry it to dried tobacco leaves<br>
 • offer it to religious totem for 12 power each
 </td>
@@ -413,7 +413,7 @@ Decay (minutes)
 </tr>
 <tr>
 <td><img src="images/stacks/hemp.png"></td>
-<td><b>Hemp</b> <small>(not a reagent container) - <i>stackable material</i> - <b>jungle • savanna • sea • semi-arid • desert</b> - not grow at winter</small><br>
+<td><b>Hemp</b> <small>(not a reagent container) - <i>stackable material</i> - <b>temperate • taiga • sea • semi-arid • savanna</b> - not grow at winter</small><br>
 • craft a rope out of 1<br>
 • craft a joint out of 2, that will contain 30 THC<br>
 • put 2 to a retting trough to soak it to 1 retted fabric
