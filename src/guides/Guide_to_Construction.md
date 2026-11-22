@@ -873,8 +873,17 @@ more batch to finish.
 Roofs provide shelter from bad weather, e.g. rains, blizzards and
 sandstorms, as well as a nice cool shade.
 
-Roofs are supported by walls, wooden roof supports and stone pillars and
+Roofs are supported by walls, windows, doors, wooden roof supports and stone pillars and
 columns. ***Wooden mine supports do not hold the buildable roof!***
+
+How far each support reaches, counted in tiles from the support to the roof tile (diagonals count as one):
+
+- **A wall or a window** (a window frame or glazed window) holds the roof on its own tile and every tile touching it.
+- **A door** holds only the roof on its own tile.
+- **A stone, marble, sandstone or concrete pillar** holds the roof up to 2 tiles away.
+- **A wooden or bamboo roof support** holds the roof up to 3 tiles away.
+
+Fences, palisades, sandbags, snow walls, empty wall frames and walls that are still being built do not hold a roof. In a room more than three tiles across, the middle of the room is too far from the walls: put a roof support or pillar in the middle first. If the game refuses a roof, it tells you how far away the nearest support is and how far that support reaches.
 
 Roofing piles up, up to 25 pieces in one pile, and the pile's name shows how many it holds. Drop roofing on a pile of the same roofing and it joins the pile. Use the roofing in your hand on more of the same roofing to pick up all of it from that tile. To take a single piece off a pile you are holding, click the pile with your other, empty hand. Each roof tile you build uses one piece. Roof tiles fired in a kiln come out in one pile.
 
@@ -921,9 +930,7 @@ A worn building gives fair warning before anything falls:
 </tbody>
 </table>
 
-The image below shows the roof area supported by either a roof support
-(pillars and columns support the same area) or a wall (all walls support
-the same area.)
+The image below shows the roof area supported by a roof support or a wall.
 
 <img src="../images/roof_area.png">
 
