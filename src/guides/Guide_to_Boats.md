@@ -620,6 +620,20 @@ A **yard office** (30 wood, construction, Workshops) turns the slipways, boathou
 
 The yard office is not the shipyard office that lays down an aircraft carrier.
 
+### Breaking a ship up for parts
+
+A ship you built can be taken apart again at a berth: hauled out on a slipway, in a drydock basin, or in a boathouse slip.
+
+1. Bring her to a stop at the berth and get everyone off her. Drive off any vehicle parked aboard.
+2. Use the slipway post, the dock gate or the boathouse and choose **Break up the (her name) for parts**.
+3. A window says what comes back and how long it takes. Nothing starts until you choose **Yes**.
+4. Stay by the berth while you work. Others can join in to finish sooner, and a [yard office](#yard-office) in reach speeds it up too. If you stop, the work done so far is kept and she stays whole until the end.
+
+- **What comes back:** three quarters of what her floors, walls, fittings and gunwales cost to build, stacked by the berth. Patched planks give nothing back.
+- **Cargo:** everything aboard that is not part of her is set down whole by the berth, including what is in her chests, her engines and any machines.
+- **Time:** about half as long as building her on a slipway: a second and a half for each floor and two and a half for each fitting.
+- **Who may:** if she is registered at her helm, only members of her owning group or her listed captain. A ship registered to nobody can be broken up by any player with a verified Discord account, so register her to keep her safe.
+
 ## Building your own hull
 
 You can also design a ship yourself. A hull is nothing more than **floors laid over water**, in any shape you like, with a **tiller** on one of them.
