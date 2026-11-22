@@ -47,7 +47,7 @@ A **research bench** costs 8 soft wood. Benches belong to nobody: anyone can use
 1. Put a book on the bench, click a subject in the bench window and press **Research this here**. The research is written into that book. Take the book away and the unfinished work goes with it.
 2. Stay near the bench. It makes progress while someone who knows every prerequisite of the subject is within three tiles and in sight of it, with a writing tool (see [The scholar's trade](#the-scholars-trade)). Beside the bench the work runs at full pace; two or three tiles off it runs at three quarters, so you can craft, cook or build close by while it goes on.
    - To keep both hands free, click the bench with your pencil, pen or writing slate to rest it there. Right-click the bench and choose **Take Writing Tool** to pick it up again.
-3. Speed it up by using **samples** on the bench: existing examples of things the subject unlocks. The first two kinds of sample you take apart for a chapter are worth the most, a fifth of the chapter each. Capstones also need their **prototype** before the chapter is finished, or from Steam Power on a [demonstration](#demonstrations).
+3. Speed it up by using **samples** on the bench: existing examples of things the subject unlocks. The first two kinds of sample you take apart for a chapter are worth the most, a fifth of the chapter each. Capstones also need their **prototype** before the chapter is finished, or from Steam Power on a [demonstration](#demonstrations), and some late capstones a [bill of materials](#bills-of-materials).
 4. When the research is done, the chapter is written into the book. **It teaches nobody**, not even the researcher. Whoever wants it still has to study it.
 
 The first time anyone finishes a capstone chapter, the whole world moves into the next age. Two ages have a peaceful capstone as well as a military one: the Printing Press opens the same age as Gunpowder, and Powered Flight opens the same age as Mechanized Warfare. Either one is enough.
@@ -164,6 +164,21 @@ The ages from Steam Power on don't advance when you hand a part to the bench. Th
 3. Notes on paper become **demonstration notes**. Use them on a bench that is researching the subject, with its book on the bench. A book you recorded in holds the demonstration already.
 
 The machine usually needs the very chapter it proves. If you carry a book holding at least half of the chapter, you can build a crude **experimental** version of the machine from the usual recipe. Experimental machines can fail during a demonstration (a steam engine can burst and scald anyone next to it) and fall apart after about twenty minutes.
+
+### Bills of materials
+
+Some late capstones also need a **bill of materials**: a large stock of materials delivered to the bench while the subject's book is on it. The chapter is finished only once its study, its demonstration or prototype and its bill are all in the book.
+
+| Subject | Bill |
+| --- | --- |
+| Steam Power | 60 coal, 40 iron ingots, 10 copper ingots |
+| Powered Flight | 120 steel sheets, 40 rubber sheets, 30 brass ingots, 40 cloth (in place of a prototype) |
+| Mechanized Warfare | 200 steel sheets, 40 rubber sheets, 40 lead ingots, 30 sulphur, 30 saltpeter (in place of a prototype) |
+
+- Use a stack of a listed material on the bench. The bench takes only what is still owed, and the research window lists what is left.
+- Anyone can deliver, whatever their faction and whether or not they know the subject. Buying, trading and mining abroad all count the same.
+- Deliveries are written into the book and travel with it. A copied book starts with nothing delivered, and a destroyed book loses what was in it.
+- Some of these materials come mostly from particular lands, such as rubber from the jungle lands. See [Regions](../regions/Regions.md) for what each land is rich in.
 
 ### Knowing a subject
 
