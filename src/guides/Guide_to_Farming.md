@@ -493,14 +493,14 @@ Skilled farmers (high Farming skill, with Basic Agriculture researched) can craf
 </tr>
 <tr>
 <td>Tobacco</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">O</td>
 <td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
 <td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
 <td>All</td>
 <td style="text-align:center">55</td>
 <td>Dry it, then chew it, smoke it in a pipe, or roll cigarettes in paper. See <b><a href="Guide_to_Drugs.md">Drugs and Stimulants</a></b>.</td>
@@ -535,28 +535,28 @@ Skilled farmers (high Farming skill, with Basic Agriculture researched) can craf
 </tr>
 <tr>
 <td>Hemp</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
 <td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
 <td>Spring, Summer, Fall, Wet, Dry</td>
 <td style="text-align:center">60</td>
 <td>Used to make rope and <b><a href="Guide_to_Crafting.md#retting-trough">retted fabric</a></b>.</td>
 </tr>
 <tr>
 <td>Cannabis</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">O</td>
 <td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
 <td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
 <td>Spring, Summer, Fall, Wet, Dry</td>
 <td style="text-align:center">60</td>
 <td>Dried tops are smoked; fresh tops are rubbed into hashish. See <b><a href="Guide_to_Drugs.md">Drugs and Stimulants</a></b>.</td>
@@ -661,14 +661,14 @@ Skilled farmers (high Farming skill, with Basic Agriculture researched) can craf
 </tr>
 <tr>
 <td>Poppy</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">O</td>
 <td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
 <td>All</td>
 <td style="text-align:center">75</td>
 <td>Lance ripe pods for opium, a strong painkiller. See <b><a href="Guide_to_Drugs.md">Drugs and Stimulants</a></b>.</td>
@@ -731,28 +731,28 @@ Skilled farmers (high Farming skill, with Basic Agriculture researched) can craf
 </tr>
 <tr>
 <td>Coca</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
 <td style="text-align:center">O</td>
 <td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
 <td>All</td>
 <td style="text-align:center">75</td>
 <td>Leaves are chewed or brewed into tea, and refined into cocaine. See <b><a href="Guide_to_Drugs.md">Drugs and Stimulants</a></b>.</td>
 </tr>
 <tr>
 <td>Khat</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
+<td style="text-align:center">O</td>
 <td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">O</td>
 <td>All</td>
 <td style="text-align:center">50</td>
 <td>Fresh shoots are chewed as a stimulant and wilt within the hour. See <b><a href="Guide_to_Drugs.md">Drugs and Stimulants</a></b>.</td>
