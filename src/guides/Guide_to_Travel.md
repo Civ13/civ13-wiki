@@ -68,6 +68,12 @@ Trails are the posts and gates that lead to other lands. Examine one to see wher
 
 You can set off only with a BYOND account (not as a guest), awake, at full health, and not restrained, buckled or pulling anything. A trail can also be closed for a moment while the world saves or while someone else is using it.
 
+### Waiting to leave
+
+Once you confirm a trip, you stay put until you leave. This applies to a trail, a walk over the edge of the land, a ship's crossing, a flight and a lander. Everyone travelling with you stays put too, such as your ship's crew or the others aboard. You can look around and chat, but you cannot move, use, drop or pick up anything. Whatever you were doing stops. Waking a quiet land can take a few minutes.
+
+Meanwhile nobody else can touch you or anything you carry. They also cannot touch what you ride or pull, or board, reach onto or move your ship or aircraft. If the trip falls through, you are told and can act again straight away.
+
 ### What you can take
 
 You take everything you wear, hold or carry in pockets, belt and bags, just as it is: clothing with its colours, accessories and anything in its pockets, filled waterskins and bottles, baskets and bags with whatever is inside (even a bag inside a bag), loaded guns, tools, books with their chapters and notes, ore, bones, coins and food, eaten or not.
