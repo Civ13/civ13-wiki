@@ -1,7 +1,8 @@
 # Chat Window and Filter Tabs
 
 The chat window can be split into tabs, so you can follow one kind of chat
-without it being buried under everything else.
+without it being buried under everything else. It can also translate chat
+from other players into your language.
 
 ## The tabs
 
@@ -35,6 +36,32 @@ Click **Tabs...** at the right end of the tab row to open the tab settings:
 
 Your tabs are saved on your own computer, so they are still there the next
 time you play.
+
+## Translation
+
+Chat written in another language is translated for you. The translation
+appears under the original line, starting with **Translated from Spanish:**
+(or whichever language it came from). The original line always stays.
+
+It is on by default and translates into English. To pick another language:
+
+1. Click **Tabs...** at the right end of the tab row.
+2. Under **Translation**, keep **Translate chat into my language** ticked.
+3. Choose your language in the **My language** list, then click **Done**.
+
+You can choose English, Spanish, Portuguese, French, German, Italian, Dutch,
+Polish, Russian, Ukrainian, Turkish, Swedish, Finnish, Czech, Romanian,
+Greek, Arabic, Hindi, Indonesian, Vietnamese, Thai, Chinese, Japanese or
+Korean. Untick the box to see chat only as written.
+
+- OOC, LOOC, emotes and speech your character understands are translated. Speech in
+  an in-game language your character does not know stays garbled; translation
+  never lets you understand it.
+- Only new lines are translated. Lines already on screen, and chat history
+  brought back after a reconnect, stay as written.
+- The first line in a language can take a few seconds to translate. Later
+  lines are almost instant.
+- Your choice is saved on your own computer, like your tabs.
 
 ## Repeated messages
 
