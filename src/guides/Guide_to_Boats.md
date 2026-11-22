@@ -437,7 +437,11 @@ Wear the dress, the helmet and a bottle with air in it, and you are sealed.
 
 The top row is the diving dress with the diving helmet. The second row is the hard dive suit with its helmet. The air bottles show on your back.
 
-**Leaving the boat.** When the boat is submerged, the two lock-out chambers amidships (the side sections with the yellow hatches) work as **lock-out hatches**. Stand next to one and click it. The chamber floods, and after a few seconds you step out onto the seabed beside the hull. To get back in, stand next to the same hatch on the outside and click it. Compressed air from the boat's air bank blows the chamber dry and you are back aboard. If the bank is empty you have to pump the chamber out by hand, which takes about 20 seconds. You can't use a lock-out hatch without sealed gear, or if rock or wreckage is pressed against it.
+**Leaving the boat.** When the boat is submerged, the two lock-out chambers amidships (the side sections with the yellow hatches) work as **lock-out hatches**. Stand next to one inside the boat, click it and choose **Lock out**. The chamber floods, and after a few seconds you step out onto the seabed beside the hull. To get back in, stand next to the same hatch on the outside and click it. Compressed air from the boat's air bank blows the chamber dry and you are back aboard. If the bank is empty you have to pump the chamber out by hand, which takes about 20 seconds. You can't use a lock-out hatch without sealed gear, or if rock or wreckage is pressed against it.
+
+**Securing the hatch.** From inside, click a lock-out hatch and choose **Dog the outer hatch**. A dogged hatch can't be opened from the seabed, so divers outside can't get in. They can only hammer on it, and everyone aboard hears it. Choose **Free the outer hatch** to let them in again. Whoever goes out through a hatch undogs it on the way out, so dog it again behind them.
+
+**Escaping a sunk boat.** Each lock-out chamber is also an escape trunk. Without any diving gear, click the hatch from inside and choose **Escape to the surface**. The chamber floods, and you make a free ascent to the open sea above the hatch. From the shelf you come up short of breath. From open water you come up gasping and hurt. From the deep or the abyss you can't escape this way, so wait for help or go out in a suit built for that depth. Nothing can be floating above the hatch.
 
 **Depth.** The farther you are from land, the deeper the water gets. Examine the water to see how deep you are. The four depths are:
 
