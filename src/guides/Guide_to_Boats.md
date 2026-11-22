@@ -929,6 +929,24 @@ A land that nobody settles or claims, and that nobody visits for **7 days**, is 
 
 **A claimed land stays your faction's** while your faction lives there. If raiders destroy the charter, the colony still stands: members who arrive still join it, nobody else can claim the land, and the colony's leader can plant the charter again. The claim lapses only if fewer than **3** of the colony's members have their own fastened bed there for **14 days** in a row. Members are warned when that starts, and examining the charter shows how long is left. When a claim lapses the charter comes down and the land stays settled, open to any faction's claim.
 
+### Your faction's island
+
+Every faction can claim **one island of its own** across the sea, as a safe haven that only the people it chooses can reach. To claim one, your leader sails there (see above) and plants the colony charter. **Faction > Faction Island** shows whether your faction has an island and who may land there; without one, it tells you how to claim it.
+
+Your leader, and officers who issue papers, choose the island's border from any land with **Faction > Faction Island**:
+
+| Border | Who may land |
+| --- | --- |
+| **Open to visitors** | Anyone. |
+| **Members and guests** (the start) | Members, the guests your faction names, and anyone holding one of its visitor passes. A guest is named while standing beside the officer. |
+| **Members only** | Only members. The border is closed, whatever passes say. |
+
+**Visitor passes:** your leader or an officer who issues papers right-clicks one of your faction's recruitment stations and chooses **Grant Island Visitor Pass**. It goes to someone standing beside the station, for 1 hour to 7 days, and can be taken back the same way. A pass only works while the border admits guests.
+
+Nobody else can sail for the island. Your chart only lists it for people it admits, and a ship will not set out, or make landfall, with anyone aboard who may not land. Every other way there refuses them too. Anyone who is on the island without leave, because the border closed, a pass ran out or they left the faction, is warned and has **10 minutes** to go. After that they are put ashore on the mainland. Captives held in restraints stay where they are.
+
+Members who properly go to **Sleep** in their own bed on the island, and then log off, cannot be harmed while they are away, just as in a province their faction holds. If your faction gives the claim up, or it lapses, the border goes with it and any ship can reach the land again.
+
 Until a land is settled or claimed, **dying there sends you back to the mainland**, even if you have a bed there. Your body and gear stay where you fell, and your crew and ship carry on without you.
 
 ### Sailing on
