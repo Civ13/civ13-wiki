@@ -309,7 +309,7 @@ Once your group knows **Pottery & Cookware**, you can make a **clay crock** from
 
 - **Vinegar**: pour wine, cider, beer or mead into a crock and put the lid on (use it in hand). While closed it slowly sours into vinegar, a few units every couple of minutes.
 - **Pickling**: with the lid off, click fruit or vegetables onto the crock to pack up to 4 of them inside. Add 5 vinegar and 2 salt for each one, then close the lid. After about six minutes they come out pickled and never spoil. Alt-click the open crock to take food back out.
-- **Jam**: mix 10 berry, grape, apple, apricot or orange juice with 5 sugar or 5 honey to get 10 jam. A preserve jar holds 20 jam; click a slice of bread with it to spread 5 jam and make jellied toast.
+- **Jam**: mix 10 berry, grape, apple, apricot or orange juice with 5 sugar, 5 honey or 5 maple syrup ([syrups](Guide_to_Cooking.md#syrups)) to get 10 jam. A preserve jar holds 20 jam; click a slice of bread with it to spread 5 jam and make jellied toast.
 
 ## Farmer's almanac
 

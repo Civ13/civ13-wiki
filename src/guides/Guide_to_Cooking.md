@@ -493,6 +493,24 @@ Delicious Iberian ham.
   - Get a barrel and fill it with 100u of water 1u of yeast and 100 of
     flour.
 
+## Syrups
+
+Syrups are made by boiling. Put the ingredients in a small pot, set the pot on a lit campfire, oven or wood stove, and let it finish boiling.
+
+- **Tree sap**: at the end of winter and in spring, hold a knife in one hand and use an open container (a bucket or pot) on a living broadleaf tree in a temperate or northern forest. You catch 10 units of sap, and the same tree drips again after about 20 minutes. Pines give resin instead, and the sap does not run in summer or autumn.
+- **Maple syrup**: boil sap down. Every 8 units of sap give 1 unit of thick maple syrup.
+- **Simple syrup**: boil sugar with the same amount of water.
+- **Maple sugar**: boil maple syrup on its own, with no water in the pot, and it sets into sugar.
+- **Molasses**: boil simple syrup on its own, with no water in the pot. Clean sugar crystallises out and leaves dark molasses behind.
+
+Uses:
+
+- **Fruit syrup**: mix 5 berry, grape, apple, apricot or orange juice with 10 simple syrup to get 15 fruit syrup.
+- **Lemonade**: mix 1 lemon juice with 2 simple syrup to get 3 lemonade.
+- **Jam**: 5 maple syrup sets 10 fruit juice into jam, just as sugar or honey does.
+- **Rum**: molasses and water ferment into rum with yeast. You need less molasses than sugar for the same amount of rum.
+- All syrups are sweet food and lift your mood a little.
+
 ## Canning
 
 Canning is a good way to preserve food for later consumption.
