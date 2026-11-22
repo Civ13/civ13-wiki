@@ -89,7 +89,7 @@ Open your browser to `http://localhost:3000` and changes will auto-refresh.
 
 ```
 src/              # Markdown source files
-├── SUMMARY.md    # Navigation structure (single source; scripts/nav.py renders the overview pages from it)
+├── SUMMARY.md    # Navigation structure (single source; scripts/nav.py renders the section, overview and main page blocks from it)
 ├── index.md      # Home page
 ├── guides/       # User guides
 ├── gamemodes/    # Game mode documentation
@@ -99,7 +99,7 @@ src/              # Markdown source files
 theme/            # mdBook theme customization (stock templates are not vendored)
 ├── head.hbs      # HTML head injection (preview marker, DMI sprite component)
 └── compiled/     # Site CSS (ss14.css)
-scripts/          # Build and check scripts (nav.py, check_decay_times.py, ...), plus nav-additions.js (page TOC, subpage footer)
+scripts/          # Build and check scripts (nav.py, check_decay_times.py, ...), plus nav-additions.js (page TOC, trail, section footer, sidebar search)
 book.toml         # mdBook configuration
 ```
 

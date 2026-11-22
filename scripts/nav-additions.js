@@ -70,22 +70,106 @@ window.addEventListener("load", () => {
 		});
 	}
 
-	/* Populate subpage footer */
+	/* A visible way into search, at the top of the sidebar. Added on load
+	   because the sidebar fills itself in after this script first runs. */
+	var scrollbox = document.querySelector("#sidebar .sidebar-scrollbox");
+	var toggle = document.getElementById("search-toggle");
+	if (scrollbox && toggle && !document.querySelector(".wiki-sidebar-search")) {
+		var search = document.createElement("button");
+		search.type = "button";
+		search.className = "wiki-sidebar-search";
+		search.textContent = "Search the wiki";
+		var hint = document.createElement("kbd");
+		hint.textContent = "S";
+		search.appendChild(hint);
+		search.addEventListener("click", () => {
+			var wrapper = document.getElementById("search-wrapper");
+			if (wrapper && wrapper.classList.contains("hidden")) toggle.click();
+			var bar = document.getElementById("searchbar");
+			if (bar) bar.focus();
+		});
+		scrollbox.insertBefore(search, scrollbox.firstChild);
+	}
 
-	/* Get next sibling of active list element
-       then check if it has a nested ol
-       if so, this implies our current active element has nested subpages */
+	/* Trail ("you are here") above the page, and the footer list below it.
+	   Both are read from the sidebar, so they follow SUMMARY.md and cannot
+	   go stale. A page with subpages lists them; any other page lists the
+	   rest of its section. */
+	var main = document.querySelector("#content > main");
+	var home = document.querySelector(".chapter > li.chapter-item > a");
+	var parentOf = (link) => {
+		var list = link.closest("ol.section");
+		var holder = list ? list.parentElement.previousElementSibling : null;
+		return holder ? holder.querySelector(":scope > a:not(.toggle), :scope > div") : null;
+	};
+	var plainLink = (source) => {
+		var item;
+		if (source.href) {
+			item = document.createElement("a");
+			item.href = source.href;
+		} else {
+			item = document.createElement("span");
+		}
+		item.textContent = source.textContent.trim();
+		return item;
+	};
+	if (active && main && home && active !== home && !document.querySelector(".wiki-trail")) {
+		var chain = [];
+		for (var step = parentOf(active); step; step = step.tagName === "A" ? parentOf(step) : parentOf(step.parentElement)) {
+			chain.unshift(step);
+		}
+		chain.unshift(home);
+		var trail = document.createElement("nav");
+		trail.className = "wiki-trail";
+		trail.setAttribute("aria-label", "You are here");
+		chain.forEach((source) => {
+			trail.appendChild(plainLink(source));
+			var divider = document.createElement("span");
+			divider.className = "wiki-trail-divider";
+			divider.setAttribute("aria-hidden", "true");
+			divider.textContent = "\u203A";
+			trail.appendChild(divider);
+		});
+		var here = document.createElement("span");
+		here.setAttribute("aria-current", "page");
+		here.textContent = active.textContent.trim();
+		trail.appendChild(here);
+		var sidetoc = main.querySelector(":scope > .sidetoc");
+		main.insertBefore(trail, sidetoc ? sidetoc.nextSibling : main.firstChild);
+	}
+
 	var nextListEl = active ? active.parentElement.nextElementSibling : null;
 	var footer = document.getElementById("subpage-footer");
 	if (footer) {
 		footer.style.display = "none";
-		if (nextListEl != null) {
-			console.log(nextListEl);
-			var list = nextListEl.querySelector(".section");
-			if (list != null) {
-				footer.style.display = "block";
-				footer.appendChild(list.cloneNode(true));
-			}
+		var subpages = nextListEl ? nextListEl.querySelector(":scope > .section") : null;
+		var siblings = active ? active.closest("ol.section") : null;
+		var section = active ? parentOf(active) : null;
+		var fill = (label, list) => {
+			var copy = list.cloneNode(true);
+			/* One level is enough: drop nested lists and their toggles. */
+			copy.querySelectorAll("ol.section, a.toggle").forEach((el) => {
+				var holder = el.tagName === "OL" ? el.parentElement : el;
+				holder.remove();
+			});
+			copy.querySelectorAll("a.active").forEach((el) => {
+				el.setAttribute("aria-current", "page");
+			});
+			footer.querySelector("p").textContent = label;
+			footer.appendChild(copy);
+			footer.style.display = "block";
+		};
+		/* A section page that already describes each of its pages needs no second list. */
+		var described = (list) => {
+			var onPage = Array.prototype.map.call(main ? main.querySelectorAll("a[href]") : [], (el) => el.href);
+			return Array.prototype.every.call(list.querySelectorAll(":scope > li > a:not(.toggle)"), (el) => onPage.indexOf(el.href) !== -1);
+		};
+		if (subpages && described(subpages)) {
+			/* nothing to add */
+		} else if (subpages) {
+			fill("In this section", subpages);
+		} else if (siblings && section && siblings.querySelectorAll(":scope > li > a:not(.toggle)").length > 1) {
+			fill("More in " + section.textContent.trim(), siblings);
 		}
 	}
 
