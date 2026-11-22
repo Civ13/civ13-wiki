@@ -74,9 +74,12 @@ Use the sharpened flint on grass or tall grass for **grass cuttings**, then hold
 
 Craft a **handle** from wood, then click it with a piece of animal fat, or with a container holding at least 5 units of olive oil, fat oil, corn oil or petroleum. Click the torch in hand to light it. One piece of fat burns for about 10 minutes. See [Lighting](Starter_Guide.md).
 
-### Why can't I craft something as simple as a roof or a bed?
+### Where do I get a manual, such as the Basic Toolmaking manual? Why can't I craft a roof or a bed?
 
-On worlds where research is written into books, crafting checks what **you** know. Most recipes need you to have studied their chapter, such as **Basic Toolmaking**. The founder of a faction receives the **Stone Age master book**; hold it, use it and press **Study** beside a chapter. Pencils, paper and blank books need no knowledge. See [Books and Scholars](guides/Guide_to_Books_and_Scholars.md#getting-started).
+Crafting checks what **you** know, so most recipes need you to learn their subject first, such as **Basic Toolmaking**.
+
+- **Where research is written into books:** the founder of a faction receives the **Stone Age master book**. Hold it, use it and press **Study** beside a chapter. Pencils, paper and blank books need no knowledge. See [Books and Scholars](guides/Guide_to_Books_and_Scholars.md#getting-started).
+- **Where research gives recipe manuals:** when your faction finishes researching a subject, a manual for it, such as the **Basic Toolmaking manual**, appears at your faction's research bench. Use it in hand to study its recipes; it can be used again by others. Someone who knows the recipes can copy a manual with **Write recipe manual** in the IC tab, holding a pen and a blank sheet of paper or parchment for two minutes.
 
 ## Research and scholarship
 
