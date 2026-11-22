@@ -66,7 +66,7 @@ The wiki will be served at `http://localhost:3000`. When using `mdbook serve`, t
 ### File Organization
 
 - `src/` — All markdown source files (the content you edit)
-- `src/SUMMARY.md` — Wiki table of contents and navigation structure. Every page must be listed here exactly once; the Guides and Maps overview pages are generated from it (run `python3 scripts/nav.py --write` after changing it)
+- `src/SUMMARY.md` — Wiki table of contents and navigation structure. Every page must be listed here exactly once; the section pages in `src/topics/`, the Find a Guide and Maps pages and the main page's section cards are generated from it (run `python3 scripts/nav.py --write` after changing it). Each guide's one-line description lives in `scripts/nav_blurbs.json`
 - `images/` — Images and sprites used in pages
 - `book/` — Compiled output (generated automatically, do not edit)
 - `theme/` — mdBook theme customization
@@ -76,12 +76,12 @@ The wiki will be served at `http://localhost:3000`. When using `mdbook serve`, t
 Start from a template so new pages share one shape:
 
 ```bash
-python3 scripts/new_page.py guide "Guide to Beekeeping" --group "Food & Animals"
+python3 scripts/new_page.py guide "Guide to Beekeeping" --group "Food & Farming" --blurb "Wild nests, kept hives, honey and wax."
 python3 scripts/new_page.py map "Verdun" --group "Early Firearms (1650 to 1930)"
 python3 scripts/new_page.py gamemode "Train Raid"
 ```
 
-This copies `templates/<kind>.md` into the right folder, lists the page in `SUMMARY.md` under the named group (or at the end of the section), and regenerates the overview pages. Replace every placeholder before opening a pull request; delete a section rather than leaving it empty.
+This copies `templates/<kind>.md` into the right folder, lists the page in `SUMMARY.md` under the named section or group, saves a guide's one-line description, and regenerates the navigation blocks. Put a guide in the section a player would look in first; the "you are here" trail and the "More in this section" list on every page follow `SUMMARY.md` automatically. Replace every placeholder before opening a pull request; delete a section rather than leaving it empty.
 
 ### Keeping pages current
 

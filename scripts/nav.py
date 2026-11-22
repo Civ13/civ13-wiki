@@ -8,11 +8,22 @@ script renders those groups into the overview pages between marker comments:
     ...generated...
     <!-- /nav -->
 
+A title starting with `#` names a part, so `<!-- nav:#Guides -->` renders the
+sections listed under `# Guides`. Two more block kinds use the one-line
+descriptions in scripts/nav_blurbs.json:
+
+    <!-- nav-list:Start Here -->   a section's pages, each with its description
+    <!-- nav-cards:#Guides -->     a card per section, for the main page
+
+Every section and page under `# Guides` needs a description there.
+
 `--write` regenerates the blocks in place; `--check` (the CI default) fails
 when a block is stale, a page is missing from SUMMARY.md, a SUMMARY.md entry
 points at a missing file, or a page is listed twice.
 """
 import argparse
+import html
+import json
 import os
 import re
 import sys
@@ -21,15 +32,18 @@ from pathlib import Path
 SRC = Path('src')
 SUMMARY = SRC / 'SUMMARY.md'
 UNLISTED = {'SUMMARY.md', '404.md'}
+BLURBS = Path(__file__).resolve().parent / 'nav_blurbs.json'
+DESCRIBED_PART = 'Guides'
 ENTRY = re.compile(r'^(\s*)- \[([^\]]+)\]\(([^)]*)\)\s*$')
-BLOCK = re.compile(r'(<!-- nav:([^>]+?) -->\n)(.*?)(<!-- /nav -->)', re.S)
+BLOCK = re.compile(r'(<!-- (nav|nav-list|nav-cards):([^>]+?) -->\n)(.*?)(<!-- /nav -->)', re.S)
 
 
 class Node:
-    def __init__(self, title, path, depth):
+    def __init__(self, title, path, depth, part=None):
         self.title = title
         self.path = path
         self.depth = depth
+        self.part = part
         self.children = []
 
 
@@ -38,7 +52,11 @@ def parse(text=None):
     text = SUMMARY.read_text(encoding='utf-8') if text is None else text
     roots = []
     stack = []
+    part = None
     for number, line in enumerate(text.splitlines(), 1):
+        if line.startswith('# '):
+            part = line[2:].strip()
+            continue
         if not line.strip() or line.startswith('#'):
             continue
         match = ENTRY.match(line)
@@ -46,7 +64,7 @@ def parse(text=None):
             raise SystemExit(f'SUMMARY.md:{number}: cannot parse {line!r}')
         indent, title, path = match.groups()
         depth = len(indent.replace('\t', '    ')) // 4
-        node = Node(title, path, depth)
+        node = Node(title, path, depth, part)
         while stack and stack[-1].depth >= depth:
             stack.pop()
         (stack[-1].children if stack else roots).append(node)
@@ -61,10 +79,19 @@ def walk(nodes):
 
 
 def find(nodes, title):
+    if title.startswith('#'):
+        members = [node for node in nodes if node.part == title[1:]]
+        if not members:
+            raise SystemExit(f'SUMMARY.md has no part titled {title[1:]!r}')
+        return Node(title[1:], '', -1, title[1:]), members
     for node in walk(nodes):
         if node.title == title:
-            return node
+            return node, node.children
     raise SystemExit(f'SUMMARY.md has no entry titled {title!r}')
+
+
+def blurbs():
+    return json.loads(BLURBS.read_text(encoding='utf-8'))
 
 
 def relative(target, page):
@@ -72,10 +99,43 @@ def relative(target, page):
     return Path(os.path.relpath(SRC / target, (SRC / page).parent)).as_posix()
 
 
-def render(node, page):
-    """Render a node's child groups as sections for the given overview page."""
+def render_list(children, page, data):
+    """Render pages as a described list, nesting one level of subpages."""
     lines = []
-    for group in node.children:
+
+    def emit(items, indent):
+        for item in items:
+            blurb = data['pages'].get(item.path, '')
+            text = f'{indent}- **[{item.title}]({relative(item.path, page)})**'
+            lines.append(f'{text}: {blurb}' if blurb else text)
+            emit(item.children, indent + '    ')
+
+    emit(children, '')
+    lines.append('')
+    return '\n'.join(lines)
+
+
+def render_cards(sections, page, data):
+    """Render one card per section: icon, title, description and every page."""
+    lines = ['<div class="wiki-topic-grid">']
+    for section in sections:
+        meta = data['sections'].get(section.path, {})
+        icon = relative('images/icons/' + meta.get('icon', 'guides') + '.png', page)
+        links = ''.join(f'<li><a href="{relative(item.path, page)}">{html.escape(item.title)}</a></li>'
+                        for item in section.children)
+        lines.append(
+            f'<section class="wiki-topic"><h3><img src="{icon}" alt="" width="36" height="36">'
+            f'<a href="{relative(section.path, page)}">{html.escape(section.title)}</a></h3>'
+            f'<p>{html.escape(meta.get("blurb", ""))}</p><ul>{links}</ul></section>')
+    lines.append('</div>')
+    lines.append('')
+    return '\n'.join(lines)
+
+
+def render(children, page):
+    """Render child groups as sections for the given overview page."""
+    lines = []
+    for group in children:
         heading = f'[{group.title}]({relative(group.path, page)})' if group.path else group.title
         lines.append(f'## {heading}')
         lines.append('')
@@ -89,14 +149,23 @@ def render(node, page):
 
 def update(roots, write):
     stale = []
+    data = blurbs()
     for page in sorted(SRC.rglob('*.md')):
         text = page.read_text(encoding='utf-8')
-        if '<!-- nav:' not in text:
+        if '<!-- nav' not in text:
             continue
         rel = page.relative_to(SRC).as_posix()
 
         def replace(match):
-            return match.group(1) + render(find(roots, match.group(2)), rel) + match.group(4)
+            kind = match.group(2)
+            children = find(roots, match.group(3))[1]
+            if kind == 'nav-list':
+                body = render_list(children, rel, data)
+            elif kind == 'nav-cards':
+                body = render_cards(children, rel, data)
+            else:
+                body = render(children, rel)
+            return match.group(1) + body + match.group(5)
 
         updated = BLOCK.sub(replace, text)
         if updated != text:
@@ -117,6 +186,22 @@ def check(roots):
         seen[node.path] = node.title
         if not (SRC / node.path).is_file():
             problems.append(f'SUMMARY.md links to missing page {node.path}')
+    data = blurbs()
+    for section in roots:
+        if section.part != DESCRIBED_PART:
+            continue
+        if not data['sections'].get(section.path, {}).get('blurb'):
+            problems.append(f'{section.path} has no section description in scripts/nav_blurbs.json')
+        icon = data['sections'].get(section.path, {}).get('icon', 'guides')
+        if not (SRC / 'images' / 'icons' / f'{icon}.png').is_file():
+            problems.append(f'{section.path} names a missing icon {icon!r} in scripts/nav_blurbs.json')
+        for node in walk(section.children):
+            if not data['pages'].get(node.path):
+                problems.append(f'{node.path} has no description in scripts/nav_blurbs.json')
+    listed = set(seen)
+    for path in list(data['sections']) + list(data['pages']):
+        if path not in listed:
+            problems.append(f'scripts/nav_blurbs.json describes {path}, which SUMMARY.md does not list')
     for page in sorted(SRC.rglob('*.md')):
         rel = page.relative_to(SRC).as_posix()
         if rel not in seen and rel not in UNLISTED:
