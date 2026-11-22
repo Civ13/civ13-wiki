@@ -506,6 +506,7 @@ Bigger ships are built on a **slipway**: a berth on the shore where the crew add
 | --- | --- | --- | --- | --- |
 | Sailing schooner | Wagons & Ships | 14 x 5 tiles, one deck | 16 | 180 planks, 20 cloth, 4 rope |
 | Motor freighter | Combustion Engine | 20 x 7 tiles, deck and hold | 20 | 214 steel, 20 cable, 10 glass |
+| Light cruiser | Naval Mines | 20 x 7 tiles, deck and hold | 26 | 578 steel, 20 cable, 10 glass |
 
 ### Setting up the slipway
 
@@ -559,6 +560,7 @@ A freighter and a schooner afloat after their launch, with another freighter on 
 
 - **Sailing schooner:** she comes off the ways as a [hull of your own](#building-your-own-hull): 62 tiles of ship floor, two rigged masts and a **tiller** at the stern, named after her design. Sail her from the tiller like any built hull: she glides smoothly with her crew walking her deck, needs **no fuel**, and her two sails make half ahead on a reach (slower running before the wind or beating into it). Bilge, seams, anchors and rigging work as for any built hull. Register her in the papers at the tiller.
 - **Motor freighter:** she also comes off the ways as a [hull of your own](#building-your-own-hull), with a steel deck, the wheelhouse at the stern with her **tiller** inside, and a ladder amidships down to her **cargo hold** below the waterline. The hold sails with her, along with everyone and everything in it. Through the door at the back of the hold is the **engine room** with a **diesel engine** and its fuel **barrel**. Pour **diesel** into the barrel (250 units) and click the engine to start it: with it running she makes **full ahead**, and with it stopped she can only be poled along at slow ahead. Sail her from the tiller like any built hull. She glides smoothly and burns fuel as an engine does on any hull. Register her in the papers at the tiller.
+- **Light cruiser:** a warship on the freighter's hull, with the same hold, engine room and engine, and the same handling. She carries a [gun turret](#building-your-own-hull) fore and aft. Each turret stands over a **shell rack** in her hold, so stock the racks with shells and Alt-click a turret to hoist one into the breech. Her sides are lined with **belt armour** plates. The racks come empty.
 
 ### Hauling a ship out for repairs
 
