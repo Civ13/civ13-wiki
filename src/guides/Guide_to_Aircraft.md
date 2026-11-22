@@ -253,6 +253,8 @@ Instead of laying her plank by plank, you can draw an airship on a ship's draugh
 
 She is laid facing north, commissioned under the sheet's name and held in place. Her gas cells hang empty and her fuel tanks are empty, with each engine connected to the nearest tank. Fill the cells with [lifting gas](#lifting-gas) and the tanks with fuel, then cast off and lift off at her helm.
 
+To break an airship down for parts, land her wholly on the ground northeast of the yard with nobody aboard, then use the yard and choose **Break down the (her name) for parts**. A window shows what goes back before anything starts. Everything she cost goes back into the yard's stock, less for damaged parts, and her cargo is set down by the yard. If she is registered, only her owners or her captain can do this. If she is registered to nobody, only a player with a verified Discord account can.
+
 ## Tips
 
 - Hangar the plane when you are done flying. A hangared plane is kept safe across saves.

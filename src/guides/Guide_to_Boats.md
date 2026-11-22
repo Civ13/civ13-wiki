@@ -629,7 +629,7 @@ A ship you built can be taken apart again at a berth: hauled out on a slipway, i
 3. A window says what comes back and how long it takes. Nothing starts until you choose **Yes**.
 4. Stay by the berth while you work. Others can join in to finish sooner, and a [yard office](#yard-office) in reach speeds it up too. If you stop, the work done so far is kept and she stays whole until the end.
 
-- **What comes back:** three quarters of what her floors, walls, fittings and gunwales cost to build, stacked by the berth. Patched planks give nothing back.
+- **What comes back:** everything her floors, walls, fittings and gunwales cost to build, stacked by the berth. Damaged parts give back less, and a patched plank gives back half.
 - **Cargo:** everything aboard that is not part of her is set down whole by the berth, including what is in her chests, her engines and any machines.
 - **Time:** about half as long as building her on a slipway: a second and a half for each floor and two and a half for each fitting.
 - **Who may:** if she is registered at her helm, only members of her owning group or her listed captain. A ship registered to nobody can be broken up by any player with a verified Discord account, so register her to keep her safe.
