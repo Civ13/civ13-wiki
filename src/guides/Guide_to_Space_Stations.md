@@ -39,6 +39,39 @@ The station is built around a central **hub** with arms on each side, and a trus
 
 The hub holds the heater, radiator and CO2 scrubber in its corners. The workshop holds a bench, the supply crate, the **orbit console** and the return hatch. The crate has hull patch kits, two pressure suits and helmets, two suit tanks, a suit patch kit, two safety tethers, cable, two sorbent cartridges, food and water. From 2013 it adds a node module kit, and from 2026 a sector beacon.
 
+## Planning your own station
+
+Instead of the starter station, you can launch a station you planned yourself. Plans are drawn on a **ship's draught** (1 wood, papermaking), the same sheet used to plan boats.
+
+1. Hold a blank draught and a pen or pencil, use the draught, and choose **Draw a space station on the sheet**. You can start from a ready-made plan.
+2. Lay out the modules on a 7 x 7 grid, north at the top. Modules side by side dock, with a hatch in the wall they share.
+3. Start the station project at your launch complex office, then use the plan on the office. From then on the office asks for what that plan needs.
+4. Hand over the materials and fly up as usual. The first member to arrive founds the station exactly as drawn.
+
+| Module | What it holds |
+| --- | --- |
+| **Command module** | The orbit console, supply crate, bench, heater, CO2 scrubber, radiator and the return hatch home. Every plan has exactly one. |
+| **Quarters** | Two bunks. |
+| **Greenhouse** | Two hydroponics trays. |
+| **Workshop** | A workbench. |
+| **Storage** | Two crates. |
+| **Node** | A deck hatch for building decks above or below later. |
+| **Airlock** | A way out on EVA. |
+| **Keel airlock** | The airlock the keel runs out from. Every plan has exactly one. |
+
+What a plan needs:
+
+- **One command module and one keel airlock.** The keel airlock must dock to just one module, at the end of an arm. The keel runs 12 tiles out from it, with the solar boom across it 9 tiles out, so keep the slots beyond it empty.
+- **Every module docked** to the rest, north, south, east or west.
+- **At most 12 modules.**
+- **The research** for every module's kit.
+
+The sheet tells you what is wrong with a plan, and warns you about modules more than two hatches from the command module's life support and about a station with no quarters. Each part is described when you pick it.
+
+A plan up to the size of the starter station for your era costs what the starter does: 180 steel, 40 glass, 40 copper and 60 electronics. That is 3 modules in 1969, 5 from 2013 and 8 from 2026. Each module beyond that costs 60 more steel.
+
+To copy a station you already have, use a blank sheet of paper on its orbit console. The plan is drawn from its modules. Design codes copy plans between sheets.
+
 ## Living aboard
 
 - **Air.** Each module keeps its own air. With the hatches between modules open, they share it. An open hatch to nothing, or a hole in the hull, is a breach: patch it with a hull patch kit.
