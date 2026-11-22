@@ -76,6 +76,10 @@ Pick your members wisely. Or cunningly use them to your advantage.
 
 Work smart, not hard!
 
+```admonish tip
+New to factions? [Factions, Provinces & Nations](../guides/Guide_to_Factions.md) walks through founding a faction, its offices, holding provinces, faction islands, nations and war step by step. The sections below are the full reference.
+```
+
 #### General
 
 * To **Create** a faction, open the **Faction tab** and click **Create Faction**. Choose a name for it and draw your faction's symbol on the 32x32 canvas, or stamp one of the classic shapes and draw over it. Your banner colours are taken from the drawing. As Leader you can change the symbol later with **Modify Faction Symbol** on the **Faction tab**.
