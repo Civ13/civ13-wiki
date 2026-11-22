@@ -71,6 +71,27 @@ The **hot press** (12 steel, production category, needs Combustion Engine) bonds
 
 Phenolic resin gives 2 sheets of laminate from cloth and 3 from silk. Plain pine resin gives half as much. At the armor workbench, Dayfield body armor takes 4 laminate and 6 steel, and heavy Dayfield body armor takes 6 laminate and 14 steel.
 
+## Particle board
+
+Large and powered saw mills leave a pile of **sawdust** beside the planks for every two logs they cut. The primitive saw mill leaves none. The hot press bonds sawdust and resin into **particle board**:
+
+1. Pour at least 10 units of phenolic resin, or plain pine resin, into the press.
+2. Click the press with 4 piles of sawdust.
+
+Phenolic resin gives 3 sheets and pine resin gives 2. Particle board is cheaper and quicker to build with than planks, but weaker. Use the sheets in hand to build these:
+
+| Build | Sheets |
+| --- | --- |
+| Shelf | 4 |
+| Table | 4 |
+| Wardrobe | 4 |
+| Wall cabinet | 3 |
+| Bookcase | 4 |
+| Partition wall | 3 |
+| Floor | 1 |
+
+Particle board is for indoor work only, and it cannot be built aboard a ship. Keep it dry. Sheets or builds that sit in floodwater, puddles or open water, or out in the rain, swell after about two minutes. Swollen sheets can no longer be built with, and a swollen partition wall is half as strong. After about five wet minutes it falls apart and drops whatever it held.
+
 ## Nylon
 
 Weave nylon thread at a loom for **nylon cloth**, a light, strong cloth that does not rot. It makes foldable canopies, ponchos, folding umbrellas and rope.
