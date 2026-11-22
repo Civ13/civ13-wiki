@@ -3,6 +3,7 @@
 Living with other people: talking to them, belonging to a people and a faith, trading with them and holding a role they rely on.
 
 <!-- nav-list:Society & Trade -->
+- **[Factions, Provinces & Nations](../guides/Guide_to_Factions.md)**: Founding and running a faction, holding provinces, faction islands, nations and war.
 - **[Communications](../guides/Guide_to_Communications.md)**: Towers, radios and other devices, radio and TV stations, clocks and bells.
 - **[Peoples and Languages](../guides/Guide_to_Peoples_and_Languages.md)**: Your people, your mother tongue and learning new languages.
 - **[Races](../guides/Guide_to_Races.md)**: Playable species and their traits.
