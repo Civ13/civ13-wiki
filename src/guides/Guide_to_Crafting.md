@@ -1144,6 +1144,16 @@ With **Composite Armour** research (Military, needs Modern Armor and Mechanized 
 
 Each wall takes one panel. It adds half the wall's armour again (at least 20) and some health, and weighs half what that much extra steel would, so a plated tank is much tougher but a little slower. Examining the frame shows which walls are covered.
 
+#### Breaking a vehicle down for parts
+
+A press can take back what it builds. This works at the automobile workshop, the aircraft hangar and the other vehicle presses.
+
+1. Park the vehicle wholly in the square northeast of the press. Stop it, turn the engine off and get everyone out.
+2. Use the press and choose **Break down the (its name) for parts**. A keyed vehicle needs its key in your hand. A vehicle with no key can only be broken down by a player with a verified Discord account.
+3. A window says what goes back and how long it takes. Nothing starts until you choose **Yes**. Stay by the press while it works.
+
+Everything it cost to build goes back into the press's stock, less for damaged parts. Use **Unload inputs** to take the materials out. Anything in its boot or hold and anything else loose aboard is set down by the press. A vehicle the press cannot draw on a sheet is refused, so take that one apart by hand.
+
 ### Vehicle garage
 
 Once you have **Automobiles**, you can craft a vehicle garage from **20 steel** in the production category. It is a control post with a **4x4** parking bay to its northeast, and it holds up to **3 cars**. Storing a car takes it off the map until you take it out again.
