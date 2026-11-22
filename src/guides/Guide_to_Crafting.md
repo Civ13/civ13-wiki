@@ -450,7 +450,7 @@ For making guns in every era, see the [Guide to Gunsmithing](Guide_to_Gunsmithin
 
 For optic rails, attachment tools and repair limits, see [Firearm maintenance and configuration](Guide_to_Weapons.md#firearm-maintenance-and-configuration).
 
-Combine a pickaxe, shovel or hatchet head with a handle using the head-on-handle interaction. The ordinary wood handle costs **1 plank**; the **plank handle** costs **2 planks**, and the **reinforced handle** costs **2 iron ingots** with the wrench's research threshold. Head recipes and their own requirements still apply.
+Combine a pickaxe, shovel or hatchet head with a handle using the head-on-handle interaction. The ordinary wood handle costs **1 plank**; the **plank handle** costs **2 planks**, the **reinforced handle** costs **2 iron ingots** with the wrench's research threshold, and the **plastic handle** costs **2 plastic sheets** from a [bakelizer](#bakelizer). Head recipes and their own requirements still apply.
 
 The handle you use shapes the finished tool, whether you fit a head by hand or craft the tool from a recipe:
 
@@ -459,6 +459,7 @@ The handle you use shapes the finished tool, whether you fit a head by hand or c
 | Wood handle | 1 plank | The usual durability and speed |
 | Plank handle | 2 planks | Last 35% longer and work 35% faster |
 | Reinforced handle | 2 iron ingots | Last 50% longer at the usual speed |
+| Plastic handle | 2 plastic sheets | Last 40% longer and work 40% faster |
 
 Speed counts for pickaxes, shovels and hoes. Examine a handle to see what it gives.
 
