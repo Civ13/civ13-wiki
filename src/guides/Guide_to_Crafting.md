@@ -457,12 +457,12 @@ The handle you use shapes the finished tool, whether you fit a head by hand or c
 | Handle | Cost | Tools built on it |
 | --- | --- | --- |
 | Wood handle | 1 plank | The usual durability and speed |
-| Plank handle | 2 planks | Last 50% longer and work 25% faster |
-| Reinforced handle | 2 iron ingots | Last 50% longer but work 18% slower |
+| Plank handle | 2 planks | Last 35% longer and work 35% faster |
+| Reinforced handle | 2 iron ingots | Last 50% longer at the usual speed |
 
 Speed counts for pickaxes, shovels and hoes. Examine a handle to see what it gives.
 
-The assembled tool retains both component materials and qualities. Its quality is the lower input quality, bounded from 0.5 to 2, and its condition starts at the worse input condition. A better handle cannot erase damage or upgrade a crude head's quality. Handle integrity affects capacity; handle weight affects shovel and pickaxe work speed, while head hardness also affects pickaxe speed. These tradeoffs change work duration and durability, not mineral yield. Hatchet tree-chopping delays keep their existing behavior.
+The assembled tool retains both component materials and qualities. Its quality is the lower input quality, bounded from 0.5 to 2, and its condition starts at the worse input condition. A better handle cannot erase damage or upgrade a crude head's quality. Head hardness also affects pickaxe speed. These tradeoffs change work duration and durability, not mineral yield. Hatchet tree-chopping delays keep their existing behavior.
 
 Examine an assembled tool to see its components. Existing tools keep their stats. This assembly does not add repair or disassembly; spear and combat-axe assembly remain separate.
 
