@@ -71,7 +71,7 @@ Anyone holding a cut seal can use it, so keep yours safe. If one is lost or stol
 
 ### Envelopes, bundles and filing cabinets
 
-You can write on a paper inside an open envelope you are holding, or on the open page of a paper bundle you are holding (also inside a folder you hold). Turn the page to write on another sheet. To seal a closed envelope, hold a stick of sealing wax in your other hand and use an envelope seal on it. The seal takes the colour of the wax. A sealed envelope keeps its wax seal through a save.
+You can write on a paper inside an open envelope you are holding, or on the open page of a paper bundle you are holding (also inside a folder you hold). Turn the page to write on another sheet. Use an open envelope in your hand to close it. A closed envelope stays shut: you can't look inside, add papers or empty it until you cut it open with a knife. To seal a closed envelope, hold a stick of sealing wax in your other hand and use an envelope seal on it. The seal takes the colour of the wax. A sealed envelope keeps its wax seal through a save.
 
 Filing cabinets and document drawers list their papers in alphabetical order. Use **Read** next to a paper to read it without taking it out.
 
