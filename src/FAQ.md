@@ -16,9 +16,9 @@ Short answers to the questions players ask most often in OOC and adminhelp, each
 
 ## Settings and controls
 
-### How do I disable animations, such as the little hop when I walk?
+### How do I turn off character animations?
 
-There is no personal setting for this yet. The sway and small hop your character makes while walking, and the tilt when you are hit or fall, are part of character motion that the server sets for everyone. Movement itself can be changed: see the next question.
+Walking, running and sprinting are smooth, with no hop on each step. The motions that remain, such as the tilt when you are hit or fall, the heave when you haul something heavy and the crouch when you sneak, are set by the server for everyone. There is no personal setting for this yet. Movement itself can be changed: see the next question.
 
 ### How do I switch to tile-by-tile movement?
 
