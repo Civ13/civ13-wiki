@@ -64,6 +64,7 @@
     - [Trenches & Fortifications](guides/Guide_to_Trenches.md)
     - [Defending a Castle](guides/Guide_to_Castles.md)
 - [Research & Technology](topics/Research_and_Technology.md)
+    - [Epochs](guides/Guide_to_Epochs.md)
     - [Research](guides/Guide_to_Research.md)
     - [Books and Scholars](guides/Guide_to_Books_and_Scholars.md)
     - [Chemistry](guides/Guide_to_Chemistry.md)

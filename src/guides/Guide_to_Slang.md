@@ -15,7 +15,7 @@ Throughout history slang has evolved and changed with the rise and fall of natio
 
 
 # Epochs <a name="paragraph1"></a>
-The dates below group historical slang and roleplay references. They are not the game's epoch settings. For those dates and names, see the [full list of Civ13 epochs](../topics/Research_and_Technology.md#epochs).
+The dates below group historical slang and roleplay references. They are not the game's epoch settings. For those dates and names, see the [full list of Civ13 epochs](Guide_to_Epochs.md).
 <br><br>
 
 
