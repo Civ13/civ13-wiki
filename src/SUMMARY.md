@@ -86,6 +86,7 @@
     - [The Moon & Mars](guides/Guide_to_the_Moon.md)
 - [Vehicles](topics/Vehicles.md)
     - [Boats & Ships](guides/Guide_to_Boats.md)
+    - [Ship Damage Control](guides/Guide_to_Ship_Damage_Control.md)
     - [Trains](guides/Guide_to_Trains.md)
     - [Tanks](guides/Guide_to_Tanks.md)
     - [Aircraft](guides/Guide_to_Aircraft.md)

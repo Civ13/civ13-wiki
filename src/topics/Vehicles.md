@@ -4,6 +4,7 @@ Everything that carries you over water, along rails, across a battlefield, throu
 
 <!-- nav-list:Vehicles -->
 - **[Boats & Ships](../guides/Guide_to_Boats.md)**: Canoes to ships and submarines: building, sailing and upkeep.
+- **[Ship Damage Control](../guides/Guide_to_Ship_Damage_Control.md)**: Find leaks, close watertight doors, repair breaches and drain the right compartment.
 - **[Trains](../guides/Guide_to_Trains.md)**: Laying track, then building, fuelling and driving trains.
 - **[Tanks](../guides/Guide_to_Tanks.md)**: Tank crew roles and working together.
 - **[Aircraft](../guides/Guide_to_Aircraft.md)**: Planes, helicopters and airships: building, flying, landing and repair.
