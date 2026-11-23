@@ -349,7 +349,7 @@ A [ship's draught](#ships-draughts) can hold a submarine instead of a ship, so y
 - **The rules:** she needs exactly one wheel, one ballast and periscope station and at least one lock-out hatch. A bulkhead right across her with no door is refused, because nobody could reach the rooms behind it.
 - **Building her:** use the sheet on loose **submarine controls** to clip it to them. Lay hull sections 3 wide and as long as the sheet, stand her wheel, station, banks and other fittings where the sheet shows them, put the engine and fuel tank in the middle of the stern row, and assemble her as above. Each section takes the shape the sheet gives it.
 - **Copying a boat afloat:** hold a blank sheet of paper, use her ballast and periscope station and choose **Draw her lines**.
-- **Sharing it:** use the sheet and choose **Copy her design code** for a code starting `C13SUB`. **Paste a design code** accepts ship and submarine codes.
+- **Sharing it:** use the sheet and choose **Export its design code** for a code starting `C13SUB`, or press **Export code** in the drawing window. **Import a design code** (or **Import code** in the window) draws any shared plan onto the sheet, as described under [Sharing plans as design codes](#sharing-plans-as-design-codes).
 
 A slipway only builds ships, so it refuses a submarine sheet.
 
@@ -728,13 +728,21 @@ A **ship's draught** is a ship drawn on paper: every tile of her hull, the floor
     - **Save to the sheet** keeps the drawing, finished or not. **Unsaved changes** shows beside her name until you do.
 - **Copying a ship afloat:** hold a blank sheet of paper and click her tiller, then choose **Draw her lines**. Only her crew can draw her, and only while she is commissioned.
 - **Reading it:** examine the sheet, or use it in your hand. It tells you how many tiles she has and whether she is a small craft, a boat or a ship. It also lists the materials her floors and fittings cost to build by hand, and the speed she should make empty under sail on a reach and with every rowing bench manned. If her masts need more weight low in her, it tells you about how much ballast to carry.
-- **Sharing it:** use the sheet and choose **Copy her design code** for a code starting `C13SHIP`, which you can keep outside the game. **Paste a design code** draws a shared ship onto a sheet, replacing what was on it.
+- **Sharing it:** see [Sharing plans as design codes](#sharing-plans-as-design-codes) below.
 - **Building her on a slipway:** build a [slipway](#slipway-ships) on the shore facing the water and use the drawn sheet on its post. She is marked out on the ground in front of it, stern at the post and bow toward the water, with a faint outline on every tile still to build. There must be open water ahead for her to launch into, and nothing solid or already floored where she will lie. Bring the materials to the post or to any marked tile: her floors go down first from stern to bow, then her fittings one kind at a time, each costing what it costs to build by hand (walls want planks as well as wood, anchors and pumps want iron). A boat or ship of more than 12 tiles then gets a gunwale on every open side of her deck, or a steel bulwark on steel floor, at 2 wood or 2 steel each; they are counted in what her draught says she costs, so she comes down the ways ready to commission. Each floor or fitting appears as soon as it is paid for, and you keep working while the stack in your hand still pays for the next piece. Several people can build her at once, and she goes up faster for every pair of hands. Her other decks come last: her **hold** is dug out and floored under the berth, her **deck above** is roofed over her and floored, then her **second deck above** over that, then what stands on those decks and her ladders. A hold needs rock or deep water under the berth, and each deck above needs open air over it, or the slipway tells you what is in the way.
 - **Launching her:** when the last piece is fitted, use the slipway post and choose **Launch**. She slides down the ways until all of her floats, with every deck and everyone and everything aboard, and comes off commissioned under the name on her draught, ready to sail from her tiller. The ground she slides over must be clear, a dry dock must be flooded first, and her tiller or steering oar must still stand where the draught shows it. Giving her up before she is finished takes the draught off the post and leaves what was built where it stands.
 
 - **Wiring:** cables, engines, generators and batteries aboard stay connected when she moves, so lamps and machines keep running under way. A cable that runs from her to the shore parts as soon as she moves. The same holds for slipway ships and the aircraft carrier.
 - Once commissioned she can sail onto deep salt water. If you strike her out there, the floors are plain planks again and will not last on the deep sea.
 - If the tiller is destroyed she is a raft of planks again. Set a new tiller and commission her.
+
+#### Sharing plans as design codes
+
+Every plan drawn on a ship's draught can be exported as a design code and imported again: ships (with their extra decks), submarines, vehicles, tanks, planes, airships, trains, space stations and houses. Codes are plain text, so you can keep them outside the game or give them to other players.
+
+- **Export.** Use the sheet and choose **Export its design code**, or press **Export code** beside **Save to the sheet** in the drawing window. Export from the window saves the drawing first. Copy the code from the window that opens.
+- **Import.** Use any ship's draught and choose **Import a design code**, or press **Import code** in a drawing window, then paste the code. A blank sheet accepts any kind of plan. The imported plan replaces whatever was drawn, and the drawing window for that kind of plan opens.
+- An imported plan follows the same rules as one you draw yourself. Codes that are too big or broken are refused, and space stations can only be imported once your age can draw them. After an import, the plan's checks are listed in chat, so you can see straight away whether it can be built as drawn. Building it still takes the usual materials, research and work.
 
 ### Bilge water
 
