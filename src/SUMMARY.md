@@ -93,6 +93,7 @@
     - [Aircraft](guides/Guide_to_Aircraft.md)
     - [Aircraft Carriers](guides/Guide_to_Aircraft_Carriers.md)
     - [Space Stations](guides/Guide_to_Space_Stations.md)
+    - [Rockets](guides/Guide_to_Rockets.md)
 - [Combat](topics/Combat.md)
     - [Combat Basics](guides/Guide_to_Combat.md)
     - [Weapons](guides/Guide_to_Weapons.md)

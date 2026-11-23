@@ -10,6 +10,7 @@ Everything that carries you over water, along rails, across a battlefield, throu
 - **[Aircraft](../guides/Guide_to_Aircraft.md)**: Planes, helicopters and airships: building, flying, landing and repair.
 - **[Aircraft Carriers](../guides/Guide_to_Aircraft_Carriers.md)**: Laying down a carrier and running its decks.
 - **[Space Stations](../guides/Guide_to_Space_Stations.md)**: Reaching orbit, building a station and living aboard.
+- **[Rockets](../guides/Guide_to_Rockets.md)**: Designing, building and flying rockets for crew, cargo and lunar probe missions, and keeping their parts flying.
 <!-- /nav -->
 
 Related: [Travel & Regions](Travel_and_Regions.md), [Animals, Dogs & Mounts](../guides/Guide_to_Animals.md) for horses and carriages, and [The Moon & Mars](../guides/Guide_to_the_Moon.md).
