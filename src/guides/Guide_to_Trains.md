@@ -57,8 +57,6 @@ Wartime cars (see [Wartime cars](#wartime-cars)):
 
 Switchers, rotators, levers and wagons are placed facing the way **you** face, so stand looking along the line before you build them. Plain track shapes itself (see below).
 
-A **crowbar** takes a mining cart, small locomotive, coal tender, hand car or wagon apart again and gives back half of what it cost. It must be stopped, uncoupled and empty, with nobody buckled to it and no animal in harness, and a locomotive must be shut down first. A locomotive's fuel and water are lost.
-
 ## Laying track
 
 Each tile of track is built in three steps:
@@ -818,6 +816,8 @@ To couple the car, right-click its front end and choose **Hitch** to join the ca
 
 Stop the train, uncouple the car from the cars on both sides and clear everything off its deck, furniture included. Then use a **crowbar** on the car to pack it back into a kit. A kit that was taken apart comes back without furniture, so keep the furniture you removed and put it back aboard. A full-size tender packs into its kit the same way, but any coal and water still in it are lost.
 
+The small one-tile wagons and engines, such as the mining cart, coal tender and hand car, don't have kits. A **crowbar** takes one apart and gives back half of what it cost. It must be stopped, uncoupled and empty, with nobody on it or buckled to it and no animal in harness. Shut an engine down first; its fuel and water are lost.
+
 ## Heavy locomotives
 
 Heavy locomotives are full-size engines, three tiles wide and four long. They are driven with the same controls as the small locomotive and are no faster, but each pulls about twice the train, carries more fuel and survives explosions.
@@ -837,7 +837,7 @@ Heavy locomotives are full-size engines, three tiles wide and four long. They ar
 - **Keep clear of the line.** A heavy locomotive is as wide as a platform car, and it hits anyone standing beside the rails as well as on them.
 - **Damage.** Explosions wear the engine and its body down. A wrecked engine dies and a wrecked body section stops the train until it is welded. A **welding tool** repairs both.
 
-A **crowbar** packs a heavy locomotive back into its kit. Stop it, shut it down, uncouple it at both ends and get everyone and everything out of the cab first. Its fuel and water are lost. A [rail warehouse](#rail-warehouse) takes it whole instead.
+A **crowbar** packs a stopped, shut-down, uncoupled and empty engine back into its kit.
 
 ### Cab crew
 
