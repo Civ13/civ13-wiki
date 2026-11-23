@@ -1,9 +1,9 @@
 <div class="wiki-hero">
 <p class="wiki-kicker">Civilization 13 wiki</p>
 
-# Build a civilization from the Stone Age to the modern era
+# Build a civilization from the Stone Age to the Digital Age
 
-Civilization 13 (formerly 1713) is a free multiplayer game based on Space Station 13 code, played through BYOND, that spans several epochs of human history. It features both roleplay and team-deathmatch modes, with the main one being [Nomads](gamemodes/Civilizations_and_Nomads.md), in which you bring your civilization from the Stone Age to the Modern Age. Visit the [Civ13 website](https://civ13.github.io/) for an overview of the game.
+Civilization 13 (formerly 1713) is a free multiplayer game based on Space Station 13 code, played through BYOND, that spans several epochs of human history. It features both roleplay and team-deathmatch modes, with the main one being [Nomads](gamemodes/Civilizations_and_Nomads.md), in which you bring your civilization from the Stone Age to the Digital Age. See the [full list of epochs](topics/Research_and_Technology.md#epochs). Visit the [Civ13 website](https://civ13.github.io/) for an overview of the game.
 
 <p class="wiki-actions"><a class="wiki-button" href="topics/Start_Here.md">Start here</a> <a class="wiki-button wiki-button-secondary" href="guides_overview.md">Find a guide</a> <a class="wiki-button wiki-button-secondary" href="https://civ13.github.io/Civ13/crafting/">Crafting Atlas</a></p>
 </div>
