@@ -82,7 +82,7 @@ When the game sends you to the Tutorial land for your practice room, the room is
 - **Workshop.** The door at the east end of the path leads to a workshop that is yours alone. Click the desk and choose one exercise. Blank draughts, a pencil and that exercise's materials appear on the floor south of the desk. Draw with the ordinary designer, run its checks and save the drawing to the sheet.
   - Exercises marked **Build** or **Make** also give you somewhere to build: a stocked workshop for a car, tank or plane, a yard for an airship, a rail works and a short track for a train, a slipway and pool for a small single-deck ship (at most five tiles each way), sleepers and rails for a short railway, wood and stone for the ground floor of a house, and a works that makes rocket sections.
   - Exercises marked **Draw** or **Plan** (submarine, harbor, waterworks, contraption, space station) are drawing practice only.
-  - One exercise per room. To try another or get fresh materials, leave and open a new practice room.
+  - To try another exercise or get fresh materials, click the desk again and choose one. This clears the workshop, including anything you built or left in it, and lays out the new exercise. What you are carrying stays with you.
 
 Nothing you draw or build in the workshop is kept, and none of it counts towards your real character or its tutorial.
 
