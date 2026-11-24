@@ -58,12 +58,20 @@ The bakelizer cooks petroleum into plastic sheets. Use its **Change Setting** ve
 | --- | --- | --- | --- |
 | Plastic | Always | Plastic sheets | Comes out as sheets |
 | Phenolic resin | Always | 10 units of liquid resin | Click with an empty container |
-| Thermoplastic pellets | World War II, needs Industrial Plastics | 1 measure of pellets | Remove verb |
+| Thermoplastic pellets | World War II, needs Industrial Plastics | 1 measure of pellets | **Remove Plastic** |
 | Nylon thread | World War II | 2 skeins of nylon thread | Remove verb |
 | Epoxy | Cold War | 10 units of epoxy | Click with an empty container |
 | Photopolymer | Digital Age | 2 bottles of photopolymer resin | Remove verb |
 
-Turn the bakelizer off before changing its setting. Each batch takes a minute and needs cable power. Thermoplastic pellets feed the plastics molding machine; see the [Guide to Factory Automation](Guide_to_Factory_Automation.md#plastics-molding-machine).
+Turn the bakelizer off before changing its setting. Each batch takes a minute and needs cable power.
+
+### Making thermoplastic pellets
+
+1. Learn **Industrial Plastics** in World War II. With the cabled bakelizer off, use **Change Setting** and choose **Thermoplastic pellets**.
+2. Use a container of crude petroleum on the bakelizer, then click it with an empty hand to start. Five units of crude make one measure of pellets per minute. Use **Remove Plastic** to collect them.
+3. As an alternative, secure a beaker containing polyethylene or polypropylene in a **laboratory reaction bench**. Choose **Granulate polyethylene into thermoplastic pellets** or **Granulate polypropylene into thermoplastic pellets** to match the contents. Each batch spends four units of the selected polymer and gives one measure of pellets.
+
+Use pellets in the [plastics molding machine](Guide_to_Factory_Automation.md#plastics-molding-machine). Plastic sheets and printer resin are not pellet feedstock.
 
 ## Resin laminate
 
