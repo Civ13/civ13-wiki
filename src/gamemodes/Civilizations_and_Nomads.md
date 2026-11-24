@@ -265,6 +265,12 @@ Lands across the sea have no provinces, so stations there always work. A faction
 
 On Nomads maps you can right-click someone next to you and choose **Offer Adoption**. If they accept, their last name becomes yours. An adopted character can use **Un-adopt Yourself** in the IC tab to get their original name back. You cannot adopt someone who is already adopted, and you need a last name to offer.
 
+#### Player Houses
+
+In persistent Nomads and Civilizations regions that support houses, use **Player Houses** in the **Faction** tab to register a regional house. A steward can use this menu to **Invite Member** or **Appoint Co-steward** and select a nearby character. That character must accept. A shared name, adoption, faction membership or another character on the same account does not grant a house role.
+
+Stewardship ends with that character's death, even if they are revived. The house itself survives. Appoint a co-steward while you can; if no steward can act, ask staff about succession. Stewards can [charter and operate companies](../guides/Guide_to_Companies.md#house-charters) without holding their shares. Being an ordinary house member does not grant that authority.
+
 #### Changing your name
 
 You can take a new name, for a new faith, a trade, a fresh start or any other reason.
