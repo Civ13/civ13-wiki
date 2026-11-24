@@ -322,6 +322,14 @@ Craft an **atlatl dart shaft** from **1 wood** in the **Weapons** menu. Then use
 <td>Yes</td>
 <td></td>
 </tr>
+<tr>
+<td>Chakram</td>
+<td></td>
+<td>A sharpened iron ring made for throwing. Craft it from <b>3 iron</b> in the Weapons menu; where research applies, it requires Iron Smithing. It has a shorter reach than an iron throwing knife and can be picked up after a throw.</td>
+<td>Iron crafting; Iron Smithing on research worlds</td>
+<td>Yes</td>
+<td></td>
+</tr>
 </table>
 
 ## 1013 A.D. Weapons
