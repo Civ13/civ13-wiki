@@ -116,7 +116,24 @@ Only the first level feels the water above it; the deeper levels lie under its r
 
 ## Blasting rock
 
-A **blasting charge** breaks rock faster than a pickaxe. Once your people know **Gunpowder**, make an empty one from 1 wood under **Tools**. Pour 15 units of gunpowder into it from a container, fit a rope fuse, and light the fuse with a flame such as a lit match, torch or lighter. Stand well back: it goes off after 6 seconds. The blast breaks all the underground rock on its tile and the tiles around it, just as if they had been mined, and it hurts anyone close by.
+Once your faction knows **Gunpowder**, find the in-game dynamite entry in the
+**Crafting Atlas** (search “blasting charge” or “dynamite”). A detonated game charge near solid mineable rock leaves
+finite **blasted rock clusters** where the rock opened. It does not refill
+exposed floors, spent clusters, or loose debris. Stay clear of the game's
+ordinary blast damage. Any ore found is rolled once by the same mining rules
+as a pickaxe; the cluster holds stone, not a second chance at ore.
+
+Use a **pickaxe** on a cluster to break off up to **five units** at a time.
+Inspect the cluster to see what's left. Clear the output from the floor if
+it backs up. The cluster shrinks as you work; it disappears when exhausted
+and does not refill on restart. Ordinary stone can go into the normal
+**stone bricks** craft or the **stone crusher** for a chance at sand and
+trace minerals. Sandstone and marble use their own normal crafting routes.
+
+In the dedicated **Tutorial** region, read **Quarry stone and process it** on
+the camp lesson board. A sample cluster, pickaxe, and crusher are in the yard
+past the camp's north door. It teaches collection and processing without
+needing a charge.
 
 ## Digging for dirt underground
 
