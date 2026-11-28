@@ -29,7 +29,7 @@ Flu passes to someone standing right next to a sick person, and a sneeze can car
 
 A sick person's blood and raw flesh carry their illness. Blood drawn from someone with plague, typhus, cholera or malaria infects whoever it is injected into, and drinking it is a chance to catch it (malaria only passes by injection). Meat butchered from a sick body carries plague, typhus, cholera or intestinal worms. Cooking meat in an oven or pot kills every germ in it.
 
-Resting buckled to a bed (not a chair) helps the body fight any illness twice as fast. Being ill does not stop you using **Sleep** in a bed: flu passes twice as fast while you sleep there, and a severe illness or worms simply waits until you wake. A doctor's handbook used on a patient names the illness and its stage, gives first aid, and lists the treatments your society can supply; later treatments show up as your research reaches them. See [Treatments by Ailment](Guide_to_Treatments.md) for the full table.
+Resting buckled to a bed (not a chair) helps the body fight any illness twice as fast. Being ill does not stop you using **Sleep** in a bed: flu passes twice as fast while you sleep there, and a severe illness or worms simply waits until you wake. A doctor's handbook used on a patient names the illness and its stage, gives first aid, and lists the treatments your society can supply; it ends with a first-aid line for each injury it found, such as bleeding, broken bones, burns, blood loss or trouble breathing; later treatments show up as your research reaches them. See [Treatments by Ailment](Guide_to_Treatments.md) for the full table.
 
 A handbook shows poisoning only by its signs: something harmful still in the stomach, or poison in the blood. To name the poison and the dose, draw a blood sample with a syringe and spin it in a powered laboratory centrifuge (Pharmacology) with an empty vial as its collector. It prints a blood test report that lists the poisons in the bloodstream with their doses and confirms plague, typhus, cholera or malaria in the sample.
 
@@ -211,8 +211,8 @@ eras before sulfa drugs. They are still bandage rolls, so they can be
 tied as tourniquets.
 
 **Splints:** Lash a broken or dislocated limb still. Iron splints need
-medical research; **wooden splints** craft from 2 wood with no
-research, so every era can splint a fracture. A splinted fracture
+medical research; **wooden splints** craft from 2 wood once your society knows
+Herbalism, the first medical research, so every era can splint a fracture. A splinted fracture
 [heals on its own](#splinted-fractures-heal) over time.
 
 #### Severed arteries and tourniquets
@@ -252,6 +252,11 @@ hurts. The splint then
 comes off and drops at the patient's feet. Breaking the bone again
 resets the progress. Bone surgery is still the fast way to fix a
 fracture.
+
+**Setting the bone:** Once your society knows Field Surgery, use another
+splint on someone's splinted broken limb to set the bone. It takes about
+6 seconds, does not use up the splint, and halves the mending time left.
+Each break can be set once, and nobody can set their own bone.
 
 **Holding a broken bone:** With no splint to hand, hold the break still
 yourself. Use grab intent with an empty hand and click yourself while
@@ -360,6 +365,15 @@ The antibiotic works whether it is in the blood or in the stomach.
 Cleaning a wound with a trauma kit, healing herbs, sulfa or a silver
 dressing also knocks back a limb infection that has not spread yet, so
 clean wounds early.
+
+**Washing wounds:** Washing a wounded part with clean water (help intent,
+a container of water used on that part, or a sink, tap or fresh water)
+halves the germs in its open wounds and, before an infection sets in, in
+the limb itself. Holding soap in your other hand while washing cleans the
+wounds completely. Once your society knows Field Surgery, an open container
+holding at least 5 units of wine, beer or spirits, used on a wounded part on
+help intent, rinses its wounds clean the same way. It stings. None of these
+cure an infection that has already set in; that needs an antibiotic.
 
 ### Advanced
 

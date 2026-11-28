@@ -39,10 +39,13 @@ works.
 
 - **Signs:** A wound that is red, hot and getting worse; fever.
 - **First aid:** Clean and dress the wound; keep the patient washed.
-- **Limits:** An infection left long enough kills the limb.
+- **Limits:** Washing only helps before an infection sets in; after that it needs medicine. An infection left long enough kills the limb.
 
 | Treatment | What it does | Available |
 | --- | --- | --- |
+| Washing the wound | halves the germs before infection sets in | from the start |
+| Washing with soap | cleans the wound before infection sets in | from the start |
+| Rinsing with wine or spirits | cleans the wound before infection sets in | Field Surgery (313 B.C.) |
 | Chewed healing herbs | fights the infection | from the start |
 | Silver dressings | cleans the wound | Herbalism (5000 B.C.) |
 | Trauma kits | cleans the wound | Apothecary (1013) |
@@ -55,12 +58,13 @@ works.
 
 - **Signs:** A limb that bends wrong, cries of pain when it moves.
 - **First aid:** Splint the limb before moving the patient.
-- **Limits:** A splinted bone mends slowly; surgery sets it at once.
+- **Limits:** A splinted bone mends in about twenty minutes, twice as fast lying down; surgery mends it at once.
 
 | Treatment | What it does | Available |
 | --- | --- | --- |
 | Wooden splints | holds the bone; it mends with time | Herbalism (5000 B.C.) |
-| Surgery | sets the bone | Field Surgery (313 B.C.) |
+| Setting the bone | halves the mending time left | Field Surgery (313 B.C.) |
+| Surgery | mends the bone at once | Field Surgery (313 B.C.) |
 
 #### Lost or ruined limbs
 
