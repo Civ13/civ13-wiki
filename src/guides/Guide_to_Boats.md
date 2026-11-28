@@ -335,9 +335,9 @@ A hand-built boat dives, surfaces and docks like one from the pen. To rebuild he
 
 ### Designing a submarine on a sheet
 
-A [ship's draught](#ships-draughts) can hold a submarine instead of a ship, so you can plan her inside before you build her.
+A [design sheet](#design-sheets) can hold a submarine instead of a ship, so you can plan her inside before you build her.
 
-- **Drawing one:** hold a blank ship's draught with a pen, pencil or pigment in your other hand, use it and choose **Draw a submarine on the sheet**. The window shows her plan 3 sections across, bow at the top and starboard on the right:
+- **Drawing one:** hold a blank design sheet with a pen, pencil or pigment in your other hand, use it and choose **Draw a submarine on the sheet**. The window shows her plan 3 sections across, bow at the top and starboard on the right:
     - pick her **length**, from 4 to 7 sections;
     - under **Sections**, make a section **Hull** or a **Lock-out hatch**. Hatches go only in her side sections, not in the bow row or the engine room;
     - under **Across the bow side**, put a **Bulkhead**, a watertight **Door** or nothing across the front edge of a section;
@@ -556,7 +556,7 @@ From bottom to top: half the keel laid, half the planking on the ribs, the deck 
 | Engine | 1 | 20 steel, 20 cable |
 | Wheelhouse and fittings | 1 | 10 steel, 10 glass |
 
-To give up on a ship, click the slipway and choose **Abandon**. She is taken apart, and every material fitted so far, along with anything already paid towards the next piece, is stacked by the post. A ship built from a draught is different: her floors and fittings stay standing where they were built, and only what was paid towards the next piece comes back.
+To give up on a ship, click the slipway and choose **Abandon**. She is taken apart, and every material fitted so far, along with anything already paid towards the next piece, is stacked by the post. A ship built from a sheet is different: her floors and fittings stay standing where they were built, and only what was paid towards the next piece comes back.
 
 ### Launching
 
@@ -604,14 +604,14 @@ To leave, choose **Open the sluices** at the gate. After ten seconds the basin f
 
 ### Planning a harbor on paper
 
-A [ship's draught](#ships-draughts) can hold a **harbor plan** to help you lay out a pier, slipway, boathouse slip or drydock before you start work. Hold a blank draught with a pen or pencil in your other hand, use it and choose **Draw a harbor on the sheet**.
+A [design sheet](#design-sheets) can hold a **harbor plan** to help you lay out a pier, slipway, boathouse slip or drydock before you start work. Hold a blank design sheet with a pen or pencil in your other hand, use it and choose **Draw a harbor on the sheet**.
 
 1. Pick the project: a **timber pier**, a **steel pier**, a **slipway** (for a schooner or a freighter), a **boathouse slip** or a **drydock**. Piers and drydocks can be made longer or shorter, and a drydock wider.
 2. Stand where the work starts, at the pier's start, the slipway post, the boathouse or the drydock's gate, and face the way it should run. Press **Survey from here**, and use **Rotate** to turn the plan.
 3. The plan colours each tile by what is there now: deep or shallow water, flooded or dry trench, ice, land or solid ground. A red **!** marks a tile to look at, and **?** a tile you can't see from where you stand. Only tiles your character can see in good light are surveyed, so walk around the site and survey again if parts are unseen. For a slipway the dashed rows ahead show the run she will slide down at launch.
 4. The checks under the plan list what is likely to go wrong, and the sheet lists the main materials.
 
-The plan never builds, digs or launches anything, and a clean survey is not a promise: the real slipway post, dock gate or pile driver makes its own checks when you build. **Save on sheet**, **Export** and **Import** work as for any draught. The design code (starting `C13HARBOR`) holds only the project and its size, not the place, so someone else can use it at another shore.
+The plan never builds, digs or launches anything, and a clean survey is not a promise: the real slipway post, dock gate or pile driver makes its own checks when you build. **Save on sheet**, **Export** and **Import** work as for any design sheet. The design code (starting `C13HARBOR`) holds only the project and its size, not the place, so someone else can use it at another shore.
 
 ### Building and refitting at a berth
 
@@ -622,18 +622,18 @@ A [hull of your own](#building-your-own-hull) can be laid down, and refitted, ou
 
 A hull lying on either berth can have floors added or taken up, then be surveyed again at the tiller with **Refit the hull**, just as when she is afloat. Floors that run off the berth onto the shore join her to the land, so leave a gap.
 
-**Refitting to a draught.** A hull at any berth (a boathouse slip, a slipway or a drydock) can be rebuilt to a [ship's draught](#ships-draughts). Hold the draught at her tiller and choose **Mark out a refit**. The draught is laid over her, with its tiller on hers and its bow pointing her way, and every tile of her main deck that differs is chalked:
+**Refitting to a sheet.** A hull at any berth (a boathouse slip, a slipway or a drydock) can be rebuilt to a [design sheet](#design-sheets). Hold the sheet at her tiller and choose **Mark out a refit**. The sheet is laid over her, with its tiller on hers and its bow pointing her way, and every tile of her main deck that differs is chalked:
 
 | Mark | Work |
 | --- | --- |
-| Green | Lay a floor here, with the fitting the draught shows |
+| Green | Lay a floor here, with the fitting the sheet shows |
 | Red | Lift the floor and anything on it |
 | Amber | Change the floor or fitting for another |
 | Faint amber | Turn the fitting to face another way |
 
-Do the work by hand, at the usual cost. A floor lifted at a berth is not a leak. Choose **Refit the hull** at the tiller to survey her new lines, and the marks are checked again. **Check the refit** lists what is left, and **Clear the refit marks** rubs them out. Once she matches her draught, the marks are gone. Only her main deck is chalked, and the marks do not survive a server restart.
+Do the work by hand, at the usual cost. A floor lifted at a berth is not a leak. Choose **Refit the hull** at the tiller to survey her new lines, and the marks are checked again. **Check the refit** lists what is left, and **Clear the refit marks** rubs them out. Once she matches her sheet, the marks are gone. Only her main deck is chalked, and the marks do not survive a server restart.
 
-**Adding a cargo hold.** A ship already afloat can be given a **hold** below the waterline, where the world has a level below the sea (Gaia has one). Use **Draw her lines** at her tiller, open the draught, switch to the **Hold** deck and draw the hold under her hull, with a **ladder** down to it. Bring her to a berth and **Mark out a refit** with that draught. The tiller then counts the hold still to dig, and offers **Dig out the hold**. Choose it while holding the materials: each tile of hold takes **1 steel** and about 3 seconds, and each ladder takes **4 wood** once the floor under it is down. The crew keeps digging while the stack in your hand lasts, and a [yard office](#yard-office) nearby speeds the work. A hold goes only under tiles of her deck, in rock or deep water, and her deck, hold and decks above together may be at most **300 tiles**. Whatever you stow down there sails with her and counts toward her load. Hold floors the draught does not show are left as they are.
+**Adding a cargo hold.** A ship already afloat can be given a **hold** below the waterline, where the world has a level below the sea (Gaia has one). Use **Draw her lines** at her tiller, open the sheet, switch to the **Hold** deck and draw the hold under her hull, with a **ladder** down to it. Bring her to a berth and **Mark out a refit** with that sheet. The tiller then counts the hold still to dig, and offers **Dig out the hold**. Choose it while holding the materials: each tile of hold takes **1 steel** and about 3 seconds, and each ladder takes **4 wood** once the floor under it is down. The crew keeps digging while the stack in your hand lasts, and a [yard office](#yard-office) nearby speeds the work. A hold goes only under tiles of her deck, in rock or deep water, and her deck, hold and decks above together may be at most **300 tiles**. Whatever you stow down there sails with her and counts toward her load. Hold floors the sheet does not show are left as they are.
 
 ### Yard office
 
@@ -641,7 +641,7 @@ A **yard office** (30 wood, construction, Workshops) turns the slipways, boathou
 
 - **Faster work.** Work in its reach takes two thirds of the usual time: fitting pieces on a slipway, hauling a ship up the ways, replacing patches, and pumping out or flooding a dock.
 - **Shared stock.** Hit the office with wood, steel, iron, planks, aluminium, glass, rope, cloth or cable to store it. At a slipway post in reach, **Fit from the yard stock** fits piece after piece from what the office holds. Take any material back out from the office's menu.
-- **Draught shelf.** Hit the office with a ship's draught to file it (up to 20). Take any one back down from its menu.
+- **Sheet shelf.** Hit the office with a design sheet to file it (up to 20). Take any one back down from its menu.
 - **Survey the yard** lists the berths in reach and the ships they hold.
 
 The yard office is not the shipyard office that lays down an aircraft carrier.
@@ -683,7 +683,7 @@ Click the tiller to sail:
 | **Run dark / Show her lights** | Hides her name from other ships, at slow ahead only |
 | **Grapple a ship** | Throws lines at a ship within 3 tiles and holds both fast (see [Grappling and boarding](#grappling-and-boarding)) |
 | **Ship's papers** | Register her so nobody can sail her away while you are gone (see [Ship's papers](Guide_to_Aircraft_Carriers.md#ships-papers)) |
-| **Draw her lines** | Hold a blank sheet of paper: it becomes her **ship's draught** (see [Ship's draughts](#ships-draughts)) |
+| **Draw her lines** | Hold a blank sheet of paper: it becomes her **ship sheet** (see [Design sheets](#design-sheets)) |
 | **Rail her sides** | Shown while a side of her deck is open: fits gunwales or bulwarks from the wood or steel in your hand |
 | **Refit the hull** | At anchor: surveys the hull again after you added or cut away floors. Her sides must be closed first |
 | **Strike the hull** | She stops being a ship; the floors stay where they are |
@@ -720,11 +720,11 @@ Click the tiller to sail:
 - **Hold breaches:** a blast that tears through the floor of her **hold** leaves a **breach** open to the sea. It lets water in like a hole in her deck until it is shut. Stand beside it in the hold with a **welding tool** in one hand and use **2 steel** on it to weld it shut, which takes five seconds.
 - **Vehicles:** a car, truck or tank driven onto her floors rides along and turns with her, and drives off the way it then faces. Park it **wholly aboard**: while a vehicle stands half on her floors and half off, she will not move or come about, and everyone aboard is told which vehicle is in the way. The same holds for slipway ships and the aircraft carrier.
 
-### Ship's draughts
+### Design sheets
 
-A **ship's draught** is a ship drawn on paper: every tile of her hull, the floor it has, what stands on it and where she has deck above, drawn with her bow to the top of the sheet.
+A **design sheet** is a plan drawn on paper: one sheet can hold a ship, a submarine, a vehicle, a plane, an airship, a train, a railway, a house and more. With a ship drawn on it, it is her **ship sheet**: every tile of her hull, the floor it has, what stands on it and where she has deck above, drawn with her bow to the top of the sheet.
 
-- **Designing one:** craft a blank **ship's draught** (1 wood, paper & printing, with Papermaking). Hold it with a pen, pencil or pigment in your other hand, use it and choose **Draw on the sheet**. A drawing window opens with the sheet as a parchment grid, bow to the top, with port and starboard marked on its edges:
+- **Designing one:** craft a blank **design sheet** (1 wood, paper & printing, with Papermaking). Hold it with a pen, pencil or pigment in your other hand, use it and choose **Draw on the sheet**. A drawing window opens with the sheet as a parchment grid, bow to the top, with port and starboard marked on its edges:
     - pick what to draw from the pictures on the right. Under **Hull**: **plank floor**, **steel floor**, **deck above** and **erase**. Under the other headings, the fittings: tiller or steering oar, ship mast, mast with a crow's nest, rowing bench, steam engine, killick, iron anchor, hand bilge pump, steam bilge pump, sump pump, wood crate, bed, wooden cannon, cannon, torpedo tube, plank wall, door, window, steel window, steel door, gangway, wooden gun port, steel gun port, lifeboat davits, cargo hatch, bowsprit and figurehead. A fitting needs a floor under it. Picking anything, or pointing at it in the palette, shows under the sheet what it is, what it is for and how to use it;
     - click or drag on the sheet to draw. The tile under the pointer shows what a click will lay, and the line under the sheet names what is already there. **Right-click** takes a fitting off a tile, or the deck above when that tool is picked;
     - **gunwales** are drawn for you: a boat or ship of more than 12 tiles gets one along every open edge, shown as a gold rim inside her outline and counted under **Sides** in her figures. A wall, door or window on an edge tile closes it instead. A **gangway** or **gun port** goes on an edge tile facing out over the side, and closes that side. **Lifeboat davits** also stand on an edge tile facing out. A **cargo hatch** goes on her main deck over a tile of her hold;
@@ -740,8 +740,8 @@ A **ship's draught** is a ship drawn on paper: every tile of her hull, the floor
 - **Copying a ship afloat:** hold a blank sheet of paper and click her tiller, then choose **Draw her lines**. Only her crew can draw her, and only while she is commissioned.
 - **Reading it:** examine the sheet, or use it in your hand. It tells you how many tiles she has and whether she is a small craft, a boat or a ship. It also lists the materials her floors and fittings cost to build by hand, and the speed she should make empty under sail on a reach and with every rowing bench manned. If her masts need more weight low in her, it tells you about how much ballast to carry.
 - **Sharing it:** see [Sharing plans as design codes](#sharing-plans-as-design-codes) below.
-- **Building her on a slipway:** build a [slipway](#slipway-ships) on the shore facing the water and use the drawn sheet on its post. She is marked out on the ground in front of it, stern at the post and bow toward the water, with a faint outline on every tile still to build. There must be open water ahead for her to launch into, and nothing solid or already floored where she will lie. Bring the materials to the post or to any marked tile: her floors go down first from stern to bow, then her fittings one kind at a time, each costing what it costs to build by hand (walls want planks as well as wood, anchors and pumps want iron). A boat or ship of more than 12 tiles then gets a gunwale on every open side of her deck, or a steel bulwark on steel floor, at 2 wood or 2 steel each; they are counted in what her draught says she costs, so she comes down the ways ready to commission. Each floor or fitting appears as soon as it is paid for, and you keep working while the stack in your hand still pays for the next piece. Several people can build her at once, and she goes up faster for every pair of hands. Her other decks come last: her **hold** is dug out and floored under the berth, her **deck above** is roofed over her and floored, then her **second deck above** over that, then what stands on those decks and her ladders. A hold needs rock or deep water under the berth, and each deck above needs open air over it, or the slipway tells you what is in the way.
-- **Launching her:** when the last piece is fitted, use the slipway post and choose **Launch**. She slides down the ways until all of her floats, with every deck and everyone and everything aboard, and comes off commissioned under the name on her draught, ready to sail from her tiller. The ground she slides over must be clear, a dry dock must be flooded first, and her tiller or steering oar must still stand where the draught shows it. Giving her up before she is finished takes the draught off the post and leaves what was built where it stands.
+- **Building her on a slipway:** build a [slipway](#slipway-ships) on the shore facing the water and use the drawn sheet on its post. She is marked out on the ground in front of it, stern at the post and bow toward the water, with a faint outline on every tile still to build. There must be open water ahead for her to launch into, and nothing solid or already floored where she will lie. Bring the materials to the post or to any marked tile: her floors go down first from stern to bow, then her fittings one kind at a time, each costing what it costs to build by hand (walls want planks as well as wood, anchors and pumps want iron). A boat or ship of more than 12 tiles then gets a gunwale on every open side of her deck, or a steel bulwark on steel floor, at 2 wood or 2 steel each; they are counted in what her sheet says she costs, so she comes down the ways ready to commission. Each floor or fitting appears as soon as it is paid for, and you keep working while the stack in your hand still pays for the next piece. Several people can build her at once, and she goes up faster for every pair of hands. Her other decks come last: her **hold** is dug out and floored under the berth, her **deck above** is roofed over her and floored, then her **second deck above** over that, then what stands on those decks and her ladders. A hold needs rock or deep water under the berth, and each deck above needs open air over it, or the slipway tells you what is in the way.
+- **Launching her:** when the last piece is fitted, use the slipway post and choose **Launch**. She slides down the ways until all of her floats, with every deck and everyone and everything aboard, and comes off commissioned under the name on her sheet, ready to sail from her tiller. The ground she slides over must be clear, a dry dock must be flooded first, and her tiller or steering oar must still stand where the sheet shows it. Giving her up before she is finished takes the sheet off the post and leaves what was built where it stands.
 
 - **Wiring:** cables, engines, generators and batteries aboard stay connected when she moves, so lamps and machines keep running under way. A cable that runs from her to the shore parts as soon as she moves. The same holds for slipway ships and the aircraft carrier.
 - Once commissioned she can sail onto deep salt water. If you strike her out there, the floors are plain planks again and will not last on the deep sea.
@@ -749,10 +749,11 @@ A **ship's draught** is a ship drawn on paper: every tile of her hull, the floor
 
 #### Sharing plans as design codes
 
-Every plan drawn on a ship's draught can be exported as a design code and imported again: ships (with their extra decks), submarines, vehicles, tanks, planes, airships, trains, railways, space stations and houses. Codes are plain text, so you can keep them outside the game or give them to other players.
+Every plan drawn on a design sheet can be exported as a design code and imported again: ships (with their extra decks), submarines, vehicles, tanks, planes, airships, trains, railways, space stations and houses. Codes are plain text, so you can keep them outside the game or give them to other players.
 
 - **Export.** Use the sheet and choose **Export its design code**, or press **Export code** beside **Save to the sheet** in the drawing window. Export from the window saves the drawing first. Copy the code from the window that opens.
-- **Import.** Use any ship's draught and choose **Import a design code**, or press **Import code** in a drawing window, then paste the code. A blank sheet accepts any kind of plan. The imported plan replaces whatever was drawn, and the drawing window for that kind of plan opens.
+- **Import.** Use any design sheet and choose **Import a design code**, or press **Import code** in a drawing window, then paste the code. A blank sheet accepts any kind of plan. The imported plan replaces whatever was drawn, and the drawing window for that kind of plan opens.
+- **Sketches.** You can also plan without a sheet. Use the **Sketch a design** verb (IC tab) to open your notes, which hold up to 12 sketches of any kind of plan. A sketch is drawn in the same windows with the same checks, and you need no pen, paper or research for it. Sketches can export and import design codes too, and they are kept for your account on the server where you drew them: export a code to take one elsewhere. A sketch cannot be built or pegged out. To build one, hold a design sheet and choose **Copy it onto the design sheet in my hand**. To keep a sheet's plan in your notes, hold the sheet and choose **Copy the sheet in my hand into my notes**.
 - An imported plan follows the same rules as one you draw yourself. Codes that are too big or broken are refused, and space stations can only be imported once your age can draw them. After an import, the plan's checks are listed in chat, so you can see straight away whether it can be built as drawn. Building it still takes the usual materials, research and work.
 
 ### Bilge water
