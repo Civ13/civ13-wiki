@@ -54,7 +54,7 @@ Weather does not stop at the edge of a land. Neighbouring lands and oceans share
 - **Hills** catch more rain and snow on the side the wind blows against, and the far side lies in a drier rain shadow.
 - **Severe storms** have a core of extreme weather: a blizzard in cold lands, a monsoon in the jungle, a sandstorm in the desert. Get under a roof before the core arrives. Blizzards and sandstorms pass on with the storm.
 - **Heat waves** settle over a place for a while and move on. You get thirstier, crops need more water and there is no dew. You are told when one arrives and when it has passed.
-- **Lightning and thunder.** Heavy rain storms bring lightning. You see the sky flash and hear the thunder a moment later, later the further away it struck. Lightning does not hurt you or start fires.
+- **Lightning and thunder.** Heavy rain storms bring lightning. You see the sky flash and hear the thunder a moment later, later the further away it struck. Now and then a bolt strikes the ground and sets exposed grass, wood or other flammable things alight. It never strikes under a roof, on water or on flooded ground, and the bolt itself does not hurt you, but the fire it starts burns like any other: the rain often puts it out, and you can fight it with the usual firefighting tools.
 - **Wind** rises under a storm and can blow an open umbrella inside out. The wind can blow from any of eight directions. It shifts an eighth of a turn at a time and never swings right round at once.
 
 **Reading the weather ahead.** Each age has better instruments, and the better the instrument, the further and surer its forecast. The [Weather and Climate](Guide_to_Weather.md#reading-the-weather-ahead) guide has the full table.
