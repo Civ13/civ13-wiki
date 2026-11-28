@@ -75,7 +75,7 @@ A mechanism port (5 electronics, Digital Computing) joins the cords to an [integ
 
 ## Planning a contraption on paper
 
-A ship's draught can hold a drawing of a contraption, so you can check its cords before you build it. Hold a blank draught (see [Guide to Boats](Guide_to_Boats.md#ships-draughts)) with a pen or pencil in your other hand, use it and choose **Draw a contraption on the sheet**.
+A design sheet can hold a drawing of a contraption, so you can check its cords before you build it. Hold a blank design sheet (see [Guide to Boats](Guide_to_Boats.md#design-sheets)) with a pen or pencil in your other hand, use it and choose **Draw a contraption on the sheet**.
 
 - Pick a part and click a tile on the 12 by 12 plan. Choose **Tie cord**, then a trigger and the thing it works, to draw a cord. The plan checks that each cord is within reach and that no trigger has more than four cords. A portcullis must be within two tiles of its winch, and its cord goes to the winch.
 - **Test pull or throw over** on a trigger, or **Test throwing back** on a lever, lists what would happen. Nothing in the world moves, rings or opens.

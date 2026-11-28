@@ -39,9 +39,9 @@ These walls are marked as **Adaptive**.
 
 ## Planning a house on paper
 
-A [ship's draught](Guide_to_Boats.md#ships-draughts) (1 wood, Papermaking) can hold a **house plan**. Drawing one costs nothing and builds nothing: it shows you, before you spend any material, where the game will refuse a roof and what the house will be missing.
+A [design sheet](Guide_to_Boats.md#design-sheets) (1 wood, Papermaking) can hold a **house plan**. Drawing one costs nothing and builds nothing: it shows you, before you spend any material, where the game will refuse a roof and what the house will be missing.
 
-Hold a blank ship's draught with a pen, pencil or pigment in your other hand, use the sheet and choose **Draw a house on the sheet**.
+Hold a blank design sheet with a pen, pencil or pigment in your other hand, use the sheet and choose **Draw a house on the sheet**.
 
 <img src="../images/house_plan_designer.png" alt="The house plan window showing the second storey of a timber house: the sheet on the left, the parts to draw with in the middle, and the part description, notes and checks on the right">
 
@@ -52,7 +52,7 @@ Hold a blank ship's draught with a pen, pencil or pigment in your other hand, us
 - **Roof this storey** roofs everything inside the walls with the picked roofing and leaves the tile over stairs and ladders open. **Copy the walls below** stands the walls, windows and pillars of the storey below on the one you are looking at. A door is copied as a window.
 - Upstairs, the walls of the storey below show through faintly so you can stand the next walls on them, and the opening over stairs or a ladder is marked.
 - **Start from** loads a ready-made cabin, two-storey house or stone tower house to change as you like.
-- **Save to the sheet** keeps the drawing. Use the sheet again to see its summary or change it. **Export its design code** (or **Export code** in the window) gives a code you can keep outside the game or give to someone else, and **Import a design code** (or **Import code**) draws a shared house onto any ship's draught. See [Sharing plans as design codes](Guide_to_Boats.md#sharing-plans-as-design-codes).
+- **Save to the sheet** keeps the drawing. Use the sheet again to see its summary or change it. **Export its design code** (or **Export code** in the window) gives a code you can keep outside the game or give to someone else, and **Import a design code** (or **Import code**) draws a shared house onto any design sheet. See [Sharing plans as design codes](Guide_to_Boats.md#sharing-plans-as-design-codes).
 
 A wall on the plan stands for every wall of its strength. A timber wall is any wall that carries two storeys, such as a log, plank, bamboo, straw or earth wall. A stone wall is any that carries four, such as stone, brick, clay, sandstone or marble. The **Figures** panel counts the parts and gives rough materials from one usual recipe for each, so treat it as a guide.
 

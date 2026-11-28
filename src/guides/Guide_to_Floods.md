@@ -98,7 +98,7 @@ Keep bodies and waste out of the channels. Anything rotting in a piece fouls all
 
 ### Planning waterworks on paper
 
-A ship's draught can hold a plan for one aqueduct or sewer route. Hold a blank draught (see [Guide to Boats](Guide_to_Boats.md#ships-draughts)) with a pen or pencil in your other hand, use it and choose **Draw waterworks on the sheet**.
+A design sheet can hold a plan for one aqueduct or sewer route. Hold a blank design sheet (see [Guide to Boats](Guide_to_Boats.md#design-sheets)) with a pen or pencil in your other hand, use it and choose **Draw waterworks on the sheet**.
 
 - Pick **Aqueduct** or **Sewer**, then pick a part and click tiles in order along their edges, starting at the intake (or the first floor drain). The board is 7 tiles square and a route can be up to 24 tiles long. Click a numbered tile with another part selected to swap it, or use **Remove last**.
 - An aqueduct starts at an intake beside fresh water and ends at a fountain or cistern. A sewer starts at a floor drain and ends at a stone drain on the water's edge. A sewer tile beside water before the end would spill there too, so the plan flags it.

@@ -95,9 +95,9 @@ Corners eased into curves don't count as corners for the spacing rule. A **crowb
 
 ### Planning a line
 
-A [ship's draught](Guide_to_Boats.md#ships-draughts) (1 wood, Papermaking) can hold a **rail plan**. Drawing one costs nothing and lays nothing: it shows you where the hammer will refuse to spike track before you spend any rails.
+A [design sheet](Guide_to_Boats.md#design-sheets) (1 wood, Papermaking) can hold a **rail plan**. Drawing one costs nothing and lays nothing: it shows you where the hammer will refuse to spike track before you spend any rails.
 
-- Hold a blank ship's draught with a pen, pencil or pigment in your other hand. Use the sheet and choose **Draw a railway on the sheet**. The window shows a 40 by 40 tile sheet, north to the top.
+- Hold a blank design sheet with a pen, pencil or pigment in your other hand. Use the sheet and choose **Draw a railway on the sheet**. The window shows a 40 by 40 tile sheet, north to the top.
 - With **Track**, click or drag to draw the line tile by tile. Where it turns a right angle it makes a sharp corner. **Erase**, or a right-click with any tool, lifts track.
 - With **Ease curve**, click a corner to mark it as a gentle (4) or wide (8) curve. The curve is drawn where it will lie.
 - The **Checks** panel lists what is wrong:
@@ -271,7 +271,7 @@ Instead of assembling every car from its own kit, you can draw the whole train o
 
 ![The train designer: the train as a strip of cars at the top, stock cars to add on the left, the plan of a drawn car in the middle, and the part description and checks on the right](../images/civ13-train-designer.png)
 
-1. **Draw the train.** Hold a blank **ship's draught** and a pen or pencil, use the draught and choose **Draw a train on the sheet**. Add cars from the front: any locomotive, tender or car that has a kit, or a **drawn car** of your own. A drawn car is three tiles wide and four or eight long: pick its floor and roof, put a wall, window, door, railing or other side along each outer edge, close its ends, and stand a fitting on any tile (seats, berths, booths, tables, a stove, sink or fridge, cabinets, crates, a brake wheel, an ice bunker and cold lockers). Click any part to read what it is, what it is for and how it is made. The checks list what would stop the train being built or make it run badly, and **Save to the sheet** keeps it. A train can have up to 16 cars and 120 tiles.
+1. **Draw the train.** Hold a blank **design sheet** and a pen or pencil, use the sheet and choose **Draw a train on the sheet**. Add cars from the front: any locomotive, tender or car that has a kit, or a **drawn car** of your own. A drawn car is three tiles wide and four or eight long: pick its floor and roof, put a wall, window, door, railing or other side along each outer edge, close its ends, and stand a fitting on any tile (seats, berths, booths, tables, a stove, sink or fridge, cabinets, crates, a brake wheel, an ice bunker and cold lockers). Click any part to read what it is, what it is for and how it is made. The checks list what would stop the train being built or make it run badly, and **Save to the sheet** keeps it. A train can have up to 16 cars and 120 tiles.
 2. **Build the rail works** (30 iron; **Rail & Steam**) facing the track, with **one tile between it and the rails**, like a rail warehouse office.
 3. **Stock it** with iron, steel, wood, glass and cloth. Each stock car costs what its kit costs; a drawn car costs its frame (12 iron, or 22 for an eight-tile car) plus every floor, roof, side and fitting drawn on it.
 4. **Use the train sheet on the works** and choose which way along the track the train should head. Its front car is built on the rail tile in front of the works and the rest of the train behind it, so you need that much **straight track** with a **clear tile either side** all along it. The works also needs the research for every car on the sheet.
