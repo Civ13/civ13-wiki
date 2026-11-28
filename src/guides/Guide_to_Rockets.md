@@ -6,7 +6,7 @@ Everything here is in the crafting menu's **spaceflight** section, unlocked by *
 
 ## Designing a rocket
 
-Craft a **ship's draught** (1 softwood, in the paper & printing section) and use it in hand: choose **Draw a rocket on the sheet**. The rocket designer opens. Stack pieces from the bottom up and pick a frame and a number of boosters. The **launch planner** beside the drawing updates as you go. It lists every leg of a flight, whether your rocket can fly it, and what is missing when it cannot.
+Craft a **design sheet** (1 softwood, in the paper & printing section) and use it in hand: choose **Draw a rocket on the sheet**. The rocket designer opens. Stack pieces from the bottom up and pick a frame and a number of boosters. The **launch planner** beside the drawing updates as you go. It lists every leg of a flight, whether your rocket can fly it, and what is missing when it cannot.
 
 A rocket sheet can be exported as a code and imported on another land, but every land still has to build and fly the rocket itself.
 

@@ -1428,7 +1428,7 @@ wrench to avoid pushing them on accident, but it is not necessary.</b>
 
 #### Drawing a vehicle sheet
 
-Hold a blank **ship's draught** (1 soft wood, paper & printing) and a pen or pencil, use the draught and choose **Draw a vehicle on the sheet**, **Draw a tank on the sheet** or **Draw a plane on the sheet**. All three open the same designer, starting from a field car, a light tank or a light plane. A window shows the vehicle from above, front to the top and its left on the left.
+Hold a blank **design sheet** (1 soft wood, paper & printing) and a pen or pencil, use the sheet and choose **Draw a vehicle on the sheet**, **Draw a tank on the sheet** or **Draw a plane on the sheet**. All three open the same designer, starting from a field car, a light tank or a light plane. A window shows the vehicle from above, front to the top and its left on the left.
 
 - Above the plan, pick the **axis** (light axis, heavy axis or airframe controls), the size (2 to 5 tiles each way; a plane is 3 wide and 3 to 6 long, or a twin 5 wide and 4 to 6 long), and the **engine**: its kind and its size in cc, as the engine maker makes it.
 - Pick a frame, a wheel or track, or a part from the palette and click tiles to draw it. Each tile holds one frame, a wheel or track under it, and one part: the engine, a fuel tank, a driver's (or pilot's), gunner's, loader's or commander's seat, a turret with a tank cannon and gunner's seat, or a cargo hold. Right-click takes a part off.
