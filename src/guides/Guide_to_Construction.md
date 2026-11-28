@@ -80,10 +80,12 @@ A saved plan can be marked out on the ground, so that you build from pegs and no
 4. For the next storey, lay the roof below it, climb up, stand on that storey and choose **Peg out the storey I stand on**. It lands exactly over the ground floor. Tiles with no floor under them yet get no peg, so peg the storey again as more of the roof below is laid.
 
 - Pegs block nothing. You walk over them, and a click on a pegged tile goes to the tile, so you build on it as usual.
-- **Shift-click** a peg to read what is still to build on its tile and any note pinned there. **Alt-click** it to pull up that peg, or every peg of the plan.
+- Only you can see your pegs. To let the rest of your faction see them and build with you, use the sheet and choose **Show the pegs to my faction**, and **Hide the pegs from my faction** to make them private again. Other players never see them.
+- Notes pinned to tiles are on the drawing: open the sheet to read them.
 - Using the sheet again shows how much the pegs still ask for. Pegging a storey a second time is safe: its old pegs are pulled and only what is not yet built is pegged again, which is also how you bring the pegs up to date after changing the drawing.
-- A tile with a note keeps its peg after it is built, until someone pulls it.
+- A tile with a note keeps its peg after it is built, until you pull up the plan's pegs.
 - **Pull up the pegs and forget the site** removes every peg and lets you peg the same plan out somewhere else.
+- You can have up to 3,000 pegs in the ground at once, across all your plans. Pull up an old plan to peg out more.
 - A plan that would run off the edge of the land is not pegged. Pegs on rock or water are counted in the message so you know to clear or move.
 
 ## Construction materials
