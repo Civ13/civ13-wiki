@@ -73,5 +73,11 @@ No trail leads off the Earth: the Moon, Mars and orbit are reached only by rocke
 
 Two small worlds help you get into the game. Nobody lives in either, and nothing you do there is saved.
 
-- **The gateway** is the server you join from the hub. It sends you straight on to the land your character lives in, or to Gaia if you have no character yet. If your land is restarting, the gateway keeps trying for a couple of minutes, then gives you a **Try again** link. While you wait it can offer you the practice rooms.
+- **The gateway** is the server you join from the hub. If your character is out in the world and you did not log off in your bed, it sends you straight back to your character's land. If you logged off asleep in your bed, or have no character yet, you stop in the **cartographer's room**:
+  - the **atlas** opens the World Overview, a map of every land and ocean with whether it is online and how many people are playing there;
+  - the **desk** opens your own characters;
+  - the **door** (or **Wake up**) takes you to your land, or to Gaia for a new character;
+  - the **painting** on the wall can be examined for a closer look.
+
+  The same choices are buttons in the room's window. If your land is restarting, the gateway keeps trying for a couple of minutes, then gives you a **Try again** link. While you wait it can offer you the practice rooms.
 - **The tutorial** holds the [practice rooms](../New_Player_Guide.md#practice-room). Choose **Practice Room** in the lobby to get a private room and a practice body; when you leave, you are sent back on to your land.
