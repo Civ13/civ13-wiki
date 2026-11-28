@@ -4,6 +4,7 @@ What hurts you and how to deal with it: wounds and illness first, then cold, wea
 
 <!-- nav-list:Health & Survival -->
 - **[Medical](../guides/Guide_to_Medical.md)**: First aid, illness, continued care and surgery.
+- **[Treatments by Ailment](../guides/Guide_to_Treatments.md)**: Signs, first aid and treatments for every ailment, by epoch.
 - **[Hygiene](../guides/Guide_to_Hygiene.md)**: Washing, baths, soap, toilets, laundry and keeping the place clean.
 - **[Winter & Long Rounds](../guides/Guide_to_Survival.md)**: Staying warm, storms, wet clothes, snow and fighting fires.
 - **[Weather & Climate](../guides/Guide_to_Weather.md)**: How fronts, storms, wind and seasons work and how to read them.

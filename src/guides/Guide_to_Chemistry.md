@@ -125,7 +125,7 @@ This table does not list every bench recipe. Use the workflows above and the rec
 | Calcium carbonate |  1u. carbon 1u. calcium 3u. oxygen | none | none | 5 | calcium_carbonate |
 | Carbon dioxide |  1u. carbon 2u. oxygen | none | none | 2 | carbon_dioxide |
 | Sulphuric acid |  1u. sulfur 1u. oxygen 1u. hydrogen | none | none | 2 | sacid |
-| Saline Glucose solution |  1u. sodiumchloride 1u. water 1u. sugar | none | none | 2 | saline_glucose |
+| Saline Glucose solution |  1u. sodiumchloride 8u. water 1u. sugar | none | none | 10 | saline_glucose |
 | Aqua regia |  1u. nitric_acid 3u. clorhydric_acid | none | none | 2 | aqua_regia |
 | Nitric acid |  2u. nitrogen 5u. oxygen 3u. water | none | none | 4 | nitric_acid |
 | Clorhydric acid |  1u. hydrogen 1u. chlorine | none | none | 1 | clorhydric_acid |
