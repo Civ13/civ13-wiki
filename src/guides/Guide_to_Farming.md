@@ -13,7 +13,7 @@ Use a knife on a small bush with **Help intent** for random seeds; the bush regr
 
 ### Wild plants
 
-On Nomads maps a few ripe wild crops grow on their own in open countryside, away from players and settlements. Depending on the biome and season you may find wild herbs, mushrooms, wheat, oat, barley, rice, potatoes, carrots, cabbage, turnips, parsnips, beans, tomatoes, corn, pumpkins, zucchini, red peppers, celery, parsley, chamomile, dandelions, mint, sunflowers, roses, grapes, watermelons, agave, juniper, flax or cotton. They are sparse, so explore away from built-up areas to find them. Harvest one with a knife, scythe, hatchet or bayonet to get its produce and two seeds (herbs give healing herbs, flax and cotton give fibre), which is a quick way to start a farm. Wild plants do not grow or need water; out of season (for example in winter) they wither away.
+On Nomads maps a few ripe wild crops grow on their own in open countryside, away from players and settlements. Depending on the biome and season you may find wild herbs, mushrooms, wheat, oat, barley, rice, potatoes, carrots, cabbage, turnips, parsnips, beans, tomatoes, corn, pumpkins, zucchini, red peppers, celery, parsley, chamomile, dandelions, mint, sunflowers, roses, grapes, watermelons, agave, juniper, flax, cotton, tea, sugarcane, bamboo, liquorice, or fruit trees such as apples, cherries, olives, oranges and coconuts. Every seed you can plant can be found again in the wild, from a wild plant or by foraging, and flax and tea turn up more often in the right land. They are sparse, so explore away from built-up areas to find them. Harvest one with a knife, scythe, hatchet or bayonet to get its produce and two seeds (herbs give healing herbs, flax and cotton give fibre), which is a quick way to start a farm. Wild plants do not grow or need water; out of season (for example in winter) they wither away.
 
 ### Trees grow back
 
@@ -227,17 +227,31 @@ it does not suit. Other roofs only shelter crops; they do not extend the
 season. Glass roofing is made from glass and needs the Imperial Architecture
 research. Examining a crop that the glass is keeping alive tells you so.
 
-### Underground and indoor farms
+### Powered greenhouses
 
-**Cave wheat** is a pale grain that grows without sunlight. Its seeds turn up
-when foraging bushes in any land. Sow it on a ploughed plot in a cave or under
-a roof; it refuses open sky. It grows in every season at half the speed of
-ordinary wheat, but unlike mushrooms it needs water, so put the plot within two
-tiles of fresh water or water it by hand. Harvest it with a knife or scythe for
-cave wheat and two seeds back. Cave wheat mills into flour and feeds livestock
-just like wheat.
+With electricity you can farm ordinary crops in caves, under solid roofs and
+out of their season. Both machines are crafted from steel in **Electrical**
+once you have the **Utilities** research:
 
-Plump helmets and mushrooms also grow indoors and underground without water.
+| Machine | Cost | Power | What it does |
+| --- | --- | --- | --- |
+| **Grow light** | 4 steel | 3 | Lights plots in a cave or under an opaque roof |
+| **Greenhouse climate controller** | 8 steel | 6 | Gives sheltered plots a suitable climate and season |
+
+1. Plough a plot in a cave or under a roof. On the surface a glass roof
+   already gives daylight, so a grow light is only needed underground or under
+   opaque roofs.
+2. Place the machine within **three tiles** of the plot on the same floor.
+   Anchor it with a wrench if needed, connect a working power cable and make
+   sure it has a good bulb, just like an electric lamp.
+3. Keep a clear path to the plot. A wall, window or closed door blocks it, and
+   the climate controller also needs a roofed path. The controller does not
+   give light, so a cave plot needs a grow light as well.
+4. Sow ordinary seeds and keep them watered. The machines do not feed the soil
+   or protect against pollution, and they stop helping when the power goes.
+
+Examining a plot tells you when powered equipment is giving it climate and
+light. Mushrooms still grow underground without water or a grow light.
 
 ### Skill
 

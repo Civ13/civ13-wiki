@@ -147,6 +147,14 @@ than blasting ordinary rock; deep bands leave about two-thirds more.
 The bands are pockets: use ordinary rock or an open pocket to dig around
 one if you are only trying to reach the next cave level.
 
+At the **deepest cave level**, a reinforced quarry charge set on a clear,
+exposed dirt floor can loosen a fresh layer of rock beneath it when the blast
+opens no nearby wall. It leaves one quarry cluster of **20 plain stone** and
+no ore; it does not dig a shaft or change the floor. Mine the cluster out and
+clear the stone before blasting the same spot again. A built floor, structure,
+ladder, floodwater or an unfinished cluster stops a new one. New ore still has
+to come from untouched rock.
+
 In the dedicated **Tutorial** region, read **Quarry stone and process it** on
 the camp lesson board. A sample cluster, pickaxe, and crusher are in the yard
 past the camp's north door. It teaches collection and processing without
