@@ -33,6 +33,7 @@ Stand in a room and use **Judge This Room** (IC tab) to see how it would rate an
 
 - **Mood.** A cosy or better home lifts your resting mood more than a plain roof does. It counts all day after you sleep there, like a good bed.
 - **A higher ceiling.** A fine or splendid home lets your mood settle a little higher than living conditions alone otherwise allow.
+- **Rested research.** On worlds with book research, sleeping in a proper bed in a roofed room with a seat and a table banks bonus research points, and a more comfortable room holds more of them; see [Rested research](Guide_to_Books_and_Scholars.md#rested-research).
 - **Well rested.** Waking in a comfortable, fine or splendid home leaves you well rested for half an hour, 45 minutes or an hour. You get your breath back faster and grow hungry and thirsty more slowly.
 
 ## Using every storey
@@ -67,6 +68,17 @@ A coat lasts about two weeks. After that it looks worn and patchy, and the walls
 - Use a sheet of cloth on a cloth curtain to dye it.
 
 The dyes are the same ones you know for tailoring. Weaving gives the natural dyes. Classical Dress and Fine Garments add more, and Textile Mills lets you mix any colour.
+
+## Furniture of your own design
+
+With **Basic Furniture** you can design your own chair, bed or portable stool, much like tailoring clothes.
+
+1. Craft a **furniture project** from four finished planks in the Furniture menu. Use it in hand to choose the frame (chair, bed or stool) and a natural, honey or dark wood finish.
+2. Use a sheet of cloth, wool cloth or leather on the project and pick the part to fit: a chair has a **seat** and a **back**, a bed a **mattress** and a **cover**, and a stool one **seat**. Each part costs one sheet. Cloth and wool cloth take the tailoring dyes you know; leather keeps its own colour. Any part can be left bare.
+3. **Remove upholstery** takes a part off again and gives its sheet back. When you are happy, confirm **Cut parts** to lock the design, then stand on clear ground and **Assemble** it at your feet.
+4. Later, use a new sheet on the piece while nobody is using it to replace one part, or wirecutters to take one part off. The rest of the piece stays as it is. A removed part gives back one sheet without its dye, and taking the piece apart returns each fitted sheet once.
+
+These are looks and materials only; they do not make the furniture more comfortable.
 
 ## Arranging things
 
