@@ -181,9 +181,24 @@ On the continents, oil springs on land flow only on the **desert ground** (deser
 
 ## Offshore drilling rigs
 
-**Combustion** also unlocks the **offshore drilling rig**, which costs **45 steel**. Lay a steel bridge deck out over deep saltwater, stand on it and build the rig there. Not every stretch of sea holds oil. If the seabed under the deck is dry, the build is refused and nothing is spent, so try another spot further out. Seabed oil fields vary in size: a thin field pumps **10 petroleum**, a good one **20** and a rich one **30** every two minutes. Examine the rig to see which kind it is drilling.
+**Combustion** unlocks offshore oil. You need three steel crafts:
 
-Rigs need no oil spring and never run dry. Load, remove and connect barrels the same way as on a wooden well, or connect factory pipes. Saving keeps the barrel and its petroleum. A hammer takes the rig apart and returns some of its steel.
+| Item | Cost | Use |
+| --- | --- | --- |
+| Offshore survey kit | 2 steel | Checks a tile of sea for oil from a boat |
+| Offshore platform kit | 24 steel | Becomes a fixed steel platform on the continental shelf |
+| Offshore oil tank | 12 steel | A 1,000-unit tank for the rig or for a ship's deck |
+
+The **offshore drilling rig** itself costs **45 steel**.
+
+1. **Survey.** Stop and anchor your boat, then use the survey kit on the water beside you (or use it in hand to check the tile you face). The report says how rich the oil field is, whether the tile is on the buildable shelf, and whether the field has already been pumped dry. Seabed fields are thin, good or rich; not every stretch of sea holds oil.
+2. **Lower the platform.** From the same anchored boat, use the platform kit on a shelf tile that has oil. Platforms only go on the continental shelf near land, not in the deep ocean.
+3. **Build the rig.** Step onto the platform and build the rig there. Run a cable to it, then load a clean barrel or an offshore oil tank. A rig on a platform holds **4 power** on its grid while it pumps.
+4. **Pump.** A thin field gives **10 petroleum**, a good one **20** and a rich one **30** every two minutes. Each field holds **3,000 units per level of richness** and does not refill. Rigs on the same field share it, so more rigs drain it faster. Examine a rig to see how much oil is left and why it has stopped: no platform, no power, a full or dirty tank, a dry field, or severe weather. Storms only pause a rig; it starts again when the weather clears.
+
+To move the crude, connect factory pipes to the rig as you would a land well, or bring a ship. Anchor the ship beside the rig with a clean offshore oil tank on its deck, then use **Load Offshore Oil Cargo** on the rig. Each load sends up to **100 units** from the rig's tank. Carry the tank to a refinery ashore.
+
+A hammer takes a rig apart and returns some of its steel. Older rigs that stand on ordinary bridge decks keep working and draw from the same limited fields, but a new rig needs a platform.
 
 ## Hydraulic fracturing
 
