@@ -36,6 +36,12 @@ The big weather comes from **lows** and **highs**, wide areas of low and high pr
 - **A high** brings settled, clear weather. In summer a strong high can stall and turn into a **heat wave**.
 - **Thunderstorms** can also build on their own on a hot, humid afternoon. They bring heavy rain and lightning, and blow themselves out in a quarter of an hour or so.
 
+### Tornadoes
+
+A severe thunderstorm over warm, humid land can, rarely, spin up a **tornado** on the persistent worlds. Before it touches down, people near its path get a warning and about 45 seconds to act, and a thin funnel can be seen hanging from the cloud. Once down, it tracks across the land with the storm for up to a couple of minutes. Its winds can knock down or push people caught in the open, scatter light loose things, and damage crops and fragile roofs.
+
+When warned, get **underground** or into a **sturdy, closed room**. Tornadoes do not form over water, in snowstorms or in dust storms, and they die out when they leave land or the storm weakens.
+
 Lows, highs and storms do not stop at the edge of a land. Neighbouring lands and oceans share them, so a storm you watch roll off the map carries on into the next region.
 
 ## Wind
@@ -118,6 +124,7 @@ A forecast supposes the wind holds. If the wind shifts, a storm can turn away fr
 
 - Farmers: watch the hygrometer on clear autumn and spring evenings, and cover tender crops when it promises frost.
 - Sailors: a falling barometer and a rising wind mean it is time to reef or make for harbour.
+- Everyone: a tornado warning means shelter now, below ground or in a sturdy closed room.
 - Travellers: in fog, keep to roads you know, and wait for the midday sun to burn it off.
 - Rain barrels and crops are only watered where the rain actually falls, so a rain gauge shows you which fields got it.
 

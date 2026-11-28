@@ -235,3 +235,14 @@ Before radios, people told the time and raised alarms with these. Each can be cr
 | Tower clock | 15 iron | Optics & Instruments | Wind it by hand (5 seconds) for two hours of running. It strikes each hour on a bell within two tiles. |
 | Clock face | 3 wood | Optics & Instruments | Hang it on a wall like a sign. It shows the time to the half hour while a running tower clock is within 7 tiles. |
 | Bell | 8 bronze | Bronze Working | Ring it by hand as an alarm. Everyone within 60 tiles who is more than 7 tiles away hears it and is told which way it lies. |
+
+## Pigeon post
+
+Homing pigeons carry letters without wires or electricity. Build a **pigeon loft** (6 soft wood, **Paper & Printing**) on open, dry ground outdoors. Wild pigeons live on temperate, semiarid and savanna land.
+
+1. Pull a live pigeon next to the loft, right-click the loft and choose **Train Homing Pigeon**. Keep pulling the bird until training finishes.
+2. Take the pigeon anywhere else on the same level of the same land. On **Help** intent, use a sheet of paper on it, or a closed envelope holding exactly one sheet.
+3. Stay with the bird for the short release. The bird and that same letter land together at the foot of its home loft, where anyone can pick the letter up, so seal it in an envelope if it is private.
+4. A pigeon only ever flies home. Carry it back to the sender for the next letter, or swap birds trained at each settlement so both sides can write back. If a loft is destroyed or rebuilt, its birds must be trained again.
+
+Pigeons cannot fly between lands or levels, and a roof over the loft, a blocked landing spot or open water stops the flight. The loft does not store letters or tell anyone a letter has come. Pigeons can be hurt like other animals, so keep yours somewhere safe.

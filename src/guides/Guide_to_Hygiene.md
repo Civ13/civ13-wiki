@@ -124,6 +124,18 @@ Cast a razor using a [knife mold](Guide_to_Metallurgy.md#molds). Hold it, aim at
 
 Click someone standing next to you the same way to cut their hair; you see the same window for them, and you must stay beside them until the cut finishes. The window closes if you put the razor away. Yesterday's dinner is better kept on a plate than in your beard.
 
+### Designing a style
+
+Open the **Design Style** tab in the Haircut window to mix hairstyles. Pick a source style for the **crown and bangs**, the **sides**, and the **back and nape**, then turn the preview to check every side. **Apply style** changes how the hair is arranged without changing its length, colour or the beard. **Restore base cut** goes back to the plain cut, and a new haircut also replaces the design. Only styles your hair could normally be cut into are offered, and headwear is not shown in the preview.
+
+A stylist can keep up to eight named patterns in the **Style book** and try any of them on a neighbour; saving a pattern does not change anyone's hair.
+
+### Dyeing hair and beards
+
+Hold a sheet of cloth or wool cloth on **Help** intent, aim at your **head** for your hair or at your **mouth** for your beard, and click yourself. Pick a colour and keep holding the sheet until you finish. Each finished dye uses one sheet; cancelling or choosing the colour you already have costs nothing. You can only dye your own hair.
+
+The colours are the tailoring dyes you know: Weaving gives the first ones, Classical Dress and Fine Garments add more, and Textile Mills lets you mix any colour. Hair and beard can be different colours, and dye never changes the cut or length.
+
 Hair and beards grow back slowly while you play: a shaved face grows a short beard after about three hours, then grows to medium, long and very long about every three hours after that. Head hair grows one length about every four hours. The razor only offers styles your hair is long enough for, so a shaved face has to grow out before you can trim it into a beard.
 
 ## Washing clothes

@@ -42,6 +42,14 @@ Using a research book in hand opens its window. Alt-click does the same for a bo
 
 **Can't study a chapter?** Check **Needs groundwork** for missing prerequisites. You'll also need enough light and at least Broken proficiency in the chapter's language. If you can't read a coded copy, look for a readable one. You do not need a scholarship level just to read.
 
+### Rested research
+
+On worlds with book research, a good night's sleep at home helps your research. Each full real minute you sleep in a proper bed, in a roofed room that also has a seat and a table, banks **1 rested research point**. Bedrolls, chairs, outdoor beds and unfurnished rooms earn nothing, and the room has to qualify both when you lie down and when you wake. Time asleep while logged off counts. The points are added when you wake and never expire.
+
+A furnished room holds up to **10 points, plus 2 for each home comfort point** (see [Making a Home](Guide_to_Homes.md)), so a plain furnished room holds about 16 and adding light and art raises that. **Judge This Room** (IC tab) shows what the room lacks, its limit and your balance. Sleeping somewhere poorer never takes away points you already have.
+
+The next time you add real progress to a research chapter, your banked points are added on top, as many as the chapter can still use; the rest stay banked. They do not replace prototypes, materials or other requirements.
+
 ## Research benches
 
 A **research bench** costs 8 soft wood. Benches belong to nobody: anyone can use any bench, and a bench holds only the work in progress.
