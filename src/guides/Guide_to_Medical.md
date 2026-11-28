@@ -13,6 +13,9 @@ Plague, typhus, malaria and cholera deteriorate while the infected human is acti
 | --- | --- | --- |
 | Plague, typhus, cholera | Penicillin | 2 units |
 | Malaria | Quinine | 10 units |
+| Cholera | Saline glucose (fluids) | a slow course of about 20 minutes |
+
+Penicillin is an antibiotic: it does nothing for flu or worms. Fever remedies (tea, elderflower tea, willow bark, healing herbs, aspirin) are what help with flu.
 
 Continuous appropriate treatment pauses deterioration and cures the illness after three minutes, much faster than waiting it out. Interrupting treatment resets course completion; provide a fresh complete course before the deadline. Flu and zombie infection use separate behavior.
 
@@ -26,7 +29,9 @@ Flu passes to someone standing right next to a sick person, and a sneeze can car
 
 A sick person's blood and raw flesh carry their illness. Blood drawn from someone with plague, typhus, cholera or malaria infects whoever it is injected into, and drinking it is a chance to catch it (malaria only passes by injection). Meat butchered from a sick body carries plague, typhus, cholera or intestinal worms. Cooking meat in an oven or pot kills every germ in it.
 
-Resting buckled to a bed (not a chair) helps the body fight any illness twice as fast. Being ill does not stop you using **Sleep** in a bed: flu passes twice as fast while you sleep there, and a severe illness or worms simply waits until you wake. A doctor's handbook used on a patient names the illness, its stage and how to treat it.
+Resting buckled to a bed (not a chair) helps the body fight any illness twice as fast. Being ill does not stop you using **Sleep** in a bed: flu passes twice as fast while you sleep there, and a severe illness or worms simply waits until you wake. A doctor's handbook used on a patient names the illness and its stage, gives first aid, and lists the treatments your society can supply; later treatments show up as your research reaches them. See [Treatments by Ailment](Guide_to_Treatments.md) for the full table.
+
+A handbook shows poisoning only by its signs: something harmful still in the stomach, or poison in the blood. To name the poison and the dose, draw a blood sample with a syringe and spin it in a powered laboratory centrifuge (Pharmacology) with an empty vial as its collector. It prints a blood test report that lists the poisons in the bloodstream with their doses and confirms plague, typhus, cholera or malaria in the sample.
 
 ## First-Aid
 
@@ -333,8 +338,9 @@ Guide to Chemistry), and tablet presses turn it into aspirin tablets.
 
 **Potassium Iodide:** Heals radiation. Cure for zombie virus.
 
-**Penicillin:** Cure for typhus, and the strongest antibiotic for
-infected wounds.
+**Penicillin:** An antibiotic. It cures plague, typhus and cholera and is
+the strongest antibiotic for infected wounds, but does nothing for flu or
+worms.
 
 **Silver:** An antiseptic. On skin it kills germs and it cleans objects,
 and taken in it works as a weak antibiotic.
@@ -418,16 +424,24 @@ A disease caused by water-borne bacteria.
   - After about three minutes you become weak, drowsy, feverish and in
     pain, and you shiver now and then. After about fifteen minutes you
     start to collapse.
+  - Cholera dries you out: once it worsens you get thirsty about twice
+    as fast, so keep the patient drinking boiled water.
   - Cholera does not kill you by itself, but a collapsing patient can
     still die of wounds, hunger, thirst or the cold.
   - **Cures:**
+    - **Fluids:** saline glucose, drunk or given by IV drip, quenches
+      thirst and helps the body fight cholera; kept up for about twenty
+      minutes it clears it (about 60 units by mouth). Mix one unit each of
+      salt and sugar into eight of water for ten units: salt comes from
+      boiling sea water, sugar from sugarcane, parsnips or maple syrup.
     - **Penicillin:** a continuous course of 2 units cures it in about
       three minutes.
     - **Healing herbs:** the Stone Age cure. Chew three herbs, one
       after another before the last runs out, for a ten-minute course.
     - **Waiting:** the body fights it off on its own after about half an
       hour of play.
-  - Drinking water, tea and charcoal do not cure cholera.
+  - Plain water, tea and charcoal do not cure cholera, but drinking
+    keeps the patient from drying out.
   - After you recover you resist cholera for a while.
 
 #### Flu
@@ -442,8 +456,8 @@ Just a normal flu.
     blurred vision, blackouts, and fever.
   - Manageable by eating and drinking until full, and resting (buckling
     to a bed halves how long it lasts).
-  - Tea, willow bark tea, elderflower tea or aspirin help bring the
-    fever down.
+  - Tea, willow bark tea, elderflower tea, healing herbs or aspirin help
+    bring the fever down. Penicillin does nothing for flu.
   - You might get immunity after surviving it.
 
 #### Typhus
@@ -507,9 +521,9 @@ learn how to keep people from ending up sick and useless.
     Give them plenty of fresh water or tea to clear the thirst.
   
 - **Cholera**: Caught from puddle or river water (or a well with
-    feces near it) that hasn't been boiled. Cure it with penicillin or
-    a course of healing herbs, and keep the patient fed and watered
-    while they recover.
+    feces near it) that hasn't been boiled. Cure it with penicillin, a
+    course of healing herbs or saline glucose fluids, and keep the
+    patient fed and drinking while they recover.
   
 - **Food poisoning**: Cooked food, clean water and healing tea.
   

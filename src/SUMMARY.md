@@ -17,6 +17,7 @@
     - [Slang](guides/Guide_to_Slang.md)
 - [Health & Survival](topics/Health_and_Survival.md)
     - [Medical](guides/Guide_to_Medical.md)
+    - [Treatments by Ailment](guides/Guide_to_Treatments.md)
     - [Hygiene](guides/Guide_to_Hygiene.md)
     - [Winter & Long Rounds](guides/Guide_to_Survival.md)
     - [Weather & Climate](guides/Guide_to_Weather.md)
