@@ -112,6 +112,44 @@ do not speak the recorded language hear it garbled. A tape holds ten minutes
 of recording; examine a tape or the recorder to see how much is used. Write on
 a tape with a pen to label it.
 
+## Telex
+
+A telex machine is a keyboard teleprinter that sends typed messages along the
+telephone pole line. It is made from 6 electronics once the Utilities research
+is complete.
+
+1. Place the machine within two tiles of a communications pole on a connected
+   line.
+2. Power it: drag an adjacent laid cable onto the machine.
+3. Use it and choose **Name Station**. The name addresses messages to this
+   machine and answers back to senders.
+4. Load blank sheets of paper (up to 10). Each message arrives on its own sheet.
+
+To send, choose **Send**, pick a station on the line (or **ALL STATIONS**) and
+type up to 250 characters. The telex prints capital letters, digits, spaces
+and `. , ? : ' - / ( ) =` and `+`; anything else is dropped. Every machine that
+takes the message answers back with its station name. A powered machine with
+no paper holds up to five messages and prints them, oldest first, as soon as
+paper is loaded. An unpowered machine gives no answer-back. **Directory** lists
+the named stations on the line.
+
+## Fax machine
+
+A fax machine sends a copy of a written page along the telephone pole line. It
+is made from 8 electronics once the Automation research is complete.
+
+1. Place it within two tiles of a communications pole on a connected line and
+   power it with an adjacent laid cable, as for a telex.
+2. Examine it to see its four-digit number. Use it and choose **Set Number** to
+   change the number; two machines on one line cannot share a number.
+3. Load blank sheets (up to 20) into a machine that should receive faxes.
+
+To send, use a written page on the machine and dial the other machine's
+number. Stay beside it while the page feeds through. The receiving machine
+prints a copy on one of its blank sheets, and you keep your original. The fax
+tells you if the other machine is out of paper or does not answer. Pages the
+printing press cannot copy cannot be faxed either.
+
 ## Radio stations
 
 From 1903 you can run your own **radio station**. Once the Factories research
