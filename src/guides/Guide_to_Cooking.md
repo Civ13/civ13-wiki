@@ -40,7 +40,7 @@ See the **[Full Crafting List](../Full_Crafting_List.md)** for more details abou
 <tr>
 <td><img src="../images/hammer.png"> <img src="../images/clawhammer.png"></td>
 <td><b>Hammer</b></td>
-<td>Made with 5 wood logs or 3 iron ingots (clawhammer, the bottom one, a modern and quicker variant of the hammer). Beat the crap out of food to rid it of any contaminants (at least sizeable ones)! Required in some culinary processes. Same as knife, has use in other areas - <b><a href="Guide_to_Crafting.md#tools">Guide to Crafting</a></b>.</td>
+<td>Made with 5 wood logs, or 3 iron ingots and a wood handle (clawhammer, the bottom one, a modern and quicker variant of the hammer). Beat the crap out of food to rid it of any contaminants (at least sizeable ones)! Required in some culinary processes. Same as knife, has use in other areas - <b><a href="Guide_to_Crafting.md#tools">Guide to Crafting</a></b>.</td>
 </tr>
 <tr>
 <td><img src="../images/mill.png"></td>
@@ -104,7 +104,7 @@ See the **[Full Crafting List](../Full_Crafting_List.md)** for more details abou
 
 ~~Store in a cool, dry place, away from direct sunlight.~~
 
-Most foods will spoil and decay (read, vanish from existence) if left in the open. Some preserved, as well as canned food are an exception and will last as long the world does (until the end of the round). Scattered food may also attract pests, such as mice.
+Most foods will spoil and decay (read, vanish from existence) if left in the open. Some preserved, as well as canned food are an exception and will last as long the world does (until the end of the round). Food left loose or in open baskets near a mouse nest gets eaten and gnawed; clay storage jars keep mice out (see [Mice & Pests](Guide_to_Mice.md)).
 
 Finding a formerly bursting-at-the-seams pantry devoid of its delicious contents may very well reduce a hungry soul to tears. Fortunately, there are ways to extend the shelf life of your food stock, which boil down to storing food inside any crate or a fridge.
 
@@ -118,6 +118,14 @@ Check **[here](../Food_Decay_Times.md)** for the decay times for different **uns
 <BR>
 
 Decay time of products stored in any containers is **doubled**.
+
+A **zeer pot** (4 clay, needs **Pottery & Cookware**) is a Stone Age cooler. It is one clay pot inside another, with sand between them. Fire it in a kiln or oven like a storage jar. It holds five small things. Pour water into it from a bucket, pot or any other open vessel, up to 60 units. While the sand is wet, food inside keeps three times as long as on its own. In desert, semiarid and savanna lands it keeps food four times as long, and in jungles and at sea, where little water evaporates, about two and a half times as long. The sand dries out in about three hours, or about two in the heat and a little faster again in dry lands. It does not dry while it is freezing. Examine the pot to see how long it will stay damp. Dry, it keeps food like a clay storage jar.
+
+A **cellar** keeps food cool without any ice. Anything underground, on the dug level below a land or in its caves, stays around 12 degrees all year: a little colder in winter and a little warmer in summer, but never above 18. Food there keeps longer than it would above ground, in a crate or loose, though not as long as in a cold ice house.
+
+An **ice house** (10 wood, needs **Cooperage & Containers**) needs no power. Pack **snow piles** into it, each good for an hour of cold, or **blocks of ice**, each good for three hours, up to twenty hours. While it holds snow or ice, food inside keeps about as long as in a freezer crate, longer than in a powered fridge. It melts a minute at a time unless it is freezing out. Built underground, or in a cave, where the earth stays cool, it melts four times more slowly, so ice stored in winter lasts far into summer. Examine the ice house to see how much cold is left. Once it has all melted, it keeps food like any other crate.
+
+To get ice, cut an [ice hole](Guide_to_Fishing.md#ice-fishing) in frozen water, then use a pickaxe, hatchet or chisel on the hole to cut a block from its edge. Each hole gives four blocks. A block left lying about in the warm melts away in about forty minutes, so carry it straight to the ice house.
 
 Decay time for the food stored in a fridge is **eight time longer!**. **A fridge must be [connected](Guide_to_Crafting.md#wiring) to a [power source](Guide_to_Crafting.md#engines) to work!** If fridge not connected, it will still better than a regular container: decay time is **tripled**.
 
@@ -334,7 +342,7 @@ culinary art!
 <tr>
 <td><img src="../images/Dried_cutlet.png"></td>
 <td>Dried meat cutlets</td>
-<td>Simply take your raw meat cutlets and click on a dehydrator to dry them. In a short time they will come off as dry cutlets.</td>
+<td>Simply take your raw meat cutlets and click on a dehydrator to dry them. In a short time they will come off as dry cutlets. A dehydrator in a roofed room upstairs dries half again as fast.</td>
 </tr>
 <tr>
 <td><img src="../images/pemmican.png"></td>
@@ -484,6 +492,36 @@ Delicious Iberian ham.
 
   - Get a barrel and fill it with 100u of water 1u of yeast and 100 of
     flour.
+
+## Syrups
+
+Syrups are made by boiling. Put the ingredients in a small pot, set the pot on a lit campfire, oven or wood stove, and let it finish boiling.
+
+- **Tree sap**: at the end of winter and in spring, hold a knife in one hand and use an open container (a bucket or pot) on a living broadleaf tree in a temperate or northern forest. You catch 10 units of sap, and the same tree drips again after about 20 minutes. Pines give resin instead, and the sap does not run in summer or autumn.
+- **Maple syrup**: boil sap down. Every 8 units of sap give 1 unit of thick maple syrup.
+- **Simple syrup**: boil sugar with the same amount of water.
+- **Maple sugar**: boil maple syrup on its own, with no water in the pot, and it sets into sugar.
+- **Molasses**: boil simple syrup on its own, with no water in the pot. Clean sugar crystallises out and leaves dark molasses behind.
+
+Uses:
+
+- **Fruit syrup**: mix 5 berry, grape, apple, apricot or orange juice with 10 simple syrup to get 15 fruit syrup.
+- **Lemonade**: mix 1 lemon juice with 2 simple syrup to get 3 lemonade.
+- **Jam**: 5 maple syrup sets 10 fruit juice into jam, just as sugar or honey does.
+- **Rum**: molasses and water ferment into rum with yeast. You need less molasses than sugar for the same amount of rum.
+- All syrups are sweet food and lift your mood a little.
+
+## Butter
+
+<img src="../images/butter_churn.png"> <img src="../images/butter.png"> <img src="../images/butter_salted.png"> <img src="../images/buttered_bread.png">
+
+Once your group knows **Pottery & Cookware**, you can make a **butter churn** from 3 soft wood (kitchen category).
+
+- **Churning**: pour [milk](#milk) or cream into the churn, put the lid on (use it in hand), then Alt-click it or use **Churn Butter**. Churning takes about 20 seconds. Every 30 milk gives a pat of butter and leaves 20 buttermilk, and every 15 cream gives a pat and leaves 5 buttermilk. Buttermilk is drinkable and quenches thirst like milk.
+- **Salted butter**: add 1 salt to the churn for each pat, or click a pat with a salt shaker or salt pile. Fresh butter turns rancid after about an hour on the ground, but salted butter keeps four times as long. Stored butter lasts longer still, the same as any other stored food.
+- **Buttered bread**: click a slice of bread with a pat of butter. Each pat spreads two slices.
+- **Potted food**: butter or lard seals cooked meat and fish in a clay crock so it keeps. See [Preserves](Guide_to_Farming.md#preserves).
+- Butter counts as fat in a [balanced diet](#balanced-diet).
 
 ## Canning
 

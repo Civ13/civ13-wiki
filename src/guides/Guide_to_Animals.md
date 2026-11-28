@@ -40,7 +40,9 @@ The dog's owner and members of its faction can give orders. The owner's orders t
 
 ## Riding horses
 
-Horses can be ridden by anyone; they do not need to be tamed first.
+Horses on battle maps come ready to ride. Horses that live wild on the open land have to be broken in first: a wild horse won't take a saddle, tack or a leash.
+
+- **Breaking in:** feed it by hand, and drag yourself onto it to swing up bareback. A wild horse always bucks you off, bruising you and knocking you down, but every feeding and every throw brings it closer to tame.
 
 - **Mount:** Click and drag your own character onto the horse. It takes a few seconds, and you cannot mount while lying down or prone.
 - **Ride:** Move as normal. A ridden horse can trample people in its way.
@@ -48,6 +50,17 @@ Horses can be ridden by anyone; they do not need to be tamed first.
 - **Pull a rider off:** Click someone else's horse with an empty hand. After a few seconds they are knocked to the ground.
 
 If the horse dies, its rider falls off and is knocked down. Keep your horse fed and away from gunfire.
+
+### Mares, stallions and foals
+
+Every horse is a mare or a stallion, and has its own **speed** and **stamina**. Examine a tame grown horse up close to judge it: fleet, steady or slow, and tireless, sound or soon winded. A faster horse is quicker to ride, and a hardier one gets less hungry pulling a carriage or cart.
+
+- **Breeding:** a tame mare standing next to a tame grown stallion will now and then come into foal, as long as the herd around her isn't crowded. Examining her shows when she is in foal. The foal is born about an hour later.
+- **Foals** take after both parents, a little better or worse, so breeding your fastest and hardiest horses gives better ones over time. A foal can't be ridden until it grows up, about two hours after birth.
+
+### Horseshoes
+
+An unshod horse slows down on stone roads, gravel, rock and mine floors. Use a set of **horseshoes** (2 iron, **Iron Smithing**) on a tame grown horse to shoe it; shod, it keeps its full pace there. Shoes wear out after a long time on hard ground and the horse casts them as **worn horseshoes**, so keep a spare set.
 
 ### Saddles
 
@@ -61,9 +74,11 @@ A **carriage** is pulled by a team of horses or oxen. It seats a driver and has 
 - **Hitch the team:** Drag a horse, cow or bull onto the carriage. A team is up to four animals of one kind, horses or oxen, and they stand in pairs in front of the carriage, so they need room there. Drag a hitched animal off the carriage to untie it.
 - **Drive:** Drag yourself onto the carriage to take the driver's bench. You are handed the **reins**.
   - Press **Z** (activate held object) with the reins to start at a walk, and again to trot or canter.
+  - The carriage, its team and a cart hitched behind it glide smoothly along rather than jumping from tile to tile.
   - Press **C** (secondary activation) to slow down, and again at a walk to stop.
   - The direction keys turn the carriage. It needs room for its new shape and its team to turn, and you must slow to a walk to turn it right round.
 - **Passengers and cargo:** Drag a person, a crate or a barrel onto the carriage to load it. Click the carriage with an empty hand to get off, or to take cargo off. You step down beside the carriage.
+- **Taking over:** If the driver is knocked out, asleep, tied up or has died, a seated passenger can click the carriage with an empty hand to take the reins. A driver who is still in the seat moves to the passenger's place.
 - **Examine** the carriage to see its team, its best pace and its free seats.
 
 ### Pace and load
@@ -99,3 +114,13 @@ A **hand cart** is a small wheeled box you pull yourself. Build one from the log
 - **Ctrl-click** it to pull it along. Its handles turn toward you as you go.
 - An empty cart slows you less than dragging a crate. The more you load into it, the slower you walk, so a full cart is heavy going. **Examine** it to see how hard it pulls.
 - A cart can be loaded onto a carriage like any other crate.
+
+### Hitching a cart
+
+A cart can be hitched behind a horse, an ox or a carriage, so an animal does the pulling.
+
+- **Behind a horse or an ox:** Stand the cart next to the animal and drag the cart onto it, or right-click the cart and choose **Hitch Cart**. The cart rolls along behind the animal, whether you ride it or lead it. A loaded cart slows a ridden horse, but far less than it would slow you on foot.
+- **Behind a carriage:** Stand the cart right behind the carriage and drag it onto the carriage, or use **Hitch Cart**. The cart rolls behind the rear wheels and swings round when the carriage turns. Its weight and its load count toward what the team pulls. The carriage cannot turn where there is no room for the cart behind it.
+- An animal or a carriage pulls one cart. A horse with a cart hitched cannot also be put in harness to a carriage.
+- Nobody can pull or push a hitched cart by hand. Right-click it and choose **Unhitch Cart** to let it go; a rider or a carriage passenger can do this too.
+- A cart comes loose if it is left behind, gets stuck, or its animal dies.

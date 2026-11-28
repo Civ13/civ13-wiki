@@ -32,6 +32,15 @@ The tree has three intersecting **layers** — Industrial, Military, and Health 
 
 See the [full reference table](#full-node-reference) for node eras, study costs and prerequisites.
 
+### What needs what
+
+A subject only requires what you really need to build it: the same craft one step earlier, the material it is made of, or the power that drives it.
+
+- **Tools, metals and power are the trunk.** Bronze Working, Iron Smithing, Steelmaking and Alloys, and Watermills, Steam Power, Electricity and the Combustion Engine are what most late subjects lean on.
+- **Every other branch can be left alone.** Farming, health, clothing, building, culture, arms and vehicles each start from a subject with no prerequisites.
+- **Some subjects are side steps.** Irrigation, Imperial Architecture, Classical Dress, Siege Engines and Mail & Plate unlock their own things, and nothing later needs them. Armour is taught by the armour subjects (Primitive Armor, Mail & Plate, Trench Warfare, Modern Armor), not by the blade and firearm subjects. A farmer can go from Basic Agriculture straight to Advanced Agriculture, then to Soil Science or Crop Breeding. Irrigation leads only to Hydroponics.
+- **Civil subjects never need military ones.** Rocketry and Drones follow from flight. Military subjects need a civil one only where they are built from it, such as Steelmaking for Rifling or the Combustion Engine for tanks.
+
 ---
 
 ## Eras and baseline research
@@ -54,10 +63,10 @@ Raised baselines and research tables are saved with the world, so they survive a
 
 A **research bench** is a craftable structure. Assign it one invention from the tree, and it will make progress on that invention — nothing else — until it's done, at which point you reassign it to the next thing.
 
-- **Building one:** costs 8 planks in the default global recipe. You must belong to a faction to build one.
-- **Ownership:** a bench belongs to whichever faction built it. It is *not* shared infrastructure between factions.
+- **Building one:** costs 8 planks in the default global recipe. Anyone can build one, in a faction or not.
+- **Ownership:** a bench built by a faction member belongs to that faction. It is *not* shared infrastructure between factions. A bench built by someone without a faction belongs to nobody until a faction claims it, and it doesn't count toward any faction's cap.
 - **Viewing vs. acting:** anyone can open a bench's interface to see the state of their faction's tree and what's currently being researched. Only the Leader, Research Director, or an appointed Researcher can *change* what a bench is working on, or produce trade goods from it.
-- **Reclaiming an abandoned bench:** if a faction dies out completely (no living members left), any other faction under its own bench cap can claim one of its benches. The claimed bench's old research assignment is cleared.
+- **Claiming a bench:** a faction under its own bench cap can claim a bench that belongs to nobody, or one whose faction has died out completely (no living members left). The claimed bench's old research assignment is cleared.
 
 ### How many benches can a faction have?
 
@@ -93,15 +102,15 @@ Every node completes one of three ways, depending on its **mode**:
 
 The assigned bench ticks forward automatically, once every **10 seconds**, contributing 1 tick per bench per tick. Multiple benches assigned to the *same* node stack additively — two benches on Steelmaking means 2 ticks every 10 seconds toward it, not 1.
 
-A bench must be tier-upgraded to at least the node's **minimum bench tier** before it can work on it at all — see [Bench tiers](#bench-tiers).
+A bench must be at least the node's **minimum bench tier** (the era) before it can work on it at all — see [Bench tiers](#bench-tiers).
 
-### 2. Build a prototype (Prototype mode — 9 key nodes)
+### 2. Build a prototype (Prototype mode — 11 key nodes)
 
-Some inventions (Bronze Working, Iron Smithing, Gunpowder, Steam Power, Electricity, Nuclear Power, Mechanized Warfare, Digital Computing, Digital Networks) need more than theory — they need a **working prototype**. These require **both** the full passive study **and** the matching prototype item fed to the bench (see the [reference table](#full-node-reference)) — it's an extra requirement, not a shortcut. Whichever you finish second is what completes the node: submit the prototype after study is done and it finishes at once; submit it early and the node completes the moment the ticks catch up.
+Some inventions (Bronze Working, Iron Smithing, Gunpowder, Printing Press, Steam Power, Electricity, Nuclear Power, Mechanized Warfare, Powered Flight, Digital Computing, Digital Networks) need more than theory — they need a **working prototype**. These require **both** the full passive study **and** the matching prototype item fed to the bench (see the [reference table](#full-node-reference)) — it's an extra requirement, not a shortcut. Whichever you finish second is what completes the node: submit the prototype after study is done and it finishes at once; submit it early and the node completes the moment the ticks catch up.
 
 [Research notes](#research-trade-goods-notes-and-books) still help on these techs, since they grant ticks toward the study half.
 
-**These are the era-changing capstones.** The first time *any* faction completes one ahead of the current era, the **whole world advances into that era**, with a server-wide announcement. Existing factions retain their founding Main-tree baseline; they must earn later nodes. New factions receive the Main-tree baseline of their founding era, while factionless players follow the current Main-tree baseline. Specialist trees do not gain automatic completion. Capstones have a **passive tick cost of 5× the listed base cost** (the tick numbers in the reference table below are the pre-multiplier base values).
+**These are the era-changing capstones.** The first time *any* faction completes one ahead of the current era, the **whole world advances into that era**, with a server-wide announcement. Two eras can be opened from either side: the **Imperial** era opens with Gunpowder *or* the Printing Press, and the **World War II** era opens with Mechanized Warfare *or* Powered Flight, so a peaceful people never has to study weapons to move the world on. Existing factions retain their founding Main-tree baseline; they must earn later nodes. New factions receive the Main-tree baseline of their founding era, while factionless players follow the current Main-tree baseline. Specialist trees do not gain automatic completion. Capstones have a **passive tick cost of 5× the listed base cost** (the tick numbers in the reference table below are the pre-multiplier base values).
 
 ### Studying samples (any Analysis/Prototype node)
 
@@ -137,17 +146,9 @@ Notes work on any tick-accumulating node — which today means every node except
 
 ## Bench tiers
 
-A bench starts at **tier 0** and can be upgraded up to **tier 8**. Higher-tier nodes require a correspondingly upgraded bench before they can be worked at all (an untiered bench simply can't be assigned a high-tier invention).
+A bench's tier is the **current global era**: Stone Age (era 0) benches are tier 0, Bronze Age (era 1) benches tier 1, and so on, up to tier 8. Higher-tier nodes need a bench of at least their tier before they can be worked at all.
 
-**Era cap:** a bench can never be upgraded above the **current global era** — Stone Age (era 0) caps benches at tier 0, Bronze Age (era 1) at tier 1, and so on, up to the absolute tier-8 ceiling. As the world advances an era, every bench's upgrade cap rises with it. So you can only ever be as advanced as the age you're in.
-
-**Upgrading:** feed the bench copper, silver, or gold **coins** — their value contributes toward the next tier. The cost escalates:
-
-```
-value needed for tier T -> T+1 = 120 x (T + 1)
-```
-
-So tier 0→1 costs 120 value, tier 1→2 costs 240, tier 7→8 costs 960, and so on. Progress accumulates across multiple items fed in — you don't need one single expensive item.
+You don't pay anything to raise it. When the world advances an era, every bench rises to the new tier on its own. So you can only ever be as advanced as the age you're in, and the node's prerequisites and other requirements still apply.
 
 ---
 
@@ -162,6 +163,8 @@ A **resource forge** is a separate structure (one serves your whole faction, not
 | Copper | 0.1 |
 | Silver | 1 |
 | Gold | 4 |
+
+Those values are for full-weight coins. A debased coin counts only for the metal in it (see [Money & Coins](Guide_to_Money.md#debased-coins)).
 
 When you interact with the forge, you're prompted for how many coins to melt (so a full purse isn't accidentally vaporized in one click).
 
@@ -185,14 +188,14 @@ The first bonus slot costs 300 silver-equivalent, the second costs 600, the thir
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
 | Basic Toolmaking | 0 | 60 | 0 | Analysis | - |
-| Iron Tools | 2 | 130 | 1 | Analysis | Basic Toolmaking |
+| Iron Tools | 2 | 130 | 1 | Analysis | Basic Toolmaking, Iron Smithing |
 | Machined Tools | 4 | 200 | 3 | Analysis | Iron Tools, Steelmaking |
 | Power Tools | 6 | 270 | 5 | Analysis | Machined Tools, Electricity |
 
 #### Metallurgy
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Bronze Working | 1 | 142 | 0 | **Prototype** (cast axehead mold) | - |
+| Bronze Working | 1 | 142 | 0 | **Prototype** (cast axehead mold) | Basic Toolmaking |
 | Iron Smithing | 2 | 195 | 1 | **Prototype** (ingot mold) | Bronze Working |
 | Steelmaking | 4 | 200 | 3 | Analysis | Iron Smithing |
 | Alloys | 6 | 270 | 5 | Analysis | Steelmaking |
@@ -204,7 +207,7 @@ The first bonus slot costs 300 silver-equivalent, the second costs 600, the thir
 | Stone Masonry | 1 | 95 | 0 | Analysis | Primitive Construction |
 | Brickmaking | 2 | 130 | 1 | Analysis | Stone Masonry |
 | Imperial Architecture | 3 | 165 | 2 | Analysis | Brickmaking |
-| Reinforced Concrete | 4 | 200 | 3 | Analysis | Imperial Architecture, Steelmaking |
+| Reinforced Concrete | 4 | 200 | 3 | Analysis | Brickmaking, Steelmaking |
 | Modern Construction | 6 | 270 | 5 | Analysis | Reinforced Concrete |
 
 #### Culture & Faith
@@ -213,7 +216,7 @@ The first bonus slot costs 300 silver-equivalent, the second costs 600, the thir
 | Ritual & Worship | 0 | 60 | 0 | Analysis | - |
 | Regalia & Heraldry | 0 | 60 | 0 | Analysis | Weaving |
 | Monuments & Statuary | 2 | 130 | 1 | Analysis | Stone Masonry, Ritual & Worship |
-| Fine Arts & Leisure | 3 | 165 | 2 | Analysis | Monuments & Statuary |
+| Fine Arts & Leisure | 3 | 165 | 2 | Analysis | Ritual & Worship |
 
 #### Production
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
@@ -222,18 +225,18 @@ The first bonus slot costs 300 silver-equivalent, the second costs 600, the thir
 | Cooperage & Containers | 1 | 95 | 0 | Analysis | Basic Toolmaking |
 | Resource Processing | 1 | 95 | 0 | Analysis | Basic Toolmaking |
 | Trade & Coinage | 1 | 95 | 0 | Analysis | - |
-| Workshops | 2 | 130 | 1 | Analysis | Pottery & Cookware |
+| Workshops | 2 | 130 | 1 | Analysis | Bronze Working |
 | Glassworking | 2 | 130 | 1 | Analysis | Pottery & Cookware |
 | Papermaking | 2 | 130 | 1 | Analysis | - |
-| Printing Press | 3 | 165 | 2 | Analysis | Papermaking |
+| Printing Press | 3 | 165 | 2 | **Prototype** (envelope or wax seal stamp) | Papermaking |
 | Optics & Instruments | 3 | 165 | 2 | Analysis | Glassworking |
-| Factories | 4 | 200 | 3 | Analysis | Printing Press, Steam Power |
+| Factories | 4 | 200 | 3 | Analysis | Workshops, Steam Power |
 | Assembly Line | 5 | 235 | 4 | Analysis | Factories |
 | Automation | 7 | 305 | 6 | Analysis | Assembly Line, Electricity |
 | Digital Computing | 8 | 510 | 7 | **Prototype** (Cold War-era camera) | Automation, Electricity |
 | Digital Networks | 9 | 560 | 8 | **Prototype** (mobile phone) | Digital Computing |
 | Consumer Electronics | 9 | 420 | 8 | Analysis | Digital Networks |
-| 3D Printing | 9 | 420 | 8 | Analysis | Digital Networks, Automation |
+| 3D Printing | 9 | 420 | 8 | Analysis | Digital Computing |
 
 #### Textiles (gateway)
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
@@ -241,7 +244,7 @@ The first bonus slot costs 300 silver-equivalent, the second costs 600, the thir
 | Weaving | 0 | 60 | 0 | Analysis | - |
 | Furriery | 1 | 95 | 0 | Analysis | Weaving |
 
-**Weaving** (basic) stays on the Main tree as the textiles gateway — it covers basic weaving and the basic tailoring tools (e.g. the loom). **Furriery** (fur coats, fur hats and fur caps from pelts) is also on the Main tree, so it comes with the era like other Main-tree nodes and players without a faction can make warm clothes. The advanced tailoring nodes are in the standalone **Tailoring** tree (see below).
+**Weaving** (basic) stays on the Main tree as the textiles gateway — it covers basic weaving and the basic tailoring tools (e.g. the loom). **Furriery** (fur coats from any pelt, white pelts included, plus fur hats and fur caps) is also on the Main tree, so it comes with the era like other Main-tree nodes and players without a faction can make warm clothes. The advanced tailoring nodes are in the standalone **Tailoring** tree (see below).
 
 #### Furniture
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
@@ -253,32 +256,34 @@ The first bonus slot costs 300 silver-equivalent, the second costs 600, the thir
 #### Power
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Watermills | 3 | 165 | 2 | Analysis | - |
-| Steam Power | 4 | 300 | 3 | **Prototype** (machined handle) | Watermills |
-| Electricity | 5 | 352 | 4 | **Prototype** (cable coil) | Steam Power |
+| Watermills | 3 | 165 | 2 | Analysis | Resource Processing |
+| Steam Power | 4 | 300 | 3 | **Prototype** (machined handle) | Watermills, Iron Smithing |
+| Electricity | 5 | 352 | 4 | **Prototype** (cable coil) | Steam Power, Galvanic Cells |
 | Combustion Engine | 5 | 235 | 4 | Analysis | Steam Power, Steelmaking |
-| Nuclear Power | 7 | 458 | 6 | **Prototype** (geiger counter) | Combustion Engine |
-| Hydraulic Fracturing | 8 | 400 | 7 | Analysis | Electricity, Modern Construction |
+| Nuclear Power | 7 | 458 | 6 | **Prototype** (geiger counter) | Electricity, Alloys |
+| Hydraulic Fracturing | 8 | 400 | 7 | Analysis | Combustion Engine, Electricity |
 
-Electricity unlocks the powered soil sifter and river concentrator. Hydraulic Fracturing unlocks the finite petroleum rig; see [Resource Extraction](Guide_to_Resource_Extraction.md) for input and power requirements. Automobiles and Electricity are both needed to use the [automobile workshop](Guide_to_Crafting.md#automobile-workshop). Powered Flight unlocks the aircraft hangar and runway; see [Aircraft](Guide_to_Aircraft.md). Submarines unlocks the submarine pen and the parts to build a submarine by hand; see [Submarines](Guide_to_Boats.md#submarines). Naval Aviation unlocks the shipyard office that lays down a carrier; see [Aircraft Carriers](Guide_to_Aircraft_Carriers.md).
+Electricity unlocks the powered soil sifter and river concentrator. Hydraulic Fracturing unlocks the finite petroleum rig; see [Resource Extraction](Guide_to_Resource_Extraction.md) for input and power requirements. Automobiles and Electricity are both needed to use the [automobile workshop](Guide_to_Crafting.md#automobile-workshop). Lighter-than-Air Flight unlocks the basic [wooden airship kit](Guide_to_Aircraft.md#crewed-airships) before Powered Flight, which unlocks the aircraft hangar and runway. Submarines unlocks the submarine pen and the parts to build a submarine by hand; see [Submarines](Guide_to_Boats.md#submarines). Naval Aviation unlocks the shipyard office that lays down a carrier; see [Aircraft Carriers](Guide_to_Aircraft_Carriers.md).
 
 #### Vehicles
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
 | Carts | 1 | 95 | 0 | Analysis | - |
+| Oared Ships | 1 | 95 | 0 | Analysis | Carts |
 | Wagons & Ships | 3 | 165 | 2 | Analysis | Carts |
 | Rail & Steam | 4 | 200 | 3 | Analysis | Wagons & Ships, Steam Power |
-| Automobiles | 5 | 235 | 4 | Analysis | Rail & Steam, Combustion Engine |
-| Powered Flight | 6 | 270 | 5 | Analysis | Automobiles, Combustion Engine |
+| Automobiles | 5 | 235 | 4 | Analysis | Wagons & Ships, Combustion Engine |
+| Lighter-than-Air Flight | 5 | 235 | 4 | Analysis | Wagons & Ships, Utilities |
+| Powered Flight | 6 | 270 | 5 | **Prototype** (small fuel tank) | Combustion Engine |
 | Submarines | 6 | 270 | 5 | Analysis | Wagons & Ships, Combustion Engine, Electricity |
 | Aviation & Rocketry | 7 | 305 | 6 | Analysis | Powered Flight, Alloys |
-| Naval Aviation | 7 | 305 | 6 | Analysis | Powered Flight, Submarines |
+| Naval Aviation | 7 | 305 | 6 | Analysis | Powered Flight, Wagons & Ships |
 
 #### Infrastructure
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
 | Paved Infrastructure | 3 | 165 | 2 | Analysis | Stone Masonry |
-| Utilities | 5 | 235 | 4 | Analysis | Paved Infrastructure, Electricity |
+| Utilities | 5 | 235 | 4 | Analysis | Electricity |
 
 #### Agriculture (gateway)
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
@@ -298,19 +303,19 @@ The Tailoring tree contains advanced clothing and armour research, split into tw
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
 | Classical Dress | 1 | 95 | 0 | Analysis | Weaving |
-| Tailoring | 2 | 130 | 1 | Analysis | Classical Dress |
+| Tailoring | 2 | 130 | 1 | Analysis | Weaving |
 | Fine Garments | 3 | 165 | 2 | Analysis | Tailoring |
 | Haberdashery | 3 | 165 | 2 | Analysis | Tailoring |
-| Textile Mills | 4 | 200 | 3 | Analysis | Fine Garments, Steam Power |
+| Textile Mills | 4 | 200 | 3 | Analysis | Tailoring, Steam Power |
 | Ready-Made Clothing | 5 | 235 | 4 | Analysis | Textile Mills |
-| Synthetic Fabrics | 7 | 305 | 6 | Analysis | Ready-Made Clothing |
+| Synthetic Fabrics | 7 | 305 | 6 | Analysis | Textile Mills, Combustion Engine |
 
 **Armour** (gateway: Primitive Armor)
 
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Mail & Plate | 2 | 130 | 1 | Analysis | Primitive Armor |
-| Trench Warfare | 5 | 235 | 4 | Analysis | Mail & Plate |
+| Mail & Plate | 2 | 130 | 1 | Analysis | Primitive Armor, Iron Smithing |
+| Trench Warfare | 5 | 235 | 4 | Analysis | Primitive Armor, Field Defenses, Steelmaking |
 | Modern Armor | 7 | 305 | 6 | Analysis | Trench Warfare, Alloys |
 
 ### Specialized tree: Agriculture
@@ -320,7 +325,7 @@ Its own standalone tab, reachable once Basic Agriculture (in the Main tree) is r
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
 | Irrigation | 2 | 165 | 1 | Analysis | Basic Agriculture |
-| Advanced Agriculture | 4 | 235 | 3 | Analysis | Irrigation |
+| Advanced Agriculture | 4 | 235 | 3 | Analysis | Basic Agriculture |
 
 **Irrigation** unlocks the shovel's "dig an irrigation channel" action.
 
@@ -330,7 +335,7 @@ Its own standalone tab, reachable once Basic Agriculture (in the Main tree) is r
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
 | Stone Arms | 0 | 60 | 0 | Analysis | - |
-| Bronze Arms & Armor | 1 | 95 | 0 | Analysis | Stone Arms |
+| Bronze Arms & Armor | 1 | 95 | 0 | Analysis | Stone Arms, Bronze Working |
 | Steel Blades | 2 | 130 | 1 | Analysis | Bronze Arms & Armor, Iron Smithing |
 
 #### Archery
@@ -361,12 +366,12 @@ Its own standalone tab, reachable once Basic Agriculture (in the Main tree) is r
 #### Artillery
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Siege Engines | 2 | 130 | 1 | Analysis | - |
-| Cannon | 3 | 165 | 2 | Analysis | Siege Engines, Imperial Architecture |
+| Siege Engines | 2 | 130 | 1 | Analysis | Primitive Construction |
+| Cannon | 3 | 165 | 2 | Analysis | Gunpowder |
 | Field Artillery | 4 | 200 | 3 | Analysis | Cannon, Steelmaking |
 | Mechanized Warfare | 6 | 405 | 5 | **Prototype** (tank shell casing) | Field Artillery, Combustion Engine, Steelmaking |
-| Missiles | 7 | 305 | 6 | Analysis | Mechanized Warfare, Aviation & Rocketry |
-| Drones | 9 | 450 | 8 | Analysis | Consumer Electronics, Missiles |
+| Missiles | 7 | 305 | 6 | Analysis | Aviation & Rocketry, Gunpowder |
+| Drones | 9 | 450 | 8 | Analysis | Consumer Electronics, Powered Flight |
 
 #### Armor (gateway)
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
@@ -382,15 +387,15 @@ Its own standalone tab, reachable once Basic Agriculture (in the Main tree) is r
 |---|---|---|---|---|---|
 | Herbalism | 0 | 60 | 0 | Analysis | - |
 | Apothecary | 2 | 130 | 1 | Analysis | Herbalism |
-| Pharmacology | 5 | 235 | 4 | Analysis | Apothecary, Printing Press |
+| Pharmacology | 5 | 235 | 4 | Analysis | Apothecary |
 | Modern Medicine | 7 | 305 | 6 | Analysis | Pharmacology |
 
 #### Surgery
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |
 |---|---|---|---|---|---|
-| Field Surgery | 1 | 95 | 0 | Analysis | Bronze Working |
-| Surgical Theory | 3 | 165 | 2 | Analysis | Field Surgery, Printing Press |
-| Anesthetic Surgery | 5 | 235 | 4 | Analysis | Surgical Theory |
+| Field Surgery | 1 | 95 | 0 | Analysis | Herbalism |
+| Surgical Theory | 3 | 165 | 2 | Analysis | Field Surgery, Papermaking |
+| Anesthetic Surgery | 5 | 235 | 4 | Analysis | Surgical Theory, Apothecary |
 
 #### Sanitation
 | Node | Era | Ticks | Min Tier | Mode | Prerequisites |

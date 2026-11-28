@@ -21,6 +21,10 @@ The bench, dispenser and burner are offered in global and Carib catalogs through
 3. Click the bench and choose the named recipe. Include any catalysts and leave room for the output; the bench scales to the available inputs. Missing inputs, catalysts or output space reject the operation without consuming ingredients.
 4. Use **Remove reaction beaker** when finished. Ejection restores its previous mixing behavior, so remaining reagents can react again. It also clears heat.
 
+## Elements from ore
+
+An empty extraction kit also purifies ore into its element. Use the kit on a stack of iron ore (or sponge or pig iron), silver, gold, copper, tin, calamine, lead, uranium, coal, charcoal, sulphur, saltpeter or bauxite. Each use takes **one** ore from the stack and fills the kit with **5 units**. Saltpeter gives 2.5 potassium and 2.5 nitrogen. The rest of the stack stays, so empty the kit and use it again for more.
+
 ## Gelatin from meat or papaya
 
 An empty extraction kit collects **4 units** from one supported source: collagen from an unspoiled raw meat slab or a cleaned bone (clean a bone with a knife first), Digestive Protease from a vomit decal, or Fruit Protease from an unspoiled papaya. A successful extraction consumes the source. Empty the kit into the bench before reusing it; spoiled or unsupported sources and nonempty kits consume nothing.
@@ -34,7 +38,7 @@ Gather wild papaya seeds in jungle or savanna, plant and tend them using [farmin
 | Separate in centrifuge | 5 unpurified gelatin | 4 purified gelatin |
 | Finish at the bench | 4 purified gelatin + 1 water **or purified ethanol** | 5 solid gelatin |
 
-Ordinary ethanol and blood plasma are not substitutes for the named finishing solvent and protease feedstocks. A third finishing route uses purified gelatin with both water and purified ethanol.
+Ordinary ethanol and blood plasma will not do. A third finishing route uses purified gelatin with both water and purified ethanol.
 
 ### Gelatin bandages
 
@@ -53,6 +57,7 @@ Polymers from the bench can be made into useful items:
 
 - **Polyethylene and butyl rubber:** a closed plastic bottle. **Polypropylene:** a reusable storage bag. Either polymer makes a plastic sheet.
 - **Polypropylene** also makes cloth or a plastic comb; **polyethylene** makes a throwable play ball.
+- With **Industrial Plastics** (World War II), 4 units of either polymer granulate into a measure of thermoplastic pellets for the [plastics molding machine](Guide_to_Factory_Automation.md#plastics-molding-machine).
 - **Butyl** makes adhesive tape, stoppers and gaskets. Tape repairs drones and wraps a copper ingot into an insulated power cable; stoppers and gaskets seal small vials and drink bottles.
 - Using a copper ingot on a plastic sheet makes one piece of insulated power cable.
 - Plastic sheets also craft decorative plastic pipes, elbows and junctions. These are decoration only and do not carry liquids.
@@ -65,7 +70,7 @@ Pipe networks, pumps, holding tanks, reaction vessels, bottlers and the automati
 
 Secure it with a wrench and [connect cable power](Guide_to_Crafting.md#wiring). It needs **30 kW**, so a single [battery](Guide_to_Power.md) is insufficient. Your character must meet its medical skill requirement to load and operate it.
 
-Pour the input into the centrifuge; each container interaction transfers up to 10 units. Install an **empty vial** as collector, then click the machine to begin its **15-second** cycle. Power is checked at start and completion. Use **Remove Vial** after it stops.
+Take the lid off before pouring: a lidded beaker or vial cannot pour in or collect. Pour the input into the centrifuge; each container interaction transfers up to 10 units. Install an open, **empty vial** as collector, then click the machine to begin its **15-second** cycle. Power is checked at start and completion, and the centrifuge only holds its 30 kW on the grid while a cycle is running. Use **Remove Vial** after it stops.
 
 The largest reagent in the mixture determines the separation: unpurified gelatin yields 80% purified gelatin; 10 blood yields 6 plasma, 3 red-cell reagent and 1 white-cell reagent; salt yields equal sodium/chlorine fractions. Capacity limits the processed amount, leaving excess input for later. Unsupported input, unavailable collector space or lost power preserves the input. Salt fractions can react again in ordinary containers; use an inert bench for elemental feedstocks.
 
@@ -120,7 +125,7 @@ This table does not list every bench recipe. Use the workflows above and the rec
 | Calcium carbonate |  1u. carbon 1u. calcium 3u. oxygen | none | none | 5 | calcium_carbonate |
 | Carbon dioxide |  1u. carbon 2u. oxygen | none | none | 2 | carbon_dioxide |
 | Sulphuric acid |  1u. sulfur 1u. oxygen 1u. hydrogen | none | none | 2 | sacid |
-| Saline Glucose solution |  1u. sodiumchloride 1u. water 1u. sugar | none | none | 2 | saline_glucose |
+| Saline Glucose solution |  1u. sodiumchloride 8u. water 1u. sugar | none | none | 10 | saline_glucose |
 | Aqua regia |  1u. nitric_acid 3u. clorhydric_acid | none | none | 2 | aqua_regia |
 | Nitric acid |  2u. nitrogen 5u. oxygen 3u. water | none | none | 4 | nitric_acid |
 | Clorhydric acid |  1u. hydrogen 1u. chlorine | none | none | 1 | clorhydric_acid |
@@ -187,7 +192,7 @@ This table does not list every bench recipe. Use the workflows above and the rec
 | Margarita |  2u. tequilla 1u. limejuice | none | none | 3 | margarita |
 | Red Mead |  1u. blood 1u. mead | none | none | 2 | red_mead |
 | Garum |  1u. sodiumchloride 2u. fish |  5u. enzyme | none | 2 | garum |
-| mead |  2u. honey 2u. water |  5u. enzyme | none | 2 | mead |
+| Mead must |  1u. honey 1u. water | none | none | 2 | honey_must |
 | Iced Beer |  5u. beer 1u. ice | none | none | 6 | iced_beer |
 | Cafe Latte |  1u. coffee 1u. milk | none | none | 2 | cafe_latte |
 | Andalusia |  1u. rum 1u. whiskey 1u. lemonjuice | none | none | 3 | andalusia |

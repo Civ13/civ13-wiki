@@ -1,6 +1,6 @@
 # Aircraft Carriers
 
-An aircraft carrier is a ship forty tiles long and nine wide that is laid down whole at a **shipyard office** and sails as one block across the ocean. It has three decks on three levels: a **hangar deck** below the waterline with six watertight compartments, the **flight deck** at the surface, which is a runway from stern to bow, and an **island** on the level above with the ship's wheel. [Light planes](Guide_to_Aircraft.md) take off from the deck, land on its arresting wires and ride two elevators down to the hangar. Carriers need a world with a level below the sea and open sky above it: at the moment that is **Gaia**, the main Nomads persistent world.
+An aircraft carrier is a ship forty tiles long and nine wide that is laid down whole at a **shipyard office** and sails as one block across the ocean. It has three decks on three levels: a **hangar deck** below the waterline with six watertight compartments, the **flight deck** at the surface, which is a runway from stern to bow, and an **island** on the level above with the ship's wheel. [Light planes](Guide_to_Aircraft.md) take off from the deck, land on its arresting wires and ride two elevators down to the hangar. Carriers need a world with a level below the sea and open sky above it: at the moment that is only **[Gaia](../maps/Gaia.md)**, one of the persistent lands. North and South America have no level below the sea.
 
 ## Research and materials
 
@@ -53,8 +53,8 @@ A ship nobody has registered sails for whoever stands at the wheel. To make her 
 Once she is registered:
 
 - **Owners** (every member of the faction she is registered to) and listed crew who are **captain** or **helmsman** use the wheel as before.
-- **Anyone else** can still **force the wheel**, but only while one of her owners is in the world. It takes about 15 seconds of standing at the wheel and everyone aboard is told who is doing it.
-- With **no owner in the world** the wheel is chained, and so are the elevator and catapult levers and the radar. Nobody can sail her away while you are gone.
+- **Anyone else** can still **force the wheel**. It takes about 15 seconds of standing at the wheel and everyone aboard is told who is doing it. On Gaia this remains possible even when no owner is in the world; elsewhere it requires an owner to be present.
+- Away from Gaia, with **no owner in the world**, the wheel is chained, and so are the elevator and catapult levers and the radar. On Gaia, outsiders can work the levers and radar even when the owners are away.
 - Listed crew of any role can always work the levers and the radar.
 
 Owners and the captain keep the papers at the wheel:

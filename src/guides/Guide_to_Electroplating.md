@@ -43,6 +43,18 @@ The bath coats metal weapons, tools and armour made of iron, steel, bronze, bras
 
 The value bonus is always less than the sheet it uses up, so plating is for making goods you sell, not for making money from sheets. Nomad traders price items by their value; see [Nomad Raiders & Caravans](Guide_to_Nomad_Visitors.md).
 
+## Gilding dish (before Electricity)
+
+Long before cables, a **gilding dish** can put a gold or silver coat on small metal items using an early battery.
+
+- Research **Early Chemical Cells** on your faction's [tech tree](Guide_to_Research.md).
+- Craft the **gilding dish** from 1 copper sheet. It is in the electrical section of the crafting menu, next to the Baghdad-style jar cell.
+- Pour in grape juice. The dish holds 30 units and each coat uses 5.
+- Hang one sheet of gold or silver in it. Copper, tin and zinc need the full bath.
+- Set a charged cell, such as a filled jar cell, on the same tile or right next to the dish. It does not need a cable. See [Power & Batteries](Guide_to_Power.md) for filling a jar cell.
+
+Use a small metal item, such as a knife, spoon or ring, on the dish to lower it in. A coat takes about 20 seconds. It gives the same value and tint as the bath. Each coat drains about a twelfth of a full jar cell. If the cell runs low or is moved away, the dish waits until a charged cell is back. Examine the dish to see how much juice is left and how many more coats the cell beside it can give.
+
 ## Automation
 
 - A pipe network can keep the bath filled with sulphuric acid.

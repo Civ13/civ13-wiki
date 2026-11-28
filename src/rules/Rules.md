@@ -2,7 +2,7 @@
 
 These rules support our [Mission and Community Standards](../Mission_and_Community_Standards.md). Community conduct expectations apply across the game and official community spaces, including Discord and project contributions. Scenario-specific gameplay rules apply to their respective modes.
 
-**Persistence players:** read the [Persistence Server Rules](Persistence.md) for that server's HRP, conflict, metagaming and offline-protection rules. Those specific rules take precedence over the corresponding general and Nomads gameplay rules below; community conduct and safety standards still apply.
+**Persistent worlds (such as Gaia):** read the [Persistent World Rules](Persistent_Worlds.md). They take precedence over the corresponding general and Nomads gameplay rules below; community conduct and safety standards still apply.
 
 ### General Rules:
 

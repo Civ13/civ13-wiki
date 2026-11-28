@@ -9,7 +9,7 @@ power.
 
 In the default global catalog, **2 raw wood** makes a wooden knife. A Stone Age hatchet costs **2 stone** through baseline Basic Tools; use it to split **2 raw wood into 1 plank**. A starter research bench costs **8 planks**. At a tier-zero bench, **Basic Agriculture** has no prerequisite and costs **95 study ticks**, unlocking the **4-plank wooden plough**. Faction permissions, bench upgrades, map catalogs and skills still apply. Established factions do not gain this research merely because another faction advances the era.
 
-Use a knife on a small bush with **Help intent** for random seeds; the bush regrows its seed supply after **10 minutes**. Continental, Pangea, New World, Mediterranean, Gaia and Europe use biome seed catalogs when this forage route is present. Pangea also has placed seed stacks; check actual resources on your map. Healing herbs use jungle-bush forage or planting a herb stack, consuming one herb, rather than random herb seeds. Seeds still need suitable soil, biome and season.
+Use a knife on a small bush with **Help intent** for random seeds; the bush regrows its seed supply after **10 minutes**. Continental, Pangea, New World, Mediterranean, Gaia, Europe, Asia, North America and South America use biome seed catalogs when this forage route is present. Pangea also has placed seed stacks; check actual resources on your map. Healing herbs use jungle-bush forage or planting a herb stack, consuming one herb, rather than random herb seeds. Seeds still need suitable soil, biome and season.
 
 ### Wild plants
 
@@ -18,6 +18,17 @@ On Nomads maps a few ripe wild crops grow on their own in open countryside, away
 ### Trees grow back
 
 Chopping down a tree on a Nomads map leaves a **tree stump**. Outside winter, a stump slowly grows back into the same kind of tree, usually over a few hours, while nobody is nearby. To keep cleared land clear, dig the stump out with any shovel or chop it with a hatchet. Either way the roots give you 2 wood logs.
+
+### Planting trees
+
+You can grow new timber trees on a ploughed plot under open sky, away from roofs, walls and other crops.
+
+- **From seed:** forage tree seeds from small bushes with a kitchen knife on Help intent, then use them on the plot.
+- **From a cutting:** with an empty hand on Harm intent, break a branch off a living broadleaf tree. Switch to Help intent and click the fallen branch to pick it up as a **tree cutting**, then use it on the plot. Dead trees, pines and palms do not give cuttings. A plot that is not suitable does not use up the seed or cutting.
+
+Water and fertilise the seedling like any crop. It grows through six stages, about a minute each while the season suits it, and then becomes an ordinary tree you can chop for logs. Winter, drought, snowstorms and sandstorms stop or kill it. A shovel or spade uproots a seedling, and gives nothing back.
+
+If you would rather have a stick, click the cutting in your hand to set it down, Grab to strip its leaves and Harm to trim it. A trimmed stick can no longer be planted.
 
 To farm, you will require some basic tools.
 
@@ -95,6 +106,10 @@ Just plough a plot of land by yourself or by attaching the plough to a cow or bu
 filled with fresh water or plough near a river, put some seeds in the
 ground and watch them grow! Well, it is a bit more nuanced.
 
+### Turning a dirt road into a garden
+
+A plough on **Disarm** intent packs a dirt road. If you change your mind, stand beside a road you packed this way, hold the plough in your active hand and use it on the road on **Help** intent. After the usual tilling time (longer over grass) the road becomes one ordinary ploughed plot, ready to plant and water. You get no materials back, and the soil keeps its current nutrition, so this does not refresh worn-out ground. It only works over plain grass or bare soil that is free of snow, water, crops, other floors and structures. Roads that were already part of the map stay roads; a shovel still removes any dirt road and leaves the ground underneath.
+
 ### Watering
 
 Plants need water, some more, others less. Weather conditions and
@@ -167,11 +182,13 @@ Furnaces, factories, engines and spilled fuel pollute the ground nearby. On grim
 
 Many kinds of animals leave manure on the ground, which could be used to
 fertilize a field. This is one way to restore nutrition to your soil.
-You can use manure, fertilizer, or dung to nourish it.
+You can use manure, fertilizer, dung or crushed shell to nourish it.
+Manure left lying on the ground rots away after about four hours, so gather it soon. Manure you carry or keep in storage does not rot, and neither do compost, dry dung or crushed shell.
 By fertilizing the soil, you will automatically fertilize all the soil in 3x3, around the soil that you have fertilized.
 
 Manure: 10 points of nutrition,
 Dung: 20 nutrition points,
+Crushed shell: 15 nutrition points for each handful (made from [crab chitin](Guide_to_Ranching.md#chitin-from-crabs-and-beetles)),
 Fertilizer: 60 nutrition points.
 
 The **compost bin** (10 wood, "economy and production" section) also turns food scraps, plant matter (seeds, some plants) and something unpleasant else into fertilizer. Just place it in the bin and wait for a while. Fertilizer could also be used to refuel ovens etc.
@@ -186,6 +203,20 @@ consume more water than usual. Sandstorms will also destroy the plants.
 Any roof shelters crops from blizzards and sandstorms, but no rain falls
 under a roof, so roofed crops must be watered by hand or from fresh water
 within two tiles.
+
+### Frost
+
+On a clear, still night when the air drops to about freezing, frost can **nip a growing crop back** by one stage, at most once a night. A ripe crop is not harmed by a light frost. A **hard freeze**, at about -4 C or colder, kills a crop whatever its stage, in any weather. Winter-hardy crops such as turnips, trees and mushrooms are not hurt, and neither is anything under a roof or a greenhouse's glass. Wind and cloud keep a light frost away.
+
+To protect a crop, use one of these on it:
+
+| Use on the crop | Cover | Keeps off about |
+| --- | --- | --- |
+| 1 straw or hay | Straw mulch | 2 degrees of frost |
+| 2 cloth | Cloth row cover | 3 degrees |
+| 2 glass | Glass cloche | 5 degrees |
+
+A crop takes one cover at a time. Click it with an **empty hand** to take the cover off; you get the material back, and you also get it back when you harvest or uproot the crop. Examining a crop names its cover and tells you if frost has nipped it.
 
 ### Greenhouses
 
@@ -219,7 +250,7 @@ At 1.3 or higher skill, you will be able to tell when a plant is sufficiently we
 
 At 1.3, dead crops also advise uprooting before replanting. At 1.6, living crops give qualitative water and depleted-soil guidance; 2.2 reveals numerical water and nutrition. Mushrooms report their water exemption. Soil advice reflects the crop's last nutrition sample, so fertilizer appears in diagnostics after the next growth cycle.
 
-Harvest a ready crop, or uproot an unready or dead one, with a knife, hatchet, bayonet or scythe. This removes the plant; it is not a perennial harvest.
+Harvest a ready crop, or uproot an unready or dead one, with a knife, hatchet, bayonet or scythe. This removes the plant.
 
 Each harvest also trains farming, and a skilled farmer gathers more. Above 1.0 skill, every 0.01 adds 1% more seeds and crops: at 1.5 a crop gives about half again as much, and at 2.0 or higher it gives double (for example 4 seeds instead of 2). The bonus stacks with the extra crops from well-fed soil.
 
@@ -227,8 +258,10 @@ Each harvest also trains farming, and a skilled farmer gathers more. Above 1.0 s
 
 Different biomes have different plants that could be cultivated in them.
 Take notice, that some plants grow only in certain seasons. Biome
-restriction applies on Continental, Pangea, New World, Mediterranean, Europe
-and Gaia. Check the crop's listed biomes and seasons on these maps.
+restriction applies on Continental, Pangea, New World, Mediterranean, Europe,
+Asia, Gaia, North America and South America. Check the crop's listed biomes and seasons on these maps.
+
+Crops grow about a quarter faster on **Gaia**, the starting continent: they reach harvest sooner, and the harvest window stays as long as anywhere else.
 
 Wet (winter and spring) and dry (summer and fall) seasons apply to the
 Desert, Savanna and Jungles biomes.
@@ -255,7 +288,7 @@ Several crops are steeped into teas. Hold the herb and click an open container (
 - **Sunflower**: use a sunflower head in hand to shell it into three handfuls of seeds, a filling snack that keeps well.
 - **Rose**: a harvest gives rose hips and a handful of petals. Eat the hips, or steep them for **rosehip tea**, which slowly heals bruises. Dry the petals on a dehydrator and steep them for a cheering **rose tea**.
 
-Wild yarrow, comfrey, elderflower and milk thistle can be picked for remedies too; see the [Guide to Medical](Guide_to_Medical.md#stimulants-pain-relievers-and-cleansing-agents).
+Wild yarrow, comfrey, elderflower, milk thistle and wormwood can be picked for remedies too; see the [Guide to Medical](Guide_to_Medical.md#stimulants-pain-relievers-and-cleansing-agents).
 
 ### Mortar and pestle
 
@@ -268,13 +301,28 @@ Once your group knows **Herbalism**, you can craft a stone **mortar and pestle**
 
 Sunflower and linseed oil fuel lanterns, oil lamps and torches like the other plant oils.
 
+## Coffee
+
+Coffee grows wild in **jungle** and **savanna**, and you can forage its seeds there. Plant them in jungle, savanna or semi-arid soil. A harvest gives **green coffee**, a handful of coffee cherries. They are not a drink yet:
+
+1. **Roast** the green coffee in a lit campfire, stove or oven. It comes out as **roasted coffee beans**, which never spoil. You can chew them for a small pick-me-up, but roasting them a second time burns them.
+2. **Grind** the roasted beans in a mortar and pestle. Each handful gives 3 units of **coffee grounds**.
+3. **Brew** the grounds with water. Use a small pot on a lit campfire or stove; the coffee is ready when the pot finishes boiling. You can also use a wooden mug with a hot stone (the mug's hot-stone action). Each unit of grounds turns 4 units of water into 5 units of coffee, so one handful of beans makes 15 units. If there isn't enough water, the leftover grounds wait for more.
+
+Coffee keeps you awake and alert, warms you, gives you back a little energy and lifts your mood slightly. Drinking too much at once gives you the jitters. Mix it with milk for a café latte or with ice for iced coffee.
+
+## Bees
+
+Wild honey hunting, kept hives, frame hives, pollination, beeswax, sealing wax, mead and beekeeping clothes are covered in the [Guide to Beekeeping](Guide_to_Beekeeping.md). Bees near your fields help fruit, beans, cotton and flax give more crop at harvest.
+
 ## Preserves
 
 Once your group knows **Pottery & Cookware**, you can make a **clay crock** from 3 clay (kitchen category) and fire it in a kiln, and a **preserve jar** from 1 glass.
 
 - **Vinegar**: pour wine, cider, beer or mead into a crock and put the lid on (use it in hand). While closed it slowly sours into vinegar, a few units every couple of minutes.
 - **Pickling**: with the lid off, click fruit or vegetables onto the crock to pack up to 4 of them inside. Add 5 vinegar and 2 salt for each one, then close the lid. After about six minutes they come out pickled and never spoil. Alt-click the open crock to take food back out.
-- **Jam**: mix 10 berry, grape, apple, apricot or orange juice with 5 sugar or 5 honey to get 10 jam. A preserve jar holds 20 jam; click a slice of bread with it to spread 5 jam and make jellied toast.
+- **Potting under fat**: with the lid off, click cooked, unspoiled meat or fish onto the crock to pack it inside. Seal each piece with 5 butter or 5 lard. To add butter, click the open crock with a pat ([butter](Guide_to_Cooking.md#butter)). Then close the lid. After about six minutes the food comes out potted. Potted food ages six times more slowly while it stays in the closed crock. Opening the crock or taking the food out lets it spoil as usual. Potted food can go back into a crock.
+- **Jam**: mix 10 berry, grape, apple, apricot or orange juice with 5 sugar, 5 honey or 5 maple syrup ([syrups](Guide_to_Cooking.md#syrups)) to get 10 jam. A preserve jar holds 20 jam; click a slice of bread with it to spread 5 jam and make jellied toast.
 
 ## Farmer's almanac
 
@@ -283,7 +331,7 @@ Skilled farmers (high Farming skill, with Basic Agriculture researched) can craf
 ## Crop catalogue
 **The table is sortable - click the headers to sort the column's contents.**
 
-**X - grows; O - doesn't grow.**
+**✓ = grows; X = does not grow.**
 <table class="sortable">
 <thead>
 <tr>
@@ -304,560 +352,588 @@ Skilled farmers (high Farming skill, with Basic Agriculture researched) can craf
 <tbody>
 <tr>
 <td>Rice</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td>All</td>
 <td style="text-align:center">30</td>
 <td>Used as food and to make sake.</td>
 </tr>
 <tr>
 <td>Apricot</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td>All</td>
 <td style="text-align:center">40</td>
 <td>Used as food.</td>
 </tr>
 <tr>
 <td>Cherry</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td>All</td>
 <td style="text-align:center">40</td>
 <td>Used as food.</td>
 </tr>
 <tr>
 <td>Banana</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td>All</td>
 <td style="text-align:center">45</td>
 <td>Used as food.</td>
 </tr>
 <tr>
 <td>Barley</td>
-<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td>Spring, Summer, Fall, Wet</td>
 <td style="text-align:center">50</td>
 <td>Used as food and to make beer.</td>
 </tr>
 <tr>
 <td>Beans</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
 <td>All</td>
 <td style="text-align:center">50</td>
 <td>Used as food.</td>
 </tr>
 <tr>
 <td>Cotton</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td>Spring, Summer, Wet, Dry</td>
 <td style="text-align:center">50</td>
 <td>Used to make cloth.</td>
 </tr>
 <tr>
 <td>Oat</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td>Spring, Summer, Fall, Wet</td>
 <td style="text-align:center">50</td>
 <td>Used as food.</td>
 </tr>
 <tr>
 <td>Wheat</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td>Spring, Summer, Fall, Wet</td>
 <td style="text-align:center">50</td>
 <td>Used to feed cattle, make flour and beer.</td>
 </tr>
 <tr>
 <td>Tea</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td>All</td>
 <td style="text-align:center">50</td>
 <td>Drinkable, used to cure illnesses and treat toxin damage.</td>
 </tr>
 <tr>
 <td>Tomato</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td>Spring, Summer, Wet, Dry</td>
 <td style="text-align:center">55</td>
 <td>Used as food.</td>
 </tr>
 <tr>
 <td>Tobacco</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td>All</td>
 <td style="text-align:center">55</td>
-<td>Used to make cigars and cigarettes.</td>
+<td>Dry it, then chew it, smoke it in a pipe, or roll cigarettes in paper. See <b><a href="Guide_to_Drugs.md">Drugs and Stimulants</a></b>.</td>
 </tr>
 <tr>
 <td>Mushroom</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td>Spring, Summer, Fall, Winter, Wet</td>
 <td style="text-align:center">55</td>
 <td>Used as food. Also, the only crop that grows underground and in caves.</td>
 </tr>
 <tr>
 <td>Flax</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
 <td>All</td>
 <td style="text-align:center">60</td>
 <td>Used to make <b><a href="Guide_to_Crafting.md#retting-trough">retted fabric</a></b>.</td>
 </tr>
 <tr>
 <td>Hemp</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
 <td>Spring, Summer, Fall, Wet, Dry</td>
 <td style="text-align:center">60</td>
-<td>Used to make rope, <b><a href="Guide_to_Crafting.md#retting-trough">retted fabric</a></b> and joints.</td>
+<td>Used to make rope and <b><a href="Guide_to_Crafting.md#retting-trough">retted fabric</a></b>.</td>
+</tr>
+<tr>
+<td>Cannabis</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">X</td>
+<td>Spring, Summer, Fall, Wet, Dry</td>
+<td style="text-align:center">60</td>
+<td>Dried tops are smoked; fresh tops are rubbed into hashish. See <b><a href="Guide_to_Drugs.md">Drugs and Stimulants</a></b>.</td>
 </tr>
 <tr>
 <td>Sugarcane</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td>All</td>
 <td style="text-align:center">60</td>
 <td>Used to make sugar.</td>
 </tr>
 <tr>
 <td>Grapes</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td>Spring, Summer, Fall, Wet, Dry</td>
 <td style="text-align:center">65</td>
 <td>Used as food and to make wine.</td>
 </tr>
 <tr>
 <td>Corn</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td>Spring, Summer, Wet, Dry</td>
 <td style="text-align:center">70</td>
 <td>Used as food.</td>
 </tr>
 <tr>
 <td>Cabbage</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td>All</td>
 <td style="text-align:center">70</td>
 <td>Used as food.</td>
 </tr>
 <tr>
 <td>Olives</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td>All</td>
 <td style="text-align:center">70</td>
 <td>Used as food and to make olive oil.</td>
 </tr>
 <tr>
 <td>Carrot</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td>All</td>
 <td style="text-align:center">75</td>
 <td>Used as food.</td>
 </tr>
 <tr>
 <td>Potato</td>
-<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td>All</td>
 <td style="text-align:center">75</td>
 <td>Used as food and to make vodka.</td>
 </tr>
 <tr>
 <td>Poppy</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
 <td>All</td>
 <td style="text-align:center">75</td>
-<td>A painkiller.</td>
+<td>Lance ripe pods for opium, a strong painkiller. See <b><a href="Guide_to_Drugs.md">Drugs and Stimulants</a></b>.</td>
 </tr>
 <tr>
 <td>Lime</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
 <td>All</td>
 <td style="text-align:center">75</td>
 <td>Used as food.</td>
 </tr>
 <tr>
 <td>Lemon</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
 <td>All</td>
 <td style="text-align:center">75</td>
 <td>Used as food.</td>
 </tr>
 <tr>
 <td>Apple</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td>All</td>
 <td style="text-align:center">75</td>
 <td>Used as food.</td>
 </tr>
 <tr>
 <td>Orange</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
 <td>All</td>
 <td style="text-align:center">75</td>
 <td>Used as food.</td>
 </tr>
 <tr>
 <td>Coca</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td>All</td>
 <td style="text-align:center">75</td>
-<td>Used to make cocaine.</td>
+<td>Leaves are chewed or brewed into tea, and refined into cocaine. See <b><a href="Guide_to_Drugs.md">Drugs and Stimulants</a></b>.</td>
+</tr>
+<tr>
+<td>Khat</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">X</td>
+<td>All</td>
+<td style="text-align:center">50</td>
+<td>Fresh shoots are chewed as a stimulant and wilt within the hour. See <b><a href="Guide_to_Drugs.md">Drugs and Stimulants</a></b>.</td>
 </tr>
 <tr>
 <td>Bamboo</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
 <td>Spring, Summer, Fall, Winter, Wet</td>
 <td style="text-align:center">80</td>
 <td>A construction material.</td>
 </tr>
 <tr>
 <td>Coffee</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td>All</td>
 <td style="text-align:center">80</td>
-<td>A stimulant, temporarily increase movement speed.</td>
+<td>Roast, grind and brew into coffee. Grows wild in jungle and savanna.</td>
 </tr>
 <tr>
 <td>Tree</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td>Spring, Summer, Fall, Wet, Dry</td>
 <td style="text-align:center">80</td>
 <td>Cultivated to obtain wood.</td>
 </tr>
 <tr>
 <td>Melon</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
 <td>Spring, Summer, Wet</td>
 <td style="text-align:center">90</td>
 <td>Used as food.</td>
 </tr>
 <tr>
 <td>Pumpkin</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
 <td>All</td>
 <td style="text-align:center">90</td>
 <td>Used as food.</td>
 </tr>
 <tr>
 <td>Peyote</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
 <td>All</td>
 <td style="text-align:center">100</td>
 <td>A painkiller, slowly heals brain damage.</td>
 </tr>
 <tr>
 <td>Coconut</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
 <td>All</td>
 <td style="text-align:center">100</td>
 <td>Used as food.</td>
 </tr>
 <tr>
 <td>Chamomile</td>
-<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td>All</td>
 <td style="text-align:center">50</td>
 <td>Steeped (fresh, or dried for a stronger brew) into a calming chamomile tea.</td>
 </tr>
 <tr>
 <td>Dandelion</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td>All</td>
 <td style="text-align:center">50</td>
 <td>Edible greens; each harvest also gives a root that roasts into dandelion coffee.</td>
 </tr>
 <tr>
 <td>Mint</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
 <td>All</td>
 <td style="text-align:center">70</td>
 <td>Steeped (fresh or dried) into mint tea, which settles food poisoning.</td>
 </tr>
 <tr>
 <td>Sunflower</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">X</td>
 <td>All</td>
 <td style="text-align:center">40</td>
 <td>Shell the head in hand for seeds to eat.</td>
 </tr>
 <tr>
 <td>Rose</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">X</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
+<td style="text-align:center">✓</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
 <td style="text-align:center">X</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
-<td style="text-align:center">O</td>
 <td>All</td>
 <td style="text-align:center">50</td>
 <td>Rose hips (food, or steeped into a healing tea) and petals that dry into rose tea.</td>

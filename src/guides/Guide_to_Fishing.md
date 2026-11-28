@@ -6,27 +6,83 @@ Remember to check the **[Guide to Cooking](Guide_to_Cooking.md)** once you come 
 
 ## Fishing
 
+Fish live in the water itself. Any river, lake or sea can be fished; there is no special tile to look for.
+
 * Equip yourself with one of the fishing tools.
-* Head to a waterbody.
-* Locate a tile teeming with fish.
-* Click the tile with the fishing tool... again... and again.
+* Stand next to water: on the bank, in the shallows, on a bridge or pier, or on a boat.
+* Click the water with the tool and wait. A cast takes about 15 seconds with a pole or net and 12 with a modern rod. Bites are not guaranteed.
+* A pole, rod or spear lands one fish at a time. A **fishing net** can bring up as many as three in one throw, so it feeds more people, and it empties a stretch of water faster.
+* A sharpened stick, harpoon or flint spear only works in shallow water. A line reaches deep water too, as long as you have a deck, bridge or pier under you.
 
-Alternately, you can build a **fishing cage** in water for a more passive approach.
+Alternately, you can build a **fishing cage** in water for a more passive approach. Its fish come out of the same water you would fish with a line, so a cage in a fished-out stretch brings up only shellfish, crabs, lobster and the like until the fish come back.
 
-If you have fished out a tile completely and there is no more fish, come back later - clueless creatures should appear at the same spot.
+### Reading the water
+
+Well-stocked water shows it. Watch the surface for **rings** where fish rise, a **fish leaping** clear now and then, and **gulls** wheeling over a shoal on the coast. The more signs you see on a stretch, the more fish it holds; water that lies still has been fished out.
+
+For a closer reading, look at water within a couple of tiles and you can tell how well stocked it is:
+
+* **Alive with fish** - a full stretch, the best odds.
+* **Fish move below the surface** - still worth fishing.
+* **A few shapes move below** - fished hard; bites are getting rare.
+* **Nothing stirs** - fished out. Move along.
+
+Each stretch of water, about 16 by 16 tiles, shares one stock of fish. The more of it you take, the harder the rest are to catch, and fish come back on their own over time. A stretch left half full recovers fastest, about a fish every four minutes. A stretch fished to nothing recovers very slowly, and only while the water next to it still has fish. Fish a little from several stretches rather than emptying one.
+
+Different water holds different amounts. The coast is the richest water, then deep rivers and lakes, then shallow rivers and the open ocean. Swamps hold very little. Frozen water must be fished through a hole in the ice.
+
+### Season, weather and the river
+
+The water tells you when conditions are unusual; look at it before you cast.
+
+* **Autumn salmon run:** in autumn the salmon run up the rivers. Rivers and lakes fish much better, nearly everything you land is salmon, and the fish come back faster. It is the time to fill the smokehouse.
+* **Rain:** fish rise to feed in the rain, and bites come more often on any water.
+* **Storms:** the sea is too rough to fish well, and rivers are somewhat worse too.
+* **A river in flood:** high, brown water fishes badly. Wait for it to drop.
+* **A low river:** the fish gather in the deep pools, which fish a little better than usual.
+* **After a flood:** where a river has spilled over its banks, look in the ankle-deep water at the flood's edge. Now and then a fish is left flapping there, free for the taking.
+
+### Great shoals
+
+Now and then the sea comes alive: gulls gather in a crowd, fish leap everywhere, and the water reads as **a great shoal passing through**. Fish it while it lasts.
+
+* Under a shoal bites come much more often, and most of what you land is herring.
+* Much of the catch comes from the shoal, not from the water's own stock, so even a fished-out stretch gives fish while a shoal is over it.
+* A shoal moves on after a few minutes. Each one keeps to its own circuit of the sea and comes back to the same water at the same hours every day, so it pays to remember when and where you met one.
+* Shoals keep to salt water. A submarine's sonar reports a shoal overhead, or the bearing and distance of one nearby.
+
+### What bites where
+
+* **Rivers and lakes:** salmon, trout and ordinary fish. Their deep water also holds catfish.
+* **Jungle rivers:** catfish, salmon and ordinary fish.
+* **The coast:** herring, ordinary fish and some cod.
+* **The open ocean:** mostly cod. A baited line sometimes brings up a squid or a **tuna**; a line towed from a ship under way hooks tuna more often still.
+* **Swamps:** catfish and ordinary fish.
+
+### Bait
+
+Use raw meat or raw fish on your pole or rod to bait it. A net takes no bait. One piece lasts three casts, used up whether or not anything bites, and makes bites much more likely on any water.
+
+### Ice fishing
+
+<img src="../images/Ice_hole.png"> Frozen water cannot be fished from above, but the fish are still under the ice.
+
+* Use an axe, a pickaxe or a chisel on the ice to cut an **ice hole**. It takes a few seconds. On harm intent the same tools break the whole tile into open water instead (see [Breaking and melting ice](Guide_to_Survival.md#breaking-and-melting-ice)).
+* Use a fishing pole or rod on the hole to lower a line. Bait works as usual. Nets and spears do not fit.
+* Bites come a little less often than in open water. The fish under the ice are the same stock the water has in summer, so a stretch you emptied in autumn is still thin.
+* A hole freezes over again after about twenty minutes. Cut a new one, here or further along.
+* Use a pickaxe, hatchet or chisel on an open hole to cut a **block of ice** from its edge for an ice house, four to a hole (see [Cooking](Guide_to_Cooking.md)).
 
 ### Fishing from a boat
 
-You can also fish the open sea from a boat, without looking for a fish-filled tile.
+Stand on a boat on the water and cast into the open water beside it, not onto the hull. The open ocean is wide and bites come less often there than on the coast, so bait helps. See [Boats & Ships](Guide_to_Boats.md) for building a boat.
 
-* Stand on a boat on the water (a ship or small boat, moored or under way).
-* Click open, deep saltwater next to the boat with a fishing pole, rod or net.
-* A cast takes about 15 seconds (12 with a modern rod). Bites are not guaranteed; a rod bites more often than a pole.
-* You usually catch cod or ordinary raw fish.
+* **Trolling:** on a ship that is under way, use a pole or rod on the water and you tow the line astern instead of casting. Stay aboard, near the rail, until the wait is over. **Slow ahead** is the best speed, better than fishing at anchor; half ahead is ordinary; at full ahead the lure skips and little bites. Whatever you hook comes from the water the ship is passing over, so trolling spreads your fishing across many stretches. Spears and nets do not work under way.
+* **Trawling:** a **trawl net** is dragged behind a ship that is making way at slow or half ahead. Use it on the water astern and stay aboard until the haul comes in, about 20 seconds. One haul can bring up as many as six fish from the water the ship is passing over. It takes no bait, engine noise does not spoil it, and it does not work at anchor or at full ahead. It never catches tuna. Nothing empties a stretch of water faster, so keep moving and let the grounds behind you recover.
+* **Engines scare fish.** With an engine running aboard, moving or not, bites come much less often. Boats under sail or oars are quiet. Stop the engine before you fish.
+* **Sonar:** a submarine's sonar ping also reports the fish in the water above it, and points toward richer water when the stretch overhead is thin.
 
-**Bait:** use raw meat, offal or raw fish on your pole to bait it. One piece lasts three casts, used up whether or not anything bites, and makes bites much more likely. Baited lines sometimes bring up a squid.
-
-Each stretch of sea (about 8 by 8 tiles) only holds three fish. A fish comes back every ten minutes, so keep the boat moving. See [Boats & Ships](Guide_to_Boats.md) for building a boat.
+A **fish weir** set in a river catches a few fish on its own while you are away. It takes them from the river around it, so it stays empty where the water has been fished out. See [Trapping](Guide_to_Trapping.md#fish-weirs).
 
 ## Fish pens
 
@@ -51,12 +107,12 @@ Ways of parting fish and the like with their element.
 <tr>
 <td width="5%"><img src="../images/sharpened_stick.png"></td>
 <td><b>Sharpened stick</b></td>
-<td>The least effective way to catch fish. See <b><a href="Guide_to_Crafting.md#tools">here</a></b> to learn the art of making a sharpened stick.</td>
+<td>The least effective way to catch fish, and only in shallow water. See <b><a href="Guide_to_Crafting.md#tools">here</a></b> to learn the art of making a sharpened stick.</td>
 </tr>
 <tr>
 <td><img src="../images/Bone_harpoon.png"></td>
 <td><b>Harpoon or flint spear</b></td>
-<td>Stand by a fishing spot and use a harpoon (a bone harpoon is made from 4 bone) or a flint spear on it to spear a fish. Each strike takes about 10 seconds and lands a fish about a third of the time, which is better than a sharpened stick.</td>
+<td>Stand by shallow water and use a harpoon (a bone harpoon is made from 4 bone, a chitin harpoon from 3 chitin) or a flint spear on it to spear a fish. Each strike takes about 10 seconds and lands a fish about a third of the time in well-stocked water, which is better than a sharpened stick. Deep water cannot be speared.</td>
 </tr>
 <tr>
 <td><img src="../images/fishing_pole.png"></td>
@@ -66,7 +122,12 @@ Ways of parting fish and the like with their element.
 <tr>
 <td><img src="../images/fishing_net.png"></td>
 <td><b>Fishing net</b></td>
-<td>Made with 4 rope. About as good as the pole.</td>
+<td>Made with 4 rope. Each throw can land up to three fish, though any one of them is a little less likely than a bite on a pole. Takes no bait.</td>
+</tr>
+<tr>
+<td><img src="../images/Trawl_net.png"></td>
+<td><b>Trawl net</b></td>
+<td>Made with 12 rope (Rail &amp; Steam research). Dragged behind a ship under way at slow or half ahead; one haul can land up to six fish. Takes no bait. See <b><a href="#fishing-from-a-boat">fishing from a boat</a></b>.</td>
 </tr>
 <tr>
 <td><img src="../images/fishing_rod.png"></td>
@@ -95,12 +156,32 @@ All those aquatic edibles.
 <tr>
 <td><img src="../images/salmon.png"></td>
 <td><b>Salmon</b></td>
-<td>A kind of fish usually found in jungle waters.</td>
+<td>A kind of fish found in rivers and lakes.</td>
 </tr>
 <tr>
 <td><img src="../images/cod.png"></td>
 <td><b>Cod</b></td>
-<td>A large fish found in deep saltwater, usually in colder regions. Can be <b><a href="Guide_to_Cooking.md#basic">salted</a></b> to preserve.</td>
+<td>A large fish of the sea, most common in the open ocean. Can be <b><a href="Guide_to_Cooking.md#basic">salted</a></b> to preserve.</td>
+</tr>
+<tr>
+<td><img src="../images/trout.png"></td>
+<td><b>Trout</b></td>
+<td>A speckled fish of rivers and lakes.</td>
+</tr>
+<tr>
+<td><img src="../images/catfish.png"></td>
+<td><b>Catfish</b></td>
+<td>A big whiskered bottom feeder from deep fresh water, jungle rivers and swamps. More meat than most fish; a knife cuts it into four fillets.</td>
+</tr>
+<tr>
+<td><img src="../images/herring.png"></td>
+<td><b>Herring</b></td>
+<td>A small silver fish that shoals along the coast. Cuts into two fillets.</td>
+</tr>
+<tr>
+<td><img src="../images/tuna.png"></td>
+<td><b>Tuna</b></td>
+<td>The prize of the open ocean. It only takes a baited line or one towed from a moving ship. Far more meat than any other fish; a knife cuts it into six fillets.</td>
 </tr>
 <tr>
 <td><img src="../images/lobster.png"></td>

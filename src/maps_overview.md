@@ -1,14 +1,15 @@
 # Maps & Scenarios
 
-Start with the [Game Modes Overview](gamemodes/Game_Modes.md) for objectives and first-round guidance, then choose your map below for scenario details.
+Start with the [Game Modes](gamemodes/Game_Modes.md) for objectives and first-round guidance, then choose your map below for scenario details.
 
 Maps are grouped the way the in-game map vote groups them: pick the era or mode first, then the map. Nomads rounds run on the [Nomads Maps](maps/Nomads_Maps.md) family; the authored variants listed under *Not in Rotation* are outside the standard Nomads map-vote list, and the other maps there have no active entry in the current vote lists. They stay documented so the pages are ready when a map returns.
 
-<!-- nav:Maps Overview -->
+The lands of the persistent worlds, such as Gaia, the Americas and Europe, have their own section: [Travel & Regions](topics/Travel_and_Regions.md).
+
+<!-- nav:Maps & Scenarios -->
 ## Nomads & Persistent Worlds
 
 - [Nomads Maps](maps/Nomads_Maps.md)
-- [Gaia](maps/Gaia.md)
 - [Wasteland](maps/Wasteland.md)
 
 ## Colony & Pioneers
@@ -34,7 +35,7 @@ Maps are grouped the way the in-game map vote groups them: pick the era or mode 
 - [Heraclea](maps/Heraclea.md)
 - [The Ides of March](maps/Ides_of_March.md)
 - [Siege](maps/Siege.md)
-- [Gladiators](maps/Gladiators.md)
+- [Gladiators (arena map)](maps/Gladiators.md)
 - [Teutoburg](maps/Teutoburg.md)
 - [Sammir Hayeed](maps/Sammirhayeed.md)
 - [Two Tribes](maps/Two_Tribes.md)
@@ -81,7 +82,7 @@ Maps are grouped the way the in-game map vote groups them: pick the era or mode 
 
 ## PvE
 
-- [Antarctica](maps/Antarctica.md)
+- [Antarctica (PvE scenario)](maps/Antarctica.md)
 - [Submarine Commander](maps/Submarine_Commander.md)
 - [Lights Out](maps/Lights_Out.md)
 - [Cursed Island](maps/Cursed_Island.md)
@@ -97,7 +98,7 @@ Maps are grouped the way the in-game map vote groups them: pick the era or mode 
 - [Iwo Jima](maps/Iwo_Jima.md)
 - [Mountain](maps/Mountain.md)
 - [Nations RP (Persistence Beta)](maps/Persistence_Beta.md)
-- [Oceania](maps/Oceania.md)
+- [Oceania (old map)](maps/Oceania.md)
 - [Oil Rush (Extended)](maps/Oil_Rush.md)
 - [Pepelsibirsk](maps/Pepelsibirsk.md)
 - [Stranded](maps/Stranded.md)

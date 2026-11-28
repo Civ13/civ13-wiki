@@ -6,9 +6,51 @@ For taming dogs, riding horses and driving carriages, see [Animals, Dogs & Mount
 
 Use a **held sharp tool** on an adjacent dead animal. **Harm intent** performs quick butchering in **30 ticks** (normally three seconds); **Grab intent** skins and butchers in **100 ticks** (normally ten seconds). Moving, changing your active hand, becoming incapacitated, disconnecting or losing the corpse/tool cancels. Only one harvesting action can claim a corpse at a time. Successful harvesting removes the corpse.
 
-Both routes give the same meat and food byproducts. Grab selects species pelts; quick Harm butchering gives untanned raw hides for supported mammals. Animals do not provide finished leather. [Leather tanning](../Miscellaneous_Crafting.md#leather-tanning) turns raw hides or prepared pelts into leather. Normal meat yield follows size: minuscule **1**, tiny **2**, small **3**, medium **4**, large **5**, huge **8** separate portions. Existing pig-leg, chicken-carcass, poisonous-frog, crab, zombie and mouse outputs remain distinct.
+Both routes give the same meat and food byproducts. Grab skinning takes longer and keeps the whole hide, as a species pelt where the animal has one or as raw hide otherwise; quick Harm butchering hacks the skin apart and keeps only half of it as raw hide. Animals do not provide finished leather. [Leather tanning](../Miscellaneous_Crafting.md#leather-tanning) turns raw hides or prepared pelts into leather. Normal meat yield follows size: minuscule **1**, tiny **2**, small **3**, medium **4**, large **5**, huge **8** separate portions. Existing pig-leg, chicken-carcass, poisonous-frog, crab, zombie and mouse outputs remain distinct.
 
 Butchering trains the **hunting** skill, and a skilled hunter cuts more food from each carcass. Above 1.0 hunting, every 0.01 adds 1% more meat portions (or pig legs and chicken carcasses) and animal fat: at 1.5 you get about half again as much, and at 2.0 or higher double. Organs, bones, sinew, hides and pelts do not change with skill.
+
+### Chitin from crabs and beetles
+
+<img src="../images/Chitin.png"> Crabs, trilobites and phosphor beetles have a hard shell instead of bone. Butchering one leaves **chitin** beside the crab meat: a small crab or a beetle gives **1**, a full-grown crab or a trilobite **2**. A skilled hunter cuts more, the same as with meat.
+
+| Item | Chitin | Research |
+| --- | --- | --- |
+| Chitin mask | 4 | Weaving |
+| Chitin helmet | 7 | Primitive Armor |
+| Chitin armor | 14 | Primitive Armor |
+| Chitin buckler | 7 | Primitive Armor |
+| Chitin shield | 10 | Primitive Armor |
+| <img src="../images/Chitin_harpoon.png"> Chitin harpoon | 3 | Stone Arms |
+| <img src="../images/Chitin_beads.png"> Chitin beads | 1 | Regalia & Heraldry |
+| <img src="../images/Crushed_shell.png"> Crushed shell | 1 | Resource Processing |
+
+The chitin harpoon spears fish like a [bone harpoon](Guide_to_Fishing.md#equipment). **Crushed shell** stacks. Spread a handful on [farm soil](Guide_to_Farming.md#fertilizing) to feed it, or burn it in a [lime kiln](Guide_to_Pottery_and_Lime.md#lime-kiln) for quicklime.
+
+### Hide yields
+
+A hide comes off in pieces about 60 cm square, the same size as one leather sheet or one pelt in recipes. Bigger animals give more:
+
+| Animal | Hide pieces when skinned |
+| --- | --- |
+| Fox, cat, rabbit, monkey, dik-dik, beagle, turkey | 1 |
+| Sheep, goat, commanded dog | 2 |
+| Wolf, doe, reindeer doe, pig gilt or boar gilt, velociraptor | 3 |
+| Stag, reindeer stag, pig boar or wild boar, black bear sow, panther, jaguar | 4 |
+| Black bear boar, gorilla, alligator, dimetrodon | 5 |
+| Lion, brown bear sow, elk doe | 6 |
+| Sabertooth, polar bear sow | 7 |
+| Elk stag | 8 |
+| Brown bear boar, pachycephalosaurus, gigantopithecus | 9 |
+| Horse | 10 |
+| Cow, camel, bison cow, polar bear boar | 11 |
+| Bull, buffalo | 13 |
+| Bison bull | 16 |
+| Giant ground sloth | 20 |
+| Mammoth | 45 |
+| Tyrannosaurus | 50 |
+
+Quick butchering keeps half of these pieces (rounded down, at least 1). Bats give no hide.
 
 The mammal products below apply to supported cattle, pigs/boars, goats, sheep, deer, bison, camels, rabbits, monkeys, cats, wild bears, wolves, foxes, gorillas, panthers, sabertooths, horses, pet or commanded dogs, mammoths, giant ground sloths and bats. Animal type and interaction handling matter: not every dog or bear follows these rules, and the table does not guarantee that every juvenile can be harvested. Let **Y** be the size yield above.
 
@@ -18,12 +60,11 @@ The mammal products below apply to supported cattle, pigs/boars, goats, sheep, d
 | Stomach | Cow/pig/goat/sheep processing stomach; other mammals with Y at least 3 give one food stomach |
 | Sinew | One stack of Y minus 2, minimum 1 and maximum 4; only when Y is at least 3 |
 | Bone | One stack of Y minus 2, minimum 1 |
-| Quick-butchering raw hide | One stack of Y minus 2, minimum 1 and maximum 6 |
 | Fat | Up to two portions when the animal's fat rules allow it |
 
-Bone and sinew, with the same yields as the table, also come from larger birds (penguins, turkeys, geese and pelicans) and large reptiles (alligators, constrictor snakes and dinosaurs other than compsognathus). Chicken and rooster give one giblets portion instead, and small birds such as crows, gulls and pigeons give neither. Other nonmammals do not gain mammal offal or fat; existing reptile pelts remain available. Adult male and female turkeys each provide **1 raw hide piece** through either harvesting route; turkey chicks provide **no hide**. Pelts depend on species: lions give 3, gladiator lions give none, and non-white sabertooths give 6. White wolves and giant gorillas retain their special pelts.
+Bone and sinew, with the same yields as the table, also come from larger birds (penguins, turkeys, geese and pelicans) and large reptiles (alligators, constrictor snakes and dinosaurs other than compsognathus). Chicken and rooster give one giblets portion instead, and small birds such as crows, gulls and pigeons give neither. Other nonmammals do not gain mammal offal or fat; existing reptile pelts remain available. Adult male and female turkeys each provide **1 raw hide piece** through either harvesting route; turkey chicks provide **no hide**. Arena lions and white sabertooths give raw hide instead of a lion pelt. White wolves and giant gorillas keep their special pelts.
 
-Keep species pelts for their existing fur clothing and pelt recipes, or scrape one pelt piece to start [tanning](../Miscellaneous_Crafting.md#leather-tanning). Each processed piece yields **1 leather sheet**; tanning does not multiply a piece into several sheets.
+Keep species pelts for their existing fur clothing and pelt recipes, or scrape pelt pieces to start [tanning](../Miscellaneous_Crafting.md#leather-tanning). Each processed piece yields **1 leather sheet**; tanning does not multiply a piece into several sheets.
 
 **Offal is raw, decaying food**, not a surgical transplant organ. Each portion starts with 2 protein and accepts existing meat processing. Cow, pig, goat and sheep stomachs retain their sausage/rennet uses. See [Cooking](Guide_to_Cooking.md) for preparation and preservation.
 
@@ -108,9 +149,20 @@ domesticating animals.
 </tbody>
 </table>
 
+### Taming wild animals
+
+Cattle, goats, sheep and pigs born in the wild are **wild**. A wild animal will not let you leash, milk, shear, saddle, harness or plough with it until it trusts you. Examine an animal to see whether it is wild or tame.
+
+* Tame it by **feeding it by hand**, again and again: grain, seeds or anything it eats. It takes **6 feedings**, each at least **10 minutes** after the last. Feeding it more often does not speed it up.
+* Its trust fades by one feeding for every full day you leave it unfed.
+* Young born beside a wild mother of their kind are wild too, so tame your breeding stock first.
+* A leash can be made from the first age on, so you can lead your tamed herd home.
+
 ### Feeding
 
 Grazing animals (cows, bison, goats, sheep, horses and the like) get hungry, graze grass and eat loose grain. You can also feed them wheat, oats, barley or rice by hand. **Bison** need pasture or grain just like cows, and bison cows can be milked the same way.
+
+A patch of grass that has been grazed needs about 20 minutes to grow back before animals will graze it again, so a large herd soon moves on to fresh pasture. Snowy winter grass can still be grazed. Where there is no grass, grazers nibble at bushes, tall grass and desert cacti, and seed eaters such as rabbits, birds and pigs forage seeds from the grass or browse wild plants. Berry bushes are left for people.
 
 Hens and turkey hens lay a limited number of eggs. Feeding seeds to a hen that has stopped laying gives her more eggs.
 
@@ -118,7 +170,7 @@ How well an animal is fed sets how much it produces. A well-fed cow, goat, sheep
 
 ### Hay
 
-Hay is stored fodder for when there is no grass to graze, such as in winter or in a pen.
+Hay is stored fodder for when there is no grass to graze, such as in a pen or after a herd has grazed the pasture bare.
 
 - **Making hay:** cut grass with sharpened flint or any sharp knife to get grass cuttings. Tall grass also gives way to other sharp tools. With the cuttings in hand, click open ground next to you to spread up to **20** portions there to dry. After **3 minutes** of dry weather, they turn into the same amount of hay. Rain or snow under open sky stops the drying, but grass under a roof or indoors keeps drying. Adding more cuttings to the pile starts the drying over. Picking the pile up by hand gives back the cuttings.
 - **Feeding:** use hay on a hungry cow, goat, sheep, bison or other grazer to feed it one portion. Grazers also eat hay lying next to them.
@@ -134,6 +186,8 @@ Chickens just need at least 2 and one needs to lay an egg and be sitting
 on top of it for awhile. Try customizing your chicken coops making it so
 they are unable to move off their egg.**(Only the cows, chickens, Deers,
 Pigs, Sheep, Goats and turkey's can breed for now)**
+
+Bison cows keep together: when one of them is hurt, the cows around it bolt away from the hunters. Bulls stand their ground. Plan a bison hunt with the herd running in mind.
 
 Every breeding species has a population cap, so herds and wild packs stop growing once there are enough of them on the map. Wolves stop breeding at 20 and bears at 12; cows, deer and bison at 30; goats, sheep and turkeys at 35; chickens at 50.
 
@@ -225,7 +279,7 @@ While nobody is connected to a world, its animals wait: they don't move, get hun
 <td>
 <img src="../images/mouse.png">
 </td>
-<td>*Bites you* O-oh I spread you m-my plague, sowwy uwu.</td>
+<td>Lives in nests and burrows and runs from people. See [Mice & Pests](Guide_to_Mice.md).</td>
 </tr>
 <tr>
 <td>Penguin</td>

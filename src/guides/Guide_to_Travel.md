@@ -1,6 +1,6 @@
 # Travel Between Lands
 
-Some persistent servers are linked into a group of **lands**: separate worlds, each on its own server, that characters can travel between. This page covers how your character lives in one land at a time, how to travel and what you can take, how to mark out new trails, your party's own train and rail yard, and raids into raid worlds.
+Some persistent servers are linked into a group of **lands**: separate worlds, each on its own server, that characters can travel between. This page covers how your character lives in one land at a time, how to travel and what you can take, how to mark out new trails, how factions travel and found colonies, your party's own train and rail yard, and raids into raid worlds.
 
 On a server that is not linked to other lands, trails lead nowhere and none of this applies.
 
@@ -8,10 +8,47 @@ On a server that is not linked to other lands, trails lead nowhere and none of t
 
 Your character lives in one land at a time, its **home**.
 
-- **New characters start on the mainland.** To live anywhere else, travel there.
+- **New characters start on the mainland,** [Gaia](../maps/Gaia.md). To live anywhere else, travel there.
 - If you join a land that is not your character's home, the game tells you which land your character belongs to and links you to it.
 - **Travelling moves your home** with your character.
 - **When you die,** your home stays in the land where you died if you have an assigned bed there, and your next character starts beside that bed. Without a bed, your home goes back to the mainland. Sleep in a free bed to make it yours (see [Saving your character](../Starter_Guide.md#saving-your-character)).
+
+## The lands
+
+Every land of Earth, and Gaia in its Atlantic, has a page in [Regions of the World](../regions/Regions.md) covering its climate, peoples, resources and how to get there.
+
+| Land | What it is | How to get there |
+| --- | --- | --- |
+| [Gaia](../maps/Gaia.md) | The mainland. New characters start here. A land of several continents in the Atlantic, with a seabed for submarines and the fastest-growing crops. | You start here. Sail there (see [Sailing between the continents](Guide_to_Boats.md#sailing-between-the-continents)), fly there (see [Flying to another continent](Guide_to_Aircraft.md#flying-to-another-continent)), or take a trail. |
+| [North America](../maps/The_Americas.md) and [South America](../maps/The_Americas.md) | Two continents joined at the isthmus, each with hills, flooding rivers and every climate from ice to jungle. | By ship or plane, then on foot between the two (see [Walking between North and South America](../maps/The_Americas.md#walking-between-north-and-south-america)). |
+| [Europe](../regions/Europe.md), [Africa](../regions/Africa.md), [Asia](../regions/Asia.md) and [Oceania](../regions/Oceania.md) | Lands drawn after the real continents, each rich in its own ores. | On foot where the land carries on (see [Walking to a neighbouring land](#walking-to-a-neighbouring-land)), by ship, by plane or by trail (see [Marking out a new trail](#marking-out-a-new-trail)). |
+| [Greenland](../regions/Greenland.md) and [Antarctica](../regions/Antarctica.md) | Islands of ice at the ends of the Earth. | By ship or plane only. |
+| New lands across the sea | Lands found by a ship's crew, which they can settle, claim or abandon. | A sea voyage (see [Voyages to new lands](Guide_to_Boats.md#voyages-to-new-lands)). |
+| Rail yard | Each party's own train berth. | Your party's train (see [Party trains](#party-trains)). |
+| Orbit | Party space stations. | By rocket from a launch pad, from 1969 (see [Space Stations](Guide_to_Space_Stations.md)). |
+| The Moon and Mars | Two cold worlds to survey and settle in sealed habitats. | By rocket from a launch pad, from 1969 for the Moon and 2026 for Mars. No trail leads there (see [The Moon & Mars](Guide_to_the_Moon.md)). |
+| Raid worlds | Dangerous zones to loot and leave. Nobody lives there. | Through some trails (see [Raid worlds](#raid-worlds)). |
+
+Every land keeps its own research and its own era, so carry your books with you (see [What you can take](#what-you-can-take)).
+
+## Walking to a neighbouring land
+
+Where one land carries on into the next, you can simply walk across. There is no gate or trail post: walk to the very edge of the map on dry land (wading just beside it works too) and the game asks whether you want to travel on.
+
+| From | Walk off the | Into |
+| --- | --- | --- |
+| North America | south edge, at the isthmus | South America, north edge |
+| South America | north edge, at the isthmus | North America, south edge |
+| Europe | east edge | Asia, west edge (northern part) |
+| Asia | west edge, northern part | Europe, east edge |
+| Asia | west edge, southern part | Africa, east edge |
+| Africa | east edge, beyond the desert peninsula | Asia, west edge (southern part) |
+| Asia | south edge, among the southern islands | Oceania, north edge |
+| Oceania | north edge, among the northern islands | Asia, south edge |
+
+You come out three tiles inside the facing edge of the other land, about as far along it as you were, always on dry ground. Everything else works as for [walking between North and South America](../maps/The_Americas.md#walking-between-north-and-south-america): you take what you wear and carry, a mount, one led animal, a hand cart, a bicycle or a carriage, your wounds come with you, and the other land must be running or asleep.
+
+Seas are not walked: Gaia, Greenland and Antarctica, and the crossing between Asia and North America, are reached by ship or plane.
 
 ## Seeing the other lands
 
@@ -19,7 +56,7 @@ Open **OOC > Regions** (or press **Esc** and choose **Regions**) to see every la
 
 ## Talking to other lands
 
-**OOC chat is shared by every land in the group.** An OOC message you send shows in every other land too, marked with the name of the land it came from, such as **[Gaia]**. Lines from your own land have no mark. OOC from every land also reaches the community Discord, marked with its land; messages from Discord show in the OOC of every land. Everything said in character stays in its own land; radio reaches another land only through a working long-range relay station at both ends.
+**OOC chat is shared by every land in the group.** An OOC message you send shows in every other land too, marked with the name of the land it came from, such as **[North America]**. Lines from your own land have no mark. OOC from every land also reaches the community Discord, marked with its land; messages from Discord show in the OOC of every land. Everything said in character stays in its own land; radio reaches another land only through a working long-range relay station at both ends.
 
 ## Using a trail
 
@@ -31,21 +68,23 @@ Trails are the posts and gates that lead to other lands. Examine one to see wher
 
 You can set off only with a BYOND account (not as a guest), awake, at full health, and not restrained, buckled or pulling anything. A trail can also be closed for a moment while the world saves or while someone else is using it.
 
+### Waiting to leave
+
+Once you confirm a trip, you stay put until you leave. This applies to a trail, a walk over the edge of the land, a ship's crossing, a flight and a lander. Everyone travelling with you stays put too, such as your ship's crew or the others aboard. You can look around and chat, but you cannot move, use, drop or pick up anything. Whatever you were doing stops. Waking a quiet land can take a few minutes.
+
+Meanwhile nobody else can touch you or anything you carry. They also cannot touch what you ride or pull, or board, reach onto or move your ship or aircraft. If the trip falls through, you are told and can act again straight away.
+
 ### What you can take
 
-Only things that can be rebuilt exactly at the other end travel. Everything must be worn, held or in a pocket or belt slot; nothing may be packed inside anything else.
+You take everything you wear, hold or carry in pockets, belt and bags, just as it is: clothing with its colours, accessories and anything in its pockets, filled waterskins and bottles, baskets and bags with whatever is inside (even a bag inside a bag), loaded guns, tools, books with their chapters and notes, ore, bones, coins and food, eaten or not.
 
-| Travels | Notes |
-| --- | --- |
-| Clothing | Except storage pieces such as webbing. Backpacks and other containers stay behind. |
-| Coins | Copper, silver and gold. |
-| Material stacks | Wood, stone, clay, rope, cloth, leather, copper, tin, bronze, iron, steel, silver and gold. |
-| Medical stacks | Bruise packs, gauze, advanced trauma kits, advanced burn kits and splints. |
-| Packaged food and medicine | Snacks, canned drinks, plastic bottles, syringes and pills, but only untouched: not bitten, emptied or refilled. |
-| Common tools | Crowbar, wrench, screwdriver, wirecutters, welding tool and hammer. |
-| Guns and ammunition | Guns only when unloaded. Magazines travel when they hold nothing but live rounds of their own type. |
+A few things stay behind:
 
-You can take at most 40 items. If something cannot travel, the trail lists what to leave behind first.
+- Animals. A creature carried in a bag cannot come; let it out first. When you walk over the edge of a land, a mount, one led animal and a cart can come along (see [Walking to a neighbouring land](#walking-to-a-neighbouring-land)).
+- Things that are not items, such as a barrel or a crate you are not pulling.
+- An unusually heavy load. You can take at most 40 worn or held things, and if all of it together is too much to send, the trail says so.
+
+If something cannot travel, the trail lists what to leave behind first.
 
 ## Marking out a new trail
 
@@ -55,7 +94,20 @@ Anyone can build a **trail marker** from **10 wood** (construction section). Tra
 2. The staff are asked to approve it. They may approve it, change where it leads, or reject it.
 3. Once approved, the marker opens and works like any other trail, both for leaving and for arriving travellers.
 
-Only the player who marked out a trail can change an unanswered request. You can have at most three trails waiting at once, and must wait about ten minutes between requests. Trail markers never lead to the rail yard; only a party's own train goes there.
+Only the player who marked out a trail can change an unanswered request. You can have at most three trails waiting at once, and must wait about ten minutes between requests. Trail markers only join lands on the same world: they never lead to the rail yard, orbit, the Moon or Mars.
+
+## Factions and colonies
+
+Each faction lives in the land where it was founded. **You stay a member when you travel:** arriving back in your faction's own land, you rejoin it, and arriving in a land where your faction has a colony, you join the colony. Anywhere else you arrive without a faction, but you are still counted as one of its members.
+
+A faction's leader can found a **colony** in another land:
+
+1. Build a **colony charter** from **8 wood planks** (economy & production section) in the new land.
+2. Travel there as the faction's leader and do not join a faction in that land.
+3. If this is your faction's first colony on another continent, bring another active member of your faction. Both of you must be awake, signed into separate BYOND accounts and no more than one tile from the charter on the same floor. Stay there until the leader finishes confirming. This is not needed to rebuild an existing charter or claim an expedition island, and you can still travel, scout or trade alone.
+4. Use the charter post and confirm. Your faction now exists in that land under the same name, with you as its leader there. It starts with that land's research, so carry your books along.
+
+Members who arrive later join the colony at once, within the faction's member limit. Once the staff have marked the land as settled, members can also **start a new character at the colony**: when you join in your faction's own land, choose **With** the colony **in** its land, then join that land's server as the game tells you. Your character starts beside the charter post, already a member. A colony stands only while its charter post stands: if raiders destroy it, members stop joining the colony on arrival until a leader of the faction plants a new charter. A colony on a land across the sea that the faction has claimed is the exception: it stands while the claim does (see [Settle, claim or abandon](Guide_to_Boats.md#settle-claim-or-abandon)). If fewer than two members have lived at a colony for three days, it stops taking new characters' starts and stops adding to the faction's member limit, until two members live there again.
 
 ## Party trains
 

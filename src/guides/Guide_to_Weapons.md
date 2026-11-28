@@ -1,4 +1,7 @@
 # Guide to Weapons
+
+To make your own guns, from hand cannons to assault rifles, see the [Guide to Gunsmithing](Guide_to_Gunsmithing.md).
+
 ## 5000 B.C. Weapons
 
 <table>
@@ -105,7 +108,7 @@
 <td>
 <img src="../images/Stone_headed_club.png">
 </td>
-<td>A wooden handle with a heavy stone lashed to the end. Made from <b>3 stone</b>. It hits harder than a wood club and sometimes knocks people down, but it swings slowly.</td>
+<td>A wooden handle with a heavy stone lashed to the end. Made from <b>3 stone and a wood handle</b>. It hits harder than a wood club and sometimes knocks people down, but it swings slowly.</td>
 <td>5000 B.C. - 313 B.C.</td>
 <td>Yes</td>
 <td></td>
@@ -125,7 +128,17 @@
 <td>
 <img src="../images/Bone_harpoon.png">
 </td>
-<td>A barbed bone point on a shaft, made from <b>4 bone</b>. Throw it, or use it on a fishing spot to <a href="Guide_to_Fishing.md#equipment">spear fish</a>.</td>
+<td>A barbed bone point on a shaft, made from <b>4 bone</b>. Throw it, or use it on shallow water to <a href="Guide_to_Fishing.md#equipment">spear fish</a>.</td>
+<td>5000 B.C. - 313 B.C.</td>
+<td>Yes</td>
+<td></td>
+</tr>
+<tr>
+<td>Chitin harpoon</td>
+<td>
+<img src="../images/Chitin_harpoon.png">
+</td>
+<td>A barbed point cut from crab shell on a shaft, made from <b>3 chitin</b>. Throw it, or use it on shallow water to <a href="Guide_to_Fishing.md#equipment">spear fish</a>.</td>
 <td>5000 B.C. - 313 B.C.</td>
 <td>Yes</td>
 <td></td>
@@ -135,7 +148,7 @@
 <td>
 <img src="../images/Bola.png">
 </td>
-<td>Three stones on cords, made from <b>2 leather</b> or <b>2 rope</b>. Throw it at someone and it tangles their legs: they cannot run until they <b>Resist</b> free (about 6 seconds), and they may trip. Animals hit by it stumble and fall for a moment. You can pick the bola up again afterwards.</td>
+<td>Three stones on cords, made from <b>1 leather</b> or <b>2 rope</b>. Throw it at someone and it tangles their legs: they cannot run until they <b>Resist</b> free (about 6 seconds), and they may trip. Animals hit by it stumble and fall for a moment. You can pick the bola up again afterwards.</td>
 <td>5000 B.C. - 313 B.C.</td>
 <td>Yes</td>
 <td></td>
@@ -155,7 +168,7 @@
 <td>
 <img src="../images/Slingstaff.png">
 </td>
-<td>A sling lashed to a staff, made from <b>4 leather</b>. It needs both hands and fires more slowly than a hand sling, but its stones hit noticeably harder.</td>
+<td>A sling lashed to a staff, made from <b>1 leather</b>. It needs both hands and fires more slowly than a hand sling, but its stones hit noticeably harder.</td>
 <td>5000 B.C. - 313 B.C.</td>
 <td>Yes</td>
 <td>Rocks</td>
@@ -306,6 +319,14 @@ Craft an **atlatl dart shaft** from **1 wood** in the **Weapons** menu. Then use
 </td>
 <td>A longer version of the short sword, can be made from bronze, iron or steel.</td>
 <td>700 A.D. - 2020 A.D.</td>
+<td>Yes</td>
+<td></td>
+</tr>
+<tr>
+<td>Chakram</td>
+<td></td>
+<td>A sharpened iron ring made for throwing. Craft it from <b>3 iron</b> in the Weapons menu; where research applies, it requires Iron Smithing. It has a shorter reach than an iron throwing knife and can be picked up after a throw.</td>
+<td>Iron crafting; Iron Smithing on research worlds</td>
 <td>Yes</td>
 <td></td>
 </tr>
@@ -907,9 +928,11 @@ Craft a weapon light from **1 electronics** in the **Weapons** menu after **Cons
 
 ### Gun sling
 
-Craft a gun sling from **2 leather** in the **Weapons** menu after **Gunsmithing**. Hold the gun in one hand and use the sling in the other to fit it. Only guns you can wear on your shoulder or back take one. If you are knocked down, stunned or knocked out and drop a slung gun, it stays on your shoulder or back as long as that slot is free.
+Craft a gun sling from **1 leather** in the **Weapons** menu after **Gunsmithing**. Hold the gun in one hand and use the sling in the other to fit it. Only guns you can wear on your shoulder or back take one. If you are knocked down, stunned or knocked out and drop a slung gun, it stays on your shoulder or back as long as that slot is free.
 
 ### Modular gun parts
+
+For a step-by-step walkthrough of making and assembling guns in each era, see the [Guide to Gunsmithing](Guide_to_Gunsmithing.md).
 
 These gun families are built from four parts:
 
@@ -1034,6 +1057,25 @@ Shotgun, submachine gun, automatic rifle and machine gun parts need:
 
 With this many recipes, a fabricator first asks which group to choose from: **General**, or one family's parts such as **Glock parts**.
 
+### Emplaced machine guns
+
+The heavy machine guns that stand on their own wheels or tripods are forged at an **anvil**. Use steel on the anvil and choose **machine guns**. Each takes as many seconds to forge as it costs steel.
+
+| Research | Machine guns | Steel |
+| --- | --- | --- |
+| **Cartridge Firearms** | Maxim 1895, MG 08, Vickers | 50 each |
+| **Cartridge Firearms** | Hotchkiss M1914, Type 3 | 45 each |
+| **Self-Loading Firearms** | Mounted MG 34, Mounted M1919 Browning, Mounted Breda 30 | 40 each |
+| **Self-Loading Firearms** | Type 92 | 45 |
+| **Self-Loading Firearms** | DShK, M2 Browning | 70 each |
+| **Automatic Weapons** | Mounted PKM, Mounted MG 3, Mounted FN MAG | 40 each |
+| **Automatic Weapons** | NSVT | 70 |
+| **Automatic Weapons** | 30mm autocannon | 90 |
+
+**Ammunition.** Every emplaced gun also takes a plain **ammo belt** filled by hand, as long as the rounds are the gun's own. The rifle-caliber guns want the **machine-gun load** of their cartridge from [handloading](Guide_to_Crafting.md#iron-projectiles) where there is one: 7.62x54mmR for the Maxim and PKM, 7.92x57mm for the MG 08 and MG 34, .303 British for the Vickers, 8x50mmR Lebel for the Hotchkiss, 6.5x50mm Arisaka for the Type 3, and 7.62x51mm NATO for the MG 3 and FN MAG. The M1919 Browning takes ordinary .30-06 Springfield, the Breda 30 ordinary 6.5x52mm Carcano and the Type 92 ordinary 7.7x58mm Arisaka. The 12.7mm guns are too big to load by hand: set a fabricator to a **12.7x108mm ammo can** (DShK and NSVT; 3 copper, 1 steel and 2 saltpeter) or a **.50 BMG ammo can** (M2 Browning; 6 copper, 2 steel and 4 saltpeter). Both need **Self-Loading Firearms**. The 30mm autocannon takes **30mm AP-T** or **HE-T belts** from a fabricator (8 copper, 6 steel and 8 or 10 saltpeter; Automatic Weapons).
+
+**On vehicles.** Push an emplaced gun onto a frame of a vehicle and it rides along wherever the vehicle goes; man it from behind as on the ground. A **wrench** bolts a gun nobody is manning down or frees it to be moved; the autocannon comes off the anvil bolted down. A gun counts its whole mount toward the vehicle's weight: a general-purpose machine gun weighs less than a crewman, a 12.7mm gun about one and a half crewmen, and an autocannon three. To mount one in a [tank turret](Guide_to_Crafting.md#modular-tanks), stand it on the turret's tile before you assemble the tank, or choose **Fit new parts** afterwards. A turret takes one machine gun beside its cannon, and a turret with only a machine gun can fire too.
+
 ### Cleaning and repairs
 
 In the default catalog, craft a **firearm cleaning kit from 5 iron** in Tools or a **firearm maintenance bench from 18 iron** in Production. Tech-tree mode gates both through **Gunsmithing**; map catalogs, skills and other research modes still apply.
@@ -1044,20 +1086,34 @@ The bench repairs **25 condition** at a cost of **1 maximum condition**, taking 
 
 ## Reloading Mechanism
 
-### Arquebus ( Late Medieval )
+### Matchlocks, arquebuses and handcannons ( Late Medieval )
+
+This covers the matchlock musket, Jezail, tanegashima, arquebus, handcannon and fire lance.
 
 1. Add **Gunpowder**
 
-   Either from barrel full of **Gunpowder** or **Gunpowder pouch.**
-   
-2. Add **Projectiles** 
+   Click the gun with a container holding gunpowder, such as a barrel or a **gunpowder pouch**.
 
-   Musket balls; **Can be made from any materials.**
-   
-3. Cock the flintlock/musket and **Fire**
+2. Add a **Projectile**
+
+   Click the gun with a **musket ball** or a **stone ball**. You can also skip step 1 and load a **musket cartridge**, which holds both the powder and the ball.
+
+3. **Fire**
+
+   The matchlock musket and tanegashima fire normally once loaded. The Jezail, arquebus, handcannon and fire lance fire when you touch them with a lit torch.
+
+### Flintlocks ( Early Modern )
+
+1. Make **cartridges**
+
+   Flintlocks load paper cartridges, not loose balls: see [Iron projectiles](Guide_to_Crafting.md#iron-projectiles). Muskets take musket cartridges and pistols take pistol cartridges.
+
+2. **Load** the cartridge while the gun is uncocked.
+
+3. Cock the flintlock and **Fire**
 
    **Press Z to cock the musket.**
-   
+
 > Tip: Keep powder in a gunpowder pouch and musket balls within reach. These weapons fire one shot before reloading; have a plan for the reload.
 
 A flintlock's flint wears down after a few dozen shots and then misfires about half the time. Use a sharpened flint on the gun to fit a new one; see [Gunflint in flintlocks](Guide_to_Flint.md#gunflint-in-flintlocks).
@@ -1072,7 +1128,7 @@ At **ages 3 and 4**, with **Gunsmithing** unlocked, you can assemble a flintlock
 | Musket stock | Plank Tools menu | 3 softwood, 240 ticks |
 | Pistol barrel | Iron on an anvil, choose flintlock parts | 20 iron |
 | Musket barrel | Iron on an anvil, choose flintlock parts | 30 iron |
-| Flintlock mechanism | Steel on a steel anvil | 2 steel |
+| Flintlock mechanism | Steel on a steel-faced or steel anvil | 2 steel |
 
 Existing blacksmith skill and job restrictions apply. Gather flint from rocks with **Grab intent**, then strike a rock with it until sharpened.
 
@@ -1128,16 +1184,16 @@ Insert a compatible magazine and chamber a round as required by the gun. Check t
 - Rounds marked **(AP)**, armor piercing, deal less damage but beat about one more armor tier and pass through one more layer of cover. Use them against armored targets.
 - Rounds marked **(HP)**, hollow point, deal more damage to unprotected targets but are easily stopped by armor and do not pass through bodies or cover.
 - Examine a round to see its tradeoff, and a magazine to count the AP and HP rounds in it.
-- A round your armor stops does not wound, stun or leave shrapnel in you, but the impact can still knock you down, so armor is not a reason to stand in the open.
+- A round your armor stops does not wound you, but the impact can still knock you down.
 - Shrapnel from a hit lodges in the body part that was hit.
 
-For reagent handling and gunpowder production, consult the [chemistry guide](Guide_to_Chemistry.md). A barrel is a container, not a substitute for checking the recipe.
+For reagent handling and gunpowder production, consult the [chemistry guide](Guide_to_Chemistry.md).
 
 ## Weapon types and how to use them.
 
 ### Pistols
 
-Pistols are compact weapons for close-range defence. Their limited ammunition and range make them a poor substitute for a rifle in an open-field engagement. Carry spare ammunition and avoid relying on a guaranteed hit.
+Pistols are compact weapons for close-range defence. They are no match for a rifle in the open. Carry spare ammunition.
 
 ### Submachine Gun
 
@@ -1145,11 +1201,11 @@ Submachine guns suit short-range fighting in rooms and alleys. Automatic fire in
 
 ### Semi-Auto/Automatic Rifles
 
-Rifles offer flexibility across different engagement distances. Use semi-automatic fire for controlled shots and automatic fire for close engagements or suppression. Firing more bullets does not make every bullet more accurate.
+Rifles offer flexibility across different engagement distances. Use semi-automatic fire for controlled shots and automatic fire for close engagements or suppression.
 
 ### Bolt-Action Rifles:
 
-Bolt-action rifles reward careful positioning and deliberate shots. Keep distance where possible and account for the time between shots. Cover still matters, and an empty rifle is a strong argument for bringing spare ammunition.
+Bolt-action rifles reward careful positioning and deliberate shots. Keep distance where possible and account for the time between shots. Bring spare ammunition.
 
 ### Machine Guns
 
@@ -1159,10 +1215,9 @@ Long bursts heat the barrel. You are warned when it gets hot, and once it is red
 
 **Cover and positioning:**
 
-- Entrenchment and sandbags reduce the chance of being hit; they do not make you invulnerable.
-- Resting is not a guarantee of protection from gunfire.
+- Entrenchment and sandbags make you harder to hit.
 - An enemy you can see may also be able to see you. Avoid staying exposed while repeatedly exchanging shots.
-- Bullets can penetrate some obstacles. Do not assume a wall always stops incoming fire.
+- Bullets can go through some walls.
 
 ## Grenades and What to do with them:
 
@@ -1252,7 +1307,8 @@ Mustard
 <td style="text-align: center">
 
 A man-made agent which causes chemical burning of the skin, eyes, and
-throat, very nasty stuff.
+throat, very nasty stuff. It also burns bare arms, legs and hands, as
+does white phosphorus, so cover up.
 
 </td>
 </tr>

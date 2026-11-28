@@ -6,12 +6,43 @@ Crafting options depend on the map, epoch, skills and research mode.
 
 You can wash with a bucket of clean water (pots and barrels also work), a shower or a bath. [Soap](../Miscellaneous_Crafting.md#lard-soap) improves washing.
 
+## Getting dirty
+
+You get dirty slowly just by living, faster in hot weather, and mostly from work. Farming and mining dirty you a little, butchering more, and using the toilet more still. A miner or butcher will want a wash at the end of the day.
+
+## Dirty hands
+
+Butchering, using the toilet and picking up dung leave your hands dirty. Gloves keep them clean. Examine yourself to check.
+
+The first bite of each meal with dirty hands can give you food poisoning, and hands that touched waste can give you cholera or worms. Wash your hands first: use a sink or tap, click any fresh water with an empty hand on **Help intent**, or target a hand and click yourself with a bucket of clean water. Any wash at a bath or shower cleans your hands too.
+
+## Washing one part of the body
+
+The body part you target says what you mean to do. On **Help intent**, target any part and:
+
+- click yourself, or someone next to you, with a bucket, pot, mug, cup or glass of clean water. Each wash uses a little water; or
+- click a sink, tap, fountain, wash basin or fresh water to wash that part of yourself.
+
+Washing a hand cleans it. Washing any other part cleans the blood off the clothes over it, or makes you a little cleaner where the skin is bare. Rinsing a wound with clean water washes out some of its germs, which lowers the chance it becomes infected. Hold soap in your other hand to disinfect the wound fully and get cleaner. Once a wound is already infected, washing will not cure it; you need medicine.
+
+To drink from a cup, canteen or bucket, or to give someone else a drink, target the **mouth**. If you click yourself with water on another intent, the message reminds you to switch to **Help intent** to wash instead.
+
+## Seeing where you are dirty
+
+Examine yourself (click the health icon on the right of your screen) to see which parts need washing. Hands show **dirty** or **bloody**. When you are less than clean, every part you have not washed since shows **dirty**, or **filthy** when you are very dirty. Parts under clothes show as **covered**: washing there only cleans the clothes, so take them off first. A washed part stays clean for a while as you go on working. Each wash also tells you how clean you now feel.
+
+## Bathing in rivers and lakes
+
+Undress, stand in fresh water and use **Bathe** (IC tab). After fifteen seconds you are clean: running river water gets you properly clean, still water a little less. Soap makes it a full wash. Bathing in foul water, like a swamp or a river with scum on it, can make you ill.
+
+Getting properly clean gives you a small mood lift for being freshly bathed.
+
 ## Bucket and the like
 
 1. Fill a bucket with at least 30 units of clean water. Use well water, or boil water collected from a puddle or river in a pot.
 2. Remove your clothing before washing. Find a private spot first.
 3. Target your chest on Harm intent and click yourself with the bucket.
-4. Repeat as needed. Several washes, usually three, help remove the visible cloud of dirt and improve hygiene.
+4. A bucket wash gets you only part of the way clean. For a full wash, bathe in a river, use a bath or shower, or use soap.
 
 ## Shower
 
@@ -26,10 +57,13 @@ Remove your clothing, turn the shower on and stand underneath it. Stay for sever
 Bath materials depend on the epoch. Search for "bath" in the [Full Crafting List](../Full_Crafting_List.md). Public baths are larger versions of regular baths.
 
 1. Remove your clothing.
-2. Click the bath to fill it with water.
-3. Step inside and stay for a few seconds. Buckling is optional.
+2. Click the empty bath to fill it with water.
+3. Click the full bath, or drag yourself onto it, to climb in. After ten seconds of soaking you are clean.
+4. Click the bath again, or walk in any direction, to climb out.
 
-Baths made from more advanced materials clean more effectively. In increasing order: wood, stone, copper, bronze and steel.
+A bath holds one person lying down; a public bath fits four. Drag someone else onto a bath to put them in and wash them. Alt-click a bath (or right-click it and choose **Pull the Plug**) to empty it.
+
+Every bath and shower gets you equally clean. On the persistent world a bath or shower needs water: pour it in with a bucket, or build it beside running water (a river with a current, an aqueduct channel, a fountain, a tap or a sink) and it fills itself. Each filling takes a tubful, 100 units, or 80 for bronze and steel baths, so better baths use less water.
 
 ## Soap
 
@@ -43,6 +77,8 @@ To make soap, mix 20 units of corn oil with 2 units of lye in a container. Using
 
 Use a pit latrine, wooden outhouse or glass toilet. Keep the area private and clean up afterwards. Open the toilet lid before using it.
 
+**Holding it in:** if you are about to wet or soil yourself and no toilet is near, switch to grab intent, aim at your groin and click yourself with both hands empty. You can hold it for a little while, but you move slowly, your mood drops and your hands are busy. Click again to let go. If you hold on until you can't any longer, the urge only gets worse, so head for a toilet.
+
 **Digging a latrine:**
 
 <img src="../images/pit_latrine.png"><br>
@@ -52,6 +88,15 @@ Use a pit latrine, wooden outhouse or glass toilet. Keep the area private and cl
 3. Use an enclosed, private space.
 
 Fill a pit latrine with four dirt piles to remove it.
+
+**Emptying a latrine:**
+
+A pit latrine or outhouse fills up as it is used. Examine it to see how full it is. A full pit overflows onto the ground, so dig it out before that happens.
+
+- **Night soil:** click the pit with a shovel to dig out one shovelful at a time. Open an outhouse first. Spread night soil on a field like manure, put it in a compost bin, or put it in a barrel with urine to make saltpetre.
+- **Urine:** click the pit with an open bucket, pot or other open container to draw off the urine standing in it.
+
+Night soil is still human waste. Handling it dirties your hands unless you wear gloves, so wash before you eat. Do not leave it lying near water.
 
 **Building an outhouse:**
 
@@ -65,11 +110,33 @@ Hold at least 35 wood, press **Z**, then choose an outhouse in the **Hygiene** c
 
 Hold glass, press **Z** and choose **Toilet**.
 
-A glass (porcelain) toilet is plumbed: waste in it or on it does not contaminate nearby wells or puddles. Pit latrines and outhouses still do, so keep them away from water.
+A glass (porcelain) toilet is plumbed: waste in it or on it does not contaminate nearby wells or puddles. A pit latrine or outhouse with waste in it fouls wells and puddles within two tiles until it is dug out, so keep them away from water.
 
 ## Shaving
 
-Cast a razor using a [knife mold](Guide_to_Metallurgy.md#molds), then click yourself with it on **Help intent**. Yesterday's dinner is better kept on a plate than in your beard.
+Cast a razor using a [knife mold](Guide_to_Metallurgy.md#molds). Hold it, aim at the **head**, and click yourself on any intent except **Harm**. The **Haircut** window opens:
+
+- The figure on the left is you without headwear. Use the arrows to turn it to the front, side and back, and switch between **Now** and **After the cut** to compare.
+- Click a picture on the right to try a hairstyle or facial hair. Your current style is marked **Now**. The length buttons and the **Find a style** box narrow a long list.
+- The left panel lists what will change. Press **Start cutting** and stand still for about eight seconds, or press **Cancel** to keep your current look. Nothing changes until the cut finishes.
+
+![The Haircut window with a new hairstyle and beard picked](../images/Haircut_window.png)
+
+Click someone standing next to you the same way to cut their hair; you see the same window for them, and you must stay beside them until the cut finishes. The window closes if you put the razor away. Yesterday's dinner is better kept on a plate than in your beard.
+
+### Designing a style
+
+Open the **Design Style** tab in the Haircut window to mix hairstyles. Pick a source style for the **crown and bangs**, the **sides**, and the **back and nape**, then turn the preview to check every side. **Apply style** changes how the hair is arranged without changing its length, colour or the beard. **Restore base cut** goes back to the plain cut, and a new haircut also replaces the design. Only styles your hair could normally be cut into are offered, and headwear is not shown in the preview.
+
+A stylist can keep up to eight named patterns in the **Style book** and try any of them on a neighbour; saving a pattern does not change anyone's hair.
+
+### Dyeing hair and beards
+
+Hold a sheet of cloth or wool cloth on **Help** intent, aim at your **head** for your hair or at your **mouth** for your beard, and click yourself. Pick a colour and keep holding the sheet until you finish. Each finished dye uses one sheet; cancelling or choosing the colour you already have costs nothing. You can only dye your own hair.
+
+The colours are the tailoring dyes you know: Weaving gives the first ones, Classical Dress and Fine Garments add more, and Textile Mills lets you mix any colour. Hair and beard can be different colours, and dye never changes the cut or length.
+
+Hair and beards grow back slowly while you play: a shaved face grows a short beard after about three hours, then grows to medium, long and very long about every three hours after that. Head hair grows one length about every four hours. The razor only offers styles your hair is long enough for, so a shaved face has to grow out before you can trim it into a beard.
 
 ## Washing clothes
 

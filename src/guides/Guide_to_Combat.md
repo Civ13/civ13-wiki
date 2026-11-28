@@ -17,7 +17,7 @@ Your **intent** decides what your empty hand, or the item in it, does when you c
 | --- | --- | --- |
 | 1 | **Help** | Shake them awake, or perform CPR when they are in critical condition or recently dead. A gun you are holding up will not fire reflexively on Help. |
 | 2 | **Disarm** | Aim at the chest to shove them up to one tile away (10 stamina, then a 2 second recovery; the same person can't be shoved again for 3 seconds). Aim anywhere else to try to knock the item out of their hand. A loaded gun can go off in the struggle. |
-| 3 | **Grab** | Grab them. Use the grab in your hand again to tighten it. Grab intent on your *own* bleeding limb applies pressure to slow the bleeding. |
+| 3 | **Grab** | Grab them by the body part you are aiming at. Use the grab in your hand again to tighten it. Aim at an empty hand to hold their hand instead (see [Grabbing](#grabbing)). Grab intent on your *own* bleeding limb applies pressure to slow the bleeding. |
 | 4 | **Harm** | Punch, or attack with the held weapon. |
 
 Keep **Help** intent around teammates and switch to **Harm** only when you mean it.
@@ -38,18 +38,75 @@ Head shots are deadlier but easier to miss. The chest is the most reliable targe
 
 A punch, blade, bullet or thrown object that lands on someone's **hand** can knock what that hand is holding to the ground. A harder hit makes it more likely. If they are gripping it tightly (see below), the blow breaks their grip instead, and the next one can knock it away.
 
+## Combat stances
+
+A combat stance lets your melee attacks choose the body part for you. The stance button sits beside the dodge and parry button on your HUD (next to the body figure on the Console HUD). Click it to step through the stances, or use **IC > Combat Stance** to pick one from a list. Every character starts in **Manual**.
+
+| Stance | Where your attacks go |
+| --- | --- |
+| **Manual** | Wherever you aim on the targeting doll, as usual. |
+| **Measured** | The best gap in their armour for the weapon you hold. |
+| **Aggressive** | The head. |
+| **Disarming** | The hand holding their weapon, then that arm. |
+| **Low line** | The legs and feet. |
+| **Guarded** | Mostly the chest, and back at the arm or leg that just hit you. |
+| **Restrain** | Their weapon arm. With grab intent, it walks you through an arrest (see [Arresting someone](#arresting-someone)). |
+
+The stance only chooses where you strike. It adds no accuracy and no damage, so a head swing still misses as often as an aimed one. Your swings, punches, kicks, grabs and shoves all follow it, and Help intent never does. The pick reads what you hold, what your opponent wears and where they last hit you; the more dexterous and skilled you are, the more often it picks the best spot. While a stance is on, the targeting doll flashes amber on each part it picks. Clicking the doll or a numpad target puts you back in Manual, and so does the random-target button. Examining someone shows the stance they are in.
+
+### Automatic reactions
+
+A well-trained fighter's stance can also react on its own. This needs weapon skill well above average for the weapon in your hand, or, bare-handed, dexterity well above average or a Student rank in a martial school.
+
+- **Measured** strikes the arm swinging at you, and that swing is spoiled.
+- **Guarded** strikes back after you parry a blow, and after you are hit.
+- **Aggressive** strikes back after you are hit.
+- **Disarming** and **Low line** strike the arm reaching to grab you, and the grab fails.
+
+A martial school's training reacts the same way when your hands are empty, you aren't on Help intent and you haven't clicked for two seconds. A Wing Chun student turns a punch to the chest aside, a boxer slips a punch to the head, a grappler sprawls out of a grab, and a hard-hand fighter blocks a punch and counters. Higher ranks react more often.
+
+A reaction only happens while you are standing, awake and free of any grab, and only against someone in front of you. It never answers someone else's reaction. Each one costs stamina and needs a few seconds before it can happen again.
+
+## Grabbing
+
+On Grab intent, an empty hand grabs whichever part of the person you are aiming at, such as their arm, leg or head. Use the grab in your hand to tighten it, and drop it to let go. The person you grab can break free with **Resist**; the tighter the grab, the harder that is. You can't grab a limb they no longer have.
+
+**Holding hands:** aim at one of their hands while it is empty and grab it. If they are awake and standing, you hold hands, and each of you has the other's hand in yours. When you walk, they come along with you. Either of you can drop the hand to let go, or use it in hand to squeeze. If their hand is full, you grab them by the wrist instead.
+
+Using your grab on a held hand tightens it into a firm grip. They can still use their other hand, but they can't walk away or simply let go: dropping the hand counts as a Resist, and only a successful Resist frees it. A hand can't be gripped any tighter than that. If they pass out, their hand slips free.
+
+**Strength and dexterity** matter in a scuffle. A stronger person tightens a grab faster, breaks free of one more easily and shoves harder, while a more dexterous one blocks and dodges punches more often and is better at knocking things out of someone's hand. Between two evenly matched people the odds are the same as ever, and even a big difference only tilts them.
+
+### Arresting someone
+
+In the **Restrain** stance, with grab intent, each click on the person you are holding takes the next step of an arrest:
+
+1. Grab them. The stance goes for their weapon arm.
+2. Click them to take a firm hold.
+3. Click again to twist their arm into a jointlock.
+4. Click again to force them to the ground.
+5. Click again to tie their hands. You need handcuffs, rope or other restraints in your free hand, on your belt or in a pocket.
+6. If you carry legcuffs, click once more to bind their legs.
+7. If you carry a muzzle or a length of tape, click again to gag them.
+8. If you carry a blindfold, click again to blindfold them.
+
+Each of the last three steps uses something from your free hand, belt or pockets and takes a couple of seconds; skip any you have nothing for. Then lead them by the grab, or click yourself to carry them over your shoulders. The Restrain stance never tightens a grab past a firm hold, so it can't choke anyone. If they break free, start again from the grab. Following an arrest through takes dexterity well above average or a Student rank in Grappling; without that, the grab works as usual.
+
 ## Movement modes
 
-Click the movement icon on your HUD, or press **.**, to cycle through the modes. **M** toggles between walking and running, and **,** drops you prone or stands you back up.
+Click the movement icon on your HUD, or press **.**, to cycle through the modes. **M** toggles between walking and running, **Shift+M** starts or stops a sprint, and **,** drops you prone or stands you back up.
 
 | Mode | What it does |
 | --- | --- |
 | **Walk** | Normal pace and normal footstep noise. |
 | **Run** | Faster, but drains stamina, food and water more quickly. |
+| **Sprint** | The fastest pace, about a third faster than running, but it burns stamina four times as fast. You slow to a run when you are out of breath and can't sprint again until you have caught some of it back. The movement icon glows orange while you sprint. |
 | **Sneak** | Slower, and your footsteps make no sound. |
 | **Prone** | You crawl on the ground. You are silent and much harder to hit from more than three tiles away. |
 
-When you take a defensive position, go prone. When you need to cross open ground quickly, run, and stop running before your stamina runs out.
+When you take a defensive position, go prone. When you need to cross open ground quickly, run, and stop running before your stamina runs out. Save sprinting for short dashes.
+
+**Sprinting into things.** Sprint into someone standing and you may knock them over, but you can go down too, or bounce off if they hold their ground. A stronger sprinter hits harder, and a nimble one keeps their feet more often. Sprint into a locked door, a closed gate or a barricade and you ram it with your shoulder, damaging it a little each time; a door you can open just opens. Sprint into a loose crate or locker and you shove it along. Sprint straight into a wall or tree and you stop hard and may fall. Any collision ends your sprint and costs some stamina.
 
 ## Firing a gun
 
@@ -102,13 +159,41 @@ Melee is decided by your combat settings on the HUD, explained in full in [Chara
 
 If you are sparring with a friend, turn on **Pulling punches** in the IC tab so unarmed hits do no harm.
 
+### Protecting your hands
+
+A bare-knuckle punch can hurt your own hand. Most punches land safely, but now and then you bruise your knuckles, and a hard punch to someone's head or to armor can break your hand. Punching an animal carries the same risk.
+
+Anything worn on your hands cushions the blow, and better gloves protect more:
+
+| On your hands | Protection |
+| --- | --- |
+| Nothing, a ring or a watch | None |
+| Latex gloves | Very little |
+| Ordinary cloth gloves | Some |
+| Cloth hand wraps, leather or fur gloves | Good |
+| Leather hand wraps, armored gauntlets | Very good |
+| Boxing gloves | Complete |
+
+To make hand wraps, hold cloth, wool cloth or leather, switch to **grab** intent, aim at one of your hands and click yourself. One sheet wraps both hands in a couple of seconds. Your hands have to be bare first. The wraps stay on until you take them off or drop them, and then they turn back into the same sheet of cloth or leather.
+
+Pulled punches never hurt your hand.
+
+You can also toughen your knuckles over time on a makiwara post, a gravel pail or bare rock. See [Hardening your hands](Guide_to_Exercise.md#hardening-your-hands).
+
+### Charges, braced spears and shield walls
+
+- **Mounted charge:** ride a horse straight in one direction for four steps with a spear, pike or halberd in your active hand, and you strike the first person standing in your path. The blow hits hard, knocks them down and drives them back a tile. A shield facing you can turn it aside. Turning or slowing down loses the charge.
+- **Brace:** with a spear, pike or halberd in hand, use **Brace** in the IC tab and face the oncoming riders. For ten seconds, or until you move, a horse charging into you runs onto your point: the horse is hurt and its rider is thrown to the ground. A deployed sarissa or pike counts as braced the whole time.
+- **Shield wall:** a shield blocks more often for every comrade standing right beside you, to your left or right, who also holds a shield and faces the same way, up to two. This works against blows, arrows and crossbow bolts alike, so keep the line straight and shoulder to shoulder.
+
 ## Cover
 
 - **Trenches** are the best protection on many maps. Someone standing in a trench can only be hit in the head by a shooter at a distance, and someone prone in a trench cannot be hit by distant fire at all. See [Trenches & Fortifications](Guide_to_Trenches.md).
 - **Sandbags and barricades** reduce your chance of being hit but do not make you invulnerable.
 - **Walls** are not always safe. Bullets can penetrate thin walls, so do not assume a wall stops incoming fire.
 - **Trees** don't hide anyone. You can see past them like open ground, and standing beside a trunk or climbing a tree doesn't hide you either. Trees don't stop bullets aimed at the tree.
-- **Climbing a tree** lets you see far and keeps you out of reach. With grab intent and a free hand, click a tree or palm next to you (or right-click it and choose Climb Tree); it takes a few seconds. Small trees are too small to climb. You sit up at the top of the tree among its leaves, with only your head showing over them. From the branches you see over walls and other treetops, and Look into Distance reaches much farther. Wolves, bears and most other animals can't climb and lose interest in you, but panthers, jaguars, snakes and gorillas can follow you up. Nobody on the ground can punch, stab, grab or pull you while you are up there, and you can't hit them either; guns, bows and thrown things still reach both ways. Press a movement key, grab the tree again or use IC > Climb Down to climb back down. Being stunned or knocked out, or the tree being cut down, drops you to the ground.
+- **Climbing a tree** lets you see far and keeps you out of reach. With grab intent and a free hand, click a tree or palm next to you (or right-click it and choose Climb Tree); it takes a few seconds. Small trees are too small to climb. You sit up at the top of the tree among its leaves, with only your head showing over them. From the branches you see over walls and other treetops, and Look into Distance (Space) reaches 8 tiles farther the way you face. While you are looking out, the movement keys turn your view to another side instead of climbing down; press Space again to stop looking. Wolves, bears and most other animals can't climb and lose interest in you, but panthers, jaguars, snakes and gorillas can follow you up. Nobody on the ground can punch, stab, grab or pull you while you are up there, and you can't hit them either; guns, bows and thrown things still reach both ways. Press a movement key, grab the tree again or use IC > Climb Down to climb back down. Being stunned or knocked out, or the tree being cut down, drops you to the ground.
+- **Riding on top of a vehicle** works much like a tree. With grab intent and a free hand, click a roofed car, truck, bus, tank or train car from the tile beside it (or right-click it and choose Climb Onto Roof); it takes a few seconds. From a seat under a tank hatch, use IC > Climb Through Hatch instead. On top you can walk across the roof, you ride along when the vehicle drives or turns, and you see over walls. On a train you can walk along the roofs from car to car; flatbeds and gun cars have no roof. Nobody inside or on the ground can punch, stab or grab you, but people on the same roof can, and shots aimed at you hit you before the vehicle's walls. Walking off the edge is a jump: you land at once beside the vehicle and take a little damage. IC > Climb Down is the careful way down, back through the hatch when you stand on one. Being stunned or knocked out, the roof under you being destroyed, a crash or a hard turn at speed, or passing under a building's roof throws you off.
 - **Human shields:** a person held in a neck grab or tighter takes the bullets aimed at you. Expect your enemies to know this too.
 
 ## When you are hit

@@ -69,8 +69,9 @@ together.
 right. This is different from WASD(W to go forward, S to go back, you
 know the drill) control, so it may take some time to master. It is
 advised to drive jeeps first to get used to the driving system.
-* You can run over trees/buildings with your tank and it does not
-damage your tank.
+* Cars, trucks, buses and tanks roll smoothly instead of jumping from tile to tile. Take one out of gear and it coasts on a little, slowing, and stops square on the next tile. A turn squares it on its tiles first, then the whole vehicle swings round smoothly to its new heading, with everyone aboard carried round with it. The same goes for planes, helicopters, workshop ships and submarines.
+* You can run over trees with your tank and it does not damage your tank.
+* Any vehicle can ram a wall, pillar, door or barricade. The heavier it is and the faster it goes, the harder it hits: a wall that gives way lets it through a gear slower, one that holds stops it. The vehicle's front takes damage and the crew are thrown about. A tank pushes through wood and clay at a crawl; a light car mostly wrecks its own front on stone. Bollards stop vehicles while people walk between them; see [Fences, barricades and barriers](Guide_to_Construction.md#fences-barricades-and-barriers).
 * You can insta gib/kill any infantry if you run over them.
 * It is advised to face directly towards the enemy. It will make
 shooting it a lot easier. Most tanks have their heaviest armour on the front.
@@ -136,6 +137,24 @@ For possibly better explanation with a moving visual aid, take a gander at this 
 
 <video controls preload="metadata" width="640" src="https://github.com/civ13/civ13-wiki/releases/download/assets/tank_maneuvering.mp4">Your browser cannot play this video. <a href="https://github.com/civ13/civ13-wiki/releases/download/assets/tank_maneuvering.mp4">Download tank_maneuvering.mp4</a>.</video>
 
+### Doors
+
+Tanks, trucks and cars have doors you can work by hand. Examine a vehicle to see whether its door is open, shut or locked, and who is holding it.
+
+- **From outside**, use an empty hand on the door. This works on any intent except grab, which climbs onto the roof. An open door swings shut. A shut door that isn't locked pulls open. A locked door won't move.
+- **From inside**, a locked door still opens: use it with an empty hand and the inside handle or emergency release opens it after a moment. A lock keeps people out, never in. The door is left unlocked and open.
+- **Locks**: a vehicle with a key or a door code keeps its shut doors locked. The key unlocks the door and swings it open. Used on an open door, or on a shut one that isn't locked, the key locks it. A door shut by hand is not locked. A door with no lock never locks.
+- **Holding the door shut**: from inside, use the door on **grab intent**, or the **Hold Car Door** verb (IC tab). The door goes into your hand. Use it in hand, or **Tighten or Loosen Grip**, to brace it. Drop it, or use the verb again, to let go.
+- **Yanking it open**: anyone outside who pulls on a held door starts a tug of war. Each pull takes a moment. The stronger side is more likely to win, and pulling with both hands free helps. A tight grip holds much better than a loose one. A grip taken or tightened a second ago isn't braced yet, so a quick yank can catch it. Every pull you hold off tires your arm, and the arm recovers if the pulling stops.
+- You let go of the door if you leave your seat's tile for outside the vehicle, pass out, or are tied up. A fall can shake a loose hold free. A blow to your hand can break even a tight grip.
+
+### Windows, holes and emergency exits
+
+- **Breaking the glass:** a vehicle's windows can be smashed with a weapon or tool on **harm intent**. From inside it takes about a second and a half, so passengers can always break out. From outside it takes about five seconds. The broken window is an opening you can climb through.
+- **Shot-out walls:** a vehicle wall or door shot down to nothing leaves a hole that people can pass through, and a wrecked door hangs open. Submarine hulls are the exception: they stay shut and leak instead.
+- **Mending:** hold a **welding tool** in one hand and use **2 steel** on the broken side of the vehicle. It takes eight seconds and puts the wall or window back, badly dented.
+- **Tank escape hatch:** a tank or other vehicle on a heavy axis has an escape hatch in its belly. From inside, with the vehicle stopped, right-click it and choose **Drop through the escape hatch**. After six seconds you crawl out from under it onto the nearest clear ground beside it, lying down. The hatch only opens from inside. Examining the tank from inside reminds you it is there.
+
 ### Towing
 
 A vehicle that will not move by itself, with no fuel, a dead engine or a broken track, can be towed by another.
@@ -171,10 +190,10 @@ A vehicle nobody has registered drives for anyone who sits in it. To make a tank
 Who may drive a registered vehicle:
 
 - **Members of the owning faction**, and listed crew who are **commander** or **driver**, drive as usual.
-- **Anyone else** is asked whether to **force the controls**. It takes about 15 seconds and everyone aboard is warned. This only works while one of the owners is in the world.
-- With **no owner about**, the controls are locked.
+- **Anyone else** is asked whether to **force the controls**. It takes about 15 seconds and everyone aboard is warned. On Gaia this remains possible even when no owner is in the world; elsewhere it requires an owner to be present.
+- Away from Gaia, with **no owner about**, the controls are locked.
 
-The **turret guns** follow a simpler rule: anyone on the crew list, whatever their role, can always fire them, and a stranger can only fire them while one of the owners is in the world. A tank parked while your faction is away cannot be turned on your base.
+The **turret guns** follow a simpler rule: anyone on the crew list, whatever their role, can always fire them. A stranger can fire them on Gaia or while an owner is in the world.
 
 Slowing down and stopping are never locked. A vehicle that needs a **key** still needs it; the papers are a second lock, not a replacement. Examine the driver's seat to see who a vehicle belongs to. Modular boats and aircraft have the same papers at their driver's seat.
 

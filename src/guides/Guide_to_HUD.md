@@ -23,8 +23,9 @@ small button for each, walk or run, your fighting stance, dodge or parry,
 kick, and the body figure you click to choose where you aim. **Random** and
 the eye button sit above the body figure.
 
-**Bottom left: clothing.** Hat, ears, eyes, mask, pouch, clothing, suit,
-gloves and shoes. The bag button in the corner folds the clothing away and
+**Bottom left: clothing.** Hat, ears, eyes, mask, hip, clothing, suit,
+gloves and shoes. The hip slot holds one hanging item, such as a lantern,
+canteen, keys or a belt pouch. The bag button in the corner folds the clothing away and
 brings it back.
 
 If you prefer the older layout with one long bar along the bottom, use
@@ -65,10 +66,18 @@ moved or resized yourself stay where you put them.
 5. Use **Edit HUD Layout** again when you are done. Your layout is saved and
    the HUD goes back to working normally.
 
-To move a bag's storage window, open the bag before you start editing, then
-drag the window by its slots, its close button or anything inside it. It can
-be locked like a tile, but not resized. At HUD scales above 100% the storage
-window opens above the HUD instead of on top of it.
+Bags open in the storage strip, a row of slots over the HUD (see
+[Storing things](Guide_to_Your_First_Day.md#the-storage-strip)). Click the bag
+again to close its strip, or double-click it to open the storage window. Pick the window
+for every bag in **Character Setup > Settings** (**Bags and containers open in**). You can move the strip too: open the bag before you start editing,
+then drag the strip by its slots, its close button or anything inside it. It can
+be locked like a tile, but not resized. At HUD scales above 100% the strip
+opens above the HUD instead of on top of it.
+
+A stack of more than one thing shows how many it holds as a small number in
+the top-right corner of its slot, in your hands, your worn slots and the
+storage strip. The number turns amber when the stack is full. Handfuls of
+rounds show their count the same way.
 
 While you are editing, clicking a tile does not use it. For example,
 clicking a hand slot will not swap hands. Tiles you place near an edge or
@@ -131,6 +140,12 @@ forest show their names too, as long as you can see part of their canopy.
 
 To hide the panel completely, use **Toggle Hover Text** in the **OOC** tab.
 Use it again to bring the panel back. The game remembers your choice.
+
+If you would rather read names in one fixed place, use **Hover Text
+Position** in the **OOC** tab and choose **At the bottom of the screen**. The
+name then appears in a line centred just above the bottom row of the HUD
+instead of following the mouse. The same choice is in **Settings** under
+**Controls and HUD**, as **Name under the mouse**.
 
 ## Good to know
 

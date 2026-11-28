@@ -1,14 +1,27 @@
 # Starter Guide
 
 ```admonish info
-This guide mostly pertains to survival in the sandbox [Civilizations and Nomads](gamemodes/Civilizations_and_Nomads.md) game mode. On persistent worlds such as [Gaia](maps/Gaia.md), every recipe has to be studied from a book first: start with [Your First Day](guides/Guide_to_Your_First_Day.md).
+This guide mostly pertains to survival in the sandbox [Civilizations and Nomads](gamemodes/Civilizations_and_Nomads.md) game mode. On persistent worlds such as [North and South America](maps/The_Americas.md), every recipe has to be studied from a book first: start with [Your First Day](guides/Guide_to_Your_First_Day.md).
 ```
+
+## Your first night
+
+Six things keep a new character alive until morning. Do them in this order.
+
+1. **Fire.** Make a flint axe (see [Spawning in](#spawning-in)), chop a tree for 4 logs and use the logs in your hand to build a **campfire**. Click it with an empty hand to light it. It burns one log every 8 minutes, so about 5 last a whole night.
+2. **Shelter.** Get under a roof before dark or bad weather. A cave is the quickest: roofed ground looks darker. Check that no animal lives there.
+3. **Water.** Click fresh water with an empty hand on **Grab intent** to drink. Clear running water is the safest raw water, and salt water is never safe. Boil it once you have a pot.
+4. **Food.** Pick berries from a bush on **Grab intent**, or kill a small animal such as a rabbit or a bird. Roast meat on the lit campfire before you eat it.
+5. **Warmth.** Watch the temperature icon. If it turns blue, stand next to a lit campfire and keep on any coat you started with. Get out of the rain: wet clothes chill you faster.
+6. **People.** Hold leather or cloth and click a lit campfire under the open sky to send a **smoke signal**. Everyone outdoors a long way off is told which way to walk to reach you.
+
+More on each: [Thirst](#thirst), [Hunger](#hunger), [Temperature](#temperature), [Smoke signals](guides/Guide_to_Survival.md#smoke-signals).
 
 ## Spawning in
 
-- When you spawn, you will be told the languages you know. Your appearance and language will be determined by your spawn location.
+- When you spawn, you will be told the languages you know. On most lands you choose your people, which gives you your mother tongue; see [Peoples and Languages](guides/Guide_to_Peoples_and_Languages.md).
 - Your **hunger** and **thirst** bars start full, and drain as you work.
-- You start out with nothing but age-appropriate clothes on your person. Your first priority will be gathering flint to make a flint axe.
+- You start out with nothing but clothes on your person. They suit your birthplace and the current era: hides or leaf skirts in the Stone Age, then the tunics, robes and wraps of the people of that land. Your first priority will be gathering flint to make a flint axe.
   - Find a large rock and click it with an empty hand on **Grab intent** — you should be able to gather some flint.
   - Sharpen it by **knapping**: hold a stone or a second flint and use it on the flint, then choose **Sharp flake**. Once you know Stone Arms you can also click the rock with the flint until it chips to a sharp edge. See [Flint](guides/Guide_to_Flint.md).
   - Now go to a tree and click it with an empty hand on **Harm intent**. This will pull a branch from the tree and place it on the ground.
@@ -16,7 +29,7 @@ This guide mostly pertains to survival in the sandbox [Civilizations and Nomads]
   - Use the sharpened flint to sharpen the stick.
   - Get a binding: use the sharpened flint on grass or tall grass for **grass cuttings** and use two in hand to twist **crude twine**, or butcher an animal for **sinew**.
   - With the binding in your inventory or under you, use the sharpened flint on the sharpened stick to make a trusty flint axe — a tool and a weapon. A twine binding wears out quickly; sinew or rope lasts longer.
-- If it's **winter season** or an **Ice Age** map, you also spawn with a **fur coat**. Losing it will mean cold and miserable **death** in the icy outdoors.
+- If you start in the **tundra** or **taiga**, in **winter**, or on an **Ice Age** map, you also spawn with a **fur coat** and fur boots. Losing it will mean cold and miserable **death** in the icy outdoors.
 
 ## Crafting Basics
 
@@ -27,7 +40,15 @@ You will need some basic things to survive. At the very start you will most like
 
 The same mechanic applies to all materials: activate an item in your hand to open the crafting menu.
 
-The menu lists every recipe you can make from that material. Type in the search box to find a recipe in any category, or pick a category from the list. Each recipe shows its cost; when you have enough for several, choose a quantity and press **Craft**. Tool requirements are under **Tool details**. Tick **Only what I can make** to hide recipes you cannot make right now: ones that need a manual you have not learned, more material than you hold, more crafting skill, or a tool or second material you do not have. The game remembers the choice for every material.
+The **Crafting** window lists the material's recipes on the left in three groups: **Ready** (you can make it now), **Missing something** (each row says what is missing, such as more material, a tool or a second material) and **Not learned yet** (press **Show** to see them). Type in the search box to find a recipe anywhere, or pick a tab such as **Tools**, **Weapons**, **Clothing** or **Building** to see only recipes of that kind.
+
+Click a recipe to see it on the right: what it needs, the tools, how long it takes and how many it makes. The **Needs** list marks what you already have with a tick and names each thing still missing with a cross. Clicking only selects, so nothing is spent until you press **Craft**. If the recipe lets you choose a name, a description or a colour, those choices are on the card too; fill them in before you press **Craft**. When you have enough for several, set the quantity with **-**, **+** or **Max** first. Double-click a ready recipe to make one straight away. Tick **Only what I can make** to hide everything that is not ready; the game remembers the choice for every material.
+
+For recipes you make often, press **Pin this recipe** on the recipe's card. Pinned recipes, and the ones you made recently, appear as shortcuts above the list whenever you hold that material.
+
+You do not have to hold the material. Click the **Craft** button on your HUD (a hammer over an anvil), press **Shift+C** in Hotkey Mode (**Ctrl+Shift+C** in typing mode), or use **Craft With Nearby Materials** in the IC tab, to open the window for the materials in either hand and lying on the tiles around you. A row at the top lists them; click one to switch to it. This keeps your hands free for tools and second materials.
+
+If you prefer the older plain list, press **Classic interface** at the top of the window.
 
 ### Mining 101
 
@@ -63,6 +84,21 @@ If you switched to the older 1713Style layout, click the stomach icon on the rig
 Hunger and thirst affect your **movement speed**, **healing rates**, and **[mood](#mood)**.
 
 Being slow makes you easy prey for predators, criminals, and cannibals. Malnourishment also makes it easier to catch **[diseases](guides/Guide_to_Medical.md#diseases)**.
+
+### Working hungry
+
+How fast you get hungry and thirsty depends on how hard you work and how warm you are, so ration for the job ahead:
+
+| What you are doing | A full stomach lasts about | Full water lasts about |
+| --- | --- | --- |
+| Standing about, awake | 3 hours | 2.5 hours |
+| Light work: reading, writing, sewing, weaving, study | 2.5 hours | 2 hours |
+| Ordinary work, walking, fighting | 2 hours | 1.5 hours |
+| Heavy labour: mining, digging, felling trees, sawing, smithing | 1 hour | 50 minutes |
+
+- **Cold** makes you burn food to stay warm: about a third faster once you feel chilled and over half again as fast when you are cold. Warm clothes and a fire keep this down.
+- **Heat** makes you sweat: dry heat, deserts and heat waves roughly double your thirst, and being overheated (too many clothes, too close to a fire) adds half again.
+- Running costs a little extra on top. If you step away from the keyboard for a minute, you use only a tenth as much.
 
 ### Hunger
 
@@ -102,7 +138,7 @@ Avoid drinking "raw" water from puddles, rivers, and lakes! It needs to be boile
 If you have no boilable container, milk and well water are safer than drinking directly from open puddles.
 ```
 
-- To drink, hold a **mug**, **drinking glass**, bottle or **bucket** with its lid off and click yourself on **Help intent**. Aim at your **mouth** to be sure you drink rather than pour it over a wound.
+- To drink, hold a **mug**, **drinking glass**, bottle or **bucket** with its lid off and click yourself on **Help intent**. Aim at your **mouth** to drink. Aiming at any other part on Help intent washes that part instead (see [Hygiene](guides/Guide_to_Hygiene.md)).
 - **Wells** have disease-free freshwater. However, if there is excrement within four tiles of a well, the water becomes contaminated and unsafe to drink.
 - You can build a well over a **puddle** by using **stone**, if your faction has the required research levels.
 - "Raw" water needs to be **boiled** to be 100% safe. Otherwise, you have a chance of catching **cholera**. If you're dying, raw water may be a risk you'll have to take.
@@ -110,13 +146,13 @@ If you have no boilable container, milk and well water are safer than drinking d
 To boil water:
 
 - Make a simple **cooking pot** from **clay**.
-  - Craft a **wooden handle**, a **bucket**, and a **campfire** with **wood logs**.
+  - Craft a **wooden handle** and a **campfire**, and make a **bucket** from planks.
   - Get some animal **bone** (bones are obtained by butchering animals).
   - Hold bones in the **active hand** and the wooden handle in the **off-hand**.
   - Click bones and make a **bone shovel**.
   - Use the shovel on **dirt** tiles to dig **dirt piles** (any kind of dirt tile works). Click **grass** tiles to remove grass, and click **snowdirt** to shovel snow and expose the dirt underneath.
   - Find a water source and fill the **bucket** with water.
-  - Click dirt piles with the bucket to make lumps of **clay** (1 clay = 10 units of water per dirt pile).
+  - Hold the bucket and use it on a **dirt pile**. One pile and **10 units of water** give **2 clay** at your feet. See [Making your first clay pot](guides/Guide_to_Pottery_and_Lime.md#making-your-first-clay-pot).
   - Take clay and click it in the active hand, then choose **unfired clay cooking pot**.
   - Put the unfired pot into the campfire and click the campfire.
   - Wait until the pot is fired.
@@ -142,22 +178,56 @@ Milk is regenerated in animals over time. Keep them alive and you'll never go th
 <img src="images/hud_mood.png"><br>
 Click this icon to see your current mood and **[hygiene](guides/Guide_to_Hygiene.md)** levels. When you need to go to the toilet, it also tells you exactly how to relieve yourself.
 
-The same click lists what has been affecting your mood lately, such as the food you ate, fleas, hard work or seeing someone die. Each cause shows whether it is lifting or lowering your mood, how strongly, and whether it is still ongoing or fading. Chat also tells you when a cause starts to change your mood and when it no longer does, and when the mood icon changes it names the main reason.
+A game of **senet** (3 wood, needs **Basic Furniture**) or **chess** (4 wood, needs **Fine Arts & Leisure**) lifts the mood of both players. Use the board with someone standing beside it; after twenty seconds one of you wins.
 
-If you constantly feel depressed or hear weird audio randomly, your mood is very low. Here are ways to improve it:
+The same click lists what has been affecting your mood lately, such as the food you ate, a good wash or seeing someone die. Each cause shows whether it is lifting or lowering your mood, how strongly, and whether it is still ongoing or fading. Chat also tells you when a cause starts to change your mood and when it no longer does, and when the mood icon changes it names the main reason.
 
-1. Drugs, such as cocaine and opium. Smoking tobacco also helps.
-2. Good **[complex foods](guides/Guide_to_Cooking.md)** like boiled rice, roasted meat steak, noodles, and sandwiches.
-3. Alcohol, like vodka and sake.
+Your mood is one of five levels: horrible, bad, neutral, good or excellent. Neutral has no effect at all. A good or excellent mood raises every skill, a bad or horrible one lowers them and slows your walking, and in a horrible mood you start to hear things.
+
+#### Where your mood settles
+
+Left alone, your mood drifts toward a resting level. With nothing going for you that level is neutral. On maps where you get hungry, how you live moves it, and the mood click lists each thing that is raising or lowering it:
+
+| Living condition | Effect on your resting mood |
+| ---------------- | --------------------------- |
+| You last slept on a bedroll | Raises it a little |
+| You last slept in a proper bed | Raises it somewhat |
+| The bed was padded with cloth or leather | Raises it a little more |
+| The bed had a bedsheet on it | Raises it a little more |
+| A varied diet (see **Check Diet** in the IC tab) | Raises it somewhat |
+| Being clean | Raises it somewhat |
+| Being warm and dry | Raises it somewhat |
+| Ten minutes in clothes that suit the season and climate: warm layers such as a coat in the cold (and a warm hat where it is bitterly cold), light clothes and shoes in the heat, and no coat once it is mild | Raises it somewhat |
+| A roof over your head, or a lit fire to sit by at night | Raises it somewhat |
+| A cosy, comfortable, fine or splendid home that you last slept in (replaces the roof; see **[Making a Home](guides/Guide_to_Homes.md)**) | Raises it more, the finer the home |
+| A tame animal close by, such as a dog, a horse or livestock | Raises it somewhat |
+| Art you can see nearby: paintings, rock art, statues and monuments | Raises it a little for each piece, up to three |
+| Being filthy, or having fleas | Lowers it |
+| Being sick, or in lasting pain | Lowers it |
+| Going hungry or thirsty | Lowers it a lot |
+
+A bed, a varied diet, regular washing and dry clothes together are enough to rest in a good mood. Being only a bit dirty neither helps nor hurts. A home with a roof, an animal and some art on the walls takes it near the top, and a fine or splendid home takes it a little higher still.
+
+#### Lifting your mood for a while
+
+These lift your mood on top of the resting level. A modest lift fades slowly, over about ten minutes. A big high burns off quickly, so piling up treats does not last.
+
+1. Good **[complex foods](guides/Guide_to_Cooking.md)** like boiled rice, roasted meat steak, noodles, and sandwiches.
+2. Washing with soap, and a soak in a bath, especially a warm one.
+3. Music, a board game with someone, a shared feast, and herb teas.
+4. Reading a book that has some real writing in it, about once every twenty minutes.
+5. Eating food you like next to a table, about once every ten minutes.
+6. Smoking tobacco.
+7. Drugs, such as cocaine and opium. They lift mood the most, but the high is short and they are addictive.
 
 Things that can decrease mood:
 
 1. Other people's stench (when they have a cloud of filth around them, it decreases your mood and you get a message that they smell).
-2. Your own stench.
-3. Low **hygiene**.
-4. Killing others (drastically decreases mood, especially cutting someone's head off).
-5. Eyeing detached body parts and gore.
-6. Mood also slowly decreases on its own while you are awake. It does not drop while your character is asleep, though good things still raise it.
+2. Killing others (drastically decreases mood, especially cutting someone's head off).
+3. Eyeing detached body parts and gore.
+4. Soiling yourself, vomiting and withdrawal from drugs.
+
+Mood does not drop while your character is asleep, though good things still raise it.
 
 {{#warning}}
 Seeing too much extreme gore can lead to PTSD, which is incurable. After a while, you may start hallucinating and having catatonic breakdowns. Antidepressants and drugs only temporarily block these effects.
@@ -211,6 +281,9 @@ Crackling fires will keep you warm even without a coat.
 - A **campfire** warms you when you are right next to it, or within one tile.
 - A **brazier** (made with **stone**) provides more heat and warms you within three tiles.
 - Both campfire and brazier are refueled by adding **wood**, **coal**, or **charcoal**. Braziers can also be refueled with **paper- and cloth-based items**.
+- A campfire or fire pit burns one **wood log** every 8 minutes, so about **5 logs** keep it going through a whole night. Examine the fire to see roughly how many minutes of fuel it has left.
+- To make **charcoal**, build a **charcoal clamp** from **4 wood** (it needs Primitive Construction). Stack up to **20 wood logs** on it, then light it by hand or with a flame. It is covered with earth and smoulders for about **5 minutes**, then every **2 logs** come out as **1 charcoal**.
+  - You can't add logs or dig it out while it smoulders. A **shovel** takes down an unlit clamp and gives back its logs.
 
 ### Dangerous animals
 
@@ -234,10 +307,12 @@ You'll need a light source to see at night and in dark indoor areas.
 The basic source of light is the **torch**.
 
 - Craft a **handle** from **wood**.
-- Click the handle with **[animal fat](guides/Guide_to_Crafting.md#animals)**, or with a container holding at least 10 units of olive oil, fat oil, corn oil or petroleum, to make a **torch**. Click it in hand to light it, and again to put it out.
-- A torch burns for about **5 minutes**. Rub more animal fat into it or dip it in oil to keep it going, up to about 10 minutes. When it burns out, you get the handle back to make another one.
-- A **tiki torch** is a stationary torch that burns longer and gives brighter light. When it runs out it goes dark; refill it with oil.
-- You can also make **lanterns** with **iron** (or copper and bronze lamps). Lanterns start empty: fill them by clicking them with a container of olive oil (**[grow](guides/Guide_to_Farming.md)** olives and click buckets or barrels with them to make oil), **[fat oil](guides/Guide_to_Crafting.md#animals)**, corn oil or **[petroleum](guides/Guide_to_Crafting.md#petroleum)**. A full lantern burns for about an hour.
+- Click the handle with a piece of **[animal fat](guides/Guide_to_Crafting.md#animals)**, or with a container holding at least 5 units of olive oil, fat oil, corn oil or petroleum (or 10 units of lard), to make a **torch**. Click it in hand to light it, and again to put it out.
+- A torch burns for about **10 minutes** on one piece of fat. Rub more fat into it or dip it in oil to keep it going, up to about 20 minutes. It takes only as much of a piece as it needs and leaves you the rest; examine the piece to see how much is left. When the torch burns out, you get the handle back to make another one.
+- A **tiki torch** is a stationary torch that gives brighter light and holds up to 30 minutes of fuel, about 10 minutes for each piece of fat. When it runs out it goes dark; refill it with oil or animal fat. An unlit tiki torch you no longer want can be taken apart with a hammer or any blade, such as a knife or hatchet: you get a **handle** back plus 2 logs (or 2 bamboo bundles if it was made of bamboo).
+- A **stone fat lamp**, carved from 1 stone, is the thrifty light. It is only as bright as a candle, but one piece of animal fat keeps it burning for about **30 minutes**, and it holds two. Put fat or oil in it, then click it in hand to light it.
+- A **grease horn**, carved from 2 bones, hangs from your belt and carries fat that never spoils. Press up to three pieces of animal fat into it, or pour in rendered fat oil, and use the horn on any torch or lamp to top it up. Rendered fat oil takes half the room of raw fat for the same light, so a full horn of oil holds six pieces' worth.
+- You can also make **lanterns** with **iron** (or copper and bronze lamps). Lanterns start empty: fill them by clicking them with a container of olive oil (**[grow](guides/Guide_to_Farming.md)** olives and click buckets or barrels with them to make oil), **[fat oil](guides/Guide_to_Crafting.md#animals)**, corn oil or **[petroleum](guides/Guide_to_Crafting.md#petroleum)**, or press animal fat straight into them. A full lantern burns for about an hour; one piece of fat gives about 20 minutes.
 - **Lighters and Zippos** run out of fluid. Refill them by clicking them with a container of gasoline or alcohol.
 - **Flashlights** run on batteries and last about an hour. Craft a **battery** from copper (it needs Electricity research) and use it on the flashlight to recharge it. The Japanese dynamo flashlight is wound by hand instead: use it in hand when it is empty, or use its Wind Dynamo verb.
 - Examine any of these to see how much fuel or charge is left.
@@ -252,8 +327,9 @@ To avoid that, go to sleep properly:
 
 - Stand over a bed or leather bedroll; buckling is not required. On maps that save the world, you have one assigned bed: sleeping in a free bed makes it yours and releases your old one, and you cannot sleep in a bed someone else has claimed. Examine a bed to see whether it is yours. **Store held items before sleeping.** An ordinary droppable item in the active hand is dropped at your starting location before the body moves, so leaving it there can expose it to other players.
 - Type `sleep` in chat (without "say") or click "Sleep" on the IC tab.
-- Remain connected and complete the two-minute action on the bed. Wait until protected sleep has actually started before logging off.
+- Remain connected and stay on the bed until you fall asleep. On maps that save the world this takes two minutes where the bed would keep you safe while away (see below) and 10 seconds anywhere else, including Gaia. On other maps it takes two minutes. Wait until protected sleep has actually started before logging off.
 - Routine hunger and thirst do not decrease during protected sleep, and your diet stays as it was. Being knocked out or otherwise unconscious slows hunger and thirst to a crawl but does not stop them. A body logged off without Sleep also falls fast asleep and gets hungry just as slowly, but it gets no other protection.
+- **Safe while you are away:** outside Gaia, if you belong to a faction and your bed is in a [province](gamemodes/Civilizations_and_Nomads.md#provinces) your faction (or its nation) holds, or on [your faction's island](guides/Guide_to_Boats.md#your-factions-island), once protected sleep has started and you log off, your sleeping body cannot be hurt, robbed, stripped, grabbed, dragged, unbuckled or operated on, and nobody can take apart or unfasten the bed under you. Other people can walk straight over you, so a sleeper never blocks a doorway. The protection ends the moment you log back in, even before you wake up, and it never covers a character who logged off without Sleep. If a sleeper is misusing it, adminhelp: staff can lift that sleeper's protection until they next sleep properly. Anywhere else, including Gaia, unheld provinces, a province another faction holds, or if you have no faction, a sleeping body stays exposed, so choose a well-guarded bed.
 - To wake up, type `wake-up` (without "say") or click "Wake Up" on the IC tab. Waking takes 30 seconds and returns you to the spot where you went to sleep. If the return cannot complete safely, protection remains active; wait for any save or load to finish, then try again.
 
 Sleep is unavailable on Voyage. Disease, fleas in worn clothing or hygiene of
@@ -299,7 +375,7 @@ The Status tab has some general info about the ongoing round, both OOC and IC:
 - time of day
 - current season, with how far into it you are and roughly how long until it changes
 - your **Diet energy** bonus (see [Balanced diet](guides/Guide_to_Cooking.md#balanced-diet))
-- on persistent worlds such as Gaia, **Last save**: when the world was last saved (UTC) and how long ago, shown under World activity and Joining
+- on persistent worlds such as North and South America, **Last save**: when the world was last saved (UTC) and how long ago, shown under World activity and Joining
 
 To see which version of the game the server runs, use the **Server Revision** verb in the OOC tab. It shows the commit (with a link to it on GitHub), what it changed, when the server was last updated and how long the world has been running.
 

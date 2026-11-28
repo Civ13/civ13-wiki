@@ -13,6 +13,9 @@ Plague, typhus, malaria and cholera deteriorate while the infected human is acti
 | --- | --- | --- |
 | Plague, typhus, cholera | Penicillin | 2 units |
 | Malaria | Quinine | 10 units |
+| Cholera | Saline glucose (fluids) | a slow course of about 20 minutes |
+
+Penicillin is an antibiotic: it does nothing for flu or worms. Fever remedies (tea, elderflower tea, willow bark, healing herbs, aspirin) are what help with flu.
 
 Continuous appropriate treatment pauses deterioration and cures the illness after three minutes, much faster than waiting it out. Interrupting treatment resets course completion; provide a fresh complete course before the deadline. Flu and zombie infection use separate behavior.
 
@@ -22,11 +25,13 @@ For renewable penicillin, extract charcoal and ethanol: **1 charcoal + 2 ethanol
 
 A grain or flour starter can ferment without existing yeast. Let the culture grow before withdrawing a yeast container if you want to retain it; each container holds 50 enzyme. Distilling 4 beer produces 2 ethanol. The starter jar needs glass and **Pottery Storage**; apothecary equipment follows **Herbalism** and **Apothecary**. The softwood ethanol-distillery recipe uses the legacy Economy & Production threshold of 45 where that research mode applies.
 
-Plague and flu spread to healthy humans standing within two tiles of a sick person or a body that died of it; immunity and sterile-mask protection still apply. Typhus comes only from fleas and cholera only from swallowed unboiled water, so neither spreads from person to person; malaria and zombie infection do not either. Each mouthful of contaminated food or drink is one chance to catch it, larger for bigger doses, and Strong Immune System lowers it.
+Flu passes to someone standing right next to a sick person, and a sneeze can carry it two tiles; walls stop both. Plague spreads to anyone within two tiles of a sick person or a body that died of it, but not through walls. A sterile mask stops your own sneezes and halves your chance of catching either. Weak Immune System doubles the chance of catching any illness and Strong Immune System cuts it to a fifth, and recent resistance to an illness also lowers the odds of catching it again. Typhus comes only from fleas and cholera only from swallowed unboiled water, so neither spreads from person to person; malaria and zombie infection do not either. Each mouthful of contaminated food or drink is one chance to catch it, larger for bigger doses, and Strong Immune System lowers it.
 
 A sick person's blood and raw flesh carry their illness. Blood drawn from someone with plague, typhus, cholera or malaria infects whoever it is injected into, and drinking it is a chance to catch it (malaria only passes by injection). Meat butchered from a sick body carries plague, typhus, cholera or intestinal worms. Cooking meat in an oven or pot kills every germ in it.
 
-Resting buckled to a bed (not a chair) helps the body fight any illness twice as fast. A doctor's handbook used on a patient names the illness, its stage and how to treat it.
+Resting buckled to a bed (not a chair) helps the body fight any illness twice as fast. Being ill does not stop you using **Sleep** in a bed: flu passes twice as fast while you sleep there, and a severe illness or worms simply waits until you wake. A doctor's handbook used on a patient names the illness and its stage, gives first aid, and lists the treatments your society can supply; later treatments show up as your research reaches them. See [Treatments by Ailment](Guide_to_Treatments.md) for the full table.
+
+A handbook shows poisoning only by its signs: something harmful still in the stomach, or poison in the blood. To name the poison and the dose, draw a blood sample with a syringe and spin it in a powered laboratory centrifuge (Pharmacology) with an empty vial as its collector. It prints a blood test report that lists the poisons in the bloodstream with their doses and confirms plague, typhus, cholera or malaria in the sample.
 
 ## First-Aid
 
@@ -136,6 +141,28 @@ Some things keep a person dead for good:
 
 Lethal wounds and heavy blood loss only have to be treated first: bandage and heal the body, or give blood, then try again. The revived wake up later, weak and near death, with more brain damage the longer they were gone, so keep treating them. They keep their name and what they knew.
 
+### After you die on a persistent world
+
+On persistent worlds such as Gaia, death doesn't send you straight back to the lobby. Your spirit stays with your body: you can't respawn yet, and as a ghost you can't wander more than 15 tiles from your body or its grave.
+
+You are free to respawn once your body is gone, when it rots away or is destroyed. You are also freed if someone brings you back. Otherwise press **Respawn** and choose **Move on**. After 5 minutes you can respawn.
+
+While your spirit is still there, anyone can right-click your body and choose **Pray for Them**. They kneel for 30 seconds, and the gods may answer by bringing you back, with just enough strength to live. Nobody can be brought back without a head.
+
+### Watching as a spirit
+
+On persistent worlds, the dead and anyone who picks **Observe** in the lobby watch the world as a spirit:
+
+- You see only a few steps into the dark around you.
+- You hear only speech and emotes near you, and no radio.
+- **Haunt** follows a living player, and **Jump to Mob** takes you to one. Both are in the **Ghost** tab, which lists players by the name others see them as. While your spirit is still bound to your body, you can only reach people close to it.
+- Solid walls and closed doors stop you.
+- Death notices tell you who died, not where.
+
+Observers from the lobby start out where new players arrive.
+
+A small bar at the bottom of the screen shows whether your spirit is still bound, how long until you have moved on, and how far you can drift from your body. Its buttons haunt, jump or return you to your body, and clicking the status starts moving on or respawns you once you are free.
+
 ### Triage tags
 
 When several people are hurt at once, a medic, or anyone with a **medical** skill of 50 or more, can right-click a person next to them and choose **Triage Tag**. The tag shows on the body, and anyone who examines the person sees it.
@@ -241,6 +268,12 @@ break keeps holding the bone after the bleeding stops.
 Lost blood comes back twice as fast while the patient is well fed and
 well watered, so give food and clean water after any big bleed.
 
+Blood only starts to come back once every wound has stopped bleeding.
+Deep cuts do not close on their own, so bandage them all; the game
+reminds you while you are short of blood and still bleeding. Blood given
+by syringe must match the patient's blood type. The wrong type sickens
+them instead of helping, and they are told so.
+
 #### Stimulants, pain relievers and cleansing agents.
 
 **Tea:** Tea heals toxins and helps fight drowsiness and
@@ -257,7 +290,7 @@ tea, can end up weakening the patient.
 **Coffee:** Will give you that extra caffeine and increase your speed!
 
 **Cocaine:** A powerful stimulant. Very addictive. 2 times worse
-painkiller than opium.
+painkiller than opium. See [Drugs and Stimulants](Guide_to_Drugs.md).
 
 **Peyote Cactus:** Stabilizes critical damage, slight painkiller, and
 makes you see many colors. Also using in tribes gamemode for
@@ -271,7 +304,8 @@ communicating with gods
 includes beer, ale, and rum. Also makes for a great party drink!
 
 **Opium:** Made from poppies and used as an extreme painkiller. Helps a
-lot when patients are mostly suffering from pain.
+lot when patients are mostly suffering from pain. Laudanum, morphine and
+the dangers of opiates are in [Drugs and Stimulants](Guide_to_Drugs.md).
 
 **Willow bark:** Weeping willows grow beside rivers, lakes and swamps in
 temperate and taiga lands. Hold a knife on any intent except harm and
@@ -282,7 +316,7 @@ click an open container with at least 10 units of water to steep it
 into a bitter willow bark tea that works the same way. Too much upsets
 the stomach.
 
-**Wild herbs:** Yarrow, comfrey, elderflower and milk thistle grow wild
+**Wild herbs:** Yarrow, comfrey, elderflower, milk thistle and wormwood grow wild
 on open grass. Pick a sprig by hand (help intent); each plant gives three
 sprigs, grows them back over time, and has nothing to pick in winter.
 
@@ -295,6 +329,8 @@ sprigs, grows them back over time, and has nothing to pick in winter.
     fight flu and brings a fever down.
   - **Milk thistle** (temperate and semi-arid lands): steep it the same
     way for a bitter tea that slowly clears poisons from the body.
+  - **Wormwood** (temperate, taiga and semi-arid lands): steep it the
+    same way for a harsh, bitter tea; one cup purges intestinal worms.
 
 **Aspirin:** A refined, stronger form of willow bark. It eases pain and
 helps fight flu fever. Chemists can make it from willow bark (see the
@@ -302,8 +338,9 @@ Guide to Chemistry), and tablet presses turn it into aspirin tablets.
 
 **Potassium Iodide:** Heals radiation. Cure for zombie virus.
 
-**Penicillin:** Cure for typhus, and the strongest antibiotic for
-infected wounds.
+**Penicillin:** An antibiotic. It cures plague, typhus and cholera and is
+the strongest antibiotic for infected wounds, but does nothing for flu or
+worms.
 
 **Silver:** An antiseptic. On skin it kills germs and it cleans objects,
 and taken in it works as a weak antibiotic.
@@ -353,7 +390,7 @@ advanced medicine doesn't exist.
 The rarest and the most dangerous disease. It leaves you weak and
 collapsing for a long time unless treated with penicillin.
 
-  - Caught from eating raw mice. Or standing too long near one.
+  - Caught from fleas: sleeping or lying near a flea-ridden mouse nest, or digging one out bare-handed (see [Mice & Pests](Guide_to_Mice.md#fleas-and-plague)).
   - Transmits from person to person.
   - It can be spotted by the lumps on your skin and vomiting blood.
   - If you survive, you will get immunity.
@@ -387,16 +424,24 @@ A disease caused by water-borne bacteria.
   - After about three minutes you become weak, drowsy, feverish and in
     pain, and you shiver now and then. After about fifteen minutes you
     start to collapse.
+  - Cholera dries you out: once it worsens you get thirsty about twice
+    as fast, so keep the patient drinking boiled water.
   - Cholera does not kill you by itself, but a collapsing patient can
     still die of wounds, hunger, thirst or the cold.
   - **Cures:**
+    - **Fluids:** saline glucose, drunk or given by IV drip, quenches
+      thirst and helps the body fight cholera; kept up for about twenty
+      minutes it clears it (about 60 units by mouth). Mix one unit each of
+      salt and sugar into eight of water for ten units: salt comes from
+      boiling sea water, sugar from sugarcane, parsnips or maple syrup.
     - **Penicillin:** a continuous course of 2 units cures it in about
       three minutes.
     - **Healing herbs:** the Stone Age cure. Chew three herbs, one
       after another before the last runs out, for a ten-minute course.
     - **Waiting:** the body fights it off on its own after about half an
       hour of play.
-  - Drinking water, tea and charcoal do not cure cholera.
+  - Plain water, tea and charcoal do not cure cholera, but drinking
+    keeps the patient from drying out.
   - After you recover you resist cholera for a while.
 
 #### Flu
@@ -404,24 +449,27 @@ A disease caused by water-borne bacteria.
 Just a normal flu.
 
   - Caught from being dirty.
-  - Easily transmitted from person to person. A single person can
-    contaminate an entire village!
+  - Passes to people standing right next to you, and a sneeze can
+    carry it two tiles. Walls stop it. Keep the sick apart and wear a
+    sterile mask.
   - Will very probably not kill you, but can be an annoyance, causing
     blurred vision, blackouts, and fever.
   - Manageable by eating and drinking until full, and resting (buckling
     to a bed halves how long it lasts).
-  - Tea, willow bark tea, elderflower tea or aspirin help bring the
-    fever down.
+  - Tea, willow bark tea, elderflower tea, healing herbs or aspirin help
+    bring the fever down. Penicillin does nothing for flu.
   - You might get immunity after surviving it.
 
 #### Typhus
 
 You've been covered with lice for days and now you feel sick.
 
-  - You catch it from fleas. Clothes that stay filthy long enough get
-    fleas. Chat warns you when fleas start biting, you itch now and
-    then while they stay, and the flea sprites show on you. Every
-    moment you wear them there is a small chance of typhus.
+  - You catch it from fleas. Clothes that stay filthy for a long time
+    (about an hour on average) can get fleas. Chat warns you when fleas
+    start biting, you itch now and then while they stay, and the flea
+    sprites show on you. Most fleas are only a nuisance; about one
+    infestation in ten carries typhus, and wearing those for an hour
+    gives roughly a one in three chance of catching it.
   - Washing your clothes gets rid of the fleas: use the clothes on a
     sink or open water, or put them in a washing machine.
   - It does not spread from person to person; only fleas carry it.
@@ -451,6 +499,8 @@ Parasites living in your gut.
   - After about five minutes you feel hungrier than you should and get
     cramps now and then. They never become dangerous on their own.
   - **Cures:**
+    - **Wormwood tea:** pick wormwood (a silvery wild herb with small
+      yellow flowers) and steep a sprig in water. One cup purges them.
     - **Healing herbs:** chew one herb and the remedy purges them in
       about three and a half minutes.
     - **Absinthe:** the wormwood in it purges them while you keep
@@ -471,11 +521,17 @@ learn how to keep people from ending up sick and useless.
     Give them plenty of fresh water or tea to clear the thirst.
   
 - **Cholera**: Caught from puddle or river water (or a well with
-    feces near it) that hasn't been boiled. Cure it with penicillin or
-    a course of healing herbs, and keep the patient fed and watered
-    while they recover.
+    feces near it) that hasn't been boiled. Cure it with penicillin, a
+    course of healing herbs or saline glucose fluids, and keep the
+    patient fed and drinking while they recover.
   
 - **Food poisoning**: Cooked food, clean water and healing tea.
+  
+- **Swallowed poison**: Throwing up brings back much of what is still
+    in the stomach, so poison that has not been absorbed yet leaves
+    with it and the patient feels a little better. Feeding someone
+    more food or drink than their stomach can hold makes them throw
+    it all back up, along with some of what they had already eaten.
   
 - **Flu:** Causes victims to suffer from weakness or even fever,
     fevers will worsen depending on certain factors, weather and
@@ -495,7 +551,7 @@ of decreased effectiveness or success.
 Alternatives: Knife, Bone Knife, Glass Shard
 
 **Hemostat** 
-Alternatives: Rope, Torch
+Alternatives: Catgut, Rope, Torch
 
 **Retractor** 
 Alternatives: Crowbar, Wood Handle, Fork
@@ -564,6 +620,19 @@ on the head or limbs, for obvious reasons.
 - Retractor
 - Cautery
 
+### Keeping removed organs
+
+A removed organ starts to spoil at once. Examine it to see how fresh it is and its blood type. A spoiled organ carries an infection into whoever receives it, and a recipient with an incompatible blood type rejects it. The surgeon is warned about both before the transplant goes ahead.
+
+- An **organ box** (2 cloth) holds one organ and keeps it clean, so it spoils much more slowly.
+- A **refrigerator** or **freezer** slows spoiling a lot, even with the organ inside a box. A refrigerator without power helps less.
+- Nothing makes a spoiled organ fresh again, and a dead organ stays dead.
+- An organ left on the ground is cleared away after a few minutes.
+
+### Catgut
+
+Use a sausage casing in your hand to twist it into two lengths of catgut. Catgut ties off bleeders and mends torn veins better than rope does.
+
 ### Tendons
 
 - Scalpel 
@@ -578,21 +647,79 @@ Rudimentary/emergency: Knife
 - Hemp rope
 - Wood torch
 
+## Teeth and dentistry
+
+You have 32 teeth. A hard punch, kick or blunt blow to the mouth can knock
+some out, and they never grow back on their own.
+
+### Tooth decay and toothache
+
+  - Every bite of food leaves a little plaque on your teeth. Sweet food
+    (sugar, honey and syrup) leaves much more.
+  - Too much plaque slowly rots a tooth. A cavity gives you a dull
+    toothache now and then, and pain when you bite down.
+  - A cavity left untreated for about two hours can turn into an
+    **abscess**: a throbbing, swollen jaw that others can see, worse pain
+    and a little sickness. It never kills on its own.
+  - Painkillers dull the ache. Drawing the rotten tooth ends an abscess,
+    and so does penicillin (the tooth still needs treating).
+  - **Keep teeth clean:** use a **chewing stick** (Hygiene; carved from
+    wood with a knife, 6 uses) or a **toothbrush** (Sanitation; carved
+    from bone with a knife, lasts) in your hand. A chewing stick clears
+    most plaque, a toothbrush all of it.
+
+### Treating teeth
+
+Aim at the **mouth** on **help intent** and use the tool on the patient
+(or yourself). The patient's mouth must be uncovered.
+
+  - **Drawing a tooth:** dental forceps (iron or bronze, Field Surgery)
+    work best; a hemostat or wirecutters will do at a pinch. A rotten
+    tooth always comes out first.
+  - **Putting a tooth back:** a knocked-out tooth stays fresh for about
+    ten minutes. Use it on its owner's mouth (Surgical Theory) to press
+    it back in. About half take straight away, fewer the longer you
+    wait; a tooth that does not take is dead.
+  - **Filling a cavity** (Surgical Theory): first scrape the rot out with
+    a dental pick or a surgical drill, then pack the cavity with a sheet
+    of lead, tin or gold, or a lump of silver amalgam (Anesthetic
+    Surgery). A filled tooth no longer decays. An abscessed tooth must be
+    drawn, or the infection cleared, before it can be filled.
+
+### Replacing lost teeth
+
+| Replacement | Research | Made from | Chewing |
+| --- | --- | --- | --- |
+| Gold band bridge | Field Surgery | 1 gold and 3 teeth | 3 teeth, fully |
+| Carved bone dentures | Surgical Theory | 3 bone, with a knife | poor |
+| Human-tooth dentures | Surgical Theory | 2 bone and 16 teeth, with a knife | fair |
+| Porcelain dentures | Anesthetic Surgery | 2 clay, fired in an oven or kiln | good, but can shatter |
+| Vulcanite dentures | Anesthetic Surgery | 2 rubber and a porcelain set | very good |
+| Acrylic dentures | Modern Medicine | 2 plastic | full |
+
+  - A **bridge** is bound to the teeth either side of a gap by using it on
+    the mouth. It needs at least two natural teeth to hold on to, and
+    falls out if fewer are left.
+  - **Dentures** fill every remaining gap. Use them on your own or a
+    patient's mouth. To take yours out, click your own mouth with an
+    empty hand on help intent. A hard blow can knock them out.
+
+### Living with missing teeth
+
+  - With fewer than 16 teeth that can chew, you eat in smaller bites
+    (half size with none).
+  - With 8 or more gaps, your "s" sometimes whistles into "th".
+  - A full set of false teeth fixes your speech and hides the gaps.
+
 ## Human bodies and remains
 
-These mechanics describe the merged game source. A running server must include this update before they apply there.
+A dead body left out in the open starts to rot after **2 season changes** and turns to bones after **4**. Where the seasons do not change, it starts to rot after **6 hours** and turns to bones after **12**. Bones take the same time again to vanish. Time while the server is down does not count.
 
-An exposed dead human body starts to rot after **2 natural season changes** and becomes remains after **4**. On maps without an active seasonal cycle, the warning comes after **6 hours** and retirement after **12 hours of running-server time**. The remains then begin a fresh phase with the same warning and disappearance thresholds. Offline time does not count. Cleanup checks at most 32 candidates every 30 seconds, so busy worlds may take longer after a threshold.
+You get a warning when a body starts to rot, so there is time to recover or revive it. Reviving a body resets its decay. Moving a body to a new spot also resets it. Bodies kept in a morgue, coffin, closet, vehicle or other container do not rot, nor do bodies being pulled, carried or buckled.
 
-The warning leaves time to recover or revive the body. Revival or rejuvenation clears its decay age. Moving a body or remains to a different location resets exposure; a movement action that leaves it in the same place does not. Bodies and remains inside containers or mobs are protected, including morgues, coffins, closets and vehicles. Pulled or thrown bodies and buckled bodies are protected when checked. Protection resets exposure, and remains containing objects are protected too.
+When a body turns to bones, everything it carried drops where it lies. Bags keep their contents and guns keep their attachments and ammunition.
 
-When a body becomes remains, its actual gear drops at the body's location. Bags keep their contents, and guns keep their attachments and ammunition. Existing item identity and raid or insurance metadata stay with the items. Clothing removal can also release pockets, belts and IDs. Useful gear does not become abandoned rubbish because its carrier died, and a physical gear drop does not itself return insurance or credit an extraction loadout.
-
-A body stays intact if gear cannot be dropped, an item is anchored, it carries a non-gear passenger or a loose organ outside its own anatomy, or it has more than 256 direct contents. A failed drop, revival or relocation cancels retirement before body deletion; gear already released may remain on the ground.
-
-Saved corpses stay dead with their damage, nested inventory and accumulated exposure. Saved remains retain their phase progress. A restart does not add offline age or revive a saved corpse. Forced admin season changes keep decay age unless **Advance decay age** is explicitly selected.
-
-On zombie maps, a headed corpse outside the Caribbean admin area reanimates as a zombie at retirement instead of leaving bones. Headless corpses leave remains. Static decorative remains do not expire through this process.
+On zombie maps, a body that still has its head rises as a zombie instead of turning to bones.
 
 ### Circumcision
 

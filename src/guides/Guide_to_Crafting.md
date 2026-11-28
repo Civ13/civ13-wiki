@@ -21,7 +21,7 @@ machinery and vehicles.
 
   - **[Crafting Atlas](https://civ13.github.io/Civ13/crafting/)** - search recipes, ingredients and connected crafting stages. The atlas lists alternative catalogs and research or mode conditions; those alternatives are not all available together. Map, era, faction, tools, fuel, power and custom rules still determine what you can make. A catalog entry does not prove a complete acquisition route on every map. Sprite previews use actual compiled DMI defaults; abstract or dynamic entries show a labeled source symbol, and runtime colors or overlays may differ.
 
-  - **In-game Crafting Atlas** - the **Crafting Atlas** verb in the IC tab opens the same catalog inside the game, and crafting menus link to it. Examining almost any item, structure, animal or patch of ground adds a **View in Crafting Atlas** link to the description, which opens that thing's page.
+  - **In-game Crafting Atlas** - the **Crafting Atlas** verb in the IC tab opens the same catalog inside the game, and crafting menus link to it. Examining almost any item, structure, animal or patch of ground adds a **View in Crafting Atlas** link to the description, which opens that thing's page. A recipe made from a material you hold has a **Craft this** button: with that material in your hands or beside you, it opens the Crafting window on that recipe.
     - Type any words into **Search**, such as `fur coat` or `iron sword`. Recipes with those words in their name come first, then recipes that use them as ingredients.
     - Click a recipe to see **You need** and **You get**, plus its requirements. **Made at** on the recipe opens the workstation it is made on.
     - Click any item to open its page: what kind of thing it is, its description, and basics such as size, where it is worn, armor, damage or nutrition. Below that is how to obtain it and its recipe, with every recipe that makes it and uses it listed on the left.
@@ -34,7 +34,8 @@ machinery and vehicles.
     - A workstation's page, such as the anvil or the laboratory reaction bench, also lists everything made there.
     - **Unlock era** and **Made at** narrow the list to an age or to one workstation.
     - The list shows the recipes for the map you are on. Tick **Include other maps** to see the versions used elsewhere.
-    - **Needs research** marks a recipe your faction or character has not unlocked yet, and names the research. **Retired this era** marks a recipe that is no longer made in the current age.
+    - **Needs research** marks a recipe your faction or character has not unlocked yet, and names the research. **Retired this era** marks a recipe that is no longer made in the current age. On persistent worlds such as Gaia nothing retires: a new age never takes away a recipe you could already make.
+    - A recipe that needs a level of skill says so with your own level beside it, for example **Skill: Crafting 170** and **Yours is 112**.
     - The atlas is a reference: skills, tools and your faction still decide what you can craft.
 
   - **[Full Crafting List](../Full_Crafting_List.md)** - contains
@@ -65,21 +66,38 @@ machinery and vehicles.
 - **[Mining](#mining)**
 - **Making swords and pre-1903 firearms** - **[Anvils](Guide_to_Metallurgy.md#anvils)**
 - **Making armor** - **[Anvils](Guide_to_Metallurgy.md#anvils)**
-- **Making guns starting from 1903** - **[Gunsmithing bench](#gunsmithing-bench)**
+- **Making guns in every era** - **[Guide to Gunsmithing](Guide_to_Gunsmithing.md)**
 
 ## Basics
 
   - Have some material in your active hand
   - Click the material, or press Ctrl-Z or simply Z, if you have toggled
     the hotkeys mode on.
+  - Or leave the material in your other hand or on the ground beside you
+    and press Shift-C (Ctrl-Shift-C in typing mode).
 
-This will bring up the crafting menu for a given material - a list of
-recipes for the items that can be made with this material at the present
-moment. **Many recipes require a certain research level, otherwise they
-will not be available!** Check the **[Full Crafting List](../Full_Crafting_List.md)** for an item's research requirements. If you belong to a faction, you can see the current
+This will bring up the **Crafting** window for a given material. Its
+recipes are sorted into **Ready**, **Missing something** and **Not
+learned yet**. Click a recipe to see what it needs, then press **Craft**;
+nothing is spent before that. Double-click a ready recipe to make one
+straight away. **Many recipes require a certain research level, otherwise they
+will not be ready!** Check the **[Full Crafting List](../Full_Crafting_List.md)** for an item's research requirements. If you belong to a faction, you can see the current
 research levels on the Character tab. If you are not a part of a
 faction, checking the current epoch on the Status tab will give you a
 general idea about the available recipes.
+
+A recipe under **Not learned yet** says which technology it needs. Select
+it and press **View in tech tree**: the tech tree opens on that
+technology, with the ones you still have to learn first outlined in
+orange. Press **Details** to see its groundwork and what it unlocks.
+
+Below the recipes, **Use a tool or station on it** lists the other ways
+to turn the material into something else, such as scraping a raw hide
+with a knife or sawing logs. Click one to see what it makes, which tool or
+station it needs, whether you have one in your hands, on you or next to
+you, and the steps. These are done in the world, not from the window:
+hold the tool and use it on the material. **Open in Atlas** shows the
+full page.
 
 Some recipes also become obsolete over time and, consequently, are
 removed from the list in the later epochs.
@@ -96,7 +114,7 @@ Crafting anything increases your crafting skill which is displayed on
 the Character tab. Some recipes and workbenches require a certain level
 of the crafting skill, the former to craft an item and the latter to use
 them. For example, building a well or a wall requires the skill at the
-1.1 mark, while using an anvil requires 1.7. 
+1.1 mark, while using an anvil requires 1.2. 
 
 See this **[table](../Crafting_Skill_Level_Requirements.md)** for more info on skill requirements.
 
@@ -143,7 +161,7 @@ Pioneers, only the Blacksmith can use the anvil.
 <tr>
 <td><img src="../images/hammer.png"> <img src="../images/clawhammer.png"></td>
 <td><b>Hammer</b></td>
-<td>Made with 5 wood logs. Used to deconstruct floors, fences, beds, chairs, tables, braziers, wooden roof supports and many other things - click something with a hammer to see whether it could be deconstructed. Also used to fix and unfix custom signs, paintings and mirrors in place. A clawhammer (the bottom one) is made with 3 iron ingots and functions as a modern and quicker variant of the hammer. Also, do not be surprised if you see your local <b><a href="Guide_to_Cooking.md#kitchen-implements">chef</a></b> brandishing one.</td>
+<td>Made with 5 wood logs. Used to deconstruct floors, fences, beds, chairs, tables, braziers, wooden roof supports and many other things - click something with a hammer to see whether it could be deconstructed. Also used to fix and unfix custom signs, paintings and mirrors in place. A clawhammer (the bottom one) is made with 3 iron ingots and a wood handle and functions as a modern and quicker variant of the hammer. Also, do not be surprised if you see your local <b><a href="Guide_to_Cooking.md#kitchen-implements">chef</a></b> brandishing one.</td>
 </tr>
 <tr>
 <td><img src="../images/bone_shovel.png"> <img src="../images/shovel.png"></td>
@@ -178,7 +196,7 @@ Pioneers, only the Blacksmith can use the anvil.
 <tr>
 <td><img src="../images/ore_collector.png"></td>
 <td><b>Ore collector</b></td>
-<td>Made with 5 leather sheets. Used to pick up ore from the ground in a more efficient manner. Have the ore collector in your active hand, stand over the ore on the ground, then click the collector, or press Ctrl-Z or Z in the hotkeys mode. The ore will be put in the collector whose ingenious design allows to exceed the normal stacking limit (50 units per one stack) for its contents.</td>
+<td>Made with 2 leather sheets. Used to pick up ore from the ground in a more efficient manner. Have the ore collector in your active hand, stand over the ore on the ground, then click the collector, or press Ctrl-Z or Z in the hotkeys mode. The ore will be put in the collector whose ingenious design allows to exceed the normal stacking limit (50 units per one stack) for its contents.</td>
 </tr>
 <tr>
 <td><img src="../images/engine_maker.png"></td>
@@ -191,7 +209,7 @@ Pioneers, only the Blacksmith can use the anvil.
 ### More tools and everyday items
 
 - **Saw:** 3 iron, in the tools category, once your civilization has reached the Bronze Age. Woodworking and hide work accept it like a hatchet.
-- **Leather gloves:** 3 leather, in the gloves category, in every age.
+- **Leather gloves:** 1 leather, in the gloves category, in every age.
 - **Found items you can now make:** screwdriver, lockpick, legcuffs, tin whistle, police tape, bag valve mask, empty pill pack (fill it by hand with up to 6 pills of one kind), stethoscope, glass jar, small telescope, shamisen, pencil, fancy pen, comb, black and purple lipstick, video camera and bar stools in eight colours, each behind its matching research. Mixing 20 corn oil with 2 lye makes a bar of soap, and 20 olive oil with 2 lye makes deluxe soap (see [Hygiene](Guide_to_Hygiene.md#soap)).
 - **Megaphone:** 3 steel, in the tools category, after Electricity. Hold it in either hand and your speech carries 14 tiles instead of 7.
 - **Glowsticks:** 1 plastic each, in green, blue, red or yellow, after Synthetics. Use one in hand to bend it and it glows for about half an hour. It cannot be switched off, gives off no heat and cannot set anything alight.
@@ -201,6 +219,7 @@ Pioneers, only the Blacksmith can use the anvil.
 - **Motion detector:** 3 electronics, in the tools category, after Digital Computing. Switch it on and hold it. Anything within seven tiles that has just moved shows to you as a blip, even through walls, while anything keeping still stays hidden.
 - **Labels:** with a pen in your hand, right-click a crate, closet, barrel or bag and choose **Write Label** to add up to 24 letters to its name. Leave the label empty to remove it.
 - **Crafted flint axes and stone hatchets** go straight into your empty active hand when possible.
+- **Wood handles:** hafted tools use up one wood handle held in your hands or worn: hatchets, pickaxes, shovels, spears (not the wood spear), the battle axe, the stone rammer, stone adze and stone-headed club, metal hammers and the clawhammer, metal hoes, the pitchfork and the fire hook. The Crafting window lists the handle with a tick once you have one, and keeps the recipe out of **Ready** until then. The handle's wood carries into the tool: see [Component work tools](#component-work-tools) below.
 
 ## Resources
 
@@ -293,10 +312,10 @@ See [Harvesting dead animals](Guide_to_Ranching.md#harvesting-dead-animals) for 
 <tr>
 <td><img src="../images/animal_fat.png"></td>
 <td><b>Animal fat</b></td>
-<td>Harvesting gives at most two fat portions where the animal's fat rules allow it, through either intent. Animal fat is used to produce <b>lard</b>, which, in turn, is used to produce <b>fat oil</b>.<br>
+<td>How much fat an animal gives depends on the animal, through either intent: a wolf or fox gives 1 piece, a sheep, goat or deer 2, a cow, pig or elk 3, a bison, camel or bear 4, a polar bear 5 and a mammoth 8. Young animals give little or none, and a skilled hunter cuts more. Animal fat is used to produce <b>lard</b>, which, in turn, is used to produce <b>fat oil</b>.<br>
 To make <b>lard</b>, take animal fat and click any vessel like barrels, buckets or cooking pots with it. 1 animal fat = 10u of lard.<br>
 To make <b>fat oil</b>, put lard into a cooking pot (a copper one, for instance) and cook it on a campfire or an oven (like boiling water). Every 2u of lard will produce 1u of fat oil.<br>
-Fat oil and lard are used in <b><a href="Guide_to_Cooking.md">cooking</a></b> and <b><a href="../Miscellaneous_Crafting.md">manufacturing</a></b>. Fat oil can also be used as fuel for lanterns and the hot bulb engine.
+Fat oil and lard are used in <b><a href="Guide_to_Cooking.md">cooking</a></b> and <b><a href="../Miscellaneous_Crafting.md">manufacturing</a></b>. Animal fat, lard and fat oil all burn in <b><a href="../Starter_Guide.md#night-time">torches and lamps</a></b>; 1u of fat oil gives as much light as 2u of lard. Fat oil is also fuel for the hot bulb engine. Raw fat spoils quickly, lard and fat oil keep.
 </td>
 </tr>
 </tbody>
@@ -427,13 +446,24 @@ holding a hammer in the other hand.
 
 ### Component work tools
 
-For Gunsmithing-era firearm parts, see [Flintlock parts assembly](Guide_to_Weapons.md#flintlock-parts-assembly).
+For making guns in every era, see the [Guide to Gunsmithing](Guide_to_Gunsmithing.md). For Gunsmithing-era firearm parts, see [Flintlock parts assembly](Guide_to_Weapons.md#flintlock-parts-assembly).
 
 For optic rails, attachment tools and repair limits, see [Firearm maintenance and configuration](Guide_to_Weapons.md#firearm-maintenance-and-configuration).
 
-Combine a pickaxe, shovel or hatchet head with a handle using the head-on-handle interaction. The ordinary wood handle costs **1 plank**; the **plank handle** costs **2 planks**, and the **reinforced handle** costs **2 iron ingots** with the wrench's research threshold. Head recipes and their own requirements still apply.
+Combine a pickaxe, shovel or hatchet head with a handle using the head-on-handle interaction. The ordinary wood handle costs **1 plank**; the **plank handle** costs **2 planks**, the **reinforced handle** costs **2 iron ingots** with the wrench's research threshold, and the **plastic handle** costs **2 plastic sheets** from a [bakelizer](#bakelizer). Head recipes and their own requirements still apply.
 
-The assembled tool retains both component materials and qualities. Its quality is the lower input quality, bounded from 0.5 to 2, and its condition starts at the worse input condition. A better handle cannot erase damage or upgrade a crude head's quality. Handle integrity affects capacity; handle weight affects shovel and pickaxe work speed, while head hardness also affects pickaxe speed. These tradeoffs change work duration and durability, not mineral yield. Hatchet tree-chopping delays keep their existing behavior.
+The handle you use shapes the finished tool, whether you fit a head by hand or craft the tool from a recipe:
+
+| Handle | Cost | Tools built on it |
+| --- | --- | --- |
+| Wood handle | 1 plank | The usual durability and speed |
+| Plank handle | 2 planks | Last 35% longer and work 35% faster |
+| Reinforced handle | 2 iron ingots | Last 50% longer at the usual speed |
+| Plastic handle | 2 plastic sheets | Last 40% longer and work 40% faster |
+
+Speed counts for pickaxes, shovels and hoes. Examine a handle to see what it gives.
+
+The assembled tool retains both component materials and qualities. Its quality is the lower input quality, bounded from 0.5 to 2, and its condition starts at the worse input condition. A better handle cannot erase damage or upgrade a crude head's quality. Head hardness also affects pickaxe speed. These tradeoffs change work duration and durability, not mineral yield. Hatchet tree-chopping delays keep their existing behavior.
 
 Examine an assembled tool to see its components. Existing tools keep their stats. This assembly does not add repair or disassembly; spear and combat-axe assembly remain separate.
 
@@ -462,7 +492,7 @@ Each of these stations is set to one recipe at a time. Click it with an empty ha
 
 **Fletcher's bench.** Pick **Arrows** or **Crossbow bolts**. Load up to 20 bare shafts by hand, or use **Load shafts from floor** to gather them from your tile and the bench's tile. Then load one stack of arrowheads (stone, copper, iron, bronze, steel or vial) or several pieces of sharpened flint. Only one kind of head fits at a time. **Fletch** fits every shaft that has a head in one action, half a second per shaft.
 
-**Toolsmith's bench.** A shortcut past the separate head and handle steps. Ore is not accepted, so smelt it first. Place the bench next to an anchored anvil: the anvil decides which metals you can work, so a stone anvil can't take iron and steel needs a steel anvil. You need the same Crafting skill (1.20x) and, on faction maps, the same blacksmith job as the anvil. Load one stack of copper, bronze, iron or steel and one stack of soft wood, then **Make tools**. Each tool takes 10 seconds plus 1.5 seconds per metal sheet, and one action makes up to five. Cancelling keeps the tools already made and the unused stock. Battle axes follow the anvil head's era limit.
+**Toolsmith's bench.** A shortcut past the separate head and handle steps. Ore is not accepted, so smelt it first. Place the bench next to an anchored anvil: the anvil decides which metals you can work, so a stone anvil can't take iron and steel needs a steel-faced or steel anvil. You need the same Crafting skill (1.20x) and, on faction maps, the same blacksmith job as the anvil. Load one stack of copper, bronze, iron or steel and one stack of soft wood, then **Make tools**. Each tool takes 10 seconds plus 1.5 seconds per metal sheet, and one action makes up to five. Cancelling keeps the tools already made and the unused stock. Battle axes follow the anvil head's era limit.
 
 **Casting foundry.** Available from the 1873 era with Machined Tools. Melt copper, bronze, iron or steel in a fired blacksmith pot or jug in a kiln as usual, set the vessel in the foundry and load soft wood. **Make tools** pours and casts up to ten tools per action, 3 seconds plus 1.5 seconds per unit of metal each. No anvil or smithing skill is needed. Pouring empties the vessel as it goes, and **Retrieve / cancel** gives back the vessel with what is left in it.
 
@@ -670,7 +700,7 @@ level of the crafting skill before you are able to use them.
 <tr>
 <td width="5%"><img src="../images/retting_trough.png"></td>
 <td width="10%"><b>Retting trough</b></td>
-<td>Made with 8 wood logs. Used to soak fiberous plants into retted fabric. Two units of cotton or flax produce one bundle of retted fabric, which could be turned into <b><a href="../Full_Crafting_List.md#cloth">Cloth</a></b> at the <b><a href="Guide_to_Crafting.md#loom">loom</a></b>.</td>
+<td>Made with 8 wood logs. Used to soak fiberous plants into retted fabric. Two units of cotton or flax produce one bundle of retted fabric, which could be turned into <b><a href="../Full_Crafting_List.md#cloth">Cloth</a></b> at the <b><a href="Guide_to_Crafting.md#loom">loom</a></b>. Each batch soaks in 30 units of water; the trough holds 90. Pour water in with a bucket, pipe it in, or build the trough beside running water (a river with a current, an aqueduct channel, a fountain, a tap or a sink).</td>
 </tr>
 </tbody>
 </table>
@@ -694,70 +724,10 @@ level of the crafting skill before you are able to use them.
 <tr>
 <td width="5%"><img src="../images/gunbench.png"></td>
 <td width="10%"><b>Gunsmithing bench</b></td>
-<td><b>Skill required: 1.5 + Blueprint</b><br />
-Made with 13 wood logs. Used to assemble custom firearms from separate parts starting from the Early Modern age (1903) and to rechamber guns to a different caliber (click the bench with the gun).
-<ul>
-<li>Take some steel sheets and wood logs and click the bench with them.</li>
-<li>If you have a weapon blueprint, click the bench with it to assemble that weapon.</li>
-<li>If you don't have a blueprint, but have high enough skill (2.5), click the bench with an empty hand while holding 50 gold coins (or equivalent) in the other hand to design a new firearm along with producing a blueprint.</li>
-<li>You will see the list of weapon parts and the amount of materials you have placed. You need to choose a different part at every step. The increase in the material cost, compared to the amount of materials at hand, is displayed after each step. See the tables below for more information on specific parts and their availability in different ages.</li>
-<li>When you have finished choosing the parts, you can select whether you want to use a specific design for the weapon.</li>
-<li>Name the firearm to finish the assembly. The blueprint will also be named the same as the weapon.</li>
-</ul></td>
-</tr>
-<tr>
-<td width="5%"><img src="../images/blueprint.png"></td>
-<td width="10%"><b>Blueprint</b></td>
-<td><b>Skill required: 2.5 + 50 gold coins (or equivalent)</b><br />
-A weapon blueprint is produced every time you design and assemble a firearm at the gunsmithing bench. A blueprint could be used to assemble the previously designed firearm by someone with the lower skill level.</td>
+<td>Made with 13 softwood after <b>Gunsmithing</b>. From WW1 on, design your own gun from a stock, receiver, feeding system and barrel, paid for with wood and steel loaded onto the bench. Designing needs a Crafting skill of 2.5x and gives you a <b>blueprint</b>; anyone with 1.5x can then build copies from the blueprint. Click the bench with a gun to rechamber it to another caliber. The parts on offer grow with Cartridge Firearms, Self-Loading Firearms and Automatic Weapons research; see <a href="Guide_to_Gunsmithing.html#the-gunsmithing-bench">the gunsmithing bench</a> for every part and its cost.</td>
 </tr>
 </tbody>
 </table>
-
-<b>Stock</b>
-
-| Type                 | Available | Pros                                              | Cons                                               | Cost           |
-| -------------------- | --------- | ------------------------------------------------- | -------------------------------------------------- | -------------- |
-| Rifle wooden stock   | 1903      | Cheap, stable, accurate                           | Heavy, slow to equip                               | 7 wood logs    |
-| Carbine wooden stock | 1903      | Cheap, good stability                             | Somewhat heavy, less accurate than the rifle stock | 5 wood logs    |
-| Pistol grip          | 1903      | Cheap                                             | Very low stability                                 | 3 steel sheets |
-| Steel stock          | 1943      | Cheap, stable, faster to equip than wooden stocks | Somewhat heavy                                     | 5 steel sheets |
-| Folding stock        | 1979      | Switchable between folded and extended            | Less accurate than fixed stocks even if extended   | 7 steel sheets |
-
-<b>Receiver</b>
-
-| Type                  | Available | Pros                                                | Cons                                                                                 | Cost            |
-| --------------------- | --------- | --------------------------------------------------- | ------------------------------------------------------------------------------------ | --------------- |
-| Bolt-action           | 1903      | Very cheap and accurate                             | Slow reloading (needs to open and close after each shot)                             | 5 steel sheets  |
-| Revolver              | 1903      | Cheap                                               | Reloading slower than semi-automatic pistols; feeding system restricted to revolving | 4 steel sheets  |
-| Small semi-automatic  | 1903      | Somewhat cheap, good for pistols                    | Small range, not very accurate                                                       | 6 steel sheets  |
-| Pump-action           | 1903      | Cheap, reloading faster than bolt-action            | Somewhat slow reloading; feeding system restricted to tubular                        | 5 steel sheets  |
-| Small open bolt       | 1943      | Cheapest fully automatic option                     | Fully automatic only, limited accuracy                                               | 8 steel sheets  |
-| Large semi-automatic  | 1943      | Decent accuracy                                     | Expensive                                                                            | 8 steel sheets  |
-| Large open bolt       | 1943      | High rate of fire                                   | Very expensive, inaccurate                                                           | 11 steel sheets |
-| Dual selective fire   | 1979      | Switchable between semi- and fully automatic        | Very expensive                                                                       | 13 steel sheets |
-| Triple selective fire | 1979      | Switchable between semi-, burst and fully automatic | Very expensive                                                                       | 15 steel sheets |
-
-<b>Feeding system</b>
-
-| Type              | Available | Pros                                                      | Cons                             | Cost            |
-| ----------------- | --------- | --------------------------------------------------------- | -------------------------------- | --------------- |
-| Internal magazine | 1903      | Cheap, can be clip-fed                                    | Low capacity (5 rounds)          | 4 steel sheets  |
-| Tubular           | 1903      | Cheap, higher capacity than internal magazines (8 rounds) | Slow reloading, cannot use clips | 5 steel sheets  |
-| Revolving         | 1903      | Cheap                                                     | Very slow reloading              | 3 steel sheets  |
-| External magazine | 1943      | Fast reloading                                            | Somewhat expensive               | 8 steel sheets  |
-| Large magazine    | 1943      | Accepts high-capacity drum magazines                      | Expensive                        | 10 steel sheets |
-| Open (belt-fed)   | 1943      | Very high capacity                                        | Inaccurate and unstable          | 6 steel sheets  |
-
-<b>Barrel</b>
-
-| Type       | Available | Pros                                                  | Cons                                       | Cost           |
-| ---------- | --------- | ----------------------------------------------------- | ------------------------------------------ | -------------- |
-| Pistol     | 1903      | Cheap                                                 | Lowest range                               | 4 steel sheets |
-| Carbine    | 1903      | Faster to equip than rifle barrels, decent accuracy   | Low range                                  | 5 steel sheets |
-| Rifle      | 1903      | Accurate                                              | Somewhat expensive, somewhat slow to equip | 6 steel sheets |
-| Long rifle | 1943      | Most accurate                                         | Slow to equip                              | 7 steel sheets |
-| Air-cooled | 1943      | Required for machine guns to prevent frequent jamming | Expensive                                  | 9 steel sheets |
 
 ## Projectiles and Gunpowder
 
@@ -866,7 +836,7 @@ that see the **[Guide to Chemistry](Guide_to_Chemistry.md)**.
 
   - Make iron bullets with iron ingots. Attach the bullets to the casings by clicking them with the bullets. Each bullet needs a casing that already holds its powder.
   - Use the casings in hand and choose the cartridge. Every casing with powder and a bullet becomes a round; the rest stay in the stack. Rifle and pistol rounds can be normal, hollow point or armor-piercing, while shotgun shells have one load.
-  - Which cartridges you can load depends on your firearms research: Rifling teaches the early revolver, rifle and shotgun rounds, Cartridge Firearms the WW1 rifle and pistol rounds and the machine-gun loads, Self-Loading Firearms the WW2 rounds and Automatic Weapons the modern ones. Belt and strip machine guns take only their machine-gun load. Heavy machine-gun rounds cannot be loaded by hand.
+  - Which cartridges you can load depends on your firearms research: Rifling teaches the early revolver, rifle and shotgun rounds, Cartridge Firearms the WW1 rifle and pistol rounds and the machine-gun loads, Self-Loading Firearms the WW2 rounds and Automatic Weapons the modern ones. Belt and strip machine guns take only their machine-gun load. Heavy machine-gun rounds cannot be loaded by hand; they come from a fabricator in [ammo cans](Guide_to_Weapons.md#emplaced-machine-guns).
   - Splitting or combining a stack of filled casings keeps the powder and bullets with the casings.
 
 **Smokeless powder:** once you know Cartridge Firearms, you can fill pistol and rifle casings with smokeless powder instead of gunpowder. Each unit counts as two units of gunpowder, so a rifle casing needs 0.75 and a pistol casing 0.5. If the container also holds gunpowder, the smokeless powder is poured first and gunpowder tops up the rest. Smokeless powder needs no sulfur once you have a flask of sulphuric acid:
@@ -877,7 +847,7 @@ that see the **[Guide to Chemistry](Guide_to_Chemistry.md)**.
 
 Muskets, cannons and musket-ball cartridges still need ordinary gunpowder.
 
-**Recovering brass:** fired pistol and rifle cartridges, and spent shotgun shells, can be loaded again. Use a spent casing in hand to turn it into an empty casing, or click spent casings (or the tile they lie on) with a stack of empty casings of the same size to gather them all. Shotgun shells count as rifle casings. Live rounds and casings still in a box, magazine or gun are left alone.
+**Recovering brass:** fired pistol and rifle cartridges, and spent shotgun shells, can be loaded again. Use a spent casing in hand to turn it into an empty casing, or click spent casings (or the tile they lie on) with a stack of empty casings of the same size to gather them all. Shotgun shells count as rifle casings. Live rounds and casings still in a box, magazine or gun are left alone. Semi-automatic and automatic guns, machine guns included, throw each spent casing onto the tile you fire from, where casings of the same cartridge gather into one heap of up to 30. Picking up a heap takes one casing, and a stack of empty casings gathers the whole heap at once. Bolt, lever and pump guns drop theirs when you work the action, and revolvers keep theirs until you unload them. A tank gun leaves an empty cannon casing of the shell's calibre after each shot, and a field gun leaves an empty artillery casing. Both can be filled again.
 
 ## Machinery
 
@@ -1076,6 +1046,17 @@ electrical cables.
     connected to the existing network, the generator must be restarted
     to power the new element.
 
+### Aluminium
+
+Aluminium is a light metal for vehicle hulls, aircraft and cable. Its ore, **bauxite**, comes from mined rock from the Industrial age (twice as often under jungle or savanna; see [Resource Extraction](Guide_to_Resource_Extraction.md#each-continents-ores)) and from stone crushers. Both machines below unlock with **Aluminium Refining** research (needs Electricity and Alloys), are built from steel, and run on [cable power](#wiring). Factory arms can load them.
+
+| Machine | Steel | Power | In | Out |
+| --- | ---: | ---: | --- | --- |
+| Alumina digester | 15 | 10 | 2 bauxite and 1 unit of sodium hydroxide or lye | 1 alumina |
+| Reduction pot | 20 | 40 | 1 alumina, and 1 coal or charcoal for every 2 ingots | 1 aluminium ingot |
+
+Use bauxite or alumina and coal or charcoal on the machine to load it, and pour the caustic into the digester. Each batch takes about 10 seconds. A machine without power waits, and one that runs out of an input stops. The digester leaves a puddle of red mud every 10 batches. The reduction pot draws about everything a steam engine gives, so plan a real power plant. Alumina fired in a kiln makes ceramic tiles for [composite armour](#composite-armour).
+
 ## Electronic circuits
 
 <table>
@@ -1119,30 +1100,59 @@ Instead of feeding everything in at once, a car can be built a piece at a time, 
 | Windows | 1 | 6 / 8 glass |
 | Seats | 1 | 4 / 6 cloth |
 
-Hit the workshop or any part of the car in the bay with the stack the next piece needs, and drag wheels onto either. A short stack is set aside towards the piece, and a long one keeps what it does not use. Examine the workshop or the car to see what the next piece needs. Fitting pieces needs no power. When the last piece is on, clear the bay of people and loose items, then choose **Roll out**. This draws **20 power** like an ordinary assembly, and the car comes out with its key and an empty tank. A car built this way costs the same as one built in one go. A half-built car survives saves. **Abandon** clears the jig, and everything fitted so far is lost.
+Hit the workshop or any part of the car in the bay with the stack the next piece needs, and drag wheels onto either. A short stack is set aside towards the piece, and a long one keeps what it does not use. Examine the workshop or the car to see what the next piece needs. Fitting pieces needs no power. When the last piece is on, clear the bay of people and loose items, then choose **Roll out**. This draws **20 power** like an ordinary assembly, and the car comes out with its key and an empty tank. A car built this way costs the same as one built in one go. A half-built car survives saves. **Abandon** clears the jig and stacks every material fitted so far, along with anything paid towards the next piece, by the workshop.
 
 #### Trucks, carriers and tanks
 
-The workshop also builds ten heavier or military vehicles. They are only built **piece by piece**, the same way as a car: choose **Start a MODEL piece by piece** and bring each piece in turn. The scout car, field car and cargo truck need only the workshop's own research. The main battle tank needs **Modern Armor**, and the rest need **Mechanized Warfare**, before the project can start.
+The workshop also builds eleven heavier or military vehicles. They are only built **piece by piece**, the same way as a car: choose **Start a MODEL piece by piece** and bring each piece in turn. The scout car, field car, cargo truck and double-decker bus need only the workshop's own research. The main battle tank needs **Modern Armor**, and the rest need **Mechanized Warfare**, before the project can start.
 
 | Model | Size | Chassis and bodywork (4 pieces, each) | Running gear | Engine | Windows | Seats | Turret and gun | Total steel |
 | --- | --- | ---: | --- | --- | ---: | ---: | ---: | ---: |
 | Scout car | 2x3 | 10 steel | 4 wheels | 10 steel, 10 cable | 4 glass | 4 cloth | - | 50 |
-| Field car | 2x3 | 18 steel | 4 wheels | 18 steel, 10 cable | 6 glass | 4 cloth | - | 90 |
-| Cargo truck | 2x4 | 16 steel | 4 wheels | 16 steel, 10 cable | 8 glass | 6 cloth | - | 80 |
+| Field car | 2x3 | 14 steel | 4 wheels | 14 steel, 10 cable | 6 glass | 4 cloth | - | 70 |
+| Cargo truck | 2x4 | 22 steel | 4 wheels | 22 steel, 10 cable | 8 glass | 6 cloth | - | 110 |
+| Double-decker bus | 2x5 | 22 steel | 4 wheels | 22 steel, 12 cable | 14 glass | 10 cloth | - | 110 |
 | Armoured car | 2x3 | 24 steel | 4 wheels | 24 steel, 10 cable | - | 4 cloth | - | 120 |
 | Tankette | 2x3 | 28 steel | 4 tank tracks | 28 steel, 10 cable | - | 4 cloth | - | 140 |
-| Tracked carrier | 3x4 | 36 steel | 4 tank tracks | 36 steel, 12 cable | - | 6 cloth | - | 180 |
-| Light tank | 2x4 | 30 steel | 4 tank tracks | 30 steel, 12 cable | - | 4 cloth | 70 steel | 220 |
+| Tracked carrier | 3x4 | 28 aluminium | 4 tank tracks | 40 steel, 12 cable | - | 6 cloth | - | 40 (and 112 aluminium) |
+| Light tank | 2x4 | 30 steel | 4 tank tracks | 30 steel, 12 cable | - | 4 cloth | 40 steel | 190 |
 | Medium tank | 3x4 | 46 steel | 4 tank tracks | 46 steel, 14 cable | - | 6 cloth | 70 steel | 300 |
-| Heavy tank | 3x4 | 62 steel | 4 tank tracks | 62 steel, 14 cable | - | 6 cloth | 70 steel | 380 |
-| Main battle tank | 3x4 | 78 steel | 4 tank tracks | 78 steel, 16 cable | - | 6 cloth | 70 steel | 460 |
+| Heavy tank | 3x4 | 62 steel | 4 tank tracks | 62 steel, 14 cable | - | 6 cloth | 100 steel | 410 |
+| Main battle tank | 3x4 | 78 steel | 4 tank tracks | 78 steel, 16 cable | - | 6 cloth | 130 steel | 520 |
+
+The double-decker bus is longer than the usual bay: its project needs a clear **5x5** square to the workshop's northeast. Stairs inside it lead up to the **upper deck**: stand on them and click them to go up, and click them again from above to come back down. See [Combat](Guide_to_Combat.md#cover) for riding on top of vehicles.
 
 Tracked models take **tank tracks** in place of wheels: craft them from steel in the vehicle parts category and drag each one onto the workshop or the vehicle. A rubber wheel will not do for a track. The turret and gun are the last piece of a tank.
 
 Like cars, they roll out with a key and an **empty fuel tank**. Shell racks come empty and no machine guns, ammunition or supplies are included, so bring your own shells and fuel before you take a tank out.
 
 A tank's turret is the same **tank turret** players craft, already fitted with a tank cannon and a gunner's and a loader's seat. Every vehicle in this table counts as hand-built, so its owners can click the axis to pick a **Turret style**, **Fit new parts** such as a commander's seat stood on the turret's tile, or **Take it apart** and rebuild it, as described under [Modular tanks](#modular-tanks).
+
+#### Aluminium hulls
+
+Once you know **Aluminium Refining**, starting any of these projects asks whether to build the hull in **steel** or **aluminium**. An aluminium hull pays four fifths of the chassis and bodywork steel in [aluminium](#aluminium) ingots; the engine and the turret and gun stay steel. It weighs about half as much as steel, so the vehicle drives faster, but its walls stop fewer shots (about 0.6 of the armour) and break a little sooner. The tracked carrier is always aluminium.
+
+What a vehicle carries also sets its pace. A vehicle with a normal load drives at its usual speed. Heavy cargo or extra people standing on the deck slow it down, and a light hull speeds it up; a very light vehicle gets one extra top gear. Someone sitting in a seat counts half as much as someone standing. Examine a vehicle's frame to see how its load affects it.
+
+#### Composite armour
+
+With **Composite Armour** research (Military, needs Modern Armor and Mechanized Warfare) you can plate any armoured vehicle wall:
+
+1. Put **alumina** in a lit kiln. Each firing turns every measure of alumina in it into one **ceramic armour tile**, up to 40 at a time.
+2. Use a stack of tiles on **prepared Kevlar**: two tiles and one sheet bond into a **composite armour panel**.
+3. Use a panel on a frame of a tank, armoured car, carrier or other vehicle with armoured walls, choose the wall, and wait a few seconds.
+
+Each wall takes one panel. It adds half the wall's armour again (at least 20) and some health, and weighs half what that much extra steel would, so a plated tank is much tougher but a little slower. Examining the frame shows which walls are covered.
+
+#### Breaking a vehicle down for parts
+
+A press can take back what it builds. This works at the automobile workshop, the aircraft hangar and the other vehicle presses.
+
+1. Park the vehicle wholly in the square northeast of the press. Stop it, turn the engine off and get everyone out.
+2. Use the press and choose **Break down the (its name) for parts**. A keyed vehicle needs its key in your hand. A vehicle with no key can only be broken down by a player with a verified Discord account.
+3. A window says what goes back and how long it takes. Nothing starts until you choose **Yes**. Stay by the press while it works.
+
+Everything it cost to build goes back into the press's stock, less for damaged parts. Use **Unload inputs** to take the materials out. Anything in its boot or hold and anything else loose aboard is set down by the press. A vehicle the press cannot draw on a sheet is refused, so take that one apart by hand.
 
 ### Vehicle garage
 
@@ -1166,7 +1176,7 @@ Every depot in a land opens onto the same safe house, so you can ship at one and
 
 #### Safe house rooms
 
-Your safe house has six rooms, and you can build each one up to **level 3**. Click a depot and choose **Safe house rooms and work**. The supplies come from what you hold and from **closed crates** pushed next to the depot. They are taken as soon as you pick an upgrade or a job.
+Your safe house has five rooms, and you can build each one up to **level 3**. Click a depot and choose **Safe house rooms and work**. The supplies come from what you hold and from **closed crates** pushed next to the depot. They are taken as soon as you pick an upgrade or a job.
 
 | Room | Level 1 | Level 2 | Level 3 | What it does |
 | --- | --- | --- | --- | --- |
@@ -1175,7 +1185,6 @@ Your safe house has six rooms, and you can build each one up to **level 3**. Cli
 | **Infirmary** | 20 wood, 10 cloth | 20 cloth, 10 glass | 10 steel, 20 glass | rolls bandages or gauze; carves splints; packs trauma kits |
 | **Kitchen** | 20 wood, 20 stone | 10 iron, 20 stone | 10 steel, 10 glass | dries meat; bakes hardtack; cures hams |
 | **Still** | 20 wood, 10 copper | 20 copper, 10 glass | 10 steel, 20 glass | brews beer; distils vodka; distils whiskey |
-| **Contacts desk** | 10 wood, 100 silver coins | 50 gold coins | 150 gold coins | 5% better prices per level from the [specialist traders](Guide_to_Traders.md), when you buy and when you sell |
 
 Each level of the workshop, infirmary, kitchen and still unlocks one more kind of work:
 
@@ -1201,21 +1210,21 @@ Work runs in real time, so it carries on while you are offline. Each room does o
 
 <hr>
 
-A **pedal bicycle** is a one-person vehicle that runs on your own legs: no engine, no fuel. Build it from **12 steel** in the "vehicle parts" category. It needs the **Factories** node of the [tech tree](Guide_to_Research.md) ([legacy research](../gamemodes/Civilizations_and_Nomads.md#research): Industrial 95).
+A **pedal bicycle** is a one-person vehicle that runs on your own legs: no engine, no fuel. Build it from **8 steel**, two **wheels** and a **drive belt or chain**, with a wrench to hand, in the "vehicle parts" category. The wheels and the belt are [machine parts](Guide_to_Tool_Materials.md#machine-parts) and can be in your other hand or at your feet. Built from 8 aluminium instead, the bicycle is about 15% quicker. A wooden **running bike** (6 wood and two wheels, Carts research) has no pedals: you ride it the same way, more slowly. It needs the **Factories** node of the [tech tree](Guide_to_Research.md) ([legacy research](../gamemodes/Civilizations_and_Nomads.md#research): Industrial 95).
 
-![Offline render using Civ13 sprites: the pedal bicycle on a road, parked and ridden, facing each direction](../images/civ13-pedal-bicycle-sprites.png)
+![The pedal bicycle on a road, parked and ridden, facing each direction](../images/civ13-pedal-bicycle-sprites.png)
 
-The bicycle parked (top) and ridden (bottom). Offline render using Civ13 sprites, not a live screenshot.
+The bicycle parked (top) and ridden (bottom).
 
 1.  With one hand free, click-drag your character onto the bicycle. You take the **handlebars** in that hand.
-2.  **Press Z** (use the handlebars) to start pedaling, and steer with the direction keys. The bicycle keeps rolling the way you face.
+2.  **Press Z** (use the handlebars) to start pedaling, and steer with the direction keys. The bicycle keeps rolling the way you face, gliding smoothly rather than jumping from tile to tile. When you turn it keeps its sideways place, so you can line it up anywhere.
 3.  **Press C**, or Z again, to brake. Click the bicycle to get off.
 
 What makes it fast or slow:
 
 | Condition | Effect |
 | --- | --- |
-| Roads, built floors, tamped earth | Full pace: a little quicker than running, for half the stamina |
+| Roads, built floors, tamped earth | Full pace: a little quicker than running, for half the stamina. A car or a large motorcycle is faster still |
 | Grass, dirt, sand and other natural ground | A quarter slower and a quarter more tiring |
 | Lying snow | Slower still |
 | Carried weight | The more you wear and carry, bags included, the slower you go and the more stamina each tile costs. At your full carrying capacity the bicycle takes twice as long per tile, and it bottoms out at four times |
@@ -1230,9 +1239,9 @@ Pedaling stops when you run out of stamina, let go of the handlebars, or meet so
 
 A **pedal airship** is a one-person gas bag over a basket, with a propeller you turn with your own legs. Build it from **30 cloth** in the "vehicle parts" category. It needs the **Factories** node of the [tech tree](Guide_to_Research.md) ([legacy research](../gamemodes/Civilizations_and_Nomads.md#research): Industrial 95). It only flies where [aircraft](Guide_to_Aircraft.md) can; anywhere else it stays on the ground.
 
-![Offline render using Civ13 sprites: the pedal airship on grass, landed and ridden, facing each direction](../images/civ13-pedal-airship-sprites.png)
+![The pedal airship on grass, landed and ridden, facing each direction](../images/civ13-pedal-airship-sprites.png)
 
-The airship landed (top) and ridden (bottom). Offline render using Civ13 sprites, not a live screenshot.
+The airship landed (top) and ridden (bottom).
 
 1.  With one hand free, click-drag your character onto the airship. You take the **tiller** in that hand.
 2.  **Press C** to rise. It takes a few seconds and a little stamina, and needs open sky straight above: no roof or upper floor.
@@ -1249,7 +1258,23 @@ The airship landed (top) and ridden (bottom). Offline render using Civ13 sprites
 | Upper floors and the map edge | It stops in front of them, unharmed |
 | Out of stamina | You stop pedaling and hover until you have rested |
 
-The airship never drops you. If you are pulled from the seat or killed in the air, or the airship is destroyed, it drifts down to the nearest clear ground and nobody is hurt by the landing. Things you drop from it do fall. You need both legs and feet, and you cannot pedal while cuffed.
+If you are pulled from the seat or killed in the air, or the airship is destroyed, it drifts down to the nearest clear ground and nobody is hurt by the landing. Over a forest with no clear ground near, it snags in the tree below instead: the gas bag tears on the branches, the rider is thrown down beside the trunk and hurt, and the airship hangs there until the tree is cut down. Things you drop from it do fall. You need both legs and feet, and you cannot pedal while cuffed.
+
+#### Fighting from the basket
+
+In the air you see the ground below. Click a spot or a person on it with a gun or bow to shoot down at them, or throw things at them in throw mode. The shot or throw sets off from right under the basket, so hills do not get in its way, and your own shots never hit your airship. Anything you drop over the side falls on whoever is below, and a dropped glass bottle bursts where it lands. A lit firebomb sets the ground alight.
+
+#### Shooting airships down
+
+From the ground you see an airship's shadow. Bullets and arrows fired across the tile under it, including lobbed arrows, have about an even chance of striking it. About one hit in four comes up through the basket and wounds the rider. The rest hole the gas bag.
+
+| Gas bag | Effect |
+| --- | --- |
+| Each hole | It lifts a fifth less. If you carry more than the holed bag can lift, it sinks to the ground |
+| Four holes | It cannot stay up and sinks to the nearest clear ground. Nobody is hurt |
+| Fire arrows, fire bolts and incendiary slugs | The gas catches fire and the airship falls. The rider is bruised, burnt and set alight |
+
+On the ground, use **cloth** on the airship to stitch a patch over one hole at a time. A burnt gas bag needs six patches. Examine the airship to see how badly it is holed.
 
 ### Motorcycles
 
@@ -1290,6 +1315,7 @@ Mount your bike by click-dragging your icon onto the bike. You can get off by cl
 handle bars in hand (this also shuts off the bike. Two clicks - shut off
 the bike, then another on to get off).You **turn on/increase speed of the
 bike by pressing Z**. You can **stop/decrease speed by pressing C**.
+The bike glides smoothly instead of jumping tile by tile. When you turn, it keeps its sideways place, so you can park it anywhere. Taken out of gear, it rolls on for about half a tile before it stops.
 Drive safe out there!
 
 ### Modular ships
@@ -1300,7 +1326,7 @@ Ships are built tile by tile from ship frames, walls, masts or an engine, a whee
 
 ### Aircraft hangar
 
-Research **Powered Flight**, then craft an aircraft hangar from **40 steel** in the production category. It works like the automobile workshop, with a **4x4** bay to its northeast and 20 power from a cable, and is refused the same way when the bay or cable is missing, and builds a light plane (50 steel, 6 glass, 4 cloth, 8 cable and 4 wheels), a cabin plane, a small trainer or a cargo plane. It can also store up to **2 planes** off the map. Runway is laid from **1 stone** per tile in the roads category. Planes can also be built by hand from **airframe sections**, **airframe controls** and a **pilot's seat** (vehicle parts, Powered Flight), and towed on the ground behind a truck. See **[Aircraft](Guide_to_Aircraft.md)** for building, flying and landing.
+Research **Powered Flight**, then craft an aircraft hangar from **40 steel** in the production category. It works like the automobile workshop, with a **4x4** bay to its northeast and 20 power from a cable, and is refused the same way when the bay or cable is missing, and builds a light plane (50 steel, 6 glass, 4 cloth, 8 cable and 4 wheels), a cabin plane, a small trainer, a cargo plane or a twin-engine plane (in a 5x5 square). It can also store up to **2 planes** off the map. Runway is laid from **1 stone** per tile in the roads category. Planes can also be built by hand from **airframe sections**, **airframe controls** and a **pilot's seat** (vehicle parts, Powered Flight), and towed on the ground behind a truck. See **[Aircraft](Guide_to_Aircraft.md)** for building, flying and landing.
 
 ### Modular tanks
 
@@ -1364,21 +1390,28 @@ wrench to avoid pushing them on accident, but it is not necessary.</b>
       steel, weapons category, Mechanized War) on one of the frames, and
       put the tank cannon and the gunner's, loader's and commander's
       seats on **the same tile**. They are fitted into the turret when
-      you assemble the tank. Examine the turret to see what it holds and
-      what it still needs: it cannot fire without a cannon and a
-      gunner's seat. After assembly, click the axis and choose **Turret
+      you assemble the tank. An [emplaced machine
+      gun](Guide_to_Weapons.md#emplaced-machine-guns) stood on that tile
+      is fitted too, as the turret's second gun. Examine the turret to
+      see what it holds and what it still needs: it cannot fire without
+      a cannon or a machine gun, and a gunner's seat. After assembly, click the axis and choose **Turret
       style** to pick how the turret looks.
 
 6.  **Build a vehicle axis on any frame of the tank** and click it. It
     shows a build sheet: the size of the frame, the parts it found, and
     what the tank still needs before it will drive (an engine, a fuel
-    tank, a driver's seat, a wheel or track on each corner). If the
+    tank, a driver's seat, a wheel or track on each corner). It warns
+    when the engine is too weak for the weight and would stall, when the
+    fuel tank is empty or holds a fuel the engine cannot burn, and notes
+    when there is no vehicle lamp for night driving. If the
     frames cannot be a vehicle, it says why. Choose **Assemble it**, then
     pick which way the front points, a name and a colour. The light axis
     carries 800 weight and the heavy axis 2500.
 
     - Parts you add later: stand them on the tank's frames, click the
       axis and choose **Fit new parts**.
+    - An emplaced machine gun pushed onto any frame rides along with
+      the tank and is manned from behind, as on the ground.
     - To change the tank, stop it, switch the engine off, click the axis
       and choose **Take it apart**. Frames and parts stay where they
       stand, loose, and can be assembled again. A tank registered in its
@@ -1392,3 +1425,19 @@ wrench to avoid pushing them on accident, but it is not necessary.</b>
 <b>Repairs</b>
 
  - Broken tank tracks could be repaired with the welding tool (made with steel.)
+
+#### Drawing a vehicle sheet
+
+Hold a blank **design sheet** (1 soft wood, paper & printing) and a pen or pencil, use the sheet and choose **Draw a vehicle on the sheet**, **Draw a tank on the sheet** or **Draw a plane on the sheet**. All three open the same designer, starting from a field car, a light tank or a light plane. A window shows the vehicle from above, front to the top and its left on the left.
+
+- Above the plan, pick the **axis** (light axis, heavy axis or airframe controls), the size (2 to 5 tiles each way; a plane is 3 wide and 3 to 6 long, or a twin 5 wide and 4 to 6 long), and the **engine**: its kind and its size in cc, as the engine maker makes it.
+- Pick a frame, a wheel or track, or a part from the palette and click tiles to draw it. Each tile holds one frame, a wheel or track under it, and one part: the engine, a fuel tank, a driver's (or pilot's), gunner's, loader's or commander's seat, a turret with a tank cannon and gunner's seat, or a cargo hold. Right-click takes a part off.
+- Selecting or pointing at anything shows what it is, what it is for and how to make it.
+- The figures show its weight empty and with every seat filled, how much it can move, and what it costs. The **Checks** list says what would stop it being assembled or moving (a gap in the frames, a bare corner, no engine, tank or seat, too much weight) as **Fix**, what will be left out or stall with a full crew as **Warning**, and advice as **Note**. Point at a finding to light its tiles.
+- **Save to the sheet** keeps it. Ready-made sheets (a field car, a cargo truck, a light tank, a light plane and a twin transport) are offered under **Start from**. A vehicle sheet can be exported and imported as a design code (C13CAR/...) from the sheet menu or with **Export code** and **Import code** in the window; see [Sharing plans as design codes](Guide_to_Boats.md#sharing-plans-as-design-codes).
+
+To build from it, lay the frames and parts by hand, set the axis down on one of the frames and **use the sheet on the axis** to clip it on. Clicking the axis then compares what is laid out with the sheet tile by tile and lists what is still missing or different. **Assemble it** offers the facing that matches the sheet first. **Unclip the sheet** takes it off again.
+
+To have a press build it instead, **use the sheet on an automobile workshop** (cars, trucks and tanks drawn on a light or heavy axis) or on an **aircraft hangar** (planes). The press reads the sheet's checks and will not build a design that has any **Fix** left. It tells you the cost: the steel and wood of every part on the sheet, the corner wheels taken from the wheels dragged onto the press, and 10 cable for the wiring. Wheels or tracks drawn off the corners are left out and cost nothing. A tank's turret or tracks need **Mechanized Warfare**, and a twin-engine plane needs **Aviation & Rocketry**. Clear the square northeast of the press as wide as the sheet's longest side (3x3 for a 2 by 3 car, 5x5 for a 5 long vehicle, 6x6 for a 6 long plane), connect 20 power and confirm **Build it**. The vehicle is built facing north with empty tanks and a key, and its builders can take it apart like any hand-built vehicle. A workshop holds up to 1000 steel for big designs.
+
+To copy a vehicle you already have, hold a blank sheet of paper, click its axis and choose **Draw its lines**.

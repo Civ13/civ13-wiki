@@ -29,7 +29,7 @@
 <li>Use spare materials to map out your utility pole line.</li>
 <li>Create the telegraph at the other end.</li>
 <li>Build your new building around it.</li>
-<li>Construct the telegraph lines and make sure to place a telegraph printer next to each of the telegraphs. (Make sure to load paper into it.)</li>
+<li>Construct the telegraph lines. For a paper record, place a telegraph printer next to the receiving telegraph and load paper into it.</li>
 </ul>
 
 
@@ -62,9 +62,20 @@ situations. (Use a telescope to see them from afar)
 - **Messengers:** these are men who dedicate their lives to delivering letters
 to people who need them in time usually on horseback.
 
-- **Telegraph:** to use a telegraph it must be within 2 tiles of a
-communications pole, you need a telegraph and a telegraph printer with
-paper in it to actually send messages. Doesn't need power
+- **Telegraph:** place it within two tiles of a utility pole on a connected
+line. Telegraphs do not need power. A receiving telegraph shows a message to
+people nearby; a teleprinter within one tile, loaded with paper with enough
+room, can also record it. A printer is not required to send or receive.
+
+  To acknowledge a clinic shipment, name the receiving telegraph with **Name**
+  and put its name and a request reference of 1–12 letters or digits on the
+  paper notice. Once the goods have been dispatched, stand next to the sending
+  telegraph and choose **Confirm Clinic Shipment**. Enter the receiving
+  station name and reference. The message is sent only if exactly one station
+  with that name is reachable on the connected lines. The sender is told whether
+  it was printed. This confirms dispatch, not delivery; the goods still travel
+  physically. The origin name is a player-set label, not proof of identity.
+  There is no offline queue or cross-region route.
 
 - **Cameras:** a simple form of relaying information through photographs,
 either for keeping memories of the past or for spying on enemy nations
@@ -198,3 +209,40 @@ use electronics or copper wire on it to repair it (crafting 100).
 - **Checking the link:** examine the relay to see its key, its condition and
 whether each other land is linked, has no key set, has no working relay, or
 is down.
+
+## Data cables
+
+In the Modern era you can link **land data terminals** with physical cable and send short text messages between them. Data cable carries no electricity, and it doesn't connect to cable network terminals or landline phones.
+
+- **Craft** land data cable coils from copper and land data terminals from electronics. **Sealed data cable** (copper and one plastic sheet) works in water as well as on land.
+- **Lay** one coil on each tile of the route, including the tiles under both terminals. Ordinary cable only goes on dry floor; use sealed cable across water.
+- **Shape** each segment with a wrench to cycle through a junction, straights and corners. Examine a segment to see its open ports. Neighbouring segments join only where their ports face each other, never diagonally.
+- **Power** each terminal separately with ordinary electrical cable, then switch it on. A terminal's address is its tile's x.y.z, so place one terminal per tile.
+- **Send** a message of up to 200 characters to any powered terminal on the same cable route. It appears to everyone within three tiles of the recipient, so it isn't private. Each terminal can send once every two seconds.
+- **Cut** a segment with wirecutters to recover it. A broken route stops delivery unless another continuous route remains. A network of more than 256 segments doesn't deliver at all.
+
+**Under the sea.** Sealed cable can also be laid on the open seabed, reached by ordinary diving. To join the surface to the seabed, lay a sealed segment on open deep salt water and another directly beneath it on the seabed, then use a screwdriver on both. Examine either one to see whether they're connected. Keep the powered terminals on dry land.
+
+## Clocks and bells
+
+Before radios, people told the time and raised alarms with these. Each can be crafted once its research is done.
+
+| Piece | Recipe | Research | Use |
+| --- | --- | --- | --- |
+| Sundial | 3 stone | Stone Masonry | Click or examine it to read the hour. It only works outdoors in the morning, at midday and in the afternoon, under a clear sky. |
+| Water clock | 4 clay | Pottery & Cookware | Fill it with water, up to 120 units; one drains each minute. While it holds water it reads the time to the half hour, day or night. |
+| Hourglass | 1 glass | Glassworking | Turn it in your hand and it tells you when a minute has passed. |
+| Tower clock | 15 iron | Optics & Instruments | Wind it by hand (5 seconds) for two hours of running. It strikes each hour on a bell within two tiles. |
+| Clock face | 3 wood | Optics & Instruments | Hang it on a wall like a sign. It shows the time to the half hour while a running tower clock is within 7 tiles. |
+| Bell | 8 bronze | Bronze Working | Ring it by hand as an alarm. Everyone within 60 tiles who is more than 7 tiles away hears it and is told which way it lies. |
+
+## Pigeon post
+
+Homing pigeons carry letters without wires or electricity. Build a **pigeon loft** (6 soft wood, **Paper & Printing**) on open, dry ground outdoors. Wild pigeons live on temperate, semiarid and savanna land.
+
+1. Pull a live pigeon next to the loft, right-click the loft and choose **Train Homing Pigeon**. Keep pulling the bird until training finishes.
+2. Take the pigeon anywhere else on the same level of the same land. On **Help** intent, use a sheet of paper on it, or a closed envelope holding exactly one sheet.
+3. Stay with the bird for the short release. The bird and that same letter land together at the foot of its home loft, where anyone can pick the letter up, so seal it in an envelope if it is private.
+4. A pigeon only ever flies home. Carry it back to the sender for the next letter, or swap birds trained at each settlement so both sides can write back. If a loft is destroyed or rebuilt, its birds must be trained again.
+
+Pigeons cannot fly between lands or levels, and a roof over the loft, a blocked landing spot or open water stops the flight. The loft does not store letters or tell anyone a letter has come. Pigeons can be hurt like other animals, so keep yours somewhere safe.

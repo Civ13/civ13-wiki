@@ -1,5 +1,7 @@
 # Nomads Maps
 
+Europe, Jungle, Desert and Asia are also persistent lands, in the same group as [North and South America](The_Americas.md) and [Gaia](Gaia.md). Each keeps its own world and research, and rivers rise and flood on all but the Desert, which has none (see [Rivers & Floods](../guides/Guide_to_Floods.md)), and you reach it by trail (see [The lands](../guides/Guide_to_Travel.md#the-lands)).
+
 ## Temperate
 
 <figure>
@@ -35,7 +37,15 @@ Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/do
   - You may encounter mice, bears, goats, snakes, frogs, leeches,
     horses, camels, and alligators.
   - The round always starts in the Wet Season.
-  - The desert has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [Gaia](Gaia.md#hills).
+  - On the persistent Desert land, roofs carry up to four floors and planes fly on the air level above. The Desert land has no rivers.
+  - The persistent Desert land has a sea coast along its north edge: open sea, a few tiles of shallows and a beach, where ships can land.
+
+<figure>
+<img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/coasts/desert_north_coast.png" width="675" height="675" loading="lazy" alt="Part of the Desert land's north edge: deep blue sea, a pale band of shallows and a sandy beach above dunes, oases and a rocky ridge">
+<figcaption>The Desert land's north coast.</figcaption>
+</figure>
+
+  - The desert has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [North and South America](The_Americas.md#hills).
 
 ## Jungle
 
@@ -48,10 +58,21 @@ Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/do
 
 A dense tropical rainforest. You can only farm on the floodplains and during the dry
 season. Wildlife is deadly here\! Stay away from panthers, mosquitoes
-(as they carry malaria) and ants (will eat your food). Crossing rivers
-without a bridge is considered unsafe - piranhas are abundant.
+(as they carry malaria) and ants (will eat your food). Piranhas live in
+the middle of the wider rivers. If something nips your leg, that is your
+warning: get out of the water, because the bites grow worse the longer you
+stay, and a swarm can strip a foot or leg off someone who lingers in open
+water. Wading near the bank is safer, jumping over a narrow river avoids
+them entirely, and a bridge, boat or raft keeps you out of reach.
 
-The jungle has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [Gaia](Gaia.md#hills).
+On the persistent Jungle land, roofs carry up to four floors and planes fly on the air level above. Its west edge is a sea coast: open sea, a few tiles of shallows and a beach, where ships can land.
+
+<figure>
+<img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/coasts/jungle_west_coast.png" width="900" height="900" loading="lazy" alt="Part of the Jungle land's west edge: a strip of deep sea, shallows and beach beside jungle, rivers, lakes and rocky hills">
+<figcaption>The Jungle land's west coast.</figcaption>
+</figure>
+
+The jungle has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [North and South America](The_Americas.md#hills).
 
 ## Divide (Jungle-Desert)
 
@@ -138,6 +159,8 @@ A small island for 10-15 players, divided by a lava region, jungle/part swamp, a
 
 ## Europe
 
+The persistent land of Europe in the regions of the world has its own page: see [Europe](../regions/Europe.md). This section describes the Nomads map.
+
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/static-067478b82c7a/nomads__nomads_europe/nomads_europe__all_z_overview.png" width="433" height="592" loading="lazy" alt="Static sprite render of nomads_europe.dmm showing all authored layers: z=1">
 <figcaption>Static map layout of <code>nomads_europe.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
@@ -151,13 +174,17 @@ There is even a temperate biome based off of central europe (France/Germany/nort
 
 Large rivers cover the continent and 7x7 water ways for bridges(tanks and cars) exist on the large rivers.
 
-Europe has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [Gaia](Gaia.md#hills).
+Europe has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [North and South America](The_Americas.md#hills).
 
-Europe starts with only the surface. The first time someone uses a shovel to dig a tunnel down, a cave level forms underneath the whole continent, with rock to mine, open pockets and veins of hard rock. Later tunnels lead into the same caves, and a tunnel dug up from the caves comes out on the surface.
+Europe is a persistent land. Roofs carry up to four floors and planes fly on the air level above.
+
+Under Europe lies solid rock. Use a shovel to dig a tunnel down and the rock opens up as you dig, with open pockets and veins of hard rock; a tunnel dug up from below comes out on the surface (see [Digging down](../guides/Guide_to_Resource_Extraction.md#digging-down)).
 
 Section of Nomads_World project (1/4)
 
 ## Africa
+
+The persistent land of Africa in the regions of the world has its own page: see [Africa](../regions/Africa.md). This section describes the Nomads map.
 
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/static-58404f5bd16e/nomads__nomads_africa/nomads_africa__all_z_overview.png" width="960" height="591" loading="lazy" alt="Static sprite render of nomads_africa.dmm showing all authored layers: z=1, 2">
@@ -171,6 +198,8 @@ Based off of all of Africa: Desert, Savannah, Jungle, Savannah.
 Section of Nomads_World project (2/4)
 
 ## North America
+
+The persistent land of North America in the regions of the world has its own page: see [North America](The_Americas.md). This section describes the Nomads map.
 
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/static-067478b82c7a/nomads__nomads_north_america/nomads_north_america__all_z_overview.png" width="960" height="413" loading="lazy" alt="Static sprite render of nomads_north_america.dmm showing all authored layers: z=1, 2">
@@ -187,6 +216,8 @@ Section of Nomads_World project (3/4).
 
 ## Asia
 
+The persistent land of Asia in the regions of the world has its own page: see [Asia](../regions/Asia.md). This section describes the Nomads map.
+
 <figure>
 <img class="pixelated" style="image-rendering: pixelated; height: auto" src="../images/maps/static-58404f5bd16e/nomads__nomads_asia/nomads_asia__all_z_overview.png" width="960" height="592" loading="lazy" alt="Static sprite render of nomads_asia.dmm showing all authored layers: z=1">
 <figcaption>Static map layout of <code>nomads_asia.dmm</code>. Runtime lighting, generated objects and later sprite changes are not shown.<br>
@@ -194,7 +225,9 @@ Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/do
 </figcaption>
 </figure>
 
-Asia has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [Gaia](Gaia.md#hills).
+Asia is a persistent land. Roofs carry up to four floors, planes fly on the air level above, and mined-out mountain floor keeps giving stone and regrowing ore seams, as on [North and South America](The_Americas.md). Crops, mushrooms and wild seeds follow climate and season, as on Gaia and Europe. Like Europe, Asia starts with only the surface: the first time someone uses a shovel to dig a tunnel down, a cave level forms underneath the whole land, and later tunnels lead into the same caves.
+
+Asia has hills: slopes are shaded, climbing is slower and descending quicker, and built floors level the ground. They work as on [North and South America](The_Americas.md#hills).
 
 ## Karafuto
 
@@ -209,6 +242,7 @@ Full-resolution layers: <a href="https://github.com/civ13/civ13-wiki/releases/do
 
 These variants have individual map pages. They are outside the standard Nomads map-vote list; each page identifies its authored status separately from current hosting.
 
+- [North and South America](The_Americas.md)
 - [Gaia](Gaia.md)
 - [Oil Rush (Extended)](Oil_Rush.md)
 - [Frozen Wasteland](Frozen_Wasteland.md) - archived authored variant.

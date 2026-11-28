@@ -47,10 +47,10 @@ Decay (minutes)
 </tr>
 <tr>
 <td>
-<img src="images/food/coffee.png">
+<img src="images/food/green_coffee.png">
 </td>
-<td><b>Green coffee</b> <small>(contains 15 coffee) - <i>food (satisfaction +8)</i> - <b>jungle • savanna • desert • semi-arid</b> - will grow at all seasons</small><br>
-• put in liquid container to make 15 coffee<br>
+<td><b>Green coffee</b> <small>- <i>food</i> - <b>jungle • savanna • semi-arid</b> - will grow at all seasons</small><br>
+• roast in a fire into roasted coffee beans, grind them in a mortar into 3 coffee grounds, then brew the grounds in boiling water (1 grounds + 4 water = 5 coffee)<br>
 <small><details><summary>show/hide coffee reactions</summary>
 &nbsp; &nbsp; • 2 coffee and 1 ice will react to 3 iced coffee<br>
 &nbsp; &nbsp; • 1 irish cream and 1 coffee will react to 2 irish coffee<br>
@@ -73,7 +73,6 @@ Decay (minutes)
 &nbsp; &nbsp; • 1 phosphorus, 1 sugar and 1 saltpeter &#91;potassium&#93; will react to 0.4 chemsmoke; that reaction will take all reagents from holder and they will used in created smoke<br>
 &nbsp; &nbsp; • <i>it's not a joke, but 1 sugar, 1 carbon and 1 acetone will react to 3 &#8243;&#8243; reagent (annihilated)!</i><br>
 &nbsp; &nbsp; • <i>2 sugar, 3 egg yolk and 10 flour must react to sweet dough, but will annihilated; also egg yolk is unobtainable now</i><br>
-&nbsp; &nbsp; • <i>1 sugar and 1 water will not react to 2 mead (with 5 enzyme as catalyst), because inherited with another &#8243;mead&#8243; reaction from honey, that is unobtainable now</i><br>
 &nbsp; &nbsp; • <i>1 lemon juice, 1 sugar and 1 water will react to 3 lemonade, but lemon juice is unobtainable now</i>
 </details></small>
 </td>
@@ -373,7 +372,7 @@ Decay (minutes)
 </tr>
 <tr>
 <td><img src="images/stacks/poppy.png"></td>
-<td><b>Poppy</b> <small>(not a reagent container) - <i>stackable material</i> - <b>jungle • savanna • desert</b> - will grow at all seasons</small><br>
+<td><b>Poppy</b> <small>(not a reagent container) - <i>stackable material</i> - <b>temperate • sea • semi-arid • desert • savanna</b> - will grow at all seasons</small><br>
 • craft an opium ball out of 3, that will contain 5 opium<br>
 &nbsp; &nbsp; • put opium ball in pipe to smoke or eat as is (5 opium)<br>
 <small><details><summary>show/hide opium reactions</summary>
@@ -384,7 +383,7 @@ Decay (minutes)
 </tr>
 <tr>
 <td><img src="images/stacks/tobacco_green.png"></td>
-<td><b>Tobacco fresh leaves</b> <small>(not a reagent container) - <i>stackable material</i> - <b>desert • jungle • savanna • semi-arid</b> - will grow at all seasons</small><br>
+<td><b>Tobacco fresh leaves</b> <small>(not a reagent container) - <i>stackable material</i> - <b>temperate • sea • semi-arid • savanna • jungle</b> - will grow at all seasons</small><br>
 • hang it on a dehydrator to dry it to dried tobacco leaves<br>
 • offer it to religious totem for 12 power each
 </td>
@@ -414,7 +413,7 @@ Decay (minutes)
 </tr>
 <tr>
 <td><img src="images/stacks/hemp.png"></td>
-<td><b>Hemp</b> <small>(not a reagent container) - <i>stackable material</i> - <b>jungle • savanna • sea • semi-arid • desert</b> - not grow at winter</small><br>
+<td><b>Hemp</b> <small>(not a reagent container) - <i>stackable material</i> - <b>temperate • taiga • sea • semi-arid • savanna</b> - not grow at winter</small><br>
 • craft a rope out of 1<br>
 • craft a joint out of 2, that will contain 30 THC<br>
 • put 2 to a retting trough to soak it to 1 retted fabric
@@ -707,8 +706,7 @@ To maximize the amount of fuel in a bloomery, furnace (not iron furnace), or ove
 but there are no standard ways to extract nutriment from food</i><br>
 &nbsp; &nbsp; • <i>10 berry juice will react to 10 grenadine (with 5 enzyme as catalyst), but berry juice is unobtainable now</i><br>
 &nbsp; &nbsp; • <i>10 watermelon juice will react to 5 watermelon liquor (with 5 enzyme as catalyst), but watermelon juice is unobtainable now</i><br>
-&nbsp; &nbsp; • <i>1 sugar and 1 water will not react to 2 mead (with 5 enzyme as catalyst), because inherited with another &#8243;mead&#8243; reaction from honey</i><br>
-&nbsp; &nbsp; &nbsp; &nbsp; *<i>&#8243;mead&#8243; reaction needs 2 honey and 2 water without any enzymes, they will react to 2 mead</i>
+&nbsp; &nbsp; • <i>1 honey and 1 water make 2 mead must, which ferments into mead in a closed wooden barrel (faster with yeast)</i>
 </details></small>
 </td>
 <td>30</td>
